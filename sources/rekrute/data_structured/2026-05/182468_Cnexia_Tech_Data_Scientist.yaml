@@ -1,0 +1,56 @@
+company:
+  name: Cnexia Tech
+  stage: null
+  focus: null
+position:
+  title: Data Scientist
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities:
+  - Data mining + extraction
+  - ML classifiers feature selection + optimization
+  - Data cleansing + validation
+  - Pattern analysis sur grands volumes
+  - Time series forecasting
+  - Prediction systems
+  - Stakeholder partnerships
+  - Business flow anomaly investigations
+  - Présentations technique + non-technique
+  use_cases:
+  - Forecasting
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    - ml
+    - pytorch
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - numpy
+    - pandas
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains:
+    - forecasting
+    - time series
+    - Time Series Forecasting
+    other:
+    - agile
+    - Data mining
+    - Excel
+    - Excel avancé
+    - SAS
+    - SAS Enterprise Guide
+    - scipy
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '182468'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

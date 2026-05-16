@@ -1,0 +1,130 @@
+{
+  "job_id": "intl-ai-corpus-0941",
+  "source": "intl-ai-corpus",
+  "source_ref": "7738766",
+  "source_url": "https://builtin.com/job/ai-engineer/7738766",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Bobsled",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "43 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered analytics, text-to-SQL, data agents",
+  "industries": [
+    "Cloud",
+    "Software"
+  ],
+  "description": "About Bobsled\n\nBobsled is building AI-powered analytics experiences that\nturn natural language into accurate, production-grade\ninsights. Our mission is to enable enterprise customers to\nleverage the full power of AI and data agents, transforming\nhow they access and act on their data. As we scale our AI\nproduct, we’re seeking hands-on specialists to ensure our\ncustomers’ deployments are robust, contextually tuned, and\ndelivering measurable value.\n\nWhat You’ll Do\n\n- Own the text-to-SQL accuracy problem end-to-end: design\n  evals, iterate prompts, and improve retrieval/routing\n- Build and operate the experimentation and evaluation loop\n  (automatic evals, regression suites, dataset curation)\n- Design pragmatic LLM application architectures (RAG, agent\n  routing, tool-use orchestration) optimized for accuracy\n  and latency\n- Ship production-grade code and support deployments;\n  instrument, monitor, and troubleshoot model behavior in\n  real customer environments\n- Partner closely with engineering and customers to improve\n  semantic models, SQL generation, and data alignment\n- Create feedback loops from users to systematically capture\n  issues and convert them into measurable improvements\n- Contribute to automation of environment provisioning and dev\n  workflows to enable fast iteration\n\nWhat We’re Looking For\n\n- 2+ years in ML/AI or data-focused engineering or data\n  science roles building production systems data or AI\n  systems\n- Demonstrated experience tuning LLM applications: prompt\n  engineering, evals, retrieval, agent design, or similar\n- Strong hands-on coding in Python or TypeScript (TypeScript\n  familiarity a plus; willingness to work across the stack\n  required)\n- ML engineering mindset beyond notebooks: testing, CI,\n  observability, performance, and deployment in production\n- Comfort with SQL and complex data modeling; familiarity with\n  data warehouses and pipelines\n- Pragmatic, product-oriented approach—optimize for impact\n  over novelty; complement existing systems rather than\n  rebuild from scratch\n- Ability to design experiments, quantify improvements, and\n  communicate trade-offs clearly\n\nNice to Have\n\n- Experience with text-to-SQL systems, semantic layers, or\n  BI/analytics workflows\n- Exposure to RAG frameworks, knowledge graphs, vector stores,\n  and evaluation tooling\n- Prior work in analytics engineering or data engineering\n  environments\n\nSuccess Looks Like\n\n- Measurable improvements in text-to-SQL accuracy across\n  target datasets and partners\n- Reliable eval pipeline and regression suite running in CI to\n  catch degradations\n- Clear architecture and documentation for context/agent\n  systems that others can contribute to\n- Short feedback cycles with partners leading to fast,\n  meaningful product wins\n\nCompensation\n\n- Competitive salary and meaningful equity\n- Comprehensive benefits\n\n#LI-REMOTE\n\n-Remote\n",
+  "skills_required": [
+    "LLM application architecture",
+    "RAG",
+    "agents",
+    "prompt engineering",
+    "retrieval",
+    "text-to-SQL",
+    "tool orchestration"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own the text-to-SQL accuracy problem end-to-end including evals, prompt iteration, and retrieval/routing improvements",
+    "Build and operate experimentation and evaluation loops with automatic evals, regression suites, and dataset curation",
+    "Design pragmatic LLM application architectures using RAG, agent routing, and tool-use orchestration optimized for accuracy and latency",
+    "Ship production-grade code, support deployments, and monitor/troubleshoot model behavior in real customer environments",
+    "Partner with engineering and customers to improve semantic models, SQL generation, and data alignment",
+    "Create user feedback loops to systematically capture issues and convert them into measurable improvements",
+    "Contribute to automation of environment provisioning and development workflows for fast iteration"
+  ],
+  "use_cases": [
+    "Natural language to SQL translation for data analytics",
+    "Enterprise data insights generation using AI-powered queries",
+    "Production-grade text-to-SQL systems for business intelligence",
+    "Contextually tuned AI deployments for customer data environments",
+    "Automated evaluation and regression testing for data agents"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "data modeling",
+    "data pipelines",
+    "data warehouses",
+    "evaluation tooling",
+    "knowledge graphs",
+    "model monitoring",
+    "vector stores"
+  ],
+  "frameworks_mentioned": [
+    "LLM application architecture",
+    "RAG",
+    "agents",
+    "prompt engineering",
+    "retrieval",
+    "text-to-SQL",
+    "tool orchestration"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building LLM applications,\ndesigning RAG architectures, prompt engineering, and fine-\ntuning AI systems for text-to-SQL accuracy. The engineer\ndirectly deploys and troubleshoots models in production\ncustomer environments, rather than supporting other AI\nengineers.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "RAG",
+      "agents",
+      "LLM application architecture",
+      "text-to-SQL",
+      "retrieval",
+      "tool orchestration"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "data modeling",
+      "vector stores",
+      "knowledge graphs",
+      "data warehouses"
+    ],
+    "data": [
+      "data pipelines"
+    ],
+    "cloud": [],
+    "ops": [
+      "evaluation tooling",
+      "model monitoring",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

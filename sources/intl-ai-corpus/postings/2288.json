@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-2288",
+  "source": "intl-ai-corpus",
+  "source_ref": "8843543",
+  "source_url": "https://www.builtinla.com/job/senior-ai-platform-engineer-supernal/8843543",
+  "title": "Senior AI Platform Engineer - Supernal",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Infinity Constellation",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-23",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Unknown",
+  "company_focus": "Building AI employees/teammates for SMBs using agentic\nworkflows",
+  "industries": [
+    "Artificial Intelligence",
+    "Financial Services"
+  ],
+  "description": "Location: Remote (Global)\n\nReports to: Director of Engineering\n\nCompany: Supernal\n\nType: EOR FTE or Contractor\n\nProvide your own computer with reliable, high-speed\ninternet.\n\nBe willing to work in Americas time zones.\n\nRate: $40 - $50/hr\n\nAbout Supernal\n\nAt Supernal, we help SMBs hire their first AI employee. Our\nAI teammates are built with intelligent, agentic workflows\nand deployed on our proprietary platform. We don't build\ntools — we deliver working, value-generating AI Employees.\n\nOur AI Platform Engineers, known internally as Masons, are\nthe builders behind these systems. Now, we're looking for a\nSenior Mason to help lead this craft.\n\nThe Role\n\nAs a Senior AI Platform Engineer, you'll be on the\nfrontlines of our most critical customer implementations,\nwith a strong focus on conversational AI agents deployed in\nreal business environments.\n\nYou'll design, build, and deliver agentic systems that\nhandle live users, multi-turn conversations, real-time\nconstraints, and complex integrations. These are not demos\nor experiments — they are production systems that customers\nrely on.\n\nBeyond hands-on engineering, you will act as a technical\nowner for client delivery. You'll translate customer\nrequirements and SOWs into working systems, own delivery\ntimelines, manage technical tradeoffs, and ensure successful\noutcomes in production.\n\nThis is a hands-on role. You're not just reviewing PRs or\nsitting in meetings — you're in the weeds, building systems,\ndebugging failures, and showing others how it's done.\n\nResponsibilities\n\n- Build advanced AI agent workflows on n8n and Supernal's\n  proprietary platform\n- Design, implement, and deploy conversational agents,\n  including multi-turn flows, state management, and tool\n  usage\n- Own end-to-end technical delivery for high-priority customer\n  implementations, from architecture through production\n  launch\n- Translate customer requirements and SOWs into clear\n  technical designs, execution plans, and deliverables\n- Make and own architectural decisions across LLM\n  orchestration, RAG design, API integrations, and workflow\n  decomposition\n- Handle real-world voice system challenges including latency,\n  interruptions, fallbacks, error handling, and failure\n  recovery\n- Write automated tests — unit tests for isolated logic and\n  end-to-end tests for full workflow and user journey\n  validation\n- Apply solid error handling: distinguish retryable vs. fatal\n  failures, surface meaningful error messages, and avoid\n  silent failures\n- Actively debug complex production issues across agent logic,\n  prompts, integrations, and external dependencies\n- Partner with delivery and product leadership to manage\n  timelines, scope, and technical tradeoffs during\n  implementation\n- Review technical work for quality, scalability, and\n  maintainability, setting a high bar for engineering\n  excellence\n- Define, document, and evolve best practices for building and\n  delivering reliable AI Employees\n\nYou Might Be a Fit If You...\n\n- Have 4+ years of experience as a software engineer,\n  automation engineer, or systems builder shipping\n  production systems\n- Have hands-on experience deploying voice agents using\n  leading platforms (e.g., ElevenLabs, Retell, Nextiva),\n  including telephony and streaming audio integration\n  patterns\n- Understand multi-turn conversation design: state management,\n  context windows, interruption handling, and graceful\n  recovery\n- Have tackled real-time constraints in production: latency\n  budgets, streaming audio, fallback paths, and API chaos\n- Write automated tests as a matter of course — unit tests,\n  integration tests, and end-to-end workflow validation —\n  and treat testing as part of shipping, not an afterthought\n- Apply solid engineering fundamentals: error handling, retry\n  strategies, separation of concerns, and clean interfaces\n  between components\n- Are comfortable owning delivery outcomes end-to-end — not\n  just writing code — including timelines, reliability, and\n  client success\n- Have deep experience with agentic architectures, workflow\n  automation platforms (n8n, Zapier, Make), and APIs\n- Understand LLM orchestration, prompt engineering, function\n  calling, and retrieval-augmented generation (RAG)\n- Can prototype fast and finish the job to production quality\n  — with tests, error handling, monitoring, and runbooks\n- Are an elite debugger who can reason through edge cases,\n  flaky agents, and real-world API failures\n- Communicate clearly and fluently in English — both in\n  writing and verbally — especially when articulating\n  technical decisions, tradeoffs, and implementation choices\n  to technical and non-technical stakeholders alike\n- Can run meetings, drive decisions, write crisp updates, and\n  ask the right questions early — without needing heavy\n  process\n- Thrive in fast-paced, ambiguous startup environments and\n  take ownership without being asked\n- Bring a low-ego, high-integrity approach to collaboration\n  and leadership\n\nWhat Success Looks Like\n\n- Voice-first AI Employees are delivered on time, meet\n  customer requirements, and perform reliably in production\n- Client implementations are predictable, well-architected,\n  and resilient under real-world conditions\n- Complex conversational and voice workflows behave\n  consistently and recover gracefully from failure\n- Code is well-tested, well-documented, and maintainable — not\n  just functional\n- Technical decisions are communicated clearly and proactively\n  to stakeholders, with tradeoffs explained and risks\n  surfaced early\n- Engineering best practices reflect real production learnings\n  and are widely adopted across the Mason team\n- Delivery artifacts — runbooks, SOPs, reusable components —\n  raise the bar for the whole team\n",
+  "skills_required": [
+    "Agentic architectures",
+    "ElevenLabs",
+    "Function calling",
+    "LLM orchestration",
+    "LangChain",
+    "Make",
+    "Prompt engineering",
+    "RAG",
+    "Retell",
+    "Zapier",
+    "n8n"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build advanced AI agent workflows on n8n and Supernal's proprietary platform",
+    "Design, implement, and deploy conversational agents with multi-turn flows, state management, and tool usage",
+    "Own end-to-end technical delivery for high-priority customer implementations from architecture through production",
+    "Make architectural decisions across LLM orchestration, RAG design, API integrations, and workflow decomposition",
+    "Handle real-world voice system challenges including latency, interruptions, fallbacks, and error handling",
+    "Write automated tests including unit tests and end-to-end tests for workflow validation",
+    "Debug complex production issues across agent logic, prompts, integrations, and external dependencies",
+    "Define and evolve best practices for building and delivering reliable AI Employees"
+  ],
+  "use_cases": [
+    "Conversational AI agents for SMB business operations",
+    "Voice-first AI employees handling live users and multi-turn conversations",
+    "Production AI systems with real-time constraints and complex integrations",
+    "AI teammates deployed to handle actual business workflows and value-generating tasks"
+  ],
+  "tools_mentioned": [
+    "API integrations",
+    "Automated testing",
+    "End-to-end testing",
+    "Error handling",
+    "REST APIs",
+    "Unit testing"
+  ],
+  "frameworks_mentioned": [
+    "Agentic architectures",
+    "ElevenLabs",
+    "Function calling",
+    "LLM orchestration",
+    "LangChain",
+    "Make",
+    "Prompt engineering",
+    "RAG",
+    "Retell",
+    "Zapier",
+    "n8n"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, designing, and\ndeploying AI agent systems including conversational agents,\nRAG implementations, and LLM orchestration. The engineer is\nhands-on with agentic architectures, multi-turn conversation\ndesign, and production AI systems, not just supporting\ninfrastructure for AI work.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "n8n",
+      "LangChain",
+      "RAG",
+      "LLM orchestration",
+      "Prompt engineering",
+      "Function calling",
+      "Agentic architectures",
+      "ElevenLabs",
+      "Retell",
+      "Zapier",
+      "Make"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "API integrations"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Automated testing",
+      "Unit testing",
+      "End-to-end testing",
+      "Error handling"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,148 @@
+{
+  "job_id": "intl-ai-corpus-2358",
+  "source": "intl-ai-corpus",
+  "source_ref": "8860346",
+  "source_url": "https://builtin.com/job/principal-ai-systems-engineer/8860346",
+  "title": "Principal AI Systems Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Atari",
+  "company_type": "entité morale privée",
+  "location": "Poundiuproda, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "815 Employees",
+  "company_stage": "Public",
+  "company_focus": "Iconic video game company developing games, hardware, and\ninteractive experiences",
+  "industries": [
+    "Gaming",
+    "Software"
+  ],
+  "description": "About Us: Founded in 1972, Atari is one of the world’s most\niconic consumer brands and a pioneer in the video game\nindustry, known for creating classics like Pong, Asteroids,\nand Centipede. Today, Atari Inc. continues to build on its\nlegacy by developing games, hardware, and experiences that\nhonor the past while driving innovation for the future.\n\nOver the past two years, we've been building Atari India, a\ngrowing team that plays a critical role in supporting our\nglobal operations. We're proud of the team we've assembled\nso far, and we’re just getting started. As part of a lean,\nhigh-impact organization, the team in India works closely\nwith colleagues in North America and Europe on projects that\nmove the company forward. Whether you're helping launch a\nnew game, keeping our infrastructure secure, or supporting\nday-to-day operations, your work here matters. Join us as we\ncontinue to grow Atari India and build the future of a\nlegendary brand.\n\nPosition: Principal AI Systems Engineer  Experience: 8+\nYears Location: Netaji Subhash Place, Pitampura, New Delhi\nEmployment Type: Full-Time (Hybrid) Reports to: Senior\nDirector of Technology, India\n\nAbout the Role\n\nArchitect, build, and own AI systems that automate expert-\nintensive technical workflows end-to end — from CLI\nframeworks, MCP servers, and agent tooling through to\nproduction deployment, business outcome tracking, and\ncontinuous improvement. You solve real business problems\nwith AI, ensure solutions are fully implemented and adopted,\nand measure whether they are actually working.\n\nResponsibilities\n\nSystem Architecture\n\n- Own end-to-end architecture of AI automation systems:\n  workflow decomposition, component communication, human\n  checkpoints, and failure behaviour\n- Design and build internal CLI frameworks, reusable\n  libraries, and agent scaffolding\n- Author and maintain agent instruction files (SKILL.md,\n  CLAUDE.md, system prompts) and MCP server definitions\n- Configure Claude Code and Codex CLI environments: MCP\n  wiring, tool permissions, slash commands, and engineering\n  standards\n- Evaluate and document architectural trade-offs across\n  reliability, latency, cost, and maintainability\n\nPipeline Development\n\n- Build production-grade AI pipelines in Python:\n  orchestration, structured prompting, context assembly,\n  schema validation, and retry strategies\n- Integrate AI systems with external tooling — version\n  control, build pipelines, SDKs, compliance databases,\n  internal APIs\n- Design context assembly: how domain knowledge, runtime\n  state, retrieved documents, and tool outputs compose into\n  the precise input each pipeline stage needs\n- Build and operate multi-agent systems: orchestrator-worker\n  patterns, agent memory, structured handoffs, and conflict\n  resolution\n\nPrompt & Context Engineering\n\n- Design, version, and maintain system prompts and agent\n  instructions as first-class engineering artefacts\n- Own output schema design and prompt regression testing with\n  a maintained ground-truth eval set\n- Engineer context windows with precision — balancing\n  accuracy, token cost, and latency through compression and\n  selective retrieval\n- Partner with the RAG Engineer to define retrieval\n  requirements — what knowledge is needed, under what\n  conditions, and at what granularity\n- Build and maintain structured runtime knowledge assets:\n  curated document corpora, rule sets, decision trees, and\n  validation reference libraries\n- Work with domain experts to translate specialist knowledge\n  into agent behaviour: decision logic, edge cases, and\n  failure modes\n\nEvaluation & Reliability\n\n- Build and own the evaluation framework: test suites,\n  regression benchmarks, LLM-as-judge pipelines, and per-\n  stage quality metrics\n- Implement production monitoring using LangFuse, Arize, or\n  equivalent — latency, token usage, success rates, and\n  output quality drift\n- Run structured failure analysis and implement targeted fixes\n  across context assembly, orchestration, and tool\n  integration\n- Define automation rate as a first-class metric and report on\n  business effectiveness of deployed systems\n\nGovernance & Technical Leadership\n\n- Implement full audit trails — inputs, tools called, outputs,\n  and human review triggers\n- Enforce versioning of all agent instructions and system\n  prompts as engineered artefacts with controlled rollout\n- Set the technical standard for AI development across the\n  organization — architecture patterns, eval practices, and\n  quality gates\n- Collaborate with engineering, product, and domain teams;\n  engage leadership on roadmap priorities and technical risk\n\nRequirements\n\n- Proven track record of building production AI automation\n  systems from scratch — end-to-end from architecture\n  through deployment\n- Hands-on expertise with Claude Code, Codex CLI, Cursor, or\n  equivalent — including MCP server configuration and agent\n  instruction authoring\n- Experience designing and deploying MCP servers and custom\n  tools: tool schema, authentication, and permission\n  boundaries\n- Experience building internal CLI frameworks, agent\n  scaffolding, and reusable libraries that others build on\n- Experience creating internal tooling and automation that\n  measurably improved engineering team efficiency — reducing\n  manual processes and accelerating workflows\n- Experience working with data scientists and domain experts\n  to implement AI solutions that measurably improved team\n  productivity\n- Deep prompt and context engineering: system prompts, few-\n  shot design, chain-of-thought, token budget management,\n  and prompt versioning\n- Proficiency with LLM orchestration frameworks — LangChain,\n  LangGraph, LlamaIndex, AutoGen, or equivalent\n- Experience building AI evaluation frameworks: test suites,\n  regression benchmarks, LLM-as-judge, and production\n  quality monitoring\n- Production Python engineering: modular, testable, well-\n  logged code with proper error handling\n- Cloud platform experience (AWS, Azure, or GCP): deploying\n  and monitoring AI workloads with containerisation\n- Experience integrating AI systems with external APIs — tool\n  definition, permission management, and failure handling\n- Experience defining and tracking AI productivity metrics:\n  automation rate, time-to-completion, and human\n  intervention rate\n\nBonus Points\n\n- Experience in gaming: game development pipelines,\n  Unity/Unreal engine architectures, or platform\n  certification processes\n- Familiarity with game engine scripting, asset pipelines, or\n  platform SDKs (Xbox GDK, PlayStation SDK, or similar)\n\nShift Timings: 9AM TO 6PM IST\n",
+  "skills_required": [
+    "AutoGen",
+    "Claude Code",
+    "Codex CLI",
+    "Cursor",
+    "LLM-as-judge",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP (Model Context Protocol)",
+    "Multi-agent Systems",
+    "Prompt Engineering",
+    "RAG (Retrieval Augmented Generation)",
+    "Unity",
+    "Unreal Engine"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and own end-to-end AI automation systems including workflow decomposition, component communication, and failure handling",
+    "Design and build CLI frameworks, reusable libraries, agent scaffolding, and MCP server definitions",
+    "Build production-grade AI pipelines in Python with orchestration, structured prompting, and retry strategies",
+    "Design, version, and maintain system prompts and agent instructions as engineering artefacts",
+    "Build and operate multi-agent systems with orchestrator-worker patterns and structured handoffs",
+    "Build and own evaluation frameworks including test suites, regression benchmarks, and LLM-as-judge pipelines",
+    "Implement production monitoring using LangFuse or Arize for latency, token usage, and quality drift",
+    "Implement governance including audit trails, versioning of agent instructions, and technical standards"
+  ],
+  "use_cases": [
+    "Automating expert-intensive technical workflows end-to-end at a gaming company",
+    "CLI frameworks and agent tooling for internal engineering productivity",
+    "Multi-agent systems for complex task orchestration",
+    "Context assembly and retrieval for domain-specific AI applications",
+    "Engineering team efficiency improvement through AI-powered automation"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Arize",
+    "Azure",
+    "Docker",
+    "GCP",
+    "LangFuse",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "Claude Code",
+    "Codex CLI",
+    "Cursor",
+    "LLM-as-judge",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP (Model Context Protocol)",
+    "Multi-agent Systems",
+    "Prompt Engineering",
+    "RAG (Retrieval Augmented Generation)"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building AI automation systems end-to-\nend, including agent scaffolding, MCP servers, multi-agent\norchestration, prompt engineering, and production deployment\nof LLM-based pipelines. The position directly implements,\ndeploys, and optimizes AI systems rather than supporting\nothers who work on AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude Code",
+      "Codex CLI",
+      "Cursor",
+      "MCP (Model Context Protocol)",
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "AutoGen",
+      "Prompt Engineering",
+      "RAG (Retrieval Augmented Generation)",
+      "Multi-agent Systems",
+      "LLM-as-judge"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "LangFuse",
+      "Arize",
+      "Docker"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Game Development"
+    ],
+    "other": [
+      "Unity",
+      "Unreal Engine"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

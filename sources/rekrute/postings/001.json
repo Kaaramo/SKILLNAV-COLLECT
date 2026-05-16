@@ -1,0 +1,65 @@
+{
+  "job_id": "rekrute-2026-001",
+  "source": "rekrute",
+  "source_url": "https://www.rekrute.com/offre-emploi-data-scientist-recrutement-cnexia-tech-rabat-182774.html",
+  "source_ref": "182774",
+  "title": "Data Scientist",
+  "title_normalized": "DATA_SCIENTIST",
+  "company": "Cnexia Tech",
+  "company_type": "entité morale privée",
+  "company_description": "Subsidiary marocain du plus grand opérateur Telecom canadien — 1100+ employés (Fès + Rabat Technopolis)",
+  "location": "Rabat",
+  "country": "MA",
+  "remote_policy": "remote",
+  "posted_date": "2026-05-14",
+  "deadline_date": "2026-07-13",
+  "contract_type": "CDI",
+  "experience_min_years": 5,
+  "experience_max_years": 10,
+  "salary_range": null,
+  "description": "Design and train predictive models including deep learning. Engineer features and build robust automated data pipelines. Analyze model performance, fine-tune to maximize business metrics. Build and deploy scalable low-latency production-grade applications in cloud. Production-first mindset, A/B testing, mentor team.",
+  "skills_required": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "scikit-learn",
+    "PyTorch",
+    "Cloud production",
+    "A/B testing",
+    "Production deployment"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and train predictive/DL models",
+    "Feature engineering + data pipelines",
+    "Model performance + fine-tuning",
+    "Production deployment + monitoring",
+    "Technical mentorship",
+    "Model architecture documentation"
+  ],
+  "tools_mentioned": [
+    "scikit-learn"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "ML_CLASSIC",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "DATA_SCIENTIST",
+  "education_required": "Bac+5 — engineering, CS, physics, mathematics",
+  "languages_spoken": [
+    "English (excellent)"
+  ],
+  "scraped_at": "2026-05-14T20:40:00Z",
+  "scraper": "skillnav-playwright-mcp-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.95
+}

@@ -1,0 +1,99 @@
+{
+  "job_id": "intl-ai-corpus-2543",
+  "source": "intl-ai-corpus",
+  "source_ref": "8833199",
+  "source_url": "https://builtin.com/job/applied-ai-engineer/8833199",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Luminai",
+  "company_type": "entité morale privée",
+  "location": "India",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "20 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI automation platform for healthcare operations workflows",
+  "industries": [],
+  "description": "About Luminai\n\nHealthcare operations have always depended on people to\nbridge the gaps that technology couldn't. It relies on\ncomplex manual work to carry out critical internal\nprocesses, yet most health systems don’t have enough\nresources to properly automate these tasks, leaving them\nstuck in outdated, labor-intensive SOPs. Luminai structures\nthe chaos, automates the manual handoffs, and deploys end-\nto-end workflows across every system, providing the\nintegrated intelligence layer to improve processes over\ntime. By delegating to autonomous AI systems those mission-\ncritical workflows that previously expended valuable human\ntime, Luminai allows doctors and administrators to do what\nthey do best: Focus on Patients. We've raised $60M in\nfunding, including our recent Series B led by Peak XV\nPartners (formerly Sequoia India), with participation from\nhealthcare-focused Define Ventures and continued support\nfrom General Catalyst and Y Combinator. We're backed by some\nof the best investors in Silicon Valley, including Kevin\nWeil (Chief Product Officer at OpenAI), Arash Ferdowsi (co-\nfounder of Dropbox), Katie Stanton (former VP Global Media,\nTwitter), and CEOs of companies such as Flexport, Notion,\nFront, Ramp, and Twitch.\n\nAbout the role\n\nAs a Software Engineer working on AI systems, you will play\na foundational role in research, experimentation and rapid\nimprovement of AI systems towards building a capable,\nreliable AI automation platform. The platform is used by\norganizations worldwide to deploy and scale executable AI\nautomations in mission critical production environments. You\nare expected to have a strong proficiency in fundamentals of\nsoftware engineering, a willingness to pick new concepts as\nneeded and an ability to drive technical projects in\nambitious environments.\n\nWhat You'll Do\n\n- Design experiments and test ideas to optimize key internal\n  AI benchmarks\n- Design and improve evaluation frameworks to accelerate the\n  speed and direction of experimentation\n- Train, fine-tune, and optimize machine learning models.\n  Perform rigorous evaluation and testing to ensure model\n  accuracy, generalization, and performance.\n- Collaborate and contribute on the core product development\n  to deliver higher platform capabilities\n- Set up observability and monitoring systems to safety check\n  model behavior in critical settings\n\nWhat We're Looking For\n\n- Proven track record of shipping high-quality code in\n  challenging projects\n- Bachelor's or Master's degree in Computer Science, Machine\n  Learning, or a related field\n- Solid fundamentals in algorithms, data structures, system\n  design\n- Attention to detail and a first-principles thinking towards\n  real world deployment of intelligent systems.\n- Experience shipping ML models to production\n\nBonus\n\n- Previous experience working with distributed computing\n  systems in production\n",
+  "skills_required": [
+    "Algorithms and data structures",
+    "ML model training and fine-tuning",
+    "Model evaluation and testing",
+    "System design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design experiments and test ideas to optimize key internal AI benchmarks",
+    "Design and improve evaluation frameworks to accelerate experimentation speed and direction",
+    "Train, fine-tune, and optimize machine learning models with rigorous evaluation and testing",
+    "Collaborate on core product development to deliver higher platform capabilities",
+    "Set up observability and monitoring systems to safety check model behavior in critical settings",
+    "Drive technical projects in ambitious environments to build a reliable AI automation platform"
+  ],
+  "use_cases": [
+    "Automating mission-critical healthcare operational workflows",
+    "End-to-end workflow automation across healthcare systems",
+    "Reducing manual labor-intensive SOPs in health systems",
+    "Deploying executable AI automations in production healthcare environments"
+  ],
+  "tools_mentioned": [
+    "Distributed computing",
+    "ML model production deployment",
+    "Observability and monitoring"
+  ],
+  "frameworks_mentioned": [
+    "ML model training and fine-tuning",
+    "Model evaluation and testing"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves training, fine-tuning, and\noptimizing ML models, designing experiments for AI\nbenchmarks, and building AI automation systems. The engineer\nworks ON the AI/ML systems that power Luminai's platform,\nmaking this an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "ML model training and fine-tuning",
+      "Model evaluation and testing"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Distributed computing"
+    ],
+    "cloud": [],
+    "ops": [
+      "Observability and monitoring",
+      "ML model production deployment"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Algorithms and data structures",
+      "System design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

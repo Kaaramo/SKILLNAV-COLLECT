@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2791",
+  "source": "intl-ai-corpus",
+  "source_ref": "9012551",
+  "source_url": "https://builtin.com/job/data-engineer-ai-platform/9012551",
+  "title": "Data Engineer (AI Platform)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "TaskUs",
+  "company_type": "entité morale privée",
+  "location": "India",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-10",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,564 Employees",
+  "company_stage": "Public",
+  "company_focus": "Outsourced digital services and next-generation customer\nexperience",
+  "industries": [],
+  "description": "About TaskUs: TaskUs is a provider of outsourced digital\nservices and next-generation customer experience to fast-\ngrowing technology companies, helping its clients represent,\nprotect and grow their brands. Leveraging a cloud-based\ninfrastructure, TaskUs serves clients in the fastest-growing\nsectors, including social media, e-commerce, gaming,\nstreaming media, food delivery, ride-sharing, HiTech,\nFinTech, and HealthTech.\n\nThe People First culture at TaskUs has enabled the company\nto expand its workforce to approximately 45,000 employees\nglobally. Presently, we have a presence in twenty-three\nlocations across twelve countries, which include the\nPhilippines, India, and the United States.\n\nIt started with one ridiculously good idea to create a\ndifferent breed of Business Processing Outsourcing (BPO)! We\nat TaskUs understand that achieving growth for our partners\nrequires a culture of constant motion, exploring new\ntechnologies, being ready to handle any challenge at a\nmoment’s notice, and mastering consistency in an ever-\nchanging world.\n\nWhat We Offer: At TaskUs, we prioritize our employees' well-\nbeing by offering competitive industry salaries and\ncomprehensive benefits packages. Our commitment to a People\nFirst culture is reflected in the various departments we\nhave established, including Total Rewards, Wellness, HR, and\nDiversity. We take pride in our inclusive environment and\npositive impact on the community. Moreover, we actively\nencourage internal mobility and professional growth at all\nstages of an employee's career within TaskUs. Join our team\ntoday and experience firsthand our dedication to supporting\nPeople First.\n\nRole: Data Engineer (AI Platform) Experience: 3–8 years\n\nAbout the Role\n\nYou will build the data backbone of our AI platform—enabling\nscalable ingestion, transformation, and access to structured\nand unstructured data (e.g., transcripts, metadata).\n\nResponsibilities\n\n- Build and maintain data ingestion pipelines (batch +\n  streaming)\n- Design ETL/ELT workflows for transcripts and metadata\n- Implement data normalization, tagging, and enrichment\n  pipelines\n- Manage storage layers (S3, data lakes, vector stores)\n- Enable secure, API-based access to customer data (VPC-based)\n- Ensure data quality, reliability, and observability\n\nRequired Skills\n\n- Strong experience with Python / SQL\n- Experience with data pipeline tools (Airflow, Spark, Kafka,\n  etc.)\n- Hands-on AWS experience (S3, Glue, Lambda, Kinesis, Athena)\n- Understanding of data modeling and schema design\n- Experience with APIs and data integration\n\nNice to Have\n\n- Experience with vector databases (Pinecone, OpenSearch,\n  etc.)\n- Exposure to GenAI pipelines / embeddings workflows\n- Knowledge of data privacy and governance practices\n\nImpact\n\nYou will enable reliable, scalable, and secure data flow\npowering all AI capabilities.\n\nHow We Partner To Protect You: TaskUs will neither solicit\nmoney from you during your application process nor require\nany form of payment in order to proceed with your\napplication. Kindly ensure that you are always in\ncommunication with only authorized recruiters of TaskUs.\n\nDEI: In TaskUs we believe that innovation and higher\nperformance are brought by people from all walks of life. We\nwelcome applicants of different backgrounds, demographics,\nand circumstances. Inclusive and equitable practices are our\nresponsibility as a business. TaskUs is committed to\nproviding equal access to opportunities. If you need\nreasonable accommodations in any part of the hiring process,\nplease let us know.\n\nWe invite you to explore all TaskUs career opportunities and\napply through the provided URL\nhttps://www.taskus.com/careers/.\n",
+  "skills_required": [
+    "Data Privacy and Governance",
+    "Embeddings Workflows",
+    "GenAI Pipelines"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain data ingestion pipelines for batch and streaming workloads",
+    "Design ETL/ELT workflows for processing transcripts and metadata",
+    "Implement data normalization, tagging, and enrichment pipelines",
+    "Manage storage layers including S3, data lakes, and vector stores",
+    "Enable secure, API-based access to customer data within VPC environments",
+    "Ensure data quality, reliability, and observability across the platform"
+  ],
+  "use_cases": [
+    "Scalable data ingestion and transformation for AI platform",
+    "Processing and enriching transcripts and metadata for downstream AI consumption",
+    "Vector storage and retrieval to support GenAI/embeddings workflows",
+    "Secure customer data access via APIs for AI-driven customer experience services"
+  ],
+  "tools_mentioned": [
+    "AWS Athena",
+    "AWS Glue",
+    "AWS Kinesis",
+    "AWS Lambda",
+    "AWS S3",
+    "Airflow",
+    "Data Lakes",
+    "Data Modeling",
+    "ETL/ELT",
+    "Kafka",
+    "OpenSearch",
+    "Pinecone",
+    "REST APIs",
+    "Spark",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Embeddings Workflows",
+    "GenAI Pipelines"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is a data engineer building data infrastructure\nand pipelines that support an AI platform, but does not\ndirectly build, train, fine-tune, or deploy AI/ML models.\nThe work involves ingestion, transformation, storage, and\nAPI access to data that powers AI capabilities—classic\nenabling/support work for AI teams.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "GenAI Pipelines",
+      "Embeddings Workflows"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Pinecone",
+      "OpenSearch",
+      "Vector Databases",
+      "Data Lakes"
+    ],
+    "data": [
+      "Airflow",
+      "Spark",
+      "Kafka",
+      "ETL/ELT",
+      "Data Modeling"
+    ],
+    "cloud": [
+      "AWS S3",
+      "AWS Glue",
+      "AWS Lambda",
+      "AWS Kinesis",
+      "AWS Athena"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Data Privacy and Governance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

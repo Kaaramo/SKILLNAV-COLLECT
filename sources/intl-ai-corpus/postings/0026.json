@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0026",
+  "source": "intl-ai-corpus",
+  "source_ref": "4715267",
+  "source_url": "https://builtin.com/job/senior-ai-data-engineer/4715267",
+  "title": "Senior AI Data Engineer",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "SentinelOne",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-24",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,830 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI-powered cybersecurity platform and threat detection",
+  "industries": [
+    "Information Technology",
+    "Security",
+    "Cybersecurity"
+  ],
+  "description": "About Us\n\nAt SentinelOne, we’re redefining cybersecurity by pushing\nthe limits of what’s possible—leveraging AI-powered, data-\ndriven innovation to stay ahead of tomorrow’s threats.\n\nFrom building industry-leading products to cultivating an\nexceptional company culture, our core values guide\neverything we do. We’re looking for passionate individuals\nwho thrive in collaborative environments and are eager to\ndrive impact. If you’re excited about solving complex\nchallenges in bold, innovative ways, we’d love to connect\nwith you.\n\nWhat are we looking for?\n\nWe’re looking for a data scientist who’s deeply motivated to\nbuild high-quality datasets that power cybersecurity-focused\nAI. Your primary mission will be to design and maintain the\ndata foundations behind products that detect threats,\nsummarize alerts, and enable defenders. You should be\nenergized by ambiguity, eager to explore noisy and complex\nsecurity data, and experienced in transforming it into\nstructured, useful assets.\n\nWhile your main focus will be on data—collecting, cleaning,\nlabeling, and maintaining—you’ll also help define how we\nmeasure quality and track progress over time. We’re\nespecially excited about candidates who understand the\nnuances of cybersecurity and want to shape how AI is applied\nto real-world threats.\n\nWhat will you do?\n\n- Build and maintain datasets that power training, fine-\n  tuning, and prompting of AI models for cybersecurity\n  applications.\n- Explore and curate structured and unstructured security data\n  (logs, malware, alerts, incidents) to improve model\n  relevance and effectiveness.\n- Develop pipelines for data collection, cleaning, labeling,\n  and versioning.\n- Collaborate with researchers and engineers to define data\n  requirements and ensure relevance to cybersecurity\n  problems.\n- Contribute to evaluation design and automation to ensure\n  continuous improvement of AI systems.\n- Drive data quality and coverage for use cases like\n  summarization, classification, detection, and reasoning\n  over security context.\n\nWhat skills and experience should you bring?\n\n- 5+ years of experience working with data in applied AI or ML\n  systems, ideally in security or similarly complex domains.\n- Strong Python skills and experience with common data tools\n  (pandas, numpy, PySpark).\n- Experience curating and maintaining large, evolving datasets\n  for training and evaluation.\n- Familiarity with data labeling strategies, data versioning,\n  and pipeline automation.\n- Ability to explore and analyze messy data from real-world\n  systems.\n- Experience with LLMs or generative AI models, and\n  understanding of their data dependencies.\n- A working knowledge of cybersecurity concepts, threat types,\n  telemetry sources, or detection workflows.\n\nBonus points for:\n\n- Hands-on experience with cybersecurity data (EDR, SIEM,\n  IDS/IPS, threat intel, malware, etc.).\n- Familiarity with open-source eval tools (HELM, lm-eval, BIG-\n  bench, etc.).\n- Experience with MLOps stacks (Airflow, MLFlow, Weights &\n  Biases).\n- Infrastructure skills: cloud platforms, Kubernetes, data\n  pipelines, IaC.\n- A passion for building tools that make security\n  professionals more effective.\n\nWhy Us?\n\nYou will be joining a cutting-edge company where you will\ntackle extraordinary challenges and work with the very best\nin the industry.\n\n- Medical, Vision, Dental, 401(k), Commuter, Health and\n  Dependent FSA\n- Unlimited PTO\n- Industry-leading gender-neutral parental leave\n- Paid Company Holidays\n- Paid Sick Time\n- Employee stock purchase program\n- Disability and life insurance\n- Employee assistance program\n- Gym membership reimbursement\n- Cell phone reimbursement\n- Numerous company-sponsored events, including regular happy\n  hours and team-building events\n\nThis U.S. role has a base pay range that will vary based on\nthe location of the candidate. For some locations, a\ndifferent pay range may apply.  If so, this range will be\nprovided to you during the recruiting process. You can also\nreach out to the recruiter with any questions.\n\nBase Salary Range\n\n$147,200—$234,600 USD\n\nSentinelOne is proud to be an Equal Employment Opportunity\nand Affirmative Action employer. We do not discriminate\nbased upon race, religion, color, national origin, gender\n(including pregnancy, childbirth, or related medical\nconditions), sexual orientation, gender identity, gender\nexpression, age, status as a protected veteran, status as an\nindividual with a disability, or other applicable legally\nprotected characteristics.\n\nSentinelOne participates in the E-Verify Program for all\nU.S. based roles.\n",
+  "skills_required": [
+    "LLMs",
+    "generative AI models"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain datasets that power training, fine-tuning, and prompting of AI models for cybersecurity applications",
+    "Explore and curate structured and unstructured security data (logs, malware, alerts, incidents) to improve model relevance and effectiveness",
+    "Develop pipelines for data collection, cleaning, labeling, and versioning",
+    "Collaborate with researchers and engineers to define data requirements and ensure relevance to cybersecurity problems",
+    "Contribute to evaluation design and automation to ensure continuous improvement of AI systems",
+    "Drive data quality and coverage for use cases like summarization, classification, detection, and reasoning over security context"
+  ],
+  "use_cases": [
+    "AI-powered cybersecurity threat detection and analysis",
+    "Alert summarization to help security defenders quickly understand incidents",
+    "Classification of security events, malware, and threat types",
+    "Automated reasoning over security context for threat intelligence",
+    "Fine-tuning AI models with curated cybersecurity datasets for improved accuracy"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "IaC",
+    "Kubernetes",
+    "MLflow",
+    "PySpark",
+    "Weights & Biases",
+    "cloud platforms",
+    "data labeling strategies",
+    "data pipelines",
+    "data versioning",
+    "numpy",
+    "pandas",
+    "pipeline automation"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "generative AI models"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is focused on building and maintaining datasets\nthat power AI models rather than directly building,\ntraining, or deploying models. The responsibilities\nemphasize data collection, cleaning, labeling, and pipeline\ndevelopment to support AI/ML teams, which is characteristic\nof an ai-support role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "generative AI models"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [
+      "pandas",
+      "numpy",
+      "PySpark",
+      "data labeling strategies",
+      "data versioning",
+      "pipeline automation",
+      "Airflow",
+      "data pipelines"
+    ],
+    "cloud": [
+      "cloud platforms"
+    ],
+    "ops": [
+      "MLflow",
+      "Weights & Biases",
+      "Kubernetes",
+      "IaC"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

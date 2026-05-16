@@ -1,0 +1,189 @@
+{
+  "job_id": "intl-ai-corpus-2965",
+  "source": "intl-ai-corpus",
+  "source_ref": "9082883",
+  "source_url": "https://builtin.com/job/ai-engineer/9082883",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Riverflex",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam, NLD",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-17",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "45 Employees",
+  "company_stage": "Established (post-Series, with equity scheme and major enterprise clients)",
+  "company_focus": "Digital consulting and AI-powered software engineering\nservices for enterprise clients",
+  "industries": [
+    "Big Data",
+    "Business Intelligence",
+    "Consulting",
+    "Design"
+  ],
+  "description": "Build cutting-edge AI systems with real business impact\n\nAt Riverflex, we don’t just talk about AI—we build it. As an\nAI Engineer, you’ll be part of a small, high-impact team\ndeveloping intelligent solutions that blend modern software\nengineering with state-of-the-art language models and\nmachine learning techniques. You’ll help design and deploy\nscalable AI systems that power next-generation digital\nproducts for clients and internal tools.\n\nWe’re looking for someone who deeply understands LLMs, core\nML fundamentals, and AI engineering, knows how to turn\ntheory into working code, and thrives at the intersection of\nproduct, data, and engineering. If you’ve led AI delivery,\nbuilt GenAI apps, and know how to scale with quality—this\nrole is for you.\n\n\n\nThe Role\n\nAs a hands-on lead engineer, you’ll design and build AI-\npowered services using LLMs, modern orchestration\nframeworks, and robust engineering practices. You’ll partner\nclosely with data, product, and software teams to integrate\nthese systems into real-world applications. You’ll also play\na key role in growing our AI expertise & capability,\ndeveloping frameworks/accelerators/best practices/etc. and\nmentoring our AI engineers.\n\nResponsibilities\n\n- Build scalable AI and GenAI systems using transformer-based\n  models (e.g. GPT, Mistral, Claude) and RAG architectures\n\n- Design and implement ML/AI pipelines including model\n  training, evaluation, prompt chaining, embedding\n  retrieval, and context management (MCP protocols)\n\n- Engineer modular, well-tested Python code for AI agents,\n  APIs, and microservices\n\n- Apply ML Ops practices for reproducible training,\n  deployment, and monitoring of models in production\n\n- Use orchestration tools (LangChain, Semantic Kernel, n8n) to\n  implement agent workflows and end-to-end AI experiences\n\n- Collaborate with product and engineering teams to integrate\n  AI into user-facing applications\n\n- Partner with data engineering to build feature stores,\n  vector search capabilities, and serve curated data\n\n- Optimize AI systems for cost, latency, and scalability\n  across Azure infrastructure (e.g., Azure ML, Azure AI\n  Services)\n\n- Lead on best practices around prompt evaluation, testing,\n  model performance monitoring, and human-in-the-loop\n  feedback\n\n- Mentor and guide teammates (internally and at clients) on AI\n  Engineering\n\n- Champion responsible AI design, including bias mitigation\n  and data privacy safeguards\n\nMust-Haves\n\n- 7+ years of software or ML engineering experience, including\n  2+ years working on GenAI/LLM-based products\n\n- Strong Python engineering skills (typing, testing,\n  packaging, dependency management)\n\n- Solid understanding of ML and NLP/LLM\n  fundamentals—tokenization, attention, transformers,\n  embeddings, supervised/unsupervised learning, etc.\n\n- Hands-on experience building with LLMs, prompt chaining, and\n  retrieval-augmented generation (RAG)\n\n- Familiarity with Model Context Protocol (MCP) standards:\n  schema design, context injection, context window\n  management\n\n- Experience with orchestration and agentic frameworks\n  (LangChain, Semantic Kernel, GPT agents)\n\n- Experience working in CI/CD environments with ML Ops tooling\n  (e.g., MLflow, AzureML, Kubeflow)\n\n- Deep understanding of API design, microservices, and\n  distributed system architecture\n\n- Experience deploying scalable workloads on cloud platforms\n  (Azure preferred) using Docker/Kubernetes\n\n- Proven experience mentoring engineers and leading technical\n  workstreams\n\nNice-to-Haves\n\n- Experience with vector databases (e.g., Pinecone, FAISS,\n  Weaviate)\n\n- Familiarity with serverless deployment patterns and\n  infrastructure-as-code (e.g., Terraform, CDK)\n\n- Exposure to human-in-the-loop feedback systems and ethical\n  AI design\n\n- Experience in AI governance, risk mitigation, and AI\n  performance tuning\n\n- Consulting or client-facing delivery experience in data/AI-\n  driven environments\n\nWhat We Offer\n\n- 25 days off per year plus closure between Christmas and New\n  Year's.\n\n- Flexible remote work from abroad options for up to 6 weeks\n  per year.\n\n- Learning & Development budget, including full access to\n  Udemy courses.\n\n- Classpass membership to support well-being.\n\n- Latest tech & tools, including home office budget and\n  professional software subscriptions.\n\n- Equity share scheme to give long-term team members ownership\n  in Riverflex.\n\nWhy join Riverflex?\n\n- Be a Pioneer: Contribute to the development of Riverflex’s\n  Software Engineering domain.\n- Impactful Work: Work on high-profile projects with major\n  clients like IKEA and deliver tangible results.\n- Growth Opportunities: Gain exposure to advanced AI tools,\n  machine learning, and enterprise-level software solutions\n  in a dynamic environment.\n- Supportive Culture: Work in a team that values innovation,\n  creativity, and continuous learning.\n",
+  "skills_required": [
+    "AI agents",
+    "Claude",
+    "Embedding retrieval",
+    "Fine-tuning",
+    "GPT",
+    "Human-in-the-loop feedback",
+    "LangChain",
+    "ML fundamentals",
+    "Mistral",
+    "Model Context Protocol (MCP)",
+    "Model training",
+    "NLP",
+    "Prompt chaining",
+    "Prompt engineering",
+    "RAG",
+    "Responsible AI design",
+    "Semantic Kernel",
+    "Transformers",
+    "n8n"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build scalable AI and GenAI systems using transformer-based models and RAG architectures",
+    "Design and implement ML/AI pipelines including model training, evaluation, prompt chaining, embedding retrieval, and context management",
+    "Engineer modular, well-tested Python code for AI agents, APIs, and microservices",
+    "Apply MLOps practices for reproducible training, deployment, and monitoring of models in production",
+    "Use orchestration tools like LangChain and Semantic Kernel to implement agent workflows",
+    "Collaborate with product, engineering, and data teams to integrate AI into user-facing applications",
+    "Optimize AI systems for cost, latency, and scalability across Azure infrastructure",
+    "Mentor and guide teammates on AI engineering best practices"
+  ],
+  "use_cases": [
+    "Building GenAI applications powered by LLMs and RAG for enterprise clients",
+    "Deploying AI agents and agentic workflows for business process automation",
+    "Implementing scalable AI-powered services and APIs for digital products",
+    "Enterprise AI solutions for major clients like IKEA",
+    "Internal AI tooling and accelerators to grow organizational AI capability"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "Azure AI Services",
+    "Azure ML",
+    "CI/CD",
+    "Docker",
+    "FAISS",
+    "FastAPI",
+    "Feature stores",
+    "Kubeflow",
+    "Kubernetes",
+    "MLOps",
+    "MLflow",
+    "Microservices",
+    "Pinecone",
+    "Postgres",
+    "REST APIs",
+    "Terraform",
+    "Vector search",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Claude",
+    "Embedding retrieval",
+    "Fine-tuning",
+    "GPT",
+    "LangChain",
+    "ML fundamentals",
+    "Mistral",
+    "Model Context Protocol (MCP)",
+    "Model training",
+    "NLP",
+    "Prompt chaining",
+    "Prompt engineering",
+    "RAG",
+    "Semantic Kernel",
+    "Transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely ai-first: the engineer will directly\nbuild, design, and deploy AI/GenAI systems using LLMs, RAG\narchitectures, ML pipelines, and agentic frameworks. The\nhands-on work includes model training, prompt chaining,\nembedding retrieval, and deploying scalable AI workloads —\nall core AI/ML system building activities.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Semantic Kernel",
+      "RAG",
+      "Prompt engineering",
+      "Prompt chaining",
+      "Model Context Protocol (MCP)",
+      "AI agents",
+      "GPT",
+      "Claude",
+      "Mistral",
+      "Embedding retrieval"
+    ],
+    "ml": [
+      "Transformers",
+      "ML fundamentals",
+      "NLP",
+      "Model training",
+      "Fine-tuning"
+    ],
+    "web": [
+      "FastAPI",
+      "REST APIs",
+      "Microservices"
+    ],
+    "databases": [
+      "Postgres",
+      "Pinecone",
+      "FAISS",
+      "Weaviate",
+      "Vector search",
+      "Feature stores"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure",
+      "Azure ML",
+      "Azure AI Services"
+    ],
+    "ops": [
+      "MLflow",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "n8n",
+      "Human-in-the-loop feedback",
+      "Responsible AI design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

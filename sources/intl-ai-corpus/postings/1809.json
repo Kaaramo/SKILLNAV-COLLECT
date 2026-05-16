@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-1809",
+  "source": "intl-ai-corpus",
+  "source_ref": "8184867",
+  "source_url": "https://www.builtinla.com/job/principal-engineer-pulumi-neo/8184867",
+  "title": "Principal Software Engineer - Agentic AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pulumi",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-05",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B/C (inferred from \"3,250 customers\", \"rapid growth\", founded 2017)",
+  "company_focus": "Infrastructure-as-code platform and cloud management with\nAI-powered automation",
+  "industries": [
+    "Cloud",
+    "Software"
+  ],
+  "description": "We're building an autonomous infrastructure engineering\nagent: think Claude Code, but for your cloud. If you're\nexcited about agentic AI systems that solve impactful\nproblems for engineers, developers, and security experts at\ninnovative startups and iconic enterprises alike, this role\nis for you.\n\nNeo is Pulumi's answer to what infrastructure engineering\nlooks like in an AI-first era. It's a virtual infrastructure\nteammate that understands your cloud environment, plans and\nexecutes multi-step operations, and brings domain expertise\nto problems ranging from spinning up complex ML\ninfrastructures to cloud migrations to continuous compliance\nenforcement.\n\nWhat makes Neo possible is infrastructure-as-code: by\nmodeling cloud infrastructure in code space, we can leverage\nthe fact that LLMs are already excellent at coding to affect\ncloud infrastructure changes. Combined with Pulumi's\nregistry and petabytes of deployment history, we have a\nunique foundation for building infrastructure intelligence.\n\nWe're looking for engineers to build all aspects of Neo:\nfrom agent orchestration and tool interfaces to the web\nexperience where users watch Neo work, approve operations,\nand understand its reasoning, to the interface with the\nmodels and how we orchestrate and fine-tune them to maximize\nimpact. We seek bold thinkers to reimagine the entirety of\ncloud engineering.\n\nWhile Pulumi is headquartered in Seattle, WA., we are\ndedicated to being a remote first company. This role will be\nlocated remotely.\n\nResponsibilities\n\n- Build the planning and execution systems that let Neo safely\n  perform multi-step infrastructure operations across AWS,\n  Azure, GCP, Kubernetes, and more\n- Design tool interfaces that give the agent semantic\n  understanding of cloud resources and access to engineering\n  workflows\n- Develop the context systems that help Neo understand each\n  customer's infrastructure patterns and usage\n- Create the feedback loops and self-correction mechanisms\n  that make autonomous operation reliable\n- Build evaluation frameworks to measure agent performance\n  across Neo's capability areas: migrations, compliance,\n  cost optimization, diagnostics, and more\n- Work on the web interface where Neo operates as a \"virtual\n  teammate\"—task assignment, progress visibility, approval\n  workflows\n- Integrate Neo's capabilities into Pulumi's MCP Server for\n  agent-to-agent workflows\n- Collaborate with platform teams to deeply integrate agent\n  capabilities into the CLI, SDKs, and Pulumi Cloud\n\nYou may be a good fit if you:\n\n- Are genuinely excited about agentic AI—systems that plan,\n  act, and adapt in the real world, not just generate text\n- Have built production systems using LLMs, including\n  experience with tool use, function calling, and multi-step\n  orchestration\n- Care deeply about reliability and safety when AI systems\n  take real actions with real consequences\n- Are comfortable across the stack—agent orchestration,\n  backend services, and frontend interfaces\n- Have strong Python and TypeScript skills (our primary\n  languages) and can pick up new environments quickly\n- Bring a product mindset: you think about what users need,\n  not just what's technically interesting\n- Communicate clearly and work well with a distributed team\n\nStrong candidates may also have:\n\n- Experience with cloud infrastructure (AWS, Azure, GCP) or\n  infrastructure-as-code tools\n- Background in building developer tools, CLIs, or platform\n  engineering systems\n- Familiarity with container orchestration (Kubernetes,\n  Docker)\n- Experience building evaluation frameworks and benchmarks for\n  AI systems\n- Knowledge of prompt engineering, fine-tuning, or retrieval-\n  augmented generation\n\nCompensation\n\n- Base Salary: $190,000-220,000\n- All full-time employee offers at Pulumi include base salary,\n  bonus or variable, equity and benefits (details below).\n\nBenefits & Perks at Pulumi:\n\nHealthcare Coverage: We offer comprehensive medical, dental,\nvision, and supplemental insurance at no cost to U.S.\nemployees. Internationally, we comply with local healthcare\nrequirements and provide regionally appropriate coverage.\n\nTime Off: Our unlimited PTO policy encourages balance and\nrest — and we require employees to take at least three weeks\noff annually, plus 13 U.S. holidays.\n\n401(k): U.S. employees are eligible for a 401(k) plan with\nan employer match to support long-term financial wellness.\n\nParental Leave: We provide 20 weeks of paid leave for\nbirthing parents or primary caregivers, and 16 weeks for\nnon-birthing parents or secondary caregivers.\n\nRemote-First Culture: Pulumi has been fully remote since\n2020, with teammates across 20+ U.S. states and 12+\ncountries. We support flexible work with asynchronous\ncollaboration and an annual “work from anywhere” stipend.\n\nProfessional Development: Every employee receives an annual\nlearning and development budget to support growth, learning,\nand career goals.\n\nEquity Ownership: We believe in acting like owners. All\nemployees receive equity and are empowered to think big,\nmove fast, and build the future of cloud together.\n\nAdditional Support: We offer a monthly wellness fund to\nsupport mental and physical well-being, and a quarterly\nhappiness fund for team connection.\n\nAbout Pulumi:\n\nPulumi is reimagining how teams build cloud software,\nenabling developers and infrastructure experts to work\nbetter together through a unique combination of programming\nlanguages, tools, and systems innovation.\n\nOur flagship infrastructure as code technology is open\nsource and our SaaS product, Pulumi Cloud, provides platform\nteams, secrets management, and cloud management\ncapabilities, and more. We have pioneered leveraging AI\nacross all of these areas with our LLM-powered Pulumi\nCopilot to push the boundaries of what's possible. At\nPulumi, we dream big, in the pursuit of helping our\ncustomers out-innovate and win.\n\nFounded in 2017 by industry veterans with over five decades\nof combined experience building developer platforms, Pulumi\nnow has a global community of more than 350,000 members and\nserves over 3,250 customers. Despite our rapid growth, we're\nstill only getting started, and are early in our mission to\ndemocratize the cloud. If you thrive in a fast-paced, high-\nperformance, we want to work with you to accelerate Pulumi's\nimpact.\n\nAt Pulumi, we don't just accept difference, we celebrate,\nsupport, and thrive on it for the benefit of our employees,\nour products, and our customers. Pulumi is proud to be an\nequal opportunity workplace and is committed to equal\nemployment opportunities regardless of race, color,\nancestry, religion, sex, national origin, sexual\norientation, age, citizenship, marital status, disability,\ngender identity, or Veteran status. If you have a disability\nor special need that requires accommodation, please let us\nknow.\n",
+  "skills_required": [
+    "LangChain",
+    "MCP",
+    "RAG",
+    "agents",
+    "evaluation frameworks",
+    "fine-tuning",
+    "function calling",
+    "multi-step orchestration",
+    "prompt engineering",
+    "tool use"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build planning and execution systems for multi-step infrastructure operations across AWS, Azure, GCP, and Kubernetes",
+    "Design tool interfaces giving the agent semantic understanding of cloud resources and engineering workflows",
+    "Develop context systems helping Neo understand customer infrastructure patterns and usage",
+    "Create feedback loops and self-correction mechanisms for reliable autonomous operation",
+    "Build evaluation frameworks measuring agent performance across migrations, compliance, cost optimization, and diagnostics",
+    "Build web interface for task assignment, progress visibility, and approval workflows",
+    "Integrate Neo capabilities into Pulumi's MCP Server for agent-to-agent workflows",
+    "Collaborate with platform teams to integrate agent capabilities into CLI, SDKs, and Pulumi Cloud"
+  ],
+  "use_cases": [
+    "Autonomous cloud infrastructure management and operations",
+    "Cloud migrations across AWS, Azure, GCP, and Kubernetes",
+    "Continuous compliance enforcement",
+    "Cost optimization for cloud resources",
+    "Infrastructure diagnostics and troubleshooting",
+    "ML infrastructure provisioning and management"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CLI development",
+    "Docker",
+    "FastAPI",
+    "GCP",
+    "Kubernetes",
+    "React",
+    "infrastructure-as-code"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "MCP",
+    "RAG",
+    "agents",
+    "evaluation frameworks",
+    "fine-tuning",
+    "function calling",
+    "multi-step orchestration",
+    "prompt engineering",
+    "tool use"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building autonomous AI agents (Neo) that\nplan, execute, and self-correct multi-step infrastructure\noperations. The work includes agent orchestration, tool\ninterfaces, model orchestration and fine-tuning, and\nevaluation frameworks for AI systems—all hands-on\ndevelopment of agentic AI capabilities.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "agents",
+      "function calling",
+      "tool use",
+      "multi-step orchestration",
+      "prompt engineering",
+      "fine-tuning",
+      "RAG",
+      "MCP"
+    ],
+    "ml": [
+      "evaluation frameworks"
+    ],
+    "web": [
+      "FastAPI",
+      "React",
+      "CLI development"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kubernetes"
+    ],
+    "ops": [
+      "Docker",
+      "infrastructure-as-code"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

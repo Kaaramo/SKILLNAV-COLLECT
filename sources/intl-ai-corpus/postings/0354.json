@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-0354",
+  "source": "intl-ai-corpus",
+  "source_ref": "7834737",
+  "source_url": "https://builtin.com/job/senior-devops-engineer-azure-databricks-ai-ml-focus/7834737",
+  "title": "Senior DevOps Engineer – Azure & Databricks (AI/ML Focus)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ascent.io",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-17",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "452 Employees",
+  "company_stage": null,
+  "company_focus": "Digital transformation and analytics consulting",
+  "industries": [
+    "Cloud",
+    "Software",
+    "Consulting"
+  ],
+  "description": "The creative mind behind every project.  Put your skills to\nthe test to build solutions that continue to shape the world\nwe live in. \n\n\nAbout Us    \n\nAscent has recently been acquired by Acuity Analytics.  This\nis both a significant milestone for us and a tremendous\nopportunity for you.  Acuity Analytics is a business with a\nstrong global reputation, an impressive client base and\nambitious growth plans.  We delivers deep insights and\ndomain-led digital transformation to high-growth and heavily\nregulated organisations.  To our customers, we bring a\npartnership that provides the talent, technology and\ncapability to enhance performance and operational\nefficiency. Please note that this role is currently\navailable for European residents.\n\n\nAbout the role \n\nWe are seeking a Senior DevOps Engineer with expertise in\nAzure Databricks and cloud-native AI/ML operations. You will\nbe a key contributor to a next-generation AI platform built\non Azure Databricks, enabling data scientists and engineers\nto train, deploy, monitor, and govern ML and GenAI models\nefficiently. This role blends MLOps best practices, cloud-\nnative architecture, and Databricks expertise to ensure AI\nmodels are production-ready, scalable, and compliant with\nenterprise standards.\n\nKey Responsibilities\n\n- Design, implement, and optimize ML/AI pipelines for\n  training, deployment, monitoring, and governance.\n- Leverage Azure Databricks capabilities including MLFlow for\n  experiment tracking and Unity Catalog for data governance.\n- Build and maintain CI/CD pipelines as well as automated\n  ModelOps workflows for AI/ML applications.\n- Ensure data architecture supports schema evolution,\n  governance, and compliance requirements.\n- Operate in a cloud-native Azure environment to deliver\n  robust and scalable ML solutions.\n\nRequired Skills & Experience\n\n- Proven experience with Azure Databricks, including MLFlow\n  and Unity Catalog.\n- Strong background in DevOps for ML/AI, including CI/CD and\n  pipeline automation.\n- Solid understanding of data architecture, schema evolution,\n  and governance principles.\n- Experience working in Microsoft Azure or similar cloud\n  environments.\n- Hands-on experience with Infrastructure as Code (IaC) using\n  Terraform.\n\nNice to Have\n\n- High-level understanding of machine learning and generative\n  AI concepts and workflows.\n- Solid knowledge of containerization (Docker) and\n  orchestration (Kubernetes).\n- Experience in Python software development and scripting.\n- Hands-on experience with TensorFlow, PyTorch, and Scikit-\n  learn in a Databricks environment.\n\nWhy join us?\n\nPeople are at the Heart of our Business.  By investing in\npeople, we achieve exceptional results for our clients and\ncreate new opportunities for our teams to thrive.  Check out\nthis page for more details.\n",
+  "skills_required": [
+    "PyTorch",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and optimize ML/AI pipelines for training, deployment, monitoring, and governance",
+    "Leverage Azure Databricks capabilities including MLFlow for experiment tracking and Unity Catalog for data governance",
+    "Build and maintain CI/CD pipelines and automated ModelOps workflows for AI/ML applications",
+    "Ensure data architecture supports schema evolution, governance, and compliance requirements",
+    "Operate in a cloud-native Azure environment to deliver robust and scalable ML solutions"
+  ],
+  "use_cases": [
+    "AI/ML model training and deployment platform on Azure Databricks",
+    "Machine learning experiment tracking with MLFlow",
+    "Data governance and compliance for regulated organizations",
+    "Automated model operations and monitoring workflows",
+    "Enterprise-grade data schema evolution management"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "CI/CD",
+    "Databricks",
+    "Docker",
+    "Kubernetes",
+    "MLFlow",
+    "Terraform",
+    "Unity Catalog"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a DevOps Engineer role focused on building\ninfrastructure, pipelines, and platforms that support AI/ML\nworkflows rather than directly building or training models.\nThe role emphasizes CI/CD, MLOps infrastructure, data\ngovernance, and cloud-native architecture to enable data\nscientists to train and deploy models, which is\ncharacteristic of an ai-support position.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Databricks",
+      "Unity Catalog"
+    ],
+    "cloud": [
+      "Azure"
+    ],
+    "ops": [
+      "MLFlow",
+      "CI/CD",
+      "Terraform",
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,168 @@
+{
+  "job_id": "intl-ai-corpus-1596",
+  "source": "intl-ai-corpus",
+  "source_ref": "8536957",
+  "source_url": "https://builtin.com/job/senior-forward-deployed-ai-engineer/8536957",
+  "title": "Senior Forward Deployed AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "GE Healthcare",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-19",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "50,282 Employees",
+  "company_stage": "Public",
+  "company_focus": "Medical technology and digital solutions",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Analytics",
+    "Biotech"
+  ],
+  "description": "Job Description SummaryWe are seeking a Senior Forward\nDeployed AI Engineer who can partner directly with customers\nto define problems, architect GenAI systems, and ship\nproduction-grade solutions. You’ll own end-to-end delivery:\nfrom problem decomposition and data pipelines to LLM\nworkflow design, RAG, Knowledge Graphs, Graph RAG\narchitectures, agentic orchestration, LLM evaluation,\ndeployment, and ongoing optimization. You’ll also integrate\nand extend GEHC STO AI Fabric to accelerate real-world\nimpact. GE Healthcare is a leading global medical technology\nand digital solutions innovator. Our mission is to improve\nlives in the moments that matter. Unlock your ambition, turn\nideas into world-changing realities, and join an\norganization where every voice makes a difference, and every\ndifference builds a healthier world.\n\nJob Description\n\nRoles and Responsibilities:\n\n- Own the end-to-end GenAI strategy within customer\n  environments—from discovery and problem decomposition to\n  production deployment and adoption.\n- Define solution architectures across RAG, agentic AI,\n  knowledge bases, and multi-turn conversational systems\n  with memory.\n- Establish robust evaluation frameworks (e.g., groundedness,\n  hallucination rate, factuality, latency, cost, and safety)\n  and drive iterative improvement.\n- Design and deploy large-scale LLM workflows, RAG systems\n  (vector/hybrid, reranking), Graph RAG (entity/relation\n  extraction, query planning), and autonomous/agentic\n  systems (task decomposition, tool use, planning/feedback\n  loops).\n- Implement conversation memory (short-term context buffers,\n  long-term vector/graph stores, entity memories) to support\n  multi-turn experiences.\n- Build conversational chatbots and search strategies (BM25 +\n  dense retrieval, hybrid retrieval, query\n  rewriting/expansion) for high-precision answers.\n- Apply chunking strategies (semantic/hierarchical,\n  overlap/sliding window, summarization-based chunking) to\n  optimize retrieval quality and cost.\n- Leverage GEHC STO AI Fabric components to build robust data\n  pipelines, define/align ontologies, and integrate ML/LLM\n  models into operational tools and workflows.\n- Develop and register components (transforms, ontology\n  services, pipelines), ensuring traceability,\n  observability, and reusability within the AI Fabric.\n- Contribute field learnings, patterns, and edge cases back to\n  the AI Fabric product teams to mature the platform and\n  accelerate customer outcomes.\n- Work closely with customer executives, SMEs, and end users\n  to understand mission-critical needs and translate them\n  into technical solutions and delivery plans.\n- Communicate tradeoffs (quality, latency, cost, safety) and\n  guide stakeholders to data-driven decisions.\n- Implement CI/CD, containerization (Docker), model packaging,\n  deployment, and monitoring across environments\n  (dev/stage/prod).\n- Build LLMOps observability: tracing, prompt/version\n  management, cost/latency dashboards, eval pipelines, A/B\n  testing, safety guardrails, and human-in-the-loop review\n  where required.\n- Operate within AWS (SageMaker for training/inference,\n  Bedrock for managed foundation models); manage\n  infrastructure-as-code and environment hardening.\n- Build scalable pipelines using Databricks, Spark/PySpark,\n  and SQL to ingest, clean, and feature/signal engineer\n  multi-modal data.\n- Architect and manage knowledge bases (document stores,\n  vector DBs, knowledge graphs) and retrieval services for\n  production traffic.\n- Bias for shipping high-quality, maintainable software over\n  academic benchmarks.\n- Write clean, testable code; enforce code quality,\n  documentation, and reusability.\n- Mentor peers; elevate engineering best practices for GenAI\n  at scale.\n\nQualifications:\n\n- Bachelor's Degree in Computer Science or “STEM” Majors\n  (Science, Technology, Engineering and Math) with a minimum\n  of 5+ years in AI/ML engineering, data science, or applied\n  research; 1.5+ years building production LLM/GenAI\n  systems.\n- Excellent coding proficiency in Python and either Java or\n  TypeScript; solid software engineering fundamentals\n  (testing, modularity, design patterns).\n- Deep understanding of LLMs and agentic AI (planning, tool\n  use, function calling, multi-agent collaboration).\n- Hands-on with RAG (vector/hybrid retrieval, reranking, query\n  planning), Graph RAG (entities/relations, graph queries),\n  knowledge bases, and chunking strategies.\n- NLP expertise (retrieval, generation, summarization,\n  information extraction); working knowledge of computer\n  vision and GANs for augmentation or synthesis.\n- Proven experience with conversational AI (multi-turn with\n  memory, grounding, disambiguation) and search strategies\n  (BM25, hybrid, semantic reranking).\n- Databricks (Delta, Unity Catalog, Jobs/Workflows),\n  Spark/PySpark, and SQL at scale.\n- MLOps, LLMOps, Docker, Kubernetes, CI/CD, and AWS\n  (SageMaker, Bedrock) for model training, evaluation, and\n  deployment.\n- Practical experience with LangChain, LangGraph, CrewAI, n8n\n  (or similar orchestrators) and using OpenAI/Anthropic\n  models in production.\n- Good customer-facing communication skills and the ability to\n  operate on-site with customers when needed.\n- Experience in regulated domains (healthcare, life sciences)\n  and ontology-driven systems.\n- Knowledge graphs (e.g., Neo4j), vector stores, and hybrid\n  retrieval with cross-encoder reranking.\n- Prompt engineering and LLM evaluation frameworks; safety\n  guardrails (PII/PHI redaction, toxicity filters).\n- Familiarity with Kubernetes (EKS/ECS), feature stores,\n  experiment tracking, and model registries.\n- Performance optimization for long-context models, batching,\n  streaming, and cost/latency tuning.\n\nInclusion and Diversity\n\nGE Healthcare is an Equal Opportunity Employer where\ninclusion matters. Employment decisions are made without\nregard to race, color, religion, national or ethnic origin,\nsex, sexual orientation, gender identity or expression, age,\ndisability, protected veteran status or other\ncharacteristics protected by law.\n\nWe expect all employees to live and breathe our behaviors:\nto act with humility and build trust; lead with\ntransparency; deliver with focus, and drive ownership –\nalways with unyielding integrity.\n\nOur total rewards are designed to unlock your ambition by\ngiving you the boost and flexibility you need to turn your\nideas into world-changing realities. Our salary and benefits\nare everything you’d expect from an organization with global\nstrength and scale, and you’ll be surrounded by career\nopportunities in a culture that fosters care, collaboration\nand support.\n\n#LI-AM11\n\n#LI-Hybrid\n\nAdditional Information\n\nRelocation Assistance Provided: No\n",
+  "skills_required": [
+    "CrewAI",
+    "Graph RAG",
+    "LLM workflows",
+    "LangChain",
+    "LangGraph",
+    "OpenAI/Anthropic models",
+    "RAG",
+    "agentic AI",
+    "function calling",
+    "prompt engineering",
+    "safety guardrails"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own end-to-end GenAI strategy from discovery and problem decomposition to production deployment and adoption",
+    "Define solution architectures across RAG, agentic AI, knowledge bases, and multi-turn conversational systems",
+    "Design and deploy large-scale LLM workflows, RAG systems, Graph RAG, and autonomous/agentic systems",
+    "Establish robust evaluation frameworks and drive iterative improvement of AI systems",
+    "Build conversational chatbots and search strategies using hybrid retrieval and query rewriting",
+    "Implement conversation memory systems using short-term context buffers and long-term vector/graph stores",
+    "Develop and register AI Fabric components with traceability, observability, and reusability",
+    "Build LLMOps observability including tracing, prompt management, evaluation pipelines, and safety guardrails"
+  ],
+  "use_cases": [
+    "Healthcare conversational AI systems with multi-turn memory",
+    "Enterprise knowledge base search and retrieval using RAG and Graph RAG",
+    "Medical document understanding and information extraction",
+    "Healthcare decision support systems with agentic AI orchestration",
+    "Clinical workflow automation using knowledge graphs and ontologies",
+    "AI-powered medical technology solutions with regulatory compliance"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Bedrock",
+    "CI/CD",
+    "Databricks",
+    "Docker",
+    "Kubernetes",
+    "LLMOps",
+    "MLOps",
+    "Neo4j",
+    "PySpark",
+    "SageMaker",
+    "Spark",
+    "knowledge graphs",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "Graph RAG",
+    "LLM workflows",
+    "LangChain",
+    "LangGraph",
+    "OpenAI/Anthropic models",
+    "RAG",
+    "agentic AI",
+    "function calling",
+    "prompt engineering",
+    "safety guardrails"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a Forward Deployed AI Engineer who directly builds\nand deploys GenAI systems to customers, including LLM\nworkflows, RAG architectures, agentic orchestration, and\nGraph RAG. The role involves hands-on model deployment,\nfine-tuning, evaluation, and LLMOps, not just supporting AI\ninfrastructure. While customer-facing, the engineer actively\nconstructs and optimizes AI solutions rather than providing\ngeneral support for an AI company.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "Graph RAG",
+      "agentic AI",
+      "LLM workflows",
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "OpenAI/Anthropic models",
+      "prompt engineering",
+      "function calling",
+      "safety guardrails"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "vector databases",
+      "knowledge graphs",
+      "Neo4j"
+    ],
+    "data": [
+      "Databricks",
+      "Spark",
+      "PySpark"
+    ],
+    "cloud": [
+      "AWS",
+      "SageMaker",
+      "Bedrock"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "MLOps",
+      "LLMOps"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [
+      "NLP",
+      "computer vision"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

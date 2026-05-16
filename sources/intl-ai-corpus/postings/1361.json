@@ -1,0 +1,173 @@
+{
+  "job_id": "intl-ai-corpus-1361",
+  "source": "intl-ai-corpus",
+  "source_ref": "8414840",
+  "source_url": "https://builtin.com/job/ai-data-engineer/8414840",
+  "title": "AI Data Engineer",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Schonfeld",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-05",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "515 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global multi-manager hedge fund managing quantitative,\ntactical, fundamental equity, and discretionary macro\nstrategies",
+  "industries": [
+    "Consulting",
+    "Quantitative Trading"
+  ],
+  "description": "About the Role\n\nSchonfeld Strategic Advisors is seeking an experienced AI\nData Engineer to join our Data Engineering team. In this\nrole, you will be responsible for designing, building, and\nmaintaining robust data pipelines that power SchonAI, our\nfirm's internal AI platform. You will work at the\nintersection of data engineering and AI, ensuring that high-\nquality, timely, and relevant data flows seamlessly to our\nAI systems to support investment professionals across the\nfirm.\n\nKey Responsibilities\n\nData Pipeline Development\n\n- Design and build scalable, reliable data pipelines to\n  ingest, transform, and deliver structured and unstructured\n  data to SchonAI using Prefect.\n- Develop ETL/ELT processes for diverse data sources including\n  market data, research documents, internal databases, and\n  third-party APIs.\n- Implement real-time and batch data processing workflows to\n  meet varying latency requirements.\n- Ensure data quality, consistency, and integrity across all\n  pipelines.\n\nAI Data Infrastructure\n\n- Build and maintain data infrastructure optimized for AI/ML\n  workloads, including vector databases and semantic search\n  systems.\n- Design data schemas and storage solutions that support\n  efficient retrieval and processing for LLM applications.\n- Implement data versioning, lineage tracking, and\n  observability for AI training and inference pipelines.\n- Optimize data delivery for low-latency AI interactions and\n  high-throughput batch processing.\n\nIntegration & Collaboration\n\n- Partner with AI engineers, software developers, and data\n  scientists to understand data requirements.\n- Integrate with existing firm systems including risk\n  platforms, trading systems, portfolio management tools,\n  and research databases.\n- Collaborate with infrastructure teams on cloud architecture,\n  security, and compliance requirements.\n- Work closely with business stakeholders to prioritize data\n  sources and pipeline enhancements.\n\nData Governance & Security\n\n- Implement appropriate data access controls, encryption, and\n  compliance measures.\n- Ensure adherence to data governance policies and regulatory\n  requirements.\n- Monitor and maintain data pipeline performance, reliability,\n  and cost efficiency.\n- Document data flows, transformations, and dependencies.\n\nRequired Qualifications\n\nTechnical Skills\n\n- Programming: Strong proficiency in Python; experience with\n  SQL and at least one other language (e.g. Java, Scala, Go,\n  Rust)\n- Data Engineering: 5+ years of experience building production\n  data pipelines using tools like Apache Airflow, Prefect,\n  Dagster, or similar\n- Big Data Technologies: Hands-on experience with distributed\n  computing frameworks (Spark, Flink) and modern data\n  platforms\n- Cloud Platforms: Proficiency with AWS services (S3,\n  Kubernetes) or equivalent GCP services\n- Databases: Experience with both SQL (PostgreSQL, MySQL) and\n  NoSQL databases (MongoDB, DynamoDB, Elasticsearch)\n- AI/ML Data: Understanding of data requirements for ML/AI\n  systems, including experience with vector databases\n  (Pinecone, Weaviate, Qdrant) and embedding pipelines\n\nPreferred Experience\n\n- Experience building data pipelines for LLM applications or\n  RAG (Retrieval Augmented Generation) systems\n- Familiarity with financial data sources (market data,\n  fundamental data, alternative data)\n- Knowledge of data streaming technologies (Kafka, Kinesis,\n  Pub/Sub)\n- Experience of Analytics/Warehouse/OLAP DB (BigQ,\n  SingleStore, RedShift, ClickHouse)\n- Experience with containerization (Docker) and orchestration\n  (Kubernetes)\n- Understanding of MLOps practices and tools\n- Experience with data quality frameworks (Great Expectations,\n  Deequ)\n\n Professional Skills\n\n- Bachelor's or Master's degree in Computer Science, Data\n  Engineering, or related technical field\n- Strong problem-solving skills and attention to detail\n- Excellent communication skills with ability to translate\n  technical concepts for non-technical stakeholders\n- Experience working in fast-paced, collaborative environments\n- Self-motivated with ability to manage multiple priorities\n\nWho we are   Schonfeld is a global multi-manager hedge fund\nthat strives to deliver industry-leading risk-adjusted\nreturns for our investors. We leverage both internal and\nexternal portfolio manager teams around the world, seeking\nto capitalize on inefficiencies and opportunities within the\nmarkets. We draw from decades of experience and a\nsignificant investment in proprietary technology,\ninfrastructure and risk analytics to invest across four main\nstrategies: Quant, Tactical, Fundamental Equity and\nDiscretionary Macro & Fixed Income.\n\nOur Culture  At Schonfeld, we’ll invest in you. Attracting\nand retaining top talent is at the heart of what we do,\nbecause we believe that exceptional outcomes begin with\nexceptional people. We foster a culture where talent is\nempowered to continually learn, innovate and pursue\nambitious goals. We are teamwork-oriented, collaborative and\nencourage ideas—at all levels—to be shared. As an\norganization committed to investing in our people, we\nprovide learning and educational offerings and opportunities\nto make an impact. We encourage community through internal\nnetworks, external partnerships and service initiatives that\npromote inclusion and purpose beyond the firm’s walls.\n\nThe base pay for this role is expected to be between $225k\nand $275k. The expected base pay range is based on\ninformation at the time this post was generated. This role\nmay also be eligible for other forms of compensation such as\na performance bonus and a competitive benefits package.\nActual compensation for the successful candidate will be\ndetermined based on a variety of factors such as skills,\nqualifications, and experience.\n\n#LI-PW1\n",
+  "skills_required": [
+    "Embedding pipelines",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build scalable data pipelines using Prefect to ingest and transform structured and unstructured data for SchonAI platform",
+    "Develop ETL/ELT processes for diverse data sources including market data, research documents, internal databases, and third-party APIs",
+    "Build and maintain data infrastructure optimized for AI/ML workloads including vector databases and semantic search systems",
+    "Partner with AI engineers, software developers, and data scientists to understand and fulfill data requirements for AI applications",
+    "Integrate data pipelines with existing firm systems including risk platforms, trading systems, and portfolio management tools",
+    "Implement data access controls, encryption, and compliance measures to ensure data governance and regulatory adherence",
+    "Implement real-time and batch data processing workflows to meet varying latency requirements for AI systems",
+    "Implement data versioning, lineage tracking, and observability for AI training and inference pipelines"
+  ],
+  "use_cases": [
+    "Investment research and analysis platform (SchonAI) for investment professionals",
+    "Semantic search and retrieval over research documents and internal knowledge bases",
+    "RAG (Retrieval Augmented Generation) systems for LLM-powered applications",
+    "Market data processing and analysis for quantitative trading strategies",
+    "Real-time data delivery for AI-powered investment insights and recommendations"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Apache Airflow",
+    "BigQuery",
+    "ClickHouse",
+    "Dagster",
+    "Data lineage",
+    "Data versioning",
+    "Deequ",
+    "Docker",
+    "DynamoDB",
+    "ETL/ELT",
+    "Elasticsearch",
+    "Flink",
+    "GCP",
+    "Great Expectations",
+    "Kafka",
+    "Kinesis",
+    "Kubernetes",
+    "MLOps",
+    "MongoDB",
+    "MySQL",
+    "Pinecone",
+    "PostgreSQL",
+    "Prefect",
+    "Pub/Sub",
+    "Qdrant",
+    "RedShift",
+    "S3",
+    "SingleStore",
+    "Spark",
+    "Vector databases",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "Embedding pipelines",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Python",
+    "Rust",
+    "SQL",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is focused on building data pipelines and\ninfrastructure that power AI systems rather than building or\ntraining models themselves. The engineer is responsible for\ndata ingestion, ETL processes, and maintaining data\ninfrastructure (vector databases, semantic search) that\nENABLE AI engineers and data scientists to work with AI\nsystems, but does not directly build, deploy, or fine-tune\nmodels.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "Embedding pipelines"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "DynamoDB",
+      "Elasticsearch",
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "BigQuery",
+      "SingleStore",
+      "RedShift",
+      "ClickHouse",
+      "Vector databases"
+    ],
+    "data": [
+      "Prefect",
+      "Apache Airflow",
+      "Dagster",
+      "Spark",
+      "Flink",
+      "Kafka",
+      "Kinesis",
+      "Pub/Sub",
+      "ETL/ELT",
+      "Great Expectations",
+      "Deequ"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "S3"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "MLOps",
+      "Data versioning",
+      "Data lineage"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "Java",
+      "Scala",
+      "Go",
+      "Rust"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

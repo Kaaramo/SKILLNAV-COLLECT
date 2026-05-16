@@ -1,0 +1,96 @@
+{
+  "job_id": "intl-ai-corpus-0817",
+  "source": "intl-ai-corpus",
+  "source_ref": "7234544",
+  "source_url": "https://builtin.com/job/ai-engineer-nyc/7234544",
+  "title": "AI Engineer - NYC",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AegisAI Security",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-01",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "8 Employees",
+  "company_stage": "Stealth",
+  "company_focus": "AI-powered cybersecurity and threat detection",
+  "industries": [
+    "Artificial Intelligence",
+    "Cybersecurity"
+  ],
+  "description": "We’re a team of ex-Google engineers who built some of the\nlargest defensive platforms on the planet — Safe Browsing\nand reCAPTCHA. Now, we’re striking out on our own to tackle\nan even bigger challenge: stopping the new wave of\nadversarial AI attacks already hitting organizations today.\n\nWe’re still in stealth, but here’s what we can say: We're\ngoing after a $5B+ market, ripe for disruption. Traditional\ndetection methods are too slow to keep up. Adversaries are\nusing AI to craft customized, high-evasion attacks — and\nold-school rules-based systems don’t stand a chance.\n\nYour Mission: Architect a constellation of AI Agents — fast,\ncheap, and high-precision — that work together to detect and\nstop emerging threats. You’ll live deep in live threat data,\nevolving your agents at the speed of the battlefield. These\nagents will operate under an orchestration layer designed\nfor rapid iteration and adaptive learning.\n\nWhy This Is Hard (a.k.a. Why It’s Fun)\n\n- The models change daily. Literally. What worked yesterday\n  might be obsolete tomorrow.\n- The adversaries are smart — and getting smarter. We’re in a\n  real-time arms race against AI-enabled attackers crafting\n  tailored, evasive payloads.\n- There’s no playbook. We’re building new detection paradigms\n  as fast as the threats evolve. It’s high-stakes, high-\n  impact work — and you’ll be in the arena from day one.\n\nIf you’re the kind of engineer who lives for tough problems\nand fast feedback loops, this is your kind of challenge.\n\nWhy We’ll Win\n\n- The market is massive — $5B+ and growing fast — and\n  incumbents are too slow to adapt.\n- We’ve done this before. Our team built the core technology\n  behind Safe Browsing (5B+ users) and reCAPTCHA (protecting\n  5M+ websites) while at Google.\n- This is our third time building a category-defining security\n  business. We know how to scale both the tech and the\n  company.\n- AI and security are in our DNA. We don’t bolt it on — we\n  build it in from day one.\n- We only hire top performers. Most of our team were top 1%\n  engineers at Google — if you were the best at your last\n  job, you’ll feel right at home here.\n- We move fast. No politics. No hierarchy. Just brilliant\n  people solving hard problems, together.\n\nWhat We’re Looking For: We want engineers who are outgrowing\ntheir current roles — people who want to build at the very\nedge of AI and cybersecurity.\n\n- You thrive in relentless environments where learning curves\n  are steep and every day is a new challenge.\n- You care about speed, execution, and complete thinking more\n  than resumes or titles.\n- You think in weeks and days, not months and quarters.\n\nDespite 30+ years of combined AI experience on the founding\nteam, we know today’s landscape changes too fast to rest on\ncredentials. We prioritize adaptability and speed of\nlearning above all else.\n\nOur culture:\n\n- Flat, flexible, and fast.\n- You’ll own your decisions and your tech stack.\n- You’ll have clear KPIs for success — but how you get there\n  is up to you.\n- Development cycles are measured in days, not weeks.\n\nIf you’re hungry to build AI that fights AI, and want to\nwork with a team that moves at the speed of the real world,\ncome talk to us.\n\nRequirements:\n\n2-10 years of experience\n\nDirect experience with AI/ML systems\n\nExperience building in a fast paced environments\n\nBonus:\n\nExperience security/detection systems\n\nExperience working in adversarial environments (T&S,\nsecurity, fraud)\n",
+  "skills_required": [
+    "AI agents",
+    "AI/ML systems",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect a constellation of AI agents for detecting and stopping emerging threats",
+    "Design and implement orchestration layer for rapid iteration and adaptive learning",
+    "Live in live threat data to evolve agents at the speed of the battlefield",
+    "Build fast, cheap, and high-precision detection systems",
+    "Develop new detection paradigms as threats evolve in real-time",
+    "Iterate quickly on AI systems to stay ahead of adversarial AI attacks"
+  ],
+  "use_cases": [
+    "Detecting and stopping adversarial AI attacks in real-time",
+    "Identifying customized, high-evasion attacks crafted by AI-enabled adversaries",
+    "Providing rapid threat detection that outpaces traditional rules-based systems",
+    "Orchestrating multiple AI agents to collaboratively identify emerging threats",
+    "Defending organizations against AI-powered security threats and customized evasive payloads"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "AI agents",
+    "AI/ML systems",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves building AI Agents for threat detection,\ndirectly working with models that need daily adaptation.\nThis is hands-on development of AI systems (agents,\norchestration layer) not just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI agents",
+      "RAG"
+    ],
+    "ml": [
+      "AI/ML systems"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Security/detection systems",
+      "Adversarial environments"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

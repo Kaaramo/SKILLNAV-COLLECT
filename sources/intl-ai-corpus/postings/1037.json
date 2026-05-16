@@ -1,0 +1,134 @@
+{
+  "job_id": "intl-ai-corpus-1037",
+  "source": "intl-ai-corpus",
+  "source_ref": "8034607",
+  "source_url": "https://builtin.com/job/ai-engineer/8034607",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "T-Systems ICT India Pvt. Ltd.",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-09",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,408 Employees",
+  "company_stage": "Public",
+  "company_focus": "IT services and digital transformation solutions across\nindustries",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Consulting",
+    "Cybersecurity",
+    "Big Data Analytics"
+  ],
+  "description": "Company Description\n\nCompany Introduction – T-Systems ICT India Pvt. Ltd.\nT-Systems Information and Communication Technology India\nPrivate Limited (T-Systems ICT India Pvt. Ltd.) is a\ncertified Great Place To Work®, proudly recognized for its\nstrong people-first culture and commitment to employee\nexcellence. As a wholly owned subsidiary of T-Systems\nInternational GmbH, T-Systems India operates out of Pune and\nBangalore, with a dynamic team of over 4,200 professionals\ndelivering high-value IT services to group customers\nworldwide. T-Systems India plays a key role in this global\nvision by delivering integrated, end-to-end IT solutions and\nsector-specific software to drive transformation across\nindustries, including automotive, manufacturing, logistics,\ntransportation, healthcare, and the public sector. For over\n25 years, T-Systems International GmbH has been at the\nforefront of digital innovation, driving progress and\nfostering digital optimism. As a leading European IT\nservices provider and a proud part of Deutsche Telekom,\nT-Systems delivers transformative digitalization projects\nbacked by deep expertise in consulting, cloud, AI,\ncybersecurity, and connectivity. With a global workforce of\n26,000 employees across 26 countries, we set industry\nbenchmarks in efficiency, sovereignty, security, and\nreliability—empowering organizations to unlock their full\ndigital potential. With annual revenues exceeding EUR 4.0\nbillion (2024), T-Systems stands as one of Europe’s foremost\ndigital transformation partners, committed to shaping the\nfuture of enterprise technology.\n\nJob Description\n\nKey Responsibilities:\n\nKey Responsibilities\n\n- Advanced RAG Implementation Implement and optimize\n  sophisticated Agentic RAG and standard RAG pipelines with\n  a strong focus on advanced Prompt   Context Engineering to\n  ensure agents receive precise relevant and high-quality\n  information\n- Design   Build Agentic Systems Design develop and deploy\n  autonomous multi agent systems    using frameworks like\n  crew ai to solve complex business problems\n- Agent to Agent A2A Communication Implement and refine A2A\n  protocols to allow for complex   collaborative task\n  execution between multiple AI agents\n- Develop MCP Connectors Build test  and maintain MCP\n  Connectors to enable our AI agents to interact seamlessly\n  with critical data sources including\n\n          o Microsoft Spreadsheets o Databricks Lakehouse o\nPostgres databases\n\n       5.  Backend  API Development  Create robust and\nscalable REST APIs to serve as the backbone for our\nAI bots and applications  ensuring reliable communication\nand integration\n\n      6. Cloud Deployment Enable deployment  management and\nmonitoring of AI applications within our\ncloud  environment  specifically Open Telekom Cloud  OTC\n\n      7. AI Powered Development Utilize modern AI coding\nassistants like GitHub Copilot  AI Engineer as a\ncore part of your daily workflow to write debug  and\noptimize code efficiently.\n\nRequired Qualifications   Skills 1. Backend Expertise Proven\nexperience as a backend developer e g   Python Node js  with\na strong                  portfolio of building and\ndeploying applications in a cloud environment 2. Expertise\nin RAG Deep hands on experience designing and building both\ntraditional RAG and                         advanced Agentic\nRAG systems from the ground up 3.  Agentic Frameworks\nDemonstrable hands on experience building multi agent\nsystems using crew ai or            similar frameworks e g\nLangGraph  llamaindex 4.  API   Integration Expertise in\ndeveloping and consuming REST APIs and integrating various\nthird-party           services. 5.  Data Connectivity Strong\nunderstanding of data integration patterns and experience\nconnecting to and            managing data in relational\ndatabases Postgres and data lakes Databricks 6.  Modern Dev\nTools High proficiency and daily use of AI coding tools like\nGitHub Copilot or AI Engineer 7. A problem-solving mindset\nwith a passion for staying on the absolute cutting edge of\nGenerative AI\n\nPreferred Qualifications Bonus Points 1. Direct experience\nwith Open Telekom Cloud OTC 2. A deep understanding of the\ntheoretical concepts behind MCP and A2A communication 3.\nFamiliarity with the challenges of productionizing LLM and\nagentic applications e g   evaluation\nmonitoring security 4. Contributions to open-source AI or\nagentic focused projects\n\nAdditional Information\n\nPlease Note: Fraudulent job postings/job scams are\nincreasingly common. Beware of misleading advertisements and\nfraudulent communication issuing 'offer letters' on behalf\nof T-Systems in exchange for a fee. Please look for an\nauthentic T-Systems email id - XYZ@t-systems.com.\n\nStay vigilant. Protect yourself from recruitment fraud!\n\nTo know more please visit : Fraud Alert\n",
+  "skills_required": [
+    "AI coding assistants",
+    "Agent-to-Agent Communication",
+    "Agentic RAG",
+    "CrewAI",
+    "GitHub Copilot",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP Connectors",
+    "Multi-agent Systems",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement and optimize sophisticated Agentic RAG and standard RAG pipelines with advanced prompt engineering",
+    "Design, develop, and deploy autonomous multi-agent systems using frameworks like CrewAI to solve complex business problems",
+    "Implement and refine Agent-to-Agent (A2A) communication protocols for collaborative task execution between multiple AI agents",
+    "Build, test, and maintain MCP connectors to enable AI agents to interact with data sources like Microsoft Spreadsheets, Databricks Lakehouse, and Postgres databases",
+    "Create robust and scalable REST APIs to serve as the backbone for AI bots and applications",
+    "Enable deployment, management, and monitoring of AI applications within Open Telekom Cloud (OTC) cloud environment"
+  ],
+  "use_cases": [
+    "Multi-agent systems for complex business problem solving",
+    "Agentic RAG for precise and relevant information retrieval",
+    "Agent-to-agent collaboration for coordinated task execution",
+    "AI-driven data connectivity across spreadsheets, data lakes, and databases",
+    "Enterprise AI application deployment and management"
+  ],
+  "tools_mentioned": [
+    "Databricks Lakehouse",
+    "Open Telekom Cloud",
+    "PostgreSQL",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "Agent-to-Agent Communication",
+    "Agentic RAG",
+    "CrewAI",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP Connectors",
+    "Multi-agent Systems",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building, implementing, and optimizing\nAgentic RAG pipelines, designing autonomous multi-agent\nsystems, implementing A2A communication protocols, and\ndeveloping MCP connectors - all of which are hands-on work\ndirectly on AI/LLM systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "Agentic RAG",
+      "Prompt Engineering",
+      "CrewAI",
+      "LangGraph",
+      "LlamaIndex",
+      "MCP Connectors",
+      "Agent-to-Agent Communication",
+      "Multi-agent Systems"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Databricks Lakehouse"
+    ],
+    "data": [],
+    "cloud": [
+      "Open Telekom Cloud"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": [
+      "GitHub Copilot",
+      "AI coding assistants"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

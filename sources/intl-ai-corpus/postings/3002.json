@@ -1,0 +1,152 @@
+{
+  "job_id": "intl-ai-corpus-3002",
+  "source": "intl-ai-corpus",
+  "source_ref": "9101006",
+  "source_url": "https://www.builtinla.com/job/ai-engineer-ii/9101006",
+  "title": "AI Engineer II",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Axle Informatics",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-20",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Bioscience and IT company providing translational research,\nbiomedical informatics, and data science solutions",
+  "industries": [
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "(ID: 2026-1850)\n\nAxle is a bioscience and information technology company that\noffers advancements in translational research, biomedical\ninformatics, and data science applications to research\ncenters and healthcare organizations nationally and abroad.\nWith experts in biomedical science, software engineering,\nand program management, we focus on developing and applying\nresearch tools and techniques to empower decision-making and\naccelerate research discoveries. We work with some of the\ntop research organizations and facilities in the country\nincluding multiple institutes at the National Institutes of\nHealth (NIH).\n\nBenefits We Offer:\n\n- 100% Medical, Dental & Vision Coverage for Employees\n- Paid Time Off and Paid Holidays\n- 401K match up to 5%\n- Educational Benefits for Career Growth\n- Employee Referral Bonus\n- Flexible Spending Accounts:\n\n\n\nRole Summary\n\nAxle is seeking an AI Engineer II with experience designing\nand delivering production AI systems to lead the development\nof intelligent applications that support translational\nresearch and scientific operations. This role involves\narchitecting retrieval-augmented generation (RAG) systems,\nagentic pipelines, document understanding workflows, and the\nshared platform services that make these systems reliable\nand reusable.\n\nA significant portion of this role involves working directly\nwith clients — scientists, program managers, and operational\nstaff — who understand the problem domain but may not have a\ntechnical background. You will partner with them to elicit\nrequirements, translate domain needs into well-defined\ntechnical solutions, and ensure delivered software meets\ntheir real-world needs. The role requires a self-directed\nengineer who can make sound architectural decisions, take\nownership of technical components end-to-end, mentor junior\nteam members, and deliver iteratively while managing client\nrelationships and expectations.\n\n\n\nKey Responsibilities\n\n- Architect, develop, and maintain AI-powered applications in\n  Python, including conversational assistants, agentic\n  tools, and retrieval-augmented generation (RAG) systems.\n- Design and optimize retrieval pipelines: embedding\n  generation, vector search, hybrid search, and reranking\n  against large domain-specific corpora.\n- Build document ingestion and parsing pipelines that extract\n  structured content (text, tables, figures, citations) from\n  scientific and technical documents for downstream use by\n  AI systems.\n- Integrate structured knowledge — ontologies, controlled\n  vocabularies, and knowledge graphs — with unstructured\n  text to produce evidence-grounded, provenance-aware AI\n  outputs.\n- Develop and operate shared platform services that accelerate\n  delivery of new AI applications: model gateways, agent-\n  tool integrations, authentication, API key management, and\n  observability.\n- Lead technical design decisions and establish best practices\n  for code quality, testing, evaluation, and deployment of\n  AI systems.\n- Provision, deploy, monitor, and troubleshoot services on\n  Kubernetes and cloud infrastructure, including container\n  builds, manifests, and CI/CD pipelines.\n- Design and maintain relational and vector databases,\n  including schema design, indexing, migrations, and\n  incremental data updates.\n- Define and track quality metrics for AI systems (retrieval\n  quality, answer faithfulness, latency, cost) and drive\n  measurable improvements over time.\n- Engage directly with non-technical clients to gather\n  requirements, clarify goals, manage expectations, and\n  validate that delivered solutions align with their\n  objectives.\n- Translate high-level client and mission needs into\n  actionable technical specifications and development plans.\n- Mentor junior engineers and contribute to a culture of\n  technical excellence.\n- Participate in and help facilitate standups, sprint\n  planning, and cross-team review meetings across multiple\n  project streams.\n\nRequired Skills & Qualifications\n\n- 5+ years of professional experience in software development,\n  with recent hands-on work building AI or ML-powered\n  applications.\n- Strong proficiency in Python for application development,\n  scripting, and tooling.\n- Demonstrated experience building retrieval-augmented\n  generation (RAG) systems, including embeddings, vector\n  search, and reranking.\n- Experience integrating large language models (LLMs) into\n  production applications using modern agent or\n  orchestration frameworks.\n- Experience with vector databases and semantic search.\n- Demonstrated experience making architectural decisions and\n  owning technical direction for software projects.\n- Experience with Docker, containerization workflows, and\n  Kubernetes for deploying and operating production\n  services.\n- Experience with PostgreSQL and relational database design.\n- Strong command of Linux development environments.\n- Experience with Git/GitHub workflows, including branching,\n  pull requests, and code review practices.\n- Proven ability to work independently, prioritize across\n  concurrent workstreams, and drive projects to completion\n  with minimal oversight.\n\n\n\nPreferred Qualifications\n\n- Experience with document parsing, OCR, and layout-aware\n  extraction for scientific or technical documents.\n- Familiarity with knowledge graphs, ontologies, and\n  controlled vocabularies, including RDF, SPARQL, or graph\n  query languages.\n- Experience with agent-tool integration frameworks, including\n  the Model Context Protocol (MCP).\n- Experience with LLM observability, tracing, and evaluation\n  tooling.\n- Experience with GPU computing (CUDA/NVIDIA) for embedding or\n  inference workloads.\n- Experience with AWS (IAM, S3, deployment, general\n  infrastructure management).\n- Familiarity with OIDC/OAuth authentication and API key\n  management in production systems.\n- Background in biomedical informatics, translational\n  research, or health sciences.\n- Experience with AI-assisted development tools (e.g., Claude\n  Code, GitHub Copilot).\n- Familiarity with Jira or similar project management tools.\n\n\n\nInterpersonal Skills\n\n- Strong written and verbal communication skills, including\n  the ability to convey technical concepts to non-technical\n  collaborators and translate domain expertise into software\n  requirements.\n- Skilled at requirements elicitation — able to ask the right\n  questions, listen actively, and bridge the gap between\n  what subject matter experts need and what engineering can\n  deliver.\n- Ability to work effectively across multiple teams and\n  project streams with different leads, priorities, and\n  cadences.\n- Comfortable operating in a large, cross-functional team\n  environment where coordination and alignment are\n  essential.\n- Proactive in communicating progress, raising blockers, and\n  seeking input from teammates and stakeholders.\n- Tactful and professional when engaging with clients and\n  external partners; able to navigate sensitive situations\n  and escalate appropriately.\n- Receptive to feedback and committed to iterative\n  improvement.\n\nDisclaimer: The above description is meant to illustrate the\ngeneral nature of work and level of effort being performed\nby individuals assigned to this position or job description.\nThis is not restricted as a complete list of all skills,\nresponsibilities, duties, and/or assignments required.\nIndividuals may be required to perform duties outside of\ntheir position, job description or responsibilities as\nneeded.\n\nThe diversity of Axle’s employees is a tremendous asset. We\nare firmly committed to providing equal opportunity in all\naspects of employment and will not tolerate any illegal\ndiscrimination or harassment based on age, race, gender,\nreligion, national origin, disability, marital status,\ncovered veteran status, sexual orientation, status with\nrespect to public assistance, and other characteristics\nprotected under state, federal, or local law and to deter\nthose who aid, abet, or induce discrimination or coerce\nothers to discriminate.\n\nAccessibility: If you need an accommodation as part of the\nemployment process please contact: careers@axleinfo.com\n\nThis role has a market-competitive salary with an\nanticipated base compensation range listed below. Actual\nsalaries will vary depending on a candidate’s experience,\nqualifications, skills, and location.\n\n#IND\n\nSalary Range\n\n$120,000—$150,000 USD\n",
+  "skills_required": [
+    "Agent orchestration frameworks",
+    "CUDA",
+    "Embedding generation",
+    "LLM integration",
+    "Linux",
+    "Model Context Protocol (MCP)",
+    "OIDC/OAuth authentication",
+    "Prompt engineering",
+    "RAG systems",
+    "Reranking",
+    "Vector search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect, develop, and maintain AI-powered applications including conversational assistants, agentic tools, and RAG systems",
+    "Design and optimize retrieval pipelines including embedding generation, vector search, hybrid search, and reranking for domain-specific corpora",
+    "Build document ingestion and parsing pipelines extracting structured content from scientific and technical documents",
+    "Integrate structured knowledge (ontologies, controlled vocabularies, knowledge graphs) with unstructured text for evidence-grounded AI outputs",
+    "Develop and operate shared platform services including model gateways, agent-tool integrations, authentication, and observability",
+    "Provision, deploy, monitor, and troubleshoot services on Kubernetes and cloud infrastructure with CI/CD pipelines",
+    "Design and maintain relational and vector databases including schema design, indexing, and migrations",
+    "Engage directly with non-technical clients to gather requirements, manage expectations, and validate delivered solutions"
+  ],
+  "use_cases": [
+    "Retrieval-augmented generation for scientific and biomedical document search and question answering",
+    "Conversational AI assistants for translational research support",
+    "Document understanding and structured extraction from scientific literature including tables, figures, and citations",
+    "Evidence-grounded AI outputs combining knowledge graphs and ontologies with unstructured text",
+    "Shared AI platform services enabling rapid delivery of new intelligent applications for research organizations"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "Document parsing and OCR",
+    "Git/GitHub",
+    "Knowledge graphs",
+    "Kubernetes",
+    "LLM observability and tracing",
+    "PostgreSQL",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent orchestration frameworks",
+    "CUDA",
+    "Embedding generation",
+    "LLM integration",
+    "Model Context Protocol (MCP)",
+    "Prompt engineering",
+    "RAG systems",
+    "Reranking",
+    "Vector search"
+  ],
+  "languages_programming": [
+    "Python",
+    "SPARQL",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building, deploying, and\nmaintaining AI-powered systems including RAG pipelines,\nagentic tools, and LLM-integrated applications. The engineer\narchitects and develops these systems end-to-end, from\nembedding generation to production deployment, making this\nclearly an ai-first role.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG systems",
+      "LLM integration",
+      "Agent orchestration frameworks",
+      "Model Context Protocol (MCP)",
+      "Prompt engineering",
+      "Embedding generation",
+      "Vector search",
+      "Reranking"
+    ],
+    "ml": [
+      "CUDA"
+    ],
+    "web": [],
+    "databases": [
+      "PostgreSQL",
+      "Vector databases"
+    ],
+    "data": [
+      "Knowledge graphs",
+      "Document parsing and OCR"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Git/GitHub",
+      "LLM observability and tracing"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "SPARQL"
+    ],
+    "domains": [
+      "Biomedical informatics",
+      "Translational research"
+    ],
+    "other": [
+      "Linux",
+      "OIDC/OAuth authentication"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

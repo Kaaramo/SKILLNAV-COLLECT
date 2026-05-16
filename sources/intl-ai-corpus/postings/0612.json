@@ -1,0 +1,109 @@
+{
+  "job_id": "intl-ai-corpus-0612",
+  "source": "intl-ai-corpus",
+  "source_ref": "8286139",
+  "source_url": "https://builtin.com/job/backend-engineer-ai/8286139",
+  "title": "Backend Engineer, AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BJAK",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-23",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "253 Employees",
+  "company_stage": null,
+  "company_focus": "Building proactive AI systems that carry work forward across\nconversations, tools, and time",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "Backend Engineer, AIAbout the Role\n\nA1 is building a proactive AI system that carries work\nforward across conversations, tools, and time.\n\nYou will build the systems that power every AI interaction\nusers experience. Your work will sit at the intersection of\nmodels, orchestration, APIs, and product behavior - where\ncorrectness, latency, and reliability actually matter.\n\nFocus\n\n- Build and operate backend systems that serve AI-powered\n  features in production.\n- Design inference pipelines, orchestration layers, and\n  service boundaries around models.\n- Own production concerns: monitoring, logging, alerting, and\n  incident response.\n- Optimize latency and throughput across inference, caching,\n  batching, and streaming.\n\nIdeal Experiences\n\n- Strong backend engineering fundamentals in production\n  environments.\n- Experience running high-throughput, low-latency services.\n- Familiarity with AI inference patterns (LLMs, embeddings,\n  multimodal).\n- Comfortable debugging distributed systems under load.\n- Bias toward shipping and learning from production behavior.\n\nTech Stack\n\n- Python\n- NodeJs\n- Pytorch\n- OpenAI / Anthropic / open-source LLMs\n- SQl & noSQL\n- Kubernetes\n- Docker\n\nHow We Work\n\nOur organization is very flat and our team is small, highly\nmotivated, and focused on engineering and product\nexcellence. All members are expected to be hands-on and to\ncontribute directly to the company’s mission.\n\nInterview process\n\nIf there appears to be a fit, we'll reach to schedule 3, but\nno more than 4 interviews.\n\nApplications are evaluated by our technical team members.\nInterviews will be conducted via virtual meetings and/or\nonsite.\n\nWe value transparency and efficiency, so expect a prompt\ndecision. If you've demonstrated the exceptional skills and\nmindset we're looking for, we'll extend an offer to join us.\nThis isn't just a job offer; it's an invitation to be part\nof a team that's bringing AI to have practical benefits to\nbillions globally.\n",
+  "skills_required": [
+    "Anthropic APIs",
+    "OpenAI APIs",
+    "PyTorch",
+    "open-source LLMs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and operate backend systems that serve AI-powered features in production",
+    "Design inference pipelines, orchestration layers, and service boundaries around models",
+    "Own production concerns including monitoring, logging, alerting, and incident response",
+    "Optimize latency and throughput across inference, caching, batching, and streaming"
+  ],
+  "use_cases": [
+    "Proactive AI system that carries work forward across conversations, tools, and time",
+    "AI-powered features that require model orchestration across multiple interactions",
+    "Real-time inference serving with high throughput and low latency requirements"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "NoSQL",
+    "SQL"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic APIs",
+    "OpenAI APIs",
+    "PyTorch",
+    "open-source LLMs"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role focuses on building backend systems, orchestration\nlayers, and inference pipelines that power AI features, but\ndoes not involve training, fine-tuning, or directly\ndeveloping models. The engineer works on infrastructure,\nAPIs, and production concerns (latency, reliability,\nmonitoring) to serve existing LLMs rather than building or\ndeploying models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI APIs",
+      "Anthropic APIs",
+      "open-source LLMs"
+    ],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [
+      "SQL",
+      "NoSQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

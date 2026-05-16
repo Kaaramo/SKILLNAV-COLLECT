@@ -1,0 +1,131 @@
+{
+  "job_id": "intl-ai-corpus-1440",
+  "source": "intl-ai-corpus",
+  "source_ref": "8465071",
+  "source_url": "https://www.builtinla.com/job/azure-ai-ml-engineer/8465071",
+  "title": "Azure AI / ML Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Matrix Global Services",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-11",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Global technical consultancy providing IT services, software\nsolutions, and infrastructure consulting",
+  "industries": [
+    "Insurance",
+    "Consulting"
+  ],
+  "description": "Job Title: Azure AI / ML Engineer\n\nOur organization is committed to advancing enterprise\ncapabilities by leveraging Azure AI and Machine Learning to\nsolve complex business challenges and accelerate product\ndelivery. We are seeking a Senior AI / ML Platform Engineer\nto design and implement enterprise‑grade data and AI/ML\nplatform services across Azure and GCP.\n\nThe ideal candidate brings hands-on experience delivering\nAI/ML cloud solutions within regulated industries—preferably\nfinancial services—with a strong understanding of security,\ncompliance, and operational best practices. This role\nfocuses on AI/ML service enablement, automation, and\napplying AIOps principles to build a scalable, secure,\nself‑service platform.\n\nYou will work collaboratively with cloud engineering,\nnetwork, security, and risk teams to deliver secure Azure AI\nand ML solutions aligned with enterprise security and\ncompliance standards. You will also partner closely with\ndevelopers and business units to continuously improve\nframeworks, tooling, and automation for AI/ML services.\n\nRoles and Responsibilities\n\n- Demonstrate strong passion for Generative AI and Machine\n  Learning\n- Apply an AIOps/MLOps mindset to enable services and build\n  pipelines for training and production models\n- Partner with application development teams to leverage AI/ML\n  services that solve business objectives\n- Ensure secure handling of data, model training, and\n  deployment within cloud environments\n- Develop APIs and Webhooks using Python, Git Actions, and\n  Terraform\n- Write and maintain Azure Resource Manager (ARM) and\n  Terraform templates\n- Implement and support Azure security features (data\n  protection, authentication, RBAC, etc.)\n- Manage Public Key Infrastructure (PKI), including\n  certificate handling for Azure PaaS services\n- Troubleshoot Azure services, DNS, connectivity, NSGs, and\n  routing\n- Automate cloud operations using native Azure CLI\n- Support platform and analytics deployments via CI/CD\n  pipelines\n- Ensure all cloud solutions adhere to internal security and\n  compliance policies\n- Develop and consume APIs, SDKs, and Webhooks for integration\n  across enterprise systems, DevOps tools, and cloud\n  platforms\n- Operate effectively within fast‑paced DevOps teams following\n  Scrum methodologies\n- Demonstrate strong critical thinking, research, and\n  analytical abilities\n- Work independently and collaboratively with a positive,\n  proactive attitude\n\nRequired Skills\n\n- 3+ years as an AI and ML Platform Engineer\n- 3+ years developing platform orchestration code using Azure\n  Python SDK, Terraform, and GitHub Runners\n- Strong experience delivering Cloud Infrastructure as Code\n  (IaC) via CI/CD pipelines, Terraform, and Git Actions\n- Knowledge of GenAI models, development frameworks (e.g.,\n  LangChain, Semantic Kernel), and AI ecosystem tools\n  (evaluation, monitoring, governance, security, vector\n  databases)\n- Ability to identify and mitigate security risks associated\n  with Generative AI\n- Understanding of RAG architecture components, usage\n  patterns, and optimization\n- Demonstrated self‑starter with the ability to take\n  initiative and drive results\n- Advanced critical thinking, analytical, and problem‑solving\n  skills\n\nWhy Matrix\n\nMatrix is a global, dynamic, fast-growing technical\nconsultancy leading technology services company with 13000\nemployees worldwide. Since its foundation in 2001, Matrix\nhas made more travelers and acquisitions and has executed\nsome of the largest, most significant. The company\nspecializes in implementing and developing leading\ntechnologies, software solutions, and products. It provides\nits customers with infrastructure and consulting services,\nIT outsourcing, offshore, training and assimilation, and Ves\nas representatives for the world's leading software vendors.\nWith vast experience in private and public sectors, ranging\nfrom Finance, Telecom, Health, Hi-Tech, Education, Defense,\nand Secu city, Matrix's customer base includes guest\norganizations in Israel and a steadily growing client base\nworldwide.\n\nWe are comprised of talented, creative, and dedicated\nindividuals passionate about delivering innovative solutions\nto the market. We source and foster the best talent and\nrecognize that all employee's contributions are integral to\nour company's future.\n\nMatrix- success is based on a challenging work environment,\ncompetitive compensation and benefits, and rewarding career\nopportunities. We encourage a diverse work environment of\nsharing, learning, and ceding together. Come and join the\nwinning team! You'll be challenged and have fun in a highly\nrespected organization. To Learn More, Visit Matrix -ifs.\nCom,\n",
+  "skills_required": [
+    "LangChain",
+    "RAG",
+    "Scrum",
+    "Semantic Kernel"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement enterprise-grade AI/ML platform services across Azure and GCP",
+    "Build and automate AI/ML pipelines for training and production models using AIOps/MLOps principles",
+    "Develop APIs and Webhooks using Python, Git Actions, and Terraform for AI/ML service integration",
+    "Implement Azure AI security features including data protection, authentication, and RBAC for AI workloads",
+    "Write and maintain Azure Resource Manager (ARM) and Terraform templates for AI/ML infrastructure",
+    "Partner with development teams to leverage AI/ML services for solving business objectives",
+    "Ensure secure handling of data, model training, and deployment within cloud environments",
+    "Support platform and analytics deployments via CI/CD pipelines"
+  ],
+  "use_cases": [
+    "Enterprise AI/ML platform enablement for regulated industries",
+    "Generative AI solution deployment with security and compliance",
+    "RAG architecture implementation for enterprise knowledge systems",
+    "Automated AI/ML pipeline development for model training and production",
+    "Secure cloud AI infrastructure for financial services"
+  ],
+  "tools_mentioned": [
+    "AIOps",
+    "Azure AI services",
+    "Azure CLI",
+    "Azure Python SDK",
+    "Azure Resource Manager (ARM)",
+    "CI/CD",
+    "DevOps",
+    "GCP",
+    "GitHub Actions",
+    "MLOps",
+    "PKI",
+    "RBAC",
+    "Terraform",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "RAG",
+    "Semantic Kernel"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly implementing and enabling Azure\nAI/ML services, including GenAI models, RAG architectures,\nand AI/ML pipelines for training and production. The\nposition requires hands-on work with LangChain, Semantic\nKernel, and vector databases to build enterprise AI\nplatforms.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Semantic Kernel",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure AI services",
+      "Azure Python SDK",
+      "Azure Resource Manager (ARM)",
+      "Azure CLI",
+      "GCP",
+      "RBAC"
+    ],
+    "ops": [
+      "Terraform",
+      "GitHub Actions",
+      "CI/CD",
+      "MLOps",
+      "AIOps",
+      "PKI",
+      "DevOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Scrum"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

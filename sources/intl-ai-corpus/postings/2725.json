@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-2725",
+  "source": "intl-ai-corpus",
+  "source_ref": "8986880",
+  "source_url": "https://builtin.com/job/platform-engineer-generative-ai/8986880",
+  "title": "Platform Engineer - Generative AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Uncountable Inc",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-08",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "46 Employees",
+  "company_stage": "Unknown stage (has equity compensation suggesting startup, but stage not specified)",
+  "company_focus": "Scientific R&D data platform for materials science,\nchemistry, and biotech",
+  "industries": [],
+  "description": "Thank you for your interest in Uncountable Engineering!\n\nDescription\n\n‍Uncountable is seeking driven software engineers with a\nfocus on Generative AI deployment in software.\n\nUncountable’s software platform is used by scientists in\nleading scientific R&D organizations to structure and\nanalyze experimental data. Uncountable’s users are solving\ncritical problems in materials science, chemistry, biotech,\nand other scientific fields, and our goal is to help them\nsolve those problems faster.\n\nYour role will be to bring the full power of ongoing\nadvances in LLMs to bear on real-world problems and friction\nfaced by scientists every day. You’ll be building AI-powered\nsearch and visualization tools, next-generation UX that use\nmultimodal LLMs as the UI, intelligent research assistants,\nand more. This is a unique opportunity to join the front-\nline effort to accelerate scientific progress using LLMs and\ngenerative AI.\n\nPrimary Responsibility\n\nYou will be responsible for:\n\n- Building specific LLM powered features end-to-end, including\n  both LLM-specific tasks (prompting, optimizing latency,\n  tuning/testing behavior) and traditional fullstack\n  development tasks (coding frontends/backends, designing\n  APIs and databases)\n\n- Developing a great in-house LLM stack to serve the evolving\n  needs of our product (API integration, testing,\n  observability, caching, infrastructure for fine-tuning and\n  inference, etc)\n\nUncountable has a strong culture of continuous deployment\nand fast iteration cycles. You’ll expect to ship your work\nearly and often to Uncountable’s users and iterate based on\ntheir feedback.\n\nMany of the features you build will represent new and\nunprecedented ways to use software, so you’ll wear various\nhats as a designer, researcher, engineer, product manager,\nand whatever else is needed to create an amazing product.\nThis is a great role for someone who is looking to grow\ntheir skills and perspective quickly, or who wants to found\ntheir own company in the future.\n\nSalary Range: $120K-$160K + Equity\n\nRequirements\n\n- ‍‍2 years of development experience\n- Strong interest in Generative AI\n- Solid computer science and software engineering fundamentals\n\nPreferred Qualifications\n\n- ‍‍B.S. in computer science\n- Experience shipping software incorporating Generative AI to\n  users (e.g. started an LLM startup or shipped a side\n  project with real usage)\n- Familiarity with fullstack web development\n\nOur Current Stack\n\n- Backend: Flask (Python), Postgres\n- Frontend: React (Typescript), Redux, Sass\n\nBenefits\n\n- Competitive Salary and Equity\n- Health and Dental Insurance\n- 401K with Employer Contribution\n\nWhat's next? Learn more about Interviewing at Uncountable\n\nLearn more about our engineering team: Check out our blog\n",
+  "skills_required": [
+    "LLM Fine-tuning",
+    "LLM Inference Optimization",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build LLM-powered features end-to-end including prompting, latency optimization, and behavior tuning/testing",
+    "Develop and maintain an in-house LLM stack including API integration, testing, observability, caching, and infrastructure for fine-tuning and inference",
+    "Code frontends and backends, design APIs and databases for AI-powered features",
+    "Ship features early and often to users and iterate based on feedback",
+    "Build AI-powered search and visualization tools for scientists",
+    "Create next-generation multimodal LLM-driven UX experiences",
+    "Develop intelligent research assistants for scientific workflows",
+    "Act as designer, researcher, engineer, and product manager as needed for novel AI features"
+  ],
+  "use_cases": [
+    "AI-powered search and visualization tools for scientific experimental data",
+    "Multimodal LLM-driven user interfaces for scientific software",
+    "Intelligent research assistants for scientists in R&D organizations",
+    "Accelerating scientific progress in materials science, chemistry, and biotech through generative AI"
+  ],
+  "tools_mentioned": [
+    "Flask",
+    "PostgreSQL",
+    "REST API Design",
+    "React",
+    "Redux",
+    "Sass"
+  ],
+  "frameworks_mentioned": [
+    "LLM Fine-tuning",
+    "LLM Inference Optimization",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely ai-first because the engineer is\ndirectly building, deploying, and optimizing LLM-powered\nfeatures end-to-end — including prompting, latency\noptimization, fine-tuning infrastructure, inference, and\ndeveloping an in-house LLM stack. The position involves\nhands-on work with LLMs/generative AI as a core\nresponsibility, not merely supporting others who work on AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt Engineering",
+      "LLM Fine-tuning",
+      "LLM Inference Optimization",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "Flask",
+      "React",
+      "Redux",
+      "REST API Design",
+      "Sass"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

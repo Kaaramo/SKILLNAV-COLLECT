@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2289",
+  "source": "intl-ai-corpus",
+  "source_ref": "8843988",
+  "source_url": "https://www.builtinla.com/job/software-engineer-full-stack-ai-data/8843988",
+  "title": "Software Engineer, Full Stack - AI & Data",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Rescale",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-23",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Digital engineering platform for HPC, AI, and R&D simulation",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "Rescale is pioneering the future of engineering and\nscientific discovery. As the leader in digital engineering,\nwe’re transforming how products are developed—through\nintelligent automation, applied AI, data management, and the\nintegration of the world’s largest network of engineering\nand R&D applications. Joining Rescale means becoming part of\na diverse, collaborative, and mission-driven team that’s\nunlocking faster innovation across industries like\naerospace, energy, life sciences, and manufacturing. We’re\nsolving complex challenges that traditional HPC can’t—and\nwe’re seeking passionate, curious minds to help build the\nnext wave of breakthroughs.\n\nWe are seeking a product-focused Software Engineer to join\nour infrastructure organization, owning core data and AI\ncapabilities that power file management, high-performance\ndata paths, bring-your-own data patterns, and integrations\nwith external systems.\n\nSome of the things you will work on and impact:\n\n- Design, build, and operate backend services for generative\n  AI capabilities, including LLM-backed APIs, agents,\n  retrieval and knowledge layers, and connectors to internal\n  and external systems.\n- Build and scale data infrastructure underpinning file\n  management and high-throughput data flows between customer\n  environments, cloud object storage, and compute clusters,\n  with an emphasis on reliability, performance, and cost.\n- Work across the stack—from backend services (Python/Java/Go)\n  and cloud infrastructure (AWS/Azure/GCP,\n  containers/Kubernetes) to the occasional UI change—to\n  deliver end-to-end user-facing experiences in\n  collaboration with product, design, and other engineering\n  teams.\n\nWhat we’re looking for:\n\n- 1-3 years of backend software engineering experience\n  building and operating distributed systems in a major\n  cloud environment (AWS, Azure, or GCP).\n- Strong experience in at least two of Python, Java, or Go,\n  and comfort working across service boundaries and APIs.\n- Experience with data-intensive systems (for example: object\n  storage, relational databases, caches, queues/streams) and\n  experience or strong interest in building products on top\n  of LLMs or agents.\n- Experience using AI agents as part of the software\n  development lifecycle (Claude Code or similar).\n- Willingness to work across the stack as needed—from backend\n  services and cloud infrastructure to occasional frontend\n  changes.\n- Strong product mindset, ability to navigate ambiguity, and\n  effective collaboration with designers, product managers,\n  and other engineers.\n- BS in Computer Science or equivalent experience.\n\nDiversity, equity, inclusion and belonging are fundamental\nto our success. We strive to be a workplace where we:\n\n- Welcome ALL and ALL are welcome.\n- Show up with our whole selves or whichever parts of\n  ourselves we’re comfortable sharing, and be ready to see\n  the same in others.\n- Be ready to learn, unlearn, and learn again.\n- Respect others and their opinions. We practice empathy in\n  the way we interact with each other and celebrate\n  uniqueness as a team.\n- Seek to understand - ask more questions than one makes\n  statements.\n- Provide safety from judgment and preserve a collaborative\n  environment.\n\nRescale is an equal opportunities employer and welcomes\napplications from all qualified persons regardless of their\nrace, sex, disability, religion/belief, sexual orientation\nor age. As part of our standard hiring process for new\nemployees, employment with Rescale will be contingent upon\nsuccessful completion of a comprehensive background check.\nHere at Rescale, we are committed to being transparent in\nour policies around candidate privacy. For more details on\nthe information Rescale collects in your application, please\nview the https://rescale.com/company/legal/applicant-\nprivacy-notice/ here.\n",
+  "skills_required": [
+    "AI agents",
+    "Claude Code",
+    "Distributed systems",
+    "LLMs",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and operate backend services for generative AI capabilities including LLM-backed APIs, agents, retrieval and knowledge layers, and connectors to internal and external systems",
+    "Build and scale data infrastructure for file management and high-throughput data flows between customer environments, cloud object storage, and compute clusters",
+    "Work across the full stack from backend services to cloud infrastructure and occasional UI changes to deliver end-to-end user-facing experiences",
+    "Ensure reliability, performance, and cost optimization for data-intensive systems",
+    "Collaborate with product, design, and other engineering teams on infrastructure capabilities"
+  ],
+  "use_cases": [
+    "LLM-backed APIs and agents for engineering and scientific discovery",
+    "Retrieval and knowledge layers for data management",
+    "File management and data flow between customer environments and compute clusters",
+    "Bring-your-own data patterns integration",
+    "Connectors to internal and external engineering systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Caches",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "Object storage",
+    "Queues/streams",
+    "Relational databases"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Claude Code",
+    "LLMs",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing and building backend services\nfor generative AI capabilities, including LLM-backed APIs,\nagents, and retrieval layers. The engineer will directly\nimplement and operate AI systems, not just support\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "AI agents",
+      "RAG",
+      "Claude Code"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Object storage",
+      "Relational databases",
+      "Caches"
+    ],
+    "data": [
+      "Queues/streams"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "Go"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

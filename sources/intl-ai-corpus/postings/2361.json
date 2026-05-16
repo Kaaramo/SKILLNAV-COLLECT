@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-2361",
+  "source": "intl-ai-corpus",
+  "source_ref": "8861183",
+  "source_url": "https://builtin.com/job/associate-engineer-agentic-ai-developer/8861183",
+  "title": "Associate Engineer - Agentic AI Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Sutherland",
+  "company_type": "entité morale privée",
+  "location": "Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "39,547 Employees",
+  "company_stage": null,
+  "company_focus": "AI, automation, cloud engineering, and advanced analytics\nservices",
+  "industries": [
+    "Artificial Intelligence",
+    "Analytics"
+  ],
+  "description": "Company Description\n\nAbout Sutherland\n\nArtificial Intelligence. Automation.Cloud engineering.\nAdvanced analytics.For business leaders, these are key\nfactors of success. For us, they’re our core expertise.\n\nWe work with iconic brands worldwide. We bring them a unique\nvalue proposition through market-leading technology and\nbusiness process excellence.\n\nWe’ve created over 200 unique inventions under several\npatents across AI and other critical technologies.\nLeveraging our advanced products and platforms, we drive\ndigital transformation, optimize critical business\noperations, reinvent experiences, and pioneer new solutions,\nall provided through a seamless “as a service” model.\n\nFor each company, we provide new keys for their businesses,\nthe people they work with, and the customers they serve. We\ntailor proven and rapid formulas, to fit their unique DNA.We\nbring together human expertise and artificial intelligence\nto develop digital chemistry. This unlocks new\npossibilities, transformative outcomes and enduring\nrelationships. Sutherland\n\nUnlocking digital performance. Delivering measurable\nresults.\n\n\nJob Description\n\nWe are seeking an Agentic AI Developer to build intelligent,\nautonomous AI systems that can reason, retrieve knowledge,\nand act across multiple tools and data sources. The role\nfocuses on developing multi-agent pipelines, RAG systems,\nand real-time AI-driven applications.\n\nResponsibilities\n\n- Design and develop agentic AI systems using LLMs, tools, and\n  orchestration frameworks.\n- Build RAG pipelines for structured and unstructured data.\n- Implement multi-agent workflows for document understanding,\n  OCR, and data extraction.\n- Build APIs and services using Python and FastAPI for AI\n  pipelines.\n- Evaluate and improve model accuracy, latency, and\n  reliability\n\nQualifications\n\nRequired Skills\n\n- Strong proficiency in Python and SQL.\n- Experience with LLMs, RAG, and multi-agent systems.\n- Hands-on with LangChain, LangGraph or similar frameworks.\n- Experience with vector databases and OCR tools.\n- Experience deploying models on cloud platforms (Azure\n  preferred).\n- Knowledge of prompt engineering and agent reasoning\n  patterns.\n- Familiarity with cloud deployment and Docker.\n\nGood to Have\n\n- Exposure to cloud platforms (GCP) .\n- Exposure to MLOps experience.\n- Knowledge of CI/CD tools.\n\nAdditional Information\n\nAll your information will be kept confidential according to\nEEO guidelines.\n",
+  "skills_required": [
+    "Agent reasoning patterns",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "Multi-agent systems",
+    "OCR tools",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop agentic AI systems using LLMs, tools, and orchestration frameworks",
+    "Build RAG pipelines for structured and unstructured data",
+    "Implement multi-agent workflows for document understanding, OCR, and data extraction",
+    "Build APIs and services using Python and FastAPI for AI pipelines",
+    "Evaluate and improve model accuracy, latency, and reliability"
+  ],
+  "use_cases": [
+    "Document understanding and data extraction",
+    "Multi-agent workflow automation",
+    "Knowledge retrieval and reasoning systems",
+    "Real-time AI-driven applications",
+    "OCR and structured data processing"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "GCP",
+    "MLOps",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent reasoning patterns",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building agentic AI\nsystems, including multi-agent pipelines, RAG systems, and\nAI-driven applications. The developer will work hands-on\nwith LLMs, agent orchestration frameworks, and model\ndeployment, which is core AI/ML development work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "Multi-agent systems",
+      "LangChain",
+      "LangGraph",
+      "Prompt engineering",
+      "Agent reasoning patterns"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "MLOps",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "OCR tools"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

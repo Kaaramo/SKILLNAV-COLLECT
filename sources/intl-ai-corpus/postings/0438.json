@@ -1,0 +1,151 @@
+{
+  "job_id": "intl-ai-corpus-0438",
+  "source": "intl-ai-corpus",
+  "source_ref": "8028261",
+  "source_url": "https://builtin.com/job/senior-full-stack-software-engineer-next-js-supabase-ai-native/8028261",
+  "title": "Senior Full-Stack Software Engineer (Next.js + Supabase + AI-Native)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Finite State",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-31",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "38 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Cybersecurity platform for connected devices and supply\nchains",
+  "industries": [
+    "Security",
+    "Cybersecurity"
+  ],
+  "description": "Finite State partners with product security teams, the\nguardians of our connected world, to create transparency for\ntheir connected devices and supply chains. Our platform\nhandles connected devices and embedded systems across all\nindustries, including those found in enterprises,\nhealthcare, utilities, connected vehicles, manufacturing\nfacilities, critical infrastructure, and government\nentities.\n\nWe are a fast-growing series-B company with a fully\ndistributed workforce. Led by a team of seasoned experts, we\nare a mission-driven team passionate about arming our\ncustomers with the actionable insights, critical\nvulnerability data, and remediation guidance necessary to\nmitigate product risk and protect the connected attack\nsurface. We are committed to a remote first culture.\n\nThe Role\n\nWe’re looking for a Senior Full-Stack Software Engineer with\ndeep expertise in Next.js, TypeScript, PostgreSQL/Supabase,\nand AI-assisted development to design, build, and deliver\nthe scalable, secure systems behind our cybersecurity\nplatform.\n\nThis is a hands-on, product-focused role for an engineer\nwho:\n\n- Thrives at the intersection of secure software engineering,\n  data-heavy systems, and product innovation\n- Is fluent in AI tooling (Cursor, Devin, Copilot, etc.) and\n  knows how to turn them into real velocity — not toys\n- Can design full-stack solutions, think strategically about\n  risk and performance, and help us move business logic\n  closer to the data layer (Postgres + Supabase)\n\nWhat You’ll Do\n\n- Full-Stack Development: Build and maintain secure, scalable\n  web applications using Next.js/React, TypeScript, and Node\n  – backed by PostgreSQL on Supabase (and AWS RDS during\n  migration). Own features end-to-end from UI to database.\n- Database-Centric Application Logic: Design and implement\n  business logic close to the data using Postgres functions,\n  views, triggers, Row-Level Security (RLS), and Supabase\n  Edge Functions, minimizing unnecessary middleware and\n  enabling high performance and strong data isolation.\n- AI-Accelerated Development: Treat tools like Cursor, Devin,\n  GitHub Copilot, and agent frameworks as core parts of your\n  workflow. You'll use them to scaffold and refactor full-\n  stack features, generate and evolve schemas, migrations,\n  and RLS policies and build internal agents that automate\n  repetitive engineering tasks and glue systems together\n- Application Security First: Embed security best practices\n  into every layer of development — from secure coding and\n  dependency management to data protection and\n  authentication/authorization (Supabase Auth, OAuth2/OIDC,\n  SSO). Collaborate with security researchers to ensure\n  features align with threat models.\n- Product Collaboration: Work hand-in-hand with product\n  managers and designers to translate customer pain points\n  into impactful, intuitive features. Participate in product\n  discovery and help shape roadmaps with a strong technical\n  and data-informed perspective.\n- Architect & Scale: Design and optimize API contracts, edge\n  endpoints, and event flows using Next.js (server\n  components, API routes) and Supabase (Edge Functions,\n  real-time). Consider performance, resiliency, and multi-\n  region deployment (read replicas, data partitioning) as\n  first-class concerns.\n- Data Expertise: Model and optimize relational data in\n  PostgreSQL for large, multi-tenant workloads. Own indexing\n  strategies, query performance, and data partitioning\n  approaches to support 10x–30x growth in customers and\n  data.\n- Security-Integrated DevOps: Support automated testing, CI/CD\n  pipelines, database migrations, and vulnerability scanning\n  throughout the development lifecycle. Work closely with\n  infrastructure engineers on Supabase + AWS environments,\n  observability, and performance tuning.\n- Mentorship & Collaboration: Provide guidance and thoughtful\n  code reviews to peers, fostering a culture of quality,\n  security, and ownership. Help raise the bar on full-stack,\n  data-centric, and AI-native engineering practices.\n- Continuous Learning: Stay ahead of trends in AI-assisted\n  engineering, agentic systems, application security,\n  Next.js, and modern Postgres/Supabase practices, and share\n  what you learn with the team.\n\nWhat We’re Looking for\n\n- Senior Full-Stack Engineer with experience building and\n  shipping production web apps using Next.js/React,\n  TypeScript, PostgreSQL, and a Node-based backend\n- AI-native developer who regularly uses AI-assisted dev tools\n  (e.g., Cursor, Copilot, Devin) to move faster, improve\n  code quality, and explore design options, and knows when\n  to verify output\n- Strong backend and data modeling skills in Postgres;\n  experience with Supabase (Auth, RLS, Edge Functions,\n  migrations) or similar Postgres-based platforms is a plus\n- Security-conscious engineer with a solid understanding of\n  secure web application development,\n  authentication/authorization, and modern security best\n  practices; familiarity with software supply chain security\n  or interest in learning quickly\n- Experience deploying and operating applications in the cloud\n  (ideally AWS), with working knowledge of Docker, CI/CD,\n  and modern managed or serverless platforms\n- Product-minded and collaborative, balancing technical rigor\n  with user and business needs, caring about testing and\n  maintainability, and communicating clearly in a remote,\n  cross-functional team\n\nYour 90-Day Success Path\n\n- 30 Days: Ship small full-stack features in our Next.js +\n  Supabase stack; learn our security and data architecture;\n  demonstrate effective use of AI tools + agentic workflows\n  in your day-to-day work.\n- 60 Days: Own and deliver secure, high-impact features end-\n  to-end; contribute to schema and API design; help refine\n  patterns for RLS, migrations, edge functions, and internal\n  AI/agent tooling.\n- 90 Days: Lead new initiatives, drive improvements in\n  performance and security posture, shape our full-stack and\n  AI-native architecture, and mentor peers on Next.js,\n  Supabase, and AI-accelerated development.\n\nOur Tech Stack\n\n- Languages: TypeScript, JavaScript, Python\n- Frontend: Next.js, React\n- Backend / Platform: Supabase (PostgreSQL, Auth, Edge\n  Functions, Storage), Node/TypeScript services\n- Data: PostgreSQL (Supabase + AWS RDS during migration),\n  Redis\n- Auth & Security: Supabase Auth, OAuth2/OIDC, GitHub, Trivy,\n  Snyk\n- Infrastructure: AWS, Docker, Kubernetes (for supporting\n  services), modern CI/CD\n- AI Tools: Cursor, Devin, GitHub Copilot, and modern agent\n  frameworks where appropriate\n\nCompensation\n\nOur salary ranges are categorized into two tiers based on\ngeographic location:\n\n- Tier 1 (San Francisco, New York, Seattle): $227,000 -\n  $270,000\n- Tier 2 (All Other Locations): $181,000 - $216,000\n\nThe final base salary will be determined by experience,\nskill set, and specific location. In addition to base pay,\nthis role is eligible for equity and benefits.\n\n About Us\n\nBuilt on two decades of cybersecurity experience, our team\nof experts understands the hidden risks in today’s\nenterprise networks, where IoT vulnerabilities are quickly\nbecoming the entry point of choice for cyber attacks.\n\nWe have a sense of duty to protect the critical\ninfrastructure we rely on including medical devices, power\ngrids and telecommunication networks. We were founded in\n2017 in Columbus, Ohio.\n\nFinite State has a transparent, collaborative and supportive\nculture - we are looking for people who have a growth\nmindset, are curious and innovative, and drive results. Our\nteam is smart, but humble, hard working with lots of fun\nsprinkled in. Above all, our team is driven by our noble\nmission and we hold ourselves accountable to delivering to\nour customers every single day.\n\nThe Finite State platform brings visibility and control to\nthe supply chains that create connected devices and embedded\nsystems—all in a simple to use platform and at the scale\nmanufacturers need to keep device production on time and on\nbudget. After unpacking and analyzing every file,\nconfiguration, and setting in a firmware build, the platform\ngenerates a complete bill of materials for software\ncomponents, identifies known and 0-day vulnerabilities,\nshows a contextual risk score, and provides actionable\ninsights that product teams can use to secure their software\n\nWe are proud to be an Equal Employer Opportunity employer.\nWe do not discriminate based upon race, religion, color,\nnational origin, gender (including pregnancy, childbirth, or\nrelated medical conditions), sexual orientation, gender\nidentity, gender expression, age, status as a protected\nveteran, status as an individual with a disability, or other\napplicable legally protected characteristics. Finite State\nis committed to working with and providing reasonable\naccommodations to applicants with physical and mental\ndisabilities.\n",
+  "skills_required": [
+    "Cursor",
+    "Devil",
+    "GitHub Copilot",
+    "agent frameworks"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain secure, scalable web applications using Next.js, React, TypeScript, and Node with PostgreSQL on Supabase",
+    "Design and implement business logic close to the data using Postgres functions, views, triggers, Row-Level Security, and Supabase Edge Functions",
+    "Leverage AI-assisted development tools like Cursor, Devin, and GitHub Copilot to scaffold features, generate schemas, and build internal automation agents",
+    "Embed security best practices across all development layers including secure coding, dependency management, and authentication/authorization",
+    "Collaborate with product managers and designers to translate customer needs into impactful features while providing technical and data-informed guidance",
+    "Design and optimize API contracts, edge endpoints, and event flows considering performance, resiliency, and multi-region deployment",
+    "Model and optimize relational data in PostgreSQL for large multi-tenant workloads with proper indexing strategies and query performance tuning",
+    "Support automated testing, CI/CD pipelines, database migrations, and vulnerability scanning throughout the development lifecycle"
+  ],
+  "use_cases": [
+    "Provides transparency and security analysis for connected devices and embedded systems across industries",
+    "Analyzes firmware builds by unpacking and examining every file, configuration, and setting to generate complete software bill of materials",
+    "Identifies known vulnerabilities and zero-day threats in IoT and connected device software supply chains",
+    "Generates contextual risk scores and actionable remediation guidance for product security teams",
+    "Secures critical infrastructure including medical devices, power grids, telecommunications networks, and connected vehicles",
+    "Helps manufacturers maintain device production timelines and budgets while managing cybersecurity risks"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS RDS",
+    "CI/CD",
+    "Docker",
+    "Edge Functions",
+    "GraphQL",
+    "Kubernetes",
+    "Next.js",
+    "Node.js",
+    "OAuth2",
+    "OIDC",
+    "PostgreSQL",
+    "REST",
+    "React",
+    "Redis",
+    "Row-Level Security (RLS)",
+    "SSO",
+    "Snyk",
+    "Supabase",
+    "Supabase Auth",
+    "Trivy"
+  ],
+  "frameworks_mentioned": [
+    "Cursor",
+    "Devil",
+    "GitHub Copilot",
+    "agent frameworks"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a full-stack software engineer role that uses AI\ntools (Cursor, Copilot, Devin) to accelerate development\nworkflows and build internal agents for automation tasks.\nHowever, the role focuses on building cybersecurity platform\napplications using Next.js and Supabase, not on developing,\ntraining, or deploying AI/ML models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Cursor",
+      "GitHub Copilot",
+      "Devil",
+      "agent frameworks"
+    ],
+    "ml": [],
+    "web": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "Supabase Auth",
+      "OAuth2",
+      "OIDC",
+      "SSO",
+      "REST",
+      "GraphQL"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Supabase",
+      "Redis",
+      "Row-Level Security (RLS)"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS RDS",
+      "AWS",
+      "Edge Functions"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Trivy",
+      "Snyk"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

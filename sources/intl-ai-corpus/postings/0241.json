@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-0241",
+  "source": "intl-ai-corpus",
+  "source_ref": "7568928",
+  "source_url": "https://builtin.com/job/ai-infrastructure-engineer/7568928",
+  "title": "AI Infrastructure Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Speechify",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "96 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Text-to-speech reading accessibility platform",
+  "industries": [],
+  "description": "Mission\n\nThe mission of Speechify is to make sure that reading is\nnever a barrier to learning.\n\nOver 50 million people use Speechify’s text-to-speech\nproducts to turn whatever they’re reading – PDFs, books,\nGoogle Docs, news articles, websites – into audio, so they\ncan read faster, read more, and remember more. Speechify’s\ntext-to-speech reading products include its iOS app, Android\nApp, Mac App, Chrome Extension, and Web App. Google recently\nnamed Speechify the Chrome Extension of the Year and Apple\nnamed Speechify its 2025 Design Award winner for\nInclusivity.\n\nToday, nearly 200 people around the globe work on Speechify\nin a 100% distributed setting – Speechify has no office.\nThese include frontend and backend engineers, AI research\nscientists, and others from Amazon, Microsoft, and Google,\nleading PhD programs like Stanford, high growth startups\nlike Stripe, Vercel, Bolt, and many founders of their own\ncompanies.\n\nOverview\n\nWe are looking for AI Infrastructure engineer to help build\nand scale the infrastructure that powers our machine\nlearning initiatives. In this role, you will design,\ndevelop, and optimize the core platforms and services that\nenable data scientists and ML engineers to train, deploy,\nand monitor models efficiently. You’ll partner closely with\nData Science, Data Engineering, and Product teams to create\na robust, self-service ML ecosystem that accelerates\ninnovation.\n\nWhat You’ll Do\n\nBuild & Scale AI Infrastructure: Design, implement, and\nmaintain high-performance ML training and inference\nplatforms. Develop MLOps Tools: Ship tools that allow any ML\nengineer to deploy a model in minutes, not days. Optimize\nPerformance: Improve scalability, reliability, and cost\nefficiency of model training and serving systems.\nCollaborate Across Teams: Partner with researchers to turn\nexperimental voice models into production-ready systems.\nEnsure Best Practices: Establish standards for model\nversioning, testing, monitoring, and governance. Drive\nAutomation: Automate data/model pipelines to reduce manual\nintervention and speed up experimentation.\n\n- Experience: 3+ years in Software Engineering or ML\n  Platform/Infrastructure roles, with a focus on distributed\n  systems, cloud services, or MLOps.\n- Technical Expertise: Proficiency in Python (or similar),\n  containerization (Docker, Kubernetes), CI/CD pipelines,\n  Kubernetes, Cloud proficiency\n- Strong knowledge of cloud platforms (AWS, GCP, or Azure) and\n  infrastructure-as-code tools (Terraform, CloudFormation).\n- Experience with ML frameworks (TensorFlow, PyTorch, or\n  similar) and orchestration tools (Kubeflow, Airflow,\n  MLflow).\n- Deep understanding of data pipelines, model deployment,\n  real-time inference systems, and reliability of AI systems\n- Strong communication skills and the ability to work across\n  engineering and data science teams.\n- Hands-on with CI/CD and Model Serving\n\nNice to Have\n\n- Experience with feature stores, vector databases, or large-\n  scale model training.\n- Familiarity with streaming data technologies (Kafka, Spark\n  Streaming, Flink).\n- Knowledge of monitoring/observability tools (Prometheus,\n  Grafana, Datadog).\n- Contributions to open-source ML/MLOps projects.\n- GPU optimization (TensorRT, ONNX, vLLM, Triton)\n- Experience with low-latency audio/streaming systems\n- Familiarity with vector DBs or feature stores\n\nWhat we offer\n\n- A dynamic environment where your contributions shape the\n  company and its products\n- A team that values innovation, intuition, and drive\n- Autonomy, fostering focus and creativity\n- The opportunity to have a significant impact in a\n  revolutionary industry\n- Competitive compensation, a welcoming atmosphere, and a\n  commitment to an exceptional asynchronous work culture\n- The privilege of working on a product that changes lives,\n  particularly for those with learning differences like\n  dyslexia, ADD, and more\n- An active role at the intersection of artificial\n  intelligence and audio – a rapidly evolving tech domain\n\nThink you’re a good fit for this job?\n\nTell us more about yourself and why you're interested in the\nrole when you apply.  And don’t forget to include links to\nyour portfolio and LinkedIn.\n\nNot looking but know someone who would make a great fit?\n\nRefer them!\n\nSpeechify is committed to a diverse and inclusive workplace.\n\nSpeechify does not discriminate on the basis of race,\nnational origin, gender, gender identity, sexual\norientation, protected veteran status, disability, age, or\nother legally protected status.\n",
+  "skills_required": [
+    "ONNX",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and maintain high-performance ML training and inference platforms",
+    "Ship MLOps tools that allow ML engineers to deploy models in minutes, not days",
+    "Improve scalability, reliability, and cost efficiency of model training and serving systems",
+    "Partner with researchers to turn experimental voice models into production-ready systems",
+    "Establish standards for model versioning, testing, monitoring, and governance",
+    "Automate data and model pipelines to reduce manual intervention and speed up experimentation"
+  ],
+  "use_cases": [
+    "Text-to-speech conversion for PDFs, books, documents, websites, and articles",
+    "Cross-platform audio generation apps for iOS, Android, Mac, Chrome, and web",
+    "Voice synthesis for reading assistance and accessibility",
+    "Low-latency audio streaming systems",
+    "AI-powered voice model deployment and serving"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "CI/CD",
+    "CloudFormation",
+    "Datadog",
+    "Docker",
+    "Flink",
+    "GCP",
+    "Grafana",
+    "Kafka",
+    "Kubeflow",
+    "Kubernetes",
+    "MLflow",
+    "Prometheus",
+    "Spark Streaming",
+    "TensorRT",
+    "Terraform",
+    "Triton",
+    "feature stores",
+    "vLLM",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "ONNX",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an AI Infrastructure Engineer role focused on\nbuilding platforms and services that enable ML engineers and\ndata scientists to train and deploy models. The role\ninvolves MLOps tools, CI/CD pipelines, and infrastructure\nautomation rather than building, training, or fine-tuning\nmodels directly.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "ONNX"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "Airflow",
+      "Kafka",
+      "Spark Streaming",
+      "Flink",
+      "feature stores"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "CloudFormation",
+      "Kubeflow",
+      "MLflow",
+      "Prometheus",
+      "Grafana",
+      "Datadog",
+      "TensorRT",
+      "vLLM",
+      "Triton"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

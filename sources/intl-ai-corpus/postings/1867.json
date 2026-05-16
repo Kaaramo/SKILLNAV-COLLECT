@@ -1,0 +1,117 @@
+{
+  "job_id": "intl-ai-corpus-1867",
+  "source": "intl-ai-corpus",
+  "source_ref": "8601552",
+  "source_url": "https://builtin.com/job/applied-ai-engineer/8601552",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Eagle",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "5 Employees",
+  "company_stage": "Series A/B (backed by Lightspeed Venture Partners)",
+  "company_focus": "AI-native platform for engineering services and\ninfrastructure design",
+  "industries": [
+    "Software",
+    "Design"
+  ],
+  "description": "About Eagle\n\n- Eagle is an AI native platform on a mission to unleash\n  engineering services for the built environment.\n- We acquire and scale world-class engineering firms by\n  putting proprietary technology into the hands of the\n  engineers who design our nation’s critical infrastructure\n  (think water systems, power utilities, bridges, and more).\n- Our ambition is to create the first AI-native engineering\n  design firm to meet the country's generational energy,\n  climate, and infrastructure needs.\n- We're backed by Lightspeed Venture Partners, a global\n  venture capital firm.\n- https://www.eagleeng.com/\n\nEagle was founded by Mayank (Penn, ex-Bloomberg, ex-Ethic)\nand Sohum (Penn M&T, ex-Long Ridge)\n\nThe Role\n\n- Eagle is seeking an Applied AI Engineer to build systems\n  that automate the most time-consuming parts of civil\n  engineering. Our goal is unleash civil, structural, and\n  MEP engineers to focus on design, not documentation.\n- You'll work alongside civil engineers daily, translating\n  real-world infrastructure challenges into production AI\n  solutions for water, transportation, and utility projects.\n\nWhat You'll Do\n\n- Collaborate directly with civil engineers to understand\n  domain-specific workflows and translate them into AI-\n  powered tools\n- Build AI systems that automate drafting, calculations, and\n  documentation — freeing engineers to focus on higher-value\n  design work\n- Develop spatial reasoning models that can interpret\n  blueprints and generate preliminary designs for standard\n  infrastructure projects\n- Create agents that synthesize regulatory standards, run\n  modeling simulations, and automate repetitive engineering\n  tasks\n- Integrate LLMs and multimodal models into production\n  workflows that serve real engineering teams\n- Own the full lifecycle — from prototyping and\n  experimentation to deployment and iteration\n\nWhat You'll Bring\n\n- 5+ years of experience in software engineering, with 2+\n  years focused on applied AI/ML\n- Hands-on experience building and deploying LLM-based\n  applications in production\n- Strong Python skills and familiarity with ML frameworks\n  (PyTorch, HuggingFace, etc.)\n- Experience with RAG architectures, prompt engineering,\n  and/or fine-tuning\n- Comfort with ambiguity—you can take a fuzzy problem and\n  figure out what to build\n- Bonus: Experience with computer vision, CAD file formats, or\n  spatial data\n- Bonus: Background in engineering, AEC, or other technical\n  domains\n",
+  "skills_required": [
+    "Agents",
+    "CAD file formats",
+    "Fine-tuning",
+    "HuggingFace",
+    "LLM applications",
+    "Multimodal models",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG architectures",
+    "Spatial data"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate directly with civil engineers to understand domain-specific workflows and translate them into AI-powered tools",
+    "Build AI systems that automate drafting, calculations, and documentation for engineering workflows",
+    "Develop spatial reasoning models that interpret blueprints and generate preliminary designs for infrastructure projects",
+    "Create agents that synthesize regulatory standards, run modeling simulations, and automate repetitive engineering tasks",
+    "Integrate LLMs and multimodal models into production workflows for engineering teams",
+    "Own the full lifecycle from prototyping and experimentation to deployment and iteration"
+  ],
+  "use_cases": [
+    "Automating drafting, calculations, and documentation for civil engineering",
+    "Spatial reasoning and blueprint interpretation for infrastructure design",
+    "Regulatory standards synthesis and compliance automation",
+    "Engineering task automation through AI agents",
+    "Preliminary design generation for water, transportation, and utility projects"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "Agents",
+    "Fine-tuning",
+    "HuggingFace",
+    "LLM applications",
+    "Multimodal models",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG architectures"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is ai-first because the role involves directly building\nAI systems, developing spatial reasoning models, creating\nagents, and integrating LLMs/multimodal models into\nproduction. The engineer will work hands-on with RAG\narchitectures, prompt engineering, and fine-tuning to build\nAI-powered tools for civil engineering automation.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM applications",
+      "RAG architectures",
+      "Prompt engineering",
+      "Fine-tuning",
+      "Multimodal models",
+      "Agents"
+    ],
+    "ml": [
+      "PyTorch",
+      "HuggingFace"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Computer vision"
+    ],
+    "other": [
+      "CAD file formats",
+      "Spatial data"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

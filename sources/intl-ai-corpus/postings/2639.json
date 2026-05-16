@@ -1,0 +1,176 @@
+{
+  "job_id": "intl-ai-corpus-2639",
+  "source": "intl-ai-corpus",
+  "source_ref": "8942702",
+  "source_url": "https://www.builtinla.com/job/senior-ai-engineer-monetization-platform/8942702",
+  "title": "Senior AI Engineer - Monetization Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Yahoo",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-02",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Digital media, advertising technology, and consumer\nmonetization platform",
+  "industries": [
+    "AdTech",
+    "Digital Media",
+    "Information Technology",
+    "Other"
+  ],
+  "description": "Yahoo serves as a trusted guide for hundreds of millions of\npeople globally, helping them achieve their goals online\nthrough our portfolio of iconic products. For advertisers,\nYahoo Advertising offers omnichannel solutions and powerful\ndata to engage with our brands and deliver results.\n\nA Little About Us\n\nWe are an industry-leading direct-to-consumer and ad tech\nsolution for advertisers and publishers. Our innovative ad\ntech gives one-stop access to Yahoo, Inc.’s trusted data,\nhigh-quality inventory and demand, creative ad experiences,\nand industry-leading machine learning at global scale.\n\nThe Consumer Monetization team’s charter is to Find,\nEvaluate, Build, and Scale new monetization, subscription,\nand internal campaign tools and products, ad formats and\nfunctionalities across all Yahoo brands including Yahoo\nHomepage, Yahoo Sports, Yahoo Finance, Yahoo News, and AOL.\nThis team is uniquely positioned to identify growth and\nrevenue generation opportunities, design and implement\nsolutions across consumer products and advertising platforms\nincluding video, display, native, and search.\n\nA Lot About You\n\nAs part of the Consumer Monetization Platform Engineering\nteam, you will be the technical lead for building\nproduction-grade ML/AI models and inference systems that\npower our measurement intelligence platform. You will design\nand implement causal measurement models (brand uplift, sales\nuplift), multi-touch attribution systems (path to\nconversion), and AI agent architectures that automate\nadvertising intelligence at scale.\n\nYou are a rare hybrid: you have the data science foundation\nto design statistically rigorous experiments and build\nsophisticated models, AND the software engineering skills to\nship those models as production services. You think in\nPyTorch and Pydantic, you build agentic workflows with\nLangChain/LangGraph and Google ADK, and you leverage\nknowledge graphs and GraphRAG to give AI systems structured\nreasoning over complex advertising data.\n\nOur Big Data footprints are among the largest few in the\nworld, at double-digit petabyte scale. Developing ML systems\nat this scale presents challenges in efficient feature\nengineering, distributed model training, low-latency\ninference, and building AI agents that operate reliably in\nhigh-stakes revenue environments.\n\nIf you are someone who is commitment to building ML systems\nthat directly drive business outcomes, enjoys bridging the\ngap between research and production, and wants to shape the\nfuture of AI-powered advertising—we want to hear from you!\n\nYour Day\n\n- Design, train, and deploy brand uplift models using causal\n  inference techniques (difference-in-differences, synthetic\n  control groups, propensity score matching) to measure\n  advertising effectiveness for brand campaigns\n- Build sales uplift and ROAS measurement systems that connect\n  ad exposure to downstream conversion and purchase events,\n  enabling closed-loop attribution reporting for performance\n  advertisers\n- Develop multi-touch attribution and path-to-conversion\n  models using Markov chains, Shapley values, and deep\n  learning approaches to accurately value impressions across\n  the full consumer journey\n- Design and implement feature engineering pipelines—from raw\n  event data through feature computation, storage, and real-\n  time serving—that power all measurement and optimization\n  models\n- Build and optimize model training pipelines using PyTorch,\n  with experiment tracking, hyperparameter tuning, and\n  automated retraining workflows on large-scale advertising\n  datasets\n- Deploy models as low-latency inference services using Vertex\n  AI, with Pydantic-based API contracts, model versioning,\n  A/B testing, and canary deployment patterns\n- Build agentic AI systems using LangChain, LangGraph, and\n  Google Agent Development Kit (ADK) for autonomous\n  advertising intelligence—including yield optimization\n  agents, publisher intelligence tools, and measurement\n  reporting agents\n- Design and implement knowledge graph-powered reasoning\n  systems using GraphRAG architectures that enable AI agents\n  to reason over structured advertising data, audience\n  relationships, and campaign context\n- Develop contextual bandit and reinforcement learning agents\n  for dynamic yield optimization, including floor pricing,\n  header bidding configuration, and demand partner\n  allocation\n- Build behavioral embedding models that transform raw user\n  signals into dense vector representations for audience\n  intelligence, lookalike modeling, and real-time targeting\n- Collaborate with data scientists, product managers, and\n  platform engineers to translate business problems into ML\n  solutions with measurable impact\n- Establish ML observability: model performance monitoring,\n  drift detection, automated alerting, and continuous\n  improvement loops for all production models\n- Lead technical design reviews and mentor team members on ML\n  engineering best practices, model architecture decisions,\n  and production deployment patterns\n\nQualifications\n\n- BS with 7+ years of relevant industry experience, or\n  M.S./Ph.D. in Computer Science, Statistics, Machine\n  Learning, or a related quantitative field with 5+ years of\n  relevant industry experience.\n- Strong foundations in machine learning, statistical\n  modeling, causal inference, and experimental design\n- 5+ years of experience building and deploying production ML\n  systems (not just research/prototyping)—from feature\n  engineering and model training through inference serving\n  and monitoring\n- Proficiency in Python with strong software engineering\n  practices: PyTorch for model development, Pydantic for\n  data validation and API contracts, and production-quality\n  code with testing and CI/CD\n- Experience with LLM application development frameworks:\n  LangChain, LangGraph, or equivalent agent orchestration\n  frameworks for building multi-step AI workflows\n- Experience with cloud ML platforms, preferably Google Cloud\n  (Vertex AI, BigQuery ML, Dataflow) for training, serving,\n  and managing ML models at scale\n- Experience with feature engineering and feature store\n  patterns for large-scale ML systems\n- Proficiency in SQL and experience working with petabyte-\n  scale data warehouses (BigQuery, Spark, etc.)\n- Experience with deep learning architectures: embeddings,\n  transformers, sequence models, or graph neural networks\n- Strong understanding of A/B testing, uplift modeling, and\n  causal inference methodologies\n- Self-driven, challenge-loving, detail-oriented, with\n  excellent communication skills and the ability to\n  translate complex ML concepts for cross-functional\n  stakeholders\n\nNice to Have\n\n- Experience with Google Agent Development Kit (ADK) or\n  similar agent-native development frameworks\n- Experience with knowledge graphs, graph databases (Neo4j,\n  Spanner Graph), and GraphRAG architectures for structured\n  reasoning\n- Experience with contextual bandits, reinforcement learning,\n  or multi-armed bandit algorithms in production\n  environments\n- Experience in ad tech, programmatic advertising, or\n  publisher-side monetization (measurement, attribution,\n  yield optimization)\n- Experience with causal ML methods: difference-in-\n  differences, synthetic control, instrumental variables,\n  propensity score methods\n- Experience with privacy-enhancing technologies, differential\n  privacy, federated learning, or clean room computation\n- Experience with MLOps tooling: MLflow, Kubeflow, Weights &\n  Biases, or Vertex AI Pipelines\n- Background in NLP, information retrieval, or recommendation\n  systems\n- Experience with distributed training (Horovod, DeepSpeed,\n  FSDP) for large-scale models\n\nStrategic Alignment\n\nThis initiative aligns with our business goals and positions\nus for sustained success in the evolving digital advertising\nlandscape to support our O&O publisher sites to increase\ntheir Revenue and profitability. The measurement\nintelligence models this engineer will build are the\ncompetitive moat that differentiates our platform—proving\nadvertising effectiveness through causal measurement,\noptimizing revenue through learned policies, and enabling\nthe agentic AI future where intelligent agents automate the\nfull media buying and selling lifecycle.\n\nThe material job duties and responsibilities of this role\ninclude those listed above as well as adhering to Yahoo\npolicies; exercising sound judgment; working effectively,\nsafely and inclusively with others; exhibiting\ntrustworthiness and meeting expectations; and safeguarding\nbusiness operations and brand integrity.\n\nAt Yahoo, we offer flexible hybrid work options that our\nemployees love! While most roles don’t require regular\noffice attendance, you may occasionally be asked to attend\nin-person events or team sessions. You’ll always get notice\nto make arrangements. Your recruiter will let you know if a\nspecific job requires regular attendance at a Yahoo office\nor facility. If you have any questions about how this\napplies to the role, just ask the recruiter!\n\nYahoo is proud to be an equal opportunity workplace. All\nqualified applicants will receive consideration for\nemployment without regard to, and will not be discriminated\nagainst based on age, race, gender, color, religion,\nnational origin, sexual orientation, gender identity,\nveteran status, disability or any other protected category.\nYahoo will consider for employment qualified applicants with\ncriminal histories in a manner consistent with applicable\nlaw. Yahoo is dedicated to providing an accessible\nenvironment for all candidates during the application\nprocess and for employees during their employment. If you\nneed accessibility assistance and/or a reasonable\naccommodation due to a disability, please submit a request\nvia the Accommodation Request Form\n(www.yahooinc.com/careers/contact-us.html) or call\n+1.866.772.3182. Requests and calls received for non-\ndisability related issues, such as following up on an\napplication, will not receive a response.\n\nWe believe that a diverse and inclusive workplace\nstrengthens Yahoo and deepens our relationships. When you\nsupport everyone to be their best selves, they spark\ndiscovery, innovation and creativity. Among other efforts,\nour 11 employee resource groups (ERGs) enhance a culture of\nbelonging with programs, events and fellowship that help\neducate, support and create a workplace where all feel\nwelcome.\n\nThe compensation for this position ranges from $128,250.00 -\n$266,875.00/yr and will vary depending on factors such as\nyour location, skills and experience.The compensation\npackage may also include incentive compensation\nopportunities in the form of discretionary annual bonus or\ncommissions. Our comprehensive benefits include healthcare,\na great 401k, backup childcare, education stipends and much\n(much) more.\n\nCurrently work for Yahoo? Please apply on our internal\ncareer site.\n",
+  "skills_required": [
+    "A/B Testing",
+    "Causal Inference",
+    "Contextual Bandits",
+    "Deep Learning",
+    "Differential Privacy",
+    "Distributed Training (Horovod, DeepSpeed, FSDP)",
+    "Embeddings",
+    "Google Agent Development Kit (ADK)",
+    "Graph Neural Networks",
+    "GraphRAG",
+    "LangChain",
+    "LangGraph",
+    "PyTorch",
+    "Reinforcement Learning",
+    "Transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, train, and deploy causal measurement models (brand uplift, sales uplift) using causal inference techniques to measure advertising effectiveness",
+    "Build multi-touch attribution and path-to-conversion models using Markov chains, Shapley values, and deep learning approaches",
+    "Design and implement feature engineering pipelines from raw event data through real-time serving for all measurement and optimization models",
+    "Build and optimize PyTorch model training pipelines with experiment tracking, hyperparameter tuning, and automated retraining at petabyte scale",
+    "Deploy models as low-latency inference services on Vertex AI with model versioning, A/B testing, and canary deployment patterns",
+    "Build agentic AI systems using LangChain, LangGraph, and Google ADK for autonomous advertising intelligence including yield optimization and reporting agents",
+    "Design knowledge graph-powered reasoning systems using GraphRAG for structured reasoning over advertising data and campaign context",
+    "Develop contextual bandit and reinforcement learning agents for dynamic yield optimization including floor pricing and demand allocation"
+  ],
+  "use_cases": [
+    "Advertising effectiveness measurement through causal inference (brand uplift, sales uplift, ROAS)",
+    "Multi-touch attribution and path-to-conversion analysis across the consumer journey",
+    "Autonomous AI agents for advertising intelligence, yield optimization, and publisher tools",
+    "Knowledge graph-powered reasoning over structured advertising data and audience relationships",
+    "Dynamic yield optimization for floor pricing, header bidding, and demand partner allocation",
+    "Behavioral audience intelligence through embedding models for lookalike modeling and real-time targeting"
+  ],
+  "tools_mentioned": [
+    "BigQuery",
+    "BigQuery ML",
+    "CI/CD",
+    "Dataflow",
+    "Google Cloud",
+    "Knowledge Graphs",
+    "Kubeflow",
+    "MLflow",
+    "Neo4j",
+    "Spark",
+    "Vertex AI",
+    "Weights & Biases"
+  ],
+  "frameworks_mentioned": [
+    "Causal Inference",
+    "Contextual Bandits",
+    "Deep Learning",
+    "Distributed Training (Horovod, DeepSpeed, FSDP)",
+    "Embeddings",
+    "Google Agent Development Kit (ADK)",
+    "Graph Neural Networks",
+    "GraphRAG",
+    "LangChain",
+    "LangGraph",
+    "PyTorch",
+    "Reinforcement Learning",
+    "Transformers"
+  ],
+  "languages_programming": [
+    "Pydantic",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely ai-first: the engineer directly\ndesigns, trains, deploys ML/AI models (brand uplift,\nattribution, embeddings), builds agentic AI systems with\nLangChain/LangGraph/Google ADK, implements GraphRAG\narchitectures, and develops reinforcement learning agents.\nThe position involves hands-on model building, fine-tuning,\nand deploying AI/ML systems to production, not just\nsupporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Google Agent Development Kit (ADK)",
+      "GraphRAG"
+    ],
+    "ml": [
+      "PyTorch",
+      "Causal Inference",
+      "Reinforcement Learning",
+      "Contextual Bandits",
+      "Deep Learning",
+      "Transformers",
+      "Embeddings",
+      "Graph Neural Networks",
+      "Distributed Training (Horovod, DeepSpeed, FSDP)"
+    ],
+    "web": [],
+    "databases": [
+      "BigQuery",
+      "Neo4j",
+      "Knowledge Graphs"
+    ],
+    "data": [
+      "Spark"
+    ],
+    "cloud": [
+      "Vertex AI",
+      "BigQuery ML",
+      "Google Cloud",
+      "Dataflow"
+    ],
+    "ops": [
+      "MLflow",
+      "Kubeflow",
+      "Weights & Biases",
+      "CI/CD"
+    ],
+    "languages": [
+      "Pydantic",
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "NLP",
+      "Information Retrieval",
+      "Recommendation Systems"
+    ],
+    "other": [
+      "A/B Testing",
+      "Differential Privacy"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

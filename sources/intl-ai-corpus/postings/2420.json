@@ -1,0 +1,142 @@
+{
+  "job_id": "intl-ai-corpus-2420",
+  "source": "intl-ai-corpus",
+  "source_ref": "8877258",
+  "source_url": "https://www.builtinla.com/job/founding-backend-engineer-ai-data/8877258",
+  "title": "Founding Backend Engineer – AI & Data",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Clipbook",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Seed",
+  "company_focus": "AI-powered media monitoring and analytics for PR and\ncommunications teams",
+  "industries": [
+    "Artificial Intelligence",
+    "Marketing Tech"
+  ],
+  "description": "About Clipbook\n\nClipbook builds AI-powered media monitoring and analytics\ntools for communications, PR, and public affairs teams. We\nhelp them track, search, and make sense of coverage across\ntext, audio, and video.\n\nWe launched in 2023 and have grown to 200+ clients including\nBCG, Weber Shandwick, and dozens of government agencies. We\nbootstrapped to seven-figures in ARR before raising a $3.3M\nseed round (co-led by Mark Cuban). We plan to raise our\nSeries A this year and we are aiming for eight-figures\nrevenue by end of year.\n\nOur founding team has backgrounds at BCG, Bain, Harvard,\nStanford, Oxford, the White House, and Congress, and has\npreviously built startups backed by Sequoia, Tiger Global,\nInsight Partners, Coatue, and NFX.\n\nThe Role\n\nYou'd be one of the first engineers at Clipbook — joining a\nsmall but mighty engineering team with engineers from Meta,\nStripe, and AWS. You'll have real influence over\narchitecture and technical direction, and what you build\nwill ship to 200+ customers quickly.\n\nWhat You'll Do\n\n- Architect & build core backend systems. Drive architectural\n  decisions across our backend stack (Python, Node.js,\n  PostgreSQL). Own features from concept → deployment →\n  observing users rely on what you built. We're still laying\n  critical foundations, so we value a pragmatic, \"strong\n  opinions, weakly held\" mindset — especially when decisions\n  are expensive to unwind later.\n- Design scalable data infrastructure. Build and maintain\n  pipelines for ingesting, normalizing, deduplicating,\n  indexing, and querying massive, multi-modal datasets\n  (text, audio, video) across news, social media, policy,\n  and more. A lot of this is normalization, deduplication,\n  and edge case handling.\n- Integrate AI into real-world workflows. Put LLMs and ML\n  models into production for real workflows: RAG pipelines,\n  embeddings, prompt execution, agentic systems, fine-tuned\n  models. Production means reliable, monitored, and cost-\n  conscious.\n- Design systems that scale. Build systems that will hold up\n  as we grow 10x, while being practical about what to invest\n  in now vs. what can wait.\n- Develop performant APIs and services. Create robust\n  interfaces and internal services that power our product\n  end-to-end, ensuring reliability, security, and a seamless\n  experience for customers.\n- Collaborate closely with users. Join customer calls, hear\n  what's working and what isn't, and build in response.\n  Rapidly iterate to deliver solutions that genuinely move\n  the needle for comms/public affairs teams.\n- Shape Clipbook's engineering culture. As one of the first\n  engineers, you'll influence everything — code quality,\n  system design principles, documentation standards, and how\n  we build as a team. We believe leaders stay hands-on: even\n  as we grow, everyone (including managers) continues to\n  ship.\n\nWhat We're Looking For\n\n- 2–10+ years building and scaling production backend systems.\n  You've taken systems from zero to production and owned the\n  full lifecycle. Strong across backend fundamentals\n  (services, data models, distributed systems), with deeper\n  expertise in one or more areas — and a desire to keep\n  expanding your breadth over time.\n- Genuine excitement to build quickly & ship fast. We care\n  about getting things into users' hands and iterating from\n  there.\n- You take ownership. When something is broken or unclear, you\n  fix it or flag it without waiting to be asked.\n- Comfortable with ambiguity. You make reasonable calls with\n  incomplete information, communicate them clearly, and\n  adjust as you learn more.\n- Strong experience with cloud infrastructure,\n  containerization, and CI/CD. We're building systems that\n  will one day serve Fortune 500 executives in real-time —\n  so reliability matters. Familiarity with AWS/GCP,\n  containerization (Docker/K8s), and CI/CD pipelines ensures\n  we can deliver high uptime and iterate quickly.\n- A future leader. You'll help shape our engineering culture\n  and can quickly grow into leadership as the company\n  scales.\n\nTechnical Areas Where Depth Matters (one or more)\n\n- Data Engineering: Spark, Kafka, Flink, BigQuery, streaming\n  pipelines, ETL at scale.\n- Distributed Systems: High-volume scaling, fault tolerance,\n  eventual consistency.\n- AI/ML: LLMs in production, RAG, embeddings, fine-tuning,\n  inference optimization.\n- Backend: Python, Node.js, PostgreSQL, high-concurrency\n  systems.\n\nNice-to-Haves\n\n- Computer vision or multimodal model experience (audio,\n  video, image). This is central to our product, so it's a\n  meaningful differentiator.\n- Semantic search, vector databases, or meaning-aware\n  retrieval.\n- LLM fine-tuning, RLHF, or eval pipelines.\n- Web scraping and API integrations at scale.\n- Startup founder or early-stage experience is a huge plus.\n\nWhat This Role Is Not\n\nWe're hiring for the application and data layer. This\nprobably isn't the right fit if your background is primarily\nin firmware, embedded systems, hardware engineering,\nnetworking, or infrastructure/DevOps.\n\nA Few Things Worth Knowing\n\n- We care more about what you ship than when or where you\n  work, but this is an early-stage company growing fast. The\n  pace reflects that. Our culture is intense and driven by\n  H&H (hunger and hustle).\n- As one of the first engineers, you'll wear a lot of hats.\n  There's no platform team to hand things off to yet.\n\nCompensation & Benefits\n\n- Salary: $150K–$220K\n- Equity: Early-stage grant with significant upside\n- Benefits: Medical, dental, vision, 401(k), unlimited PTO\n\nGrowth: A clear path to engineering leadership as we scale\n",
+  "skills_required": [
+    "Agentic systems",
+    "Embeddings",
+    "Fine-tuning",
+    "LLMs in production",
+    "RAG",
+    "Web scraping"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and build core backend systems using Python, Node.js, and PostgreSQL, owning features from concept through deployment",
+    "Design and build scalable data infrastructure for ingesting, normalizing, deduplicating, and indexing massive multi-modal datasets (text, audio, video)",
+    "Integrate AI into production workflows including RAG pipelines, embeddings, prompt execution, agentic systems, and fine-tuned models",
+    "Build systems that scale 10x while being practical about investment priorities",
+    "Develop performant APIs and services that power the product end-to-end with reliability and security",
+    "Collaborate closely with customers by joining calls and iterating rapidly based on feedback",
+    "Shape engineering culture including code quality, system design principles, and documentation standards"
+  ],
+  "use_cases": [
+    "Media monitoring and tracking across text, audio, and video sources",
+    "Search and analytics for communications, PR, and public affairs teams",
+    "Multi-modal data processing including news, social media, and policy content",
+    "Semantic search and meaning-aware retrieval across media coverage",
+    "RAG-based intelligence extraction from media content"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "BigQuery",
+    "CI/CD",
+    "Docker",
+    "Flink",
+    "GCP",
+    "Inference optimization",
+    "Kafka",
+    "Kubernetes",
+    "Node.js",
+    "PostgreSQL",
+    "Spark",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agentic systems",
+    "Embeddings",
+    "Fine-tuning",
+    "LLMs in production",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role explicitly involves putting LLMs and ML models\ninto production: RAG pipelines, embeddings, agentic systems,\nand fine-tuned models. The role combines backend engineering\nwith hands-on AI implementation work, making it ai-first\nrather than support.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLMs in production",
+      "Embeddings",
+      "Agentic systems"
+    ],
+    "ml": [
+      "Fine-tuning"
+    ],
+    "web": [
+      "Node.js"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "BigQuery",
+      "Vector databases"
+    ],
+    "data": [
+      "Spark",
+      "Kafka",
+      "Flink"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Inference optimization",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Computer vision",
+      "Multimodal models"
+    ],
+    "other": [
+      "Web scraping"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

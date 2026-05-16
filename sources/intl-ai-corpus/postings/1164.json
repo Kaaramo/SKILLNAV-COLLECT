@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-1164",
+  "source": "intl-ai-corpus",
+  "source_ref": "8232127",
+  "source_url": "https://builtin.com/job/ai-automation-tooling-engineer/8232127",
+  "title": "AI Automation & Tooling Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cyberhaven",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-11",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "237 Employees",
+  "company_stage": "Series B/C (backed by $250M from Khosla and Redpoint)",
+  "company_focus": "AI-enabled data lineage and data security platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Cybersecurity",
+    "Generative AI",
+    "Data Privacy"
+  ],
+  "description": "About the Role\n\nCyberhaven’s lineage technology tracks billions of data\nevents, and this role is focused on building the intelligent\nservice layer that makes that data actionable at scale. You\nwill develop backend systems that wrap massive lineage\ndatasets in an agentic framework, enabling fleets of AI\nagents to perform work traditionally handled by security\nconsultants. These agents will autonomously audit customer\nenvironments, generate intelligence-driven security\npolicies, and diagnose complex data security incidents by\ntracing file activity across months of history in seconds.\nThis role sits at the intersection of data engineering,\ndistributed systems, and applied AI, with a strong focus on\nturning rich product data into scalable, automated security\noutcomes.\n\nWhat You’ll Do\n\n- Build the service layer that enables AI agents to perform\n  complex, multi-step security workflows as software\n- Develop backend services that allow agents to reason over\n  lineage data, security logs, and customer context\n- Implement AI agents that leverage product data to generate\n  audits, recommendations, and diagnostics\n- Write high-performance SQL and data extraction logic in\n  BigQuery to surface structured, agent-ready context from\n  billions of lineage events\n- Design and consume API-first integrations connecting\n  Cyberhaven’s platform to LLM providers and downstream\n  customer workflows\n- Build automated diagnostic flows where agents iteratively\n  query data, interpret results, and produce human-readable\n  explanations of security incidents\n- Partner with internal teams to ensure agent-driven outputs\n  are reliable, scalable, and aligned with real customer use\n  cases\n\nWho You Are\n\n- Strong experience building backend services using Python\n  and/or Go\n- Familiarity with designing and implementing agentic\n  workflows that manage state, tool usage, and multi-step\n  reasoning\n- Comfortable writing and optimizing complex SQL over large,\n  high-cardinality datasets in BigQuery\n- Experience modeling data for LLM consumption, including\n  structured context windows, embeddings, or retrieval-based\n  approaches\n- Hands-on experience designing and consuming RESTful APIs as\n  part of distributed systems\n- Strong understanding of integrating external systems and\n  services via APIs\n- Practical experience working with LLMs via APIs, including\n  prompt design, structured outputs, and performance trade-\n  offs\n- Experience building guardrails, validation layers, or\n  verification mechanisms to ensure AI outputs are accurate\n  and trustworthy\n\nJoining Cyberhaven is a chance to revolutionize data\nsecurity. Traditional tools fall short, but we’ve reimagined\nprotection with AI-enabled data lineage that analyzes\nbillions of workflows to understand data, detect risk, and\nstop threats. Backed by $250M from leading investors like\nKhosla and Redpoint, our team includes leaders who built\nindustry-defining technologies at CrowdStrike, Palo Alto\nNetworks, Meta, Google, and more. This role lets you shape\nthe future of data security, alongside experts driven to\nhelp customers protect their most valuable information.\n\nCyberhaven is committed to creating a diverse environment\nand is an equal opportunity employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, gender, gender identity or\nexpression, sexual orientation, national origin, genetics,\ndisability, age, or veteran status.\n",
+  "skills_required": [
+    "LLM APIs",
+    "agentic workflows",
+    "embeddings",
+    "guardrails",
+    "prompt engineering",
+    "retrieval-based approaches",
+    "structured outputs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build the service layer that enables AI agents to perform complex, multi-step security workflows as software",
+    "Develop backend services that allow agents to reason over lineage data, security logs, and customer context",
+    "Implement AI agents that leverage product data to generate audits, recommendations, and diagnostics",
+    "Write high-performance SQL and data extraction logic in BigQuery to surface structured, agent-ready context from billions of lineage events",
+    "Design and consume API-first integrations connecting Cyberhaven's platform to LLM providers and downstream customer workflows",
+    "Build automated diagnostic flows where agents iteratively query data, interpret results, and produce human-readable explanations of security incidents",
+    "Partner with internal teams to ensure agent-driven outputs are reliable, scalable, and aligned with real customer use cases"
+  ],
+  "use_cases": [
+    "Autonomous security auditing of customer environments",
+    "Intelligence-driven security policy generation",
+    "Data security incident diagnosis and analysis",
+    "Tracing file activity across historical data",
+    "Automated threat detection and risk identification",
+    "Data lineage analysis for security workflows"
+  ],
+  "tools_mentioned": [
+    "BigQuery",
+    "REST APIs",
+    "SQL",
+    "backend services",
+    "distributed systems"
+  ],
+  "frameworks_mentioned": [
+    "LLM APIs",
+    "agentic workflows",
+    "embeddings",
+    "guardrails",
+    "prompt engineering",
+    "retrieval-based approaches",
+    "structured outputs"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is building AI agents and agentic frameworks that\nperform security workflows. The engineer will implement AI\nagents that reason over data, manage multi-step reasoning,\nand directly work with LLMs for autonomous security auditing\nand diagnostics.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs",
+      "agentic workflows",
+      "prompt engineering",
+      "embeddings",
+      "retrieval-based approaches",
+      "structured outputs",
+      "guardrails"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "backend services"
+    ],
+    "databases": [
+      "SQL",
+      "BigQuery"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "distributed systems"
+    ],
+    "languages": [
+      "Python",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

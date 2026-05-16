@@ -1,0 +1,186 @@
+{
+  "job_id": "intl-ai-corpus-2353",
+  "source": "intl-ai-corpus",
+  "source_ref": "8858048",
+  "source_url": "https://www.builtinla.com/job/senior-ai-engineer-data-scientist/8858048",
+  "title": "Senior AI Engineer - Data Scientist",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Tria Federal",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Digital services and technology solutions for federal\nagencies, supporting veterans and healthcare",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Analytics",
+    "Consulting",
+    "Financial Services"
+  ],
+  "description": "Who we are:\n\nTria Federal delivers digital services and technology\nsolutions that support the health and safety of veterans,\nservice members and civilians. For two decades, federal\nagencies have relied on Tria companies to advance their\ncritical missions and modernize their systems, so that they\ncan uphold their commitment to the American people. Today,\nwe are pushing the boundaries of possibility through\npartnerships and investments in artificial intelligence and\nemerging technologies, developing solutions for the biggest\nchallenges that government will face tomorrow.\n\nWe are proud to employ and support military veterans who\nbring mission-first mindset, technical expertise, and\nleadership qualities that strengthen our work. Veterans,\ntransitioning service members, and military spouses are\nstrongly encouraged to apply.\n\nJob Description:\n\nWe’re seeking a Senior AI Engineer / Data Scientist to lead\nthe design, deployment, and scaling of enterprise AI\ncapabilities—specifically large language model (LLM)\nsolutions, LLMOps practices, and the development of a\nhealthcare ontology/knowledge graph to enhance a complex\ndata environment.\n\nResponsibilities\n\n- Ontology & Knowledge Graph\n  - Design and maintain a healthcare ontology to normalize CMS\n    data across claims, providers, and workflows.\n  - Build and manage knowledge graphs (RDF/OWL or property\n    graph) to support semantic search, inference, and RAG\n    augmentation.\n  - Develop graph data pipelines for ingestion, transformation,\n    and entity resolution aligned with governance standards.\n  - Collaborate with SMEs to define controlled vocabularies and\n    create reusable semantic APIs for analytics and AI.\n- GenAI & LLMOps\n  - Architect and operationalize LLMs for production use cases\n    including RAG, agentic workflows, and MCP tools.\n  - Build LLM evaluation and safety frameworks (prompt quality,\n    grounding, hallucination detection, bias checks) with\n    automated testing and human-in-the-loop reviews.\n  - Design cost- and latency-aware pipelines with observability\n    for performance and reliability.\n  - Implement LLMOps best practices: prompt versioning, CI/CD\n    for artifacts, rollout strategies, and A/B testing.\n  - Integrate vector databases and optimize chunking,\n    embeddings, and retrieval for high-quality responses.\n- Platform & System Architecture\n  - Support productionalization of AI/ML workflows with\n    automated quality checks and lifecycle orchestration.\n  - Ensure data security, governance, and CMS compliance.\n  - Contribute to high-level system design for integrating new\n    AI capabilities into a cloud-based analytics platform.\n  - Maintain documentation and acceptance criteria for system\n    changes.\n\nBasic Qualifications\n\n- Education/Experience: 10+ years with BS/BA; 8+ years with\n  MS/MA; 5+ years with PhD in Computer Science, Data\n  Science, or related field.\n- Hands-on experience with LLMs and GenAI solutions, including\n  prompt engineering, RAG architecture, and LLMOps\n  practices.\n- Proven experience in ontology design and knowledge graph\n  development for complex data-driven systems.\n- Experience with Databricks, Snowflake, and AWS Cloud\n  Services.\n- Proficiency in Python and SQL (Snowflake SQL).\n- Experience with CI/CD workflows and automated deployments.\n- Familiarity with Scaled Agile Framework (SAFe).\n- Excellent communication skills and ability to work\n  independently.\n- US Citizenship required.\n\nPreferred Qualifications\n\n- Experience with Databricks E2 components (Unity Catalog,\n  Feature Store).\n- Knowledge of CMS systems and Medicare/Medicaid data.\n- Familiarity with LLM/GenAI tooling (LangChain, LlamaIndex,\n  Hugging Face, AWS Bedrock).\n- Experience with vector databases and RAG orchestration.\n- Knowledge graph tools: Neo4j, TigerGraph, AWS Neptune,\n  RDF/OWL, SPARQL, Gremlin, Cypher, Protégé.\n- Model lifecycle & governance: MLflow, Model Registry,\n  feature stores, LLM safety testing.\n- Observability & automation: GitHub Actions/Jenkins,\n  Terraform, Docker/Kubernetes, Prometheus/Grafana.\n\nWhy Tria? What defines the Tria brand is more than just our\ndedication to excellence in our craft; it’s our incredible\nteam of dedicated, talented, and passionate people that make\nTria so exceptional. As people powering possible, we are all\npartners in our team’s shared success.\n\nAs a company that cares about people, we seek to cultivate a\nculture in which all can thrive personally and\nprofessionally. We offer a top-tier benefits package to\ninvest in your physical, mental, and financial health and\nwellness so that you can be your best self - at work and in\nlife. At Tria, we are growth-minded, entrepreneurial in\nspirit, and committed to fostering a culture of inclusion\nand opportunity for all. Whatever your background, your\nrole, your department, or stage in your professional\njourney, here you will have opportunities to learn new\nskills, seize new challenges, and advance your career as we\ngrow.\n\nCalifornia Consumer Privacy Act (CCPA)\n\nWe are committed to protecting your privacy. As part of our\ncompliance with the California Consumer Privacy Act (CCPA),\nwe want to inform you about how we collect, use, and protect\nyour personal information during the job application\nprocess. For more details, please review\nhttps://www.oag.ca.gov/privacy/ccpa.\n",
+  "skills_required": [
+    "AWS Bedrock",
+    "Agentic workflows",
+    "Cypher",
+    "Embeddings",
+    "Gremlin",
+    "Hugging Face",
+    "Knowledge graphs",
+    "LLM evaluation",
+    "LangChain",
+    "LlamaIndex",
+    "MCP tools",
+    "Ontology design",
+    "Prompt engineering",
+    "RAG architecture",
+    "SPARQL",
+    "Unity Catalog"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and maintain healthcare ontology to normalize CMS data across claims, providers, and workflows",
+    "Build and manage knowledge graphs (RDF/OWL or property graph) for semantic search, inference, and RAG augmentation",
+    "Architect and operationalize LLMs for production use cases including RAG, agentic workflows, and MCP tools",
+    "Build LLM evaluation and safety frameworks with automated testing and human-in-the-loop reviews",
+    "Design cost- and latency-aware pipelines with observability for performance and reliability",
+    "Implement LLMOps best practices: prompt versioning, CI/CD for artifacts, rollout strategies, and A/B testing",
+    "Integrate vector databases and optimize chunking, embeddings, and retrieval for high-quality responses",
+    "Support productionalization of AI/ML workflows with automated quality checks and lifecycle orchestration"
+  ],
+  "use_cases": [
+    "Healthcare data normalization across CMS claims, providers, and workflows",
+    "Semantic search and inference over healthcare knowledge graphs",
+    "RAG augmentation for complex healthcare data environments",
+    "Agentic workflows for federal healthcare systems",
+    "Enterprise AI capabilities for federal agencies serving veterans and service members"
+  ],
+  "tools_mentioned": [
+    "AWS Cloud Services",
+    "AWS Neptune",
+    "CI/CD",
+    "Databricks",
+    "Docker",
+    "Feature Store",
+    "GitHub Actions",
+    "Grafana",
+    "Jenkins",
+    "Kubernetes",
+    "LLMOps",
+    "MLflow",
+    "Model Registry",
+    "Neo4j",
+    "Prometheus",
+    "RDF/OWL",
+    "Snowflake",
+    "Terraform",
+    "TigerGraph",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AWS Bedrock",
+    "Agentic workflows",
+    "Embeddings",
+    "Hugging Face",
+    "LLM evaluation",
+    "LangChain",
+    "LlamaIndex",
+    "MCP tools",
+    "Prompt engineering",
+    "RAG architecture"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "Snowflake SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, deploying, and\noperationalizing LLM solutions, RAG systems, and agentic\nworkflows. The engineer will architect LLMs for production,\nbuild evaluation frameworks, implement LLMOps practices, and\ndevelop knowledge graphs for RAG augmentation—all hands-on\nwork with AI/ML systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG architecture",
+      "Prompt engineering",
+      "LangChain",
+      "LlamaIndex",
+      "AWS Bedrock",
+      "Agentic workflows",
+      "MCP tools",
+      "LLM evaluation"
+    ],
+    "ml": [
+      "Hugging Face",
+      "Embeddings"
+    ],
+    "web": [],
+    "databases": [
+      "Vector databases",
+      "Neo4j",
+      "AWS Neptune",
+      "TigerGraph",
+      "RDF/OWL",
+      "Snowflake"
+    ],
+    "data": [
+      "Databricks"
+    ],
+    "cloud": [
+      "AWS Cloud Services"
+    ],
+    "ops": [
+      "LLMOps",
+      "CI/CD",
+      "GitHub Actions",
+      "Jenkins",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "Model Registry",
+      "Prometheus",
+      "Grafana",
+      "Feature Store"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "Snowflake SQL"
+    ],
+    "domains": [],
+    "other": [
+      "SPARQL",
+      "Gremlin",
+      "Cypher",
+      "Knowledge graphs",
+      "Ontology design",
+      "Unity Catalog"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

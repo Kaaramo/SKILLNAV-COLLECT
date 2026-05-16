@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-2057",
+  "source": "intl-ai-corpus",
+  "source_ref": "8724015",
+  "source_url": "https://www.builtinla.com/job/software-development-engineer-test-ai/8724015",
+  "title": "Software Development Engineer in Test - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Delos Data",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-12",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Stealth-mode startup backed by top-tier VC firms",
+  "company_focus": "Building foundational technology for AI data center cluster\nperformance, scalability, and resiliency",
+  "industries": [
+    "Artificial Intelligence",
+    "Hardware",
+    "Semiconductor"
+  ],
+  "description": "Software Development Engineer in Test - AI\n\nAbout us:\n\nWe are a stealth-mode startup building foundational\ntechnology to address performance, scalability, and\nresiliency challenges in large-scale AI data center\nclusters. We are backed by top-tier VC firms and notable\nangel investors.\n\nThe company is led by experienced builders and operators who\nhave founded companies, taken them to scale, and exited\nsuccessfully. We work with a strong sense of unity and\nshared responsibility, and we expect trust, integrity, and\nrespect in how we collaborate and make decisions. We hold\nourselves accountable to one another and to the quality of\nthe work we deliver.\n\nHeadquartered in Silicon Valley, we operate across a mix of\nremote and on-site locations in the U.S. and Canada. We aim\nto create an environment where people are treated fairly,\nsupported in their growth, and are empowered to do\nmeaningful work alongside others who take the craft\nseriously.\n\nWe are looking for:\n\nWe are looking for a Software Development Engineer in Test\n(SDET) to ensure the reliability and performance of our core\nAI infrastructure. In this role, you are an engineer who\nbuilds sophisticated automation frameworks and stress-\ntesting suites to break and then harden our system.\n\nYou will be responsible for validating the intersection of\ndistributed systems, GPU kernels, and AI frameworks. You\nwill build a scalable foundation of trust in our code,\nensuring that our performance-critical primitives work every\ntime, at any scale.\n\nKey Responsibilities:\n\n- Design, develop, and maintain a robust automated testing\n  framework from the ground up that supports distributed AI\n  training and inference workloads.\n- Develop complex test plans that go beyond unit tests,\n  focusing on end-to-end system integration, stress testing,\n  and hardware-software boundary conditions.\n- Partner closely with System Engineers to debug deep-seated\n  issues in distributed clusters, using telemetry and\n  profiling tools to identify bottlenecks.\n\nRequired Skills and Qualifications:\n\n- Strong proficiency in Python (for automation and\n  orchestration).\n- Proven experience building or extending test automation\n  frameworks for complex back-end systems.\n- Proven ability to troubleshoot automated test failures\n  within complex large-scale distributed systems, and\n  identify root causes.\n- Experience with containerization (Docker/Kubernetes) and\n  modern CI/CD tools (GitHub Actions, GitLab CI, or\n  Jenkins).\n\nDesired Skills:\n\n- Experience with Kubernetes or Terraform or Ansible for\n  managing test-bed environments.\n- Experience testing high-performance networking protocols or\n  distributed file systems.\n- Experience testing software that interacts directly with\n  drivers or firmware.\n\nEducation:\n\n- Bachelor's or Master's degree in Computer Engineering,\n  Computer Science, or a related field.\n\nCompensation:\n\nTarget base salary for this role is $140,000 - $200,000 per\nyear + meaningful equity + benefits + 401k. Our salary\nranges are determined by role, level, experience, and\nlocation.\n\nWe are an equal opportunity employer. We value a range of\nperspectives and experiences and make employment decisions\nbased on merit and business needs. We do not discriminate on\nthe basis of legally protected characteristics.\n\nAgency Note:\n\nWe do not accept resumes from agencies or search firms.\nPlease do not forward candidate profiles through our careers\npage, email, LinkedIn messages, or directly to company\nemployees. Any resumes submitted will be deemed the property\nof the company, and no fees will be paid in the event the\ncandidate is hired.\n",
+  "skills_required": [
+    "AI frameworks",
+    "GPU kernels",
+    "distributed systems",
+    "test automation frameworks"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and maintain a robust automated testing framework from the ground up that supports distributed AI training and inference workloads",
+    "Develop complex test plans focusing on end-to-end system integration, stress testing, and hardware-software boundary conditions",
+    "Partner closely with System Engineers to debug deep-seated issues in distributed clusters using telemetry and profiling tools",
+    "Validate the intersection of distributed systems, GPU kernels, and AI frameworks",
+    "Build scalable foundation of trust in code ensuring performance-critical primitives work at any scale",
+    "Troubleshoot automated test failures within complex large-scale distributed systems and identify root causes"
+  ],
+  "use_cases": [
+    "Testing and validation of distributed AI training workloads",
+    "Testing and validation of AI inference systems",
+    "Quality assurance for GPU-accelerated infrastructure",
+    "Stress testing of large-scale AI data center clusters",
+    "Hardware-software integration testing for AI systems"
+  ],
+  "tools_mentioned": [
+    "Ansible",
+    "Docker",
+    "GitHub Actions",
+    "GitLab CI",
+    "Jenkins",
+    "Kubernetes",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "AI frameworks",
+    "GPU kernels"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an SDET role focused on testing and validating AI\ninfrastructure, not building AI systems directly. The role\nbuilds test automation frameworks and performs quality\nassurance on distributed systems and GPU kernels that\nsupport AI workloads, but does not involve training, fine-\ntuning, or deploying models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "GPU kernels",
+      "AI frameworks"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions",
+      "GitLab CI",
+      "Jenkins",
+      "Terraform",
+      "Ansible"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "test automation frameworks",
+      "distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

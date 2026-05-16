@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-1909",
+  "source": "intl-ai-corpus",
+  "source_ref": "8631414",
+  "source_url": "https://www.builtinla.com/job/staff-software-engineer-developer-platform-ai-tooling/8631414",
+  "title": "Staff Software Engineer (Developer Platform & AI Tooling)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "ZenBusiness",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-03",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Unknown",
+  "company_focus": "Helping entrepreneurs start, run, and grow small businesses",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Payments",
+    "Professional Services",
+    "Social Impact",
+    "Conversational AI",
+    "Generative AI"
+  ],
+  "description": "Who We Are\n\nWe started our company to help others launch and run their\nown businesses, at any stage. The way we help is by keeping\nit simple and supporting entrepreneurs one step at a time.\nPut simply: our mission is to enable anyone to start, run,\nand grow their business while avoiding the common pitfalls\nthat derail hopeful entrepreneurs. No more having to wade\nthrough forms, taxes, or ongoing state compliance.\n\nWe are a remote company based in Austin, Texas. We have team\nmembers from Florida to Oregon and all points in-between.\nTake pride in your work knowing that it shapes how people\nall across the country reach their goal of starting,\nrunning, and growing their business.\n\nIf the idea of helping people and working with a genuinely\ncaring, supportive team excites you, then you’ve come to the\nright place.\n\nThe Role\n\nHelp shape the future of how engineers build, ship, and\noperate software. We're hiring a Staff Software Engineer to\ncontribute to platform-wide initiatives across CI/CD,\nKubernetes, and developer experience – with a strong\nemphasis on building and integrating AI tooling into\neveryday engineering workflows.\n\nResponsibilities Design, build, and scale AI-powered\ndeveloper tooling:\n\n- Agentic coding and review workflows that use LLMs to analyze\n  code, generate changes, and\n- collaborate via chat.\n- Policy- and guardrail-aware assistants that can comment,\n  propose code changes, and safely\n- automate repetitive tasks.\n- Prompt libraries, instructions, and service manuals that\n  make AI adoption effective and safe across teams.\n\nContribute to the evolution of our CI/CD platform to be\nfaster, more observable, and easier to adopt:\n\n- Build analytics and data pipelines to compare platform\n  performance, baselines, and regressions.\n- Contribute insights that inform team-level improvements and\n  broader platform decisions.\n\nStrengthen platform reliability and security in Kubernetes:\n\n- Improve cluster/app resiliency, rollout strategies, and\n  priority classes for critical services.\n- Standardize Helm chart patterns, deployment practices, and\n  IaC workflows.\n- Contribute to incident response playbooks, maintenance\n  modes, and recovery patterns.\n\nCreate paved paths and golden templates for developers:\n\n- Self-service software templates, CLI/automation\n  enhancements, and bootstrap flows.\n- Clear docs, runbooks, and technical blogs that drive\n  adoption and reduce support load.\n\nMentor and grow:\n\n- Pair with teammates to land complex changes, champion TDD\n  and code review quality, and uplevel practices within the\n  team.\n- Anticipate and surface blockers, delays, and tradeoffs\n  before they require escalation – keeping stakeholders\n  informed and expectations aligned.\n\nQualifications\n\n- Staff-level impact building platform capabilities with clear\n  outcomes in developer velocity, reliability, and/or\n  quality.\n- Deep experience in one or more of the following and working\n  knowledge of the rest:\n  - CI/CD systems and reusable pipeline components (e.g., GitHub\n    Actions or similar).\n  - Kubernetes, Helm, GitOps (e.g., ArgoCD), and infrastructure\n    as code (e.g., Terraform).\n  - AI for engineering: prompt design, multi-agent\n    orchestration, safety/guardrails, and integrating LLMs\n    into code and review workflows.\n  - Data and analytics for platform decisions (e.g.,\n    Python/Node-based ETL, SQL/warehouses, lightweight\n    dashboards).\n- Proficiency in at least two languages used for platform work\n  (e.g., Python, TypeScript/Node.js, Bash); comfortable\n  moving across stacks to ship end-to-end solutions.\n- Strong security and reliability instincts (secrets, least\n  privilege, dependency hygiene, runtime hardening).\n- Clear, concise written communication – from crisp docs and\n  service manuals to guides that accelerate adoption across\n  the team.\n- Able to communicate effectively with a diverse team and\n  external stakeholders; actively listens and ensures shared\n  understanding.\n\nHow we'll measure success\n\n- Faster, more reliable delivery pipelines and higher adoption\n  of paved paths.\n- Measurable improvements to build/test times, failure triage,\n  and developer feedback cycles.\n- AI tools that engineers choose to use – with clear quality,\n  speed, and safety wins.\n- Repeatable templates and docs that reduce bespoke work and\n  support burden.\n- Proactive communication that keeps projects on track and\n  stakeholders aligned without escalation.\n\nOur Environment (examples, not requirements)\n\n- CI/CD: GitHub Actions (reusable actions, org-wide\n  workflows), artifact management, quality gates.\n- Platform: Kubernetes, Helm, ArgoCD/GitOps, Terraform/IaC,\n  service configuration patterns.\n- AI: agentic developer tools (Cursor, Claude Code, Codex,\n  Windsurf, etc.), multi-agent workflows, prompt libraries,\n  and guardrail frameworks.\n- Data: Python or Node.js for ETL and analysis; SQL/warehouse\n  for build/run analytics and reporting.\n\nRemote Culture. A great company culture leads to happy\nemployees, and happy employees lead to happy customers. We\nprovide our employees with good salaries, benefits, equity,\nand interesting challenges that have a positive impact.\n\nLet’s stay connected! We believe in staying connected, and\nwe have a weekly “All Hands” meeting every week. We also\nhave a social committee that hosts frequent events. We’ve\nheld a virtual talent show, costume competitions, monthly\nlunch and learn series, Hackathons and more!\n\nBenefits.  The company offers various benefits to employees\nand their dependents, including medical, vision, dental,\ndisability, and life insurance, as well as parental and\nmilitary leave. Other benefits include an employee\nassistance program, 401k + match, annual bonus, pet\ninsurance, and RSUs. Paid parking* and 10 paid holidays are\nalso provided.\n\nDiversity, Equity and Inclusion. We believe in diversity,\nequity & inclusion. At ZenBusiness, every voice counts no\nmatter your race, ethnicity, gender, sexual orientation,\nage, location, or background. We celebrate the diversity of\nour teams, knowing that our products, services, and\ncustomers thrive best when we lean into and celebrate our\ndifferences.\n\nPlease check out our careers' page to learn more about our\nculture, benefits, and open opportunities.\n\n*applicable to in-office employees\n",
+  "skills_required": [
+    "AI guardrails",
+    "Claude Code",
+    "Cursor",
+    "LLM integration",
+    "agentic workflows",
+    "multi-agent orchestration",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and scale AI-powered developer tooling including agentic coding and review workflows that use LLMs to analyze code, generate changes, and collaborate via chat",
+    "Create policy- and guardrail-aware assistants that can comment, propose code changes, and safely automate repetitive tasks",
+    "Develop prompt libraries, instructions, and service manuals for effective and safe AI adoption across teams",
+    "Evolve CI/CD platform to be faster, more observable, and easier to adopt with analytics and data pipelines",
+    "Strengthen platform reliability and security in Kubernetes including cluster resiliency, rollout strategies, and Helm chart patterns",
+    "Create paved paths and golden templates including self-service software templates, CLI automation, and bootstrap flows",
+    "Mentor teammates, champion TDD and code review quality, and uplevel engineering practices within the team"
+  ],
+  "use_cases": [
+    "AI-powered code review and automated code generation for developer workflows",
+    "Intelligent assistants for policy-aware code changes and task automation",
+    "Developer productivity tooling with LLM-based coding assistants",
+    "Platform performance analytics and data pipelines for CI/CD optimization",
+    "Self-service developer templates and automation tools"
+  ],
+  "tools_mentioned": [
+    "ArgoCD",
+    "CI/CD",
+    "Docker",
+    "ETL",
+    "GitHub Actions",
+    "GitOps",
+    "Helm",
+    "Kubernetes",
+    "Terraform",
+    "data pipelines"
+  ],
+  "frameworks_mentioned": [
+    "AI guardrails",
+    "Claude Code",
+    "Cursor",
+    "LLM integration",
+    "agentic workflows",
+    "multi-agent orchestration",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Node.js",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building AI-powered developer tooling\nincluding agentic coding workflows, LLM-based code analysis\nand generation, multi-agent orchestration, and prompt\nlibraries. The engineer will directly work with LLMs to\ncreate tools that analyze code, generate changes, and\nautomate tasks - this is hands-on work with AI/LLM systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM integration",
+      "prompt engineering",
+      "multi-agent orchestration",
+      "AI guardrails",
+      "agentic workflows",
+      "Cursor",
+      "Claude Code"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [
+      "ETL",
+      "data pipelines"
+    ],
+    "cloud": [],
+    "ops": [
+      "GitHub Actions",
+      "CI/CD",
+      "Kubernetes",
+      "Helm",
+      "ArgoCD",
+      "GitOps",
+      "Terraform",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "Bash",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

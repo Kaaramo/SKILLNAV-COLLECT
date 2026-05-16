@@ -1,0 +1,105 @@
+{
+  "job_id": "intl-ai-corpus-1456",
+  "source": "intl-ai-corpus",
+  "source_ref": "8473801",
+  "source_url": "https://builtin.com/job/software-engineer-ai-tooling/8473801",
+  "title": "Software Engineer (AI Tooling)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Garda Capital Partners",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-12",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "115 Employees",
+  "company_stage": "Established",
+  "company_focus": "Multi-billion dollar alternative investment firm deploying\nrelative value strategies across fixed income markets",
+  "industries": [],
+  "description": "Garda Capital Partners (Garda) is a multi-billion dollar\nalternative investment firm with over 22 years of experience\ndeploying relative value strategies across fixed income\nmarkets for institutional investors. Garda's primary offices\nare located in Wayzata, New York City, West Palm Beach,\nGeneva, Zug, Copenhagen, Singapore, and Scottsdale.\n\nGarda is looking to hire a Software Engineer (AI Tooling) to\nbe a part of our Research and Technology (R&T) group to\ndesign and build systems that integrate modern AI\ncapabilities across the firm. The selected candidate will\ndevelop backend services, automation workflows, and\nintegrations that help research, trading, and operations\nteams work more effectively with AI-powered tools.\n\nThis is a hands-on engineering role focused on building\npractical, production-ready systems—not research or model\ntraining. You'll work with LLM APIs, build internal\napplications, create automation workflows, and integrate AI\ncapabilities into existing systems. The ideal candidate is\nexcited about the potential of AI tools but wants to focus\non engineering and delivery rather than ML research.\nExperience in financial services or capital markets is\nstrongly preferred.\n\nPosition Responsibilities\n\n- Build internal applications and services that integrate LLM\n  APIs and other AI capabilities into firm workflows\n- Develop backend infrastructure for AI-powered tools (API\n  gateways, vector search, chat backends, monitoring)\n- Create automation workflows and integrations between AI\n  platforms and internal systems\n- Implement data processing pipelines that prepare and route\n  information to AI services\n- Work with stakeholders across trading, research, and\n  operations to understand requirements and gather feedback\n- Build and maintain integrations with vendor AI platforms and\n  third-party tools\n- Participate in design, development, testing, and deployment\n  of new features and systems\n- Support and improve existing AI-powered applications and\n  workflows\n- Collaborate with infrastructure teams to ensure solutions\n  are secure, scalable, and well-monitored\n\nQualifications & Desired Skills\n\n- Bachelor's Degree in Computer Science, Engineering,\n  Mathematics, Finance, or related field\n- 2-5 years of software engineering experience\n- Strong programming skills in Python (primary language for\n  this role) or ability to learn quickly\n- Experience building backend services, APIs, or internal\n  applications\n- Comfortable working with REST APIs, databases, and data\n  processing workflows\n- Interest in AI and modern development tools; no ML/deep\n  learning experience required\n- Understanding of fixed income, trading operations, or\n  investment management workflows is a plus\n- Capital markets experience strongly preferred\n- Strong problem-solving skills and ability to learn new\n  technologies quickly\n- Clear communication skills and comfort working with both\n  technical and non-technical stakeholders\n- Ability to work effectively in a fast-paced environment and\n  manage multiple priorities\n- Self-motivated with interest in building practical tools\n  that people actually use\n\nThis role is also eligible for other forms of compensation\nand benefits, such as a discretionary bonus, healthcare\nplan, 401(k) matching program, etc. Within the range,\nindividual pay is determined by work location and additional\nfactors, such as job-related skills, experience, and\nrelevant education.\n\nBase Salary for this role is expected to be between:\n\n$150,000—$200,000 USD\n",
+  "skills_required": [
+    "Chat backends",
+    "LLM APIs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build internal applications and services that integrate LLM APIs and other AI capabilities into firm workflows",
+    "Develop backend infrastructure for AI-powered tools including API gateways, vector search, chat backends, and monitoring",
+    "Create automation workflows and integrations between AI platforms and internal systems",
+    "Implement data processing pipelines that prepare and route information to AI services",
+    "Build and maintain integrations with vendor AI platforms and third-party tools",
+    "Work with stakeholders across trading, research, and operations to understand requirements and gather feedback",
+    "Support and improve existing AI-powered applications and workflows",
+    "Collaborate with infrastructure teams to ensure solutions are secure, scalable, and well-monitored"
+  ],
+  "use_cases": [
+    "Internal workflow automation for research, trading, and operations teams",
+    "AI-powered search and chat interfaces for firm knowledge",
+    "Data processing and routing to AI services for financial analysis",
+    "Integration of AI capabilities into fixed income trading workflows",
+    "Automation of capital markets and investment management processes"
+  ],
+  "tools_mentioned": [
+    "Data processing pipelines",
+    "Databases",
+    "REST APIs",
+    "Vector search"
+  ],
+  "frameworks_mentioned": [
+    "Chat backends",
+    "LLM APIs"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building production systems that\nintegrate LLM APIs and AI capabilities, including backend\ninfrastructure for AI-powered tools like API gateways,\nvector search, and chat backends. While it explicitly states\nno ML/deep learning research experience is required, the\nhands-on work of integrating and deploying AI/LLM systems\nmakes this ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs",
+      "Chat backends"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector search",
+      "Databases"
+    ],
+    "data": [
+      "Data processing pipelines"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Fixed income",
+      "Capital markets",
+      "Trading operations",
+      "Investment management"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

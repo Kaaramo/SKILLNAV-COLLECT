@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-0698",
+  "source": "intl-ai-corpus",
+  "source_ref": "8348590",
+  "source_url": "https://builtin.com/job/integration-engineer-microsoft-graph-enterprise-ai-systems/8348590",
+  "title": "Integration Engineer – Microsoft Graph & Enterprise AI Systems",
+  "title_normalized": "AI_ENGINEER",
+  "company": "FGS Global",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-29",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,825 Employees",
+  "company_stage": "Established (formed from merger of multiple firms)",
+  "company_focus": "Global stakeholder strategy and communications advisory firm\nwith an AI innovation lab",
+  "industries": [],
+  "description": "What You'll Do\n\nYou'll build enterprise integrations that connect our AI\nplatform to Microsoft 365 and other corporate systems. This\nis hands-on infrastructure work: implementing authentication\nflows, managing permissions, and creating data pipelines\nthat enable AI agents to operate securely within enterprise\nenvironments.\n\nYou'll work closely with senior engineers to expand our\nplatform's integration capabilities—turning technical\nspecifications into production code that consultants rely on\ndaily.\n\nYour Responsibilities\n\nIntegration Development:\n\n- Implement OAuth-based authentication flows with proper scope\n  management\n- Build data pipelines for email, calendar, file storage, and\n  collaboration platforms\n- Handle complex API scenarios like recurring events, large\n  file uploads, and rate limiting\n- Create resource mapping between internal systems and\n  external platforms\n\nMicrosoft Graph & Enterprise APIs:\n\n- Develop integrations using Microsoft Graph API across\n  multiple services\n- Implement search and query capabilities using platform-\n  specific APIs\n- Optimize performance for high-volume operations\n- Build resilient error handling and retry logic\n\nSecurity & Compliance:\n\n- Work with IT teams on app registration and permission\n  workflows\n- Implement secure token management with refresh and caching\n  strategies\n- Follow enterprise security patterns and data access policies\n- Document integration approaches and technical decisions\n\nProduction Support:\n\n- Monitor integration health and respond to issues\n- Handle API throttling and service disruptions gracefully\n- Debug authentication failures and permission problems\n- Contribute to team knowledge base and documentation\n\nYour Profile\n\nRequired:\n\n- 3+ years backend engineering with API integration experience\n- Strong proficiency in Node.js and TypeScript\n- Deep understanding of Microsoft 365 architecture (Azure AD,\n  SharePoint, Teams, Exchange Online)\n- Solid grasp of Microsoft's permission model (delegated vs.\n  application permissions, consent frameworks, API scopes)\n- Experience with OAuth 2.0 flows and enterprise\n  authentication patterns\n- Hands-on experience with Microsoft Graph API\n- Cloud platform experience with Azure and GCP\n- Ability to build resilient systems with proper error\n  handling\n\nStrongly Preferred:\n\n- MSAL Node library implementation experience\n- Understanding of SharePoint site architecture, document\n  libraries, and Teams structure\n- Experience with Microsoft Fabric or other Microsoft data\n  architectures\n- Model Context Protocol (MCP) implementation experience\n- Experience with caching systems (Redis or similar)\n- Background working with IT/security teams on enterprise\n  integrations\n- Familiarity with AI/LLM platforms or agent systems\n\nBonus:\n\n- Azure AD app registration and administration experience\n- Knowledge of other enterprise APIs (Google Workspace,\n  Salesforce, Slack)\n- Understanding of Graph SDK internals\n- Experience with Adaptive Cards or Teams extensibility\n- Familiarity with Microsoft's tenant architecture and multi-\n  tenant applications\n\nWhy This Matters\n\nOur AI platform serves consultants across a global\norganization. The integrations you build enable the AI to\naccess the right context while respecting security\nboundaries—directly impacting how effectively consultants\ncan work.\n\nWe're not building prototypes—we're scaling proven\ncapabilities. Our data infrastructure processes millions of\nmedia articles, social posts, and stakeholder signals daily.\nOur agents don't just answer questions—they generate press\nreleases, analyze media coverage, and provide strategic\nrecommendations that consultants use in high-stakes client\nsituations.\n\nWhat makes this interesting:\n\n- You'll work on real technical challenges: enterprise\n  permissions, asynchronous operations, token lifecycle\n  management\n- Your code enables AI capabilities that consultants use every\n  day\n- You'll learn integration patterns for AI agents in\n  enterprise environments\n- Close collaboration with AI researchers, product teams, and\n  senior engineers\n\nWhat you'll learn:\n\n- Enterprise authentication architecture at scale\n- Microsoft Graph API depth across multiple services\n- Security patterns for AI agent systems\n- How to navigate enterprise IT processes while shipping code\n\nAbout FGS Labs\n\nFGS Labs is FGS Global's innovation engine, building AI and\ndata capabilities that are already in production and\ndelivering value across the firm. Our flagship platform,\nFergus, is a live AI assistant used daily by consultants\nworldwide, powered by real-time media intelligence,\nproprietary data sources, and specialized agents for M&A,\ncrisis communications, and stakeholder strategy.\n\nAbout FGS Global\n\nFGS Global is the world’s leading stakeholder strategy firm,\nwith over 1,500 professionals around the world, advising\nclients in navigating critical issues and reputational\nchallenges. FGS was formed from the combination of Finsbury,\nThe Glover Park Group, Hering Schuppener and Sard Verbinnen\n& Co to offer board-level and C-suite counsel in all aspects\nof stakeholder strategy — including corporate reputation,\ncrisis management, and public affairs and is also the\nleading force in transaction and financial communications\nworldwide.\n\nFGS offers seamless and integrated support with offices in\nthe following locations: Abu Dhabi, Amsterdam, Beijing,\nBerlin, Boston, Brussels, Calgary, Chicago, Dubai, Dublin,\nDüsseldorf, Frankfurt, Hong Kong, Houston, Kingston, London,\nLos Angeles, Munich, Paris, Riyadh, San Francisco, Shanghai,\nSingapore, South Florida, The Hague, Tokyo, Toronto,\nVancouver, Washington, D.C., and Zurich. The firm is\nheadquartered in New York.\n\nFGS is consistently ranked a Band 1 PR firm for Crisis &\nRisk Management and for Litigation Support by Chambers and\nPartners.  For the second year, FGS was ranked #1 Global M&A\nPR firm by Deal Count and Value in 2024 by Mergermarket.\n\nWe are looking to fill this position as quickly as possible\nand are open to both freelance and permanent employment\narrangements.\n\nFGS Global is committed to creating a diverse and inclusive\nenvironment and welcomes applicants from all backgrounds.\n\nNew York City Salary Range\n\n$100,000—$140,000 USD\n",
+  "skills_required": [
+    "AI/LLM platforms",
+    "Model Context Protocol (MCP)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement OAuth-based authentication flows with proper scope management for enterprise AI platform integrations",
+    "Build data pipelines connecting email, calendar, file storage, and collaboration platforms to the AI system",
+    "Develop integrations using Microsoft Graph API across multiple services (SharePoint, Teams, Exchange)",
+    "Implement secure token management with refresh and caching strategies",
+    "Build resilient error handling, retry logic, and performance optimization for high-volume API operations",
+    "Monitor integration health, debug authentication failures, and handle API throttling",
+    "Work with IT teams on app registration, permission workflows, and enterprise security compliance",
+    "Contribute to team knowledge base and document integration approaches"
+  ],
+  "use_cases": [
+    "AI assistant (Fergus) that consultants use daily for strategic work across M&A, crisis communications, and stakeholder strategy",
+    "AI agents that generate press releases, analyze media coverage, and provide strategic recommendations",
+    "Real-time media intelligence processing millions of articles, social posts, and stakeholder signals daily",
+    "Enterprise search and context retrieval across Microsoft 365 data sources with security boundary enforcement",
+    "Secure data access enabling AI agents to operate within enterprise permission and compliance frameworks"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "Azure AD",
+    "GCP",
+    "MSAL Node",
+    "Microsoft Fabric",
+    "Microsoft Graph API",
+    "Microsoft Teams",
+    "OAuth 2.0",
+    "REST APIs",
+    "Redis",
+    "SharePoint",
+    "Token management"
+  ],
+  "frameworks_mentioned": [
+    "AI/LLM platforms",
+    "Model Context Protocol (MCP)"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is focused on building enterprise integrations\n(OAuth, data pipelines, Microsoft Graph API) that connect\nMicrosoft 365 and corporate systems to an AI platform. The\nengineer builds the infrastructure that enables AI agents to\naccess data, but does not directly build, train, fine-tune,\nor deploy AI/ML models themselves. The work is enabling AI\ncapabilities through integration plumbing rather than\nworking on the AI systems directly.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Model Context Protocol (MCP)",
+      "AI/LLM platforms"
+    ],
+    "ml": [],
+    "web": [
+      "Microsoft Graph API",
+      "OAuth 2.0",
+      "MSAL Node",
+      "SharePoint",
+      "Microsoft Teams",
+      "REST APIs"
+    ],
+    "databases": [
+      "Redis"
+    ],
+    "data": [
+      "Microsoft Fabric"
+    ],
+    "cloud": [
+      "Azure AD",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Token management"
+    ],
+    "languages": [
+      "Node.js",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

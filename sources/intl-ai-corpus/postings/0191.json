@@ -1,0 +1,115 @@
+{
+  "job_id": "intl-ai-corpus-0191",
+  "source": "intl-ai-corpus",
+  "source_ref": "7362831",
+  "source_url": "https://builtin.com/job/ai-ml-engineer/7362831",
+  "title": "AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Burq, Inc.",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "38 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Delivery and logistics platform with AI/ML automation",
+  "industries": [],
+  "description": "About Burq\n\nBurq started with an ambitious mission: to turn the complex\nprocess of offering delivery into a simple, turnkey\nsolution. It’s a big mission, and now we want you to join us\nin making it even bigger. 🚀\n\nWe’re proud to be recognized as one of Fast Company’s Best\nWorkplaces for Innovators and a 2025 Inc. Magazine Power\nPartner, awards that highlight how we’re redefining the\nfuture of logistics while empowering our partners to grow.\n\nBacked by leading Silicon Valley investors like Village\nGlobal, the fund whose investors include Bill Gates, Jeff\nBezos, Mark Zuckerberg, Reid Hoffman, and Sara Blakely,\nwe’ve built a world-class team across the globe.\n\nWe operate at scale but remain small enough for every person\nto have a massive impact. There’s a lot of important work\nahead, and joining Burq means the opportunity to grow faster\nthan ever while doing the most meaningful work of your\ncareer.\n\nHere’s a quick overview of what you will be doing:\n\nAI/ML Engineer\n\nWe’re growing fast and are looking for a AI/ML Engineer to\nhelp scale our platform, and help drive innovation in\nlogistics and AI/ML-powered automation.\n\nRequirements\n\n- Design, train, and deploy machine learning models using AWS-\n  native tools (SageMaker, Lambda, Step Functions, S3).\n- Collaborate with data engineers to build and maintain robust\n  data pipelines for feature ingestion, ETL, and model\n  training.\n- Fine-tune and optimize models for scalability, accuracy, and\n  production readiness.\n- Implement MLOps best practices including CI/CD pipelines,\n  model versioning, monitoring, and automated retraining\n  workflows.\n- Monitor model performance, detect drift, and implement\n  automated alerts and corrective actions.\n- Work with cross-functional teams (product, software,\n  infrastructure) to integrate AI capabilities into user-\n  facing features.\n\n- Share knowledge with the team through code reviews,\n  documentation, and architecture discussions.\n\nWho You Are\n\n- 3–6 years of professional experience in ML engineering, data\n  science, or related roles.\n- Hands-on experience with AWS services including SageMaker,\n  Lambda, Step Functions, S3, and DynamoDB.\n- Proficient in Python and ML frameworks such as TensorFlow.\n- Proficient in Typescript and React to help bring AI/ML\n  features into the product.\n- Solid understanding of data engineering concepts: ETL,\n  batch/streaming pipelines, and data validation.\n- Familiar with containerization (Docker), CI/CD pipelines,\n  and MLOps workflows.\n- Self-starter who thrives with autonomy and can deliver\n  results with minimal oversight.\n- Strong collaboration and communication skills; comfortable\n  explaining ML concepts to technical and non-technical\n  stakeholders.\n- Bonus: AWS ML certification or equivalent hands-on\n  experience.\n- Bonus: Experience with generative AI, LLMs, or advanced ML\n  applications.\n\nBenefits\n\nInvesting in you 🙏\n\n- Competitive Salary, Stock Options, and Performance-based\n  Bonuses\n- Fully Remote\n- Comprehensive Medical, Vision and Dental Insurance\n\nAt Burq, we value diversity. We are an equal opportunity\nemployer: we do not discriminate on the basis of race,\nreligion, color, national origin, gender, sexual\norientation, age, marital status, veteran status, or\ndisability status.\n",
+  "skills_required": [
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, train, and deploy machine learning models using AWS-native tools including SageMaker, Lambda, Step Functions, and S3",
+    "Collaborate with data engineers to build and maintain robust data pipelines for feature ingestion, ETL, and model training",
+    "Fine-tune and optimize models for scalability, accuracy, and production readiness",
+    "Implement MLOps best practices including CI/CD pipelines, model versioning, monitoring, and automated retraining workflows",
+    "Monitor model performance, detect drift, and implement automated alerts and corrective actions",
+    "Work with cross-functional teams to integrate AI capabilities into user-facing features"
+  ],
+  "use_cases": [
+    "AI/ML-powered automation for logistics and delivery operations",
+    "Turnkey delivery solution with intelligent features",
+    "Logistics optimization through machine learning models",
+    "Production ML systems for delivery platform scale"
+  ],
+  "tools_mentioned": [
+    "AWS Lambda",
+    "AWS Step Functions",
+    "CI/CD",
+    "Docker",
+    "DynamoDB",
+    "ETL",
+    "MLOps",
+    "React",
+    "S3",
+    "SageMaker",
+    "batch/streaming pipelines"
+  ],
+  "frameworks_mentioned": [
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This is an ML-first role focused on designing, training,\ndeploying, and optimizing machine learning models using\nTensorFlow and AWS SageMaker. The role involves hands-on\nmodel engineering work with MLOps practices, not just\nsupport infrastructure or LLM-specific development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow"
+    ],
+    "web": [
+      "React"
+    ],
+    "databases": [],
+    "data": [
+      "ETL",
+      "batch/streaming pipelines"
+    ],
+    "cloud": [
+      "SageMaker",
+      "AWS Lambda",
+      "AWS Step Functions",
+      "S3",
+      "DynamoDB"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "MLOps"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

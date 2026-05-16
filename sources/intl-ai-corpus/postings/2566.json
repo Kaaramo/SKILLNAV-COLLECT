@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-2566",
+  "source": "intl-ai-corpus",
+  "source_ref": "8889970",
+  "source_url": "https://builtin.com/job/ai-success-engineer/8889970",
+  "title": "AI Success Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "HASH",
+  "company_type": "entité morale privée",
+  "location": "London",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-22",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "23 Employees",
+  "company_stage": "Series A / Scaling",
+  "company_focus": "Building open-source knowledge graph infrastructure and\nworld models for decision-making",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Business Intelligence"
+  ],
+  "description": "About HASH\n\nAt HASH, we're building infrastructure to solve information\nfailure and help everybody make the right decisions. Our\nopen-source platform helps firms integrate both structured\nand unstructured information into knowledge graphs that\nsupport simulating, optimizing and automating processes.\n\nWe’re building towards world models from a radically\ndifferent perspective to most AI labs. Our founders include\nJoel Spolsky (former founder of Stack Overflow; acq. $1.8bn,\nand Trello; acq. $425m), Jude Allred (former CTO of Glitch)\nand Dei Vilkinsons (former CEO of Soho Strategy).\n\nAbout the role\n\nIn the last 6 months we've seen significant growth and are\nnow scaling fast. We're hiring AI Solution Engineers in\nLondon and Berlin to help build real-world applications for\nour customers utilising HASH's technology.\n\nThis is a highly technical, customer-facing role for someone\nwho enjoys operating at the intersection of AI, systems\nthinking, and problem-solving. You’ll work closely with\ncustomers to understand their goals, translate complex\nbusiness problems into robust technical solutions, and help\nthem realize value quickly.\n\nRequirements\n\n- Strong technical ability, with experience shipping software,\n  or building AI systems in production: prior AI/ML\n  engineering, data engineering, applied AI, or product\n  engineering experience is a hard requirement\n- Ability to work directly with customers and own complex\n  problem-solving end to end: you'll interface with external\n  stakeholders and will need to draw upon social\n  intelligence, business context, and technical insight in\n  your work — demonstrating clear, structured communication.\n- Strong judgment, high agency, and a bias toward execution:\n  comfort operating in fast-moving environments with a high\n  degree of ambiguity\n- Genuine interest in helping customers succeed, not just\n  shipping technology: results-oriented and impact-\n  motivated; many of our engagements are priced based on the\n  results we deliver, as is compensation in this role.\n\nWhat you'll do\n\nIn essence, you'll talk to customers, act as a technical\narchitect, and write code / develop solutions yourself (both\nsolo and within a wider team):\n\n- Partner with customers to understand their workflows, data,\n  and operational challenges\n- Design and build AI-powered solutions using HASH, especially\n  for enterprise use cases\n- Translate ambiguous business problems into structured\n  technical plans and deployable systems\n- Work across knowledge graphs, structured and unstructured\n  data, LLM-based workflows, and automation\n- Lead technical discovery, solution design, implementation,\n  and rollout with customer stakeholders\n- Act as a trusted advisor to customer teams, from operators\n  and technical teams through to executives\n- Work closely with product, engineering, and research to\n  shape the platform based on real customer needs\n- Help define repeatable solution patterns, delivery\n  playbooks, and best practices as we scale\n\nWhy HASH\n\n- Work on first-principles AI research tied to a large and\n  important real-world mission\n- Join at a moment of rapid growth, with outsized scope and\n  influence\n- Help build a leading frontier AI lab in Europe with global\n  ambition\n- Work alongside founders who have previously built and exited\n  businesses worth billions of dollars\n- Be part of a team that moves fast, is enthusiastically open\n  source, and is in it for the long-term\n\nBenefits\n\nOur team have founded and sold billion-euro companies from\nscratch. We offer leading equity-weighted total\ncompensation, including competitive salaries and tax-\nadvantaged options.\n\nWe meet together quarterly in-person for whole-team\nretreats, provide engineers with generous learning and tech\nbudgets, and recognise and reward output.\n\nThis role is primarily bonus/equity incentivized and pays\n£70,000-£120,000 base.\n",
+  "skills_required": [
+    "AI/ML Engineering",
+    "Applied AI",
+    "Automation",
+    "Customer-facing engineering",
+    "LLM-based workflows",
+    "Prompt Engineering",
+    "RAG",
+    "Solution Architecture"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Partner with customers to understand their workflows, data, and operational challenges",
+    "Design and build AI-powered solutions using HASH for enterprise use cases",
+    "Translate ambiguous business problems into structured technical plans and deployable systems",
+    "Work across knowledge graphs, structured and unstructured data, LLM-based workflows, and automation",
+    "Lead technical discovery, solution design, implementation, and rollout with customer stakeholders",
+    "Act as a trusted advisor to customer teams from operators to executives",
+    "Work closely with product, engineering, and research to shape the platform based on real customer needs",
+    "Help define repeatable solution patterns, delivery playbooks, and best practices as we scale"
+  ],
+  "use_cases": [
+    "Enterprise knowledge graph construction from structured and unstructured data",
+    "Business process simulation, optimization, and automation",
+    "LLM-based workflow automation for enterprise customers",
+    "Decision support systems leveraging integrated information",
+    "Customer-specific AI solution design and deployment"
+  ],
+  "tools_mentioned": [
+    "Data Engineering",
+    "Knowledge Graphs",
+    "REST APIs",
+    "Structured Data",
+    "Unstructured Data Processing"
+  ],
+  "frameworks_mentioned": [
+    "AI/ML Engineering",
+    "Applied AI",
+    "LLM-based workflows",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves designing and building AI-powered\nsolutions, working with LLM-based workflows, knowledge\ngraphs, and automation directly for customers. While\ncustomer-facing, this is a Forward Deployed Engineer-style\nrole where the engineer builds and deploys AI systems (not\njust supporting infrastructure for others who build AI). The\nexplicit mention of building AI systems in production and\ndeveloping solutions using HASH's technology places it\nfirmly in ai-first.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM-based workflows",
+      "Prompt Engineering",
+      "Applied AI",
+      "RAG"
+    ],
+    "ml": [
+      "AI/ML Engineering"
+    ],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Knowledge Graphs",
+      "Data Engineering",
+      "Structured Data",
+      "Unstructured Data Processing"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Solution Architecture",
+      "Automation",
+      "Customer-facing engineering"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

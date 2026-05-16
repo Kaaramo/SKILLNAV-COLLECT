@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2859",
+  "source": "intl-ai-corpus",
+  "source_ref": "9042646",
+  "source_url": "https://builtin.com/job/data-engineer-gen-ai/9042646",
+  "title": "Data Engineer (Gen AI)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Interactive Brokers",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-14",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,441 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global electronic brokerage and financial services",
+  "industries": [],
+  "description": "Company Overview\n\nInteractive Brokers Group, Inc. (Nasdaq: IBKR) is a global\nfinancial services company headquartered in Greenwich, CT,\nUSA, with offices in over 15 countries. We have been at the\nforefront of financial innovation for over four decades,\nknown for our cutting-edge technology and client commitment.\n\nIBKR affiliates provide global electronic brokerage services\naround the clock on stocks, options, futures, currencies,\nbonds, and funds to clients in over 200 countries and\nterritories. We serve individual investors and institutions,\nincluding financial advisors, hedge funds and introducing\nbrokers. Our advanced technology, competitive pricing, and\nglobal market help our clients to make the most of their\ninvestments.\n\nBarron's has recognized Interactive Brokers as the #1 online\nbroker for six consecutive years. Join our dynamic, multi-\nnational team and be a part of a company that simplifies and\nenhances financial opportunities using state-of-the-art\ntechnology.\n\nThis is Hybrid role (3 days in office /2 days remote)\n\nAbout your Team:\n\nThe Enterprise Architecture organization is looking for a\nData Engineer to join the team and help build the next\ngeneration of data infrastructure and AI-enabled workflows.\nIn this role, you will be responsible for designing,\nbuilding, and maintaining scalable data pipelines, data lake\nplatforms, and analytics solutions that support enterprise-\nwide AI initiatives and advanced analytics capabilities. You\nwill partner closely with internal development teams and IT\nleadership to architect data solutions that meet diverse\nuse-cases across the organization. This role offers the\nopportunity to work with cutting-edge data technologies, AI\nknowledge bases, and cloud-native data platforms as we scale\nour data operations. Your work will focus on delivering\nrobust, well-documented data solutions and establishing best\npractices for data engineering across the enterprise.\n\n What will be your responsibilities within IBKR:\n\n· Design, build, and maintain scalable data crawlers and\nETL/ELT pipelines to ingest data from various sources\nincluding enterprise collaboration tools, web applications,\nand internal databases\n\n· Develop and manage data lake platform infrastructure\nincluding S3-based storage, Iceberg tables, AWS Glue data\ncatalog, and cloud data warehouse solutions for analytics\nworkloads\n\n· Build and optimize real-time streaming data pipelines\nusing Kafka for event-driven analytics and data processing\n\n· Create and maintain data transformation pipelines to\nclean, curate, and prepare data for analytics and AI/ML\napplications, supporting multiple data formats including\nstructured, semi-structured, and unstructured data (text,\nimages, audio, video)\n\n· Develop Python-based applications for data ingestion,\nprocessing, and integration supporting Gen AI RAG workflows\nand knowledge base systems\n\n· Collaborate with internal development teams, data\nscientists, and stakeholders to understand requirements,\narchitect appropriate data solutions, and create\ncomprehensive technical documentation\n\n· Monitor, troubleshoot, and optimize data pipelines for\nperformance, reliability, and data quality\n\n· Write clean, maintainable, well-tested code following\nsoftware engineering and data engineering best practices\n\n· Create comprehensive technical documentation for data\npipelines, architectures, and platform capabilities\n\n What required skill’s you need:\n\n· 6+ years of hands-on data engineering experience with\nmodern data stack technologies\n\n· Strong experience with AWS cloud services, particularly:\nS3, AWS Glue, Athena, EMR, Lambda\n\n· Proficiency in Python for data processing, ETL, and\napplication development\n\n· Experience with PySpark on EMR for large-scale data\nprocessing\n\n· Strong SQL skills for data analysis and transformation\n\n· Experience building and maintaining ETL/ELT pipelines at\nscale\n\n· Experience with Kafka for streaming data pipelines and\nreal-time data processing\n\n· Knowledge of data lake architectures and modern table\nformats (e.g., Iceberg)\n\n· Experience with CI/CD practices using Git, version control\nsystems, and containerization (Docker)\n\n· Understanding of data modeling, data warehousing concepts,\nand analytics best practices\n\n· Exceptional problem-solving and analytical skills\n\n· Excellent collaboration and communication (verbal and\nwritten) skills\n\n· Self-motivated with ability to work independently and\nmanage multiple priorities\n\n· Willingness and enthusiasm to learn AI/ML technologies,\nstay current with emerging data engineering trends\n\n To be successful in this position, you will have the\nfollowing:\n\n- Self-motivated and able to handle tasks with minimal\n  supervision.\n- Superb analytical and problem-solving skills.\n- Excellent collaboration and communication (Verbal and\n  written) skills.\n- Outstanding organizational and time management skills.\n\nCompany Benefits & Perks\n\n- Competitive salary, annual performance-based bonus and stock\n  grant\n- Retirement plan 401(k) with competitive company match\n- Excellent health and wellness benefits, including medical,\n  dental, and vision benefits. Company paid medical\n  healthcare premium.\n- Wellness screenings and assessments, health coaches and\n  counseling services through an Employee Assistance Program\n  (EAP)\n- Paid time off and a generous parental leave policy\n- Daily company lunch allowance provided and a fully stocked\n  kitchen with healthy options for breakfast and snack\n- Corporate events including team outings, dinners, volunteer\n  activities and company sports teams\n- Education reimbursement and learning opportunities\n- Modern offices with multi-monitor setups\n\nThe anticipated base salary range for this role is $150,000\nto $200,000 per year, based on skills, experience, and\nlocation. The offered salary is just part of the total\ncompensation package. In addition to a competitive salary,\nthe company offers both a discretionary cash bonus and a\nstock award, as well as a wide range of benefits, including\nhealthcare, tuition reimbursement, and more.\n",
+  "skills_required": [
+    "RAG workflows"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain scalable data crawlers and ETL/ELT pipelines to ingest data from enterprise collaboration tools, web applications, and internal databases",
+    "Develop and manage data lake platform infrastructure including S3-based storage, Iceberg tables, AWS Glue data catalog, and cloud data warehouse solutions",
+    "Build and optimize real-time streaming data pipelines using Kafka for event-driven analytics and data processing",
+    "Create and maintain data transformation pipelines to clean, curate, and prepare data for analytics and AI/ML applications across structured, semi-structured, and unstructured data formats",
+    "Develop Python-based applications for data ingestion, processing, and integration supporting GenAI RAG workflows and knowledge base systems",
+    "Collaborate with internal development teams, data scientists, and stakeholders to architect data solutions and create technical documentation",
+    "Monitor, troubleshoot, and optimize data pipelines for performance, reliability, and data quality",
+    "Write clean, maintainable, well-tested code following software engineering and data engineering best practices"
+  ],
+  "use_cases": [
+    "Data pipeline infrastructure to support enterprise-wide AI/ML initiatives",
+    "GenAI RAG workflow data preparation and knowledge base systems",
+    "Real-time event-driven analytics and data processing",
+    "Data lake platform for structured, semi-structured, and unstructured data (text, images, audio, video)",
+    "Enterprise data ingestion from collaboration tools, web applications, and internal databases"
+  ],
+  "tools_mentioned": [
+    "AWS Athena",
+    "AWS EMR",
+    "AWS Glue",
+    "AWS Lambda",
+    "AWS S3",
+    "Apache Iceberg",
+    "CI/CD",
+    "Data lake architecture",
+    "Data modeling",
+    "Data warehousing",
+    "Docker",
+    "ETL/ELT pipelines",
+    "Git",
+    "Kafka",
+    "PySpark",
+    "Streaming data pipelines"
+  ],
+  "frameworks_mentioned": [
+    "RAG workflows"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is primarily a data engineering position focused\non building data pipelines, data lake infrastructure, and\nETL processes that feed into AI/ML applications and RAG\nworkflows. While it supports GenAI initiatives (RAG\nworkflows, knowledge bases), the core work is data\ninfrastructure and pipeline engineering — enabling others\nwho build AI systems rather than directly building,\ntraining, or fine-tuning models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG workflows"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Apache Iceberg",
+      "Data warehousing"
+    ],
+    "data": [
+      "PySpark",
+      "Kafka",
+      "ETL/ELT pipelines",
+      "Data modeling",
+      "Data lake architecture",
+      "Streaming data pipelines"
+    ],
+    "cloud": [
+      "AWS S3",
+      "AWS Glue",
+      "AWS Athena",
+      "AWS EMR",
+      "AWS Lambda"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

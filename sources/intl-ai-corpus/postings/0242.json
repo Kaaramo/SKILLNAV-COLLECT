@@ -1,0 +1,110 @@
+{
+  "job_id": "intl-ai-corpus-0242",
+  "source": "intl-ai-corpus",
+  "source_ref": "7569421",
+  "source_url": "https://builtin.com/job/founding-ai-engineer/7569421",
+  "title": "Founding AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "August Law",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "15 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI agents for legal document automation and workflows",
+  "industries": [
+    "Legal Tech",
+    "Software"
+  ],
+  "description": "At August, we’re building AI designed for one thing: helping\nlaw firms practice better. Unlike tools built for the AmLaw\n100, our focus is on midsized firms — where efficiency,\nclient service, and competitive advantage matter most.\n\nOur platform helps lawyers draft, review, and analyze\ndocuments at scale, turning what used to take hours into\nminutes. We’re trusted by forward-thinking firms across the\nU.S., Australia, and Asia, and backed by leading investors\n(NEA, Pear VC, Stanford Law) to grow globally.\n\nWe move quickly, learn directly from clients, and believe\nthat AI is transforming the practice of law.\n\nThe Opportunity\n\nAugust is building AGI for law. Our agents mimic a lawyers’\nreasoning, research, and drafting, and our workflows already\noutperform lawyers in third-party evaluations. We’re\ntargeting mid-market law firms, automating their legal work\nand allowing them to provide our tools directly to their\nclients. Join August at an early stage as we scale our\nagents to process thousands of documents simultaneously and\ncreate outputs exceeding human-level accuracy.\n\nAs a Founding AI Engineer at August, you will design and\nscale production-grade agents that perform legal tasks with\nexpert-level reasoning. You’ll work closely with the\nfounders, legal experts, and product team to deploy AI\nsystems in high-stakes workflows used by real lawyers across\nthe globe.\n\nWhat You'll Do\n\n- Build and deploy agentic systems using Python to automate,\n  evaluate, and scale end-to-end legal workflows\n- Zero-to-one product development: rapidly prototype,\n  evaluate, integrate, and test new product features in\n  close partnership with our customers and legal team.\n- Develop new AI native workflows: implement streaming, long-\n  running tasks, procedural UX, etc. for new AI tasks,\n  finding the balance between state-of-the-art and\n  pragmatism.\n\nAbout You\n\n- 3+ years of experience building products on top of LLMs,\n  either in grad school or in production environments;\n  strong Python skills\n- Demonstrated ability to ship quickly especially in early-\n  stage environments while building scalable enterprise\n  software\n- Grit - experience working at early-stage startups is a plus.\n- Ideally candidates would have experience and deep\n  understanding of how infrastructure-layer (Kubernetes,\n  Database, OS, Cloud Storage etc) software systems work.\n\nWhy Join August\n\n- Founding Impact: Shape not just your role but the company.\n- Uncapped Upside: Competitive base + commission, early equity\n  ownership.\n- Top-tier Team: Work alongside people who move fast, think\n  clearly, and care deeply.\n- Category-Defining Work: Help build the first true AI agents\n  for the legal profession.\n- Fast Growth: Scale your career as we scale the company.\n- Exceptional Early Traction: >4x revenue growth in the past\n  four months.\n- Global Reach: Our clients span 4 continents and use August\n  in multiple languages and jurisdictions\n- Frontier of Applied AI: August has access to proprietary\n  data inaccessible to foundation model providers. We build\n  agents to automate all challenging knowledge work.\n- Strategic investors: Backed by NEA and exceptional seed\n  investors Pear VC and Afore Capital, August has the\n  capital to execute\n",
+  "skills_required": [
+    "LLMs",
+    "agentic systems",
+    "agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and deploy agentic systems using Python to automate, evaluate, and scale end-to-end legal workflows",
+    "Rapidly prototype, evaluate, integrate, and test new product features in partnership with customers and legal team",
+    "Implement streaming, long-running tasks, procedural UX, and AI-native workflows for new legal tasks",
+    "Design and scale production-grade agents that perform legal tasks with expert-level reasoning",
+    "Deploy AI systems in high-stakes workflows used by real lawyers globally",
+    "Balance state-of-the-art AI approaches with pragmatism in product development"
+  ],
+  "use_cases": [
+    "Legal document drafting, review, and analysis at scale",
+    "Automating lawyer reasoning, research, and drafting through AI agents",
+    "Processing thousands of documents simultaneously with high accuracy",
+    "Enabling law firms to provide AI tools directly to their clients",
+    "Supporting legal workflows across multiple languages and jurisdictions",
+    "Automating knowledge work for mid-market law firms"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "cloud infrastructure",
+    "database systems",
+    "streaming"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "agentic systems",
+    "agents"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building AI agents that mimic lawyer\nreasoning and automate legal workflows. The engineer will\ndesign and scale production-grade agents using LLMs,\ndirectly developing agentic systems that perform legal\ntasks.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "agents",
+      "agentic systems"
+    ],
+    "ml": [],
+    "web": [
+      "streaming"
+    ],
+    "databases": [
+      "database systems"
+    ],
+    "data": [],
+    "cloud": [
+      "cloud infrastructure"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

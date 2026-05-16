@@ -1,0 +1,131 @@
+{
+  "job_id": "intl-ai-corpus-0639",
+  "source": "intl-ai-corpus",
+  "source_ref": "8308979",
+  "source_url": "https://builtin.com/job/senior-software-engineer-laravel-ai-solutions/8308979",
+  "title": "Senior Software Engineer (Laravel), AI Solutions",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PactFi",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-27",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "22 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Secure infrastructure for private credit transactions",
+  "industries": [
+    "Software",
+    "Financial Services"
+  ],
+  "description": "About PactFi\n\nPrivate asset markets (PE, Private Credit, VC, Real Estate)\nhave 10x to 9.8T in AUM over the past decade and are\nprojected to grow to $17T in the next five years. However,\ndigital infrastructure has not kept pace, with most of the\nmarket operating predominantly in error-prone, internal-only\nsoftware solutions.\n\nPactFi provides secure, end-to-end, operational\ninfrastructure for managing complex private credit\ntransactions. Our web-based application brings together all\nparties involved in such a transaction to more efficiently\nallocate capital, complete KYC, share documents, manage\nfunds flow, and more. The platform is secured to a bank-\ngrade standard, and we have received our SOC 2 Type 2\nattestation.\n\nPactFi was developed in close partnership with two of the\nindustry's largest players, both of whom represent the top 3\nplayers in the private credit space by both size (AUM) and\ndeal activity.\n\nJob Description\n\nPactFi is seeking a Senior Software Engineer with a strong\nfocus on building and evolving AI-enabled capabilities\nacross the PactFi platform. You will remain deeply hands-on\nin our Laravel codebase while leading the design and\nimplementation of AI-powered features that integrate\ndirectly into our core systems.\n\nYou’ll work closely with engineering leadership, product,\nand business stakeholders to identify where AI creates real\nvalue, architect practical solutions, and bring them to\nproduction-without losing sight of reliability, security,\nscalability, and maintainability.\n\nThis role is well-suited for a seasoned backend engineer who\nhas been actively working with modern AI tooling and is\nready to take on greater architectural ownership at the\nplatform level.\n\nKey Responsibilities:\n\nBackend Engineering (Core Focus)\n\n· Design, build, and maintain robust backend systems using\nLaravel, with a focus on reliability, scalability, and long-\nterm maintainability.\n\n· Develop and evolve internal services, core platform\ncomponents, and shared libraries that power PactFi’s\nproducts and operations.\n\n· Collaborate with Product Managers, engineering leadership,\nand QA to shape technical solutions and support high-quality\nreleases through thoughtful design, testing, debugging, and\niteration.\n\n· Contribute to architectural discussions, technical\nstandards, and platform-level improvements that support\nPactFi’s long-term growth.\n\n· Take initiative on internal projects and exploratory work\naimed at improving developer productivity, system\nreliability, and operational efficiency.\n\nAI Architecture & Implementation\n\n- Identify high-value AI use cases across the PactFi platform,\n  focusing on real business impact.\n- Design and implement AI-powered backend workflows,\n  including:\n  - LLM-driven features and automations\n  - Intelligent agents and decision-support systems\n  - Automated document ingestion and extraction pipelines for\n    large, unstructured, and semi-structured documents\n    (e.g., PDFs, contracts, financial statements)\n- Lead the integration of AI models and platforms such as\n  OpenAI, AWS Bedrock, Azure AI, Google Gemini, or similar.\n- Design and implement AI workflows for inference,\n  orchestration, evaluation, and production readiness, with\n  attention to reliability, observability, security, and\n  cost.\n- Partner with engineering and data teams to ensure AI\n  solutions integrate cleanly with existing systems, APIs,\n  and data pipelines.\n- Prototype and validate AI capabilities before scaling them\n  into production.\n\nCross-Functional Collaboration\n\n· Act as a technical bridge between engineering, product,\nand business stakeholders, guiding the design of backend\nsystems and AI-enabled capabilities across the platform.\n\n· Work with stakeholders to evaluate requirements,\nconstraints, and trade-offs across core backend services,\ndata systems, and AI-driven features, ensuring solutions\ndeliver real business value.\n\n· Contribute to shaping PactFi’s long-term platform\nstrategy, including backend architecture, data foundations,\nand the thoughtful adoption of AI technologies.\n\n· Ensure technical initiatives, including AI-powered\nfeatures, align with PactFi’s security, compliance, and\nregulatory requirements in a financial services environment.\n\nQualifications\n\n- Extensive hands-on experience with Laravel building\n  production-grade backend systems.\n- Strong understanding of backend application architecture,\n  data modeling, and scalable system design.\n- Practical experience working with AI/LLM tooling, such as:\n  - LLM APIs and agent frameworks\n  - Document parsing and extraction\n  - Vector databases and embeddings\n  - RAG pipelines and model orchestration\n- Ability to evaluate architectural trade-offs across\n  performance, cost, security, and business value.\n- Strong problem-solving skills and comfort working with\n  ambiguous requirements.\n- Excellent communication skills and a collaborative,\n  ownership-driven mindset.\n\nNice to Have\n\n- Experience deploying systems on AWS (or other cloud\n  platforms).\n- Familiarity with Vue.js and frontend development.\n- Experience with testing frameworks such as PEST, Playwright,\n  or similar.\n- Background in financial services, fintech, capital markets,\n  or regulated environments.\n- Exposure to AI governance, security, or compliance\n  considerations.\n\nWhat We Offer\n\n- Competitive salary + equity.\n\n- Healthcare coverage.\n- 401k\n",
+  "skills_required": [
+    "LLM APIs",
+    "OpenAI",
+    "PEST",
+    "Playwright",
+    "RAG pipelines",
+    "agent frameworks",
+    "backend architecture",
+    "document parsing",
+    "embeddings",
+    "model orchestration",
+    "scalable system design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain robust backend systems using Laravel with focus on reliability and scalability",
+    "Identify high-value AI use cases and design AI-powered backend workflows including LLM-driven features and intelligent agents",
+    "Lead integration of AI models and platforms including OpenAI, AWS Bedrock, Azure AI, and Google Gemini",
+    "Implement automated document ingestion and extraction pipelines for unstructured and semi-structured documents",
+    "Design AI workflows for inference, orchestration, evaluation, and production readiness with attention to reliability and security",
+    "Collaborate cross-functionally to align AI solutions with existing systems, APIs, and data pipelines"
+  ],
+  "use_cases": [
+    "Automated document ingestion and extraction for financial documents like contracts and statements",
+    "LLM-driven features and intelligent decision-support systems for private credit transactions",
+    "Automated workflows for document parsing and data extraction from PDFs and financial records",
+    "AI-powered assistance in capital allocation, KYC processing, and funds flow management",
+    "Secure, bank-grade AI solutions integrated into financial services operations"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "Azure AI",
+    "Google Gemini",
+    "Laravel",
+    "Vue.js",
+    "data modeling",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LLM APIs",
+    "OpenAI",
+    "RAG pipelines",
+    "agent frameworks",
+    "document parsing",
+    "embeddings",
+    "model orchestration"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role is hands-on building AI-powered features directly:\nLLM-driven automations, intelligent agents, document\nextraction pipelines, RAG pipelines, model orchestration.\nThis is working ON AI systems, not just supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs",
+      "agent frameworks",
+      "embeddings",
+      "RAG pipelines",
+      "model orchestration",
+      "document parsing",
+      "OpenAI"
+    ],
+    "ml": [],
+    "web": [
+      "Laravel",
+      "Vue.js"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "data modeling"
+    ],
+    "cloud": [
+      "AWS Bedrock",
+      "Azure AI",
+      "Google Gemini",
+      "AWS"
+    ],
+    "ops": [],
+    "languages": [],
+    "domains": [],
+    "other": [
+      "PEST",
+      "Playwright",
+      "backend architecture",
+      "scalable system design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

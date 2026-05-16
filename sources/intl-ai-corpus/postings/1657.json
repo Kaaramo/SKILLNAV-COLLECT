@@ -1,0 +1,117 @@
+{
+  "job_id": "intl-ai-corpus-1657",
+  "source": "intl-ai-corpus",
+  "source_ref": "8562594",
+  "source_url": "https://builtin.com/job/senior-software-engineer-linea-ai/8562594",
+  "title": "Senior Software Engineer (Linea AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cyberhaven",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "237 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "AI-enabled data security and lineage",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Cybersecurity",
+    "Generative AI",
+    "Data Privacy"
+  ],
+  "description": "About the role\n\nWe’re looking for an experienced Backend engineer to help\ndrive and evolve our product, focusing on high-impact\ninnovation projects as part of our Linea AI team. You will\nbe working on cutting-edge technology and ideas and bringing\nAI prototypes to production. You will work closely with Labs\nteam to operationalize and scale AI prototypes across many\ncustomers.\n\nWhat you’ll do\n\n- You'll design and optimize a large-scale, highly scalable,\n  and fault-tolerant system that handles large graph\n  datasets at enterprise scale in realtime. Instances of our\n  product are processing billions of events from tens of\n  thousands of endpoints in real-time with subsecond latency\n  requirements\n- You'll be solving real-world scaling problems that require\n  thorough performance analysis and troubleshooting skills\n- You get to work with a modern and constantly evolving\n  microservices-based software stack which includes Go,\n  Kubernetes, Docker, Redis, Etc\n- You'll write secure-by-design hardened software that must\n  withstand real-world attacks, while processing untrusted\n  data and communicating with tens of thousands of endpoints\n  over the internet\n- You will work on the operationalization of AI prototypes to\n  production\n\nWho you are\n\n- You love innovation and have an entrepreneurial mindset,\n  eager to solve challenging real-world problems with\n  breakthrough technology\n- You have a strong track record in building full-stack\n  applications that are actively used at scale\n- You have experience developing large applications in\n  Go/Python\n- You have 5+ years of experience with Backend development\n- You have production experience working with large-scale\n  foundational models and transformer-based architecture\n  (GenAI)\n- Candidates located in Central or Eastern time zones are\n  preferred\n\nJoining Cyberhaven is a chance to revolutionize data\nsecurity. Traditional tools fall short, but we’ve reimagined\nprotection with AI-enabled data lineage that analyzes\nbillions of workflows to understand data, detect risk, and\nstop threats. Backed by $250M from leading investors like\nKhosla and Redpoint, our team includes leaders who built\nindustry-defining technologies at CrowdStrike, Palo Alto\nNetworks, Meta, Google, and more. This role lets you shape\nthe future of data security, alongside experts driven to\nhelp customers protect their most valuable information.\n\nCyberhaven is committed to creating a diverse environment\nand is an equal opportunity employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, gender, gender identity or\nexpression, sexual orientation, national origin, genetics,\ndisability, age, or veteran status.\n",
+  "skills_required": [
+    "Foundational models",
+    "GenAI",
+    "Microservices",
+    "Secure software design",
+    "Transformer architecture"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and optimize large-scale, highly scalable, and fault-tolerant systems handling large graph datasets at enterprise scale in realtime",
+    "Solve real-world scaling problems requiring thorough performance analysis and troubleshooting skills",
+    "Work with modern microservices-based software stack including Go, Kubernetes, Docker, and Redis",
+    "Write secure-by-design hardened software that withstands real-world attacks while processing untrusted data",
+    "Operationalize and scale AI prototypes to production across many customers"
+  ],
+  "use_cases": [
+    "Data security with AI-enabled data lineage",
+    "Real-time analysis of billions of workflows",
+    "Data risk detection and threat prevention",
+    "Enterprise-scale data protection and monitoring"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "Large-scale systems",
+    "Performance optimization",
+    "Redis"
+  ],
+  "frameworks_mentioned": [
+    "Foundational models",
+    "GenAI",
+    "Transformer architecture"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role is a Backend Engineer on the Linea AI team focused\non operationalizing and scaling AI prototypes to production,\nnot building or fine-tuning models. The engineer works on\ninfrastructure, microservices, and large-scale systems that\nsupport AI work rather than directly working with models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Foundational models",
+      "Transformer architecture",
+      "GenAI"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Large-scale systems",
+      "Performance optimization"
+    ],
+    "languages": [
+      "Go",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Microservices",
+      "Secure software design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

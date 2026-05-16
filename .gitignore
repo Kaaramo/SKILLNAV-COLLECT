@@ -1,0 +1,57 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# SKILLNAV-DELIVERY — .gitignore
+# ═══════════════════════════════════════════════════════════════════════════
+
+# ─── Secrets ────────────────────────────────────────────────────────────────
+.env
+.env.local
+*.pem
+*.key
+
+# ─── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ─── IDE / OS ───────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ─── Cache outils de scraping ───────────────────────────────────────────────
+.firecrawl/
+.playwright-mcp/
+
+# ─── Logs ───────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── Données brutes HTML/MD (re-dérivables) ─────────────────────────────────
+# Les sous-dossiers raw/ contiennent les HTML/MD bruts scrapés, qui peuvent
+# être re-générés depuis les URLs source. On garde seulement les .json de log
+# (recaps, listes d'URLs incomplètes, fiches éliminées).
+sources/*/raw/*.html
+sources/*/raw/*.md
+sources/*/raw/_firecrawl_details/
+
+# Exception : on garde les recaps machine-lisibles et les .gitkeep
+!sources/*/raw/_*.json
+!sources/*/raw/.gitkeep

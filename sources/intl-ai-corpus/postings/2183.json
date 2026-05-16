@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-2183",
+  "source": "intl-ai-corpus",
+  "source_ref": "8793094",
+  "source_url": "https://builtin.com/job/developer-ai-ml/8793094",
+  "title": "Developer - AI/ML",
+  "title_normalized": "AI_ENGINEER",
+  "company": "The Citco Group Limited",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-18",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,211 Employees",
+  "company_stage": "Public",
+  "company_focus": "Asset servicing and financial services for alternatives,\ncorporations and private clients",
+  "industries": [],
+  "description": "About Citco\n\nThe market leader premier provider. The best in the\nbusiness. At Citco, we’ve been the front-runner in our field\nsince our incorporation in 1948 led to the evolution of the\nasset servicing sector itself. This pioneering spirit\ncontinues to guide us today as we innovate and expand, push\nbeyond the boundaries of our industry, and shape its future.\nFrom working exclusively with hedge funds to serving all\nalternatives, corporations and private clients, our\norganization has grown immensely across asset classes and\ngeographies. For us, this progress is a pattern that we’ll\nonly maintain as we move forward, always prioritizing our\nperformance. So, for those who want to play at the top of\ntheir game and be at the vanguard of their space, we say:\nWelcome to Citco.\n\nFor more information about Citco, please visit www.citco.com\n\nAbout the Team & Business Line:\n\nWe are seeking an experienced Developer for Enablement (C4E)\ndelivery team. This role is responsible for delivering the\ntechnical foundations of Citco's AI capabilities through\nreusable patterns, frameworks, and components. The role\nrequires hands-on technical experience, focusing on building\nhigh-performing applications that enable AI adoption across\nCitco. The ideal candidate will bring deep AI engineering\nexpertise while fostering a culture of innovation and\ntechnical excellence.\n\nResponsibilities\n\nYour Role:\n\n- Build and maintain core AI infrastructure, APIs, and cloud\n  integrations\n- Implement LLM/GenAI solutions, vector stores, and embedding\n  strategies\n- Collaborate with cross-functional teams to enable AI\n  adoption\n- Ensure code quality through testing, CI/CD, and DevOps\n  practices\n\nQualifications\n\nAbout You:\n\n- 3–5 years of software development experience\n- Strong Python, FastAPI, and REST API skills\n- Hands-on experience with LLMs, GenAI, or vector databases\n- Cloud experience (AWS, Azure, or GCP)\n- Experience with React, CI/CD, and Agile practices\n- Strong problem-solving and communication skills\n\nNice to Have\n\n- AWS Bedrock or Azure OpenAI experience\n- Event-driven cloud-native architecture\n- AI governance and compliance awareness\n\nOur Benefits\n\nYour well-being is of paramount importance to us, and\ncentral to our success. We provide a range of benefits,\ntraining and education support, and flexible working\narrangements to help you achieve success in your career\nwhile balancing personal needs. Ask us about specific\nbenefits in your location.\n\nWe embrace diversity, prioritizing the hiring of people from\ndiverse backgrounds. Our inclusive culture is a source of\npride and strength, fostering innovation and mutual respect.\n\nCitco welcomes and encourages applications from people with\ndisabilities. Accommodation is available upon request for\ncandidates taking part in all aspects of the selection.\n",
+  "skills_required": [
+    "AI governance",
+    "Agile",
+    "Embedding strategies",
+    "Event-driven architecture",
+    "GenAI",
+    "LLMs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain core AI infrastructure, APIs, and cloud integrations",
+    "Implement LLM/GenAI solutions, vector stores, and embedding strategies",
+    "Collaborate with cross-functional teams to enable AI adoption across Citco",
+    "Ensure code quality through testing, CI/CD, and DevOps practices",
+    "Develop reusable patterns, frameworks, and components for AI capabilities"
+  ],
+  "use_cases": [
+    "Enterprise AI enablement and adoption",
+    "LLM-powered applications for financial services",
+    "Vector-based semantic search and retrieval",
+    "AI infrastructure and reusable components for internal teams"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "Azure",
+    "Azure OpenAI",
+    "CI/CD",
+    "DevOps",
+    "FastAPI",
+    "GCP",
+    "REST API",
+    "React",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Embedding strategies",
+    "GenAI",
+    "LLMs"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building AI infrastructure,\nimplementing LLM/GenAI solutions, and working with vector\nstores and embedding strategies. The position requires\nhands-on technical work creating AI capabilities and\nreusable AI components, not just supporting infrastructure\nfor others' AI work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "GenAI",
+      "Embedding strategies"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST API",
+      "React"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "AWS Bedrock",
+      "Azure OpenAI"
+    ],
+    "ops": [
+      "CI/CD",
+      "DevOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Event-driven architecture",
+      "AI governance",
+      "Agile"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,158 @@
+{
+  "job_id": "intl-ai-corpus-0865",
+  "source": "intl-ai-corpus",
+  "source_ref": "7478530",
+  "source_url": "https://builtin.com/job/ai-research-engineer/7478530",
+  "title": "AI Research Engineer",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "10x (10xconstruction.ai)",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "45 Employees",
+  "company_stage": null,
+  "company_focus": "Autonomous construction robots with AI-powered perception\nand reasoning",
+  "industries": [
+    "Robotics",
+    "Software",
+    "Manufacturing"
+  ],
+  "description": "Drive the next wave of generative and multimodal\nintelligence that powers our autonomous robots.\n\nAs a core member of the AI Research team you'll turn\ncutting-edge, vision-language and diffusion advances into\nrobust real-time systems that see reason and act on dynamic\nconstruction sites.\n\nKey Responsibilities\n\n* Research & innovate diffusion-based generative models for\nphotorealistic wall-surface simulation, defect synthesis and\ndomain adaptation.\n\n* Architect and train Vision-Language Models (VLMs) and\nVision-Language Alignment (VLA) objectives that connect\ntextual work orders, CAD plans and sensor data to pixel-\nlevel understanding.\n\n* Lead development of auto-annotation pipelines (active\nlearning, self-training, synthetic data) that scale to\nmillions of frames and point-clouds with minimal human\neffort.\n\n* Optimize and compress models (INT8, LoRA, distillation)\nfor deployment on Jetson-class edge devices under ROS 2.\n\n* Own the full lifecycle—problem definition, literature\nreview, prototyping, offline/online evaluation and\nproduction hand-off to perception & controls teams.\n\n* Publish internal tech reports and external conference\npapers; mentor interns and junior engineers.\n\nQualifications & Skills\n\n* 3+ years in deep-learning R\\&D or Ph.D./M.S. in CS, EE,\nRobotics or related field with strong publication record.\n\n* Demonstrated expertise in diffusion models (DDPM, LDM,\nControlNet) and multimodal transformers / VLMs (CLIP,\nBLIP-2, LLaVA, Flamingo).\n\n* Proven success building large-scale data-centric AI\nworkflows—active learning, pseudo-labeling, weak\nsupervision.\n\n* Advanced proficiency in Python, PyTorch (or JAX),\nexperiment tracking and scalable training (PyTorch\nLightning, DeepSpeed, Ray).\n\n* Familiarity with edge-AI runtimes (TensorRT, ONNX\nRuntime), and CUDA / C++ performance tuning.\n\n* Strong mathematical foundation (probability, information\ntheory, optimization) and ability to translate theory into\nproduction code.\n\n* Bonus: experience with synthetic data generation in Isaac\nSim or robotics perception stacks (ROS2, Nav2, MoveIt 2,\nOpen3D).\n\nWhy join us?\n\n* Own breakthrough tech from idea to autonomous robot on\nactive job-sites—your work leaves the lab fast.\n\n* Collaborate cross-functionally with perception, controls,\nand product teams & publish at top venues with company\nsupport.\n\n* Shape an industry by replacing dangerous, repetitive\nconstruction labor with intelligent robots.\n\n* Competitive salary + equity, hardware budget, flexible\nhybrid work, and a culture that prizes deep work and rapid\niteration.\n\nRequirements\n\n- Vision-Language Models\n- Vision-Language Alignment\n- R\\&D\n- Ph.D./M.S. in CS, EE, Robotics\n- TensorRT,\n- ONNX Runtime\n- CUDA / C++\n",
+  "skills_required": [
+    "BLIP-2",
+    "CLIP",
+    "CUDA",
+    "ControlNet",
+    "DDPM",
+    "DeepSpeed",
+    "Flamingo",
+    "Isaac Sim",
+    "JAX",
+    "LDM",
+    "LLaVA",
+    "LoRA",
+    "MoveIt 2",
+    "Nav2",
+    "Open3D",
+    "PyTorch",
+    "PyTorch Lightning",
+    "ROS 2",
+    "Vision-Language Models",
+    "active learning",
+    "diffusion models"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Research and innovate diffusion-based generative models for photorealistic wall-surface simulation, defect synthesis, and domain adaptation",
+    "Architect and train Vision-Language Models (VLMs) and Vision-Language Alignment (VLA) objectives connecting textual work orders, CAD plans, and sensor data to pixel-level understanding",
+    "Lead development of auto-annotation pipelines using active learning, self-training, and synthetic data that scale to millions of frames and point-clouds",
+    "Optimize and compress models using INT8, LoRA, and distillation for deployment on Jetson-class edge devices under ROS 2",
+    "Own the full lifecycle from problem definition, literature review, prototyping, offline/online evaluation, and production hand-off to perception and controls teams",
+    "Publish internal tech reports and external conference papers and mentor interns and junior engineers"
+  ],
+  "use_cases": [
+    "Photorealistic wall-surface simulation and defect synthesis for construction inspection",
+    "Connecting textual work orders and CAD plans to pixel-level visual understanding",
+    "Scaling auto-annotation to millions of frames and point-clouds with minimal human effort",
+    "Edge deployment of AI models on autonomous construction robots",
+    "Real-time perception and reasoning on dynamic construction sites"
+  ],
+  "tools_mentioned": [
+    "ONNX Runtime",
+    "Ray",
+    "TensorRT"
+  ],
+  "frameworks_mentioned": [
+    "BLIP-2",
+    "CLIP",
+    "CUDA",
+    "ControlNet",
+    "DDPM",
+    "DeepSpeed",
+    "Flamingo",
+    "JAX",
+    "LDM",
+    "LLaVA",
+    "LoRA",
+    "PyTorch",
+    "PyTorch Lightning",
+    "Vision-Language Models",
+    "active learning",
+    "diffusion models"
+  ],
+  "languages_programming": [
+    "C++",
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves direct hands-on work building, training,\nand deploying AI/ML models including diffusion models,\nVision-Language Models, and VLA objectives. The engineer\nwill architect, train, and optimize models for edge\ndeployment on autonomous robots, which is core AI/ML\ndevelopment work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "diffusion models",
+      "DDPM",
+      "LDM",
+      "ControlNet",
+      "LoRA"
+    ],
+    "ml": [
+      "Vision-Language Models",
+      "CLIP",
+      "BLIP-2",
+      "LLaVA",
+      "Flamingo",
+      "active learning",
+      "PyTorch",
+      "JAX",
+      "PyTorch Lightning",
+      "DeepSpeed",
+      "CUDA"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Ray"
+    ],
+    "cloud": [],
+    "ops": [
+      "TensorRT",
+      "ONNX Runtime"
+    ],
+    "languages": [
+      "Python",
+      "C++"
+    ],
+    "domains": [],
+    "other": [
+      "ROS 2",
+      "Isaac Sim",
+      "Nav2",
+      "MoveIt 2",
+      "Open3D"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

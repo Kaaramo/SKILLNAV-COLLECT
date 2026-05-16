@@ -1,0 +1,114 @@
+{
+  "job_id": "intl-ai-corpus-1528",
+  "source": "intl-ai-corpus",
+  "source_ref": "8504703",
+  "source_url": "https://builtin.com/job/ai-or-ml-engineer/8504703",
+  "title": "AI or ML Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Optum",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-16",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "160,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Healthcare technology and services",
+  "industries": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Healthtech",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Requisition Number: 2340294 Optum is a global organization\nthat delivers care, aided by technology to help millions of\npeople live healthier lives. The work you do with our team\nwill directly improve health outcomes by connecting people\nwith the care, pharmacy benefits, data and resources they\nneed to feel their best. Here, you will find a culture\nguided by inclusion, talented peers, comprehensive benefits\nand career development opportunities. Come make an impact on\nthe communities we serve as you help us advance health\noptimization on a global scale. Join us to start Caring.\nConnecting. Growing together. We are looking for a talented\nand motivated Data Scientist to join our team. The perfect\ncandidate will have experience with LLMs and be skilled in\ndeveloping and implementing machine learning solutions. You\nwill utilize the Langchain framework to work with both\nclosed source and open source models, and apply fine-tuning\nand Retrieval-Augmented Generation (RAG) methodologies to\noptimize language models for specific tasks and datasets.\nPrimary Responsibilities:\n\n- Develop and implement machine learning solutions using LLMs\n- Utilize the Langchain framework for working with closed\n  source and open source models\n- Apply fine-tuning methodologies to optimize machine learning\n  models for specific tasks and datasets\n- Write clean, maintainable, and efficient code adhering to\n  PEP8 standards\n- Utilize containerization technologies such as Docker for\n  development and deployment\n- Ensure the production quality of code, including thorough\n  testing and documentation\n- Be comfortable working on the terminal for various\n  development and deployment tasks\n- Work on traditional machine learning methods like XGBoost\n  for classification tasks and unsupervised learning\n  techniques like K-means\n- Comply with the terms and conditions of the employment\n  contract, company policies and procedures, and any and all\n  directives (such as, but not limited to, transfer and/or\n  re-assignment to different work locations, change in teams\n  and/or work shifts, policies in regards to flexibility of\n  work benefits and/or work environment, alternative work\n  arrangements, and other decisions that may arise due to\n  the changing business environment). The Company may adopt,\n  vary or rescind these policies and directives in its\n  absolute discretion and without any limitation (implied or\n  otherwise) on its ability to do so\n\nRequired Qualifications:\n\n- Bachelor of Engineering or equivalent\n- Experience with Retrieval-Augmented Generation (RAG)\n  techniques\n- Experience in ensuring the production quality of code,\n  including thorough testing and documentation\n- Experience with version control systems such as Git\n- Proven experience with LLMs\n- Solid understanding of machine learning concepts and fine-\n  tuning methodologies\n- Basic understanding of containerization technologies such as\n  Docker\n- Proficiency in using the Langchain framework\n- Proven excellent coding skills in Python, with adherence to\n  PEP8 standards\n- Proven solid problem-solving skills and attention to detail\n- Proven ability to write clean, maintainable, and efficient\n  code\n- Comfortable working on the terminal for various development\n  and deployment tasks\n\nAt UnitedHealth Group, our mission is to help people live\nhealthier lives and make the health system work better for\neveryone. We believe everyone-of every race, gender,\nsexuality, age, location and income-deserves the opportunity\nto live their healthiest life. Today, however, there are\nstill far too many barriers to good health which are\ndisproportionately experienced by people of color,\nhistorically marginalized groups and those with lower\nincomes. We are committed to mitigating our impact on the\nenvironment and enabling and delivering equitable care that\naddresses health disparities and improves health outcomes -\nan enterprise priority reflected in our mission.\n",
+  "skills_required": [
+    "Fine-tuning",
+    "K-means",
+    "LLMs",
+    "LangChain",
+    "Retrieval-Augmented Generation (RAG)",
+    "XGBoost"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and implement machine learning solutions using LLMs",
+    "Utilize the Langchain framework for working with closed source and open source models",
+    "Apply fine-tuning methodologies to optimize machine learning models for specific tasks and datasets",
+    "Write clean, maintainable, and efficient code adhering to PEP8 standards",
+    "Utilize containerization technologies such as Docker for development and deployment",
+    "Work on traditional machine learning methods like XGBoost for classification tasks and unsupervised learning techniques like K-means"
+  ],
+  "use_cases": [
+    "Retrieval-Augmented Generation (RAG) for language model optimization",
+    "Fine-tuning LLMs for specific healthcare tasks and datasets",
+    "Classification tasks using traditional ML methods",
+    "Unsupervised learning with clustering techniques",
+    "Healthcare outcome optimization through AI solutions"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Git"
+  ],
+  "frameworks_mentioned": [
+    "Fine-tuning",
+    "K-means",
+    "LLMs",
+    "LangChain",
+    "Retrieval-Augmented Generation (RAG)",
+    "XGBoost"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work with LLMs including fine-\ntuning, implementing RAG methodologies, and developing\nmachine learning solutions using the LangChain framework.\nThis is direct work ON AI/ML models, not supporting\ninfrastructure or adjacent roles.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Retrieval-Augmented Generation (RAG)",
+      "LLMs"
+    ],
+    "ml": [
+      "Fine-tuning",
+      "XGBoost",
+      "K-means"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Git"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

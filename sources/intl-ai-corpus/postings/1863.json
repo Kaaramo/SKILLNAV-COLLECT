@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-1863",
+  "source": "intl-ai-corpus",
+  "source_ref": "8593094",
+  "source_url": "https://builtin.com/job/principal-engineer/8593094",
+  "title": "Principal Engineer - Java with Gen AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Wells Fargo",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "205,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "GenAI-powered Open Banking platforms for Commercial and\nCorporate Banking",
+  "industries": [
+    "Fintech",
+    "Financial Services"
+  ],
+  "description": "About this role: Wells Fargo is seeking a Principal Engineer\nfor Digital Technology & Innovation team. Wells Fargo is\nbuilding next-generation GenAI-powered and API-first Open\nBanking platforms for Commercial and Corporate Banking. We\nare hiring a Principal Engineer with deep Java ecosystem\nexpertise to architect and scale enterprise-grade AI systems\noperating at global banking scale. This role requires a\nhands-on technologist who can combine strong Java-based\ndistributed systems engineering with modern GenAI\narchitecture patterns in a regulated financial environment.\nYou will own foundational platform components that integrate\nLLM-driven capabilities into high-throughput, mission-\ncritical banking systems. In this role, you will:\n\n- Act as an advisor to leadership to develop or influence\n  applications, network, information security, database,\n  operating systems, or web technologies for highly complex\n  business and technical needs across multiple groups\n- Lead the strategy and resolution of highly complex and\n  unique challenges requiring in-depth evaluation across\n  multiple areas or the enterprise, delivering solutions\n  that are long-term, large-scale and require vision,\n  creativity, innovation, advanced analytical and inductive\n  thinking\n- Translate advanced technology experience, an in-depth\n  knowledge of the organizations tactical and strategic\n  business objectives, the enterprise technological\n  environment, the organization structure, and strategic\n  technological opportunities and requirements into\n  technical engineering solutions\n- Provide vision, direction and expertise to leadership on\n  implementing innovative and significant business solutions\n- Maintain knowledge of industry best practices and new\n  technologies and recommends innovations that enhance\n  operations or provide a competitive advantage to the\n  organization\n- Strategically engage with all levels of professionals and\n  managers across the enterprise and serve as an expert\n  advisor to leadership\n\nRequired Qualifications:\n\n- 7+ years of Engineering experience, or equivalent\n  demonstrated through one or a combination of the\n  following: work experience, training, military experience,\n  education\n\nDesired Qualifications:\n\n- Strong hands-on expertise in Java ecosystem (Spring Boot,\n  REST APIs, microservices, concurrency, performance tuning)\n  and Python\n- Proven experience designing large-scale distributed systems\n  in production\n- 1- 2 years of experience delivering GenAI systems, including\n  hands-on work with:\n  - Applications powered by LLMs\n  - RAG architectures\n  - Embeddings and vector databases\n  - Agent frameworks and orchestration\n- Experience integrating AI services into enterprise backend\n  platforms\n- Strong cloud-native experience (GCP, Azure)\n- Ability to influence architectural decisions across complex\n  systems\n- Experience in Banking/Financial services domains (e.g.\n  commercial or corporate, Payments, Treasury, lending, FX)\n- Experience implementing AI governance, risk, and model\n  validation frameworks\n- Familiarity with event-driven architectures (Kafka or\n  similar)\n- Experience modernizing legacy Java systems with AI\n  augmentation\n- Excellent communication skills with experience engaging\n  senior stakeholders\n\nJob Expectations:\n\n- Deployment of GenAI services embedded into core Java-based\n  banking platforms\n- Strong alignment between AI capabilities and commercial\n  banking product strategy\n- Production-grade GenAI applications integrated into Java-\n  based enterprise platforms\n- RAG pipelines, agent orchestration layers, and AI service\n  abstractions callable from core Java systems\n- Secure, compliant Open Banking APIs powering high-volume\n  enterprise clients\n- Observability, resilience, and governance frameworks for AI-\n  enabled services\n- Design and implement high-performance distributed systems\n  primarily in Java (Spring Boot, microservices\n  architecture), ReactJS and MicroFrontends\n- Integrate LLMs, RAG pipelines, and AI orchestration\n  frameworks into enterprise Java systems\n- Lead deep technical design reviews across backend, API, and\n  AI integration layers\n- Partner with Product and Business leaders to shape AI-\n  enabled banking capabilities\n- Mentor senior engineers and elevate engineering rigor across\n  the organization\n- You will solve hard engineering problems inside regulated,\n  mission-critical environments\n- You will influence AI platform direction at scale and build\n  durable systems - not prototypes\n",
+  "skills_required": [
+    "Agent frameworks and orchestration",
+    "Distributed systems",
+    "Embeddings",
+    "LLM applications",
+    "RAG architectures"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and scale enterprise-grade AI systems for global banking operations",
+    "Design and implement high-performance distributed systems primarily in Java with Spring Boot and microservices",
+    "Integrate LLMs, RAG pipelines, and AI orchestration frameworks into enterprise Java systems",
+    "Deploy GenAI services embedded into core Java-based banking platforms",
+    "Build RAG pipelines, agent orchestration layers, and AI service abstractions callable from core Java systems",
+    "Lead deep technical design reviews across backend, API, and AI integration layers",
+    "Implement AI governance, risk, and model validation frameworks",
+    "Partner with Product and Business leaders to shape AI-enabled banking capabilities"
+  ],
+  "use_cases": [
+    "GenAI-powered Open Banking platforms for Commercial Banking",
+    "GenAI-powered Open Banking platforms for Corporate Banking",
+    "Production-grade RAG pipelines for enterprise banking systems",
+    "Agent orchestration layers for AI-enabled banking operations",
+    "Secure and compliant Open Banking APIs for high-volume enterprise clients",
+    "AI-augmented modernization of legacy Java banking systems"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "GCP",
+    "Kafka",
+    "MicroFrontends",
+    "Microservices",
+    "REST APIs",
+    "ReactJS",
+    "Spring Boot",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks and orchestration",
+    "Embeddings",
+    "LLM applications",
+    "RAG architectures"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role requires hands-on work building and deploying\nGenAI systems including LLM applications, RAG architectures,\nvector databases, and agent frameworks. The position\ninvolves integrating these AI capabilities directly into\nproduction banking platforms, not just supporting\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM applications",
+      "RAG architectures",
+      "Embeddings",
+      "Agent frameworks and orchestration"
+    ],
+    "ml": [],
+    "web": [
+      "Spring Boot",
+      "REST APIs",
+      "Microservices",
+      "ReactJS",
+      "MicroFrontends"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "GCP",
+      "Azure"
+    ],
+    "ops": [],
+    "languages": [
+      "Java",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,37 @@
+company:
+  name: Unknown
+  stage: null
+  focus: null
+position:
+  title: Senior / Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai:
+    - agent
+    - embeddings
+    - generative ai
+    - llm
+    - prompt engineering
+    - rag
+    - retrieval-augmented
+    ml:
+    - machine learning
+    web:
+    - next
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '1010125282808'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

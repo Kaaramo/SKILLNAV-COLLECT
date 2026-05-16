@@ -1,0 +1,103 @@
+{
+  "job_id": "intl-ai-corpus-1289",
+  "source": "intl-ai-corpus",
+  "source_ref": "8380475",
+  "source_url": "https://builtin.com/job/data-scientist-ai-engineer/8380475",
+  "title": "Data Scientist/AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Arctiq",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "377 Employees",
+  "company_stage": null,
+  "company_focus": "Professional IT services: Enterprise Security, Modern\nInfrastructure, Platform Engineering",
+  "industries": [],
+  "description": "Company Overview:\n\nArctiq is a leader in professional IT services and managed\nservices across three core Centers of Excellence: Enterprise\nSecurity, Modern Infrastructure and Platform Engineering.\nRenowned for our ability to architect intelligence, we\nconnect, protect, and transform organizations, empowering\nthem to thrive in today's digital landscape. Arctiq builds\non decades of industry expertise and a customer-centric\nethos to deliver exceptional value to clients across diverse\nindustries.\n\nPosition Overview:\n\nWe are seeking a Data Scientist to transform raw data into\nactionable intelligence. This role sits at the intersection\nof classical statistics and modern AI, focusing on building\nend-to-end models within the Azure ecosystem to drive\nbusiness value.\n\nThis is a 3-month contract opportunity at 25 hours per week.\n\nResponsibilities:\n\n- Model Development: Build, validate, and deploy statistical\n  and AI models to solve complex business problems.\n- Feature Engineering: Design and refine predictive features,\n  ensuring data quality and model interpretability.\n- Azure Ecosystem: Leverage Azure Machine Learning and\n  Microsoft’s suite of data services to scale model training\n  and deployment.\n- Insight Synthesis: Apply statistical rigor to analyze data\n  trends and communicate findings to non-technical\n  stakeholders.\n\nQualifications:\n\n- Foundations: Strong background in Statistics and Data\n  Analytics.\n- Programming: Advanced proficiency in Python (Pandas, Scikit-\n  learn, etc.) and SQL.\n- Environment: Experience navigating the Microsoft Azure data\n  stack (Synapse, Azure Data Factory, or Azure ML).\n\nArctiq is an equal opportunity employer. If you need any\naccommodations or adjustments throughout the interview\nprocess and beyond, please let us know. We celebrate our\ninclusive work environment and welcome members of all\nbackgrounds and perspectives to apply.\n\nWe thank you for your interest in joining the Arctiq team!\nWhile we welcome all applicants, only those who are selected\nfor an interview will be contacted.\n",
+  "skills_required": [
+    "Scikit-learn",
+    "Statistics",
+    "feature engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build, validate, and deploy statistical and AI models to solve complex business problems",
+    "Design and refine predictive features, ensuring data quality and model interpretability",
+    "Leverage Azure Machine Learning and Microsoft's suite of data services to scale model training and deployment",
+    "Apply statistical rigor to analyze data trends and communicate findings to non-technical stakeholders"
+  ],
+  "use_cases": [
+    "Transform raw data into actionable intelligence",
+    "Build end-to-end models to drive business value",
+    "Apply statistical analysis and AI to solve complex business problems",
+    "Leverage Azure ecosystem for scalable model training and deployment"
+  ],
+  "tools_mentioned": [
+    "Azure Data Factory",
+    "Azure Machine Learning",
+    "Azure Synapse",
+    "Pandas",
+    "model deployment"
+  ],
+  "frameworks_mentioned": [
+    "Scikit-learn",
+    "Statistics",
+    "feature engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role involves building, validating, and deploying\nstatistical and AI models to solve complex business\nproblems. Focus on end-to-end model development within Azure\necosystem with hands-on work using Scikit-learn and Azure\nMachine Learning.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "Statistics",
+      "Scikit-learn",
+      "feature engineering"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Pandas",
+      "Azure Data Factory"
+    ],
+    "cloud": [
+      "Azure Machine Learning",
+      "Azure Synapse"
+    ],
+    "ops": [
+      "model deployment"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-0402",
+  "source": "intl-ai-corpus",
+  "source_ref": "7937097",
+  "source_url": "https://builtin.com/job/senior-ai-engineer-conversational-ai-agentic-systems/7937097",
+  "title": "Senior AI Engineer, Conversational AI & Agentic Systems",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Blooming Health",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "34 Employees",
+  "company_stage": "venture-backed",
+  "company_focus": "Health tech platform for social care navigation",
+  "industries": [],
+  "description": "Location: NY, NY (Remote within the US) Reports To: Director\nof AI Engineering Compensation: $150,000–$210,000 base +\nequity\n\nAbout Blooming Health\n\nBlooming Health is a mission-driven, venture-backed health\ntech company transforming the social care landscape. We’re\nbuilding an intelligent platform that helps people navigate\nand access the resources essential for holistic well-\nbeing—enabling CBOs, health systems, and health plans to\ndeliver more effective and equitable care.\n\nThe Opportunity\n\nWe’re hiring an AI Engineer to help us design and build the\nsystems that power our AI experiences—especially LLM-driven\nworkflows, conversational patterns, and orchestration/agent\nlayers. You’ll work closely with the Director of AI\nEngineering and product/engineering partners to ship\nreliable AI features into production, with strong attention\nto evaluation, data, and software quality.\n\nWhat You’ll Do\n\n- Brainstorm and design AI orchestration patterns: how agents\n  hand off, how state flows, how to handle uncertainty and\n  edge cases.\n- Build and maintain our AI orchestration layer (Master OS,\n  Engines, agent workflows).\n- Think through tradeoffs in prompt design, tool architecture,\n  and conversation flow.\n- Design data pipelines that capture, transform, and surface\n  insights from patient/member interactions.\n- Write clean, tested, production-ready Python (APIs,\n  services, orchestration code).\n- Be a thought partner on technical direction—we’re building\n  something new and need someone who enjoys solving hard\n  problems together.\n\nWhat You’ll BringMUST HAVE\n\nAI / LLM Foundations\n\n- Hands-on experience with LLM APIs (OpenAI, Anthropic, or\n  similar).\n- Understanding of prompt engineering patterns and\n  limitations.\n- Familiarity with conversational AI / chatbot architectures.\n- Ability to reason about AI system design: when to use\n  agents, how to structure workflows, how to handle\n  uncertainty.\n\nPython Proficiency\n\n- Comfortable with async Python (asyncio, httpx, aioredis).\n- Experience building APIs and backend services.\n- Strong grasp of clean code principles and testing.\n\nData Engineering Fundamentals\n\n- Strong SQL (PostgreSQL preferred).\n- Experience building ETL pipelines / data workflows.\n- Understanding of data modeling and schema design.\n\nNice-to-Haves\n\nAI / LLM Depth\n\n- Orchestration patterns: multi-agent systems, tool use,\n  function calling.\n- RAG, embeddings, retrieval systems.\n- Voice AI / real-time audio (Twilio, WebRTC, speech-to-text).\n- Familiarity with evaluation/testing strategies for AI\n  systems.\n\nData Engineering Depth\n\n- Streaming data (Kafka, event-driven architectures).\n- Orchestration tools (Airflow, Prefect, Dagster).\n- dbt or similar transformation frameworks.\n\nHealthcare Domain\n\n- Healthcare workflows, HIPAA considerations.\n- SDOH, care management, patient engagement experience.\n\nInfrastructure\n\n- Docker, Kubernetes, container orchestration.\n- Cloud platforms (GCP, AWS).\n\nWhy Join Blooming Health?\n\n- Impact: Help improve access to social care and advance\n  health equity.\n- Innovation: Build real AI systems that ship—agents,\n  orchestration, data, and evaluation.\n- Growth: Take real ownership and grow fast with the product\n  and team.\n- Team: Mission-driven people who move quickly and care about\n  doing it right.\n",
+  "skills_required": [
+    "Anthropic API",
+    "OpenAI API",
+    "RAG",
+    "agents",
+    "conversational AI",
+    "embeddings",
+    "function calling",
+    "multi-agent systems",
+    "prompt engineering",
+    "voice AI"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design AI orchestration patterns including agent handoffs, state flows, and uncertainty handling",
+    "Build and maintain AI orchestration layer with engines and agent workflows",
+    "Evaluate tradeoffs in prompt design, tool architecture, and conversation flow",
+    "Design data pipelines to capture and transform patient/member interaction insights",
+    "Write production-ready Python code including APIs and orchestration services",
+    "Collaborate on technical direction for novel AI system development"
+  ],
+  "use_cases": [
+    "LLM-driven conversational workflows for healthcare resource navigation",
+    "AI agent systems that help people access social care resources",
+    "Intelligent platform enabling CBOs, health systems, and health plans to deliver equitable care",
+    "Patient/member engagement through conversational AI interfaces",
+    "Social care resource discovery and navigation using AI"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Dagster",
+    "Docker",
+    "ETL",
+    "GCP",
+    "Kafka",
+    "Kubernetes",
+    "PostgreSQL",
+    "Prefect",
+    "dbt",
+    "httpx"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "OpenAI API",
+    "RAG",
+    "agents",
+    "conversational AI",
+    "embeddings",
+    "function calling",
+    "multi-agent systems",
+    "prompt engineering",
+    "voice AI"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "asyncio"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building AI/LLM systems including\nagents, orchestration layers, prompt engineering, and\nconversational AI workflows. The engineer will design and\nimplement multi-agent systems, handle function calling, and\nbuild the core AI platform that powers the company's LLM-\ndriven experiences.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "prompt engineering",
+      "conversational AI",
+      "agents",
+      "multi-agent systems",
+      "RAG",
+      "embeddings",
+      "function calling",
+      "voice AI"
+    ],
+    "ml": [],
+    "web": [
+      "httpx"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [
+      "ETL",
+      "Kafka",
+      "Airflow",
+      "Prefect",
+      "Dagster",
+      "dbt"
+    ],
+    "cloud": [
+      "GCP",
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "asyncio",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

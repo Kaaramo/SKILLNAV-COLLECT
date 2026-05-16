@@ -1,0 +1,40 @@
+{
+  "job_id": "rekrute-2024-025",
+  "source": "rekrute",
+  "source_url": "https://www.rekrute.com/offre-emploi-data-analyst-confirme-hf-recrutement-euro-information-direct-service-rabat-157159.html",
+  "source_ref": "157159",
+  "title": "Data Analyst Confirme Hf",
+  "title_normalized": "DATA_ANALYST",
+  "company": "Euro",
+  "company_type": "entité morale privée",
+  "location": "Information Direct Service Rabat",
+  "country": "MA",
+  "remote_policy": "hybrid",
+  "posted_date": "2024-01-02",
+  "deadline_date": "14/02/2024",
+  "contract_type": "CDI",
+  "experience_min_years": 3,
+  "experience_max_years": 5,
+  "salary_range": null,
+  "description": "Vous aurez pour missions principales : Mettre à jour des Tableaux de bord et optimiser la gestion des fichiers et des bases de données, Vérifier la cohérence des informations, exploiter et gérer les données de production, Créer sur demande un reporting client automatisé à partir des données brutes répondant à leurs besoins, les développer et contribuer ainsi à la satisfaction client, Traiter les différentes données des clients globaux EIDS afin de dégager des observations utiles à l’entreprise, permettant de prendre rapidement des décisions sur des axes d’amélioration, Contribuer à l’automatisation des outils pour garantir une harmonisation et une consolidation des données, Proposer et valider les recommandations, savoir être force de propositions pour définir les plans d’actions permettant d’améliorer les outils de production et les résultats, Travailler en étroite collaboration avec les équipes internes pour développer des outils d'analyse de données personnalisés pour répondre aux besoins spécifiques des différents départements de l'entreprise",
+  "skills_required": [
+    "Excel",
+    "Statistics"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [
+    "Excel"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [],
+  "domains_iaml": [],
+  "job_family": "DATA_ANALYST",
+  "education_required": "Bac +3",
+  "scraped_at": "2026-05-14T21:00:00Z",
+  "scraper": "skillnav-curl-batch-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.85,
+  "extraction_method": "google_search_url + curl_html + python_regex_extraction"
+}

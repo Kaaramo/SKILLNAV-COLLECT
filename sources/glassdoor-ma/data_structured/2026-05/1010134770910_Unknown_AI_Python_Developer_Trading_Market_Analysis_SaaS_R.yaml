@@ -1,0 +1,40 @@
+company:
+  name: Unknown
+  stage: null
+  focus: null
+position:
+  title: AI Python Developer – Trading & Market Analysis SaaS (Remote)
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Computer vision
+  skills:
+    genai: []
+    ml:
+    - Knowledge of machine learning
+    - machine learning
+    web:
+    - next
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains:
+    - computer vision
+    - Computer vision experience
+    - fintech
+    - Interest in trading or fintech
+    other:
+    - Ability to work remotely
+    - Experience with TradingView APIs
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '1010134770910'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

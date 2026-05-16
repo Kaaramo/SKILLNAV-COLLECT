@@ -1,0 +1,155 @@
+{
+  "job_id": "intl-ai-corpus-1599",
+  "source": "intl-ai-corpus",
+  "source_ref": "8538337",
+  "source_url": "https://builtin.com/job/senior-ai-engineer-genai-ml-aladdin-engineering-vice-president/8538337",
+  "title": "Senior AI Engineer - GenAI/ML, Aladdin Engineering - Vice President",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BlackRock",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-19",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "25,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Investment management and financial technology",
+  "industries": [
+    "Fintech",
+    "Information Technology",
+    "Financial Services"
+  ],
+  "description": "About this role\n\nAbout this Role: At BlackRock, technology is the foundation\nof our business. As an AI Engineer (GenAI/ML), you’ll lead\nby example — architecting, coding, and mentoring teams to\nbuild resilient systems that apply Generative AI and Machine\nLearning to improve operational efficiency, user experience,\nand insight generation across our global post-trade\noperations. You’ll design and deliver enterprise-scale AI-\nenabled software with a focus on reliability, governance,\nand clean engineering practices.\n\nThis role is ideal for a technical leader who enjoys staying\nclose to the code, guiding design decisions, and building\nagentic systems (tool-using AI agents) and ML services — all\nwhile fostering a culture of excellence and continuous\nimprovement.\n\nAbout Post Trade Accounting (PTA):\n\n- A major strategic area within Aladdin and one of BlackRock’s\n  largest engineering investments.\n- Responsible for the systems that ensure accurate, scalable,\n  and efficient accounting across global operations.\n- Expanding into data analytics and pipeline initiatives using\n  Snowflake, Redis, and Kafka to manage high-volume, real-\n  time data.\n- Collaborates closely with Product, Operations, and other\n  Engineering teams to deliver business-critical\n  capabilities.\n- Agile and collaborative environment that values technical\n  depth, quality, and innovation.\n\nKey Responsibilities:\n\n- Design and develop production AI services that embed GenAI\n  and ML into enterprise workflows.\n- Build AI agents that can plan and execute multi-step tasks\n  by calling approved tools/APIs, retrieving context,\n  validating outputs, and safely handling failure cases.\n- Implement retrieval-augmented generation (RAG) systems using\n  vector search and hybrid retrieval to ground responses in\n  enterprise data and documentation.\n- Develop ML components where appropriate (e.g.,\n  classification, ranking, anomaly detection) and integrate\n  them with LLM-based systems for hybrid intelligence.\n- Establish robust evaluation and quality gates for agents and\n  LLM systems (golden datasets, automated tests, regression\n  suites, monitoring for drift/quality).\n- Implement enterprise-grade governance: audit trails,\n  provenance/citations, access control, privacy handling,\n  and versioning (models/prompts/chains).\n- Champion best practices for code quality, testing,\n  automation, and performance/cost optimization.\n- Mentor engineers to elevate technical craftsmanship,\n  problem-solving, and design thinking.\n- Collaborate cross-functionally to ensure technical solutions\n  align with product goals and business outcomes.\n\nQualifications / Competencies:\n\n- B.S./M.S. in Computer Science, Engineering, or related\n  discipline.\n- 8+ years of professional software engineering experience\n  building and operating distributed systems in production.\n- 3+ years delivering ML/AI systems to production with\n  measurable outcomes and operational ownership.\n- Demonstrable experience designing and building AI agents\n  (agentic workflows) that:\n  - perform multi-step reasoning and task execution,\n  - use tools/functions/APIs,\n  - manage state appropriately,\n  - and include guardrails, validation, and safe fallback\n    behavior.\n- Strong knowledge of agentic design patterns, such as\n  planning/execution loops, routing/specialist agents,\n  retrieval + tool orchestration, verification/reflection,\n  and human-in-the-loop approvals.\n- Hands-on experience with LLM orchestration frameworks (e.g.,\n  LangChain or similar), including building reusable\n  chains/agents and enforcing structured outputs.\n- Hands-on experience with vector databases / retrieval\n  systems (e.g., Pinecone, Weaviate, Milvus, pgvector,\n  Elastic vector search, etc.) including indexing, chunking\n  strategies, and hybrid search.\n- Strong Python for AI/ML development and automation; strong\n  backend experience in Java and/or TypeScript (APIs,\n  services, integration patterns).\n- Solid applied ML and evaluation fundamentals: dataset\n  construction, precision/recall tradeoffs, calibration, and\n  drift/quality monitoring.\n- Enterprise mindset for security and controls: data\n  minimization, auditability, traceability, access control,\n  and operational resilience.\n- Strong focus on clean architecture, maintainability, and\n  production readiness.\n- Excellent communication and leadership skills — able to\n  guide teams and influence design direction.\n\nNice to Have:\n\n- Experience with Kubernetes, Docker, and cloud-native\n  environments (AWS/GCP).\n- Observability experience: OpenTelemetry, Prometheus/Grafana,\n  and AI/LLM telemetry (quality metrics, latency, cost,\n  tool-call traces).\n- MLOps maturity: model registry, reproducibility, CI/CD for\n  ML, feature stores, and governance workflows.\n- Responsible AI experience: red-teaming, prompt injection\n  defenses, content safety filters, privacy-preserving\n  patterns.\n- Familiarity with enterprise workflow/case management\n  patterns and building AI into operational processes.\n- Interest in financial systems, accounting, or investment\n  technology.\n\nFor New York, NY Only the salary range for this position is\nUSD$162,000.00 - USD$215,000.00 . Additionally, employees\nare eligible for an annual discretionary bonus, and benefits\nincluding healthcare, leave benefits, and retirement\nbenefits. BlackRock operates a pay-for-performance\ncompensation philosophy and your total compensation may vary\nbased on role, location, and firm, department and individual\nperformance.\n\nOur benefits To help you stay energized, engaged and\ninspired, we offer a wide range of benefits including a\nstrong retirement plan, tuition reimbursement, comprehensive\nhealthcare, support for working parents and Flexible Time\nOff (FTO) so you can relax, recharge and be there for the\npeople you care about.\n\nOur hybrid work model\n\nBlackRock’s hybrid work model is designed to enable a\nculture of collaboration and apprenticeship that enriches\nthe experience of our employees, while supporting\nflexibility for all. Employees are currently required to\nwork at least 4 days in the office per week, with the\nflexibility to work from home 1 day a week. Some business\ngroups may require more time in the office due to their\nroles and responsibilities. We remain focused on increasing\nthe impactful moments that arise when we work together in\nperson – aligned with our commitment to performance and\ninnovation. As a new joiner, you can count on this hybrid\nmodel to accelerate your learning and onboarding experience\nhere at BlackRock.\n\nAbout BlackRock\n\nAt BlackRock, we are all connected by one mission: to help\nmore and more people experience financial well-being.  Our\nclients, and the people they serve, are saving for\nretirement, paying for their children’s educations, buying\nhomes and starting businesses. Their investments also help\nto strengthen the global economy: support businesses small\nand large; finance infrastructure projects that connect and\npower cities; and facilitate innovations that drive\nprogress.\n\nThis mission would not be possible without our smartest\ninvestment – the one we make in our employees. It’s why\nwe’re dedicated to creating an environment where our\ncolleagues feel welcomed, valued and supported with\nnetworks, benefits and development opportunities to help\nthem thrive.\n\nFor additional information on BlackRock, please visit\n@blackrock | Twitter: @blackrock | LinkedIn:\nwww.linkedin.com/company/blackrock\n\nBlackRock is proud to be an equal opportunity workplace. We\nare committed to equal employment opportunity to all\napplicants and existing employees, and we evaluate qualified\napplicants without regard to race, creed, color, national\norigin, sex (including pregnancy and gender\nidentity/expression), sexual orientation, age, ancestry,\nphysical or mental disability, marital status, political\naffiliation, religion, citizenship status, genetic\ninformation, veteran status, or any other basis protected\nunder applicable federal, state, or local law. View the\nEEOC’s Know Your Rights poster and its supplement and the\npay transparency statement.\n\n\n\nBlackRock is committed to full inclusion of all qualified\nindividuals and to providing reasonable accommodations or\njob modifications for individuals with disabilities. If\nreasonable accommodation/adjustments are needed throughout\nthe employment process, please email\nDisability.Assistance@blackrock.com. All requests are\ntreated in line with our privacy policy.\n\nBlackRock will consider for employment qualified applicants\nwith arrest or conviction records in a manner consistent\nwith the requirements of the law, including any applicable\nfair chance law.\n",
+  "skills_required": [
+    "AI agents",
+    "Anomaly detection",
+    "Classification",
+    "LangChain",
+    "ML evaluation",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop production AI services that embed GenAI and ML into enterprise workflows",
+    "Build AI agents that can plan and execute multi-step tasks by calling approved tools/APIs, retrieving context, validating outputs, and safely handling failure cases",
+    "Implement retrieval-augmented generation (RAG) systems using vector search and hybrid retrieval to ground responses in enterprise data and documentation",
+    "Develop ML components for classification, ranking, and anomaly detection and integrate them with LLM-based systems for hybrid intelligence",
+    "Establish robust evaluation and quality gates for agents and LLM systems including golden datasets, automated tests, regression suites, and monitoring for drift/quality",
+    "Implement enterprise-grade governance including audit trails, provenance/citations, access control, privacy handling, and versioning",
+    "Champion best practices for code quality, testing, automation, and performance/cost optimization",
+    "Mentor engineers to elevate technical craftsmanship, problem-solving, and design thinking"
+  ],
+  "use_cases": [
+    "Enterprise workflow automation using AI agents",
+    "Knowledge retrieval and document search using RAG",
+    "Post-trade accounting operations automation",
+    "Operational efficiency improvements in financial systems",
+    "Anomaly detection and classification in financial data",
+    "User experience enhancement through AI-powered insights"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "Elastic vector search",
+    "FastAPI",
+    "GCP",
+    "Grafana",
+    "Kafka",
+    "Kubernetes",
+    "Milvus",
+    "OpenTelemetry",
+    "Pinecone",
+    "Prometheus",
+    "Redis",
+    "Snowflake",
+    "Vector databases",
+    "Weaviate",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Anomaly detection",
+    "Classification",
+    "LangChain",
+    "ML evaluation",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building of AI systems including\nLLM agents, RAG systems, and vector search implementations.\nThe engineer is directly designing and deploying GenAI\nsolutions, not just supporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "RAG",
+      "AI agents"
+    ],
+    "ml": [
+      "ML evaluation",
+      "Classification",
+      "Anomaly detection"
+    ],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "Vector databases",
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "pgvector",
+      "Elastic vector search"
+    ],
+    "data": [
+      "Snowflake",
+      "Redis",
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "OpenTelemetry",
+      "Prometheus",
+      "Grafana",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

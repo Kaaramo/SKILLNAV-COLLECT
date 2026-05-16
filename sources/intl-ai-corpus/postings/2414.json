@@ -1,0 +1,142 @@
+{
+  "job_id": "intl-ai-corpus-2414",
+  "source": "intl-ai-corpus",
+  "source_ref": "8876557",
+  "source_url": "https://builtin.com/job/software-development-engineer-test-ai-ml/8876557",
+  "title": "Software Development Engineer in Test - AI ML",
+  "title_normalized": "AI_ENGINEER",
+  "company": "RingCentral",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "7,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud communication and collaboration platform with AI\ncapabilities",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Events",
+    "Productivity",
+    "Software",
+    "Business Intelligence",
+    "Conversational AI"
+  ],
+  "description": "Senior Software Development Engineer in Test (SDET 4) - AI &\nAgentic Platforms\n\nLocation: Bengaluru, India | Type: Full-Time | Team:\nEngineering\n\nReimagine How The World Communicates with AI\n\nWe are building the backbone for the next generation of\nhuman communication. Imagine a system that doesn't just\ntransmit voice and video, but understands it in real-time,\ntranscribing, summarizing and retrieving context across\nmillions of concurrent sessions\n\nWe are seeking a Senior SDET (Level 4) to spearhead the\nquality engineering efforts for our next-generation AI and\nAgentic applications. In this role, you will go beyond\ntraditional automation to build frameworks capable of\nvalidating Large Language Models (LLMs), autonomous agents,\nand complex platform integrations.\n\nKey Responsibilities\n\n- AI & Agentic Strategy: Design and implement comprehensive\n  test strategies for AI-driven features, focusing on model\n  accuracy, hallucination detection, and the reliability of\n  agentic workflows.\n- Framework Development: Build and maintain scalable\n  automation frameworks using tools like Playwright,\n  Selenium, and modern JS-based runners (e.g., Testcafe,\n  Cypress) to support AI platform validation.\n- Infrastructure & CI/CD: Setup and maintain complex test\n  environments, integrating automated AI evaluations into\n  Jenkins/GitLab CI pipelines.\n- Advanced Testing: Lead R&D efforts to choose the best tools\n  for performance, API, and scalability testing of AI\n  microservices.\n- Technical Leadership: Conduct code reviews, establish coding\n  standards, and provide technical guidance to the team on\n  AI testing best practices.\n- Cross-functional Collaboration: Work closely with\n  Architects, Data Scientists, and Product Managers to\n  define \"quality\" in the context of non-deterministic AI\n  outputs.\n\nRequired Qualifications\n\n- Experience: 10–15 years in software automation engineering.\n- Core Tools: Proven mastery of Playwright and Selenium.\n- AI Observability & Eval: Experience with LLM evaluation\n  tools (e.g., LangSmith, Ragas, or Arize Phoenix) and\n  model-based testing.\n- AI/ML Testing: Experience or deep knowledge in testing AI\n  agents, LLM prompting, or data-driven systems.\n- Programming: High proficiency in Java, Python and\n  JavaScript/TypeScript.\n- Frameworks: Mastery of PyTest, Jest, or Mocha for building\n  modular, scalable test suites.\n- Environment Management: 3+ years of experience in test\n  environment setup, maintenance, and CI/CD integration.\n- Testing Methodologies: Strong background in BDD\n  (Cucumber/Behave), Data-Driven Testing, and\n  Performance/Scalability testing.\n\nWhy You'll Love Working With Us\n\n- 🪐You’ll build things that scale globally\n- You’ll work on real problems; scale, efficiency,\n  optimization.\n- You’ll be part of a global team collaborating with top\n  engineers\n- Hybrid work from our Bengaluru office + flexible hours.\n- ❤ Full medical insurance for you and your family.\n- Competitive compensation + performance bonuses\n\nRingCentral is an equal-opportunity employer that truly\nvalues diversity.\n",
+  "skills_required": [
+    "AI agents testing",
+    "LLM evaluation",
+    "LLM prompting",
+    "Model-based testing"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement comprehensive test strategies for AI-driven features, focusing on model accuracy, hallucination detection, and reliability of agentic workflows",
+    "Build and maintain scalable automation frameworks using Playwright, Selenium, and modern JS-based runners to support AI platform validation",
+    "Setup and maintain complex test environments, integrating automated AI evaluations into Jenkins/GitLab CI pipelines",
+    "Lead R&D efforts to choose the best tools for performance, API, and scalability testing of AI microservices",
+    "Conduct code reviews, establish coding standards, and provide technical guidance on AI testing best practices",
+    "Collaborate with Architects, Data Scientists, and Product Managers to define quality standards for non-deterministic AI outputs"
+  ],
+  "use_cases": [
+    "Real-time voice and video understanding and transcription",
+    "AI-powered summarization and context retrieval across communication sessions",
+    "Autonomous agent validation and testing",
+    "LLM accuracy and hallucination detection for communication AI",
+    "Agentic workflow reliability testing"
+  ],
+  "tools_mentioned": [
+    "Arize Phoenix",
+    "Behave",
+    "Cucumber",
+    "Cypress",
+    "Data-Driven Testing",
+    "GitLab CI",
+    "Jenkins",
+    "Jest",
+    "LangSmith",
+    "Mocha",
+    "Playwright",
+    "PyTest",
+    "Ragas",
+    "Selenium",
+    "Testcafe"
+  ],
+  "frameworks_mentioned": [
+    "AI agents testing",
+    "LLM evaluation",
+    "LLM prompting",
+    "Model-based testing"
+  ],
+  "languages_programming": [
+    "Java",
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a quality engineering/test role that validates AI\nsystems rather than building them. The role focuses on\ntesting frameworks, hallucination detection, and LLM\nevaluation tools - supporting AI development through quality\nassurance rather than directly building, training, or\ndeploying models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM evaluation",
+      "LLM prompting",
+      "AI agents testing"
+    ],
+    "ml": [
+      "Model-based testing"
+    ],
+    "web": [
+      "Playwright",
+      "Selenium",
+      "Testcafe",
+      "Cypress",
+      "PyTest",
+      "Jest",
+      "Mocha",
+      "Cucumber",
+      "Behave"
+    ],
+    "databases": [],
+    "data": [
+      "Data-Driven Testing"
+    ],
+    "cloud": [],
+    "ops": [
+      "LangSmith",
+      "Ragas",
+      "Arize Phoenix",
+      "Jenkins",
+      "GitLab CI"
+    ],
+    "languages": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-3033",
+  "source": "intl-ai-corpus",
+  "source_ref": "9112818",
+  "source_url": "https://builtin.com/job/staff-engineer-ai/9112818",
+  "title": "Staff Engineer - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Wonder",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-21",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "500 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Mealtime platform offering multi-restaurant ordering and on-\nsite food preparation",
+  "industries": [
+    "Automotive",
+    "eCommerce",
+    "Food",
+    "Internet of Things",
+    "Logistics"
+  ],
+  "description": "About Wonder\n\nEverything’s on the menu at Wonder. Except compromise.\n\nWonder is the mealtime platform built to feed every craving\nin one order. With Wonder, you can mix and match hundreds of\ndishes from 20+ exclusive restaurants in a single order, so\neveryone gets exactly what they’re craving. Enjoy everything\nfrom tacos to Thai with $0 delivery fees, plus dine-in or\npick up at a Wonder location near you. Each dish is made to\norder on-site by our culinary team and served hot.\n\nBehind the scenes, Wonder owns and operates every step of\nthe dining experience, from recipe development to the\ntechnology that powers our experience, allowing us to\ndeliver quality, variety, and consistency at scale.\n\nJoin us as we work to make great food more accessible.\n\nAbout The Opportunity\n\nAs a Staff Engineer in our AI and Robotics org, you will\nbuild a food agent, a personalized meal planning and\nnutrition product that blends LLM-driven recommendations,\nhealth-aligned goal setting, and agentic ordering. You'll\nshape technical strategy, make key architectural calls, and\npersonally drive high-complexity work from design through\nproduction. This role is for someone who has built AI agents\nand LLM-powered products before, ideally as a founder,\nfounding engineer, or early-stage technical leader, and who\nis deeply curious about how these systems actually behave at\nscale. This is not a planning role: you'll write code,\nreview code, and ship code every day.\n\nThe Impact You Will Make\n\n- Define and drive the technical roadmap for our AI food\n  agent, spanning recommendation, personalization, agentic\n  ordering, and health-aligned meal planning\n- Architect and scale distributed infrastructure for real-time\n  retrieval, vector search, multi-modal inference, and LLM\n  orchestration.\n- Serve as technical decision-maker for architectural choices\n  with product-wide scope: data pipelines, model serving,\n  prompt orchestration, RAG, fallback logic, and evaluation\n  frameworks\n- Establish evaluation and experimentation infrastructure:\n  evals, benchmarks, scoring criteria, A/B testing\n  pipelines, and feedback loops that make the AI measurably\n  better over time\n\nWhat You Bring to the Table\n\n- 8+ years of professional software engineering experience,\n  with at least 3 years building and shipping AI or ML-\n  driven systems in production\n- Deep distributed systems expertise. You've architected\n  infrastructure that handles high-throughput, low-latency\n  workloads at scale\n- Hands-on experience building AI agents, LLM-powered\n  features, or agentic workflows in production. You've\n  worked with retrieval pipelines, prompt orchestration,\n  embedding-based systems, and model evaluation\n- Prior experience as a founder, founding engineer, or early-\n  stage technical leader at a startup. You know what it\n  takes to build from zero with limited resources\n- Proficiency with backend development frameworks and cloud\n  infrastructure. Familiarity with Python, TypeScript, and\n  modern ML tooling\n- Strong system design skills with a track record of shipping\n  scalable, production-grade software under real constraints\n- A degree in Computer Science, Data Science, or a related\n  technical field (or equivalent experience)\n\nOur hybrid model requires 3 days a week in the office. That\nsaid, many team members choose to come in more often to take\nadvantage of in-person collaboration and connection. You're\nwelcome—and encouraged—to be in the office up to 5 days a\nweek if it works for you.\n\n#LI-Hybrid\n\nNew York: $225,000 per year.\n\nWonder uses geographic-specific salary structures, which\nmeans the salary offered may vary depending on where the job\nis located. The final salary offer will take into account\nvarious factors, such as the candidate's skills, education,\ntraining, credentials, and experience.\n\nBenefits\n\nWe offer a competitive salary package including equity and\n401K. Additionally, we provide multiple medical, dental, and\nvision plans to meet all of our employees' needs as well as\nmany benefits and perks that are not listed. \n\nA Final Note\n\nAt Wonder, we build the best teams by hiring with an\nobjective lens — evaluating people for their potential while\nchampioning diversity, equity, and inclusion. We do not\ndiscriminate based on race, color, religion, gender identity\nor expression, sexual orientation, national origin, age,\nmilitary service eligibility, veteran status, marital\nstatus, disability, or any other protected class. As part of\nour commitment to fair and compliant hiring practices,\nWonder participates in the federal government's E-Verify\nprogram to confirm employment eligibility. If you need an\naccommodation during the interview process, please let your\nrecruiter know.\n\nWe look forward to hearing from you! We'll contact you via\nemail or text to schedule interviews and share information\nabout your candidacy.\n",
+  "skills_required": [
+    "AI agents",
+    "Agentic workflows",
+    "Embedding-based systems",
+    "LLM orchestration",
+    "Model evaluation",
+    "Prompt orchestration",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define and drive the technical roadmap for the AI food agent, spanning recommendation, personalization, agentic ordering, and health-aligned meal planning",
+    "Architect and scale distributed infrastructure for real-time retrieval, vector search, multi-modal inference, and LLM orchestration",
+    "Serve as technical decision-maker for architectural choices including data pipelines, model serving, prompt orchestration, RAG, fallback logic, and evaluation frameworks",
+    "Establish evaluation and experimentation infrastructure including evals, benchmarks, scoring criteria, A/B testing pipelines, and feedback loops",
+    "Write, review, and ship code daily as a hands-on technical leader driving high-complexity work from design through production"
+  ],
+  "use_cases": [
+    "Personalized meal planning and nutrition recommendations powered by LLMs",
+    "Agentic food ordering system that autonomously places meal orders based on user preferences and health goals",
+    "Health-aligned goal setting and dietary guidance",
+    "Real-time food recommendation engine using retrieval and vector search",
+    "Multi-modal inference for understanding user food preferences across text and other modalities"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "Backend development",
+    "Cloud infrastructure",
+    "Data pipelines",
+    "Distributed systems",
+    "Vector search"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Agentic workflows",
+    "Embedding-based systems",
+    "LLM orchestration",
+    "Model evaluation",
+    "Prompt orchestration",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely focused on building an AI food agent\npowered by LLMs, including agentic ordering, RAG, prompt\norchestration, and multi-modal inference. The engineer will\ndirectly architect, build, and ship LLM-powered systems and\nAI agents in production, making this an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "Prompt orchestration",
+      "LLM orchestration",
+      "AI agents",
+      "Agentic workflows",
+      "Embedding-based systems"
+    ],
+    "ml": [
+      "Model evaluation"
+    ],
+    "web": [
+      "Backend development"
+    ],
+    "databases": [
+      "Vector search"
+    ],
+    "data": [
+      "A/B testing",
+      "Data pipelines"
+    ],
+    "cloud": [
+      "Cloud infrastructure"
+    ],
+    "ops": [
+      "Distributed systems"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

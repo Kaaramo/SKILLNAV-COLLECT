@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0710",
+  "source": "intl-ai-corpus",
+  "source_ref": "8363829",
+  "source_url": "https://builtin.com/job/staff-applied-ai-engineer/8363829",
+  "title": "Staff Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "StackBlitz",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "28 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-powered web application builder and browser-based IDE",
+  "industries": [
+    "Software",
+    "Web3"
+  ],
+  "description": "🚀 About Us\n\nWe’re Bolt.new by StackBlitz!\n\nWe're the team behind WebContainers, the groundbreaking\ntechnology that made it possible to run Node.js right in\nyour browser. No installs, no setup, just instant dev\nenvironments. That innovation kickstarted our journey in\n2019 and powers the blazing-fast online IDE used by over a\nmillion developers every month.\n\nBut we didn't stop there.\n\nWe took everything we learned from building WebContainers\nand used it to create Bolt.new. The fastest way to go from\nidea to production without writing traditional code. Think\nof it as the Canva or Figma for full-stack applications: a\nnext-gen, AI-powered builder that lets you create, edit, and\ndeploy web and mobile apps instantly, right in your browser.\n\nWebContainers make it possible. Bolt.new brings it to life.\nTogether, they reimagine what it means to build software\nlowering the barrier to entry, speeding up workflows, and\nunlocking creativity for the next generation of builders.\n\nWe're a globally distributed, fully remote team of\npassionate engineers, designers, and creatives building the\nfuture of software development. If you love shipping fast,\nsolving real problems, and pushing the boundaries of what's\npossible we'd love to meet you.\n\n✨ About This Opportunity\n\nYou'll lead the technical direction of the AI agents that\nturn natural language into production-ready applications.\nThis means shaping how we work with LLMs to solve our\nhardest problems: maintaining context across large\ncodebases, orchestrating multi-step workflows that feel\nintuitive, and handling everything from simple UI tweaks to\ncomplex architectural decisions.\n\nThis isn't API integration work. You'll define the patterns\nand systems that govern how AI reasons about and generates\nfull-stack applications, driving initiatives that span\nmultiple teams and influence our broader AI strategy. Your\nwork shapes the experience of millions of users building\nreal products with Bolt every day.\n\n🛠️ How You'll Contribute\n\n- Define AI Agent Architecture: Lead the design and evolution\n  of our AI agent systems, establishing patterns,\n  frameworks, and standards that teams across the\n  organization adopt. Own the technical vision for how\n  agents manage context, orchestrate workflows, and scale to\n  handle increasingly complex user needs.\n- Drive Multi-Provider Strategy: Shape our approach to\n  leveraging models from providers such as OpenAI (GPT\n  series), Anthropic (Claude), and Google (Gemini).\n  Establish evaluation frameworks and selection criteria\n  that teams use to choose the right model for a given task.\n  Build relationships with provider teams to influence\n  roadmaps and beta-test new capabilities.\n- Architect Tool Use and Workflow Systems: Design the\n  foundational systems that enable AI agents to call\n  external tools and APIs safely and effectively. Define the\n  abstractions and interfaces that allow the agent to\n  perform actions like web searches, database queries, and\n  domain-specific operations. Evaluate and recommend\n  frameworks such as Vercel's AI SDK, LangGraph, and others,\n  establishing best practices for the organization.\n- Cross-Team Leadership: Partner with teams across\n  engineering, product, and design to align AI initiatives\n  with business objectives. Influence roadmaps, resolve\n  technical disagreements, and ensure AI-driven features are\n  architected for long-term maintainability and performance.\n  Mentor senior and mid-level engineers, raising the bar for\n  AI engineering practices across the organization.\n- Establish Data and Evaluation Standards: Define the\n  methodology for collecting, curating, and analyzing\n  datasets from agent responses and multi-turn\n  conversations. Build and steward the evaluation harness,\n  ensuring evals directly support business objectives and\n  KPIs. Turn insights from conversation patterns, failure\n  modes, and success signals into systematic improvements.\n- Drive Research and Innovation: Stay at the forefront of NLP\n  and LLM research, identifying and championing novel\n  techniques that provide competitive advantage. Lead\n  experimentation with new prompting strategies, context\n  handling methods, and fine-tuning opportunities. Represent\n  StackBlitz in external forums, conferences, and community\n  discussions where appropriate.\n\n💡 Qualifications\n\n- TypeScript: Familiarity with TypeScript is important. Our\n  entire stack is built on it. Willingness to work in TS\n  daily is key.\n- Deep LLM Experience: Extensive hands-on experience working\n  with Large Language Models (LLMs), with a nuanced\n  understanding of their capabilities, limitations, and\n  emergent behaviors. Proven track record of building and\n  scaling production AI systems.\n- Prompt Engineering: Deep expertise in prompt engineering\n  with the ability to establish best practices and mentor\n  others. Skilled at crafting, refining, and optimizing\n  prompts across different tasks, models, and use cases.\n- Software Engineering Excellence: Strong software engineering\n  fundamentals with experience designing systems that scale.\n  Able to make architectural decisions that balance\n  immediate needs with long-term maintainability.\n- Strategic Execution: Ability to take ambiguous, high-scope\n  problems and drive them to completion with minimal\n  oversight. Comfortable influencing direction across teams\n  and navigating complex technical and organizational\n  challenges.\n- Systems Thinking: Ability to identify process,\n  communication, and technical debt across the organization\n  and propose solutions that accelerate velocity for\n  multiple teams.\n- Data-Driven Leadership: Experienced in establishing data\n  collection and analysis practices. Able to build\n  evaluation frameworks, identify patterns in agent\n  behavior, and translate findings into organizational\n  improvements.\n- Strong verbal and written English communication skills are\n  required, as this role involves frequent collaboration\n  with team members, stakeholders, customers, and\n  potentially external audiences where English is the\n  primary working language.\n\n🎯 Bonus Points\n\n- DSPy Framework: Familiarity with DSPy (Declarative Self-\n  improving Python) for building modular AI systems and\n  optimizing prompts programmatically.\n- Machine Learning Background: Understanding of ML\n  fundamentals and experience with model evaluation metrics.\n- Open Source Contributions: Experience contributing to or\n  maintaining open-source AI/ML projects.\n- Research Background: Experience reading and implementing\n  techniques from AI/ML research papers.\n- $ Experience speaking at conferences, publishing technical\n  content, or representing an organization in industry\n  forums.\n\n📌 A Few Notes\n\n- You do not need a college degree to apply\n- You do not need to be located in the U.S. — we’re remote-\n  friendly\n- You do not need to meet every qualification listed above\n",
+  "skills_required": [
+    "Anthropic API",
+    "DSPy",
+    "Google Gemini",
+    "LangGraph",
+    "OpenAI API",
+    "RAG",
+    "Vercel AI SDK",
+    "agents",
+    "fine-tuning",
+    "function calling",
+    "model evaluation",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead the design and evolution of AI agent systems, establishing patterns, frameworks, and standards for how agents manage context and orchestrate workflows",
+    "Shape the multi-provider strategy for LLM models (OpenAI GPT, Anthropic Claude, Google Gemini) and establish evaluation frameworks and selection criteria",
+    "Architect foundational systems for tool use and workflow orchestration, enabling AI agents to safely call external tools and APIs",
+    "Partner across engineering, product, and design teams to align AI initiatives with business objectives and influence roadmaps",
+    "Establish data and evaluation standards for collecting and analyzing agent responses, building evaluation harnesses that support business KPIs",
+    "Drive research and innovation in NLP and LLM techniques, including prompting strategies, context handling methods, and fine-tuning opportunities"
+  ],
+  "use_cases": [
+    "Convert natural language into production-ready full-stack web and mobile applications",
+    "Maintain context across large codebases while making changes, from simple UI tweaks to complex architectural decisions",
+    "Orchestrate multi-step workflows that handle increasingly complex user needs across the application development process",
+    "Enable safe and effective tool use by AI agents for web searches, database queries, and domain-specific operations",
+    "Provide instant code generation and editing capabilities directly in the browser without requiring traditional code writing"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "DSPy",
+    "Google Gemini",
+    "LangGraph",
+    "OpenAI API",
+    "RAG",
+    "Vercel AI SDK",
+    "agents",
+    "fine-tuning",
+    "function calling",
+    "model evaluation",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on AI engineering role working directly with\nLLMs to build AI agent systems. The engineer will lead the\ndesign and evolution of AI agent architectures, work with\nOpenAI, Anthropic, and Google models, and implement systems\nthat enable agents to generate full-stack applications from\nnatural language - this is core AI development, not support\nwork.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "Google Gemini",
+      "LangGraph",
+      "DSPy",
+      "Vercel AI SDK",
+      "prompt engineering",
+      "function calling",
+      "agents",
+      "RAG"
+    ],
+    "ml": [
+      "fine-tuning",
+      "model evaluation"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

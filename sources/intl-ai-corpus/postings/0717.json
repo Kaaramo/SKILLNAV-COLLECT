@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-0717",
+  "source": "intl-ai-corpus",
+  "source_ref": "3796225",
+  "source_url": "https://builtin.com/job/software-engineer-ai-training-and-infrastructure/3796225",
+  "title": "Software Engineer, AI Training and Infrastructure",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Skild AI",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-17",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "24 Employees",
+  "company_stage": null,
+  "company_focus": "General purpose robotic intelligence",
+  "industries": [
+    "Artificial Intelligence",
+    "Robotics",
+    "Business Intelligence"
+  ],
+  "description": "Company Overview\n\nAt Skild AI, we are building the world's first general\npurpose robotic intelligence that is robust and adapts to\nunseen scenarios without failing. We believe massive scale\nthrough data-driven machine learning is the key to unlocking\nthese capabilities for the widespread deployment of robots\nwithin society. Our team consists of individuals with\nvarying levels of experience and backgrounds, from new\ngraduates to domain experts. Relevant industry experience is\nimportant, but ultimately less so than your demonstrated\nabilities and attitude. We are looking for passionate\nindividuals who are eager to explore uncharted waters and\ncontribute to our innovative projects.\n\nPosition Overview\n\nWe are looking for a Software Engineer to work at the\nforefront of developing and optimizing the software\ninfrastructure and tools necessary for training cutting-edge\nAI models. You will focus on building robust, scalable, and\nefficient training pipelines and frameworks that support the\nentire machine learning lifecycle, from data preparation to\nmodel deployment. You will collaborate with researchers and\nmachine learning engineers to ensure seamless integration\nand operation of training systems, pushing the boundaries of\nwhat AI can achieve in real-world robotics applications. You\nwill explore new ways to efficiently make use of many types\nof data in our training pipeline.\n\nResponsibilities\n\n- Develop and maintain robust, scalable, and distributed\n  training pipelines (data preprocessing, training\n  orchestration, and model evaluation) and frameworks for\n  large-scale AI models.\n- Optimize training processes for performance and resource\n  utilization, ensuring scalability and reliability.\n- Collaborate with researchers and machine learning engineers\n  to integrate state-of-the-art algorithms and techniques\n  into training pipelines.\n- Monitor and analyze training, identifying bottlenecks and\n  proposing solutions to improve efficiency and performance.\n- Ensure the robustness and reliability of the training\n  infrastructure, including automated testing and continuous\n  integration.\n\nPreferred Qualifications\n\n- BS, MS or higher degree in Computer Science, Robotics,\n  Engineering or a related field, or equivalent practical\n  experience.\n- Minimum of 3 years of industry experience.\n- Proficiency in Python, C++, or similar and at least one deep\n  learning library such as PyTorch, TensorFlow, JAX, etc.\n- Strong background in distributed computing, parallel\n  processing techniques, handling large-scale datasets and\n  data preprocessing.\n- Deep understanding of state-of-the-art machine learning\n  techniques and models.\n- Experience with cloud-based training environments (AWS,\n  Google Cloud, Azure).\n- Experience in developing and maintaining software tooling\n  and infrastructure for machine learning.\n- Deep understanding and practical experience with software\n  engineering principles, including algorithms, data\n  structures, and system design.\n- Experience with continuous integration and automated testing\n  frameworks.\n\nBase Salary Range\n\n$100,000—$300,000 USD\n",
+  "skills_required": [
+    "JAX",
+    "PyTorch",
+    "TensorFlow",
+    "software engineering principles"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and maintain robust, scalable, and distributed training pipelines and frameworks for large-scale AI models",
+    "Optimize training processes for performance and resource utilization, ensuring scalability and reliability",
+    "Collaborate with researchers and machine learning engineers to integrate state-of-the-art algorithms and techniques into training pipelines",
+    "Monitor and analyze training, identifying bottlenecks and proposing solutions to improve efficiency and performance",
+    "Ensure the robustness and reliability of the training infrastructure, including automated testing and continuous integration"
+  ],
+  "use_cases": [
+    "Training general purpose robotic intelligence models",
+    "Large-scale distributed AI model training",
+    "Data preprocessing and training orchestration for robotics applications",
+    "Scalable ML infrastructure for real-world robotics deployment"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "automated testing",
+    "continuous integration",
+    "data preprocessing",
+    "distributed computing",
+    "large-scale datasets",
+    "parallel processing"
+  ],
+  "frameworks_mentioned": [
+    "JAX",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "C++",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building infrastructure, training\npipelines, and tooling to support ML model training rather\nthan directly building or training models. The engineer\nworks collaboratively with researchers and ML engineers to\nenable their work through scalable systems, data\npreprocessing, and training orchestration, which aligns with\nai-support classification.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "JAX"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "data preprocessing",
+      "large-scale datasets"
+    ],
+    "cloud": [
+      "AWS",
+      "Google Cloud",
+      "Azure"
+    ],
+    "ops": [
+      "distributed computing",
+      "parallel processing",
+      "continuous integration",
+      "automated testing"
+    ],
+    "languages": [
+      "Python",
+      "C++"
+    ],
+    "domains": [],
+    "other": [
+      "software engineering principles"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

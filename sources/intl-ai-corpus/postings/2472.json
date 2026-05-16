@@ -1,0 +1,117 @@
+{
+  "job_id": "intl-ai-corpus-2472",
+  "source": "intl-ai-corpus",
+  "source_ref": "8906007",
+  "source_url": "https://builtin.com/job/software-engineer-ai-agents/8906007",
+  "title": "Software Engineer (AI Agents)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Akur8",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "167 Employees",
+  "company_stage": "Scale-up (Series B+)",
+  "company_focus": "AI-powered insurance pricing and risk assessment SaaS\nplatform",
+  "industries": [
+    "Artificial Intelligence",
+    "Insurance",
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "Akur8 is a fast-growing InsurTech scale-up on a mission to\nmodernize how insurers assess, price, and manage risk.\n\nOur next-generation SaaS platform combines transparent\nmachine learning, predictive analytics, and smart product\ndesign to turn complex insurance workflows into scalable,\ndata-driven systems.\n\nPowered by expert engineering, data, product, and actuarial\nteams, Akur8 enables insurers to model risk up to 10x faster\nwhile maintaining transparency, explainability, and\nregulatory trust.\n\nAs our product suite expands, we are building an end-to-end\nplatform supporting pricing, reserving, and forward-looking\nrisk decisions — helping insurers operate efficiently in a\ncomplex environment.\n\nRecognized globally, Akur8 has been featured in:\n\n- CB Insights’ Insurtech 50 (2025)\n- CNBC’s InsurTech Top 150 (2025)\n- InsurTech100 Global Insurtech Top 100 (2025)\n- Professional Equality Index 97/100 (2025)\n\nWith 40+ nationalities across 8 global offices, we serve\n320+ clients across 4 continents while maintaining a strong\nengineering and product culture.\n\nWe are proud to be an equal opportunities employer,\nfostering an inclusive environment where diverse\nperspectives help shape better products and decisions.\n\nAkur8 is a global insurance technology company trusted by\nleading carriers. We build software that shapes billions of\ndollars in risk decisions every year, turning complex data\ninto actionable intelligence at scale.\n\nInsurance pricing depends heavily on unstructured regulatory\nand market data — filings, forms, exhibits, bulletins, and\ncountless other documents that are hard to search,\ninterpret, and operationalize.\n\nWe're building the OS for pricing: systems that reliably\ntransform tens of millions of messy documents into\nqueryable, trustworthy intelligence embedded directly in\npricing workflows.\n\nOur AI team is small, talent-dense, and operates with real\nownership. We maintain open-source projects with thousands\nof stars and publish work recognized across the AI\necosystem. The problems we work on are active research areas\nwhere no one has great answers yet.\n\nYou'll own the full feedback loop: diagnose where the\nproduct falls short, rigorously analyze root causes, build\nevaluations, and ship improvements that customers feel.\n\nThe work spans agent systems, evaluation and data quality,\nand production engineering in roughly equal measure.\n\nYou'll work directly with customers when it helps you\nunderstand the problem deeply - we believe engineers should\nhave a clear line of sight to the people using what they\nbuild.\n\nThe type of projects that you can expect to work on:\n\n- Design and refine tool-calling patterns and agent\n  orchestration to handle multi-step research tasks that\n  requires reasoning across thousands of related documents.\n- Build ingestion and normalization systems for complex\n  structured documents at scale - millions of filings where\n  formats vary and each version builds on the last.\n- Build and iterate on reinforcement fine-tuning harnesses,\n  including training graders for research tasks with non-\n  verifiable reward.\n- Develop tooling to measure, profile, and optimize agent\n  pipeline performance - latency, cost, and quality across\n  millions of calls.\n- Run experiments end-to-end: design, analyze, and translate\n  into clear product recommendations.\n\nWhy this role ?\n\nYou'll work on genuinely hard, unsolved problems at the\nintersection of AI systems and a massive real-world data\ndomain.\n\nYou'll ship to production regularly, talk to customers, and\nsee your work change how people make consequential\ndecisions.\n\nThe team is small enough that your judgment directly shapes\nthe product - and we're building it to be best in class.\n\n*This role is a hybrid position to be based in New York\nCity, with a necessity for 3 days a week of office presence.\n\nCandidates must be team players with strong interpersonal\nskills, as well as:\n\n- 2 - 5 years of experience building software professionally,\n  with strong programming fundamentals (we work mostly in\n  Python).\n- Proficiency with LLM APIs, agent frameworks, and modern\n  retrieval patterns. You stay current as the field moves.\n  We don't need classical ML expertise - we need someone on\n  the frontier of applied AI.\n- Strong track record of shipping high-impact work in\n  ambiguity. You take a vague problem, define what \"good\"\n  looks like, ship a v0, and iterate.\n- Experience shipping user-facing products, either backend or\n  full-stack.\n- Drawn to the question \"how do we know this is actually\n  better?\" - excited to build the evaluation infrastructure\n  that answers it rigorously.\n- Curiosity over domain experience. No insurance background\n  needed - you learn fast and care about understanding the\n  problem space deeply.\n- Strong written and spoken English\n\nAs a newcomer, you'll be joining a diverse, highly skilled\nand motivated team, with a strong Tech DNA, colleagues that\nare eager to share their knowledge and passion.\n\nWe care about strong teamwork and a positive day-to-day\nenvironment. The team regularly connects through optional\nactivities such as team lunches, sports, karaoke, or\noccasional after-work gatherings.\n\nIn addition to this, we will provide you with:\n\n- Competitive salary + annual bonus\n- Health insurance , Dental and Vision coverage (including\n  spouse and family coverage)\n- 401K Company match\n- Life insurance\n- Cell Phone & Internet reimbursement\n- 25 days of PTO/year\n- Commuter benefit\n- Gym membership via ClassPass\n- IT equipment allowance\n- Professional development & trainings\n- Team fun: regular company gatherings and team events\n",
+  "skills_required": [
+    "Agent frameworks",
+    "Agent orchestration",
+    "Experimental design and analysis",
+    "LLM APIs",
+    "Reinforcement fine-tuning",
+    "Retrieval-Augmented Generation (RAG)",
+    "Tool-calling patterns"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and refine tool-calling patterns and agent orchestration for multi-step research tasks across thousands of related documents",
+    "Build ingestion and normalization systems for complex structured documents at scale (millions of filings)",
+    "Build and iterate on reinforcement fine-tuning harnesses, including training graders for research tasks",
+    "Develop tooling to measure, profile, and optimize agent pipeline performance (latency, cost, quality)",
+    "Run experiments end-to-end: design, analyze, and translate results into clear product recommendations",
+    "Diagnose product shortcomings, build evaluations, and ship improvements directly impacting customers",
+    "Work directly with customers to deeply understand problems and shape product direction"
+  ],
+  "use_cases": [
+    "Insurance pricing intelligence by transforming millions of messy regulatory documents into queryable, trustworthy data",
+    "Agent-based research and reasoning across thousands of related insurance filings and documents",
+    "Automated ingestion and normalization of complex structured insurance filings at scale",
+    "Evaluation and quality assurance for AI agent pipelines in production",
+    "Reinforcement fine-tuning for research tasks in the insurance domain"
+  ],
+  "tools_mentioned": [
+    "Document ingestion and normalization",
+    "Evaluation infrastructure"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "Agent orchestration",
+    "LLM APIs",
+    "Reinforcement fine-tuning",
+    "Retrieval-Augmented Generation (RAG)",
+    "Tool-calling patterns"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building AI agent systems —\ndesigning tool-calling patterns, agent orchestration,\nreinforcement fine-tuning harnesses, and optimizing LLM-\nbased pipelines. The work is hands-on with GenAI/LLM systems\nat the core of the product, making it clearly ai-first.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs",
+      "Agent frameworks",
+      "Retrieval-Augmented Generation (RAG)",
+      "Agent orchestration",
+      "Tool-calling patterns",
+      "Reinforcement fine-tuning"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Document ingestion and normalization"
+    ],
+    "cloud": [],
+    "ops": [
+      "Evaluation infrastructure"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Experimental design and analysis"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

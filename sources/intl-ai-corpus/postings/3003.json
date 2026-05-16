@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-3003",
+  "source": "intl-ai-corpus",
+  "source_ref": "9101111",
+  "source_url": "https://builtin.com/job/ai-engineer-manager/9101111",
+  "title": "AI Engineer - Manager",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Brookfield Asset Management Inc.",
+  "company_type": "entité morale privée",
+  "location": "Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-20",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,725 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global alternative asset management and investment",
+  "industries": [
+    "Fintech",
+    "Financial Services"
+  ],
+  "description": "Location\n\nMumbai - 10th Floor, Ventura, Hiranandani Gardens, Powai\n\nTechnology Services\n\nTechnology Services (TS) is responsible for delivering all\nenterprise infrastructure, applications and related end user\ntechnology services across all Brookfield business groups.\n\nBrookfield Culture\n\nBrookfield has a unique and dynamic culture.  We seek team\nmembers who have a long-term focus and whose values align\nwith our Attributes of a Brookfield Leader:\nEntrepreneurial, Collaborative and Disciplined.  Brookfield\nis committed to the development of our people through\nchallenging work assignments and exposure to diverse\nbusinesses.\n\nJob Description\n\nJob Description: As a Generative AI Engineer, you will be\nresponsible for designing, developing, and optimizing AI\nmodels that generate high-quality content. You will work\nclosely with our data scientists, engineers, and product\nteams to create innovative solutions that meet our clients'\nneeds.\n\nKey Responsibilities:\n\n- Design and optimize AI prompts to enhance the quality and\n  relevance of generated outputs.\n- Develop and implement testing frameworks for effective model\n  evaluation and continuous improvement.\n- Maintain comprehensive documentation on prompt\n  configurations, testing methodologies, and usage\n  guidelines.\n- Collaborate closely with cross-functional teams, including\n  data scientists, product managers, and developers.\n- Integrate AI solutions into production pipelines, leveraging\n  CI/CD practices to ensure scalable deployment.\n- Deploy AI models into production environments and ensure\n  their ongoing maintenance and improvement\n- Monitor performance metrics, troubleshoot issues, and refine\n  models to ensure high reliability.\n- Stay current with emerging generative AI trends,\n  technologies, and industry best practices.\n- Develop robust AI applications using Python, applying\n  industry-standard coding practices and libraries.\n- Utilize LangChain for building and managing scalable AI\n  pipelines, particularly for chaining complex prompts and\n  retrieval tasks.\n- Leverage Azure GenAI Services to integrate cloud-based AI\n  solutions, ensuring optimized performance and compliance\n  with enterprise standards, familiarity with AWS Gen AI\n  services would be a nice to have.\n- Ensure ethical considerations are integrated into model\n  development, including data privacy, bias mitigation, and\n  adherence to intellectual property rights\n- Gather and analyze user feedback to refine and enhance AI\n  models\n\nQualifications:\n\n- Bachelor’s degree in Computer Science, Artificial\n  Intelligence, Machine Learning, or a related field.\n- 3 - 5 years of experience in AI development, with a focus on\n  generative models.\n- Proficiency in programming languages such as Python,\n  TensorFlow, and PyTorch.\n- Strong understanding of machine learning algorithms and\n  neural networks.\n- Experience with large-scale data processing and model\n  training.\n- Excellent problem-solving skills and attention to detail.\n- Ability to work collaboratively in a fast-paced environment.\n\nNice to have Skills:\n\n- Experience with .NET Framework and familiar with C# and\n  Visual basic\n- Experience with natural language processing (NLP) and\n  computer vision.\n- Familiarity with ethical AI practices and data privacy\n  regulations.\n- Strong communication skills and ability to present technical\n  concepts to non-technical stakeholders.\n\nBrookfield is committed to maintaining a Positive Work\nEnvironment that is safe and respectful; our shared success\ndepends on it.  Accordingly, we do not tolerate workplace\ndiscrimination, violence or harassment.\n\nWe are proud to create a diverse environment and are proud\nto be an equal opportunity employer. We are grateful for\nyour interest in this position, however, only candidates\nselected for pre-screening will be contacted.\n",
+  "skills_required": [
+    "AWS GenAI Services",
+    "Azure GenAI Services",
+    "LangChain",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and optimize AI prompts to enhance quality and relevance of generated outputs",
+    "Develop and implement testing frameworks for model evaluation and continuous improvement",
+    "Integrate AI solutions into production pipelines using CI/CD practices for scalable deployment",
+    "Deploy AI models into production environments and ensure ongoing maintenance and improvement",
+    "Develop robust AI applications using Python with industry-standard coding practices and libraries",
+    "Utilize LangChain for building and managing scalable AI pipelines for chaining complex prompts and retrieval tasks",
+    "Leverage Azure GenAI Services to integrate cloud-based AI solutions with optimized performance and enterprise compliance",
+    "Monitor performance metrics, troubleshoot issues, and refine models for high reliability"
+  ],
+  "use_cases": [
+    "Content generation using large language models",
+    "Prompt chaining and retrieval-augmented generation (RAG) pipelines",
+    "Cloud-based enterprise AI solution deployment",
+    "Automated model evaluation and continuous improvement",
+    "Scalable AI pipeline development for production environments"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Model Deployment"
+  ],
+  "frameworks_mentioned": [
+    "AWS GenAI Services",
+    "Azure GenAI Services",
+    "LangChain",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "C#",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly designing, developing,\ndeploying, and optimizing generative AI models and\npipelines. The engineer will work hands-on with LangChain,\nAzure GenAI Services, prompt engineering, and model\ndeployment into production — all core activities of building\nand deploying AI systems.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Prompt Engineering",
+      "Azure GenAI Services",
+      "AWS GenAI Services",
+      "RAG"
+    ],
+    "ml": [
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "Model Deployment"
+    ],
+    "languages": [
+      "Python",
+      "C#"
+    ],
+    "domains": [
+      "NLP",
+      "Computer Vision"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

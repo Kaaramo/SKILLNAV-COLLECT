@@ -1,0 +1,45 @@
+company:
+  name: Cnexia Tech
+  stage: null
+  focus: null
+position:
+  title: Business Data Analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities:
+  - SQL queries extraction multi-sources
+  - Cleaning + transforming + validating raw data
+  - Data wrangling
+  - Customer profile analysis
+  - Identifying anomalies
+  - Reporting + visualization
+  - Stakeholder management
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - Advanced Excel
+    - Business analytics
+    - Data analytics
+    - Data wrangling
+    - Excel
+    - Financial modeling
+    - Performance reporting
+    - SAS
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '182756'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

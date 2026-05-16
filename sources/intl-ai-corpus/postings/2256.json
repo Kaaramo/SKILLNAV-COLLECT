@@ -1,0 +1,118 @@
+{
+  "job_id": "intl-ai-corpus-2256",
+  "source": "intl-ai-corpus",
+  "source_ref": "8830427",
+  "source_url": "https://www.builtinla.com/job/senior-ai-software-engineer/8830427",
+  "title": "Senior AI Software Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Solo.io",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-20",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B+ (valued at $1B in 2021)",
+  "company_focus": "Cloud-native AI infrastructure, API gateways, service mesh,\nand proxy solutions",
+  "industries": [],
+  "description": "Who we are.\n\nSolo empowers teams to build and scale their AI\ninfrastructure using cloud-native tech. Most companies have\nshifted from asking 'How can we make AI useful?' and are\ninstead now asking 'How do we take our AI projects to\nproduction?'. A recent MIT study reveals a shocking 95% of\nGenAI projects never make it there or fail to deliver\npositive ROI. At Solo, our AI initiatives are helping teams\nbridge that gap from pilot to production.\n\nWith our roots in critical cloud infrastructure (gateways,\nproxies, service mesh) trusted by Fortune 500s, Solo is\nuniquely positioned to lead AI's next wave. As a nimble\nstartup, we innovate faster, our engineers contribute to\nhigh-impact OSS (we're a top CNCF contributor) and solve\nreal scalability challenges.\n\nSolo is a VC-backed company, founded in 2017 by Idit Levine.\nIn 2021, Solo was valued at $1B. Solo’s customers are some\nof the largest in the world, spanning all geographies and\nindustries. Solo’s team has deep expertise in Cloud\nComputing, Linux, Containers, Kubernetes, Service Mesh,\nAPIs, AI, Security, Networking, Microservice Applications\nand Infrastructure Modernization.\n\nAbout the role.\n\nThis role will have opportunities to contribute to both our\ncloud networking stack and our AI products, as the line\nbetween the two is beginning to fade. Dive into OSS projects\nlike kagent (kagent.dev) for Kubernetes-based AI\norchestration, agentgateway (agentgateway.dev) which\nredefines proxies for AI workflows, and kgateway\n(kgateway.dev), our CNCF project handling billions of API\ncalls. All of these projects integrate seamlessly with\nIstio’s Ambient Mesh (ambientmesh.io), a sidecar-less mesh\npioneered by Solo to make service meshes easy and resource-\nefficient - driving a massive surge in adoption. You will\nhave chances to work with customers, contribute to open\nsource, and shape the future of AI infrastructure.\n\nYou will work with the latest cloud and container\ntechnologies like Kubernetes, Envoy, and Istio - as well as\nwith AI tooling, protocols and standards like MCP, A2A and\nmore! You will review customer feedback in order to promote\nadoption and simplify usability of complex technology.\n\nThis is a remote role for applicants based in the US.\nUnfortunately we are unable to sponsor work visas for this\nrole at this time.\n\nJob Description:\n\n- Deliver high-quality solutions to the complex technical\n  problems our customers are facing.\n- Manage and optimize our APIs within the ever-evolving\n  landscape of cloud-native environments, maintaining a\n  seamless user experience.\n- Transform ambiguous requirements into actionable tasks,\n  focusing on high-impact deliverables that provide the most\n  value for our users.\n- Challenge the status quo by proposing ambitious and\n  innovative solutions, driving our product forward.\n- Introduce and uphold best practices to ensure the health and\n  maintainability of our codebase.\n- Act as a mentor and guide, offering constructive feedback\n  during code and design reviews to foster growth within the\n  team.\n- Participate in the hiring process, helping identify and\n  recruit top talent so that our engineering team can\n  continue to scale successfully.\n\nJob Requirements:\n\n- 5+ years of experience as a software engineer\n- 2+ years working with Containers, Kubernetes, and Golang\n- Experienced in building server side software in production\n  and recognizes the challenges, complexities and tradeoffs\n  to be made when building and deploying new systems to\n  production.\n\nBonus Experience\n\n- Istio or other service mesh platforms\n- Worked directly on a proxy before, such as Envoy Proxy\n- Having built k8s controllers and operators\n- Worked with Agentic frameworks and protocols such as, ADK,\n  MCP, A2A\n- Experience working with GlooShot\n- Implemented or used the kubernetes gateway API\n\nWhat you’ll love about Solo.\n\nAt Solo, our culture is all about hiring great people,\ncreating a fun and fast-paced work culture, and letting our\nteams work with our customers to successfully solve their\nchallenges.\n\nSolo works collaboratively with our customers, partners and\nopen source communities to deliver technology innovation,\ntechnology solutions, architectural best-practices, and\nhands-on education. Solo uses a unique engagement model with\nour customers that allows us to quickly make them\nsuccessful, and continue to work closely with them as their\nproduction environments grow.\n\nSolo is an Equal Opportunity Employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, sex, sexual orientation,\ngender identity, national origin, or protected veteran\nstatus and will not be discriminated against on the basis of\ndisability.\n",
+  "skills_required": [
+    "A2A",
+    "ADK",
+    "Agentic frameworks",
+    "MCP"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and contribute to AI infrastructure projects including kagent, agentgateway, and kgateway",
+    "Manage and optimize APIs within cloud-native environments for seamless user experience",
+    "Deliver high-quality solutions to complex customer technical problems",
+    "Transform ambiguous requirements into actionable high-impact deliverables",
+    "Introduce and uphold best practices for codebase health and maintainability",
+    "Act as mentor during code and design reviews",
+    "Participate in hiring process to scale the engineering team",
+    "Work with customers and contribute to open source projects"
+  ],
+  "use_cases": [
+    "Kubernetes-based AI orchestration and agent workflows",
+    "AI proxy and gateway infrastructure for production AI workloads",
+    "Service mesh integration for AI applications",
+    "Cloud-native API management at scale",
+    "Bridging AI projects from pilot to production"
+  ],
+  "tools_mentioned": [
+    "API gateways",
+    "Docker",
+    "Envoy",
+    "Istio",
+    "Kubernetes",
+    "Kubernetes Gateway API",
+    "Kubernetes controllers",
+    "Kubernetes operators",
+    "Service mesh"
+  ],
+  "frameworks_mentioned": [
+    "A2A",
+    "ADK",
+    "Agentic frameworks",
+    "MCP"
+  ],
+  "languages_programming": [
+    "Golang"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and contributing to AI\ninfrastructure products like kagent (Kubernetes-based AI\norchestration), agentgateway (AI proxy workflows), and\nworking with AI protocols like MCP and A2A. The role\ncombines deploying AI solutions with core infrastructure\nwork, making it ai-first rather than ai-support.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP",
+      "A2A",
+      "Agentic frameworks",
+      "ADK"
+    ],
+    "ml": [],
+    "web": [
+      "API gateways"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Kubernetes",
+      "Kubernetes controllers",
+      "Kubernetes operators",
+      "Kubernetes Gateway API"
+    ],
+    "ops": [
+      "Envoy",
+      "Istio",
+      "Docker",
+      "Service mesh"
+    ],
+    "languages": [
+      "Golang"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

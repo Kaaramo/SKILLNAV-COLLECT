@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-0891",
+  "source": "intl-ai-corpus",
+  "source_ref": "7578030",
+  "source_url": "https://builtin.com/job/ai-ops-engineer-azure-stack/7578030",
+  "title": "AI Ops Engineer - Azure Stack",
+  "title_normalized": "AI_ENGINEER",
+  "company": "DXC Technology",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-18",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "86,261 Employees",
+  "company_stage": "Public",
+  "company_focus": "IT services and consulting",
+  "industries": [],
+  "description": "Job Description:\n\nMandatory skills:\n\n-Azure Bot Service and Bot Framework SDK: Proficiency in\ndeveloping bots using Azure Bot Service and Bot Framework\nSDK (Python & NodeJS).\n\n-Azure Open AI LLM GenAI: Knowledge of Open AI LLMs(e.g.,\nAzure OpenAI, GPT-4o) for advanced summary generation.\n\n-Azure AI Cognitive Speech Service: Expertise in using Azure\nSpeech Service for real-time speech-to-text transcription,\nincluding continuous recognition and speaker diarization.\n\n-Microsoft Graph API: Experience with Graph API for Teams\nmeeting management.\n\n-Python Programming: Strong Python skills for scripting bot\nlogic, processing transcripts, and integrating with Azure\nAPIs (e.g., REST calls, SDKs like azure-cognitiveservices-\nspeech).\n\n- MLOps & DevOps: Knowledge of data pipeline setup, Apache\n  Airflow, CI/CD, and containerization (Docker, Kubernetes).\n\n- 6 to 8 years of experience\n\nNice to have:\n\n-Security and Compliance: Understanding of GDPR/CCPA\nrequirements, Azure AD authentication, and encryption to\nsecure sensitive incident data.\n\n-AIOps and Incident Management: Knowledge of AIOps\nprinciples and ITIL processes for critical incident\nresponse, including escalation matrices and real-time\ncollaboration tools.\n\nAt DXC Technology, we believe strong connections and\ncommunity are key to our success. Our work model prioritizes\nin-person collaboration while offering flexibility to\nsupport wellbeing, productivity, individual work styles, and\nlife circumstances. We’re committed to fostering an\ninclusive environment where everyone can thrive.\n\nRecruitment fraud is a scheme in which fictitious job\nopportunities are offered to job seekers typically through\nonline services, such as false websites, or through\nunsolicited emails claiming to be from the company. These\nemails may request recipients to provide personal\ninformation or to make payments as part of their\nillegitimate recruiting process. DXC does not make offers of\nemployment via social media networks and DXC never asks for\nany money or payments from applicants at any point in the\nrecruitment process, nor ask a job seeker to purchase IT or\nother equipment on our behalf. More information on\nemployment scams is available here.\n",
+  "skills_required": [
+    "Azure OpenAI",
+    "Bot Framework SDK",
+    "GDPR/CCPA",
+    "GPT-4o",
+    "ITIL"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop bots using Azure Bot Service and Bot Framework SDK with Python and NodeJS",
+    "Implement Azure OpenAI LLMs including GPT-4o for advanced summary generation",
+    "Utilize Azure AI Cognitive Speech Service for real-time speech-to-text transcription and speaker diarization",
+    "Integrate with Microsoft Graph API for Teams meeting management",
+    "Build and maintain data pipelines using Apache Airflow and MLOps/DevOps practices",
+    "Implement CI/CD pipelines and containerization using Docker and Kubernetes"
+  ],
+  "use_cases": [
+    "Enterprise meeting transcription and summarization using AI-powered speech services",
+    "Automated bot solutions for business process automation",
+    "Real-time speech-to-text with speaker identification",
+    "Teams meeting management and automation",
+    "Intelligent document and content summarization"
+  ],
+  "tools_mentioned": [
+    "AIOps",
+    "Apache Airflow",
+    "Azure AD",
+    "Azure AI Cognitive Speech Service",
+    "Azure Bot Service",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "Microsoft Graph API",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "Azure OpenAI",
+    "Bot Framework SDK",
+    "GPT-4o"
+  ],
+  "languages_programming": [
+    "NodeJS",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires hands-on development of bots using Azure\nBot Service, implementation of Azure OpenAI LLMs for\nadvanced summary generation, and real-time speech-to-text\ntranscription. This involves building and deploying AI\napplications rather than just supporting AI infrastructure\nor data pipelines.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Bot Framework SDK",
+      "Azure OpenAI",
+      "GPT-4o"
+    ],
+    "ml": [],
+    "web": [
+      "Microsoft Graph API",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Apache Airflow"
+    ],
+    "cloud": [
+      "Azure Bot Service",
+      "Azure AI Cognitive Speech Service",
+      "Azure AD"
+    ],
+    "ops": [
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "AIOps"
+    ],
+    "languages": [
+      "Python",
+      "NodeJS"
+    ],
+    "domains": [
+      "Speech-to-text",
+      "Speaker diarization"
+    ],
+    "other": [
+      "GDPR/CCPA",
+      "ITIL"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

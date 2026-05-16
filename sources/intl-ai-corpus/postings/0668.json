@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0668",
+  "source": "intl-ai-corpus",
+  "source_ref": "8327479",
+  "source_url": "https://builtin.com/job/ai-automation-engineer/8327479",
+  "title": "AI Automation Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Lookout",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "646 Employees",
+  "company_stage": null,
+  "company_focus": "Endpoint to cloud security platform",
+  "industries": [
+    "Cloud",
+    "Security",
+    "Cybersecurity"
+  ],
+  "description": "Lookout, Inc. is the endpoint to cloud security company\npurpose-built for the intersection of enterprise and\npersonal data. We safeguard data across devices, apps,\nnetworks and clouds through our unified, cloud-native\nsecurity platform — a solution that's as fluid and flexible\nas the modern digital world. By giving organizations and\nindividuals greater control over their data, we enable them\nto unleash its value and thrive. Lookout is trusted by\nenterprises of all sizes, government agencies and millions\nof consumers to protect sensitive data, enabling them to\nlive, work and connect — freely and safely. To learn more\nabout the Lookout Cloud Security Platform, visit\nwww.lookout.com and follow Lookout on our blog, LinkedIn and\nTwitter.\n\nAs part of Lookout's R&D organization, you will have a\nunique opportunity to spearhead the internal Agentic AI\nrevolution. While our core engineering teams focus on\nproduct capabilities, you will be the primary architect\nresponsible for operationalizing AI across the rest of the\nbusiness. You will work directly with high-impact\nfunctions—Sales, Marketing, Finance, HR, Legal, and\nRecruiting—to design and build autonomous agents that\nfundamentally change how Lookout operates.\n\nTo tackle these challenges, you must be part builder, part\nbusiness analyst, and part evangelist. You need to be open-\nminded enough to experiment with emerging tools (like Gemini\nEnterprise and N8N) and persistent enough to solve complex\nintegration puzzles across a diverse SaaS ecosystem. If you\nenjoy bridging the gap between cutting-edge LLM technology\nand real-world business strategy, and want to see your work\nimmediately accelerate an entire organization, come check us\nout.\n\nResponsibilities:\n\n- Design, Build and Maintain Agentic Workflows: Responsible\n  for architecting and deploying autonomous AI agents using\n  low-code/no-code orchestration platforms (e.g., N8N) and\n  enterprise LLMs (e.g., Gemini Enterprise).\n- Translate Business Needs to AI Logic: Act as the bridge\n  between non-technical stakeholders and AI capabilities.\n  You will dissect requests from departments like Finance or\n  Legal, understand the \"why,\" and re-engineer their\n  processes to be compatible with how LLMs and agents\n  actually work.\n- Systems Integration & Orchestration: Figure out how to make\n  the AI \"talk\" to our business stack. You will handle the\n  trial-and-error work of integrating agents with\n  Salesforce, NetSuite, Workday, Marketo, Vena, and other\n  enterprise platforms via APIs and webhooks.\n- Data Strategy for Agents: Determine how to extract, clean,\n  and contextually feed data from siloed systems into AI\n  models to ensure accurate, hallucination-free outputs.\n- Influence Internal AI Strategy: Move beyond simple\n  \"chatbots\" by identifying high-value use cases for multi-\n  step agentic automation that stakeholders haven't even\n  thought of yet.\n- Governance & Maintenance: Own the lifecycle of internal\n  agents, ensuring they remain secure, cost-effective, and\n  functional as underlying APIs and business rules evolve.\n\nRequirements:\n\n- Proven experience building AI Agents: Hands-on experience\n  with orchestration tools (N8N, LangChain, Flowise, or\n  similar) and direct usage of LLM APIs (Gemini, OpenAI,\n  Anthropic).\n- Strong Scripting/Technical Skills: While this is a low-code\n  friendly role, you must be proficient in Python or\n  JavaScript to write custom logic, handle complex API\n  authentication, and transform data payloads.\n- Business Systems Fluency: Demonstrated ability to quickly\n  learn the data structures and logic of complex enterprise\n  SaaS platforms (CRM, ERP, HRIS). You don’t need to be an\n  expert in NetSuite today, but you must know how to read\n  API documentation and figure it out fast.\n- Process Engineering Mindset: Experience mapping business\n  workflows and spotting inefficiencies. You need the\n  ability to say \"No\" to automating a bad process, and\n  instead redesign it for an AI-first approach.\n- Resilience in Debugging: A high tolerance for the \"trial and\n  error\" nature of agent development—debugging hallucinating\n  models, fixing broken API connectors, and handling\n  unstructured data.\n- Communication Skills: The ability to explain prompt\n  engineering and context windows to a VP of Sales or a\n  General Counsel in plain English.\n- 3+ years of technical experience: Ideally a mix of software\n  engineering, technical product management, or business\n  systems analysis.\n\nNice to have:\n\n- Experience specifically with Google Cloud Platform, Gemini\n  and N8N workflow automation.\n- Familiarity with enterprise automation platforms\n- Background in cybersecurity or experience working within a\n  security-conscious environment (handling PII/sensitive\n  internal data).\n- Experience with Vector Databases and RAG (Retrieval-\n  Augmented Generation) patterns for searching internal\n  documentation.\n\nThe US base salary range for this full-time position is\navailable below. We offer base + bonus + equity + benefits.\nThe range displayed on each job posting reflects the minimum\nand maximum target for new hire salaries for the position\nacross all US locations. Within the range, individual pay is\ndetermined by work location and additional factors,\nincluding job-related skills, experience, and relevant\neducation or training. Your recruiter can share more about\nthe specific salary range for your preferred location during\nthe hiring process. Please note that the compensation\ndetails listed in US role postings reflect the base salary\nonly, and do not include bonus, equity, or benefits.\n\nRemote - US\n\n$130,000—$160,000 USD\n",
+  "skills_required": [
+    "Anthropic",
+    "Flowise",
+    "Gemini",
+    "LangChain",
+    "N8N",
+    "OpenAI",
+    "RAG",
+    "agents",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain autonomous AI agents using low-code/no-code orchestration platforms and enterprise LLMs",
+    "Translate business requirements from departments into AI-compatible workflows and agentic processes",
+    "Integrate AI agents with enterprise SaaS platforms including Salesforce, NetSuite, Workday, and Marketo via APIs and webhooks",
+    "Develop data strategy for extracting, cleaning, and feeding contextual data to LLMs to ensure accurate outputs",
+    "Identify high-value multi-step agentic automation use cases and influence internal AI strategy",
+    "Own the lifecycle of internal agents including governance, security, cost-effectiveness, and maintenance"
+  ],
+  "use_cases": [
+    "Automating business workflows across Sales, Marketing, Finance, HR, Legal, and Recruiting departments",
+    "Integrating autonomous agents with CRM, ERP, and HRIS systems for process automation",
+    "Building multi-step agentic workflows that fundamentally change how Lookout operates internally",
+    "Implementing RAG patterns for searching and retrieving internal documentation",
+    "Enabling autonomous agents to interact with diverse enterprise SaaS ecosystem"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "Google Cloud Platform",
+    "vector databases",
+    "webhooks"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic",
+    "Flowise",
+    "Gemini",
+    "LangChain",
+    "N8N",
+    "OpenAI",
+    "RAG",
+    "agents",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying\nautonomous AI agents and agentic workflows using LLMs\n(Gemini, OpenAI, Anthropic). The engineer is responsible for\nprompt engineering, RAG implementations, and orchestrating\nmulti-step agent automation - hands-on model work rather\nthan just enabling infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "N8N",
+      "LangChain",
+      "Flowise",
+      "Gemini",
+      "OpenAI",
+      "Anthropic",
+      "prompt engineering",
+      "RAG",
+      "agents"
+    ],
+    "ml": [],
+    "web": [
+      "APIs",
+      "webhooks"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Google Cloud Platform"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

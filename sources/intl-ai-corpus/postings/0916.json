@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-0916",
+  "source": "intl-ai-corpus",
+  "source_ref": "7697101",
+  "source_url": "https://builtin.com/job/ai-solution-developer/7697101",
+  "title": "AI Solution Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Altisource",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "5,001 Employees",
+  "company_stage": "Public",
+  "company_focus": "Integrated services and marketplace for real estate and\nmortgage industries",
+  "industries": [],
+  "description": "Company Description\n\nAltisource Portfolio Solutions S.A. (NASDAQ: ASPS) is an\nintegrated service provider and marketplace for the real\nestate and mortgage industries. Combining operational\nexcellence with a suite of innovative products and\ntechnologies, Altisource helps solve the demands of the\never-changing market. Additional information is available at\naltisource.com.\n\nJob Description\n\nCore Skills\n\n- Strong Python and/or Java development, including API\n  integration and async workflows\n- Practical experience with LLM APIs (Azure OpenAI, Bedrock,\n  Anthropic, etc.)\n- Ability to build conversational workflows, document-\n  processing flows, and agent-style automations\n- Comfortable with vector DBs, RAG patterns, prompt design,\n  and prompt evaluation\n- Basic ML concepts; ability to evaluate outputs, tune\n  prompts, and implement QA feedback loops\n- Experience with CI/CD and cloud services\n\nQualifications\n\nExperience\n\n- 2–5 years engineering experience, at least 1 year hands-on\n  with LLMs\n- Delivered working AI features or automations, ideally in\n  enterprise process environments\n- Experience using model APIs and orchestration frameworks\n  (LangChain, Semantic Kernel, etc.)\n- Hands-on building PDF/file extraction and validation flows\n- Ability to move quickly in iterative sprints, respond to\n  feedback, and debug LLM behavior\n\nAdditional Information\n\nTHE PERKS OF WORKING AT ALTISOURCE\n\nProsperity:\n\n- Competitive base salaries!\n- 401k plans with company matching – we want to empower you to\n  further your career, and prepare for retirement!\n\nGood Health:\n\n- Comprehensive Medical, Dental, and Vision insurance plans\n- Tax-free Flexible Spending Account\n- Life insurance, short-term, and long-term disability\n\n...And Happiness!\n\n- Paid holidays, plus 19 days of accrued PTO for a total of 28\n  paid days off per year!\n- Free snacks, drinks and coffee!\n- Plenty of employee engagement activities including sporting\n  events, happy hours, and other fun team-building\n  activities\n- Opportunities to join our community service initiatives,\n  including Habitat for Humanity\n",
+  "skills_required": [
+    "Anthropic",
+    "Azure OpenAI",
+    "Bedrock",
+    "LLM APIs",
+    "LangChain",
+    "RAG patterns",
+    "Semantic Kernel",
+    "agent-style automations",
+    "conversational workflows",
+    "document processing flows",
+    "prompt design",
+    "prompt evaluation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build conversational workflows and document processing flows using LLM APIs",
+    "Implement agent-style automations and orchestration frameworks like LangChain and Semantic Kernel",
+    "Design, evaluate, and tune prompts with QA feedback loops",
+    "Work with vector databases and implement RAG patterns for AI solutions",
+    "Develop Python and/or Java applications with API integration and async workflows",
+    "Deploy AI features through CI/CD pipelines and cloud services",
+    "Build and validate PDF/file extraction flows",
+    "Debug LLM behavior and iterate quickly in sprints"
+  ],
+  "use_cases": [
+    "Conversational AI workflows for enterprise processes",
+    "Document processing and PDF extraction automation",
+    "Agent-style automations for business operations",
+    "RAG-powered enterprise search and information retrieval",
+    "AI-powered process automation in real estate and mortgage domains"
+  ],
+  "tools_mentioned": [
+    "API integration",
+    "CI/CD",
+    "PDF/file extraction",
+    "async workflows",
+    "cloud services",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic",
+    "Azure OpenAI",
+    "Bedrock",
+    "LLM APIs",
+    "LangChain",
+    "RAG patterns",
+    "Semantic Kernel",
+    "agent-style automations",
+    "conversational workflows",
+    "document processing flows",
+    "prompt design",
+    "prompt evaluation"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role requires hands-on experience building LLM-powered\napplications including conversational workflows, document\nprocessing flows, and agent-style automations. The developer\ndirectly works with LLM APIs, orchestration frameworks\n(LangChain, Semantic Kernel), RAG patterns, and prompt\nengineering/tuning, which qualifies as working directly ON\nAI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Azure OpenAI",
+      "Bedrock",
+      "Anthropic",
+      "conversational workflows",
+      "document processing flows",
+      "agent-style automations",
+      "RAG patterns",
+      "prompt design",
+      "prompt evaluation",
+      "LLM APIs",
+      "LangChain",
+      "Semantic Kernel"
+    ],
+    "ml": [],
+    "web": [
+      "API integration",
+      "async workflows"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "PDF/file extraction"
+    ],
+    "cloud": [
+      "cloud services"
+    ],
+    "ops": [
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "Java"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

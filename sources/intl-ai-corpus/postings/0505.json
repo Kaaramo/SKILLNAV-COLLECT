@@ -1,0 +1,115 @@
+{
+  "job_id": "intl-ai-corpus-0505",
+  "source": "intl-ai-corpus",
+  "source_ref": "8181364",
+  "source_url": "https://builtin.com/job/ai-engineer/8181364",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Braintrust",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-29",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "241 Employees",
+  "company_stage": null,
+  "company_focus": "AI observability platform for evals and production\nmonitoring",
+  "industries": [
+    "Blockchain",
+    "Web3"
+  ],
+  "description": "About the company\n\nBraintrust is the AI observability platform. By connecting\nevals and observability in one workflow, Braintrust gives\nbuilders the visibility to understand how AI behaves in\nproduction and the tools to improve it.\n\nTeams at Notion, Stripe, Zapier, Vercel, and Ramp use\nBraintrust to compare models, test prompts, and catch\nregressions — turning production data into better AI with\nevery release.\n\nAbout the role\n\nWe’re looking for an AI Engineer to work directly with our\nmost strategic customers and help them successfully deploy,\nscale, and extract value from Braintrust in real production\nenvironments.\n\nThis is a deeply technical, customer-facing role at the\nintersection of engineering, product, and go-to-market.\nYou’ll partner closely with customer engineering teams to\ninstrument real AI workflows, establish production\nbaselines, operationalize evaluations, and build the\nfeedback loops that make AI systems reliable at scale.\n\nYou will need strong judgment about how AI systems behave in\nthe real world, how to evaluate them, and how to improve\nthem iteration by iteration.\n\nIf you are excited by the challenge of solving open-ended\nproblems, enjoy shipping quickly, and take full ownership of\ncustomer outcomes, this role offers outsized impact on both\ncustomer success and Braintrust’s product roadmap.\n\nWhat you’ll do\n\n- Partner closely with customer engineering teams to deploy,\n  stabilize, and continuously improve AI applications in\n  production\n- Instrument and trace real-world AI workflows end-to-end,\n  establishing baseline targets for latency, cost, quality,\n  and reliability\n- Turn production data into datasets and evaluations; define\n  scoring rubrics and implement CI quality gates\n- Build prototypes, integrations, and custom workflows that\n  help customers operationalize evaluations and\n  observability as part of their SDLC\n- Deploy and troubleshoot Braintrust in customer environments\n  (cloud or self-hosted), working across application, data,\n  and infrastructure layers\n- Act as the technical lead in customer engagements, running\n  an operating cadence and feeding real-world learnings back\n  into Product and Engineering\n\nWhat you’ll bring\n\n- 3–7+ years of experience as a software engineer or forward-\n  deployed / field engineer\n- Strong backend or full-stack engineering skills (Python\n  strongly preferred; TypeScript a plus)\n- Hands-on experience working with LLMs, APIs, or agentic\n  workflows in production environments\n- Familiarity with cloud infrastructure and deployment\n  patterns (AWS preferred; Docker/Kubernetes a plus)\n- Comfortable working directly with customers and owning\n  technical outcomes end-to-end\n- Strong communication skills and ability to translate between\n  business needs and technical implementation\n- Bias toward action: you enjoy shipping scrappy but\n  production-ready solutions and iterating quickly\n\nNice to Haves\n\n- Experience with AI observability, evaluation frameworks, or\n  ML/LLMOps tooling\n- Prior experience in a startup, founding team, or 0→1 product\n  environment\n- Experience supporting enterprise or self-hosted deployments\n- Willingness to travel occasionally for on-site customer\n  engagements\n\nBenefits include\n\n- Medical, dental, and vision insurance\n- Daily lunch, snacks, and beverages\n- Flexible time off\n- Competitive salary and equity\n- AI Stipend\n\nEqual opportunity\n\nBraintrust is an equal opportunity employer. All applicants\nwill be considered for employment without attention to race,\ncolor, religion, sex, sexual orientation, gender identity,\nnational origin, veteran or disability status.\n",
+  "skills_required": [
+    "LLMs",
+    "agentic workflows",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Partner closely with customer engineering teams to deploy, stabilize, and continuously improve AI applications in production",
+    "Instrument and trace real-world AI workflows end-to-end, establishing baseline targets for latency, cost, quality, and reliability",
+    "Turn production data into datasets and evaluations; define scoring rubrics and implement CI quality gates",
+    "Build prototypes, integrations, and custom workflows that help customers operationalize evaluations and observability as part of their SDLC",
+    "Deploy and troubleshoot Braintrust in customer environments (cloud or self-hosted), working across application, data, and infrastructure layers",
+    "Act as the technical lead in customer engagements, running an operating cadence and feeding real-world learnings back into Product and Engineering"
+  ],
+  "use_cases": [
+    "AI observability and monitoring in production environments",
+    "Model comparison and prompt testing for AI applications",
+    "Regression detection and quality evaluation for LLM systems",
+    "End-to-end AI workflow instrumentation and tracing",
+    "Operationalizing AI evaluations as part of software development lifecycle",
+    "Production data analysis for continuous AI system improvement"
+  ],
+  "tools_mentioned": [
+    "AI observability",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "ML/LLMOps",
+    "REST APIs",
+    "evaluation frameworks"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "agentic workflows",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a forward deployed engineering role working directly\non AI systems with customers. The role involves deploying\nand improving AI applications, instrumenting AI workflows,\nworking with LLMs and agentic workflows in production, and\nimplementing evaluations and CI quality gates - all hands-on\nwork with models and AI systems.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "agentic workflows",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "AI observability",
+      "evaluation frameworks",
+      "ML/LLMOps",
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

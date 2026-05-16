@@ -1,0 +1,191 @@
+{
+  "job_id": "intl-ai-corpus-2160",
+  "source": "intl-ai-corpus",
+  "source_ref": "8785522",
+  "source_url": "https://builtin.com/job/gen-ai-engineer/8785522",
+  "title": "Gen AI Engineer",
+  "title_normalized": "GENAI_LLM_ENGINEER",
+  "company": "Dentsu Creative",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "6,507 Employees",
+  "company_stage": null,
+  "company_focus": "Creative marketing and advertising agency leveraging AI\nsolutions",
+  "industries": [
+    "AdTech",
+    "Marketing Tech",
+    "Software"
+  ],
+  "description": "We are seeking a Generative AI/ML Engineer to design, build,\nand deploy intelligent AI solutions leveraging Large\nLanguage Models (LLMs), Retrieval-Augmented Generation\n(RAG), agentic workflows, and edge computing. You will work\nhands-on with cloud-native AI services, LLMOps pipelines,\nand enterprise-grade deployment patterns to solve business\nproblems.\n\nJob Description:\n\nKey Responsibilities\n\n- Design, develop, and fine-tune LLM-powered applications for\n  enterprise use cases.\n\n- Experience in evaluating LLM applications and developing\n  observability frameworks\n\n- Implement RAG pipelines using vector databases, embeddings,\n  and optimized retrieval strategies.\n\n- Build agentic AI workflows with multi-step reasoning, tool\n  calling, and integration with APIs.\n\n- Integrate GenAI solutions into multi-cloud or hybrid cloud\n  environments (AWS, Azure, GCP).\n\n- Develop and optimize edge AI deployments for low-latency use\n  cases.\n\n- Create data strategy, ingestion, transformation, enrichment,\n  validations, quality checks via pipelines for AI\n  ingestion, preprocessing, and governance.\n\n- Implement AI safety, bias mitigation, and compliance\n  measures.\n\n- Work closely with LLMOps teams to enable continuous\n  integration & deployment of AI models.\n\n- Write well-documented, production-ready code in Python,\n  Node.js, Rust .\n\n- Benchmark and evaluate model performance, latency, and cost-\n  efficiency.\n\nRequired Skills\n\n- Proficient in cloud AI services (e.g. AWS Bedrock/SageMaker,\n  Azure AI Foundry, Google Vertex AI, Anthropic, OpenAI\n  APIs).\n\n- Strong proficiency with Python and LLM frameworks (e.g.\n  PromptFlow, LangGraph, LlamaIndex, HuggingFace, PyTorch,\n  TensorFlow).\n\n- Hands-on experience with vector DBs (e.g. Pinecone,\n  Weaviate, Milvus, FAISS, Azure Cognitive Search).\n\n- Experience building RAG-based and agentic AI solutions.\n\n- Familiarity with Edge AI frameworks (e.g. NVIDIA Jetson, AWS\n  IoT Greengrass, Azure Percept).\n\n- Multi-modal AI (text, image, speech, video) experience.\n\n- Strong grasp of APIs, microservices, and event-driven\n  architectures.\n\n- Knowledge of AI governance (data privacy, model\n  explainability, security).\n\n- Experience in containerized deployments (Docker, Kubernetes,\n  serverless AI functions).\n\nPreferred Skills\n\n- Generative agents with memory and planning capabilities.\n\n- Real-time AI streaming with WebSockets or Kafka.\n\n- Prior contributions to open-source GenAI projects.\n\n- Experience in build, test and deploy various ML models\n\n- Experience in building MCP, A2A protocol\n\nLocation:\n\nPune\n\nBrand:\n\nMerkle\n\nTime Type:\n\nFull time\n\nContract Type:\n\nPermanent\n",
+  "skills_required": [
+    "A2A protocol",
+    "Agentic workflows",
+    "Anthropic APIs",
+    "Generative agents",
+    "HuggingFace",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP",
+    "Multi-modal AI",
+    "OpenAI APIs",
+    "Prompt engineering",
+    "PromptFlow",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and fine-tune LLM-powered applications for enterprise use cases",
+    "Evaluate LLM applications and develop observability frameworks",
+    "Implement RAG pipelines using vector databases, embeddings, and optimized retrieval strategies",
+    "Build agentic AI workflows with multi-step reasoning, tool calling, and API integration",
+    "Integrate GenAI solutions into multi-cloud or hybrid cloud environments (AWS, Azure, GCP)",
+    "Develop and optimize edge AI deployments for low-latency use cases",
+    "Create data pipelines for AI ingestion, preprocessing, and governance",
+    "Implement AI safety, bias mitigation, and compliance measures",
+    "Benchmark and evaluate model performance, latency, and cost-efficiency"
+  ],
+  "use_cases": [
+    "Enterprise LLM-powered applications",
+    "RAG-based intelligent search and retrieval systems",
+    "Multi-step agentic AI workflows with reasoning capabilities",
+    "Edge AI deployments for low-latency scenarios",
+    "Multi-modal AI processing (text, image, speech, video)"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "AWS IoT Greengrass",
+    "AWS SageMaker",
+    "Azure AI Foundry",
+    "Azure Cognitive Search",
+    "Azure Percept",
+    "Data pipelines",
+    "Docker",
+    "Event-driven architectures",
+    "FAISS",
+    "Google Vertex AI",
+    "Kafka",
+    "Kubernetes",
+    "LLMOps",
+    "Microservices",
+    "Milvus",
+    "NVIDIA Jetson",
+    "Pinecone",
+    "REST APIs",
+    "Vector databases",
+    "Weaviate",
+    "WebSockets"
+  ],
+  "frameworks_mentioned": [
+    "A2A protocol",
+    "Agentic workflows",
+    "Anthropic APIs",
+    "Generative agents",
+    "HuggingFace",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP",
+    "Multi-modal AI",
+    "OpenAI APIs",
+    "Prompt engineering",
+    "PromptFlow",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "GENAI_LLM_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building, deploying, and\nfine-tuning LLM-powered applications, RAG pipelines, and\nagentic AI workflows. The position requires hands-on work\nwith models and AI systems, not just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LlamaIndex",
+      "PromptFlow",
+      "OpenAI APIs",
+      "Anthropic APIs",
+      "RAG",
+      "Agentic workflows",
+      "Prompt engineering",
+      "MCP",
+      "A2A protocol",
+      "Generative agents"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "HuggingFace",
+      "Multi-modal AI"
+    ],
+    "web": [
+      "REST APIs",
+      "Microservices",
+      "WebSockets",
+      "Event-driven architectures"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "FAISS",
+      "Azure Cognitive Search",
+      "Vector databases"
+    ],
+    "data": [
+      "Kafka",
+      "Data pipelines"
+    ],
+    "cloud": [
+      "AWS Bedrock",
+      "AWS SageMaker",
+      "Azure AI Foundry",
+      "Google Vertex AI",
+      "AWS IoT Greengrass",
+      "Azure Percept"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "LLMOps",
+      "NVIDIA Jetson"
+    ],
+    "languages": [
+      "Python",
+      "Node.js",
+      "Rust"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

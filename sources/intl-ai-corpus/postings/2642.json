@@ -1,0 +1,167 @@
+{
+  "job_id": "intl-ai-corpus-2642",
+  "source": "intl-ai-corpus",
+  "source_ref": "8943799",
+  "source_url": "https://builtin.com/job/research-engineer-agentic-behavior-kotlin-ai-value-stream/8943799",
+  "title": "Research Engineer (Agentic Behavior – Kotlin AI Value Stream)",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "JetBrains",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "on-site",
+  "posted_date": "2026-04-02",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,209 Employees",
+  "company_stage": "Public",
+  "company_focus": "Developer tools and IDEs with AI-powered coding agents",
+  "industries": [],
+  "description": "At JetBrains, code is our passion. Ever since we started,\nback in 2000, we've been striving to make the strongest,\nmost effective developer tools on earth. Today, AI-powered\ncoding agents are becoming a core part of how developers\nwrite Kotlin – and we want to make sure they write it well.\n\nThe Kotlin AI Value Stream team is responsible for how AI\nagents understand, generate, and improve Kotlin code across\nall platforms: Android, Kotlin Multiplatform, server-side,\nweb, desktop, and others. We build the evaluation\ninfrastructure, error analysis tools, and post-training\npipelines that measure and improve agent behavior on real\nKotlin developer tasks.\n\nAs a Research Engineer on this team, you'll own the end-to-\nend loop: Analyze how agents fail on Kotlin → build evals\nthat capture those failures → research and implement methods\nto fix them → measure the improvement. Your work will\ndirectly shape how millions of developers experience Kotlin\nthrough AI coding agents.\n\nAs part of our team, you will:\n\nBuild tools for agentic error analysis\n\n- Design and implement tooling to systematically capture,\n  classify, and analyse errors that AI coding agents make\n  when generating Kotlin code.\n- Build observability pipelines over agentic traces – mining\n  patterns from agent sessions in JetBrains IDEs, Junie,\n  Claude Code, Cursor, and other coding agents.\n\nBuild evaluation pipelines\n\n- Design, implement, and maintain evaluation pipelines that\n  measure Kotlin code generation quality across dimensions,\n  including correctness, idiomaticity, build success,\n  framework usage, and test coverage.\n- Build simulation environments where coding agents can be\n  measured on realistic Kotlin developer tasks – from\n  greenfield KMP projects and Gradle dependency management\n  to migrating Spring applications from Java to Kotlin.\n- Own evaluation infrastructure: metrics, experiment tracking,\n  automated regression checks, and reproducible\n  benchmarking.\n\nResearch methods for improving agent and model behavior on\nKotlin\n\n- Experiment with post-training techniques (SFT, DPO, GRPO) to\n  improve how models handle Kotlin-specific patterns,\n  idioms, and frameworks.\n- Investigate context engineering approaches:\n  CLAUDE.md/AGENTS.md files, compiler-as-verifier feedback\n  loops, Kotlin LSP integration, and MCP-based tooling.\n- Run experiments to measure impact: A/B comparisons,\n  benchmark suites, and before/after analyses on real\n  codebases.\n- Collaborate with model providers (Anthropic, OpenAI, and\n  Google) to translate Kotlin-specific findings into model\n  improvements.\n\nBuild public Kotlin benchmarks\n\n- Design and build open-source benchmarks that measure AI\n  coding agent performance on Kotlin tasks and eventually\n  become the standard reference for the ecosystem.\n- Create task datasets covering the breadth of Kotlin usage:\n  the server side (Spring, Ktor), multiplatform projects\n  (KMP), build systems (Gradle), Android, library\n  development, and others.\n- Include both mined real-world tasks and carefully designed\n  synthetic tasks that test specific Kotlin capabilities.\n- Maintain and evolve benchmarks as models improve, ensuring\n  they remain challenging, relevant, and contamination-\n  resistant.\n\nWe'll be happy to have you on board if you have:\n\n- Hands-on experience building evaluation or analysis\n  pipelines for LLMs or AI coding agents in a research or\n  production setting.\n- Strong Python engineering skills (at least three years),\n  with the ability to write clean, maintainable code in\n  data-heavy and ML-adjacent codebases.\n- Experience with data analysis at scale: querying large\n  datasets (SQL/Athena), building data pipelines, and\n  performing statistical analysis of experimental results.\n- The ability to own projects end to end – from identifying a\n  problem in agent traces to designing an eval, running\n  experiments, and shipping a fix.\n- A product-aware mindset: You care about how agents are\n  actually used by developers and can translate real failure\n  modes into evaluation and training work.\n- Familiarity with Kotlin or a strong willingness to develop\n  deep Kotlin expertise (you'll be living in Kotlin\n  codebases daily).\n\nOur ideal candidate would also have experience with:\n\n- Post-training LLMs: SFT, RLHF, DPO, GRPO – either hands-on\n  training or designing the data and reward pipelines that\n  feed into training.\n- Modern deep learning frameworks (PyTorch) and LLM training\n  stacks (TRL, verl, Megatron, or similar).\n- AI agent development: tool-using agents, multi-step coding\n  workflows, agentic frameworks.\n- Evaluation frameworks and tools: Inspect AI, Promptfoo, LM-\n  evaluation-harness, or custom eval pipelines.\n- Experiment tracking and observability: Weights & Biases,\n  MLflow, Langfuse, or similar.\n- The Kotlin ecosystem: Android, Gradle, KMP, Spring, Ktor –\n  with an understanding of the developer workflows that\n  agents need to support.\n- Contributing to or maintaining open-source projects,\n  especially benchmarks or evaluation tools.\n\nDon't check every box? That's okay – if you're excited about\nthis work and bring strong fundamentals, we'd love to hear\nfrom you. We're happy to talk and provide the training you\nneed to grow into the role.\n\nWhy join JetBrains?\n\n- Strong base salary. We offer competitive pay that reflects\n  your skills and experience.\n- Flexible work location. Enjoy the freedom to work from home\n  or from the office.\n- Remote work. Spend up to 30 days per year working remotely\n  from abroad.\n- Extra time off. More days to relax, recharge, and do the\n  things you love.\n- Medical insurance allowance. Enjoy peace of mind for you and\n  your family\n- Learning and development opportunities. Access to\n  conferences, courses, and language classes.\n- Relocation support. We help make your move as smooth and\n  stress-free as possible.\n- Language classes. Pick up the local language or sharpen your\n  English skills.\n- Fuel your day. Enjoy a hot meal or receive a lunch allowance\n  on workdays.\n- Mental health support. To help you feel your best, we\n  provide easy access to professional mental health\n  services.\n- Sports benefit. Enjoy an on-site gym or sports club stipend.\n- Internal events. Join company-wide celebrations and team\n  gatherings.\n\n*Some benefits may vary depending on location.\n\n#LI-DNI\n\nWe are an equal opportunity employer We know great ideas can\ncome from anyone, anywhere. That’s why we do our best to\ncreate an open and inclusive workplace – one that welcomes\neveryone regardless of their background, identity, religion,\nage, accessibility needs, or orientation.\n\nWe process the data provided in your job application in\naccordance with the Recruitment Privacy Policy.\n",
+  "skills_required": [
+    "Android",
+    "DPO",
+    "GRPO",
+    "Gradle",
+    "KMP",
+    "Ktor",
+    "LLM evaluation pipelines",
+    "MCP",
+    "Megatron",
+    "PyTorch",
+    "RAG",
+    "RLHF",
+    "SFT",
+    "Spring",
+    "TRL",
+    "agentic frameworks",
+    "prompt engineering",
+    "verl"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build tooling to systematically capture, classify, and analyze errors that AI coding agents make when generating Kotlin code",
+    "Build observability pipelines over agentic traces to mine patterns from agent sessions across various coding agents",
+    "Design and maintain evaluation pipelines measuring Kotlin code generation quality across correctness, idiomaticity, build success, and test coverage",
+    "Build simulation environments where coding agents can be measured on realistic Kotlin developer tasks",
+    "Experiment with post-training techniques (SFT, DPO, GRPO) to improve model handling of Kotlin-specific patterns and idioms",
+    "Investigate context engineering approaches including compiler-as-verifier feedback loops and MCP-based tooling",
+    "Design and build open-source benchmarks that measure AI coding agent performance on Kotlin tasks",
+    "Collaborate with model providers to translate Kotlin-specific findings into model improvements"
+  ],
+  "use_cases": [
+    "AI coding agent evaluation and improvement for Kotlin code generation",
+    "Automated error analysis and pattern mining from agentic coding traces",
+    "Post-training model improvement for Kotlin-specific patterns and idioms",
+    "Open-source benchmarking of AI coding agents on Kotlin tasks across Android, KMP, server-side, and build systems",
+    "Simulation environments for realistic Kotlin developer task evaluation"
+  ],
+  "tools_mentioned": [
+    "Athena",
+    "Inspect AI",
+    "LM-evaluation-harness",
+    "Langfuse",
+    "MLflow",
+    "Promptfoo",
+    "Weights & Biases",
+    "data pipelines",
+    "experiment tracking",
+    "statistical analysis"
+  ],
+  "frameworks_mentioned": [
+    "DPO",
+    "GRPO",
+    "LLM evaluation pipelines",
+    "MCP",
+    "Megatron",
+    "PyTorch",
+    "RAG",
+    "RLHF",
+    "SFT",
+    "TRL",
+    "agentic frameworks",
+    "prompt engineering",
+    "verl"
+  ],
+  "languages_programming": [
+    "Kotlin",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly working on improving AI coding\nagent behavior for Kotlin, including building evaluation\npipelines, experimenting with post-training techniques (SFT,\nDPO, GRPO), and implementing methods to fix agent failures.\nThe engineer owns the end-to-end loop of analyzing,\nevaluating, and improving model/agent behavior on Kotlin\ntasks.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "prompt engineering",
+      "MCP",
+      "agentic frameworks",
+      "LLM evaluation pipelines"
+    ],
+    "ml": [
+      "PyTorch",
+      "SFT",
+      "DPO",
+      "GRPO",
+      "RLHF",
+      "TRL",
+      "Megatron",
+      "verl"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "data pipelines",
+      "statistical analysis",
+      "Athena"
+    ],
+    "cloud": [],
+    "ops": [
+      "Inspect AI",
+      "Promptfoo",
+      "Weights & Biases",
+      "MLflow",
+      "Langfuse",
+      "experiment tracking",
+      "LM-evaluation-harness"
+    ],
+    "languages": [
+      "Python",
+      "Kotlin",
+      "SQL"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": [
+      "Spring",
+      "Ktor",
+      "KMP",
+      "Gradle",
+      "Android"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

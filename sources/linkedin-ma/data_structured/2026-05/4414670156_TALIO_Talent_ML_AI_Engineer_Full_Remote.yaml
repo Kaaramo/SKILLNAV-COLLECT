@@ -1,0 +1,44 @@
+company:
+  name: TALIO Talent
+  stage: null
+  focus: null
+position:
+  title: ML / AI Engineer | Full Remote
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases:
+  - Computer vision
+  skills:
+    genai:
+    - agents
+    - function calling
+    - llm
+    - llms
+    - rag
+    ml:
+    - ml
+    - tensorflow
+    web:
+    - fastapi
+    databases: []
+    data: []
+    cloud:
+    - sagemaker
+    ops:
+    - mlflow
+    - weights & biases
+    languages:
+    - python
+    domains:
+    - computer vision
+    - fintech
+    other:
+    - MLOps
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4414670156'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

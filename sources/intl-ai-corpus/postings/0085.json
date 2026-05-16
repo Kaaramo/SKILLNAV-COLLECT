@@ -1,0 +1,110 @@
+{
+  "job_id": "intl-ai-corpus-0085",
+  "source": "intl-ai-corpus",
+  "source_ref": "6949838",
+  "source_url": "https://builtin.com/job/staff-full-stack-engineer-ai-team/6949838",
+  "title": "Senior/Staff Full Stack Engineer - AI Team",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BrightHire",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-24",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "16 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Interview intelligence and hiring experience platform",
+  "industries": [],
+  "description": "BrightHire is a category-creating, high-growth, Series B\nsoftware company with a mission to give everyone the hiring\nexperience they deserve.\n\nWe deliver on this mission by transforming the way many of\nthe world’s leading companies build exceptional teams. We\ncreated the Interview Intelligence category, and our clients\ninclude some of the world’s most innovative companies—Canva,\nOpenAI, Ramp, Hubspot—up to the Fortune 500.\n\nLocation\n\nRemote\n\nAbout the Role\n\nYou will own the end-to-end delivery of many of our biggest\nAI features. Working in lockstep with Product and Design,\nyou’ll move quickly to design, build, and refine features\nthroughout the entire stack from prompt engineering and\nevals through the backend, all the way to frontend\ninteractions. You’ll focus on the output quality of your AI\nfeatures and make sure users get accurate, on-brand AI\noutputs fast. You’ll work on real features people use every\nday—things like:\n\n- Automatic interview coaching that provides tailored feedback\n  and guidance based on an interviewer's recent interviews,\n  with customizable content.\n- An AI Candidate skills matrix that displays structured\n  summaries mapped to key skills aligned with the job\n  description.\n- An AI assistant that allows users to instantly query any\n  detail about a candidate or interview using natural\n  language.\n- Customizable interview summaries that enable customers to\n  create fully personalized AI-generated summaries using\n  their own structure and criteria.\n- …and more\n\nWhat You’ll Bring\n\n- You have real world experience building generative AI\n  applications end to end, building prompt chains, eval\n  harnesses, vector search, and more.\n- You know how to make LLMs useful in a product. You\n  understand what they are good at and bad at, and you are\n  able to harness their strengths.\n- You have plenty of experience building across the stack in\n  Python and Javascript/Typescript, especially building out\n  the backend logic, data models, and architecture.\n- You think deeply about how AI features work for end users\n  and can make decisions with user empathy.\n- You’ve worked with both structured (SQL) and unstructured\n  data (raw text) and know how to transform them and utilize\n  them together.\n- You care about personality, tone, accuracy, safety, and\n  speed as integral to the AI features you build.\n- You have product instincts and work well with design.\n- You move fast and independently, but you know when to pair\n  and when to pull others in.\n\nAbout our team\n\n- You’ll have the opportunity to work on high-impact projects\n  in small, autonomous squads, with the flexibility to lead\n  initiatives or focus as an individual contributor\n  depending on your goals and interests.\n- Our developer experience is thoughtfully designed, with fast\n  CI (< 10 minutes), 1-click deploys, strong observability,\n  and a clean codebase that enables you to move quickly and\n  confidently.\n- Our culture supports sustainable, focused work with fully\n  remote roles, regular working hours, no-meeting\n  Wednesdays, and flexible time off to recharge when needed.\n- Our team is composed of smart, collaborative, and genuinely\n  kind people, creating an environment where you can learn,\n  grow, and do your best work.\n\nEqual Employment Opportunity (EEO) Statement\n\nOur company does not discriminate in employment on the basis\nof race, color, religion, sex (including pregnancy and\ngender identity), national origin, political affiliation,\nsexual orientation, marital status, disability, genetic\ninformation, age, membership in an employee organization,\nretaliation, parental status, military service, or other\nnon-merit factor.\n\n*Note to Recruiters and Placement Agencies: We do not accept\nunsolicited agency resumes. Please do not forward\nunsolicited agency resumes to our website. We will not pay\nfees to any third party agency or firm and will not be\nresponsible for any agency fees associated with unsolicited\nresumes. Unsolicited resumes received will be considered our\nproperty.\n",
+  "skills_required": [
+    "LLMs",
+    "generative AI applications",
+    "prompt chains",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own end-to-end delivery of major AI features from prompt engineering through backend to frontend interactions",
+    "Design, build, and refine AI features focusing on output quality, accuracy, and speed",
+    "Build generative AI applications with prompt chains, eval harnesses, and vector search",
+    "Develop automatic interview coaching with tailored feedback and guidance",
+    "Create AI candidate skills matrix displaying structured summaries mapped to job requirements",
+    "Build AI assistant for natural language queries about candidates and interviews",
+    "Implement customizable AI-generated interview summaries with user-defined structure and criteria"
+  ],
+  "use_cases": [
+    "Automatic interview coaching providing tailored feedback based on interviewer's recent interviews",
+    "AI candidate skills matrix that structures and summarizes candidate information aligned to job descriptions",
+    "Natural language AI assistant for querying any detail about candidates or interviews",
+    "Customizable AI-generated interview summaries with personalized structure and criteria",
+    "Structured data transformation combining SQL and unstructured text data for AI processing"
+  ],
+  "tools_mentioned": [
+    "REST",
+    "SQL",
+    "eval harnesses",
+    "vector search"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "generative AI applications",
+    "prompt chains",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires direct hands-on work with LLMs including\nprompt engineering, prompt chains, vector search, and\nbuilding eval harnesses. The engineer will own end-to-end\ndelivery of generative AI features, focusing on AI output\nquality and accuracy.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "prompt chains",
+      "LLMs",
+      "generative AI applications"
+    ],
+    "ml": [],
+    "web": [
+      "REST"
+    ],
+    "databases": [
+      "vector search",
+      "SQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "eval harnesses"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

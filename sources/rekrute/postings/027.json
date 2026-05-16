@@ -1,0 +1,42 @@
+{
+  "job_id": "rekrute-2023-027",
+  "source": "rekrute",
+  "source_url": "https://www.rekrute.com/offre-emploi-data-analyst-hf-recrutement-bricoma-casablanca-153903.html",
+  "source_ref": "153903",
+  "title": "Data Analyst Hf",
+  "title_normalized": "DATA_ANALYST",
+  "company": "Bricoma",
+  "company_type": "entité morale privée",
+  "location": "Casablanca",
+  "country": "MA",
+  "remote_policy": "on-site",
+  "posted_date": "2023-09-04",
+  "deadline_date": "04/11/2023",
+  "contract_type": "CDI",
+  "experience_min_years": 1,
+  "experience_max_years": 3,
+  "salary_range": null,
+  "description": "Au sein de l’équipe DSI, le Data Analyst est amené à : • Exploiter et valoriser les données recueillies • Préparer et Traiter les différentes données, venant de multiples sources, afin de dégager des indicateurs et tableaux de bord utiles et apportant de la valeur aux décideurs • Être garant de la qualité et de la cohérence des données • Utiliser les outils de traitement pour transformer les données brutes en données utiles • Extraire et traiter les données structurées et/ou non structurées d'une base pour les déposer dans un système de gestion des données. • Charger les données à partir d’un système opérationnel dans le DWH SQL SERVER via SSIS • Créer de cubes OLAP • Restituer les données via SSRS & POWER BI • Effectuer des tests et recettes utilisateurs • Analyser et relancer les jobs en erreur et optimisation des temps de réponse.",
+  "skills_required": [
+    "SQL",
+    "Power BI"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [
+    "Power BI"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "SQL"
+  ],
+  "domains_iaml": [],
+  "job_family": "DATA_ANALYST",
+  "education_required": "Bac +5",
+  "scraped_at": "2026-05-14T21:00:00Z",
+  "scraper": "skillnav-curl-batch-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.85,
+  "extraction_method": "google_search_url + curl_html + python_regex_extraction"
+}

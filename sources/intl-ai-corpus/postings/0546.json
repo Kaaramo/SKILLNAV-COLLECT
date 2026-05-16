@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-0546",
+  "source": "intl-ai-corpus",
+  "source_ref": "8235395",
+  "source_url": "https://builtin.com/job/staff-ai-software-engineer/8235395",
+  "title": "Staff AI Software Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Conversica",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-17",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "219 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered customer engagement solutions",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software",
+    "Conversational AI"
+  ],
+  "description": "Conversica is seeking a Staff AI Software Engineer to\ndesign, build, and scale production-grade AI systems that\ndeliver direct customer and business value. This senior\nindividual contributor role emphasizes pragmatic, product-\nfocused, customer-driven thinking, with a focus on\ntranslating real-world problems into reliable, maintainable,\nand scalable AI-driven solutions.\n\nThis role operates with a high degree of autonomy and\ntechnical influence, shaping AI and systems architecture,\nengineering standards, and best practices across the\norganization.\n\nKey Responsibilities\n\n- Design, implement, and ship AI-driven features and systems\n  into production environments\n- Own technical decision-making for AI architecture, data\n  modeling, and system integration\n- Partner closely with Product, Engineering, and other\n  stakeholders to translate business needs into scalable\n  technical solutions\n- Identify and address reliability, scalability, performance,\n  and observability challenges in AI systems\n- Establish and evolve best practices for applied AI\n  engineering, including agent evaluation, interpretability,\n  and reliability, data layer design, monitoring,\n  explainability, and continuous improvement\n- Mentor and guide other engineers, raising the bar on AI\n  engineering quality and decision-making\n- Contribute to technical strategy and roadmap discussions\n  related to AI capabilities and overall platform evolution\n\nWhat You’ll Build\n\n- Agentic system design: orchestration, tool use,\n  state/memory, multi-step workflows\n- Evals + quality: harnesses, regression tests for\n  prompts/agents, online/offline metrics, iteration loops\n- Guardrails: hallucination mitigation, grounding, HITL\n  review, safe degradation paths\n- Production operations: cost/latency tradeoffs, caching,\n  rate-limits, fallbacks, observability, incident response\n- Retrieval + data foundations: RAG choices, indexing,\n  freshness, data quality constraints, data layer design\n\nQualification & Experience\n\n- Equivalent of 8+ years of professional software engineering\n  experience, with significant focus on applied AI.\n- Proven experience deploying LLM-powered systems/applications\n  in production environments\n- Strong proficiency in Python, and experience building\n  production LLM applications (agents/tool use, retrieval,\n  evals, monitoring)\n- Experience working with large datasets and navigating real-\n  world data quality challenges\n- Strong system design, problem-solving, and architectural\n  decision-making skills\n- Experience designing agent architectures, tool interfaces,\n  and orchestration patterns\n- Desire to continually follow and experiment with cutting\n  edge AI technologies and tooling for use across all phases\n  of the software development lifecycle (i.e. during design,\n  analysis, coding, deployment, QA, etc.)\n- Strong background in modern cloud-based architectures.\n\nPreferred / Nice-to-Have Experience\n\n- Experience applying AI solutions in a B2B SaaS environment\n- Experience interacting with data from Marketing Automation\n  Platforms (MAPs), Customer Resource Management Systems\n  (CRMs), and Customer Data Platforms (CDPs)\n- Experience deploying AWS infrastructure, and production use\n  of Terraform, EKS, Postgres, MySQL, Datadog, and GitLab\n\nWhat We Value\n\n- We care about what you’ve built, not where you learned it.\n  If you’ve shipped strong software, led technical decisions\n  under ambiguity, contributed to open source, written\n  thoughtful technical work, or built impressive projects\n  with modern LLM tooling - put that front and center. Show\n  us what you've built, what problems you've wrestled with,\n  and how you reason about tradeoffs in systems that combine\n  LLMs with real-world constraints.\n\nConversica is a remote-first company building AI-powered\nsolutions that help businesses engage customers more\neffectively. You’ll work alongside thoughtful product and\nengineering partners, influence the direction of applied AI\nacross the platform, and help turn emerging AI capabilities\ninto durable, customer-ready systems.\n\nThis is a full-time, exempt position. Our compensation\nreflects the cost of labor across several U.S. geographic\nmarkets and is based on role scope, experience, and job-\nrelated skills. Conversica offers comprehensive health,\ndental, and vision benefits, PTO, holiday pay, 401(k), and\nequity.\n",
+  "skills_required": [
+    "LLM application development",
+    "RAG",
+    "agent orchestration",
+    "agents",
+    "prompt engineering",
+    "tool use"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and ship AI-driven features and systems into production environments",
+    "Own technical decision-making for AI architecture, data modeling, and system integration",
+    "Partner closely with Product, Engineering, and other stakeholders to translate business needs into scalable technical solutions",
+    "Identify and address reliability, scalability, performance, and observability challenges in AI systems",
+    "Establish and evolve best practices for applied AI engineering, including agent evaluation, interpretability, and reliability",
+    "Mentor and guide other engineers, raising the bar on AI engineering quality and decision-making",
+    "Contribute to technical strategy and roadmap discussions related to AI capabilities and overall platform evolution"
+  ],
+  "use_cases": [
+    "Agentic system design with orchestration, tool use, state/memory, and multi-step workflows",
+    "LLM-powered applications for customer engagement and business communication",
+    "Quality evaluation systems with harnesses, regression tests for prompts/agents, and online/offline metrics",
+    "Guardrails for hallucination mitigation, grounding, HITL review, and safe degradation paths",
+    "Retrieval-augmented generation (RAG) with indexing, freshness, and data layer design"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Datadog",
+    "Docker",
+    "EKS",
+    "GitLab",
+    "Kubernetes",
+    "MySQL",
+    "Postgres",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "LLM application development",
+    "RAG",
+    "agent orchestration",
+    "agents",
+    "prompt engineering",
+    "tool use"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building AI systems\ndirectly - designing and implementing agentic systems, LLM-\npowered applications with tool use and retrieval, and\nproduction AI infrastructure. The engineer will own AI\narchitecture decisions, deploy LLM applications to\nproduction, and work on agent evaluation, orchestration\npatterns, and guardrails. This is clearly working ON AI\nsystems, not just supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "agents",
+      "prompt engineering",
+      "tool use",
+      "LLM application development",
+      "agent orchestration"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Postgres",
+      "MySQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform",
+      "Kubernetes",
+      "EKS",
+      "Docker",
+      "Datadog",
+      "GitLab"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-0294",
+  "source": "intl-ai-corpus",
+  "source_ref": "7664544",
+  "source_url": "https://builtin.com/job/senior-software-engineer-studio-java-ai/7664544",
+  "title": "Senior Software Engineer - Studio - Java, AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Clear Street",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "581 Employees",
+  "company_stage": null,
+  "company_focus": "Cloud-native unified capital markets trading platform",
+  "industries": [
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "About Clear Street:\n\nClear Street’s mission is to give every sophisticated\ninvestor access to every asset, in every market, through a\nunified platform built for speed, transparency and scale.\n\nWe give our clients the technology, tools, and service once\nreserved for the largest institutions, rebuilt with modern\ninfrastructure. Our single, cloud-native, end-to-end capital\nmarkets platform powers investor growth today and is\ntransforming how they can interact with markets tomorrow.\n\nFor more information, visit https://clearstreet.io.\n\nThe Role:\n\nAs a Senior Software Engineer, you’ll build the backend that\npowers AI features in our trading platform (Clear Street\nStudio). You’ll own the AI service layer: retrieval,\norchestration, guardrails, and evaluation. We’re looking for\npeople who take ownership, learn quickly, and deliver\nwithout heavy oversight in a fast-moving environment.\n\nWhat You’ll Do:\n\n- Design, implement, and productionize reliable AI workflows\n  to augment the Studio trading platform.\n- Build tooling to monitor, tune, and evaluate models and\n  workflows, as well as applicable guardrails to ensure\n  outputs meet quality and regulatory requirements.\n- Collaborate with technical and non-technical teams across\n  the firm to identify high ROI AI opportunities.\n- Build rapid prototypes and translate them into production-\n  grade systems. Utilize the latest AI-powered development\n  tools to iterate quickly.\n- Create reusable libraries, SDKs and tooling to enable AI\n  development throughout the firm.\n- Stay current on the latest in applied AI. Read papers,\n  evaluate new models, test out new tools.\n- Participate in code review and architecture design, manage\n  deployments, and support and contribute to the success of\n  the overall Studio platform.\n\nThe Team:\n\nA brand new team at Clear Street with a mandate to bring AI\nto Studio. Green field development with high ownership and\nfast iteration within a larger platform.\n\nRequired Skills & Qualifications:\n\n- You have at least 7+ years of strong proficiency in\n  enterprise Java.\n- Experience designing and deploying AI/ML or LLM-backed\n  systems in production\n- Familiarity with LLM tooling and patterns: (e.g. tool\n  calling, RAG pipelines and knowledge bases, evals,\n  cost/latency tradeoffs, basic red-teaming).\n- Experience in supporting and running systems in a production\n  environment.\n- Comfortable working in a dynamic environment, partnering\n  with cross-functional teams, and moving from prototype to\n  reliable production.\n\nPreferred Skills:\n\n- Python is a plus for proofs-of-concept, evaluation and\n  analysis\n- Background in financial services or trading systems, genuine\n  interest in AI.\n\nTech stack: Postgres, Kafka, Redis, AWS/k8s, spring\necosystem.\n\nWe offer:\n\n- The opportunity to join a fast-growing team of passionate\n  people, where you can make a significant difference.\n- An environment that embraces the utility of a DevOps\n  oriented culture and combines it with a focus on CI/CD\n  methodology.\n- A meritocratic philosophy that champions collaboration.\n- Competitive compensation, benefits, and perks.\n\nWe Offer: The Base Salary Range is $175,000 - $240,000.\nThese ranges are representative of the starting base\nsalaries for this role at Clear Street. Which range a\ncandidate fits into and where a candidate falls in the range\nwill be based on job related factors such as relevant\nexperience, skills, and location. These ranges represent\nBase Salary only, which is just one element of Clear\nStreet's total compensation. The ranges stated do not\ninclude other factors of total compensation such as bonuses\nor equity.\n\nAt Clear Street, we offer competitive compensation packages,\ncompany equity, 401k matching, gender neutral parental\nleave, and full medical, dental and vision insurance. Our\nbelief has always been that we are better as a business when\nwe are all together in person. As such, beginning on January\n2, 2023, we are requiring employees to be in the office 4\ndays per week. In-office benefits include lunch stipends,\nfully stocked kitchens, happy hours, a great location, and\namazing views.\n\nOur top priority is our people. We’re continuously investing\nin a culture that promotes collaboration. We help each other\nthrough challenges and celebrate each other's successes. We\nbelieve that modern workplaces succeed by virtue of having\nhigh-performance workforces that are diverse — in ideas, in\ncultures, and in experiences. We put in the effort to make\nsuch a workplace a daily reality and are proud to be an\nequal opportunity employer.\n\n#LI-Hybrid\n",
+  "skills_required": [
+    "LLM deployment",
+    "RAG",
+    "guardrails",
+    "prompt engineering",
+    "tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and productionize reliable AI workflows to augment the Studio trading platform",
+    "Build tooling to monitor, tune, and evaluate models and workflows with applicable guardrails for quality and regulatory compliance",
+    "Collaborate with technical and non-technical teams to identify high ROI AI opportunities",
+    "Build rapid prototypes and translate them into production-grade systems using AI-powered development tools",
+    "Create reusable libraries, SDKs and tooling to enable AI development throughout the firm",
+    "Stay current on applied AI by reading papers, evaluating new models, and testing new tools"
+  ],
+  "use_cases": [
+    "AI-powered trading platform features and workflows",
+    "Knowledge retrieval and RAG systems for trading intelligence",
+    "Model orchestration with guardrails for regulatory compliance and quality control",
+    "AI tooling and SDKs to enable AI development across the trading platform",
+    "Model evaluation and monitoring systems for production AI workflows"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Kafka",
+    "Kubernetes",
+    "Postgres",
+    "Redis",
+    "Spring ecosystem"
+  ],
+  "frameworks_mentioned": [
+    "LLM deployment",
+    "RAG",
+    "guardrails",
+    "prompt engineering",
+    "tool calling"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role involves building AI workflows, retrieval,\norchestration, guardrails, and deploying LLM-backed systems\nin production. The engineer owns the AI service layer and\nworks directly on implementing RAG pipelines, tool calling,\nand model evaluation - hands-on AI system development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "tool calling",
+      "prompt engineering",
+      "guardrails",
+      "LLM deployment"
+    ],
+    "ml": [],
+    "web": [
+      "Spring ecosystem"
+    ],
+    "databases": [
+      "Postgres",
+      "Redis"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "languages": [
+      "Java",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

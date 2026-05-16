@@ -1,0 +1,97 @@
+{
+  "job_id": "intl-ai-corpus-0005",
+  "source": "intl-ai-corpus",
+  "source_ref": "1393425",
+  "source_url": "https://builtin.com/job/senior-applied-ai-scientist/1393425",
+  "title": "Applied AI Engineer & Researcher",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Speechify",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "96 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Text-to-speech and accessibility tools for reading",
+  "industries": [],
+  "description": "The mission of Speechify is to make sure that reading is\nnever a barrier to learning.\n\nOver 50 million people use Speechify’s text-to-speech\nproducts to turn whatever they’re reading – PDFs, books,\nGoogle Docs, news articles, websites – into audio, so they\ncan read faster, read more, and remember more. Speechify’s\ntext-to-speech reading products include its iOS app, Android\nApp, Mac App, Chrome Extension, and Web App. Google recently\nnamed Speechify the Chrome Extension of the Year and Apple\nnamed Speechify its App of the Day.\n\nToday, nearly 200 people around the globe work on Speechify\nin a 100% distributed setting – Speechify has no office.\nThese include frontend and backend engineers, AI research\nscientists, and others from Amazon, Microsoft, and Google,\nleading PhD programs like Stanford, high growth startups\nlike Stripe, Vercel, Bolt, and many founders of their own\ncompanies.\n\nThis is a key role and ideal for someone who thinks\nstrategically, enjoys fast-paced environments, passionate\nabout making product decisions, and has experience building\ngreat user experiences that delight users.\n\nWe are a flat organization that allows anyone to become a\nleader by showing excellent technical skills and delivering\nresults consistently and fast. Work ethic, solid\ncommunication skills, and obsession with winning are\nparamount.\n\nOur interview process involves several technical interviews\nand we aim to complete them within 1 week.\n\nWhat You’ll Do\n\n- Researching and implementing state-of-the-art in NLP and TTS\n  or CV with a focus on image generation\n- Work on building the most human sounding AI speech model in\n  the world\n\nAn Ideal Candidate Should Have\n\n- Experience with research and development in NLP or TTS or CV\n  with a focus on image generation.\n- Experience in ML\n- Preferred:\n  - Experience deploying NLP or TTS models to production at a\n    large scale\n  - Experience managing engineers and growing a research &\n    development team\n  - Experience programming in Python: Tensorflow and PyTorch\n    frameworks specifically.\n\nWhat We Offer\n\n- A fast-growing environment where you can help shape the\n  culture\n- An entrepreneurial crew that supports risk, intuition, and\n  hustle\n- A hands-off approach so you can focus and do your best work\n- The opportunity to make an impact in a transformative\n  industry\n- A competitive salary, a collegiate atmosphere, and a\n  commitment to building a great asynchronous culture\n\nThe United States Based Salary range for this role is:\n140,000-200,000 USD/Year + Bonus + Stock depending on\nexperience\n\nThink you’re a good fit for this job?\n\nTell us more about yourself and why you're interested in the\nrole when you apply.  And don’t forget to include links to\nyour portfolio and LinkedIn.\n\nNot looking but know someone who would make a great fit?\n\nRefer them!\n\nSpeechify is committed to a diverse and inclusive workplace.\n\nSpeechify does not discriminate on the basis of race,\nnational origin, gender, gender identity, sexual\norientation, protected veteran status, disability, age, or\nother legally protected status.\n",
+  "skills_required": [
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Research and implement state-of-the-art techniques in NLP, TTS, or CV with focus on image generation",
+    "Build and develop human-sounding AI speech models",
+    "Deploy NLP or TTS models to production at large scale",
+    "Manage engineers and grow the research & development team"
+  ],
+  "use_cases": [
+    "Text-to-speech conversion for various content types (PDFs, books, articles, websites)",
+    "Generating human-like AI speech voices",
+    "Image generation for content",
+    "Accessibility tools for reading and learning"
+  ],
+  "tools_mentioned": [
+    "model deployment",
+    "production ML"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "MLOPS",
+    "NLP",
+    "RESEARCH"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "The role focuses on building text-to-speech and image\ngeneration models using deep learning frameworks. The core\nwork involves developing TTS systems and NLP/CV models,\nwhich aligns with traditional ML engineering rather than\nbuilding LLM/agent applications or supporting AI\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "model deployment",
+      "production ML"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP",
+      "TTS",
+      "CV",
+      "image generation"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:36+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

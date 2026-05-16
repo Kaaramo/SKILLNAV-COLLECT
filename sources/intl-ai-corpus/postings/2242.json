@@ -1,0 +1,177 @@
+{
+  "job_id": "intl-ai-corpus-2242",
+  "source": "intl-ai-corpus",
+  "source_ref": "8822931",
+  "source_url": "https://builtin.com/job/ai-engineer/8822931",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Black Box",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-20",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "5,000 Employees",
+  "company_stage": "Acquired (wholly-owned subsidiary of AGC Networks)",
+  "company_focus": "Global communications system integrator delivering\nenterprise technology solutions",
+  "industries": [],
+  "description": "Company Overview\n\nBlack Box Network Services is a leading global\ncommunications system integrator specializing in designing,\nsourcing, implementing, and managing complex technology\nsolutions. As part of our strategic transformation, Black\nBox is expanding its AI Center of Excellence (CoE) to\ndeliver enterprise-grade AI solutions across multiple\nbusiness domains.\n\nThe AI CoE focuses on building scalable, secure, and\nproduction-ready AI systems, establishing best practices for\nenterprise AI adoption, and integrating AI capabilities into\ncore business platforms.\n\nRole Summary\n\nAs an AI Engineer in the AI Center of Excellence (CoE), you\nwill design, build, and integrate AI-driven solutions using\npre-trained Large Language Models (LLMs), traditional\nmachine learning techniques, and deterministic systems.\n\nThis role emphasizes applied Generative AI, enterprise\nintegration, and end-to-end ownership, from user experience\nto backend services and AI orchestration. You will\ncollaborate closely with business and technology teams to\ndeliver production-ready AI solutions integrated with\nplatforms such as ServiceNow, SAP, Salesforce, and Azure\nservices.\n\nEngineers in this role are expected to contribute to\nengineering standards, reusable AI components, and reference\narchitectures, in addition to delivering high-quality\nsolutions.\n\nKey Responsibilities AI Solution Development\n\n- Leverage pre-trained LLMs for conversational AI, document\n  summarization, and enterprise knowledge retrieval.\n- Design and implement RAG-based architectures connecting LLMs\n  with structured and unstructured enterprise data sources.\n- Develop traditional ML models (classification, regression)\n  and deterministic rule-based systems for structured use\n  cases.\n- Design and deploy AI agents for task automation and\n  intelligent decision-making.\n- Implement workflow orchestration using n8n, integrating AI\n  services with ServiceNow, SAP, Salesforce, and Azure\n  services.\n- Build AI-specific logic and agent orchestration using\n  LangChain (chains, tools, memory, RAG).\n\nFull-Stack Development & UI/UX\n\n- Design intuitive, responsive user interfaces for AI-enabled\n  applications.\n- Develop frontend components using ReactJS and Astro.\n- Implement backend services using Python (FastAPI/Flask) and\n  Node.js (TypeScript).\n- Ensure seamless integration between UI, backend services,\n  and AI workflows.\n- Own features from design through deployment and production\n  support.\n\nPlatform & Engineering Standards\n\n- Contribute to defining and improving AI engineering\n  standards, reusable components, and reference\n  architectures.\n- Collaborate with DevOps, security, and platform teams to\n  align AI solutions with enterprise guidelines.\n- Identify opportunities to improve developer productivity,\n  tooling, and automation.\n\nAgile Development & CI/CD\n\n- Work in Agile/Scrum teams, participating in sprint planning,\n  stand-ups, and retrospectives.\n- Build and maintain CI/CD pipelines using Azure DevOps or\n  GitHub Actions.\n- Ensure adherence to best practices in code quality, testing,\n  and version control.\n\nLLMOps & Lifecycle Management\n\n- Implement pipelines for deployment, monitoring, and\n  lifecycle management of AI solutions.\n- Apply AIOps techniques for performance monitoring and\n  anomaly detection.\n- Track experiments and models using Weights & Biases (W&B) or\n  similar platforms.\n\nData Engineering & Enterprise Integration\n\n- Collaborate with data teams to design and build ETL\n  pipelines for structured and unstructured data.\n- Ensure data quality, validation, and reliability of AI\n  outputs.\n- Integrate AI solutions with ServiceNow workflows, SAP\n  modules, Salesforce, and Azure-native services.\n\nAI Governance & Responsible AI\n\n- Implement bias detection and mitigation mechanisms.\n- Maintain model documentation, audit trails, and compliance\n  artifacts.\n- Ensure adherence to ethical and responsible AI principles.\n\nResearch & Innovation\n\n- Experiment with emerging Generative AI capabilities and\n  enterprise AI patterns.\n- Explore hybrid AI approaches combining deterministic logic\n  with probabilistic models.\n- Contribute to internal PoCs, hackathons, and technical\n  workshops.\n\nRequired Skills\n\n- 3+ years of experience in AI/ML engineering or data science.\n- Strong expertise in LLMs, RAG, prompt engineering, and\n  classical ML techniques.\n- Experience building AI agents and workflow orchestration\n  (LangChain, n8n).\n- Proficiency in Python and TypeScript/Node.js.\n- Hands-on experience with ReactJS and Astro.\n- Ability to deliver end-to-end full-stack solutions.\n- Experience with PostgreSQL, Azure AI stack, and cloud-native\n  deployments.\n- Solid understanding of Agile development practices and CI/CD\n  pipelines.\n- Familiarity with REST/GraphQL APIs, Docker, Kubernetes, and\n  containerized deployments.\n- Knowledge of NLP, OCR, and enterprise integration patterns.\n\nPreferred Skills\n\n- Experience with Generative AI models (GPT, BERT, DALL·E,\n  etc.) and their practical enterprise applications.\n- Familiarity with LLMOps and AIOps frameworks.\n- Azure or AI-related certifications (e.g., Microsoft\n  Certified: Azure AI Engineer).\n- Experience with responsible AI, bias mitigation, and\n  compliance.\n- Exposure to enterprise environments with governance,\n  security, and compliance constraints.\n- Experience or familiarity with Microsoft Power Platform,\n  including Microsoft Copilot, Power Automate, and Power\n  Apps, for implementing low- to medium-complexity AI-\n  enabled and automation use cases.\n\nAbout Black Box\n\nBlack Box is a leading technology solutions provider focused\non accelerating customer success through innovation,\nownership, transparency, and collaboration. With over 2,500\nteam members across 24 countries, Black Box delivers high-\nvalue solutions globally and is a wholly-owned subsidiary of\nAGC Networks.\n\nBlack Box is an equal opportunity employer and does not\ndiscriminate based on race, color, gender, age, disability,\nveteran status, or any other protected status.\n",
+  "skills_required": [
+    "AI Agents",
+    "BERT",
+    "GPT",
+    "LLMs",
+    "LangChain",
+    "Microsoft Copilot",
+    "Microsoft Power Platform",
+    "Prompt Engineering",
+    "RAG",
+    "SAP",
+    "Salesforce",
+    "ServiceNow",
+    "Traditional ML (classification, regression)",
+    "n8n"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build AI-driven solutions using pre-trained LLMs, traditional ML techniques, and deterministic systems",
+    "Implement RAG-based architectures connecting LLMs with enterprise data sources",
+    "Design and deploy AI agents for task automation and intelligent decision-making using LangChain",
+    "Build workflow orchestration using n8n integrating AI services with ServiceNow, SAP, Salesforce, and Azure",
+    "Develop full-stack applications with ReactJS, Astro, Python (FastAPI/Flask), and Node.js (TypeScript)",
+    "Implement LLMOps pipelines for deployment, monitoring, and lifecycle management of AI solutions",
+    "Integrate AI solutions with enterprise platforms and build ETL pipelines for structured and unstructured data",
+    "Contribute to AI engineering standards, reusable components, and reference architectures"
+  ],
+  "use_cases": [
+    "Conversational AI and chatbots for enterprise",
+    "Document summarization and knowledge management",
+    "Enterprise knowledge retrieval and search",
+    "Task automation and intelligent decision-making",
+    "Classification and regression for structured enterprise use cases",
+    "Workflow automation integrated with ServiceNow, SAP, and Salesforce"
+  ],
+  "tools_mentioned": [
+    "AIOps",
+    "Astro",
+    "Azure",
+    "Azure AI",
+    "Azure DevOps",
+    "CI/CD",
+    "Docker",
+    "ETL pipelines",
+    "FastAPI",
+    "Flask",
+    "GitHub Actions",
+    "GraphQL",
+    "Kubernetes",
+    "LLMOps",
+    "PostgreSQL",
+    "REST APIs",
+    "ReactJS",
+    "Weights & Biases (W&B)"
+  ],
+  "frameworks_mentioned": [
+    "AI Agents",
+    "BERT",
+    "GPT",
+    "LLMs",
+    "LangChain",
+    "Prompt Engineering",
+    "RAG",
+    "Traditional ML (classification, regression)",
+    "n8n"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying AI\nsystems including RAG architectures, LLM implementations, AI\nagents, and ML models. The engineer will directly work on AI\norchestration, fine-tune prompts, and implement production-\nready AI solutions end-to-end.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "RAG",
+      "Prompt Engineering",
+      "AI Agents",
+      "LLMs",
+      "GPT",
+      "BERT",
+      "n8n"
+    ],
+    "ml": [
+      "Traditional ML (classification, regression)"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "ReactJS",
+      "Astro",
+      "REST APIs",
+      "GraphQL"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [
+      "ETL pipelines"
+    ],
+    "cloud": [
+      "Azure AI",
+      "Azure"
+    ],
+    "ops": [
+      "Weights & Biases (W&B)",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Azure DevOps",
+      "GitHub Actions",
+      "LLMOps",
+      "AIOps"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "SQL"
+    ],
+    "domains": [
+      "NLP",
+      "OCR"
+    ],
+    "other": [
+      "ServiceNow",
+      "SAP",
+      "Salesforce",
+      "Microsoft Power Platform",
+      "Microsoft Copilot"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

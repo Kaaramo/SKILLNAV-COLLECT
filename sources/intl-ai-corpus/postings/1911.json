@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-1911",
+  "source": "intl-ai-corpus",
+  "source_ref": "8633505",
+  "source_url": "https://builtin.com/job/gtm-engineer/8633505",
+  "title": "GTM Engineer - Automation and AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Coralogix",
+  "company_type": "entité morale privée",
+  "location": "Gurugram, IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-03",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "198 Employees",
+  "company_stage": "Series C+ (implied by $100M+ ARR and high-growth)",
+  "company_focus": "Modern full-stack observability platform for data processing\nat scale",
+  "industries": [
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "About Coralogix\n\nCoralogix is a modern, full-stack observability platform\ntransforming how businesses process and understand their\ndata at scale. We are a high-growth, 100M+ ARR business\nbuilding the revenue infrastructure to match our ambition.\nThe companies winning right now are not the ones with the\nbiggest sales teams — they are the ones with the smartest\nrevenue systems. This team builds those systems.\n\nRole Overview\n\nThis is a builder role. You will own the automation and AI\nlayer of our GTM Engineering stack — designing and deploying\nthe workflows that make our revenue engine intelligent,\nautomated, and self-improving. You will work with workflow\norchestration tooling (currently n8n), LLM-based AI\ndevelopment tools (currently Claude Code), and a Snowflake-\npowered data foundation.\n\nEqually important: you are expected to stay current with the\nautomation and AI tooling landscape and proactively evaluate\nalternatives. If you find a better orchestration platform, a\nmore capable AI coding tool, or an integration approach that\nmeaningfully outperforms what we are using today — bring the\ncase. Tool recommendations based on evidence are a core part\nof this role.\n\nYour success metric is straightforward: how many manual GTM\nprocesses have you eliminated this quarter? Every workflow\nyou build should free up time for sellers, provide better\nintelligence for leaders, and improve the accuracy of our\nforecasting and pipeline systems.\n\nThis role is not about maintaining workflows that already\nexist. It is about building ones that do not yet exist and\nmaking the business meaningfully faster as a result.\n\nWhat you will build\n\nAutomation & AI Workflows\n\n- Design and deploy AI-enabled automation workflows across the\n  GTM stack using workflow orchestration tooling (n8n is our\n  current platform — evaluate and recommend alternatives as\n  appropriate)\n- Build LLM-powered tools for pre-call research, deal\n  intelligence, pipeline gap analysis, and automated\n  executive briefings — using AI coding assistants such as\n  Claude Code or equivalent\n- Integrate LLM capabilities into operational revenue\n  workflows — prompt engineering, output parsing, confidence\n  scoring\n- Build Gong engagement gap alerts, forecast variance analysis\n  workflows, and SE utilization tracking automations\n- Develop and maintain event-driven, API-to-API integration\n  patterns connecting Salesforce, Gong, Snowflake, Slack,\n  and Marketo\n\nInternal Tools & Applications\n\n- Rapidly prototype and ship internal GTM tools using AI-\n  accelerated development — Claude Code, GitHub Copilot, or\n  equivalent AI coding assistants\n- Build lightweight frontend interfaces for internal sales and\n  revenue teams where self-service replaces manual requests\n- Develop backend services and APIs to extend CRM and GTM\n  platforms beyond their native capabilities\n\nRevenue Infrastructure\n\n- Build services for pipeline analysis, forecasting support,\n  and deal intelligence that feed leadership dashboards and\n  regional reporting\n- Develop data pipelines and transformations that move GTM\n  events from source systems into Snowflake for downstream\n  analytics\n- Design compounding automation systems — each workflow built\n  on shared logic and data foundations so value multiplies\n  over time\n\n- 5–8+ years of backend engineering experience — Python,\n  Node.js, or similar as primary language\n- Strong experience building RESTful APIs, microservices, and\n  event-driven integrations\n- Hands-on experience with workflow automation and\n  orchestration tools — n8n, Zapier, Workato, or equivalent\n- Demonstrated experience using AI coding assistants (Claude\n  Code, GitHub Copilot, GPT-based tools) as a core part of\n  development workflow — not experimentation\n- Frontend development experience (React or similar) —\n  sufficient to ship functional internal tools independently\n- Experience working with Salesforce APIs and platform\n  integrations\n- Working knowledge of the end-to-end lead-to-cash process—\n  you understand how leads originate,progress through the\n  sales cycle, get quoted, and convert to recognised revenue\n  well enough to build automations that serve each stage of\n  the GTM motion, not just individual tasks in isolation.\n- Experience building automations or tools in service of\n  Revenue Operations or Sales Operations teams— you\n  understand what workflows they run, where manual effort\n  exists, and how to systematically eliminate it.\n- Familiarity with cloud platforms (AWS, GCP, or Azure) and\n  modern deployment workflows\n- Strong data modeling and database knowledge; experience\n  working with or querying Snowflake a plus\n- Ability to leverage LLMs for prototyping, debugging, and\n  workflow automation design\n- Bachelor's degree in Computer Science, Engineering, or\n  related technical field\n\nThe Non Negotiables\n\n- You use AI tools every day in your development workflow —\n  not occasionally\n- You can point to automations you built that measurably\n  eliminated manual work\n- You are comfortable working across multiple systems\n  simultaneously without losing track of data integrity\n- You understand lead-to-cash end-to-end— you can articulate\n  how a prospect moves through the sales cycle to become\n  recognised revenue, and you build automations that serve\n  that entire journey, not just point-in-time tasks.\n- You ship fast, iterate based on feedback, and do not wait\n  for perfect requirements\n\nCultural Fit\n\nWe’re seeking candidates who are hungry, humble, and smart.\nCoralogix fosters a culture of innovation and continuous\nlearning, where team members are encouraged to challenge the\nstatus quo and contribute to our shared mission. If you\nthrive in dynamic environments and are eager to shape the\nfuture of observability solutions, we’d love to hear from\nyou.\n\nCoralogix is an equal-opportunity employer and encourages\napplicants from all backgrounds to apply.\n",
+  "skills_required": [
+    "Claude Code",
+    "GPT-based tools",
+    "GitHub Copilot",
+    "Gong",
+    "LLM integration",
+    "Marketo",
+    "Prompt engineering",
+    "Slack integrations"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deploy AI-enabled automation workflows across the GTM stack using workflow orchestration tooling like n8n",
+    "Build LLM-powered tools for pre-call research, deal intelligence, pipeline gap analysis, and automated executive briefings",
+    "Integrate LLM capabilities into operational revenue workflows including prompt engineering, output parsing, and confidence scoring",
+    "Develop event-driven API-to-API integration patterns connecting Salesforce, Gong, Snowflake, Slack, and Marketo",
+    "Rapidly prototype and ship internal GTM tools using AI-accelerated development with Claude Code and GitHub Copilot",
+    "Build lightweight frontend interfaces and backend services for internal sales and revenue teams",
+    "Develop data pipelines and transformations that move GTM events from source systems into Snowflake for downstream analytics",
+    "Evaluate and recommend alternative automation and AI tooling based on evidence and performance"
+  ],
+  "use_cases": [
+    "Pre-call research automation for sales teams",
+    "Deal intelligence and pipeline gap analysis",
+    "Automated executive briefings",
+    "Forecast variance analysis and pipeline reporting",
+    "Gong engagement gap alerts and SE utilization tracking",
+    "Self-service internal tools to replace manual GTM requests"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "GCP",
+    "Microservices",
+    "RESTful APIs",
+    "React",
+    "Salesforce APIs",
+    "Snowflake",
+    "Workato",
+    "Zapier",
+    "n8n"
+  ],
+  "frameworks_mentioned": [
+    "Claude Code",
+    "GPT-based tools",
+    "GitHub Copilot",
+    "LLM integration",
+    "Prompt engineering"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building LLM-powered tools, integrating\nLLM capabilities with prompt engineering and output parsing,\nand deploying AI-enabled automation workflows. The engineer\nwill work hands-on with Claude Code and LLMs to build and\ndeploy AI solutions for GTM processes, making this an ai-\nfirst role focused on implementing AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude Code",
+      "GitHub Copilot",
+      "GPT-based tools",
+      "Prompt engineering",
+      "LLM integration"
+    ],
+    "ml": [],
+    "web": [
+      "RESTful APIs",
+      "Microservices",
+      "React",
+      "Salesforce APIs"
+    ],
+    "databases": [
+      "Snowflake"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "n8n",
+      "Zapier",
+      "Workato",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": [
+      "Gong",
+      "Marketo",
+      "Slack integrations"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

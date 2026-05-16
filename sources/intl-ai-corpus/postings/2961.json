@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-2961",
+  "source": "intl-ai-corpus",
+  "source_ref": "9080893",
+  "source_url": "https://builtin.com/job/staff-ai-engineer-120k-150k-equity-covecta/9080893",
+  "title": "Staff AI Engineer (£120k-150k + Equity) at Covecta",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Jack & Jill AI",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-17",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Seed",
+  "company_focus": "Agentic AI platform for financial services",
+  "industries": [
+    "Artificial Intelligence",
+    "HR Tech",
+    "Productivity",
+    "Software"
+  ],
+  "description": "This is a job that Jill, our AI Recruiter, is recruiting for\non behalf of one of our customers.\n\nShe will pick the best candidates from Jack's network\n\nThe next step is to speak to Jack.\n\nJob Title: Staff AI Engineer\n\nSalary: £120k-150k + Equity\n\nCompany Description: Covecta - Seed-stage Agentic AI\nplatform backed by Salesforce Ventures\n\nJob Description: As the most senior AI hire, you will lead\nthe technical direction of a purpose-built platform\norchestrating dozens of specialized agents across the\nfinancial services lifecycle. Moving beyond simple wrappers,\nyou will solve complex document intelligence and multi-agent\ncoordination challenges for major institutions like Metro\nBank in a highly regulated, high-stakes environment.\n\nLocation: London, UK\n\nWhy this role is remarkable:\n\n- Lead AI engineering at a startup that scaled from MVP to\n  paying enterprise customers across the UK and US in under\n  a year.\n- Work on high-stakes technical challenges including multi-\n  agent orchestration, hallucination detection, and\n  auditable AI for a $36 trillion industry.\n- Join a talent-dense team founded by former Mambu and\n  McKinsey leaders, backed by a recent $6.5M seed round led\n  by Salesforce Ventures.\n\nWhat you will do:\n\n- Design and own the agentic orchestration layer that\n  coordinates 50+ specialized financial agents with human-\n  in-the-loop oversight.\n- Architect robust evaluation and alignment frameworks to\n  ensure accuracy, explainability, and policy compliance in\n  regulated banking workflows.\n- Build intelligent document processing pipelines to extract\n  structured data from complex financial paperwork like\n  regulatory filings and credit memos.\n\nThe ideal candidate:\n\n- Extensive hands-on experience shipping production-grade AI\n  systems, specifically within NLP, document intelligence,\n  or agentic systems.\n- Strong research instinct with the ability to translate\n  emerging techniques into reliable systems using structured\n  reasoning and guardrail design.\n- High-velocity startup mindset with the architectural\n  judgment to make consequential build-versus-buy decisions\n  and shape a growing engineering culture.\n\nWho are Jack & Jill? Ok, I'll go first. I'm Jack, an AI that\ngets to know you on a quick call, learning what you're great\nat and what you want from your career. Then I help you land\nyour dream job by finding unmissable opportunities as they\ncome up, supporting you with applications, interview prep,\nand moral support. And I'm Jill, an AI Recruiter who talks\nto companies to understand who they're looking to hire. Then\nI recruit from Jack's network, making an introduction when I\nspot an excellent candidate.\n\nNext steps Step 1. Visit our website. Step 2. Click 'Talk to\nJack'. Step 3. Talk to Jack so he can understand your\nexperience and ambitions. Step 4. Jack will make sure Jill\n(the AI agent working for the company) considers you for\nthis role. Step 5. If Jill thinks you're a great fit and her\nclient wants to meet you, they will make the introduction.\nStep 6. If not, Jack will find you excellent alternatives.\nAll for free.\n\nWe never post fake jobs This isn't a trick. This is an open\nrole that Jill is currently recruiting for from Jack's\nnetwork. Sometimes Jill's clients ask her to anonymize their\njobs when she advertises them, which means she can't share\nall the details in the job description. We appreciate this\ncan make them look a bit suspect, but there isn't much we\ncan do about it. Give Jack a spin! You could land this role.\nIf not, most people find him incredibly helpful with their\njob search, and we're giving his services away for free.\n",
+  "skills_required": [
+    "Guardrail design",
+    "Hallucination detection",
+    "LLM agents",
+    "Multi-agent orchestration",
+    "NLP",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and own the agentic orchestration layer coordinating 50+ specialized financial agents with human-in-the-loop oversight",
+    "Architect evaluation and alignment frameworks ensuring accuracy, explainability, and policy compliance in regulated banking workflows",
+    "Build intelligent document processing pipelines to extract structured data from complex financial paperwork like regulatory filings and credit memos",
+    "Lead the technical direction of the AI platform as the most senior AI hire",
+    "Solve complex document intelligence and multi-agent coordination challenges for major financial institutions",
+    "Make build-versus-buy decisions and shape the growing engineering culture"
+  ],
+  "use_cases": [
+    "Multi-agent orchestration across the financial services lifecycle",
+    "Intelligent document processing for regulatory filings, credit memos, and complex financial paperwork",
+    "Hallucination detection and auditable AI for banking workflows",
+    "Policy compliance and explainability for regulated financial institutions",
+    "Automated financial services workflows for enterprise banks"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "Guardrail design",
+    "Hallucination detection",
+    "LLM agents",
+    "Multi-agent orchestration",
+    "NLP",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and owning agentic\norchestration systems, multi-agent coordination, document\nintelligence pipelines, and hallucination detection for an\nAgentic AI platform. The engineer will design and implement\nAI systems (agents, evaluation frameworks, document\nprocessing) hands-on, making this clearly an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Multi-agent orchestration",
+      "LLM agents",
+      "RAG",
+      "Prompt engineering",
+      "Hallucination detection",
+      "Guardrail design"
+    ],
+    "ml": [
+      "NLP"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Document intelligence",
+      "Financial services / regulatory compliance"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-2671",
+  "source": "intl-ai-corpus",
+  "source_ref": "8961318",
+  "source_url": "https://builtin.com/job/cloud-platform-ai-engineer/8961318",
+  "title": "Cloud Platform & AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ciena",
+  "company_type": "entité morale privée",
+  "location": "Gurugram, IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-20",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "9,561 Employees",
+  "company_stage": "Public",
+  "company_focus": "High-speed optical networking and connectivity solutions",
+  "industries": [
+    "Cloud",
+    "Hardware",
+    "Internet of Things",
+    "Other",
+    "Software",
+    "Utilities"
+  ],
+  "description": "As the global leader in high-speed connectivity, Ciena is\ncommitted to a people-first approach. Our teams enjoy a\nculture focused on prioritizing a flexible work environment\nthat empowers individual growth, well-being, and belonging.\nWe’re a technology company that leads with our\nhumanity—driving our business priorities alongside\nmeaningful social, community, and societal impact.\n\nCiena is seeking a Cloud Platform & AI Engineer to join the\nIT Cloud Infrastructure team and help enable secure,\nscalable, and intelligent use of public cloud technologies\nacross the organisation. This role plays a critical part in\nadvancing cloud automation, security, compliance, and\nartificial intelligence (AI) capabilities that empower\ninternal teams to innovate with confidence. The position is\nremote, with flexibility to transition to a hybrid model if\nbusiness needs evolve.\n\nHow you will make an impact:\n\n- Design and evolve automation frameworks for public cloud\n  infrastructure deployments at scale.\n- Enable secure cloud adoption by automating governance,\n  audit, security, and compliance controls.\n- Use, develop and maintain AI services across AWS Platform\n  (Cloud Native)\n- Build and maintain infrastructure and application monitoring\n  to detect, prevent, and respond to incidents.\n- Drive cloud reliability, performance, and cost optimisation\n  through best practices and continuous improvement.\n- Develop tools and mechanisms that eliminate repetitive\n  operational tasks and improve engineering efficiency.\n- Review code, assess technical implementations, and provide\n  actionable feedback to improve platform tooling.\n- Participate in on‑call rotations and serve as an escalation\n  point for cloud service incidents.\n\nThe must haves:\n\n- Bachelor’s degree in Computer Science or a related field, or\n  equivalent practical experience\n- 4+ years of overall professional experience, including 2+\n  years supporting multi‑account Amazon Web Services (AWS)\n  platform infrastructure\n- Efficient in use, maintenance of AWS AI services like\n  Bedrock, Sagemaker while maintaining strong proficiency in\n  AI/ML Concepts\n- Proficiency in object‑oriented programming and SOLID design\n  principles with hands-on experience with one or more\n  programming languages, such as Python,\n  JavaScript/TypeScript, Ruby, Java, or Go\n- Strong experience with infrastructure as code (IaC),\n  automation, and continuous integration/continuous delivery\n  (CI/CD) pipelines\n- Demonstrated knowledge of public cloud security best\n  practices, tooling, and risk identification\n- Working knowledge of networking fundamentals, including\n  Domain Name System (DNS), load balancing, Secure Sockets\n  Layer (SSL), Transmission Control Protocol/Internet\n  Protocol (TCP/IP), and related concepts.\n\nNice to haves:\n\n- Hands‑on experience with container technologies, including\n  Docker and Kubernetes\n- Understanding of AI security best practices within AWS\n  Platform\n- Familiarity with cloud‑native application architectures and\n  development practices\n- Ability to estimate software components and interface\n  effectively with multiple internal partners\n\nAt Ciena, we are committed to building and fostering an\nenvironment in which our employees feel respected, valued,\nand heard.  Ciena values the diversity of its workforce and\nrespects its employees as individuals. We do not tolerate\nany form of discrimination.\n\nCiena is an Equal Opportunity Employer, including disability\nand protected veteran status.\n\nIf contacted in relation to a job opportunity, please advise\nCiena of any accommodation measures you may require.\n",
+  "skills_required": [
+    "AI/ML Concepts",
+    "DNS",
+    "Load Balancing",
+    "SOLID Design Principles",
+    "SSL/TLS",
+    "TCP/IP"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and evolve automation frameworks for public cloud infrastructure deployments at scale",
+    "Enable secure cloud adoption by automating governance, audit, security, and compliance controls",
+    "Use, develop and maintain AI services across AWS platform (Cloud Native)",
+    "Build and maintain infrastructure and application monitoring to detect, prevent, and respond to incidents",
+    "Drive cloud reliability, performance, and cost optimisation through best practices and continuous improvement",
+    "Develop tools and mechanisms that eliminate repetitive operational tasks and improve engineering efficiency",
+    "Review code, assess technical implementations, and provide actionable feedback to improve platform tooling",
+    "Participate in on-call rotations and serve as an escalation point for cloud service incidents"
+  ],
+  "use_cases": [
+    "Cloud infrastructure automation and governance at scale",
+    "Secure multi-account AWS platform management",
+    "Internal AI service enablement using AWS Bedrock and SageMaker",
+    "Infrastructure and application monitoring and incident response",
+    "Cloud cost optimization and operational efficiency"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "AWS SageMaker",
+    "CI/CD",
+    "Cloud Security",
+    "Docker",
+    "Infrastructure as Code (IaC)",
+    "Kubernetes",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "AI/ML Concepts"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "JavaScript",
+    "Python",
+    "Ruby",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "While the role involves using and maintaining AWS AI\nservices like Bedrock and SageMaker, the primary focus is on\ncloud platform infrastructure — automation, security,\ncompliance, governance, and reliability. The AI component is\none of several responsibilities within a broader cloud\nplatform engineering role, and the position is about\nenabling internal teams to use AI services rather than\nbuilding or training models directly.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "AI/ML Concepts"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS Bedrock",
+      "AWS SageMaker"
+    ],
+    "ops": [
+      "Infrastructure as Code (IaC)",
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud Security"
+    ],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "Go",
+      "Ruby"
+    ],
+    "domains": [],
+    "other": [
+      "DNS",
+      "Load Balancing",
+      "SSL/TLS",
+      "TCP/IP",
+      "SOLID Design Principles"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

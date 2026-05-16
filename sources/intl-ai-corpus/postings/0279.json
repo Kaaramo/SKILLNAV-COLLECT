@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0279",
+  "source": "intl-ai-corpus",
+  "source_ref": "7618776",
+  "source_url": "https://builtin.com/job/lead-software-engineer-ai-applications/7618776",
+  "title": "Lead Software Engineer, AI Applications",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Solv.",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "134 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Healthcare technology platform for accessible care",
+  "industries": [],
+  "description": "Being sick or injured is painful. Getting better shouldn’t\nbe.\n\nMost industries have been transformed by new technology.\nHealthcare is still waiting — and you can help change that.\n\nOur mission is simple but ambitious: make healthcare\naccessible, transparent, and effortless for all. We put the\nconsumer at the center, move fast and partner with forward-\nthinking providers to deliver software that makes care\nbetter, faster, and more human. This is work with real-world\nstakes — and you can help lead the way.\n\nAs a key member of our engineering team, you’ll design and\nbuild systems that directly impact people’s lives. You’ll\ntackle complex, high-scale challenges in an industry that\ndesperately needs innovation, using technology to reimagine\nthe patient experience from the ground up.\n\nSolv Health is seeking an experienced engineering leader to\narchitect and build the core infrastructure powering our\nsuite of AI/LLM applications. You will help define best\npractices around model evaluation, monitoring, testing, and\ndeployment, ensuring our AI services run reliably at scale\nand deliver measurable value to patients and providers.\n\nIf you’re passionate about building the AI foundations that\ncan transform healthcare, we’d love to hear from you!\n\nWhat You’ll Be Doing\n\n- Build and launch new, AI-native products that are\n  transforming Solv’s core platform - powering intelligent\n  workflows, automation, and personalized experiences for\n  both patients and providers\n- Build systems for rigorous evaluation of model quality:\n  establish metrics, automated test suites, and benchmarks\n  for prompt performance\n- Develop observability & monitoring frameworks for production\n  models, integrating logging, alerting, drift detection,\n  and performance dashboards\n- Champion best practices in versioning, CI/CD, and artifact\n  management for AI assets, partnering closely with\n  security, compliance, and devops teams\n- Collaborate closely with product managers and client-facing\n  teams to align AI features with user needs\n\nWhat You Bring\n\n- 6+ years of software engineering experience, with a minimum\n  of 2 years building production AI/LLM applications\n- Deep understanding of AI/ML concepts, including foundation\n  models, embeddings, vector search, prompt engineering, and\n  RAG architectures, paired with solid computer science\n  fundamentals\n- Proven track record defining and rolling out evaluation/test\n  frameworks and monitoring systems for large-scale machine\n  learning or LLM services\n- Expertise in cloud-native infrastructure (AWS), container\n  orchestration (Kubernetes), and CI/CD tooling (e.g.,\n  GitHub Actions) complemented by strong web development\n  skills in React/Typescript/Python.\n- Strong leadership & communication skills, with experience\n  guiding technical strategy, driving alignment across\n  stakeholders, and mentoring peers\n- Stay abreast of the latest advancements in AI (new model\n  releases, tools, research) and evaluate their potential\n  benefit to our platform. Help define our company’s AI\n  strategy and roadmap by identifying new use cases and\n  capabilities that keep our product at the cutting edge.\n- Problem-solving attitude with a proactive approach to\n  learning new technologies and innovating solutions to\n  difficult problems\n- Curiosity and a learner attitude\n\nBonus Points\n\n- Experience in healthcare technology or enterprise SaaS\n  product environments. Direct knowledge of clinical\n  workflows, healthcare interoperability standards (FHIR,\n  HL7), or prior work on healthcare AI products is a plus.\n\nSolv offers robust benefits including:\n\n- Medical, Dental, Vision Insurance\n- 401k\n- Paid Parental Leave\n- Monthly Wellness Reimbursement\n- Flexible Time Off\n- Many More!\n\nThe compensation range is for candidates in NYC or SF. We\nsupport fully remote employees, and compensation is\ndependent on location and experience level.\n",
+  "skills_required": [
+    "FHIR",
+    "HL7",
+    "LLM applications",
+    "RAG",
+    "embeddings",
+    "foundation models",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and launch AI-native products transforming Solv's core platform with intelligent workflows and personalized experiences",
+    "Build systems for rigorous model evaluation including metrics, automated test suites, and benchmarks for prompt performance",
+    "Develop observability and monitoring frameworks for production models with logging, alerting, drift detection, and performance dashboards",
+    "Champion best practices in versioning, CI/CD, and artifact management for AI assets, partnering with security, compliance, and devops teams",
+    "Collaborate with product managers and client-facing teams to align AI features with user needs",
+    "Define company AI strategy and roadmap by identifying new use cases and capabilities to keep product at cutting edge"
+  ],
+  "use_cases": [
+    "Intelligent workflow automation for healthcare providers",
+    "Personalized patient experiences through AI-native applications",
+    "AI-powered search and retrieval using vector search and embeddings",
+    "Automated evaluation and testing of LLM prompt performance in healthcare context",
+    "Production AI services for clinical workflows and patient care"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "GitHub Actions",
+    "Kubernetes",
+    "React",
+    "logging",
+    "monitoring",
+    "vector search"
+  ],
+  "frameworks_mentioned": [
+    "LLM applications",
+    "RAG",
+    "embeddings",
+    "foundation models",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building AI-native products and directly\nworking with AI/LLM applications, including prompt\nengineering, RAG architectures, and model evaluation\nframeworks. The engineer is responsible for deploying and\nmonitoring production AI services, not just supporting\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "prompt engineering",
+      "LLM applications",
+      "foundation models"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [
+      "React"
+    ],
+    "databases": [
+      "vector search"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Kubernetes",
+      "CI/CD",
+      "GitHub Actions",
+      "monitoring",
+      "logging"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "FHIR",
+      "HL7"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

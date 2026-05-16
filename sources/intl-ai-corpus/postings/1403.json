@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-1403",
+  "source": "intl-ai-corpus",
+  "source_ref": "8443001",
+  "source_url": "https://builtin.com/job/senior-software-engineer-backend-ai/8443001",
+  "title": "Senior Software Engineer, Backend (AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Posh",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-09",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "65 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Platform for building and discovering IRL communities and\nevents",
+  "industries": [
+    "Events",
+    "Social Media",
+    "Software"
+  ],
+  "description": "About Posh\n\nWe are all social creatures, but the dominant “social”\ncompanies today have evolved into digital loneliness\nmachines, driving isolation, anxiety, and mental health\nchallenges around the world.\n\nHuman connection is lost. Posh is a beacon guiding us back.\n\nPosh enables anyone to build an IRL community based on\nshared interests, while connecting consumers with the\ncommunities of people just like them. Founded by event\norganizers who were frustrated with the growing loneliness\nepidemic and the tools available to build their own event\nbrand, we’ve built the ultimate platform for launching,\nmonetizing, and finding IRL communities of people just like\nyou. In just 5 years, Posh has grown to a team of 65,\nexpanded to 7M+ users, secured $70m in venture funding, and\nfacilitated over $300M in transactions.\n\nAbout the Role\n\nWe’re looking for a Senior Backend Engineer to join our\nnewly formed AI R&D pod—a small, fast-moving team dedicated\nto building the future of AI-native product experiences at\nPosh.\n\nThis is a backend-focused role with a strong emphasis on\nsystems architecture and AI implementation. You will be\nresponsible for building the intelligent, scalable, and\nreliable systems that power our AI features. Your work will\nfocus on designing and deploying sophisticated Multi-Agent\nSystems, moving beyond simple RAG to create truly autonomous\nand helpful user experiences.\n\nYou’ll work closely with frontend engineers and product\ndesigners to bring cutting-edge AI tools to our platform.\nExpect to build robust APIs, architect data flows for\nevaluations and fine-tuning, and pioneer new ways to\nleverage AI within our existing infrastructure. This\nrepresents a unique opportunity to build the foundational\nbackend of our AI products, with the chance to ship\nexperimental features to a large, growing, and highly\nengaged user base.\n\nThis is a 5 day a week commitment at our NYC office in SoHo.\n\nWhat You’ll Learn & Achieve\n\n- Build and Scale AI Services: Design, build, and maintain\n  scalable backend services and APIs for AI-powered\n  features, writing primary production code in Python.\n- Architect Multi-Agent Systems: Move beyond standard RAG to\n  design and implement complex, hierarchical Multi-Agent\n  Systems that can perform sophisticated, multi-step tasks.\n- Implement Evaluation and Fine-Tuning: Build robust\n  frameworks to evaluate the quality of AI systems and\n  manage fine-tuning pipelines to continuously improve model\n  performance.\n- Own Cloud Infrastructure with IaC: Define, deploy, and\n  manage our AI infrastructure using Terraform. You'll be\n  responsible for scaling our container-based serverless\n  solutions while ensuring reliability and performance.\n- Optimize for Efficiency: Deeply analyze the tradeoffs\n  between model performance, latency, and cost to make\n  pragmatic, business-aware technical decisions when using\n  managed AI services.\n- Integrate Across the Stack: Collaborate with our core\n  engineering teams by occasionally working in TypeScript\n  (Node.js) to integrate AI features into our main\n  application.\n\nWhat We’re Looking For\n\n- 3–6+ years of backend or full-stack engineering experience,\n  with a proven track record of shipping high-quality,\n  scalable systems in fast-paced environments.\n- Deep expertise in Python and its ecosystem for web services\n  and data processing.\n- Strong experience with Infrastructure as Code (Terraform), a\n  major cloud platform (e.g., GCP, AWS, Azure), and\n  deploying containerized applications.\n- A passion for shaping 0→1 products in a lean, fast-paced R&D\n  environment where you'll help define new playbooks for AI-\n  native experiences.\n\nBonus points for:\n\n- Pragmatic AI/ML Exposure: Familiarity with managed AI\n  services (e.g., Vertex AI, AWS Bedrock), working with\n  LLMs, or building advanced AI systems is a plus.\n  Experience with model evaluation frameworks (e.g., RAGAs,\n  LangSmith, DeepEval) or fine-tuning is helpful but not\n  required. The ability to think about tradeoffs between\n  cost, latency, and performance is valuable.\n- Experience with open-source agentic frameworks (e.g.,\n  LangGraph, CrewAI, Strands, etc) is a plus.\n- Experience with MLOps, data engineering, or a background in\n  consumer, marketplace, or event-driven platforms.\n\nWhy This Role Matters\n\nWe believe AI will reshape how people plan and participate\nin real-world experiences. The companies that integrate AI\ndirectly into their product to create visible, daily value\nwill define the next generation of consumer software.\n\nAt Posh, we’re not here to build infrastructure for others.\nWe’re here to lead our category with a product that feels\nintelligent, personal, and effortlessly useful. And we’re\njust getting started.\n\nPosh provides equal employment opportunities to all\nemployees and applicants for employment and prohibits\ndiscrimination and harassment of any type without regard to\nrace, color, religion, age, sex, national origin, disability\nstatus, genetics, protected veteran status, sexual\norientation, gender identity or expression, or any other\ncharacteristic protected by federal, state or local laws.\n\nThis policy applies to all terms and conditions of\nemployment, including recruiting, hiring, placement,\npromotion, termination, layoff, recall, transfer, leaves of\nabsence, compensation and training.\n\nPosh is committed to providing reasonable accommodations for\nqualified individuals with disabilities in our job\napplication procedures. Please let us know if you need\nassistance or accommodation due to a disability\n",
+  "skills_required": [
+    "CrewAI",
+    "LLM fine-tuning",
+    "LangGraph",
+    "Model evaluation",
+    "Multi-Agent Systems",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain scalable backend services and APIs for AI-powered features using Python",
+    "Architect and implement complex, hierarchical Multi-Agent Systems that perform sophisticated, multi-step tasks",
+    "Build robust frameworks to evaluate AI systems quality and manage fine-tuning pipelines",
+    "Define, deploy, and manage AI infrastructure using Terraform and container-based serverless solutions",
+    "Analyze tradeoffs between model performance, latency, and cost for managed AI services",
+    "Collaborate with core engineering teams using TypeScript (Node.js) to integrate AI features into the main application"
+  ],
+  "use_cases": [
+    "AI-native community building and event discovery experiences",
+    "Multi-agent systems for planning real-world experiences",
+    "Autonomous user assistance for IRL community engagement",
+    "Intelligent personalization for event recommendations",
+    "Consumer-facing AI features for marketplace and event-driven platform"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "AWS",
+    "AWS Bedrock",
+    "Azure",
+    "Containerization",
+    "GCP",
+    "LangSmith",
+    "Node.js",
+    "RAGAs",
+    "Serverless",
+    "Terraform",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "LLM fine-tuning",
+    "LangGraph",
+    "Model evaluation",
+    "Multi-Agent Systems",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing and deploying sophisticated\nMulti-Agent Systems, building evaluation frameworks, and\nmanaging fine-tuning pipelines for AI-powered features. The\nposition explicitly focuses on moving beyond RAG to create\nautonomous systems, which is hands-on work building and\ndeploying AI/LLM systems.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "CrewAI",
+      "Multi-Agent Systems",
+      "RAG"
+    ],
+    "ml": [
+      "LLM fine-tuning",
+      "Model evaluation"
+    ],
+    "web": [
+      "Node.js",
+      "APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "GCP",
+      "AWS",
+      "Azure",
+      "Vertex AI",
+      "AWS Bedrock",
+      "Serverless"
+    ],
+    "ops": [
+      "Terraform",
+      "LangSmith",
+      "RAGAs",
+      "Containerization"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

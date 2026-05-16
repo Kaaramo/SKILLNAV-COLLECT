@@ -1,0 +1,28 @@
+company:
+  name: CIH BANK
+  stage: null
+  focus: null
+position:
+  title: Lead Data Manager
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '3960690001'
+  extracted_at: '2026-05-15T15:53:14+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

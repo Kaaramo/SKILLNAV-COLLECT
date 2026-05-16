@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-1408",
+  "source": "intl-ai-corpus",
+  "source_ref": "8449477",
+  "source_url": "https://builtin.com/job/ai-lead-engineer/8449477",
+  "title": "AI Lead Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "dentsu",
+  "company_type": "entité morale privée",
+  "location": "India",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "15,492 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global marketing and advertising agency",
+  "industries": [
+    "AdTech",
+    "Marketing Tech"
+  ],
+  "description": "The purpose of this role is to provide technical guidance\nand suggest improvements in development processes. Develop\nrequired software features, achieving timely delivery in\ncompliance with the performance and quality standards of the\ncompany.\n\nJob Description:\n\nKey responsibilities: Participates in the entire software\ndevelopment cycle - requirements’ analysis, design and\ndevelopment, unit testing and documentation Responsible for\nlong-term code reusability and stability Proactively\nidentifies security, usability etc. issues and formulates\nstrategies to resolve them Works independently, without\nguidance, with broader overview on the project Takes\nownership for the delivery of complex application features\nand resolves key technical issues related to the assigned\nproject Complies with estimation process and is responsible\nfor accurate personal estimates Develops required software\nfeatures, achieving timely and quality delivery Delivers\ntrainings and participates in knowledge sharing Mentors new\nsoftware engineers in the team Integrates new technologies\nUnderstands and follows the release processes in the company\n\nLocation:\n\nDGS India - Mumbai - Thane Ashar IT Park\n\nBrand:\n\nMerkle\n\nTime Type:\n\nFull time\n\nContract Type:\n\nPermanent\n",
+  "skills_required": [
+    "System Design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Participates in the entire software development cycle including requirements analysis, design, development, unit testing and documentation",
+    "Ensures long-term code reusability and stability of software solutions",
+    "Proactively identifies security and usability issues and formulates strategies to resolve them",
+    "Takes ownership for delivery of complex application features and resolves key technical issues",
+    "Mentors new software engineers and participates in knowledge sharing and training delivery",
+    "Integrates new technologies and follows company release processes"
+  ],
+  "use_cases": [],
+  "tools_mentioned": [
+    "AWS",
+    "Agile Development",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "GCP",
+    "Git",
+    "Kubernetes",
+    "Microservices",
+    "REST APIs",
+    "Unit Testing"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The job title includes \"AI Lead Engineer\" but the\ndescription focuses entirely on general software engineering\npractices: development lifecycle, code reusability,\nsecurity, testing, and mentoring. There is no mention of\nbuilding, training, fine-tuning, or deploying AI/ML models,\nsuggesting this is a general SWE role at an AI-related\ncompany (dentsu/Merkle) rather than hands-on AI development.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "Microservices"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Unit Testing",
+      "CI/CD",
+      "Agile Development",
+      "Docker",
+      "Kubernetes",
+      "Git"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Java",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "System Design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

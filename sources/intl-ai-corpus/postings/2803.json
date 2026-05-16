@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-2803",
+  "source": "intl-ai-corpus",
+  "source_ref": "9019378",
+  "source_url": "https://www.builtinla.com/job/senior-ai-engineer/9019378",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Revecore",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-10",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Healthcare claims management and revenue cycle recovery",
+  "industries": [
+    "Automotive",
+    "Healthtech",
+    "Financial Services"
+  ],
+  "description": "Job Summary & Responsibilities\n\nSenior AI Engineer\n\nStart your next chapter at Revecore! For over 25 years,\nRevecore has been at the forefront of specialized claims\nmanagement, helping healthcare providers recover meaningful\nrevenue to enhance quality patient care in their\ncommunities. We're powered by people, driven by technology,\nand dedicated to our clients and employees. If you're\nlooking for a collaborative and diverse culture with a great\nwork/life balance, look no further.\n\n\n\nRevecore Perks:\n\n- We offer paid training and incentive plans\n\n- Our medical, dental, vision, and life insurance benefits are\n  available from the first day of employment\n\n- We enjoy excellent work/life balance\n\n- Our Employee Resource Groups build community and foster a\n  culture of belonging and inclusion\n\n- We match 401(k) contributions\n\n- We offer career growth opportunities\n\n- We celebrate 12 paid holidays and generous paid time off\n\nLocation: Remote-USA\n\n\n\nRole Overview We are seeking a Senior AI Engineer to join\nour Core AI Agentic Development Team. The primary objective\nof this role is to design, develop, and deploy robust,\nmulti-agent systems that assist healthcare providers in\noptimizing their revenue lifecycle and managing accounts\nreceivable (AR). As a senior contributor, you will architect\ncomplex agent orchestration workflows, ensuring our agents\ncan securely and effectively interact with existing\nenterprise systems to drive operational efficiency.\n\n\n\nResponsibilities:\n\n- Design and implement multi-agent AI systems using frameworks\n  such as LangChain, AutoGen, or CrewAI to automate complex\n  healthcare revenue cycle workflows.\n\n- Develop and maintain agent orchestration pipelines where\n  agents collaborate, delegate tasks, and synthesize outputs\n  to drive end-to-end process automation.\n\n- Integrate AI agents with enterprise systems via APIs and\n  RPA-style interfaces (UI/DOM/vision-based interactions) to\n  execute real-world operational tasks.\n\n- Build and enforce guardrails, validation layers, and\n  compliance checks to ensure safe, deterministic, and\n  auditable behavior of LLM-driven systems.\n\n- Architect and deploy supervisor (“oracle”) agents to route\n  tasks, validate sub-agent outputs, and maintain system-\n  wide state and accuracy.\n\n- Implement logging, tracing, and monitoring frameworks to\n  track agent performance, debug multi-agent interactions,\n  and ensure production reliability.\n\n- Collaborate cross-functionally with product, engineering,\n  and domain experts to translate healthcare revenue cycle\n  requirements into scalable AI-driven solutions.\n\n\n\n\n\nRequired Experience and Skills Candidates must possess\nadvanced proficiency in Python, our primary development\nlanguage, along with a strong background in software\nengineering best practices. A proven track record of\ndeveloping and deploying autonomous AI agents and Large\nLanguage Model (LLM) applications in production environments\nis essential. We expect deep, hands-on experience with agent\norchestration frameworks such as crew.ai, LangChain, or\nAutoGen.\n\n\n\nDirect experience and expertise are required in the\nfollowing core areas:\n\n- Agent Orchestration & Execution: Designing complex, multi-\n  step agentic workflows where agents collaborate, delegate,\n  and synthesize information to complete high-value tasks.\n\n- System Driving & Tool Use: Building agents capable of\n  driving existing software systems. This includes API\n  integration, as well as experience with computer use\n  (e.g., RPA-like UI interaction via vision/DOM parsing) and\n  voice AI agents for outbound/inbound communication.\n\n- Guardrails & Safety: Developing and implementing strict\n  guardrails to ensure deterministic, safe, and compliant\n  behavior from non-deterministic LLMs.\n\n- Oracle Agents: Designing and deploying \"oracle\" or\n  supervisor agents responsible for routing tasks, verifying\n  the outputs of sub-agents, and maintaining overall system\n  state and truth.\n\n- Agent Governance: Implementing logging, tracing, and\n  monitoring specific to agentic behavior to ensure\n  accountability and debug complex multi-agent interactions\n  in production.\n\n\n\n\n\n\n\nPreferred Qualifications Previous experience working within\nthe healthcare revenue lifecycle domain is highly desirable.\nCandidates who understand the nuances of healthcare billing,\naccounts receivable, and revenue cycle management will have\na distinct advantage, as this domain knowledge directly\ntranslates to more effective agent design and problem-\nsolving.\n\n\n\n\n\nWork at Home Requirements:\n\n- A quiet, distraction-free environment to work from in your\n  home.\n\n- A secure internet connection is required.\n\n- Home internet with speeds >20 Mbps for downloads and >10\n  Mbps for uploads.\n\n- The workspace area accommodates all workstation equipment\n  and related materials and provides adequate surface area\n  to be productive.\n\n\n\nRevecore is an equal opportunity employer that does not\ndiscriminate based on race, color, religion, sex or gender,\ngender identity or expression, sexual orientation, national\norigin, age, disability status, veteran status, genetic\ninformation, or any other legally protected status.  \n\nWe believe that a diverse workforce fosters innovation and\ncreativity, enriches our culture, and enables us to better\nserve the needs of our clients and communities. We welcome\nand encourage individuals of all backgrounds, perspectives,\nand abilities to apply.\n\n\n\nMust reside in the United States within one of the states\nlisted below:\n\nAlabama, Arkansas, Delaware, Florida, Georgia, Iowa,\nIllinois, Indiana, Kansas, Kentucky, Louisiana,\nMassachusetts, Maine, Maryland, Michigan, Minnesota,\nMissouri, Mississippi, Montana, North Carolina, Nebraska,\nNew Hampshire, Ohio, Oklahoma, Pennsylvania, Rhode Island,\nSouth Carolina, Tennessee, Texas, Virginia, Wisconsin, and\nWest Virginia\n",
+  "skills_required": [
+    "AutoGen",
+    "CrewAI",
+    "DOM parsing",
+    "LLM guardrails",
+    "LangChain",
+    "Multi-agent orchestration",
+    "Prompt engineering",
+    "RAG",
+    "RPA-style UI interaction",
+    "Vision-based computer use",
+    "Voice AI agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement multi-agent AI systems using frameworks such as LangChain, AutoGen, or CrewAI to automate healthcare revenue cycle workflows",
+    "Develop and maintain agent orchestration pipelines where agents collaborate, delegate tasks, and synthesize outputs for end-to-end process automation",
+    "Integrate AI agents with enterprise systems via APIs and RPA-style interfaces including UI/DOM/vision-based interactions to execute real-world operational tasks",
+    "Build and enforce guardrails, validation layers, and compliance checks to ensure safe, deterministic, and auditable behavior of LLM-driven systems",
+    "Architect and deploy supervisor (oracle) agents to route tasks, validate sub-agent outputs, and maintain system-wide state and accuracy",
+    "Implement logging, tracing, and monitoring frameworks to track agent performance, debug multi-agent interactions, and ensure production reliability",
+    "Collaborate cross-functionally with product, engineering, and domain experts to translate healthcare revenue cycle requirements into scalable AI-driven solutions"
+  ],
+  "use_cases": [
+    "Healthcare revenue cycle workflow automation using multi-agent systems",
+    "Accounts receivable (AR) management optimization",
+    "Automated interaction with enterprise healthcare billing systems via API and RPA",
+    "Compliant and auditable LLM-driven task execution in healthcare",
+    "Supervised multi-agent task routing and output validation",
+    "Outbound/inbound voice AI communication for healthcare operations"
+  ],
+  "tools_mentioned": [
+    "Logging and tracing",
+    "Monitoring frameworks",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "LLM guardrails",
+    "LangChain",
+    "Multi-agent orchestration",
+    "Prompt engineering",
+    "RAG",
+    "Voice AI agents"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely focused on building, deploying, and\norchestrating multi-agent AI systems using LLMs and\nframeworks like LangChain, AutoGen, and CrewAI. The engineer\nwill design agent workflows, implement guardrails for LLM-\ndriven systems, and deploy supervisor/oracle agents — all\nhands-on work directly on AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "AutoGen",
+      "CrewAI",
+      "Multi-agent orchestration",
+      "LLM guardrails",
+      "RAG",
+      "Prompt engineering",
+      "Voice AI agents"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Logging and tracing",
+      "Monitoring frameworks"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Healthcare revenue cycle management"
+    ],
+    "other": [
+      "RPA-style UI interaction",
+      "DOM parsing",
+      "Vision-based computer use"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

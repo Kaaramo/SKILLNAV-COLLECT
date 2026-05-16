@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-2809",
+  "source": "intl-ai-corpus",
+  "source_ref": "9021209",
+  "source_url": "https://builtin.com/job/senior-backend-engineer-sscs-ai-governance/9021209",
+  "title": "Senior Backend Engineer, SSCS: AI Governance",
+  "title_normalized": "AI_ENGINEER",
+  "company": "GitLab",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-11",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,500 Employees",
+  "company_stage": "Public",
+  "company_focus": "DevSecOps platform for software development lifecycle",
+  "industries": [
+    "Cloud",
+    "Security",
+    "Software",
+    "Cybersecurity",
+    "Automation"
+  ],
+  "description": "GitLab is the intelligent orchestration platform for\nDevSecOps. GitLab enables organizations to increase\ndeveloper productivity, improve operational efficiency,\nreduce security and compliance risk, and accelerate digital\ntransformation. More than 50 million registered users and\nmore than 50% of the Fortune 100* trust GitLab to ship\nbetter, more secure software faster.\n\nThe same principles built into our products are reflected in\nhow our team works: we embrace AI as a core productivity\nmultiplier, with all team members expected to incorporate AI\ninto their daily workflows to drive efficiency, innovation,\nand impact. GitLab is where careers accelerate, innovation\nflourishes, and every voice is valued. Our high-performance\nculture is driven by our values and continuous knowledge\nexchange, enabling our team members to reach their full\npotential while collaborating with industry leaders to solve\ncomplex problems. Co-create the future with us as we build\ntechnology that transforms how the world develops software.\n\n*Fortune 500® is a registered trademark of Fortune Media IP\nLimited, used under license. Claim based on GitLab data.\nFortune 100 refers to the top 20% ranked companies in the\n2025 Fortune 500 list, published in June 2025. Fortune and\nFortune Media IP Limited are not affiliated with, and do not\nendorse products or services of GitLab.\n\nAn overview of this role\n\nAs a Senior Backend Engineer, AI Governance at GitLab, you\nwill help build the backend systems behind a paid product\nfor regulated enterprise organizations that need clear\nvisibility, policy controls, and compliance evidence for AI\nuse inside the software development lifecycle. This role\nsits at the intersection of AI, governance, and enterprise\nbackend engineering, where your work will help customers\nadopt AI agents with more confidence.\n\nYou will contribute across the AI Governance product surface\nrather than focus on a single narrow area. That includes\nbackend work for audit event ingestion and export, role-\nbased access control, governance features for the Model\nContext Protocol (MCP) registry, and storage systems for AI\nagent artifacts. You will work on technical problems with\nmeaningful scope and complexity, partnering closely with the\nteam on architecture and implementation in an async-first\nenvironment.\n\nThis is a good fit for someone who enjoys building reliable\nsystems for enterprise use cases, designing for scale, and\nworking in a space where product requirements are shaped by\nemerging AI regulations and customer governance needs. Your\nwork will directly support organizations that need to manage\nAI usage with the same rigor they apply to security,\ncompliance, and software delivery.\n\nWhat you’ll do\n\n- Implement and evolve the AI audit event pipeline, including\n  event ingestion, schema normalization, storage design,\n  partitioning, retention, and export capabilities.\n- Implement access control for AI Governance features by\n  integrating permissions for audit logs, policy\n  configuration, and governance dashboards into GitLab's\n  existing authorization model.\n- Contribute backend functionality for the AI agent artifact\n  feature, supporting structured storage and retrieval of\n  agent run metadata alongside existing CI/CD artifacts.\n- Build backend services for the MCP registry, including tool\n  metadata and enforcement controls that can restrict or\n  block access when needed.\n- Design and optimize data models and queries for high-write,\n  event-heavy systems using PostgreSQL and ClickHouse.\n- Write and maintain solid RSpec and integration test\n  coverage, while helping improve team test reliability\n  practices.\n- Contribute to architecture decisions and deliver\n  implementations with ownership, while working closely with\n  partner teams in AI and Continuous Delivery.\n\nWhat you’ll bring\n\n- Extensive experience building backend applications with Ruby\n  on Rails in production environments.\n- Proficiency in Python and experience building backend\n  services that support AI infrastructure, gateways, or\n  adjacent product systems.\n- Extensive experience with PostgreSQL and other data-\n  intensive databases such as ClickHouse, including schema\n  design, partitioning strategies, and efficient query\n  patterns for event-heavy workloads.\n- Experience building REST or GraphQL APIs and designing\n  backend systems for reliable storage, retrieval, and\n  governance workflows.\n- Solid understanding of authorization, access control, and\n  enterprise governance concepts in web application\n  architectures.\n- Familiarity with regulatory compliance, auditability, or\n  enterprise governance requirements, and the ability to\n  apply them in production systems.\n- Clear written communication skills and comfort working\n  effectively in a remote, async-first team.\n- Helpful experience includes audit trails, telemetry, event\n  streaming, SIEM integrations, webhook delivery, enterprise\n  retention requirements, AI agent infrastructure, large\n  language models, the Model Context Protocol (MCP), or\n  compliance, observability, and enterprise security\n  products.\n\nAbout the team\n\nYou'll join the AI Governance team within GitLab's Secure,\nScale, and Compliance area. We focus on helping\norganizations gain visibility into and govern AI usage\ninside GitLab. Our work spans two broad problem spaces:\nvisibility, such as audit events, usage tracking, and\nobservability, and policy controls, such as controls that\nhelp protect projects and meet compliance requirements.\n\nWe are building this team alongside a parallel AI Governance\nteam, with both groups contributing to different parts of a\nfast-changing roadmap. You'll work with a distributed group\nof engineers and collaborate with adjacent AI and Continuous\nDelivery teams as we integrate governance capabilities more\ndeeply into the platform. It's an interesting team for\nengineers who want to work on emerging product challenges at\nthe intersection of AI, compliance, and large-scale\nenterprise software. For more on how related teams work, see\nTeam Handbook Page.\n\nHow GitLab Supports Full-Time Employees\n\n- Benefits to support your health, finances, and well-being\n- Flexible Paid Time Off\n- Team Member Resource Groups\n- Equity Compensation & Employee Stock Purchase Plan\n- Growth and Development Fund\n- Parental leave\n- Home office support\n\nPlease note that we welcome interest from candidates with\nvarying levels of experience; many successful candidates do\nnot meet every single requirement. Additionally, studies\nhave shown that people from underrepresented groups are less\nlikely to apply to a job unless they meet every single\nqualification. If you're excited about this role, please\napply and allow our recruiters to assess your application.\n\nCountry Hiring Guidelines: GitLab hires new team members in\ncountries around the world. All of our roles are remote,\nhowever some roles may carry specific location-based\neligibility requirements. Our Talent Acquisition team can\nhelp answer any questions about location after starting the\nrecruiting process.\n\nPrivacy Policy: Please review our Recruitment Privacy\nPolicy. Your privacy is important to us.\n\nGitLab is proud to be an equal opportunity workplace and is\nan affirmative action employer. GitLab’s policies and\npractices relating to recruitment, employment, career\ndevelopment and advancement, promotion, and retirement are\nbased solely on merit, regardless of race, color, religion,\nancestry, sex (including pregnancy, lactation, sexual\norientation, gender identity, or gender expression),\nnational origin, age, citizenship, marital status, mental or\nphysical disability, genetic information (including family\nmedical history), discharge status from the military,\nprotected veteran status (which includes disabled veterans,\nrecently separated veterans, active duty wartime or campaign\nbadge veterans, and Armed Forces service medal veterans), or\nany other basis protected by law. GitLab will not tolerate\ndiscrimination or harassment based on any of these\ncharacteristics. See also GitLab’s EEO Policy and EEO is the\nLaw. If you have a disability or special need that requires\naccommodation, please let us know during the recruiting\nprocess.\n",
+  "skills_required": [
+    "AI agent infrastructure",
+    "Access control and authorization",
+    "Model Context Protocol (MCP)",
+    "RSpec",
+    "Regulatory compliance"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement and evolve the AI audit event pipeline including ingestion, schema normalization, storage, partitioning, retention, and export",
+    "Implement role-based access control for AI Governance features by integrating permissions into GitLab's authorization model",
+    "Build backend functionality for AI agent artifact storage and retrieval of agent run metadata alongside CI/CD artifacts",
+    "Build backend services for the MCP registry including tool metadata and enforcement controls",
+    "Design and optimize data models and queries for high-write event-heavy systems using PostgreSQL and ClickHouse",
+    "Write and maintain RSpec and integration test coverage and improve team test reliability practices",
+    "Contribute to architecture decisions and partner with AI and Continuous Delivery teams"
+  ],
+  "use_cases": [
+    "AI audit event tracking and compliance evidence for enterprise organizations",
+    "Policy controls and governance for AI usage within the software development lifecycle",
+    "Visibility and observability into AI agent activity for regulated industries",
+    "MCP registry governance with tool-level enforcement and access restrictions",
+    "Enterprise compliance with emerging AI regulations"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "ClickHouse",
+    "Event streaming",
+    "GraphQL",
+    "PostgreSQL",
+    "REST APIs",
+    "Ruby on Rails"
+  ],
+  "frameworks_mentioned": [
+    "AI agent infrastructure",
+    "Model Context Protocol (MCP)"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is a backend engineering position focused on\nbuilding governance, compliance, and audit infrastructure\naround AI usage—not on building, training, fine-tuning, or\ndeploying AI/ML models. The engineer builds backend systems\n(audit pipelines, access controls, storage, MCP registry)\nthat enable enterprise governance of AI features, making\nthis clearly an AI-support role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Model Context Protocol (MCP)",
+      "AI agent infrastructure"
+    ],
+    "ml": [],
+    "web": [
+      "Ruby on Rails",
+      "REST APIs",
+      "GraphQL"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "ClickHouse"
+    ],
+    "data": [
+      "Event streaming"
+    ],
+    "cloud": [],
+    "ops": [
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "RSpec",
+      "Access control and authorization",
+      "Regulatory compliance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

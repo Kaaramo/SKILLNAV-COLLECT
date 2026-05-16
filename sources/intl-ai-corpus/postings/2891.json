@@ -1,0 +1,102 @@
+{
+  "job_id": "intl-ai-corpus-2891",
+  "source": "intl-ai-corpus",
+  "source_ref": "9055434",
+  "source_url": "https://builtin.com/job/ai-support-engineer/9055434",
+  "title": "AI Support Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cognition",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "49 Employees",
+  "company_stage": "Startup",
+  "company_focus": "Building AI software agents (Devin) and AI-native IDE\n(Windsurf)",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "We are an applied AI lab building end-to-end software\nagents.\n\nWe're the makers of Devin, the first AI software engineer,\nand Windsurf, the AI-native IDE. Together, they represent\nour vision for collaborative AI teammates that enable\nengineers to focus on more interesting problems and empower\nteams to strive for more ambitious goals.\n\nOur team is small and talent-dense. Among our founding team,\nwe have world-class competitive programmers, former\nfounders, and leaders from companies at the cutting edge of\nAI including Scale AI, Palantir, Cursor, Waymo, Tesla,\nLunchclub, Modal, Google DeepMind, and Nuro.\n\nBuilding Devin and Windsurf is just the first step—our\nhardest challenges still lie ahead. If you’re excited to\nsolve some of the world’s biggest problems and build AI that\ncan reason on real-world tasks, apply to join us.\n\nAbout the Role\n\nAre you excited about the limitless possibilities of\nartificial intelligence and machine learning? Do you want to\nmake these possibilities into realities for real people? If\nso, we have an extraordinary opportunity to join our startup\nas an AI Support Engineer.\n\nCognition and Windsurf give AI-powered tools to development\nteams at thousands of enterprises, from startups to Fortune\n500 companies. Due to the complexity of enterprise tasks and\nenvironments, combined with the rapid evolution of the\nproduct itself, customer issues may come up that would\nreduce adoption and value driven if not addressed rapidly.\nYou will be the first line of responding and resolving these\ncustomer issues, leveraging your computer science and AI\nknowledge to help customers effectively. Your role will be\ninstrumental in driving adoption of AI technology.\n\nThis is a unique opportunity to work at an AI startup with\nreal users.\n\nKey Responsibilities:\n\n- First line of response to any customer issues: Customer\n  issues could stem from misuse of the software, errors in\n  the deployment, or bugs in the underlying software.\n  Support engineers are required to use their AI and CS\n  knowledge to root cause, reproduce, and respond to any\n  type of issue. Support engineers will help define\n  processes and build automations to streamline our support\n  function.\n- Escalation, resolution, and education: If a support engineer\n  is unable to resolve a customer issue, they are\n  responsible for escalating the issue to the appropriate\n  Cognition/Windsurf stakeholders (deployed engineering,\n  field IT, or enterprise engineering), tracking and\n  understanding the resolution of the issue, and educating\n  the customer on the solution.\n- Knowledge documentation and distribution: Support engineers\n  are responsible for documenting learnings about failure\n  modalities across use and deployment and distributing that\n  knowledge to end customers and internal engineering teams.\n- Product testing and feedback: Cognition and Windsurf’s\n  products work across a range of IDEs, programming\n  languages, and modalities. Support engineers will be\n  instrumental in testing each release. Support engineers\n  will also use their CS and AI skills to automate parts of\n  the QA process.\n\nQualifications:\n\n- 2+ years working in a technical role\n- Bachelor's or higher degree in Computer Science, Software\n  Engineering, or related field.\n- Knowledge of distributed computing, containerization, and\n  orchestration technologies (e.g., Docker, Kubernetes).\n- Proficiency in programming languages such as Python, Java,\n  or Go\n- Strong organizational skills and customer friendliness.\n- Strong problem-solving skills and the ability to work in a\n  fast-paced, dynamic startup environment.\n- Passion for artificial intelligence and large language\n  models. Hands-on experience with these technologies is not\n  required, but is a plus.\n\nEqual Opportunity\n\nCognition is an equal opportunity employer. We do not\ndiscriminate on the basis of race, color, religion, sex,\nsexual orientation, gender identity, national origin, age,\ndisability, veteran status, or any other protected\ncharacteristic under applicable law. We are committed to\nproviding reasonable accommodations for candidates with\ndisabilities throughout the hiring process - please let us\nknow if you need any.\n",
+  "skills_required": [
+    "Customer Support",
+    "Problem Solving",
+    "QA Testing"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "First line of response to customer issues including misuse, deployment errors, and software bugs, using AI and CS knowledge to root cause and resolve problems",
+    "Escalate unresolved customer issues to appropriate internal teams (deployed engineering, field IT, enterprise engineering) and track resolution",
+    "Document learnings about failure modalities across deployment and usage, distributing knowledge to customers and internal engineering teams",
+    "Test each product release across a range of IDEs, programming languages, and modalities",
+    "Automate parts of the QA process using CS and AI skills",
+    "Help define processes and build automations to streamline the support function",
+    "Educate customers on solutions to resolved issues"
+  ],
+  "use_cases": [
+    "AI-powered software development tools for enterprise teams",
+    "AI software engineer (Devin) for automating coding tasks",
+    "AI-native IDE (Windsurf) for collaborative development",
+    "Enterprise adoption of AI coding assistants"
+  ],
+  "tools_mentioned": [
+    "Containerization",
+    "Distributed Computing",
+    "Docker",
+    "Kubernetes"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a customer support role for an AI company's products\n(Devin, Windsurf). The engineer responds to customer issues,\nescalates bugs, documents solutions, and tests releases —\nthey work NEAR AI products but do not build, train, fine-\ntune, or deploy AI models themselves. The job explicitly\nstates \"hands-on experience with these technologies is not\nrequired.\"",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Distributed Computing",
+      "Containerization"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "Go"
+    ],
+    "domains": [],
+    "other": [
+      "Problem Solving",
+      "Customer Support",
+      "QA Testing"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

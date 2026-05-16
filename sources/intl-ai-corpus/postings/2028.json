@@ -1,0 +1,118 @@
+{
+  "job_id": "intl-ai-corpus-2028",
+  "source": "intl-ai-corpus",
+  "source_ref": "8708837",
+  "source_url": "https://www.builtinla.com/job/system-software-engineer-ai/8708837",
+  "title": "System Software Engineer - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Delos Data",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-10",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Seed",
+  "company_focus": "Building infrastructure for large-scale AI data center\nclusters",
+  "industries": [
+    "Artificial Intelligence",
+    "Hardware",
+    "Semiconductor"
+  ],
+  "description": "System Software Engineer - AI\n\nAbout us:\n\nWe are a stealth-mode startup building foundational\ntechnology to address performance, scalability, and\nresiliency challenges in large-scale AI data center\nclusters. We are backed by top-tier VC firms and notable\nangel investors.\n\nThe company is led by experienced builders and operators who\nhave founded companies, taken them to scale, and exited\nsuccessfully. We work with a strong sense of unity and\nshared responsibility, and we expect trust, integrity, and\nrespect in how we collaborate and make decisions. We hold\nourselves accountable to one another and to the quality of\nthe work we deliver.\n\nHeadquartered in Silicon Valley, we operate across a mix of\nremote and on-site locations in the U.S. and Canada. We aim\nto create an environment where people are treated fairly,\nsupported in their growth, and are empowered to do\nmeaningful work alongside others who take the craft\nseriously.\n\nWe are looking for:\n\nWe are looking for a talented System Software Engineer to\nhelp us redefine the infrastructure layer of AI. In this\nrole, you will bridge the gap between high-level AI\nframeworks and low-level system software. You will be\nresponsible for designing and implementing the communication\nand execution primitives that allow large-scale AI models to\nrun efficiently across thousands of GPUs. We are looking for\na \"builder\" who thrives in the early stages of a product’s\nlifecycle and is passionate about solving the \"hard\" systems\nproblems of the generative AI era.\n\nKey Responsibilities:\n\n- Collaborate across the stack to influence the design of our\n  foundational technology, ensuring it meets the needs of\n  next-generation AI models.\n- Identify and resolve performance bottlenecks in distributed\n  training and inference workloads through deep-dive\n  analysis of the software-hardware interface.\n- Conduct rigorous performance benchmarking and\n  characterization on multi-node clusters.\n\nRequired Skills and Qualifications:\n\n- Strong proficiency in C++ and Python, with a deep\n  understanding of systems programming fundamentals (memory\n  management, concurrency, OS internals).\n- Proficient in a Linux development environment.\n\nDesired Skills:\n\n- Experience with GPU programming (CUDA) and performance\n  optimization for parallel architectures.\n- Familiarity with distributed AI frameworks (PyTorch, JAX, or\n  DeepSpeed) and/or inference engines (vLLM, SGLang,\n  Dynamo/TRT-LLM).\n- Hands-on experience with large-scale cluster orchestration\n  and telemetry tools.\n\nEducation:\n\n- Bachelor's or Master's degree in Computer Engineering,\n  Computer Science, or a related field.\n\nCompensation:\n\nTarget base salary for this role is $140,000 - $200,000 per\nyear + meaningful equity + benefits + 401k. Our salary\nranges are determined by role, level, experience, and\nlocation.\n\nWe are an equal opportunity employer. We value a range of\nperspectives and experiences and make employment decisions\nbased on merit and business needs. We do not discriminate on\nthe basis of legally protected characteristics.\n\nAgency Note:\n\nWe do not accept resumes from agencies or search firms.\nPlease do not forward candidate profiles through our careers\npage, email, LinkedIn messages, or directly to company\nemployees. Any resumes submitted will be deemed the property\nof the company, and no fees will be paid in the event the\ncandidate is hired.\n\n#LI-EW1\n",
+  "skills_required": [
+    "CUDA",
+    "DeepSpeed",
+    "GPU programming",
+    "JAX",
+    "PyTorch",
+    "distributed AI frameworks",
+    "systems programming"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate across the stack to influence the design of foundational technology for next-generation AI models",
+    "Identify and resolve performance bottlenecks in distributed training and inference workloads through analysis of software-hardware interface",
+    "Conduct rigorous performance benchmarking and characterization on multi-node clusters",
+    "Design and implement communication and execution primitives for large-scale AI models across thousands of GPUs",
+    "Bridge the gap between high-level AI frameworks and low-level system software"
+  ],
+  "use_cases": [
+    "Distributed training at scale across multi-node GPU clusters",
+    "Inference workload optimization for large-scale AI models",
+    "Performance optimization for AI data center infrastructure",
+    "Communication primitives for distributed AI workloads",
+    "GPU cluster performance benchmarking and characterization"
+  ],
+  "tools_mentioned": [
+    "Linux",
+    "SGLang",
+    "TensorRT",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "DeepSpeed",
+    "GPU programming",
+    "JAX",
+    "PyTorch",
+    "distributed AI frameworks"
+  ],
+  "languages_programming": [
+    "C++",
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on building low-level system software\ninfrastructure for AI data centers, including GPU\nprogramming (CUDA), performance optimization for distributed\ntraining/inference, and communication primitives. The work\ninvolves direct optimization of ML workloads and GPU\narchitectures, making it ml-first rather than ai-support.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "CUDA",
+      "PyTorch",
+      "JAX",
+      "DeepSpeed",
+      "GPU programming",
+      "distributed AI frameworks"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "vLLM",
+      "SGLang",
+      "TensorRT",
+      "Linux"
+    ],
+    "languages": [
+      "C++",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "systems programming"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

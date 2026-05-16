@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-0158",
+  "source": "intl-ai-corpus",
+  "source_ref": "7253881",
+  "source_url": "https://builtin.com/job/founding-ai-engineer/7253881",
+  "title": "Backend Engineer, Agentic AI (Senior/Staff Level)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Granted",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-10",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "23 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI-powered healthcare billing and insurance claims\nautomation",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Insurance",
+    "Mobile",
+    "Financial Services"
+  ],
+  "description": "💡 Mission\n\nThe US healthcare system is complex, error-prone, and\nfinancially draining. Medical bills and insurance coverage\nshouldn’t be this hard to navigate. At Granted, we’re\nbuilding the one solution every American can turn to for\nhelp.\n\nThanks to AI and new regulations, Granted can fight claim\ndenials, correct billing errors, negotiate bills, and make\ncoverage easier to understand—saving people time, money, and\nstress. Our goal is simple: to be the #1 platform that\nempowers all Americans to take charge of their healthcare.\n\n🩺 About Us\n\nFounded by a former Oscar Health leader, we’re a seed-stage\ncompany with $17M in funding. We’re lucky to be backed by\nthe founders and investors at Hugging Face, Rocket Money,\nOscar Health, CaseText, Forerunner Ventures, RRE Ventures,\nand more. We are well-funded for the next few years.\n\n👉 Curious about our engineering culture + tech stack? Check\nout this write-up.\n\n🔎 About the Role\n\nThe Automations pod turns complex healthcare case work into\nscalable, agentic workflows — driving automation coverage,\nlowering cost to serve, and ensuring users get fast,\naccurate outcomes without needing to navigate the system\nthemselves.\n\nAs an engineer on this team, you’ll help build the\nintelligence layer behind these workflows — designing\ndistributed systems, integrating AI models, and ensuring\neverything runs reliably at scale.\n\n🚀 What You’ll Do\n\n- Design and build scalable systems and APIs that power\n  agentic workflows from case activation through resolution.\n- Push the frontier of AI-driven engineering, working on\n  prompt orchestration, agent frameworks, and model\n  evaluation loops.\n- Collaborate closely with Product, Engineering, and domain\n  experts to translate complex healthcare processes into\n  reliable automations.\n- Architect systems for scale and reliability, ensuring human\n  escalation pathways are transparent and seamless.\n- Play a key role in shaping the pod’s technical strategy, and\n  mentor others as the team grows.\n\n🧪 What You Might Work On\n\n- Creating and optimizing AI pipelines to identify,\n  categorize, and resolve errors in medical billing and\n  insurance claims.\n- Building automated agents and backend services that handle\n  complex case flows with minimal human intervention.\n- Integrating domain-specific healthcare knowledge into models\n  and decision engines to improve accuracy.\n- Developing tooling and infrastructure to measure and improve\n  AI performance in real-world scenarios.\n\n👩‍💻 We'll be most excited if you\n\n- Bring 6-10+ years of backend engineering experience, ideally\n  building production systems at scale.\n- Are deeply curious about AI — from prompt engineering and\n  agent orchestration to model evaluation.\n- Excel at designing pragmatic solutions to complex technical\n  challenges.\n- Communicate clearly and collaborate effectively across\n  disciplines.\n- Thrive in high-autonomy, fast-moving environments.\n- (Bonus) Have experience with healthcare data, product\n  engineering, ML systems, or web crawling.\n- (Extra bonus) Have 10+ years of GPT-5 experience — or,\n  failing that, a good sense of humor.\n\n📢 You don't need to check every single box—if you're\npassionate, driven, and excited about the impact AI can make\non the healthcare system, we'd love to hear from you!\n\nGranted is proud to be an Equal Opportunity Employer. We\ncelebrate diversity and are committed to creating an\ninclusive environment for all employees. We do not\ndiscriminate based on race, religion, color, national\norigin, gender (including pregnancy, childbirth, or related\nmedical conditions), sexual orientation, gender identity or\nexpression, age, protected veteran status, disability, or\nany other legally protected characteristics.\n\nWe are also committed to providing reasonable accommodations\nto qualified individuals with disabilities. If you need\nassistance or an accommodation during the application or\ninterview process, please contact us.\n",
+  "skills_required": [
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "agents",
+    "model evaluation",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build scalable systems and APIs that power agentic workflows from case activation through resolution",
+    "Push the frontier of AI-driven engineering, working on prompt orchestration, agent frameworks, and model evaluation loops",
+    "Collaborate closely with Product, Engineering, and domain experts to translate complex healthcare processes into reliable automations",
+    "Architect systems for scale and reliability, ensuring human escalation pathways are transparent and seamless",
+    "Play a key role in shaping the pod's technical strategy, and mentor others as the team grows",
+    "Create and optimize AI pipelines to identify, categorize, and resolve errors in medical billing and insurance claims",
+    "Build automated agents and backend services that handle complex case flows with minimal human intervention"
+  ],
+  "use_cases": [
+    "Automating the identification, categorization, and resolution of errors in medical billing and insurance claims",
+    "Building agentic workflows that navigate complex healthcare case work with minimal human intervention",
+    "Integrating domain-specific healthcare knowledge into AI models and decision engines to improve accuracy",
+    "Developing real-world AI performance measurement and improvement tooling for healthcare automation",
+    "Fighting claim denials, correcting billing errors, and negotiating bills through AI-driven automation"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "FastAPI",
+    "Kubernetes",
+    "REST",
+    "distributed systems"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "agents",
+    "model evaluation",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role because the engineer will directly\nbuild agentic AI workflows, including prompt orchestration,\nagent frameworks, and model evaluation loops. The role\ninvolves creating and optimizing AI pipelines and automated\nagents that handle complex healthcare case flows, which is\nhands-on work with AI systems rather than just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "prompt engineering",
+      "agents",
+      "OpenAI API",
+      "model evaluation"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "distributed systems",
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

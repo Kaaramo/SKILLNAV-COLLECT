@@ -1,0 +1,159 @@
+{
+  "job_id": "intl-ai-corpus-2377",
+  "source": "intl-ai-corpus",
+  "source_ref": "8865869",
+  "source_url": "https://www.builtinla.com/job/applied-ai-engineer/8865869",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pager Health",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Connected health platform delivering AI-powered healthcare\nexperiences for patients, members, and teams",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Mobile",
+    "Software",
+    "Telehealth",
+    "Generative AI"
+  ],
+  "description": "Pager Health is a connected health platform company that\nenables healthcare enterprises to deliver high-engagement,\nintelligent health experiences for their patients, members\nand teams through integrated technology, AI and concierge\nservices. Our solutions help people get the right care at\nthe right time in the right place and stay healthy, while\nsimultaneously reducing system friction and fragmentation,\npowering engagement, and orchestrating the enterprise. Pager\nHealth partners with leading payers, providers and employers\nrepresenting more than 28 million individuals across the\nUnited States and Latin America.\n\nWe believe that healthcare should work for everyone.  We\nbelieve that it’s too important to be as cumbersome and\ndifficult as it is.  And we believe that there is a better\nway to deliver a simplified, more meaningful healthcare\nexperience for all – one that we’re determined to enable.\n\nWe're looking for an Applied AI/LLM Engineer to design,\nbuild, and ship LLM-powered agents and applications. You'll\nwork closely with our Data Science team, who defines the LLM\nstrategy, guardrails, evaluation criteria, and model\nselection. Your job is to take that foundation and turn it\ninto reliable, production-grade agent systems that solve\nreal business problems. This is a builder role, not a\nresearch role. You'll spend most of your time writing code —\nwiring up tools, orchestrating multi-step workflows,\nintegrating APIs, and making sure agents behave predictably\nin the wild. You should be deeply comfortable working with\nlarge language models in production and operating at the\nintersection of software engineering and applied AI.\nResponsibilities:\n\n- Build agentic applications and workflows using the LLM\n  frameworks, models, and guardrails provided by the Data\n  Science team Design and implement tool integrations,\n  function-calling patterns, and orchestration logic that\n  allow agents to take actions across internal systems and\n  external APIs\n- Translate agent specifications and prompt strategies\n  (authored by Data Science) into robust, deployable\n  services Implement RAG pipelines, including vector store\n  integration, chunking strategies, and retrieval\n  optimization\n- Own the full lifecycle of agent systems from prototype\n  through production, including testing, monitoring,\n  logging, and iteration\n- Build evaluation and observability infrastructure so the\n  team can measure agent quality, latency, cost, and safety\n  in production\n- Collaborate with Data Science on prompt engineering, model\n  behavior tuning, and guardrail enforcement. Implementing\n  their specifications into the runtime layer Work with\n  platform and infrastructure teams to deploy, scale, and\n  maintain agent services in cloud environments (GCP/Vertex\n  AI, AWS Bedrock, Azure OpenAI)\n- Contribute to internal tooling, SDKs, and shared libraries\n  that accelerate agent development across the organization\n\nQualifications:\n\n- 3+ years of software engineering experience with strong\n  proficiency in Python Hands-on experience building\n  applications powered by large language models (Claude,\n  GPT, Gemini)\n- Familiarity with agent frameworks and orchestration patterns\n  (LangChain, LangGraph, CrewAI, Vertex AI Agent Builder, or\n  custom orchestration)\n- Experience implementing function calling, tool use, and\n  multi-step agent workflows Solid understanding of RAG\n  architectures, embedding models, and vector databases\n  (Pinecone, Weaviate, pgvector, Vertex AI Vector Search)\n- Comfort working within defined guardrails and model\n  configurations - you don't need to pick the model, but you\n  need to know how to get the most out of it\n- Experience with API design, microservices, and deploying\n  services in cloud environments Strong debugging and\n  problem-solving instincts. Agent systems fail in non-\n  obvious ways and you enjoy chasing down why\n- Strong communication skills; ability to work across Data\n  Science, Product, and Engineering teams\n- Experience with evaluation frameworks for LLM-based systems\n  (custom evals, RAGAS, LangSmith, Braintrust), is nice to\n  have\n- Familiarity with MLOps tooling and CI/CD for ML systems and\n  experience with streaming responses, async architectures,\n  and real-time agent interactions, are nice to have\n- Background in building multi-agent systems with routing,\n  delegation, and coordination patterns, is preferred\n- Exposure to Google Cloud Platform/Vertex AI ecosystem\n  Contributions to open-source AI/ML projects, is preferred\n\nFor Colorado, Nevada, New York, and Washington DC-based\nemployment: In accordance with the Pay Transparency laws the\npay range for this position is $150,000 - $160,000. The\ncompensation package may include stock options, plus a range\nof medical, dental, vision, financial, generous PTO,\nstipends for professional development, and wellness\nbenefits.  Final compensation for this role will be\ndetermined by various factors such as a candidate's relevant\nwork experience, skills, certifications, and geographic\nlocation. The range listed only applies to Colorado, Nevada,\nNew York, and Washington DC.\n\nAt Pager Health, you will work alongside passionate,\ntalented and mission-driven professionals – people who are\nbuilding scalable platforms, solving critical enterprise-\nlevel challenges in health tech and providing concierge\nservices to help individuals access the medical care and\nwellbeing programs they need.\n\nYou will be encouraged to shape your job, stretch your\nskills and drive the company’s future. You will be part of a\nremote-first, dynamic and tight-knit team that embraces the\nchallenges and opportunities that come with being part of a\ngrowth company. Most importantly, you will be an industry\ninnovator who is making a positive impact on people’s lives.\n\nAt Pager Health, we value diversity and always treat all\nemployees and job applicants based on merit, qualifications,\ncompetence, and talent. We do not discriminate on the basis\nof race, religion, color, national origin, gender, sexual\norientation, age, marital status, veteran status, or\ndisability status. Please be aware that all official\ncommunication from Pager Health regarding employment\nopportunities will originate from email addresses ending in\n@pager.com. We will never request personal or financial\ninformation via email. If you receive an email purporting to\nbe from Pager Health that does not adhere to this format,\nplease do not respond and report it to security@pager.com.\nPager Health is committed to protecting the privacy and\nsecurity of your personal information\n",
+  "skills_required": [
+    "Agent frameworks",
+    "Claude API",
+    "CrewAI",
+    "Function calling",
+    "GPT/OpenAI API",
+    "Gemini API",
+    "LangChain",
+    "LangGraph",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build agentic applications and workflows using LLM frameworks, models, and guardrails provided by Data Science team",
+    "Design and implement tool integrations, function-calling patterns, and orchestration logic for agents to take actions across internal systems and external APIs",
+    "Translate agent specifications and prompt strategies into robust, deployable services",
+    "Implement RAG pipelines including vector store integration, chunking strategies, and retrieval optimization",
+    "Own the full lifecycle of agent systems from prototype through production including testing, monitoring, logging, and iteration",
+    "Build evaluation and observability infrastructure to measure agent quality, latency, cost, and safety in production",
+    "Work with platform and infrastructure teams to deploy, scale, and maintain agent services in cloud environments (GCP/Vertex AI, AWS Bedrock, Azure OpenAI)",
+    "Contribute to internal tooling, SDKs, and shared libraries that accelerate agent development across the organization"
+  ],
+  "use_cases": [
+    "Healthcare navigation and care coordination through intelligent agents",
+    "Patient engagement and health experience optimization",
+    "Orchestration of healthcare enterprise workflows",
+    "Integration of healthcare systems and APIs through agent actions",
+    "Clinical and administrative task automation"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "Async architectures",
+    "Azure OpenAI",
+    "CI/CD",
+    "GCP",
+    "LangSmith",
+    "MLOps",
+    "Microservices",
+    "Pinecone",
+    "RAGAS",
+    "REST APIs",
+    "Vector databases",
+    "Vertex AI",
+    "Weaviate",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "Claude API",
+    "CrewAI",
+    "Function calling",
+    "GPT/OpenAI API",
+    "Gemini API",
+    "LangChain",
+    "LangGraph",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, deploying, and\nmaintaining LLM-powered agents and applications in\nproduction. The engineer will implement RAG pipelines,\norchestrate multi-step agent workflows, build tool\nintegrations, and own the full lifecycle of agent systems -\nall hands-on work with AI models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude API",
+      "GPT/OpenAI API",
+      "Gemini API",
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "RAG",
+      "Function calling",
+      "Agent frameworks",
+      "Multi-agent systems",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "Microservices"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "pgvector",
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "GCP",
+      "Vertex AI",
+      "AWS Bedrock",
+      "Azure OpenAI"
+    ],
+    "ops": [
+      "LangSmith",
+      "RAGAS",
+      "CI/CD",
+      "MLOps",
+      "Async architectures"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

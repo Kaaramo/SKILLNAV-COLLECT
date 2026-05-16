@@ -1,0 +1,137 @@
+{
+  "job_id": "intl-ai-corpus-2483",
+  "source": "intl-ai-corpus",
+  "source_ref": "8917910",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai-applications/8917910",
+  "title": "Senior Software Engineer (AI Applications)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AlphaSense",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-31",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,000 Employees",
+  "company_stage": "Growth (founded 2011, 2000+ employees, acquired Tegus in 2024)",
+  "company_focus": "AI-driven market intelligence and search platform for\nenterprise decision-making",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Business Intelligence"
+  ],
+  "description": "About AlphaSense:\n\nThe world’s most sophisticated companies rely on AlphaSense\nto remove uncertainty from decision-making. With market\nintelligence and search built on proven AI, AlphaSense\ndelivers insights that matter from content you can trust.\nOur universe of public and private content includes equity\nresearch, company filings, event transcripts, expert calls,\nnews, trade journals, and clients’ own research content.\n\nThe acquisition of Tegus by AlphaSense in 2024 advances our\nshared mission to empower professionals to make smarter\ndecisions through AI-driven market intelligence. Together,\nAlphaSense and Tegus will accelerate growth, innovation, and\ncontent expansion, with complementary product and content\ncapabilities that enable users to unearth even more\ncomprehensive insights from thousands of content sets. Our\nplatform is trusted by over 6,000 enterprise customers,\nincluding a majority of the S&P 500. Founded in 2011,\nAlphaSense is headquartered in New York City with more than\n2,000 employees across the globe and offices in the U.S.,\nU.K., Finland, India, Singapore, Canada, and Ireland. Come\njoin us!\n\nAbout the Role:\n\nSeeking a passionate Senior Engineer to join our Content\nEngineering team. This team specializes in large-scale\ncontent processing using cutting-edge technologies. In this\nrole, you'll leverage AI applications (NLP, LLM) for\ndocument understanding, including, but not limited to,\ndocument classification, text categorization, data\nextraction, and semantic similarity.\n\nRequirements: Must have\n\n- 6+ years of experience as a software engineer, primarily\n  with Python\n- Ideally, you possess an advanced degree (Bachelor's /\n  Master's)  in Computer Science, Computer Engineering, or a\n  relevant field with a focus on Artificial Intelligence,\n  machine learning, but equivalent industry experience may\n  be considered\n- 2+ years of hands-on experience building and deploying\n  applications that use Large Language Models (LLMs).\n- Experience in extracting structured JSON from text using\n  LLMs and a deep understanding of Prompt Engineering.\n- Proficiency in classic NLP libraries for tasks like NER,\n  text classification, and pre-processing.\n- Experience with LLM tracing, debugging and evaluation\n  platforms such as Langfuse.\n- Excellent communication, organizational, problem-solving,\n  debugging, and analytical skills.\n\n        Great to have\n\n- Experience in async processing of data at scale\n- Using frameworks like LangChain, HuggingFace, and backend\n  web frameworks like FastAPI.\n- Expertise on core engineering skills - Cloud, microservice\n  architecture, caching, and queuing.\n- Familiarity with concepts/tools as Docker, k8s, VCS, CI/CD\n- Previous experience in data extraction from specific domains\n  (e.g., financial reports, news).\n\nResponsibilities:\n\n- Deploy LLM based production grade solutions.\n- Fine-tune and adapt State of the art LLMs for specialized\n  data extraction tasks. Develop innovative prompt\n  engineering strategy and systems to maximize reliability\n  and performance on confidential business documents.\n- Solve Engineering challenges that come along with LLM\n  solutions, such as high latency, non-deterministic output,\n  etc.\n- Implement and scale data processing pipelines that can\n  process high volumes of complex documents with high\n  accuracy and efficiency.\n- Integrate and manage LLM Observability to trace, debug, and\n  monitor every extraction\n- Own systems end-to-end, including(but not limited to)\n  designing, coding, monitoring, testing, CI/CD and on-call\n  support.\n\nAlphaSense is an equal-opportunity employer. We are\ncommitted to a work environment that supports, inspires, and\nrespects all individuals. All employees share in the\nresponsibility for fulfilling AlphaSense’s commitment to\nequal employment opportunity. AlphaSense does not\ndiscriminate against any employee or applicant on the basis\nof race, color, sex (including pregnancy), national origin,\nage, religion, marital status, sexual orientation, gender\nidentity, gender expression, military or veteran status,\ndisability, or any other non-merit factor. This policy\napplies to every aspect of employment at AlphaSense,\nincluding recruitment, hiring, training, advancement, and\ntermination.\n\nIn addition, it is the policy of AlphaSense to provide\nreasonable accommodation to qualified employees who have\nprotected disabilities to the extent required by applicable\nlaws, regulations, and ordinances where a particular\nemployee works.\n\nRecruiting Scams and Fraud\n\nWe at AlphaSense have been made aware of fraudulent job\npostings and individuals impersonating AlphaSense\nrecruiters. These scams may involve fake job offers,\nrequests for sensitive personal information, or demands for\npayment. Please note:\n\n- AlphaSense never asks candidates to pay for job\n  applications, equipment, or training.\n- All official communications will come from an @alpha-\n  sense.com email address.\n- If you’re unsure about a job posting or recruiter, verify it\n  on our Careers page.\n\nIf you believe you’ve been targeted by a scam or have any\ndoubts regarding the authenticity of any job listing\npurportedly from or on behalf of AlphaSense please contact\nus. Your security and trust matter to us.\n",
+  "skills_required": [
+    "HuggingFace",
+    "JSON extraction from text",
+    "LLM fine-tuning",
+    "LangChain",
+    "Large Language Models (LLMs)",
+    "NER (Named Entity Recognition)",
+    "NLP",
+    "Prompt Engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Deploy LLM-based production-grade solutions for document understanding and data extraction",
+    "Fine-tune and adapt state-of-the-art LLMs for specialized data extraction tasks and develop prompt engineering strategies for confidential business documents",
+    "Solve engineering challenges associated with LLM solutions including high latency and non-deterministic output",
+    "Implement and scale data processing pipelines for high-volume complex document processing with high accuracy and efficiency",
+    "Integrate and manage LLM observability to trace, debug, and monitor every extraction",
+    "Own systems end-to-end including designing, coding, monitoring, testing, CI/CD, and on-call support"
+  ],
+  "use_cases": [
+    "Document classification and text categorization for financial and business documents",
+    "Structured data extraction from complex documents using LLMs",
+    "Semantic similarity and document understanding across market intelligence content",
+    "Processing equity research, company filings, event transcripts, and expert calls at scale",
+    "Extracting structured JSON from unstructured text in confidential business documents"
+  ],
+  "tools_mentioned": [
+    "Async data processing",
+    "CI/CD",
+    "Cloud infrastructure",
+    "Docker",
+    "FastAPI",
+    "Kubernetes",
+    "LLM observability and tracing",
+    "Langfuse",
+    "Microservice architecture"
+  ],
+  "frameworks_mentioned": [
+    "HuggingFace",
+    "JSON extraction from text",
+    "LLM fine-tuning",
+    "LangChain",
+    "Large Language Models (LLMs)",
+    "NER (Named Entity Recognition)",
+    "NLP",
+    "Prompt Engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, deploying, and fine-\ntuning LLM-based production systems for document\nunderstanding tasks. The engineer will work hands-on with\nLLMs including fine-tuning, prompt engineering, and\ndeploying production-grade AI solutions, making this an ai-\nfirst role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Large Language Models (LLMs)",
+      "Prompt Engineering",
+      "LangChain",
+      "LLM fine-tuning",
+      "JSON extraction from text"
+    ],
+    "ml": [
+      "HuggingFace",
+      "NLP",
+      "NER (Named Entity Recognition)"
+    ],
+    "web": [
+      "FastAPI",
+      "Microservice architecture"
+    ],
+    "databases": [],
+    "data": [
+      "Async data processing"
+    ],
+    "cloud": [
+      "Cloud infrastructure"
+    ],
+    "ops": [
+      "Langfuse",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "LLM observability and tracing"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

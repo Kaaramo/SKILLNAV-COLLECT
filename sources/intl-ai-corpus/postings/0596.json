@@ -1,0 +1,166 @@
+{
+  "job_id": "intl-ai-corpus-0596",
+  "source": "intl-ai-corpus",
+  "source_ref": "8275319",
+  "source_url": "https://builtin.com/job/sr-data-governance-engineer-ai/8275319",
+  "title": "Sr Data Governance Engineer (AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NBCUniversal",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "68,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global media and entertainment company",
+  "industries": [
+    "AdTech",
+    "Cloud",
+    "Digital Media",
+    "Information Technology",
+    "News + Entertainment",
+    "App development"
+  ],
+  "description": "Company Description NBCUniversal is one of the world's\nleading media and entertainment companies. We create world-\nclass content, which we distribute across our portfolio of\nfilm, television, and streaming, and bring to life through\nour global theme park destinations, consumer products, and\nexperiences. We own and operate leading entertainment and\nnews brands, including NBC, NBC News, NBC Sports, Telemundo,\nNBC Local Stations, Bravo, and Peacock, our premium ad-\nsupported streaming service. We produce and distribute\npremier filmed entertainment and programming through our\npowerhouse film and television studios, including Universal\nPictures, DreamWorks Animation, and Focus Features, and the\nfour global television studios under the Universal Studio\nGroup banner, and operate industry-leading theme parks and\nexperiences around the world through Universal Destinations\n& Experiences, including Universal Orlando Resort, home to\nUniversal Epic Universe, and Universal Studios Hollywood.\nNBCUniversal is a subsidiary of Comcast Corporation. Visit\nwww.nbcuniversal.com for more information. Our impact is\nrooted in improving the communities where our employees,\ncustomers, and audiences live and work. We have a rich\ntradition of giving back and ensuring our employees have the\nopportunity to serve their communities. We champion an\ninclusive culture and strive to attract and develop a\ntalented workforce to create and deliver a wide range of\ncontent reflecting our world. Job Description The Data and\nAnalytics Team (D&A) at NBCUniversal is looking for a\npassionate Senior AI Data Governance Engineer who's eager to\nparticipate in NBCU's D&A journey to AI. In this role,\nyou'll design and implement governance guardrails for AI\nmodels and agents, ensuring secure, compliant, and scalable\ndeployments. You'll work at the intersection of cloud\nengineering, ML/AI Ops, and data governance, partnering with\ntechnologists across NBCU's diverse portfolio - from\nstreaming and broadcast to film studios and theme parks..\nThe D&A team focuses on future-proof data and analytics\nstrategies, supporting NBCU's vast portfolio - from\nbroadcast, cable, news, streaming services, and sports\nnetworks to film studios, theme parks, and digital\nproperties. We pride ourselves on delivering data that\nshapes strategic business decisions around content. Join us!\nResponsibilities\n\n- Implement AI governance policies in collaboration with NBCU\n  Legal, Privacy, and Cyber teams.\n- Build monitoring and reporting frameworks for AI models and\n  tools, emphasizing cost, tagging, and AI FinOps principles\n  like usage tracking and optimization.\n- Develop and manage ML/AI Ops pipelines including CI/CD for\n  models using GitHub Actions or Jenkins, ensuring\n  automation in model deployment and version control.\n- Design and implement AI infrastructure as code through\n  Terraform or AWS CloudFormation, promoting consistent and\n  auditable environment management.\n- Support multi-cloud AI workloads across AWS (SageMaker,\n  IAM), GCP (Vertex AI), Azure (ML + Purview), Snowflake\n  (Cortex), and Databricks (Genie/Agentbricks).\n- Build best practices on AI model integration with Semantic\n  Layer, including semantic models, YAML-based\n  configurations, and API/SQL integrations.\n- Build AI consumption and usage metrics dashboards with\n  guardrails using tools like Llamaguard, LangGraph, and\n  LangChain.\n- Enable RBAC on AI models across tools/LLMs for Data &\n  Analytics teams, enforcing IAM policies for secure access.\n- Facilitate AI model cataloguing, lineage, and governance of\n  Semantic Layer for Gen AI models.\n- Facilitate build of training/synthetic data for AI model\n  testing.\n- Implement technical guardrails such as fairness constraints,\n  bias detection, and transparency measures in AI\n  tools/models.\n- Conduct risk assessments and mitigation through regular\n  audits of fairness, bias detection, and transparency.\n- Coordinate new Data & Analytics POCs on AI features and\n  promote AI governance at design.\n- Build an AI Literacy framework (Tokens, Embeddings, Prompts,\n  RAG, Grounding, Hallucination, Vectorization, Bias, etc.).\n- Facilitate decision matrix on AI model implementation per\n  use case.\n- Engage in architecture design sessions, code reviews, and\n  change management for AI model deployment.\n\nQualifications\n\n- Bachelor's degree in computer science or related discipline\n  (or equivalent).\n- 5+ years overall IT experience; AI/ML experience (at least 2\n  years) with Data Science background or related.\n- Strong hands-on experience with cloud environments (at least\n  two: AWS (preferred), Snowflake (preferred), GCP, Azure,\n  Databricks), leveraging native AI/ML services such as\n  SageMaker, Vertex AI, Cortex, or Agentbricks.\n- Proficiency in programming languages (e.g., Python) with SQL\n  (Snowflake preferred), YAML, and REST API integration in\n  data/AI workflows.\n- Experience with Hyperscalers (AWS, Azure, GCP) and their AI\n  models, plus CI/CD pipelines for model development and\n  MLOps best practices.\n- Experience with Gen AI Governance (RAG, LLM Ops, MCP,\n  Embedding stores, Agents, Prompt Engineering), including\n  AI Agents/RAG/MCP integrations.\n- Familiarity with Infrastructure as Code (Terraform,\n  CloudFormation), security/identity frameworks (RBAC, IAM\n  policies), and various Data Analytics/Warehouse solutions,\n  Semantic layers, and ETL/ELT tools.\n- Strong verbal/written communications and interaction skills\n  with peers, internal/external customers at all levels.\n- Excellent PowerPoint, Visio, or Lucidchart skills for\n  presentations and workflows.\n- Ability to thrive in a fast-paced environment to accelerate\n  AI Governance adoption.\n\nDesired Characteristics\n\n- Understanding of AI regulations (EU AI Act, GDPR, etc.).\n- AI/LLM certification.\n- Semantic Modeling experience.\n- Strong interpersonal, conflict resolution, presentation, and\n  customer service skills.\n\nAdditional Requirements:\n\n- Fully Remote: This position has been designated as fully\n  remote, meaning that the position is expected to\n  contribute from a non-NBCUniversal worksite, most commonly\n  an employee's residence.\n\nThis position is eligible for company sponsored benefits,\nincluding medical, dental and vision insurance, 401(k), paid\nleave, tuition reimbursement, and a variety of other\ndiscounts and perks. Learn more about the benefits offered\nby NBCUniversal by visiting the Benefits page of the Careers\nwebsite. Salary range: $115,000 - $145,000. We are accepting\napplications for this position on an ongoing basis.\nAdditional Information As part of our selection process,\nexternal candidates may be required to attend an in-person\ninterview with an NBCUniversal employee at one of our\nlocations prior to a hiring decision. NBCUniversal's policy\nis to provide equal employment opportunities to all\napplicants and employees without regard to race, color,\nreligion, creed, gender, gender identity or expression, age,\nnational origin or ancestry, citizenship, disability, sexual\norientation, marital status, pregnancy, veteran status,\nmembership in the uniformed services, genetic information,\nor any other basis protected by applicable law. If you are a\nqualified individual with a disability or a disabled veteran\nand require support throughout the application and/or\nrecruitment process as a result of your disability, you have\nthe right to request a reasonable accommodation. You can\nsubmit your request to AccessibilitySupport@nbcuni.com.\n",
+  "skills_required": [
+    "Agents",
+    "Embeddings",
+    "LLM Ops",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement AI governance policies in collaboration with Legal, Privacy, and Cyber teams",
+    "Build monitoring and reporting frameworks for AI models and tools emphasizing cost tracking and AI FinOps principles",
+    "Develop and manage ML/AI Ops pipelines including CI/CD for model deployment and version control using GitHub Actions or Jenkins",
+    "Design and implement AI infrastructure as code through Terraform or AWS CloudFormation for consistent environment management",
+    "Support multi-cloud AI workloads across AWS SageMaker, GCP Vertex AI, Azure ML, Snowflake Cortex, and Databricks",
+    "Build AI consumption metrics dashboards with guardrails using tools like Llamaguard, LangGraph, and LangChain",
+    "Enable RBAC on AI models across tools/LLMs enforcing IAM policies for secure access",
+    "Implement technical guardrails including fairness constraints, bias detection, and transparency measures in AI tools and models"
+  ],
+  "use_cases": [
+    "AI model governance and compliance for media and entertainment platforms",
+    "Deploying AI systems across streaming, broadcast, film studios, and theme parks",
+    "Enforcing data privacy and security guardrails for AI agents and models",
+    "Managing multi-cloud AI workloads with cost optimization and usage tracking",
+    "Ensuring fairness and bias mitigation in AI tools used for content and analytics"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS CloudFormation",
+    "AWS SageMaker",
+    "Azure",
+    "Azure ML",
+    "Azure Purview",
+    "CI/CD",
+    "Databricks",
+    "GCP",
+    "GitHub Actions",
+    "IAM",
+    "Jenkins",
+    "Llamaguard",
+    "MLOps",
+    "RBAC",
+    "REST API",
+    "Snowflake",
+    "Snowflake Cortex",
+    "Terraform",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "Agents",
+    "Embeddings",
+    "LLM Ops",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "YAML"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a governance role that designs guardrails, policies,\nand infrastructure for AI systems but does not involve\nbuilding, training, fine-tuning, or deploying models. The\nrole works at the intersection of cloud engineering, MLOps,\nand data governance to enable AI adoption across the\norganization without hands-on model development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "Prompt Engineering",
+      "LLM Ops",
+      "MCP",
+      "Embeddings",
+      "Agents"
+    ],
+    "ml": [],
+    "web": [
+      "REST API"
+    ],
+    "databases": [
+      "Snowflake"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS SageMaker",
+      "GCP",
+      "Vertex AI",
+      "Azure",
+      "Azure ML",
+      "Azure Purview",
+      "Snowflake",
+      "Snowflake Cortex",
+      "Databricks"
+    ],
+    "ops": [
+      "Terraform",
+      "AWS CloudFormation",
+      "GitHub Actions",
+      "Jenkins",
+      "CI/CD",
+      "MLOps",
+      "RBAC",
+      "IAM",
+      "Llamaguard"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "YAML"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

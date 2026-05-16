@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0498",
+  "source": "intl-ai-corpus",
+  "source_ref": "8168967",
+  "source_url": "https://builtin.com/job/founding-ai-engineer/8168967",
+  "title": "Founding AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Better Half",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-10",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2 Employees",
+  "company_stage": "Seed",
+  "company_focus": "Trustworthy AI for high-stakes relational domains",
+  "industries": [
+    "Consumer Web",
+    "Information Technology",
+    "Social Media",
+    "Social Impact",
+    "Conversational AI"
+  ],
+  "description": "AI alignment isn't bottlenecked by capability. It's\nbottlenecked by trust.\n\nCurrent AI fails in high-stakes contexts because it was\nnever trained for relational competence. Models see\nknowledge, essays, code, and engagement-optimized social\nmedia — but never longitudinal healthy relating. And the\nobjective function optimizes for engagement and utility, not\nrelational integrity.\n\nThe result? Addiction, sycophancy, psychosis, and suicide\nlawsuits. Plus, it's doing nothing to improve our social\nfabric, the strength of our communities, or the health of\nour relationships.\n\nMental health apps see single-digit AI conversion despite\nmassive demand. Robotics companies can't deploy into homes\nbecause LLMs can't handle human nuance. Defense and\nhealthcare won't adopt AI that fails under stress.\n\nThe opportunity: Whoever solves relational coherence wins\nconsumer social AI, robotics, mental health, defense,\neducation — and any domain where humans are vulnerable, the\npressure is real, and mistakes matter.\n\nWhat we're pioneering: An orchestration engine based on\nresearch-backed Cumulative Prospect Theory and a model\ntrained on empirical signals of human thriving — what we're\ncalling Relational Reinforcement Learning (RRL).\n\nYour role: Build the execution layer that translates\nrelational intelligence into natural conversation. This\nisn't a better chatbot. It's infrastructure for trustworthy\nAI in domains where the stakes run high and LLMs aren't good\nenough.\n\nWhat You’ll Build\n\nBetter Half's decision layer (built by our CTO, former\nDistinguished Engineer at IBM) determines when users need\npushback, softening, or repair.\n\nBut decisions mean nothing without execution. You'll build\nthe system that translates those decisions into LLM behavior\nthat feels natural while optimizing for user thriving, not\nengagement.\n\n\nAffect Analysis Pipeline\n\n- Real-time emotion detection that feeds the decision layer\n- Multi-modal sentiment analysis (text, voice, timing,\n  interaction patterns)\n- Track escalation/de-escalation signals across conversations\n\nMemory Systems\n\n- Storage and retrieval of relational context across sessions\n- Consistency checking to maintain relational coherence\n- Long-term modeling of user growth trajectories and\n  relational capacity\n\nPrompt Engineering & Constrained Generation\n\n- Translate high-level decisions (\"user needs reality-checking\n  without triggering defensiveness\") into effective prompts\n- Constrained generation that balances warmth with necessary\n  friction\n- Template systems that adapt to user state and relationship\n  phase\n\nLLM Integration & Orchestration\n\n- Multi-model orchestration (Mistral, Claude, others as\n  needed)\n- Latency optimization for real-time conversation\n- Fallback strategies and graceful degradation\n\nCloud Infrastructure\n\n- AWS or GCP architecture that scales\n- PostgreSQL and vector stores for memory\n- Privacy-preserving processing pipelines (on-device where\n  possible)\n\nEvaluation & Monitoring\n\n- Build eval harnesses that measure relational outcomes, not\n  just fluency\n- Tracing and feedback loops to ensure decisions land as\n  intended\n- A/B testing framework for relational interventions\n\nYour Core Challenge\n\nTurning complex relational intelligence into natural\nconversation that makes people feel understood while\nactually helping them grow — without drifting into\nsycophancy or breaking immersion with safety theater.\n\nSkills You'll Need\n\n- Production-grade Python with async and clean architecture\n- LLM integration including prompt engineering, constrained\n  generation and orchestration\n- Transformer models and sentiment/emotion classifiers\n- Cloud infrastructure on AWS or GCP, PostgreSQL, vector\n  stores\n- Eval and monitoring with harnesses, tracing, and feedback\n  loops\n- Implementing technical specs from academic papers\n- Multimodal inputs\n- Self-starter comfortable with 0-1 startup chaos\n\nAlso Valuable\n\n- Utility theory and behavioral economics\n- Reinforcement learning\n- Game AI or dialogue systems experience\n- Rust\n\nApply\n\nCompetitive contractor compensation and meaningful founding\nengineer equity.\n\nSend your resume and something you've built to jobs@better-\nhalf.ai. A link to code, a project, a writeup.\n\nShow us how you think.\n",
+  "skills_required": [
+    "LLM orchestration",
+    "Transformer models",
+    "constrained generation",
+    "multimodal inputs",
+    "prompt engineering",
+    "reinforcement learning",
+    "sentiment/emotion classifiers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build affect analysis pipeline with real-time emotion detection and multi-modal sentiment analysis",
+    "Develop memory systems for storing and retrieving relational context across sessions",
+    "Engineer prompt systems and constrained generation that translates decisions into natural conversation",
+    "Implement multi-model LLM orchestration with latency optimization and fallback strategies",
+    "Design and deploy cloud infrastructure on AWS/GCP with PostgreSQL and vector stores",
+    "Build evaluation harnesses that measure relational outcomes through tracing and feedback loops"
+  ],
+  "use_cases": [
+    "High-stakes relational AI for mental health, consumer social, robotics, defense, and education",
+    "Trustworthy AI systems that optimize for user thriving rather than engagement",
+    "Real-time conversation systems that provide appropriate pushback, softening, or repair interventions",
+    "Multi-modal emotion detection and escalation tracking in conversation contexts",
+    "Long-term modeling of user growth trajectories and relational capacity across sessions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "GCP",
+    "PostgreSQL",
+    "vector stores"
+  ],
+  "frameworks_mentioned": [
+    "LLM orchestration",
+    "Transformer models",
+    "constrained generation",
+    "multimodal inputs",
+    "prompt engineering",
+    "reinforcement learning",
+    "sentiment/emotion classifiers"
+  ],
+  "languages_programming": [
+    "Python",
+    "Rust",
+    "async"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "NLP",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role focused on building an\norchestration engine for LLMs that translates relational\nintelligence decisions into natural conversation. The\nengineer will work directly on prompt engineering,\nconstrained generation, multi-model LLM orchestration, and\ntransformer-based emotion analysis - all hands-on AI/ML\nsystem building work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "constrained generation",
+      "LLM orchestration"
+    ],
+    "ml": [
+      "Transformer models",
+      "sentiment/emotion classifiers",
+      "reinforcement learning",
+      "multimodal inputs"
+    ],
+    "web": [],
+    "databases": [
+      "PostgreSQL",
+      "vector stores"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "async",
+      "Rust"
+    ],
+    "domains": [
+      "utility theory",
+      "behavioral economics"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

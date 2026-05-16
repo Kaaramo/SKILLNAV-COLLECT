@@ -1,0 +1,138 @@
+{
+  "job_id": "intl-ai-corpus-2837",
+  "source": "intl-ai-corpus",
+  "source_ref": "9032173",
+  "source_url": "https://www.builtinla.com/job/senior-backend-engineer-ai-product/9032173",
+  "title": "Senior Backend Engineer - AI Product",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Re:Build Manufacturing",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-13",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Late Stage / Spin-out (backed by parent company Re:Build Manufacturing)",
+  "company_focus": "AI-powered platform for hardware product development\ncoordination",
+  "industries": [
+    "Automation",
+    "Manufacturing"
+  ],
+  "description": "The Opportunity\n\nIf you've worked alongside hardware teams, you know the\ndamage that results from a missed change request or critical\ncontext that was never relayed to the right person. Reflow\nexists to close that gap. We're building the first AI-\npowered platform purpose-built for hardware product\ndevelopment, one that listens across the tools teams already\nuse, maintains a structured picture of every program, and\nproactively coordinates across disciplines when things\ninevitably change.\n\nThis is a ground-floor opportunity for a hands-on backend\nengineer to build the core services and AI infrastructure\npowering this platform, with the support of a parent company\nleading innovation in engineering and manufacturing.\n\nWho We're Looking For\n\nWe're seeking a backend engineer who ships reliable, well-\ndesigned systems and takes ownership of the services they\nbuild. The ideal candidate has production experience with\nPython, FastAPI, and PostgreSQL, and is comfortable building\neverything from REST APIs to background task pipelines to AI\nagent infrastructure. You should already be using AI coding\ntools like Cursor, Copilot, or Claude to accelerate your\nwork, with excitement about building the backend that powers\nthe first AI-native platform for complex hardware\ndevelopment.\n\nThis senior engineer will work alongside our engineering\nteam, AI researchers, and head of product to build the\nservices that turn unstructured inputs (call transcripts,\nemails, documents, datasheets) into structured engineering\nartifacts (requirements, project plans, dependencies),\norchestrate ambient AI agents for proactive coordination,\nand serve real-time project intelligence to users. The role\nis hands-on - you will be coding daily while contributing to\nsystem design decisions and helping establish backend\nengineering best practices as we grow.\n\nWhat You'll Do\n\nYour day-to-day responsibilities will include:\n\n● Designing and implementing RESTful APIs with OpenAPI specs\nand auto-generated client SDKs using SQLAlchemy and Postgres\n\n● Developing ingestion pipelines using Celery and Redis that\nconnect to tools teams already use (file storage, messaging,\nemail) and extract structured engineering artifacts from\nunstructured inputs\n\n● Building and extending agentic AI workflows using\nLangChain, LangGraph, and related frameworks for structured\ndata extraction, risk detection, dependency analysis, and\nproactive team coordination\n\n● Integrating LLM APIs (Anthropic Claude, OpenRouter) with\nstreaming (SSE), error handling, and cost optimization\n\n● Deploying and operating services on GCP (Cloud Run, Cloud\nSQL, Memorystore) with Terraform\n\n● Writing well-tested, maintainable code and participating\nin code reviews to establish engineering best practices\n\nTechnical Requirements\n\nMust Have:\n\n● 5+ years building production backend systems, with 3+\nyears in Python\n\n● Demonstrated proficiency using AI coding tools (Cursor,\nCopilot, Claude, etc.) to accelerate development\n\n● Strong experience with FastAPI or similar async Python web\nframeworks\n\n● Production experience with PostgreSQL, including schema\ndesign, migrations, and query optimization\n\n● Hands-on experience with task queues and background\nprocessing (Celery, Redis, or similar)\n\n● Understanding of API design, authentication patterns\n(OIDC/JWT), and service architecture\n\n● Experience with containerized deployments (Docker) and\nCI/CD pipelines\n\n● Ability to balance rapid iteration with maintainable,\nwell-tested code\n\nHighly Valuable:\n\n● Have worked in early-stage 0 to 1 startup environments\n\n● Production experience integrating LLM APIs (Anthropic,\nOpenAI, etc.) and building AI-powered features with agent\norchestration frameworks (LangChain, LangGraph, or similar)\n\n● Hands-on experience with GCP services (Cloud Run, Cloud\nSQL, Pub/Sub, Secret Manager) and Infrastructure-as-code\nexperience with Terraform\n\n● Experience with data ingestion pipelines and ETL workflows\n\n● Background in B2B SaaS platforms, project management\ntools, or workflow automation products\n\n● Understanding of hardware development, engineering\nworkflows, or project management concepts (phases, gates,\ndependencies)\n\nWhat We Offer\n\nReal Impact: The opportunity to build purpose-built tooling\nfor an entire industry that has never had it\n\nCustomer Access: Direct exposure to hundreds of real\nhardware projects annually through Re:Build's engineering\nand manufacturing companies\n\nTechnical Growth: Hands-on work with cutting-edge AI\ntechnologies solving novel technical challenges\n\nAutonomy: Backed by Re:Build while operating with startup\nindependence\n\nBenefits: Full health/dental/vision, bonus program, generous\n401K, paid time off, annual learning stipend\n\nEquity & Growth: Participation in Re:Build's LTIP equity\nprogram and opportunity for founder equity in potential\nspin-out\n\nCompensation & Location\n\nLocation: Remote-first, with preference for candidates in\nBoston, Seattle, Los Angeles, or other cities with Re:Build\noffices\n\nCompensation: Base salary range of $165,000 to $215,000 with\nperformance bonus and long-term incentive plan offered.\nPotential equity stake under independent spinout scenario.\n\nPlease note this role is restricted to US citizens or lawful\npermanent residents only due to exposure to export\ncontrolled information.\n\nAbout Re:Build Manufacturing\n\nRe:Build Manufacturing is a growing family of industrial and\nengineering businesses combining enabling technologies,\noperational superiority, and strategic M&A to build\nAmerica's next generation industrial company. At Re:Build we\ndeploy deep expertise in engineering, operations management,\nand technology to supercharge the performance of our member\ncompanies. We harness deep professional expertise and a\ncandid, principled operating culture to drive differentiated\noutcomes. Ours is a fast-paced environment where individuals\ncan stretch and be challenged to pursue their fullest\npotential.\n\nRe:Build was founded to pioneer a profitable model for the\nrevitalization of US manufacturing. We've assembled a\npowerful set of complementary capabilities and lines of\nbusiness that enable us to pursue a wide range of end\nmarkets. Our acquired businesses are grounded in build-to-\nprint and by-the-hour engineering and design services, and\nwe're using their combined\n\nexpertise to migrate to increasingly sophisticated program\ndevelopment and production, as well as the generation of our\nown products. Our unique set of capabilities lend themselves\nto highly complex systems and products, and we offer\ncustomers a range of services including product and systems\ndesign, automation, fabrication, assembly, and large volume\ncontract manufacturing. Our customers span a wide array of\nindustries including aerospace, defense, mobility,\nhealthcare, pharma, biotech, clean tech, chemicals, energy,\nlifestyle, food production, and industrial equipment.\n\nWe want to work with people that reflect the communities in\nwhich we operate\n\nRe:Build Manufacturing is proud to be an Equal Employment\nOpportunity and Affirmative Action employer. We do not\ndiscriminate based upon race, color, religion, gender,\ngender identity or expression, sexual orientation, national\norigin, genetics, disability, age, veteran status, marital\nstatus, parental status, cultural background, organizational\nlevel, work styles, tenure and life experiences. Or for any\nother reason.\n\nRe:Build is committed to providing reasonable accommodations\nfor qualified individuals with disabilities in our job\napplication procedures. If you need assistance or an\naccommodation due to a disability, you may contact us at\naccommodations.ta@ReBuildmanufacturing.com or you may call\nus at 617.909.6275.\n",
+  "skills_required": [
+    "AI agent orchestration",
+    "Anthropic Claude API",
+    "Cursor/Copilot/Claude (AI coding tools)",
+    "LangChain",
+    "LangGraph",
+    "OpenRouter"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement RESTful APIs with OpenAPI specs and auto-generated client SDKs using SQLAlchemy and Postgres",
+    "Develop ingestion pipelines using Celery and Redis that connect to existing team tools and extract structured engineering artifacts from unstructured inputs",
+    "Build and extend agentic AI workflows using LangChain, LangGraph, and related frameworks for structured data extraction, risk detection, dependency analysis, and proactive team coordination",
+    "Integrate LLM APIs (Anthropic Claude, OpenRouter) with streaming (SSE), error handling, and cost optimization",
+    "Deploy and operate services on GCP (Cloud Run, Cloud SQL, Memorystore) with Terraform",
+    "Write well-tested, maintainable code and participate in code reviews to establish engineering best practices"
+  ],
+  "use_cases": [
+    "Transform unstructured inputs (call transcripts, emails, documents, datasheets) into structured engineering artifacts (requirements, project plans, dependencies)",
+    "Ambient AI agents for proactive cross-discipline coordination during hardware development",
+    "Real-time project intelligence serving hardware teams",
+    "Risk detection and dependency analysis across hardware development programs",
+    "Automated change request tracking and context relay across engineering teams"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Celery",
+    "Docker",
+    "ETL",
+    "FastAPI",
+    "GCP (Cloud Run, Cloud SQL, Memorystore)",
+    "OIDC/JWT",
+    "OpenAPI",
+    "PostgreSQL",
+    "REST APIs",
+    "Redis",
+    "SQLAlchemy",
+    "SSE (Server-Sent Events)",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "AI agent orchestration",
+    "Anthropic Claude API",
+    "Cursor/Copilot/Claude (AI coding tools)",
+    "LangChain",
+    "LangGraph",
+    "OpenRouter"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building agentic AI workflows\nusing LangChain and LangGraph, integrating LLM APIs\n(Anthropic Claude, OpenRouter), and constructing the AI\ninfrastructure powering the platform. The engineer is hands-\non with LLM orchestration, agent workflows, and structured\ndata extraction from unstructured inputs — core AI-first\nwork.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Anthropic Claude API",
+      "OpenRouter",
+      "AI agent orchestration",
+      "Cursor/Copilot/Claude (AI coding tools)"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST APIs",
+      "OpenAPI",
+      "SSE (Server-Sent Events)",
+      "OIDC/JWT"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "SQLAlchemy",
+      "Redis"
+    ],
+    "data": [
+      "Celery",
+      "ETL"
+    ],
+    "cloud": [
+      "GCP (Cloud Run, Cloud SQL, Memorystore)"
+    ],
+    "ops": [
+      "Terraform",
+      "Docker",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

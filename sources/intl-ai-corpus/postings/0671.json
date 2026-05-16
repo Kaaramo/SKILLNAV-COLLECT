@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0671",
+  "source": "intl-ai-corpus",
+  "source_ref": "8328806",
+  "source_url": "https://builtin.com/job/senior-software-engineer-applied-ai/8328806",
+  "title": "Senior Software Engineer - Applied AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Seek (seekinsights.com)",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "44 Employees",
+  "company_stage": null,
+  "company_focus": "Marketplace for data apps and analytics platform",
+  "industries": [
+    "Information Technology",
+    "Software",
+    "Analytics",
+    "Business Intelligence"
+  ],
+  "description": "About the Role At Seek, we’re building the first-ever\nmarketplace for data apps—where providers and consumers\nconnect to drive real business impact fast. Insight Cloud\nisn’t just another BI tool; it’s a platform built from the\nground up for the secure exchange of complete, production-\nready data applications.\n\nWe’re looking for a Senior Software Engineer, AI Integration\nwho’s passionate about building polished, scalable\napplications and excited to bring emerging AI capabilities\ninto real-world products. You’ll work across the stack—front\nend, back end, and cloud infrastructure—while helping define\nhow AI features like natural language search, guided\nworkflows, and intelligent recommendations shape the future\nof Insight Cloud.\n\n\nIn this role, you’ll get to:\n\n- Build full stack features with React, Python, and modern\n  APIs that deliver high-quality user experiences.\n- Design backend services & APIs that integrate AI models and\n  external AI services into the platform.\n- Create intuitive workflows powered by AI—conversational\n  querying, assisted discovery, guided analytics.\n- Connect AI-driven features to Snowflake and our semantic\n  modeling layer for seamless data-driven apps.\n- Contribute to app store experiences with AI-powered\n  recommendations and publishing flows.\n- Ensure reliability at scale with strong testing, CI/CD\n  pipelines, and observability.\n- Collaborate with product, design, and engineering peers to\n  turn AI opportunities into customer-ready features.\n\nWe’re excited about you because you have:\n\n- 6+ years of full stack development experience, with strong\n  skills in React and Python.\n- A track record of shipping production-grade web applications\n  (SaaS or data platforms a plus).\n- Solid understanding of system architecture, API design, and\n  distributed systems.\n- Hands-on experience integrating AI/ML into software (APIs,\n  SDKs, or model endpoints).\n- Strong debugging/problem-solving skills across frontend and\n  backend.\n- Excellent communication and collaboration in agile, cross-\n  functional teams.\n\nBonus points if you have:\n\n- Experience integrating LLMs (OpenAI, Anthropic, etc.) or RAG\n  pipelines into apps.\n- Familiarity with agent frameworks or intelligent assistants.\n- Experience with Snowflake or other cloud data warehouses.\n- Startup experience and comfort working in a fast-paced\n  environment.\n\nSalary:\n\n- The annual salary range for this position is between\n  $150,000 - $175,000, depending on experience and\n  qualifications.\n\nBenefits:\n\n- Medical Insurance, Dental Insurance,  PTO, 16 annual company\n  holidays, 401K, Vision Insurance\n\nLocation\n\n- This is an entirely remote position for candidates based in\n  the US.\n\nNo Visa Sponsorship Available\n\n- We do not offer visa sponsorship at this time.\n\nWhy Seek Seek is on a mission to connect analytics\ndevelopers and consumers like never before—delivering\nbusiness value in minutes, not months. Our platform enables\ndata providers to deliver their datasets as complete\nanalytics apps: embedded visualizations, predictive models,\ngoverned collaboration, and scalable delivery. We value\nownership, flexibility, and collaboration. You’ll be part of\na team that prioritizes work-life balance, experimentation,\nand innovation—working alongside talented peers who are\npassionate about pushing the boundaries of analytics and\napplied AI.\n",
+  "skills_required": [
+    "AI/ML APIs",
+    "Anthropic API",
+    "LLM integration",
+    "OpenAI API",
+    "RAG pipelines",
+    "agent frameworks"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build full stack features with React, Python, and modern APIs for high-quality user experiences",
+    "Design backend services and APIs that integrate AI models and external AI services into the platform",
+    "Create intuitive AI-powered workflows including conversational querying, assisted discovery, and guided analytics",
+    "Connect AI-driven features to Snowflake and semantic modeling layer for data-driven applications",
+    "Contribute to app store experiences with AI-powered recommendations and publishing flows",
+    "Ensure reliability at scale with strong testing, CI/CD pipelines, and observability",
+    "Collaborate with cross-functional teams to turn AI opportunities into customer-ready features"
+  ],
+  "use_cases": [
+    "Natural language search for data discovery and querying",
+    "Conversational querying interfaces for analytics",
+    "AI-powered recommendations for app store experiences",
+    "Guided workflows and intelligent recommendations for data analytics",
+    "Assisted discovery and guided analytics capabilities"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "CI/CD",
+    "REST APIs",
+    "React",
+    "Snowflake",
+    "distributed systems",
+    "observability",
+    "system architecture"
+  ],
+  "frameworks_mentioned": [
+    "AI/ML APIs",
+    "Anthropic API",
+    "LLM integration",
+    "OpenAI API",
+    "RAG pipelines",
+    "agent frameworks"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a full-stack engineering role that integrates AI\ncapabilities into a product platform but does not build,\ntrain, or deploy models. The engineer designs APIs,\nservices, and workflows that integrate external AI/LLM\nmodels and services into the Insight Cloud platform, which\nis enabling work for AI rather than working directly on AI\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM integration",
+      "RAG pipelines",
+      "OpenAI API",
+      "Anthropic API",
+      "agent frameworks",
+      "AI/ML APIs"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "API design",
+      "REST APIs"
+    ],
+    "databases": [
+      "Snowflake"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "distributed systems",
+      "observability",
+      "system architecture"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

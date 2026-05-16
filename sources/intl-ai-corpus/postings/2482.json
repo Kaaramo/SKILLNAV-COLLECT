@@ -1,0 +1,118 @@
+{
+  "job_id": "intl-ai-corpus-2482",
+  "source": "intl-ai-corpus",
+  "source_ref": "8917576",
+  "source_url": "https://www.builtinla.com/job/ai-special-projects-engineer/8917576",
+  "title": "AI Product Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Lightning Labs",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-31",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Unknown",
+  "company_focus": "Bitcoin payment infrastructure and AI agent payment\nprotocols",
+  "industries": [
+    "Blockchain",
+    "Software"
+  ],
+  "description": "Lightning Labs builds the infrastructure that makes Bitcoin\nwork as a global payment network. Our protocols: the\nLightning Network, Taproot Assets, and L402, are used by\ndevelopers all around the world and are increasingly the\nrails that AI agents use to pay for services, stream value,\nand transact autonomously. We are looking for an AI Product\nEngineer to help us move faster everywhere at once.\n\nLocation: San Francisco Bay Area ideal. Remote considered\nfor strong candidates, with proximity to US time zones\n\nThe Role\n\nThis is not a single-product role. You will move across the\ncompany, picking up whatever project has the most leverage\nthat week: building a demo that shows developers what\nL402-powered agentic commerce looks like, automating a\nworkflow that saves the business development team hours of\nmanual work, standing up an MCP server that gives AI agents\naccess to our APIs, or shipping a feature in Terminal Web.\nYou are the person we point at a problem and trust to come\nback with something that works.\n\nThe ideal candidate is someone who builds and ships\nconstantly, using AI-native tools as a natural part of how\nthey work. You have strong product instincts, you don't just\nwrite code, you understand why something matters and who\nit's for. You're comfortable being dropped into an\nunfamiliar codebase on Monday and demoing a working\nprototype by Friday.\n\nWhat You'll Do\n\nBuild demos and developer experiences that show what's\npossible on Lightning. End-to-end working applications that\nshowcase Lightning payments, L402-gated APIs, Taproot\nAssets, and agentic workflows. These demos are how we\ncommunicate the value of our platform to developers and\npartners.\n\nAutomate and augment internal workflows by partnering with\nengineering, product, business development, and marketing\nteams to identify where AI can eliminate manual work. Build\nthe tools, scripts, MCP servers, and integrations that make\nthe whole company faster.\n\nShip features across products including Terminal Web, LND,\nand new products. You'll write production code, not just\nprototypes, but you'll also know when a prototype is the\nright answer.\n\nWork autonomously with minimal direction. Understand the\ncompany's priorities, identify where you can have the most\nimpact, and execute. Context switch across projects and\nteams while maintaining quality.\n\nWhat We're Looking For\n\n- You build and ship production-quality software. You have a\n  portfolio, GitHub profile, or set of projects that\n  demonstrate this, we'd love to see them.\n- You use AI-native development tools (Claude Code, Cursor,\n  Codex, or similar) as part of your daily workflow, not as\n  a novelty.\n- You're comfortable across the full stack. Our work spans\n  TypeScript, React, Go, Python, and whatever else the\n  problem requires. Go experience is a plus.\n- You have strong product instincts and can translate between\n  technical and non-technical contexts. You'll work directly\n  with business development, marketing, and product, not\n  just engineering.\n- You're familiar with agentic AI patterns: tool use, MCP,\n  multi-step workflows, and integrating LLMs into real\n  systems.\n- You're self-directed with a bias toward action. You thrive\n  in ambiguous, fast-moving environments and have a track\n  record of delivering.\n\nNice to Have\n\n- Understanding of Bitcoin, the Lightning Network, L402, or\n  Taproot Assets. We care more about curiosity and\n  willingness to learn than existing knowledge.\n- Experience building developer-facing demos, sample\n  applications, or technical content.\n- Contributions to open source projects.\n- Experience at a small, high-growth company where wearing\n  many hats was the norm.\n\nHow to Apply\n\nWe strongly encourage you to include links to projects,\ndemos, repos, or anything else that shows how you build. A\nstrong portfolio speaks louder than a keyword-optimized\nresume.\n",
+  "skills_required": [
+    "AI-native development tools (Claude Code, Cursor, Codex)",
+    "Agentic AI patterns",
+    "Bitcoin / Taproot Assets / L402",
+    "LLM integration",
+    "Lightning Network",
+    "MCP (Model Context Protocol)",
+    "Multi-step AI workflows",
+    "Tool use / function calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build demos and developer experiences showcasing Lightning payments, L402-gated APIs, Taproot Assets, and agentic workflows",
+    "Automate and augment internal workflows by partnering with engineering, product, business development, and marketing teams using AI",
+    "Build MCP servers, tools, scripts, and integrations that give AI agents access to Lightning APIs",
+    "Ship production features across products including Terminal Web, LND, and new products",
+    "Work autonomously across multiple projects and teams, context-switching while maintaining quality",
+    "Identify high-leverage areas for impact and execute with minimal direction"
+  ],
+  "use_cases": [
+    "AI agent payments and autonomous transactions on Bitcoin Lightning Network",
+    "L402-gated API access for agentic commerce",
+    "Developer experience demos showing agentic payment workflows",
+    "Internal workflow automation using AI tools",
+    "MCP servers enabling AI agents to interact with Bitcoin/Lightning infrastructure"
+  ],
+  "tools_mentioned": [
+    "Full-stack development",
+    "REST APIs",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "AI-native development tools (Claude Code, Cursor, Codex)",
+    "Agentic AI patterns",
+    "LLM integration",
+    "MCP (Model Context Protocol)",
+    "Multi-step AI workflows",
+    "Tool use / function calling"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building with AI/LLM systems -\ncreating MCP servers for AI agents, implementing agentic\nworkflows, using agentic AI patterns (tool use, MCP, multi-\nstep workflows), and integrating LLMs into real systems.\nWhile it spans many responsibilities, the AI component is\ncentral: building L402-powered agentic commerce demos and\nstanding up MCP servers that give AI agents access to APIs.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP (Model Context Protocol)",
+      "Agentic AI patterns",
+      "LLM integration",
+      "Tool use / function calling",
+      "Multi-step AI workflows",
+      "AI-native development tools (Claude Code, Cursor, Codex)"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "REST APIs",
+      "Full-stack development"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "Go",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Lightning Network",
+      "Bitcoin / Taproot Assets / L402"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

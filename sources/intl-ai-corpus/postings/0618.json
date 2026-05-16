@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-0618",
+  "source": "intl-ai-corpus",
+  "source_ref": "8291746",
+  "source_url": "https://builtin.com/job/ai-developer/8291746",
+  "title": "AI Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Harvard Business Publishing",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-23",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "629 Employees",
+  "company_stage": null,
+  "company_focus": "Management education and publishing",
+  "industries": [
+    "Digital Media",
+    "Information Technology"
+  ],
+  "description": "Harvard Business Publishing (HBP) – the leading destination\nfor innovative management thinking. We reach lifelong\nlearners to improve the practice of management in a changing\nworld. This mission inspires each of us to unlock the leader\nin everyone – including you!\n\nThe opportunity:\n\nThe AI Developer (AID) at Harvard Business Publishing (HBP)\nwill play a pivotal role in driving innovation and enhancing\nthe company's product offerings through the application of\nAI and ML technologies to enhance the value delivery and\ninteractivity of our product experiences across diverse\nmodes of engagement. This position involves supporting\nproduct teams in rapid prototype development to test and\nlearn about new product experiences, supporting and\nequipping product leads with knowledge and tools to help\nthem pursue new AI-enabled product concepts, and\nfacilitating collaboration cross-functionally to leverage\ncore ML and AI infrastructure throughout HBP. The ideal\ncandidate will have a strong background in AI development,\nexperience with ML infrastructure, and a passion for\ninnovation.\n\nWhat You’ll Do:\n\n- Support product teams in building new AI-enabled features:\n  Contribute to technical vision and participate directly as\n  a technical resource in product development, focusing on\n  innovation with data and AI to create cutting-edge\n  solutions. Work closely with HBP product teams to develop\n  and iterate on prototypes quickly, ensuring that AI and ML\n  capabilities are effectively integrated into new product\n  ideas and that we can test and learn more quickly over\n  time by reusing shared AI capabilities\n- Facilitate technical interoperability: Act as a bridge\n  between HBP product management, data engineering,\n  production software engineering, and partner technical\n  teams at HBP and HBS to extend and leverage core ML and AI\n  infrastructure across development stages from prototyping\n  to production\n- Develop and maintain ML and AI infrastructure: Work in\n  consultation with partner technical teams at HBP and HBS\n  to develop and maintain the infrastructure needed for\n  product-facing ML and AI applications, such as an LLM chat\n  interface, a vector store for RAG, predictive ML workflows\n  with automated triggers, and ML Ops tools, within AWS and\n  snowflake environments\n- Contribute to data engineering: Ensure quality and integrity\n  of user, content, and market data by collaborating with\n  the Data Engineering team to build and maintain data\n  pipelines and product-facing APIs for HBP's central data\n  warehouse relevant to products the AID is supporting\n- Support data science and analytics: Contribute to design and\n  execution of data science and analytics projects relevant\n  to products the AID is supporting, such as inferring\n  causal factors driving user intent, predicting user\n  attributes, exposing insight from user activity to inform\n  editorial and marketing decisions, and projecting\n  potential revenue\n\nWhat you'll bring:\n\n- Experience: 5+ years in data science, ML/AI development, or\n  a closely related field, with a proven track record of\n  delivering production-grade AI/ML solutions\n- Collaboration: Excellent communication and stakeholder\n  management skills, with the ability to work effectively\n  across multiple teams and departments.\n- Innovation: A strong passion for innovation and the ability\n  to think creatively about how AI and ML can be applied to\n  solve business problems and enhance product offerings\n- ML Infrastructure: Hands-on experience with developing,\n  deploying, and maintaining ML infrastructure, including\n  model training, evaluation, and production-ready APIs.\n  Familiarity with MLOps tools and concepts including\n  MLFlow, AWS Sagemaker, model registries, and CI/CD.\n  Experience delivering AI/ML APIs using FastAPI, flask, or\n  similar.\n- Programming Skills: Excellence in Python programming and\n  experience with relevant data science and AI/ML packages\n  such as pandas, scikitlearn, pytorch, and Langchain.\n  Extensive experience in collaborative development with git\n- Cloud Services: Practical experience with cloud services\n  such as AWS (preferred), Azure, or Google Cloud for\n  deploying and managing AI/ML workflows and\n  containerization tools like docker\n\nPreferred/Nice to Have:\n\n- Gen AI experience: 3+ years of experience developing\n  products with, and guardrails for, LLMs strongly preferred\n- No-Code AI Tools: Experience support end users of no-code\n  AI-assistive tools and platforms and ability to support\n  transitions of no-code prototypes to dev and production\n  environments\n- Data Engineering: Familiarity with data engineering concepts\n  and tools, including data pipelines, ETL processes, data\n  warehousing, the medallion architecture, and dbt\n- Data science: Extensive experience answering questions with\n  and deriving strategic insights from data, including\n  proficiency in probability and statistics, data querying\n  and transformation with SQL, and developing interactive\n  data dashboards and applications with tools like Streamlit\n\nWhat we offer:\n\nAs a mission-driven global company, Harvard Business\nPublishing is committed to fostering a culture of inclusion,\ntrust, and engagement where everyone is welcome, valued,\nrespected, and feels they belong. In addition to a\ncompetitive compensation and benefits package, we offer\nmeaningful programs focused on career development and\nemployee wellness, such as education reimbursement and\nearly-release Summer Fridays!\n\nHBP is an equal opportunity employer, and all qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, sex, national origin,\ndisability status, protected veteran status, gender\nidentity, sexual orientation, pregnancy and pregnancy-\nrelated conditions, or any other characteristic protected by\nlaw.\n\n$150,000 - $170,000\n\nAbove is the annualized pay range for this position. In\naddition, this position includes the opportunity to earn our\nannual Performance Based Variable Pay Program. Actual salary\nwill be set based upon a range of factors, including\nexternal benchmark market data, individual knowledge,\nskills, experience, location and internal equity.\n",
+  "skills_required": [
+    "LLMs",
+    "LangChain",
+    "PyTorch",
+    "RAG",
+    "Streamlit",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Support product teams in building new AI-enabled features and rapid prototypes, contributing to technical vision and integrating AI/ML capabilities into product ideas",
+    "Facilitate technical interoperability between product management, data engineering, software engineering, and partner teams to leverage core ML and AI infrastructure",
+    "Develop and maintain ML and AI infrastructure including LLM chat interfaces, vector stores for RAG, predictive ML workflows, and MLOps tools in AWS and Snowflake environments",
+    "Contribute to data engineering by collaborating on data pipelines and product-facing APIs for the central data warehouse",
+    "Support data science and analytics projects including inferring causal factors of user intent, predicting user attributes, and projecting revenue",
+    "Deploy production-grade AI/ML APIs using FastAPI or Flask with proper model training, evaluation, and MLOps practices"
+  ],
+  "use_cases": [
+    "LLM chat interface for enhanced product interactivity and user engagement",
+    "RAG-based knowledge retrieval using vector stores to leverage content data",
+    "Predictive ML workflows with automated triggers for proactive insights",
+    "User intent analysis and prediction models to enhance personalization",
+    "Data-driven insights for editorial and marketing decision making",
+    "Revenue projection and causal factor analysis for business optimization"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS SageMaker",
+    "CI/CD",
+    "Docker",
+    "ETL",
+    "FastAPI",
+    "Flask",
+    "MLFlow",
+    "Snowflake",
+    "data pipelines",
+    "dbt",
+    "git",
+    "pandas",
+    "vector stores"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "LangChain",
+    "PyTorch",
+    "RAG",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on building, deploying, and\nmaintaining AI/ML infrastructure including LLM chat\ninterfaces, vector stores for RAG, and predictive ML\nworkflows. The developer will directly create AI-enabled\nfeatures, prototypes, and production APIs using LangChain\nand PyTorch, not just supporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LLMs",
+      "RAG"
+    ],
+    "ml": [
+      "PyTorch",
+      "scikit-learn"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask"
+    ],
+    "databases": [
+      "vector stores",
+      "Snowflake"
+    ],
+    "data": [
+      "data pipelines",
+      "ETL",
+      "dbt",
+      "pandas"
+    ],
+    "cloud": [
+      "AWS SageMaker",
+      "AWS"
+    ],
+    "ops": [
+      "MLFlow",
+      "Docker",
+      "CI/CD",
+      "git"
+    ],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Streamlit"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

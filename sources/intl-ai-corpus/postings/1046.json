@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-1046",
+  "source": "intl-ai-corpus",
+  "source_ref": "8056022",
+  "source_url": "https://builtin.com/job/software-development-engineer-test-iii-leadgen-ai/8056022",
+  "title": "Software Development Engineer in Test III - LeadGen AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "HighLevel",
+  "company_type": "entité morale privée",
+  "location": "New Delhi, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-13",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "974 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "AI-powered white-label sales & marketing platform for\nagencies and businesses",
+  "industries": [
+    "Information Technology",
+    "Internet of Things",
+    "Marketing Tech"
+  ],
+  "description": "About HighLevel:\n\nHighLevel is an AI powered, all-in-one white-label sales &\nmarketing platform that empowers agencies, entrepreneurs,\nand businesses to elevate their digital presence and drive\ngrowth. We are proud to support a global and growing\ncommunity of over 2 million businesses, comprised of\nagencies, consultants, and businesses of all sizes and\nindustries. HighLevel empowers users  with all the tools\nneeded to capture, nurture, and close new leads into repeat\ncustomers. As of mid 2025, HighLevel processes over 4\nbillion API hits and handles more than 2.5 billion message\nevents every day. Our platform manages over 470 terabytes of\ndata distributed across five databases, operates with a\nnetwork of over 250 microservices, and supports over 1\nmillion hostnames.\n\nOur People\n\nWith over 1,500 team members across 15+ countries, we\noperate in a global, remote-first environment. We are\nbuilding more than software; we are building a global\ncommunity rooted in creativity, collaboration, and impact.\nWe take pride in cultivating a culture where innovation\nthrives, ideas are celebrated, and people come first, no\nmatter where they call home.\n\nOur Impact\n\nAs of mid 2025, our platform powers over 1.5 billion\nmessages, helps generate over 200 million leads, and\nfacilitates over 20 million conversations for the more than\n2 million businesses we serve each month. Behind those\nnumbers are real people growing their companies, connecting\nwith customers, and making their mark - and we get to help\nmake that happen.\n\nAbout the Role:\n\nHighLevel is looking for passionate SDET3 for its Full-time\nremote engineering team in India. You will be responsible\nfor ensuring that the new releases we make for features,\nenhancements, or new products meet the strict standards of\nquality & consistency. The buck stops at you and you will\nhave the final say on the correctness, reliability &\nconsistency of our builds.\n\nResponsibilities:\n\n- Validate complex system workflows across UI, API, and\n  backend layers, ensuring correctness, reliability, and\n  consistency of every release\n- Enhance and maintain the existing Playwright automation\n  framework, expanding UI/API coverage and improving\n  reliability, flakiness detection, and execution efficiency\n- Build internal QA tools, improve test data workflows, and\n  contribute to CI/CD quality gates and overall pipeline\n  readiness\n- Develop and maintain test infrastructure for containerized\n  and distributed environments (Docker, Kubernetes)\n- Conduct performance, load, and scalability testing for high-\n  traffic services using k6 or similar tools\n- Collaborate closely with engineering, product, LeadGen,\n  Payments, and design teams to embed quality early in the\n  lifecycle\n- Analyze failures across distributed systems using\n  observability platforms (logs, metrics, dashboards) to\n  identify root causes quickly\n- Advocate for shift-left quality and influence system design\n  and architecture for better testability\n- Maintain accurate documentation and onboarding materials for\n  frameworks, tooling, and best practices\n\nRequirements:\n\n- 4+ years of experience in software testing or automation for\n  SaaS, web applications, or distributed systems\n- Expertise in enhancing and maintaining automation frameworks\n  (Playwright or equivalent)\n- Proficiency in TypeScript, JavaScript, or Python for\n  scalable automation development\n- Hands-on experience with CI/CD pipelines and containerized\n  infrastructure (Docker, Kubernetes)\n- Working knowledge of AWS or GCP environments\n- Deep understanding of RESTful API testing, backend\n  validation, mocks/stubs, and integration testing\n- Experience with performance and load testing tools like k6,\n  Locust, or JMeter\n- Familiarity with observability tools such as Grafana,\n  Prometheus, ELK, or OpenTelemetry\n- Strong debugging skills, especially in distributed and\n  microservices-based architectures\n- E-Commerce domain experience (preferred but optional)\n- Basic knowledge of AI-driven testing techniques or LLM-based\n  test generation\n- Excellent communication, documentation, and problem-solving\n  abilities\n\nNice to Have:\n\n- Experience validating E-Commerce flows such as checkout,\n  order lifecycle, payments, taxes, pricing rules, and\n  inventory synchronisation\n- Experience analysing and testing AI/LLM-powered features,\n  including prompt validation, hallucination detection,\n  model consistency checks, and AI-assisted testing\n  workflows\n\nEEO Statement:\n\nThe company is an Equal Opportunity Employer. As an employer\nsubject to affirmative action regulations, we invite you to\nvoluntarily provide the following demographic information.\nThis information is used solely for compliance with\ngovernment recordkeeping, reporting, and other legal\nrequirements. Providing this information is voluntary and\nrefusal to do so will not affect your application status.\nThis data will be kept separate from your application and\nwill not be used in the hiring decision.\n\n#LI-Remote #LI-JM1\n",
+  "skills_required": [
+    "AI-driven testing",
+    "LLM-based test generation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Validate complex system workflows across UI, API, and backend layers for release quality",
+    "Enhance and maintain Playwright automation framework for UI/API coverage",
+    "Build internal QA tools and improve test data workflows for CI/CD quality gates",
+    "Develop and maintain test infrastructure for containerized environments (Docker, Kubernetes)",
+    "Conduct performance, load, and scalability testing for high-traffic services using k6",
+    "Collaborate with engineering, product, and design teams to embed quality early",
+    "Analyze failures across distributed systems using observability platforms",
+    "Advocate for shift-left quality and influence system design for better testability"
+  ],
+  "use_cases": [
+    "Testing and validating AI-powered sales & marketing platform features",
+    "Quality assurance for LeadGen AI product capabilities",
+    "Performance testing for high-traffic distributed systems handling billions of API calls",
+    "Test automation for white-label platform serving agencies and businesses"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "ELK Stack",
+    "GCP",
+    "Grafana",
+    "JMeter",
+    "Kubernetes",
+    "Locust",
+    "OpenTelemetry",
+    "Playwright",
+    "Prometheus",
+    "REST APIs",
+    "k6"
+  ],
+  "frameworks_mentioned": [
+    "AI-driven testing",
+    "LLM-based test generation"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an SDET/QA role focused on testing AI-powered\nproducts, not building or deploying AI systems. The role\ninvolves validating AI/LLM-powered features and using AI-\ndriven testing techniques, but the primary work is quality\nassurance and test automation, not hands-on AI/ML\ndevelopment.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM-based test generation",
+      "AI-driven testing"
+    ],
+    "ml": [],
+    "web": [
+      "Playwright",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "k6",
+      "Locust",
+      "JMeter",
+      "Grafana",
+      "Prometheus",
+      "ELK Stack",
+      "OpenTelemetry",
+      "CI/CD"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

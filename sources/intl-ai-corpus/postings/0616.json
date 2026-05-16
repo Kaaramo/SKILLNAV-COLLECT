@@ -1,0 +1,119 @@
+{
+  "job_id": "intl-ai-corpus-0616",
+  "source": "intl-ai-corpus",
+  "source_ref": "8290254",
+  "source_url": "https://builtin.com/job/applied-ai-platform-engineer/8290254",
+  "title": "Applied AI & Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Teneo",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-23",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,541 Employees",
+  "company_stage": null,
+  "company_focus": "Global CEO advisory and consulting firm",
+  "industries": [],
+  "description": "The Role\n\nAs an Engineer in our newly established and rapidly growing\nAI team, you will build and operationalize high-value AI\nworkflows across business use-cases, product integrations,\nand internal data intelligence (Data Lake). You will help\nextend our AI platform and shared services by delivering\nproduction-grade capabilities on our Azure infrastructure,\nintegrating LLM functionality into reliable, secure, and\nobservable systems, including scoped agent workflows that\ncan be shipped, monitored, and iterated quickly.\n\nSuccess in this position requires strong engineering\nfundamentals, an operational mindset, and the ability to\nwork autonomously while partnering effectively with\ntechnical and non-technical stakeholders across global\nteams.\n\nKey Responsibilities\n\n- Build end-to-end workflow implementations from requirements\n  to production: APIs, services, orchestration, and\n  integrations\n- Integrate AI capabilities into products and internal tools\n  (LLM calls, tool/function calling, guardrails, evals,\n  response structuring)\n- Design and implement scoped agent workflows with clear\n  boundaries, tools, permissions, fallbacks, and measurable\n  outcomes\n- Collaborate with vendors to deliver ROI-focused use-cases:\n  define interfaces, validate delivery quality, and\n  productionize outputs\n- Establish strong observability: structured logging, tracing,\n  metrics, dashboards, alerting, and runbooks\n- Partner with data teams on Data Lake access patterns,\n  workflows, metadata, governance, and reliability\n\nEssential Skills & Experience\n\n- 5-10 years professional software engineering experience;\n  strong Python (services, APIs, testing)\n- Cloud infrastructure experience (Azure preferred), operating\n  production systems; cloud security fluency (identity,\n  RBAC, secrets management, logging/auditing)\n- CI/CD experience (Git-based pipelines, automated tests,\n  deployment gates, rollback awareness)\n- Strong testing, documentation, and operational discipline\n\n Preferred skills & Experience\n\n- Data engineering fundamentals (schemas, pipelines, quality\n  checks) within governed environments\n- Infrastructure as Code (Bicep/Terraform), containerization\n  (Docker), and API management patterns\n- Agentic patterns (tool use, orchestration, state management)\n  and practical guardrails\n- Microsoft Graph and/or strong enterprise identity/API\n  permissioning patterns\n\nWhat we can offer\n\nNew joiners are supported by induction programmes, and\ncontinuous development is a key focus of life at Teneo -\nlearning and knowledge sharing are at the heart of this. We\nhave an environment and culture that is focused on\nsupporting your development and career progression. We\nsupport this with a dedicated Learning Team who provide a\nrange of learning opportunities and personal development\nsupport. \n\nOur face-to-face learning is supported by some 100 modules\nof e-learning available on our internal knowledge management\nsystem.\n\nGiven our client base you’ll be working on career-defining\n(and often news-worthy) work that is exciting, rewarding and\none where you can make a real impact to high profile\nprojects.\n\nBenefits\n\nWe offer a whole host of benefits and reward including:\n\n- Competitive salary (depends on experience)\n- 28 days holiday\n- Discretionary bonus\n- Annual salary review\n- Pension (company contribution: 5% of annual salary).\n- Extensive investment in personal development & learning\n- Enhanced maternity and paternity leave (depending on length\n  of service) and shared parental leave\n- Private medical insurance\n- Group Income protection\n- Life assurance\n- Cycle to work schemes\n- Season ticket loans\n- Regular social, cultural and charitable activities\n\nAbout Teneo\n\nTeneo is the global CEO advisory firm. We partner with our\nclients globally to do great things for a better future.\n\nDrawing upon our global team and expansive network of senior\nadvisors, we provide advisory services across our five\nbusiness segments on a stand-alone or fully integrated basis\nto help our clients solve complex business challenges. Our\nclients include a significant number of the Fortune 100 and\nFTSE 100, as well as other corporations, financial\ninstitutions, and organizations.\n\nOur full range of advisory services includes strategic\ncommunications, investor relations, financial transactions\nand restructuring, management consulting, physical and cyber\nrisk, organizational design, board and executive search,\ngeopolitics and government affairs, corporate governance,\nESG and DE&I.\n\nThe firm has more than 1,700 employees located in 40+\noffices around the world.\n",
+  "skills_required": [
+    "LLMs",
+    "agents",
+    "guardrails",
+    "tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build end-to-end workflow implementations from requirements to production including APIs, services, orchestration, and integrations",
+    "Integrate AI capabilities into products and internal tools including LLM calls, tool/function calling, guardrails, evaluations, and response structuring",
+    "Design and implement scoped agent workflows with clear boundaries, tools, permissions, fallbacks, and measurable outcomes",
+    "Collaborate with vendors to deliver ROI-focused use cases by defining interfaces, validating delivery quality, and productionizing outputs",
+    "Establish strong observability through structured logging, tracing, metrics, dashboards, alerting, and runbooks",
+    "Partner with data teams on Data Lake access patterns, workflows, metadata, governance, and reliability"
+  ],
+  "use_cases": [
+    "AI workflows across business use cases and product integrations",
+    "Internal data intelligence using Data Lake",
+    "Scoped agent workflows with tool use capabilities",
+    "Enterprise AI systems integrated with Microsoft Graph and identity/API permissioning",
+    "Production-grade AI systems with observability and monitoring"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "Azure",
+    "Bicep",
+    "CI/CD",
+    "Docker",
+    "Terraform",
+    "data engineering",
+    "data pipelines",
+    "observability"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "agents",
+    "guardrails",
+    "tool calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building AI workflows,\nimplementing LLM integrations, designing scoped agent\nworkflows with tool/function calling, and productionizing AI\nsystems on Azure infrastructure. This is direct work ON AI\nsystems (agents, LLMs, guardrails) rather than just\nsupporting infrastructure or data pipelines.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "tool calling",
+      "guardrails",
+      "agents"
+    ],
+    "ml": [],
+    "web": [
+      "APIs"
+    ],
+    "databases": [],
+    "data": [
+      "data pipelines",
+      "data engineering"
+    ],
+    "cloud": [
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Terraform",
+      "Bicep",
+      "CI/CD",
+      "observability"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Microsoft Graph"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

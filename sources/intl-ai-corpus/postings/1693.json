@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-1693",
+  "source": "intl-ai-corpus",
+  "source_ref": "8577829",
+  "source_url": "https://builtin.com/job/software-engineer-ai-enablement/8577829",
+  "title": "Software Engineer - AI Enablement",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Baseten",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "59 Employees",
+  "company_stage": "Series E",
+  "company_focus": "AI inference infrastructure platform",
+  "industries": [],
+  "description": "ABOUT BASETEN\n\nBaseten powers mission-critical inference for the world's\nmost dynamic AI companies, like Cursor, Notion,\nOpenEvidence, Abridge, Clay, Gamma and Writer. By uniting\napplied AI research, flexible infrastructure, and seamless\ndeveloper tooling, we enable companies operating at the\nfrontier of AI to bring cutting-edge models into production.\nWe're growing quickly and recently raised our $300M Series\nE, backed by investors including BOND, IVP, Spark Capital,\nGreylock, and Conviction. Join us and help build the\nplatform engineers turn to to ship AI products.\n\nTHE ROLE\n\nAs Baseten's AI Enablement Engineer, you'll own the AI-\npowered tooling and agent infrastructure that makes every\nperson at Baseten dramatically more productive. While our\nproduct helps external teams deploy and serve AI models,\nyour focus is inward: building, integrating, and operating\nAI agents and LLM-powered workflows that accelerate how we\nwrite code, review PRs, debug incidents, generate\ndocumentation, and ship faster.\n\nThis is a high-autonomy, high-impact role. You'll be the go-\nto person for everything AI-internal, from evaluating and\ndeploying coding assistants and agentic tools, to building\ncustom agents tailored to Baseten's codebase and workflows.\nIf you're excited about making an engineering org of top-\ntier infrastructure engineers even more effective by putting\nAI to work across the entire SDLC, this role is for you.\n\nEXAMPLE INITIATIVES\n\nYou'll get to work on these types of projects:\n\n- Agentic coding workflows — Evaluate, customize, and deploy\n  AI coding agents (e.g., Cursor, Claude Code, Codex) tuned\n  to Baseten's monorepo, conventions, and internal\n  libraries.\n- Custom internal agents — Build purpose-built agents for\n  tasks like incident triage, on-call support, codebase Q&A,\n  and automated change management.\n- AI adoption strategy — Track usage, measure productivity\n  gains, and champion best practices for AI-assisted\n  development across all engineering teams.\n\nRESPONSIBILITIES\n\n- Own and operate the end-to-end internal AI stack — from\n  model selection and integration to deployment and\n  monitoring.\n- Build and maintain custom AI agents and LLM-powered tools\n  tailored to Baseten's engineering workflows.\n- Evaluate and roll out third-party AI developer tools,\n  configuration, and onboarding.\n- Instrument AI tool usage and measure impact on engineering\n  velocity, code quality, and developer satisfaction.\n- Stay at the cutting edge of AI tooling, agents, and\n  developer productivity research — and bring the best ideas\n  back to the team.\n- Actively support engineering teams, ensuring they have the\n  AI-powered resources and workflows necessary to remain\n  productive.\n\nBENEFITS\n\n- Competitive compensation, including meaningful equity.\n- 100% coverage of medical, dental, and vision insurance for\n  employee and dependents\n- Generous PTO policy including company wide Winter Break (our\n  offices are closed from Christmas Eve to New Year's Day!)\n- Paid parental leave\n- Company-facilitated 401(k)\n- Exposure to a variety of ML startups, offering unparalleled\n  learning and networking opportunities.\n\nApply now to embark on a rewarding journey in shaping the\nfuture of AI! If you are a motivated individual with a\npassion for machine learning and a desire to be part of a\ncollaborative and forward-thinking team, we would love to\nhear from you.\n\nAt Baseten, we are committed to fostering a diverse and\ninclusive workplace. We provide equal employment\nopportunities to all employees and applicants without regard\nto race, color, religion, gender, sexual orientation, gender\nidentity or expression, national origin, age, genetic\ninformation, disability, or veteran status.\n",
+  "skills_required": [
+    "LLMs",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and operate the end-to-end internal AI stack from model selection and integration to deployment and monitoring",
+    "Build and maintain custom AI agents and LLM-powered tools tailored to engineering workflows",
+    "Evaluate and roll out third-party AI developer tools, configuration, and onboarding",
+    "Instrument AI tool usage and measure impact on engineering velocity, code quality, and developer satisfaction",
+    "Stay at the cutting edge of AI tooling, agents, and developer productivity research and bring best ideas to the team",
+    "Actively support engineering teams to ensure they have AI-powered resources and workflows for productivity"
+  ],
+  "use_cases": [
+    "Agentic coding workflows and code generation",
+    "Incident triage and on-call support automation",
+    "Codebase Q&A and internal knowledge retrieval",
+    "Automated change management and PR review workflows",
+    "AI-assisted documentation generation",
+    "Engineering productivity acceleration across SDLC"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "REST APIs",
+    "monitoring"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building, integrating, and operating\ncustom AI agents and LLM-powered workflows. The engineer\nworks directly on AI systems (agentic tools, coding agents,\nLLM-powered workflows) rather than just supporting\ninfrastructure. They own the entire internal AI stack from\nmodel selection to deployment and monitoring.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "agents",
+      "RAG",
+      "OpenAI/Anthropic APIs"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "monitoring"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,37 @@
+company:
+  name: CXG
+  stage: null
+  focus: null
+position:
+  title: Data Engineer
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases:
+  - Data pipeline engineering
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - airflow
+    - data lake
+    - datalake
+    - dbt
+    - etl
+    - sql
+    cloud: []
+    ops:
+    - terraform
+    languages:
+    - python
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4413943885'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

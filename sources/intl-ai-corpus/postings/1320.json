@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-1320",
+  "source": "intl-ai-corpus",
+  "source_ref": "8393890",
+  "source_url": "https://www.builtinla.com/job/software-engineer-ai-web-game/8393890",
+  "title": "Software Engineer, AI Web Game",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Wolf Games",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Seed",
+  "company_focus": "Platform for generative entertainment universes and AI-\npowered detective games",
+  "industries": [
+    "Artificial Intelligence",
+    "Gaming",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "Software Engineer\n\nRemote (U.S. time zones)\n\nAbout Wolf Games\n\nWolf Games is building the platform for generative\nentertainment universes — living, ever-expanding worlds\nwhere creators, players, and AI collaborate in real time.\nOur first universe, Public Eye, turns everyone into a\ndetective. Across a suite of crime-solving games, players\ncollect evidence, crack cases, and rise through the ranks of\na connected detective program. We're creating a future where\ngame development and player experience are tightly connected\nthrough intelligent systems that learn, adapt, and surprise.\n\nAbout the role\n\nWe're looking for a Software Engineer to turn promising\nprototypes into polished, production-ready games. This is a\nrole for someone who can take the creative spark from our\nrapid prototyping pipeline and build it into robust,\nscalable systems that ship to players across our growing\nportfolio of titles.\n\nYou will own the journey from prototype to production.\nYou'll build the shared infrastructure and game systems that\nprovide value across all of our titles, then adapt and\nextend them for each new game we launch. You'll work with\nmodern AI-assisted development workflows to move fast\nwithout sacrificing quality, and you'll help define the\ntechnical patterns that let a small team punch above its\nweight.\n\nThis isn't siloed feature work — you'll touch every layer of\nour games, from core gameplay systems to platform\nintegrations to the tooling that accelerates our entire\nteam. You'll think holistically about how the code you write\ntoday enables the games we'll build tomorrow.\n\nYou will report to the CTO and work closely with\nengineering, design, and creative leadership to:\n\n- Take validated prototypes from concept stage to production-\n  ready games, refactoring exploratory code into\n  maintainable, performant systems.\n- Build and maintain shared game infrastructure — progression\n  systems, save/load, analytics integration, platform APIs —\n  that accelerates development across all titles.\n- Adapt core systems to the unique requirements of each new\n  game, balancing reusability with the flexibility to\n  support diverse gameplay experiences.\n- Collaborate with the Creative Engineer to establish clear\n  technical handoff processes, ensuring promising prototypes\n  have a smooth path to production.\n- Leverage AI-assisted development tools to accelerate\n  implementation while maintaining code quality and\n  architectural coherence.\n- Integrate with distribution platforms, ad networks, and\n  third-party services to maximize reach and revenue across\n  our portfolio.\n- Identify opportunities to extract reusable components from\n  production games back into shared libraries, continuously\n  improving our development velocity.\n- Contribute to technical decision-making around architecture,\n  tooling, and process as we scale our game portfolio.\n\nWhat you'll bring\n\n- 3+ years of experience building and shipping web-based games\n  or interactive experiences, with strong proficiency in\n  TypeScript/JavaScript.\n- Hands-on experience with modern web game frameworks\n  (Pixi.js, Phaser, Three.js) and a deep understanding of\n  browser performance optimization.\n- Fluency with AI-assisted development workflows — you use\n  tools like Claude, Copilot, or similar to accelerate your\n  work and are excited about where this is heading.\n- A track record of building systems that scale across\n  multiple products or projects, with an eye for the right\n  level of abstraction.\n- Experience integrating with platform APIs, analytics\n  services, ad networks, or other third-party systems in a\n  production context.\n- Strong fundamentals in software architecture, with the\n  judgment to know when to build for reuse and when to ship\n  fast.\n- Comfort working across the stack — you can debug a gameplay\n  feel issue as readily as a backend integration problem.\n- Excellent collaboration skills, with experience working\n  closely with designers, artists, and product stakeholders.\n- A pragmatic, ownership-oriented mindset — you care about\n  shipping great games, not just writing elegant code.\n\nNice to have\n\n- Experience with real-time multiplayer, leaderboards, or\n  social features in web games.\n- Familiarity with cloud infrastructure (GCP, AWS) and CI/CD\n  pipelines for web deployments.\n- Background in mobile web or hybrid app development.\n- Experience working in a fast-paced startup or small studio\n  environment.\n\nWhy Wolf Games\n\nWe are a small, creative, and collaborative team that values\ncuriosity, craftsmanship, and experimentation. We believe\nsmall wins lead to big wins — and that the right systems,\nbuilt by the right people, can let a small team create an\noutsized portfolio of great games. If you're excited to\nbuild the foundation for a new kind of game studio, we'd\nlove to hear from you.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Take validated prototypes from concept stage to production-ready games, refactoring exploratory code into maintainable, performant systems",
+    "Build and maintain shared game infrastructure including progression systems, save/load, analytics integration, and platform APIs that accelerates development across all titles",
+    "Adapt core systems to the unique requirements of each new game, balancing reusability with the flexibility to support diverse gameplay experiences",
+    "Collaborate with the Creative Engineer to establish clear technical handoff processes ensuring promising prototypes have a smooth path to production",
+    "Leverage AI-assisted development tools to accelerate implementation while maintaining code quality and architectural coherence",
+    "Integrate with distribution platforms, ad networks, and third-party services to maximize reach and revenue across the portfolio",
+    "Identify opportunities to extract reusable components from production games back into shared libraries continuously improving development velocity",
+    "Contribute to technical decision-making around architecture, tooling, and process as the game portfolio scales"
+  ],
+  "use_cases": [
+    "Generative entertainment universes where creators, players, and AI collaborate in real time",
+    "Crime-solving detective games where players collect evidence, crack cases, and rise through ranks of a connected detective program",
+    "Living, ever-expanding game worlds where intelligent systems learn, adapt, and surprise players",
+    "AI-powered game development workflows that enable rapid prototyping and fast iteration",
+    "Scalable game platform that supports multiple interconnected game titles with shared progression and experiences"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "GCP",
+    "Phaser",
+    "Pixi.js",
+    "Three.js",
+    "browser performance optimization"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a software engineer role building web-based games\nand game infrastructure for a generative entertainment\nplatform. While the company uses AI in their products and\nworkflows, the role involves building game systems,\ninfrastructure, and platform integrations using AI-assisted\ndevelopment tools rather than building, training, or\ndeploying AI/ML models directly.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "Pixi.js",
+      "Phaser",
+      "Three.js",
+      "browser performance optimization"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "GCP",
+      "AWS"
+    ],
+    "ops": [
+      "CI/CD"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

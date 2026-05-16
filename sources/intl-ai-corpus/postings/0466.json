@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0466",
+  "source": "intl-ai-corpus",
+  "source_ref": "8061693",
+  "source_url": "https://builtin.com/job/senior-backend-engineer-ai-systems/8061693",
+  "title": "Senior Backend Engineer, AI Systems",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Jellyfish",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-21",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "225 Employees",
+  "company_stage": "growth-stage startup",
+  "company_focus": "Engineering analytics and AI team intelligence platform",
+  "industries": [
+    "Big Data",
+    "Cloud",
+    "Productivity",
+    "Software",
+    "Database",
+    "Analytics",
+    "Automation"
+  ],
+  "description": "Engineers do their best work when they can focus on what\nmatters most. Leaders want to help teams set clear\npriorities. It's hard to know where people are working in\nlarge systems when issue tracking systems are messy.\nJellyfish's engineering team is solving this problem for\nevery issue tracking system and any style of working. We're\nlooking for a Senior Backend Engineer, AI Systems who wants\nto build tools that classify work into meaningful categories\nso leaders can see patterns and help their teams focus on\nwhat matters.\n\nThis role demands someone who can handle complex data at\nscale. You'll work across multiple issue tracking systems,\neach with different data models and quirks, processing\nmillions of issues for hundreds of customers. You need to\ndesign systems that can classify and aggregate work\nefficiently, build data pipelines that handle the volume,\nand apply LLMs in ways that work at scale. Strong backend\nengineering skills, experience with complex data modeling,\nand curiosity about building production LLM systems and AI\ninfrastructure are essential.\n\nThe best candidates are senior backend engineers who enjoy\nworking with unstructured data, want to learn about using AI\ninfrastructure responsibly, and care about building features\nthat help engineering leaders make better decisions for\ntheir teams.\n\nLet's talk about what you'll do:\n\n- Design, plan, and implement key features as part of a highly\n  effective development team\n- Rapidly deliver value for our customers by pushing features\n  to our AWS-hosted SaaS environment daily, with automated\n  CI/CD pipelines\n- Provide technical and product expertise within your team and\n  across the organization\n- Think big about what’s possible to represent the scope of\n  engineering work and how it’s changing\n- Communicate effectively about project status and technical\n  issues\n- Participate in your team’s agile process and work to\n  continually improve your team’s capabilities\n- Provide support for production operations of the Jellyfish\n  product\n- Actively participate in a culture supportive of growth and\n  inclusion on your team\n\nLet's talk about what you need to excel:\n\n- 10+ years of experience building SaaS products\n- Strong skills in Python, and passion for building production\n  software systems\n- Enough experience with frontend frameworks, such as React,\n  to be able to pitch in from time to time to move a project\n  forward or troubleshoot issues.\n- Strong skills in data modeling in relational database\n  systems and experience with and interest in other database\n  technologies such as columnar systems.\n- Experience working with Large Language Models and Amazon’s\n  Bedrock and Sagemaker environments.\n- Fluency with tools such as Copilot, Cursor, Claude Code,\n  Kiro and a track record of using them to build and ship\n  fast.\n- Have worked in or interested in a growth-stage startup\n- Curiosity - great at asking questions, figuring out what\n  needs to be done, building consensus, and executing\n- Love learning new things and teaching others what you know\n- Strong communication skills and desire for collaborative\n  work\n\nA list of job experiences and qualification requirements is\ngreat, but humility, a performance-driven attitude, and a\nteam-player approach are most important to us. We love to\nhave fun and win in the process. We only hire people who\nhave a passion for building great companies in an\nenvironment where a sense of humor is a must.\n\nOccasional travel may be required.\n\nApplicants must be authorized to work for any employer in\nthe US. We are unable to sponsor or take over sponsorship of\nan employment visa at this time.\n\nLet’s talk about us! This is all about you, but you want to\nknow a little about us. Jellyfish enables leaders to\neffectively build AI-integrated engineering teams, align\nengineering decisions with business initiatives and deliver\nthe right software efficiently and on time. AI tools alone\nwon’t transform your org—Jellyfish shows you what’s working,\nwhat’s not, and how to build high-performing teams that know\nhow to use AI the right way.\n",
+  "skills_required": [
+    "Claude Code",
+    "Copilot",
+    "Cursor",
+    "Large Language Models"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, plan, and implement key features as part of a highly effective development team",
+    "Rapidly deliver value for customers by pushing features to AWS-hosted SaaS environment daily with automated CI/CD pipelines",
+    "Provide technical and product expertise within your team and across the organization",
+    "Think big about representing the scope of engineering work and how it's changing",
+    "Provide support for production operations of the Jellyfish product",
+    "Participate in team's agile process and work to continually improve team capabilities"
+  ],
+  "use_cases": [
+    "Classify engineering work into meaningful categories using LLMs",
+    "Aggregate and analyze work patterns across multiple issue tracking systems",
+    "Process millions of issues for hundreds of customers at scale",
+    "Enable engineering leaders to see patterns and help teams focus on priorities",
+    "Build AI-integrated engineering team insights and analytics"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Amazon Bedrock",
+    "Amazon SageMaker",
+    "CI/CD",
+    "React",
+    "columnar databases",
+    "data modeling",
+    "data pipelines",
+    "relational databases"
+  ],
+  "frameworks_mentioned": [
+    "Claude Code",
+    "Copilot",
+    "Cursor",
+    "Large Language Models"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Senior Backend Engineer role focused on building\ndata pipelines and systems that USE LLMs as a tool for\nclassification, not building or fine-tuning models. The\nengineer is applying pre-existing AI infrastructure\n(Bedrock, SageMaker) to solve business problems around work\ncategorization, which makes this ai-support rather than ai-\nfirst.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Large Language Models",
+      "Copilot",
+      "Cursor",
+      "Claude Code"
+    ],
+    "ml": [],
+    "web": [
+      "React"
+    ],
+    "databases": [
+      "relational databases",
+      "columnar databases"
+    ],
+    "data": [
+      "data modeling",
+      "data pipelines"
+    ],
+    "cloud": [
+      "AWS",
+      "Amazon Bedrock",
+      "Amazon SageMaker"
+    ],
+    "ops": [
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-0716",
+  "source": "intl-ai-corpus",
+  "source_ref": "3796223",
+  "source_url": "https://builtin.com/job/software-engineer-ai-inference/3796223",
+  "title": "Software Engineer, AI Inference",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Skild AI",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-17",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "24 Employees",
+  "company_stage": "Seed",
+  "company_focus": "Building general purpose robotic intelligence for widespread\nrobot deployment",
+  "industries": [
+    "Artificial Intelligence",
+    "Robotics",
+    "Business Intelligence"
+  ],
+  "description": "Company Overview\n\nAt Skild AI, we are building the world's first general\npurpose robotic intelligence that is robust and adapts to\nunseen scenarios without failing. We believe massive scale\nthrough data-driven machine learning is the key to unlocking\nthese capabilities for the widespread deployment of robots\nwithin society. Our team consists of individuals with\nvarying levels of experience and backgrounds, from new\ngraduates to domain experts. Relevant industry experience is\nimportant, but ultimately less so than your demonstrated\nabilities and attitude. We are looking for passionate\nindividuals who are eager to explore uncharted waters and\ncontribute to our innovative projects.\n\nPosition Overview\n\nWe are looking for a Software Engineer to work at the\nforefront of deploying our cutting-edge AI models, enhancing\nthe performance and capabilities of our embodied systems.\nYou will be responsible for optimizing AI inference\nprocesses from lightweight to billion-parameter models,\nensuring our robots operate with unmatched efficiency and\nintelligence in real-world environments. You will work at\nthe intersection of systems and machine learning, directly\ncontributing to making our AI models more powerful and\nadaptive by ensuring consistent performance in light of\nvariable and perhaps unforeseen compute and hardware\nconstraints.\n\nResponsibilities\n\n- Develop and optimize runtime AI inference pipelines for\n  real-world robotic deployment.\n- Build infrastructure, frameworks, and tooling to enable\n  reliable integration of models into robotic systems and\n  informative analysis of production models to drive the\n  direction of architecture choice and deployment system\n  design.\n- Formulate specialized optimization solutions for various\n  inference paradigms and scenarios (autoregressive models,\n  denoising models, hierarchical models, state machines,\n  multi-agent systems, cloud-based inference).\n- Adapt optimization solutions to various compute, hardware,\n  and networking constraints.\n\nPreferred Qualifications\n\n- BS, MS or higher degree in Computer Science, Robotics,\n  Engineering or a related field, or equivalent practical\n  experience.\n- Minimum of 3 years of industry experience.\n- Proficiency developing in low-level systems languages (C,\n  C++, Rust, Go), Python and at least one deep learning\n  library such as PyTorch, TensorFlow, JAX, etc.\n- Deep understanding and practical experience with low-level\n  systems concepts (multithreading, networking, embedded\n  systems, memory management).\n- Experience with CUDA.\n- Deep understanding of state-of-the-art machine learning\n  techniques and models.\n- Experience optimizing various machine learning\n  architectures.\n- Experience with machine learning compilers.\n- Experience optimizing model inference for robotic systems\n  deployment.\n\nBase Salary Range\n\n$100,000—$300,000 USD\n",
+  "skills_required": [
+    "CUDA",
+    "JAX",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and optimize runtime AI inference pipelines for real-world robotic deployment",
+    "Build infrastructure, frameworks, and tooling to enable reliable integration of models into robotic systems",
+    "Analyze production models to drive architecture choice and deployment system design",
+    "Formulate specialized optimization solutions for various inference paradigms including autoregressive, denoising, and hierarchical models",
+    "Optimize inference for multi-agent systems, state machines, and cloud-based inference scenarios",
+    "Adapt optimization solutions to various compute, hardware, and networking constraints"
+  ],
+  "use_cases": [
+    "General purpose robotic intelligence deployment",
+    "Real-world robotic systems operation",
+    "Embodied AI systems in production environments",
+    "Multi-agent robotic systems",
+    "Robust robot adaptation to unseen scenarios"
+  ],
+  "tools_mentioned": [
+    "Embedded systems",
+    "ML compilers",
+    "Memory management",
+    "Multithreading",
+    "Networking"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "JAX",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "C",
+    "C++",
+    "Go",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is ai-first because it directly involves\noptimizing and deploying AI/ML models for inference,\nincluding working with autoregressive models, denoising\nmodels, and other ML architectures. The position requires\nhands-on work with model optimization, CUDA, and ML\ncompilers to deploy models to robotic systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "JAX",
+      "CUDA"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "ML compilers",
+      "Multithreading",
+      "Embedded systems",
+      "Memory management",
+      "Networking"
+    ],
+    "languages": [
+      "C++",
+      "C",
+      "Rust",
+      "Go",
+      "Python"
+    ],
+    "domains": [
+      "Robotics"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

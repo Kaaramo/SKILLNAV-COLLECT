@@ -1,0 +1,103 @@
+{
+  "job_id": "intl-ai-corpus-0309",
+  "source": "intl-ai-corpus",
+  "source_ref": "7747103",
+  "source_url": "https://builtin.com/job/ai-engineer/7747103",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cytora",
+  "company_type": "entité morale privée",
+  "location": "GB",
+  "city_inferred": null,
+  "country": "GB",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-10",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "114 Employees",
+  "company_stage": "Acquired (by Applied Systems)",
+  "company_focus": "Generative AI platform for commercial insurance risk\ndigitization",
+  "industries": [
+    "Artificial Intelligence",
+    "Insurance",
+    "Software",
+    "Business Intelligence"
+  ],
+  "description": "Cytora, now part of Applied Systems, combines cutting-edge\ninnovation with global scale to transform commercial\ninsurance.\n\nFounded in 2012, Cytora enables insurers digitise risks,\nunlock the value of external data, and automate risk intake\nacross SME, Mid Market, and Specialty lines whereas Applied\nSystems are a global leader in insurance technology since\n1983, powering more than 18,000 agencies and 160,000+ users\nacross North America and Europe with its cloud-based\nsoftware solutions.\n\nTogether, Cytora and Applied Systems are accelerating\ndigital transformation across the insurance industry—driving\ngreater efficiency, data-driven insights, and connectivity\nbetween insurers and brokers worldwide.\n\nThe Role\n\nAs an AI Engineer (LLM), you will play a critical role in\ndeveloping our core Large Language Model (LLM) service.\n\nOur LLM service underpins our Generative AI powered risk\ndigitization platform, providing a unified interface for\ninternal services to leverage the power of LLMs at scale,\nregardless of the underlying foundational model.\n\nYou will be responsible for building, deploying, and\noptimizing LLM-powered solutions that directly impact our\ncustomer's ability to understand and process risk in\ncommercial insurance.\n\nWhat you will be doing\n\n- Problem Solving & Collaboration:\n  - Engage deeply with domain experts and product managers to\n    understand and define key business problems within risk\n    processing in commercial insurance that can be solved\n    with LLMs.\n  - Collaborate closely with consuming service teams to define\n    clear, efficient, and scalable interfaces for LLM tasks.\n- Development & Deployment:\n  - Design, develop, test, and deploy domain-specific LLM tasks\n    (e.g., information extraction, risk assessment, document\n    summarization, etc.) that are readily consumable by\n    other Cytora services.\n  - Stay up-to-date with the latest advancements in LLM\n    technology and actively explore new models, techniques,\n    and tools to enhance our capabilities e.g. Agentic AI.\n- Evaluation & Optimization:\n  - Develop and implement comprehensive evaluation metrics and\n    tools to rigorously assess and iterate on the\n    performance of LLM tasks.\n  - Analyze task performance, identify areas for improvement,\n    and implement strategies to optimize accuracy,\n    efficiency, and cost-effectiveness.\n- Production & Monitoring:\n  - Monitor the performance of deployed LLM tasks in production,\n    proactively identify and address issues, and ensure high\n    reliability and accuracy.\n\nA successful candidate will likely have:\n\n- Problem-Solving: Strong analytical and problem-solving\n  skills, with the ability to address complex AI challenges.\n- Collaboration: Strong communication skills, with the ability\n  to work effectively with cross-functional teams.\n- Enthusiasm: A passion for using AI to solve complex problems\n  and a willingness to learn.\n- Experience in and strong knowledge of using AI/ML and more\n  particularly LLMs e.g.\n  - Prompt engineering techniques\n  - Agentic systems\n  - Multiple LLM models\n  - Experience in using LLMs for document processing tasks would\n    be beneficial\n- Proficiency in Python and specifically with mypy and asyncio\n\nLocation\n\nCytora are a remote-first company. For this role you can be\nbased anywhere in the UK. provided you  1. have fluent\nspoken and written English, and 2. have the permanent right\nto work without requiring visa sponsorship.\n\nBenefits\n\n- Competitive salary\n- Remote first\n- Fun, vibrant and energetic environment with people that want\n  to make a difference\n- Opportunity to learn and build new skills in an expanding\n  business\n- Private health insurance\n- Choice of laptop\n- Flexi-working\n- Company trips\n\nAI Utilization\n\nWe leverage AI tools to streamline parts of our recruitment\nworkflow (such as resume parsing and interview scheduling).\nHowever, candidate screening, interviews, and final\ndecisions are conducted by real humans. Equal Opportunities\n\nWe are an equal opportunity employer and value diversity at\nour company. We do not discriminate on the basis of race,\nreligion, colour, political affiliation, national origin,\nsex, sexual orientation, age, marital status, veteran\nstatus, or disability status.\n",
+  "skills_required": [
+    "Agentic systems",
+    "Document processing",
+    "LLM models",
+    "Prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Engage with domain experts and product managers to define and solve business problems in commercial insurance risk processing using LLMs",
+    "Collaborate with consuming service teams to define efficient and scalable interfaces for LLM tasks",
+    "Design, develop, test, and deploy domain-specific LLM tasks including information extraction, risk assessment, and document summarization",
+    "Stay updated with latest LLM advancements and explore new models, techniques, and tools such as Agentic AI",
+    "Develop and implement comprehensive evaluation metrics and tools to rigorously assess LLM task performance",
+    "Analyze task performance and implement strategies to optimize accuracy, efficiency, and cost-effectiveness",
+    "Monitor deployed LLM tasks in production and proactively address issues to ensure high reliability and accuracy"
+  ],
+  "use_cases": [
+    "Commercial insurance risk processing and digitization",
+    "Automated information extraction from insurance documents",
+    "Risk assessment using generative AI",
+    "Document summarization for insurance workflows",
+    "SME, Mid Market, and Specialty risk intake automation",
+    "Data-driven insights connecting insurers and brokers"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "Agentic systems",
+    "Document processing",
+    "LLM models",
+    "Prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "asyncio",
+    "mypy"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role focused on building, deploying, and\noptimizing LLM-powered solutions. The engineer works\ndirectly on LLM tasks including prompt engineering, agentic\nsystems, and model optimization for risk processing\napplications.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt engineering",
+      "Agentic systems",
+      "LLM models",
+      "Document processing"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "mypy",
+      "asyncio"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

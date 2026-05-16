@@ -1,0 +1,151 @@
+{
+  "job_id": "intl-ai-corpus-3046",
+  "source": "intl-ai-corpus",
+  "source_ref": "9114817",
+  "source_url": "https://www.builtinla.com/job/software-ai-engineer-mid-level-context-engineering/9114817",
+  "title": "Software AI Engineer Mid-Level,  Context Engineering",
+  "title_normalized": "AI_ENGINEER",
+  "company": "WEX Inc.",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-21",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Financial technology and payment processing solutions",
+  "industries": [
+    "Fintech",
+    "Payments"
+  ],
+  "description": "As an AI Platform Engineer (SDE 2), you will be a hands-on\ndeveloper responsible for building and maintaining the core\nsoftware components that power our AI and context\ninfrastructure. You will work on the \"Context Layer\"—the\nplumbing that connects enterprise data to LLMs—ensuring that\nour AI agents have the right information at the right time.\nThis role is ideal for a strong software engineer who wants\nto specialize in the operational side of AI, focusing on\nhigh-quality code, automated delivery, and cloud-native\nsystems.\n\nKey Responsibilities\n\n- Feature Development: Implement and maintain core services\n  for the AI Data Lakehouse, focusing on efficient data\n  retrieval and storage optimizations for AI workflows.\n- Pipeline Automation: Build and support CI/CD pipelines to\n  automate the deployment of AI models, prompt templates,\n  and infrastructure updates.\n- Agentic Support: Develop and test tool-execution\n  environments and API interfaces that allow AI agents to\n  interact with internal business systems safely.\n- Operational Excellence: Participate in on-call rotations and\n  troubleshooting to ensure platform reliability. Write unit\n  tests, integration tests, and documentation for new\n  features.\n- Context Retrieval: Work on the \"Context Fabric\" to implement\n  search and retrieval patterns (like RAG) that help agents\n  access secure enterprise data.\n- Cloud Management: Assist in managing cloud resources across\n  AWS and Azure, ensuring environments are cost-effective\n  and secure.\n\nQualifications & Experience\n\nSoftware Engineering Foundation\n\n- Experience: 3+ years of professional software development\n  experience.\n- Core Skills: Strong proficiency in Python and either Java or\n  Scala. You write clean, maintainable, and well-documented\n  code.\n- API Development: Experience building and consuming RESTful\n  APIs or gRPC services.\n- Database Basics: Understanding of relational databases\n  (Postgres/MySQL) and familiarity with how data is stored\n  in a distributed environment.\n\nCloud & CI/CD Mastery\n\n- Cloud Consoles: Hands-on experience navigating the AWS or\n  Azure Management Consoles. You should be comfortable\n  managing basic services like IAM, S3/Blob, and compute\n  instances.\n- Infrastructure-as-Code (IaC): Basic experience with\n  Terraform. You can read, modify, and deploy infrastructure\n  modules.\n- CI/CD Tools: Familiarity with GitHub Actions, GitLab CI, or\n  Jenkins. You understand how to automate the build-test-\n  deploy lifecycle.\n- Observability: Basic experience with monitoring tools like\n  Prometheus, Grafana, or cloud-native solutions\n  (CloudWatch/Azure Monitor).\n\nAI & Agentic Interests (Specialized Focus)\n\n- LLM Awareness: Familiarity with LLM concepts and frameworks\n  like LangChain or LlamaIndex. You’ve experimented with or\n  built basic RAG-based applications.\n- Emerging Protocols: A desire to learn and implement new\n  standards like the Model Context Protocol (MCP).\n- Agentic Workflows: Interest in how autonomous agents\n  function, including tool-use (function calling) and state\n  management.\n- Data Retrieval: Basic understanding of vector databases\n  (e.g., Pinecone, Milvus) and how search impacts AI\n  performance.\n\nLeadership & Education\n\n- Team Player: Ability to work effectively in an agile\n  environment, participating in sprint planning and daily\n  stand-ups.\n- Continuous Learner: A strong desire to stay current with the\n  rapidly changing AI and cloud landscape.\n- Education: Bachelor’s degree in Computer Science, Software\n  Engineering, or a related technical field.\n\nThe base pay range represents the anticipated low and high\nend of the pay range for this position. Actual pay rates\nwill vary and will be based on various factors, such as your\nqualifications, skills, competencies, and proficiency for\nthe role. Base pay is one component of WEX's total\ncompensation package. Most sales positions are eligible for\ncommission under the terms of an applicable plan. Non-sales\nroles are typically eligible for a quarterly or annual bonus\nbased on their role and applicable plan. WEX's comprehensive\nand market competitive benefits are designed to support your\npersonal and professional well-being. Benefits include\nhealth, dental and vision insurances, retirement savings\nplan, paid time off, health savings account, flexible\nspending accounts, life insurance, disability insurance,\ntuition reimbursement, and more. For more information, check\nout the \"About Us\" section.Pay Range: $124,700.00 -\n$148,800.00\n",
+  "skills_required": [
+    "Agentic Workflows",
+    "Function Calling",
+    "LangChain",
+    "LlamaIndex",
+    "Model Context Protocol (MCP)",
+    "Prompt Templates",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement and maintain core services for the AI Data Lakehouse, focusing on efficient data retrieval and storage optimizations for AI workflows",
+    "Build and support CI/CD pipelines to automate the deployment of AI models, prompt templates, and infrastructure updates",
+    "Develop and test tool-execution environments and API interfaces that allow AI agents to interact with internal business systems safely",
+    "Work on the Context Fabric to implement search and retrieval patterns (like RAG) that help agents access secure enterprise data",
+    "Assist in managing cloud resources across AWS and Azure, ensuring environments are cost-effective and secure",
+    "Participate in on-call rotations and troubleshooting to ensure platform reliability, writing unit tests, integration tests, and documentation for new features"
+  ],
+  "use_cases": [
+    "Enterprise context retrieval for AI agents via RAG patterns",
+    "AI Data Lakehouse for efficient data retrieval and storage for AI workflows",
+    "Agentic tool execution allowing AI agents to interact with internal business systems",
+    "Automated deployment of AI models and prompt templates",
+    "Secure enterprise data access for LLM-powered applications"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "CloudWatch",
+    "Docker",
+    "GitHub Actions",
+    "GitLab CI",
+    "Grafana",
+    "Jenkins",
+    "Milvus",
+    "MySQL",
+    "Pinecone",
+    "Postgres",
+    "Prometheus",
+    "RESTful APIs",
+    "Terraform",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [
+    "Agentic Workflows",
+    "Function Calling",
+    "LangChain",
+    "LlamaIndex",
+    "Model Context Protocol (MCP)",
+    "Prompt Templates",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "SQL",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly builds and maintains the \"Context Layer\"\nconnecting enterprise data to LLMs, implements RAG patterns,\ndevelops tool-execution environments for AI agents, and\nworks with vector databases and agentic workflows. While it\nhas a strong software engineering foundation, the core work\nis hands-on building AI infrastructure that powers LLMs and\nagents — making it ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "RAG",
+      "Model Context Protocol (MCP)",
+      "Function Calling",
+      "Prompt Templates",
+      "Agentic Workflows"
+    ],
+    "ml": [],
+    "web": [
+      "RESTful APIs",
+      "gRPC"
+    ],
+    "databases": [
+      "Postgres",
+      "MySQL",
+      "Pinecone",
+      "Milvus"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Terraform",
+      "CI/CD",
+      "GitHub Actions",
+      "GitLab CI",
+      "Jenkins",
+      "Prometheus",
+      "Grafana",
+      "CloudWatch",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "Scala",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-2559",
+  "source": "intl-ai-corpus",
+  "source_ref": "8874570",
+  "source_url": "https://builtin.com/job/application-development-analyst/8874570",
+  "title": "IT Automation and AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Okta",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-21",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "6,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Identity and access management security platform",
+  "industries": [],
+  "description": "Secure Every Identity, from AI to Human Identity is the key\nto unlocking the potential of AI. Okta secures AI by\nbuilding the trusted, neutral infrastructure that enables\norganizations to safely embrace this new era. This work\nrequires a relentless drive to solve complex challenges with\nreal-world stakes. We are looking for builders and owners\nwho operate with speed and urgency and execute with\nexcellence. This is an opportunity to do career-defining\nwork. We're all in on this mission. If you are too, let's\ntalk.\n\nThe Opportunity\n\nAs an IT Automation and AI Engineer at Okta, you will be a\nkey contributor to the team building the platforms and\nservices that drive our internal AI transformation. We are\nmoving beyond simple automation to build sophisticated,\n\"agentic\" workflows—utilizing LangGraph and Gemini\nEnterprise to create stateful, reasoning-capable systems\nthat support our global workforce.\n\nThis is a hands-on role for a professional engineer who\nexcels at writing production-grade Python and is eager to\nbridge the gap between AI research and enterprise-scale\napplications. You will own the implementation of core\nfeatures, orchestrating complex LLM interactions while\nensuring performance, security, and reliability.\n\nWhat You’ll Be Doing\n\n- Build Agentic Workflows: Develop and maintain stateful\n  multi-agent systems using LangGraph to solve complex, non-\n  linear business tasks.\n- Gemini Integration: Implement and optimize LLM interactions\n  using Gemini Enterprise, focusing on prompt engineering,\n  function calling, and structured outputs.\n- State & Memory Management: Design and manage agent state,\n  persistence, and \"human-in-the-loop\" checkpoints to ensure\n  reliable automated decision-making.\n- Backend Development: Write high-quality, production-ready\n  Python code to build the APIs and services that power our\n  internal AI ecosystem.\n- RAG & Grounding: Work on Retrieval-Augmented Generation\n  (RAG) pipelines to ensure agents have access to accurate,\n  real-time enterprise context.\n- Infrastructure & Deployment: Deploy and manage services on\n  GCP using containerized environments (Docker/Kubernetes)\n  and Infrastructure as Code (Terraform).\n- Operational Excellence: Promote engineering best practices\n  around testing AI logic, security, and CI/CD to ensure\n  services are production-ready.\n\nWhat You’ll Bring to the Role\n\n- Professional Python Core: 2–4 years of software engineering\n  experience with a deep command of Python and its\n  asynchronous ecosystem.\n- AI Framework Mastery: Hands-on experience with LangGraph (or\n  similar frameworks like LangChain). You understand how to\n  build cycles, nodes, and conditional edges in a stateful\n  application.\n- LLM Practicality: Experience working with frontier models\n  like Gemini or GPT-4. You know how to manage prompt\n  versioning, token constraints, and model behavior.\n- System Design Foundations: Solid understanding of\n  distributed systems, cloud-native architectures, and\n  building/consuming RESTful APIs.\n- Problem-Solving Autonomy: The ability to take a defined\n  workflow or prototype and drive it to production with\n  minimal oversight, knowing when to escalate complex trade-\n  offs.\n- Collaborative Spirit: Strong communication skills and a\n  desire to work across team boundaries to deliver cohesive,\n  high-impact AI solutions.\n\nWhy Join Okta\n\n- Build With Purpose: Work on meaningful problems that\n  simplify and secure how Okta operates at a global scale.\n- Cutting-Edge Stack: Work with the latest from Google’s AI\n  suite (Gemini) and the leading edge of agentic\n  orchestration (LangGraph).\n- Grow in a Technical Culture: Join a supportive, high-caliber\n  team that values technical excellence, clean code, and\n  personal development.\n\n#Hybrid_Bengaluru\n\n#LI_Linkedin P24873_3390707\n\nThe Okta Experience\n\n- Supporting Your Well-Being\n- Driving Social Impact\n- Developing Talent and Fostering Connection + Community\n\nWe are intentional about connection. Our global community,\nspanning over 20 offices worldwide, is united by a drive to\ninnovate. Your journey begins with an immersive, in-person\nonboarding experience designed to accelerate your impact and\nconnect you to our mission and team from day one. Okta is an\nEqual Opportunity Employer. All qualified applicants will\nreceive consideration for employment without regard to race,\ncolor, religion, sex, sexual orientation, gender identity,\nnational origin, ancestry, marital status, age, physical or\nmental disability, or status as a protected veteran. We also\nconsider for employment qualified applicants with arrest and\nconvictions records, consistent with applicable laws. If\nreasonable accommodation is needed to complete any part of\nthe job application, interview process, or onboarding please\nuse this Form to request an accommodation. Notice for New\nYork City Applicants & Employees: Okta may use Automated\nEmployment Decision Tools (AEDT), as defined by New York\nCity Local Law 144, that use artificial intelligence,\nmachine learning, or other automated processes to assist in\nour recruitment and hiring process. In accordance with NYC\nLocal Law 144, if you are an applicant or employee residing\nin New York City, please click here to view our full NYC\nAEDT Notice. Okta is committed to complying with applicable\ndata privacy and security laws and regulations. For more\ninformation, please see our Personnel and Job Candidate\nPrivacy Notice at https://www.okta.com/legal/personnel-\npolicy/.\n",
+  "skills_required": [
+    "Function Calling",
+    "GPT-4",
+    "Gemini Enterprise",
+    "LangChain",
+    "LangGraph",
+    "Multi-Agent Systems",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain stateful multi-agent systems using LangGraph to solve complex business tasks",
+    "Implement and optimize LLM interactions using Gemini Enterprise with prompt engineering and function calling",
+    "Design and manage agent state, persistence, and human-in-the-loop checkpoints for reliable decision-making",
+    "Write production-ready Python code to build APIs and services powering the internal AI ecosystem",
+    "Develop RAG pipelines to provide agents with accurate, real-time enterprise context",
+    "Deploy and manage services on GCP using Docker, Kubernetes, and Terraform",
+    "Promote engineering best practices for testing AI logic, security, and CI/CD pipelines"
+  ],
+  "use_cases": [
+    "Internal AI transformation through agentic workflows for global workforce",
+    "Automated enterprise decision-making with stateful multi-agent systems",
+    "Retrieval-Augmented Generation for enterprise knowledge access",
+    "IT automation and process orchestration for business operations",
+    "Secure identity management infrastructure enhanced with AI capabilities"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "REST APIs",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Function Calling",
+    "GPT-4",
+    "Gemini Enterprise",
+    "LangChain",
+    "LangGraph",
+    "Multi-Agent Systems",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building agentic AI workflows using\nLangGraph and Gemini Enterprise, implementing RAG pipelines,\norchestrating LLM interactions, and deploying multi-agent\nsystems. The engineer is hands-on with model integration,\nprompt engineering, and function calling — all core AI/LLM\ndevelopment work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "Gemini Enterprise",
+      "GPT-4",
+      "Prompt Engineering",
+      "RAG",
+      "Function Calling",
+      "Multi-Agent Systems"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

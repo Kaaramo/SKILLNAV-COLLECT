@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-1736",
+  "source": "intl-ai-corpus",
+  "source_ref": "8592471",
+  "source_url": "https://builtin.com/job/staff-ai-product-engineer/8592471",
+  "title": "Staff AI Product Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Loop AI - Delivery Intelligence Platform",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "79 Employees",
+  "company_stage": "Early-stage startup",
+  "company_focus": "AI-powered restaurant operations automation",
+  "industries": [
+    "Artificial Intelligence",
+    "On-Demand",
+    "Software"
+  ],
+  "description": "About Loop: At Loop, we’re revolutionizing restaurant\noperations with AI-powered automation. Our technology helps\nrestaurants streamline their workflows, reduce costs, and\nenhance customer experiences—all through intelligent\nautomation. We’re a fast-moving, early-stage startup on a\nrapid growth trajectory, and we need a technical leader to\nbuild and scale our engineering team from the ground up.\n\nRole Overview:\n\nAs a Staff Product Engineer, you will own a broad technical\nscope spanning frontend, backend, and AI systems. You’ll\ndesign, build, and scale features across the full product\nstack — from user-facing UI to robust backend services and\nAI-driven components. You’ll work directly with product,\ndesign, data, and leadership to deliver high-impact\nsolutions that push our platform forward.\n\nThis position is ideal for engineers who love building\nacross the stack, enjoy solving complex problems, and want\nto deeply influence both product direction and technical\narchitecture.\n\nKey Responsibilities:\n\n- Full-Stack Development: Lead design and implementation of\n  scalable frontend architecture using modern web\n  technologies. Translate UI/UX designs into responsive,\n  accessible, and performant applications. Build and\n  maintain backend systems and APIs to power core product\n  functionality. Ensure smooth integration between frontend\n  interfaces and backend services.\n- Architecture & Best Practices: Contribute to high-level\n  architecture decisions across the stack.Create scalable,\n  maintainable systems with high code quality. Apply\n  critical thinking to propose innovative solutions and\n  continuously improve technical processes.\n- Cross-Functional Collaboration: Partner with product\n  managers, designers, and engineers to define and\n  prioritize roadmap features. Participate in customer-\n  focused discussions to understand pain points and\n  translate them into technical solutions. Mentor and guide\n  team members, championing best practices and high\n  engineering standards.\n- AI Systems: Collaborate on AI-driven features, integrating\n  models or intelligent workflows into platform\n  components.Help design systems that support data\n  pipelines, model inference, and AI feedback loops.\n\nQualifications:\n\n- 6+ years professional experience building production-grade\n  software.\n- Solid backend experience — building services, APIs, and\n  database integrations with Python, Django, or comparable\n  stacks.\n- Demonstrated ability to work across frontend and backend\n  contexts with clean, maintainable code.\n- Experience with version control, deployment pipelines, and\n  performance optimization.\n- A proactive mindset and ability to work independently in a\n  fast-paced startup environment.\n\nNice to Have:\n\n- Experience building or working with AI agentic workflows,\n  including orchestration, tool usage, and multi-step\n  reasoning systems.\n- Strong frontend expertise in React.js, including performance\n  optimization and scalable component architecture.\n- Ability to think beyond pure engineering — strong business\n  and product acumen.\n- Demonstrated curiosity and interest in working backwards\n  from the customer, identifying real pain points, and\n  translating them into technical solutions.\n- Passion for building end-to-end features that create\n  measurable product impact.\n\nWhy Join Us?\n\n- Impact: Drive major product areas from inception to\n  production.\n- Growth: Learn and contribute to both frontend, backend, and\n  AI systems.\n- Ownership: Shape architecture and influence product\n  strategy.\n- Team: Work with passionate engineers and product thinkers\n  solving real problems.\n",
+  "skills_required": [
+    "AI agentic workflows",
+    "Model inference",
+    "Multi-step reasoning systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead design and implementation of scalable frontend architecture using modern web technologies",
+    "Build and maintain backend systems and APIs to power core product functionality",
+    "Contribute to high-level architecture decisions across the stack and create scalable, maintainable systems",
+    "Partner with product managers, designers, and engineers to define and prioritize roadmap features",
+    "Collaborate on AI-driven features, integrating models or intelligent workflows into platform components",
+    "Help design systems that support data pipelines, model inference, and AI feedback loops",
+    "Mentor and guide team members, championing best practices and high engineering standards"
+  ],
+  "use_cases": [
+    "Restaurant workflow automation and optimization",
+    "Cost reduction for restaurant operations",
+    "Customer experience enhancement through intelligent automation",
+    "AI agentic workflows with orchestration, tool usage, and multi-step reasoning",
+    "Data pipeline and model inference systems for restaurant intelligence"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "Data pipelines",
+    "Deployment pipelines",
+    "Django",
+    "Orchestration",
+    "Performance optimization",
+    "React.js",
+    "Version control"
+  ],
+  "frameworks_mentioned": [
+    "AI agentic workflows",
+    "Model inference",
+    "Multi-step reasoning systems"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role is a Staff Product Engineer with broad full-stack\nresponsibilities. While it mentions \"collaborating on AI-\ndriven features\" and \"integrating models,\" the primary focus\nis on full-stack development (frontend, backend, APIs,\narchitecture) rather than directly building, training, or\ndeploying AI models. The AI work appears to be\nsupporting/integrating AI systems built by others rather\nthan hands-on model work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI agentic workflows",
+      "Multi-step reasoning systems"
+    ],
+    "ml": [
+      "Model inference"
+    ],
+    "web": [
+      "React.js",
+      "Django",
+      "APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Data pipelines"
+    ],
+    "cloud": [],
+    "ops": [
+      "Orchestration",
+      "Version control",
+      "Deployment pipelines",
+      "Performance optimization"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

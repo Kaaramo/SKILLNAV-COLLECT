@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-2737",
+  "source": "intl-ai-corpus",
+  "source_ref": "8989792",
+  "source_url": "https://www.builtinla.com/job/senior-data-science-engineer-ai/8989792",
+  "title": "Senior Data Science Engineer, AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Turquoise Health",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-08",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series C",
+  "company_focus": "Price transparency platform for healthcare finance leaders",
+  "industries": [],
+  "description": "This is a fully remote role within the United States.\n\nWe’re looking for a driven, entrepreneurial Senior Data\nScience Engineer, AI to join our team and help eliminate the\nfinancial complexity of healthcare. We value creative,\noutside-the-box thinkers that back their ideas with\ntechnical knowledge and action.\n\nResponsibilities:\n\n- Work cross-functionally with Product and subject matter\n  experts to conceptualize, prototype, and build data\n  solutions\n- Unify and augment multi-source healthcare datasets (e.g.,\n  claims, contract rates, demographics) into high-quality,\n  Analytics-ready data models that power internal and\n  external products\n- Build and maintain data engineering systems that support AI\n  use cases, including scalable ingestion pipelines, feature\n  generation, and downstream products\n- Contribute to building, maintaining, and testing data\n  pipelines\n- Draft internal and external technical documentation\n- Seek and prioritize technical and product feedback from\n  internal customers\n- Iterate quickly with an eye towards value\n\nWhat you'll bring to the role:\n\n- Bachelor’s degree, or equivalent experience/knowledge. We\n  are happy to work with strong candidates with non-\n  traditional educational backgrounds\n- 4+ years of experience developing data models, pipelines,\n  and end-to-end analytical solutions using Python and SQL\n- Familiarity with modern AI tooling and frameworks (e.g.,\n  OpenAI APIs, vector databases like Pinecone/Weaviate,\n  embedding workflows, RAG architectures)\n- Understanding of evaluation strategies and monitoring for\n  LLM-based systems (e.g., hallucination mitigation, eval\n  frameworks, feedback loops)\n- Ability to design data systems with scalability,\n  performance, and cost efficiency in mind, particularly for\n  compute- and data-intensive workloads\n- Strong grasp of data architecture and engineering practices,\n  including ETL/ELT workflows, orchestration tools (e.g.,\n  Airflow, dbt), and cloud-based storage (e.g., S3,\n  Redshift)\n- Entrepreneurial mindset: you prioritize tasks with an eye\n  for evolving business needs. You can problem solve\n  independently\n- Comfortable working remotely in a collaborative, technical\n  team\n\nBonus points:\n\n- Revenue cycle, healthcare payments and/or medical billing\n  experience\n\nBenefits:\n\n- Competitive pay with equity options\n- Stellar health care plan options (Medical, Dental & Vision),\n  with FSA, DCFSA, & HSA options\n- Company-sponsored disability & life insurance\n- Unlimited PTO\n- 401(k) + 4% Matching\n- Fully remote work + flexible working hours\n- $750 work-from-home setup budget\n- Paid biannual in-person company summits\n- Quarterly $150 co-hanging stipend to meet up with coworkers\n- Monthly $100 health and wellness benefit\n- Generous paid family leave\n- Annual $1,200 learning & development stipend\n\nAbout Turquoise Health\n\nTurquoise Health is a Series C price transparency platform\nfor finance leaders across healthcare. Backed by a16z, Oak\nHC/FT, Adams Street, Yosemite, Bessemer Venture Partners,\nand others, we power price transparency for 300+ enterprise\norganizations and are building the infrastructure for a more\nopen, efficient healthcare marketplace. We're a remote-\nfirst, US-based team that values transparency, empathy,\ninclusivity, creativity, and ownership.\n\nWe operate on US business hours and work with clients\nentirely based in the US. For this role, we are seeking US-\nbased candidates.\n\nWe strongly encourage BIPOC, people with disabilities, and\nLGBTQIA+ folks to apply for any open roles of interest.\nHealthcare affects all people differently, but it\nsignificantly affects those in underserved communities. With\na robust, diverse team, we are stronger and better equipped\nto change the future of healthcare for all.\n\nDisability Accommodation Email\n\nTurquoise is committed to providing reasonable\naccommodations to applicants and employees with\ndisabilities. Please tell us if you require a reasonable\naccommodation to apply for a job or to perform your job.\nExamples of reasonable accommodation include making a change\nto the application process or work procedures, providing\ndocuments in an alternate format, using a sign language\ninterpreter, or using specialized equipment. If you require\nassistance or an accommodation with the hiring process,\nplease contact recruiting@turquoise.health\n",
+  "skills_required": [
+    "Embedding workflows",
+    "Hallucination mitigation",
+    "LLM evaluation and monitoring",
+    "OpenAI APIs",
+    "RAG architectures"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Work cross-functionally with Product and subject matter experts to conceptualize, prototype, and build data solutions",
+    "Unify and augment multi-source healthcare datasets (claims, contract rates, demographics) into high-quality analytics-ready data models",
+    "Build and maintain data engineering systems that support AI use cases including scalable ingestion pipelines and feature generation",
+    "Contribute to building, maintaining, and testing data pipelines",
+    "Draft internal and external technical documentation",
+    "Seek and prioritize technical and product feedback from internal customers",
+    "Iterate quickly with an eye towards delivering value"
+  ],
+  "use_cases": [
+    "Healthcare price transparency data infrastructure",
+    "Multi-source healthcare data unification (claims, contract rates, demographics)",
+    "Data pipelines powering AI-driven healthcare analytics products",
+    "Feature generation for AI workloads in healthcare",
+    "Supporting internal and external products with analytics-ready data models"
+  ],
+  "tools_mentioned": [
+    "AWS S3",
+    "Airflow",
+    "Data modeling",
+    "Data pipeline development",
+    "ETL/ELT workflows",
+    "Pinecone",
+    "Redshift",
+    "Weaviate",
+    "dbt"
+  ],
+  "frameworks_mentioned": [
+    "Embedding workflows",
+    "Hallucination mitigation",
+    "LLM evaluation and monitoring",
+    "OpenAI APIs",
+    "RAG architectures"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is primarily a data engineering position focused\non building data pipelines, data models, and data\ninfrastructure that support AI use cases. While it requires\nfamiliarity with AI tooling (OpenAI APIs, vector DBs, RAG),\nthe core responsibilities center on data\nengineering—unifying datasets, building ingestion pipelines,\nand creating analytics-ready data models—rather than\ndirectly building, training, fine-tuning, or deploying AI/ML\nmodels.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI APIs",
+      "Embedding workflows",
+      "RAG architectures",
+      "LLM evaluation and monitoring",
+      "Hallucination mitigation"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Redshift"
+    ],
+    "data": [
+      "ETL/ELT workflows",
+      "Airflow",
+      "dbt",
+      "Data modeling",
+      "Data pipeline development"
+    ],
+    "cloud": [
+      "AWS S3"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

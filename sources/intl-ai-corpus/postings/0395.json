@@ -1,0 +1,115 @@
+{
+  "job_id": "intl-ai-corpus-0395",
+  "source": "intl-ai-corpus",
+  "source_ref": "7927067",
+  "source_url": "https://builtin.com/job/staff-ai-software-engineer/7927067",
+  "title": "Staff AI Software Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Agility Robotics",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "83 Employees",
+  "company_stage": null,
+  "company_focus": "Bipedal robots for workplace automation",
+  "industries": [],
+  "description": "Agility Robotics is a pioneer. Our robot, Digit, is the\nfirst to be sold into workplaces across the globe. Our team\nis differentiated by its expertise in imagining,\nengineering, and delivering robots with advanced mobility,\ndexterity, intelligence, and efficiency -- robots\nspecifically designed to work alongside people, in spaces\nbuilt for people. Every day, we break through engineering\nchallenges and invent new solutions and capabilities that\nwill one day make robots commonplace and approachable. This\nwork is our passion and our responsibility: our mission is\nto make businesses more productive and people’s lives more\nfulfilling.\n\nAbout The Role\n\nThe AI Engineering team builds the models and infrastructure\nthat enable Digit to operate autonomously, efficiently, and\nsafely. As a Staff AI Core Engineer, you will lead the\ndevelopment of the foundational tools, libraries, and data\nsystems that power our AI teams to deliver robust and\nscalable learning-based capabilities for Digit.\n\nThis is a remote-friendly role with a preference for\ncandidates located near one of our offices for in-person\ncollaboration, meetings, and events.\n\nAbout The Work\n\n- Develop data pipelines and curation workflows to maintain\n  high-quality datasets for perception, locomotion, and\n  manipulation tasks.\n- Design, build, and maintain scalable AI infrastructure,\n  including shared libraries, model training pipelines, and\n  evaluation frameworks.\n- Build dashboards, visualization tools, and reusable metrics\n  to monitor and improve model performance and operational\n  readiness.\n- Define and implement testing, validation, and\n  reproducibility tools to ensure reliable deployment of\n  models on Digit.\n- Collaborate with skills and control teams to integrate\n  models efficiently into production systems, including\n  real-time execution environments.\n- Promote best practices for data management, experiment\n  tracking, and ML operations across the AI Engineering\n  organization.\n\nAbout You\n\n- 8+ years of professional experience in AI infrastructure, ML\n  engineering, or MLOps roles.\n- Strong software engineering skills, particularly in Python;\n  proficiency in developing scalable, maintainable libraries\n  and tools.\n- Experience building and maintaining ML pipelines, from\n  dataset curation to training, evaluation, and deployment.\n- Familiarity with training frameworks such as PyTorch or\n  TensorFlow.\n- Practical understanding of data-driven model development,\n  including dataset management, reproducibility, and\n  performance monitoring.\n- Excellent communication skills and a collaborative mindset\n  for working across AI, controls, and robotics software\n  teams.\n\nBonus Points\n\n- Experience deploying machine learning models into real-time\n  or embedded systems.\n- Experience managing cloud or on-premise GPU clusters,\n  distributed training, or high-performance compute\n  environments.\n- Familiarity with experiment tracking tools (e.g. MLflow,\n  Weights & Biases) and orchestration systems\n  (e.g.Kubernetes).\n- Background in robotics, perception, or control system\n  applications.\n\nFull-time Employees are eligible for Benefits:\n\n- 401(k) Plan: Includes a 6% company match.\n- Equity: Company stock options.\n- Insurance Coverage: 100% company-paid medical, dental,\n  vision, and short/long-term disability insurance for\n  employees.\n- Benefit Start Date: Eligible for benefits on your first day\n  of employment.\n- Well-Being Support: Employee Assistance Program (EAP).\n- Time Off:\n  - Exempt Employees: Flexible, unlimited PTO and 10 company\n    holidays, including a winter shutdown.\n  - Non-Exempt Employees: 10 vacation days, paid sick leave, and\n    10 company holidays, including a winter shutdown,\n    annually.\n- On-Site Perks: Catered lunches four times a week and a\n  variety of healthy snacks and refreshments at our Salem\n  and Pittsburgh locations.\n- Parental Leave: Generous paid parental leave programs.\n- Work Environment: A culture that supports flexible work\n  arrangements.\n- Growth Opportunities: Professional development and tuition\n  reimbursement programs.\n- Relocation Assistance: Provided for eligible roles.\n\nAll of our roles are U.S.-based. Applicants must have\ncurrent authorization to work in the United States.\n\nAgility Robotics is committed to a work environment in which\nall individuals are treated with respect and dignity. Each\nindividual has the right to work in a professional\natmosphere that promotes equal employment opportunities and\nprohibits unlawful discriminatory practices, including\nharassment. Therefore, it is the policy of Agility Robotics\nto ensure equal employment opportunity without\ndiscrimination or harassment on the basis of race, color,\nreligion, sex, sexual orientation, gender identity or\nexpression, age, disability, marital status, citizenship,\nnational origin, genetic information, or any other\ncharacteristic protected by law. Agility Robotics prohibits\nany such discrimination or harassment.\n\nAgility Robotics does not accept unsolicited referrals from\nthird-party recruiting agencies.  We prioritize direct\napplicants and encourage all qualified candidates to apply\ndirectly through our careers page.  If you are represented\nby a third party, your application may not be considered.\nTo ensure full consideration, please apply directly.\n\nApply Now: https://grnh.se/b444bbd04us\n",
+  "skills_required": [
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop data pipelines and curation workflows for perception, locomotion, and manipulation tasks",
+    "Design and maintain scalable AI infrastructure including shared libraries, model training pipelines, and evaluation frameworks",
+    "Build dashboards, visualization tools, and metrics to monitor model performance and operational readiness",
+    "Implement testing, validation, and reproducibility tools for reliable model deployment on Digit",
+    "Collaborate with skills and control teams to integrate models into real-time production systems",
+    "Promote best practices for data management, experiment tracking, and ML operations across the organization"
+  ],
+  "use_cases": [
+    "Autonomous robot navigation and mobility in human-occupied spaces",
+    "Perception systems for environment understanding and object detection",
+    "Robotic manipulation for picking, carrying, and handling objects",
+    "Real-time model execution for safe human-robot interaction",
+    "Learning-based capabilities for dexterous robot operations"
+  ],
+  "tools_mentioned": [
+    "GPU clusters",
+    "Kubernetes",
+    "ML pipelines",
+    "MLflow",
+    "Weights & Biases",
+    "data pipelines",
+    "distributed training",
+    "embedded systems",
+    "experiment tracking",
+    "model deployment",
+    "real-time systems"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building AI infrastructure, data\npipelines, and MLOps tools rather than directly developing\nor fine-tuning models. The engineer creates foundational\nsystems and frameworks that enable other AI teams to deploy\nmodels, working primarily on supporting infrastructure and\ntooling.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "data pipelines"
+    ],
+    "cloud": [
+      "Kubernetes",
+      "GPU clusters"
+    ],
+    "ops": [
+      "MLflow",
+      "Kubernetes",
+      "ML pipelines",
+      "experiment tracking",
+      "distributed training",
+      "real-time systems",
+      "embedded systems",
+      "Weights & Biases",
+      "model deployment"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

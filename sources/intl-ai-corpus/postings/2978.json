@@ -1,0 +1,146 @@
+{
+  "job_id": "intl-ai-corpus-2978",
+  "source": "intl-ai-corpus",
+  "source_ref": "9088750",
+  "source_url": "https://builtin.com/job/manager-ds-ai-full-stack-engineer/9088750",
+  "title": "Manager, DS & AI Full Stack Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pfizer",
+  "company_type": "entité morale privée",
+  "location": "Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-17",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "121,990 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global pharmaceutical and biotechnology company",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Biotech",
+    "Pharmaceutical"
+  ],
+  "description": "ROLE SUMMARY The AI Acceleration (AIA) function within the\nChief Marketing Office (CMO) is the single, business-led\nengine that owns the design, delivery, and scale-up of\npriority AI capabilities across Commercial. AIA works in\ntight collaboration with various Pfizer functions to deploy\nand maintain production-grade AI solutions that simplify how\nwe work and drive measurable value across all processes. As\na Manager, AI and Data Science Full Stack Engineer, your\nresponsibilities will include architecting and implementing\nAI solutions at scale for Pfizer. You will iteratively\ndevelop and continuously improve data science workflows, AI\nbased software solutions, and AI components. ROLE\nRESPONSIBILITIES\n\n- Develop end-to-end data engineering, data science and\n  analytics products and AI modules.\n- Develop server-side logic using back-end technologies such\n  as Python.\n- Develop data ETL pipelines using python and SQL.\n- Create responsive and visually appealing web interfaces\n  using HTML, CSS, and Bootstrap.\n- Build dynamic and interactive web applications with\n  JavaScript frameworks (React, Vue, or AngularJS)\n- Build data visualizations and data applications to enable\n  data exploration and insights generation.\n- Implement and maintain infrastructure and tools for software\n  development and deployment\n- Automate processes for continuous integration, delivery, and\n  deployment (CI/CD pipeline) to ensure smooth software\n  delivery\n- Implement logging and monitoring tools to gain insights into\n  system behavior.\n- Collaborate with data scientists, engineers, and colleagues\n  from across Pfizer to integrate AI and data science models\n  into production solutions\n- Demonstrate a proactive approach to identifying and\n  resolving potential system issues.\n- Contribute to the best practices of the team and help\n  colleagues grow.\n- Communicate complex technical concepts and insights to both\n  technical and non-technical stakeholders.\n- Stay up-to-date with emerging technologies and trends in\n  your field.\n\nBasic qualification\n\n- Bachelor's or Master's degree in Computer Science, or a\n  related field (or equivalent experience).\n- 5+ years of experience in software engineering, data\n  science, or related technical fields.\n- Proven experience as a Full Stack Engineer or similar role,\n  with a strong portfolio of successful projects.\n- Solid experience in programming languages such as Python or\n  R, and experience with relevant libraries and frameworks\n  (e.g., scikit-learn, TensorFlow, PyTorch).\n- Good understanding of back-end technologies, databases (SQL\n  and NoSQL), and RESTful APIs.\n- Knowledge of BI backend concept like Star Schema and\n  Snowflake\n- Experience in building low code dashboard solution tools\n  like Tableau, Power BI, Dash and Streamlit\n- Highly self-motivated, capable of delivering both\n  independently and through strong team collaboration.\n- Ability to creatively tackle new challenges and step outside\n  your comfort zone.\n- Strong English communication skills (written and verbal).\n\nPfizer is an equal opportunity employer and complies with\nall applicable equal employment opportunity legislation in\neach jurisdiction in which it operates.  Information &\nBusiness Tech\n",
+  "skills_required": [
+    "Dash",
+    "Power BI",
+    "PyTorch",
+    "Streamlit",
+    "Tableau",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop end-to-end data engineering, data science and analytics products and AI modules",
+    "Develop server-side logic and data ETL pipelines using Python and SQL",
+    "Create responsive web interfaces and interactive web applications using JavaScript frameworks (React, Vue, AngularJS)",
+    "Build data visualizations and dashboards to enable data exploration and insights generation",
+    "Implement and maintain CI/CD pipelines, infrastructure, logging, and monitoring tools",
+    "Collaborate with data scientists and engineers to integrate AI and data science models into production solutions",
+    "Communicate complex technical concepts to both technical and non-technical stakeholders",
+    "Contribute to team best practices and mentor colleagues"
+  ],
+  "use_cases": [
+    "Commercial AI capability deployment and scale-up across Pfizer",
+    "Data-driven analytics and insights generation for business processes",
+    "Automated data engineering and ETL pipelines for AI/ML workflows",
+    "Interactive dashboards and data visualization for business stakeholders"
+  ],
+  "tools_mentioned": [
+    "AngularJS",
+    "Bootstrap",
+    "CI/CD",
+    "CSS",
+    "Docker",
+    "ETL",
+    "HTML",
+    "NoSQL",
+    "RESTful APIs",
+    "React",
+    "Snowflake",
+    "Star Schema",
+    "Vue"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "R",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "While the role is within Pfizer's AI Acceleration function\nand involves building AI/data science products, the core\nresponsibilities are full-stack engineering — backend\ndevelopment, ETL pipelines, frontend web interfaces, CI/CD,\nand infrastructure. The engineer collaborates with data\nscientists to integrate AI models into production but does\nnot directly build, train, or fine-tune models themselves.\nThis is an enabling/support role for AI delivery.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "web": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "React",
+      "Vue",
+      "AngularJS",
+      "RESTful APIs"
+    ],
+    "databases": [
+      "NoSQL",
+      "Star Schema",
+      "Snowflake"
+    ],
+    "data": [
+      "ETL"
+    ],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "R",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": [
+      "Tableau",
+      "Power BI",
+      "Dash",
+      "Streamlit"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

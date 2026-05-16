@@ -1,0 +1,192 @@
+{
+  "job_id": "intl-ai-corpus-0297",
+  "source": "intl-ai-corpus",
+  "source_ref": "7669524",
+  "source_url": "https://builtin.com/job/senior-ai-systems-engineer/7669524",
+  "title": "Staff AI Systems Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Flock Safety",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,600 Employees",
+  "company_stage": "Series C+",
+  "company_focus": "Public safety technology and crime prevention platform",
+  "industries": [
+    "Hardware",
+    "Machine Learning",
+    "Security",
+    "Software"
+  ],
+  "description": "Who is Flock?\n\nFlock Safety is the leading safety technology platform,\nhelping communities thrive by taking a proactive approach to\ncrime prevention and security. Our hardware and software\nsuite connects cities, law enforcement, businesses, schools,\nand neighborhoods in a nationwide public-private safety\nnetwork. Trusted by over 5,000 communities, 4,500 law\nenforcement agencies, and 1,000 businesses, Flock delivers\nreal-time intelligence while prioritizing privacy and\nresponsible innovation.\n\nWe’re a high-performance, low-ego team driven by urgency,\ncollaboration, and bold thinking. Working at Flock means\ntackling big challenges, moving fast, and continuously\nimproving. It’s intense but deeply rewarding for those who\nwant to make an impact.\n\nWith nearly $700M in venture funding and a $7.5B valuation,\nwe’re scaling intentionally and seeking top talent to help\nbuild the impossible. If you value teamwork, ownership, and\nsolving tough problems, Flock could be the place for you.\n\nThe Opportunity\n\nWe’re hiring a Staff. AI Systems Engineer to help support\nour emerging product, Night Shift, an AI research assistant\nthat amplifies the impact of investigators by automating the\ntedious, repetitive steps involved in working a case. This\nrole sits within the Machine Learning team and will work\nclosely with partners in Engineering (Backend, Frontend, and\nDesign) in a fast-paced environment. You will be one of the\nearliest technical contributors to our system architecture\nfor agentic AI, and will own our AI evaluation framework.\nThe outcome we’re after is clear and ambitious: measurably\nfaster, more accurate leads for every officer and every\nshift.\n\nThe Skillset\n\nFamiliarity with Agentic Systems: Hands-on experience with\nLLM agents including:\n\n- LLM API use (e.g. LangChain/LangGraph, vLLM,\n  OpenAI/Gemini/Anthropic APIs)\n- Agent Design: tool use (e.g. via MCP), retrieval, memory,\n  grounding/attribution for claims, and guardrails.\n- Architectural patterns: planning and hand-off for multi-\n  agent systems, context management\n- RAG: vector/hybrid search (e.g. pgvector, turbopuffer,\n  rerankers, etc.)\n\nML Platform expertise: 5+ years building and shipping ML\nsystems to production; experience in the following areas:\n\n- Backend Python and JS familiarity required;\n  Typescript/Golang familiarity welcome\n- Web services (e.g. Express/FastAPI, REST, SSE, JWTs)\n- Cloud Infrastructure (e.g. AWS, Terraform, VPC, Networking)\n- Backend databases/stores (e.g. Postgres, Redis)\n- Observability (e.g. Prometheus, Grafana, OpenTelemetry,\n  LangSmith/Langfuse)\n- [Preferred] Durable execution (e.g. Temporal, Hatchet)\n- [Preferred] OLAP (e.g. ClickHouse, Bigquery)\n- [Preferred] ML Inference (e.g. PyTorch, TensorRT, NVIDIA\n  Triton), ideally in multimodal domains (text/image/video)\n- [Preferred] Compute orchestration (e.g. Kubernetes, Prefect,\n  Ray)\n\nExperience with LLM Evaluations at scale: You’ve built\noffline/online eval harnesses and are familiar with the\nmethodologies and metrics to measure:\n\n- Search, retrieval, and recommendation performance\n- Safety & robustness (security, compliance, red-teaming,\n  regression testing)\n- Cost, performance and latency trade-offs\n- [Preferred] Agentic task success, trajectory quality,\n  preference learning (e.g. SFT, DPO, RLHF, LLM-as-judge)\n\nFeeling uneasy that you haven’t ticked every box? That’s\nokay; we’ve felt that way too. Studies have shown women and\nminorities are less likely to apply unless they meet all\nqualifications. We encourage you to break the status quo and\napply to roles that would make you excited to come to work\nevery day.\n\n90 Days at Flock\n\nWe are a results-oriented culture and believe job\ndescriptions are a thing of the past. We prescribe 90 day\nplans and believe that good days lead to good weeks, which\nlead to good months. This serves as a preview of the 90 day\nplan you will receive if you were to be hired in this role\nat Flock Safety.\n\nThe First 30 Days\n\n- Immerse yourself in the current system design and\n  agent/tooling landscape. Understand the core customer use\n  cases and data flows.\n- Support the team by shipping a few quick wins (e.g.,\n  refining tool APIs, prompt engineering, fixing bugs)\n- Stand up the foundational eval and observability scaffolding\n  (datasets, metrics, KPIs, reporting)\n- Propose a technical architecture and implementation plan for\n  an agent evaluation framework.\n\nThe First 60 Days\n\n- Deliver the MVP evaluation harness to produce initial\n  metrics, enable debugging and perform regression testing.\n- Take on a system feature that offers demonstrated\n  improvement against your MVP evaluation suite\n\n90 Days & Beyond\n\n- Productionize the evaluation and observability platform and\n  make it the source of truth for quality and safety. (e.g.\n  Online/offline tracing, alerting, dashboards, evaluations\n  and PR-gated regression suite)\n- Own the roadmap for evolving the agent evaluation platform\n- Lead deeper R&D threads (e.g., lightweight fine-tuned\n  projection layers, specialized embeddings, multimodal\n  understanding) that can improve system performance on core\n  metrics.\n\nIf you’re excited to build AI that tangibly amplifies real-\nworld public safety outcomes—and you love making complex\nsystems measurable, dependable, and fast—we’d love to talk.\n\nSalary & Equity\n\nIn this role, you’ll receive a starting salary between\n$200,000 and $225,000 as well as Flock Safety Stock Options.\nBase salary is determined by job-related experience,\neducation/training, as well as market indicators. Your\nrecruiter will discuss this in-depth with you during our\nfirst chat.\n\nLocation\n\nWe’re building the impossible, together. To drive innovation\nthrough in-person collaboration, we’re prioritizing\ncandidates in our key hubs: Atlanta, Boston, Chicago,\nDenver, Los Angeles, New York City, San Francisco, and\nAustin. While we value the energy of our hub communities, we\nembrace remote work and welcome applications from\nexceptional talent across the United States.\n\nThe Perks\n\n🌴Flexible PTO: We offer non-accrual PTO, plus 11 company\nholidays.\n\n⚕️Fully-paid health benefits plan for employees: including\nMedical, Dental, and Vision and an HSA match.\n\n👪Family Leave: All employees receive 12 weeks of 100% paid\nparental leave. Birthing parents are eligible for an\nadditional 6-8 weeks of physical recovery time.\n\n🍼Fertility & Family Benefits: We have partnered with Maven,\na complete digital health benefit for starting and raising a\nfamily. Flock will provide a $50,000-lifetime maximum\nbenefit related to eligible adoption, surrogacy, or\nfertility expenses.\n\n🧠Spring Health: Spring Health offers a variety of mental\nhealth benefits, including therapy, coaching, medication\nmanagement, and digital tools, all tailored to each\nindividual's needs.\n\n💖Caregiver Support: We have partnered with Cariloop to\nprovide our employees with caregiver support\n\n💸Carta Tax Advisor: Employees receive 1:1 sessions with\nEquity Tax Advisors who can address individual grants, model\ntax scenarios, and answer general questions.\n\n💚ERGs: We want all employees to thrive and feel like they\nbelong at Flock. We offer four ERGs today - Women of Flock,\nFlock Proud, LEOs and Melanin Motion. If you are interested\nin talking to a representative from one of these, please let\nyour recruiter know.\n\n💻WFH Stipend: $150 per month to cover the costs of working\nfrom home.\n\n📚Productivity Stipend: $300 per year to use on Audible,\nCalm, Masterclass, Duolingo and so much more.\n\n🏠Home Office Stipend: A one-time $750 to help you create\nyour dream office.\n\nIf an offer is extended and accepted, this position requires\nthe ability to obtain and maintain Criminal Justice\nInformation Services (CJIS) certification as a condition of\nemployment. Applicants must meet all FBI CJIS Security\nPolicy requirements, including a fingerprint-based\nbackground check.\n\nFlock is an equal opportunity employer. We celebrate diverse\nbackgrounds and thoughts and welcome everyone to apply for\nemployment with us. We are committed to fostering an\nenvironment that is inclusive, transparent, and\ncollaborative. Mutual respect is central to how Flock\noperates, and we believe the best solutions come from\ndiverse perspectives, experiences, and skills. We embrace\nour differences and know that we are stronger working\ntogether.\n\nIf you need assistance or an accommodation due to a\ndisability, please email us at recruiting@flocksafety.com.\nThis information will be treated as confidential and used\nonly to determine an appropriate accommodation for the\ninterview process.\n\nAt Flock Safety, we compensate our employees fairly for\ntheir work. Base salary is determined by job-related\nexperience, education/training, as well as market\nindicators. The range above is representative of base salary\nonly and does not include equity, sales bonus plans (when\napplicable) and benefits. This range may be modified in the\nfuture. This job posting may span more than one career\nlevel.\n\nFlock Safety is aware of fraudulent individuals and agencies\nfalsely claiming to represent our company. All legitimate\ncommunication from Flock Safety will come from an email\naddress ending in @flocksafety.com. We do not make job\noffers through messaging apps, social platforms, or\nunauthorized third parties, and we will never request\npayment or sensitive personal information during the hiring\nprocess. If you encounter suspicious outreach related to a\nFlock Safety role, please report it to\nrecruiting@flocksafety.com\n",
+  "skills_required": [
+    "Anthropic API",
+    "LLM agents",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "OpenAI API",
+    "PyTorch",
+    "RAG",
+    "guardrails",
+    "multi-agent systems",
+    "prompt engineering",
+    "tool use",
+    "vector search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and deploy agentic AI systems with LLM-based agents using tools, retrieval, memory, and guardrails",
+    "Design and implement multi-agent architectural patterns, planning systems, and context management",
+    "Develop and own the AI evaluation framework with offline/online eval harnesses, metrics, and regression testing",
+    "Implement RAG systems with vector/hybrid search, rerankers, and attribution for claims",
+    "Build ML platform infrastructure including web services, cloud infrastructure, observability, and monitoring",
+    "Lead R&D initiatives for improving system performance through fine-tuning, embeddings, and multimodal understanding"
+  ],
+  "use_cases": [
+    "AI research assistant (Night Shift) that automates repetitive case investigation tasks for law enforcement",
+    "Agentic system that helps investigators work cases faster by automating tedious steps",
+    "Search, retrieval, and recommendation system for case-related information",
+    "Safety and compliance monitoring with red-teaming and regression testing"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "BigQuery",
+    "ClickHouse",
+    "Docker",
+    "Express",
+    "FastAPI",
+    "Grafana",
+    "Hatchet",
+    "JWTs",
+    "Kubernetes",
+    "LangSmith",
+    "Langfuse",
+    "NVIDIA Triton",
+    "OpenTelemetry",
+    "Postgres",
+    "Prefect",
+    "Prometheus",
+    "REST",
+    "Ray",
+    "Redis",
+    "SSE",
+    "Temporal",
+    "TensorRT",
+    "Terraform",
+    "pgvector",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LLM agents",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "OpenAI API",
+    "PyTorch",
+    "RAG",
+    "guardrails",
+    "multi-agent systems",
+    "prompt engineering",
+    "tool use",
+    "vector search"
+  ],
+  "languages_programming": [
+    "Golang",
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying LLM-\nbased agentic AI systems, including tool use, RAG, multi-\nagent architecture, and agent evaluation frameworks. The\nengineer will directly work with LangChain/LangGraph,\nOpenAI/Anthropic APIs, and build the agentic AI system\narchitecture for Night Shift.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "OpenAI API",
+      "Anthropic API",
+      "LLM agents",
+      "tool use",
+      "MCP",
+      "RAG",
+      "vector search",
+      "guardrails",
+      "multi-agent systems",
+      "prompt engineering"
+    ],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [
+      "FastAPI",
+      "Express",
+      "REST",
+      "SSE",
+      "JWTs"
+    ],
+    "databases": [
+      "pgvector",
+      "Postgres",
+      "Redis",
+      "ClickHouse",
+      "BigQuery"
+    ],
+    "data": [
+      "Prefect",
+      "Ray"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "vLLM",
+      "TensorRT",
+      "NVIDIA Triton",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana",
+      "OpenTelemetry",
+      "LangSmith",
+      "Langfuse",
+      "Temporal",
+      "Hatchet"
+    ],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Golang"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

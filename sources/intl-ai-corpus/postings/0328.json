@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-0328",
+  "source": "intl-ai-corpus",
+  "source_ref": "7779814",
+  "source_url": "https://builtin.com/job/ai-product-developer/7779814",
+  "title": "AI Product Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Planera",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered construction planning and scheduling",
+  "industries": [],
+  "description": "About the Role\n\nJoin Planera to build AI-powered agentic workflows that\ntransform construction planning and scheduling. You'll\ndesign intelligent automation systems, conversational\ninterfaces, and autonomous agents that help construction\nteams work more efficiently. This is a product engineering\nrole focused on developing practical AI solutions.\n\nKey Responsibilities\n\n- Design and implement agentic AI workflows for construction\n  automation\n- Build intelligent agents for scheduling, resource\n  allocation, and project optimization\n- Develop conversational interfaces and prompt engineering\n  solutions\n- Create robust backend services in Python/Golang to support\n  AI features\n- Integrate LLMs and AI APIs into construction workflows\n- Build scalable APIs for complex construction project data\n- Collaborate with frontend team to deliver seamless AI\n  experiences\n\nRequirements\n\n- 4+ years full-stack development (backend-focused)\n- Strong proficiency in Python and/or Golang (Node.js is a\n  plus)\n- Experience with LLMs, prompt engineering, and AI APIs\n- Understanding of agentic systems and workflow automation\n- Detailed knowledge of agent frameworks like Langchain\n- Experience building conversational AI or chatbots\n- Have deployed agentic chat systems to production\n- Strong API design and database skills (SQL/NoSQL)\n- Cloud platform experience (AWS/GCP/Azure)\n- React knowledge for frontend integration\n- Product mindset with focus on user outcomes\n- Excellent remote communication skills\n\nPreferred\n\n- Construction tech or project management software experience\n- Knowledge of RAG systems and vector databases\n- Experience with workflow orchestration tools\n- Understanding of construction industry workflows\n\nTech Stack\n\nPython, Golang, React, PostgreSQL, AWS/GCP, Docker, GitLab,\nDatadog\n",
+  "skills_required": [
+    "LangChain",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement agentic AI workflows for construction automation",
+    "Build intelligent agents for scheduling, resource allocation, and project optimization",
+    "Develop conversational interfaces and prompt engineering solutions",
+    "Create robust backend services in Python/Golang to support AI features",
+    "Integrate LLMs and AI APIs into construction workflows",
+    "Build scalable APIs for complex construction project data",
+    "Collaborate with frontend team to deliver seamless AI experiences"
+  ],
+  "use_cases": [
+    "AI-powered agentic workflows for construction planning and scheduling",
+    "Autonomous agents for construction resource allocation and optimization",
+    "Conversational AI interfaces for construction teams",
+    "Intelligent automation systems for project management workflows"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "AWS",
+    "Azure",
+    "Datadog",
+    "Docker",
+    "GCP",
+    "NoSQL",
+    "PostgreSQL",
+    "React",
+    "SQL",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Golang",
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building, deploying, and implementing\nagentic AI workflows, autonomous agents, and conversational\ninterfaces. The role requires hands-on experience with LLMs,\nprompt engineering, and deploying agentic chat systems to\nproduction, which are core AI development activities.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "OpenAI/Anthropic APIs",
+      "prompt engineering",
+      "agents",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "API design"
+    ],
+    "databases": [
+      "vector databases",
+      "PostgreSQL",
+      "SQL",
+      "NoSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Datadog"
+    ],
+    "languages": [
+      "Python",
+      "Golang",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

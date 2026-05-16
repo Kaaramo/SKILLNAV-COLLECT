@@ -1,0 +1,144 @@
+{
+  "job_id": "intl-ai-corpus-2359",
+  "source": "intl-ai-corpus",
+  "source_ref": "8860579",
+  "source_url": "https://builtin.com/job/ai-engineer/8860579",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Showpad",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "576 Employees",
+  "company_stage": null,
+  "company_focus": "AI-driven applications and products",
+  "industries": [],
+  "description": "Software Engineer (AI Focused)\n\nSummary: We are seeking a Mid-Level Software Engineer to\njoin our team and contribute to the design, development, and\ndeployment of modern, AI-driven applications. This role will\nwork across a cloud-native AWS environment using a\ncombination of Node.js and .NET Core, with a strong emphasis\non integrating and operationalizing AI capabilities. You\nwill collaborate with cross-functional teams to build\nscalable services, integrate AI models, and help drive\ninnovation in how AI is applied across our products.\n\nResponsibilities:\n\n- Design, develop, and maintain scalable backend services\n  using Node.js and .NET Core\n- Build and operate cloud-native applications within AWS\n  (e.g., Lambda, ECS/EKS, S3, API Gateway)\n- Integrate AI/ML models into production systems, including\n  APIs and data pipelines\n- Participate in model evaluation, benchmarking, and\n  performance analysis\n- Contribute to fine-tuning and optimization of AI models for\n  specific business use cases\n- Collaborate with data scientists and AI engineers to\n  productionize models\n- Implement and maintain CI/CD pipelines and deployment\n  workflows\n- Ensure high standards of code quality, testing, and\n  observability\n- Troubleshoot, debug, and optimize system performance\n- Contribute to architectural decisions and continuous\n  improvement initiatives\n\nQualifications:\n\n- 3–6 years of professional software engineering experience\n- Strong development experience in Node.js\n  (JavaScript/TypeScript) and .NET Core / C#\n- Hands-on experience with AWS cloud services\n- Experience building and consuming RESTful APIs and/or\n  microservices\n- Familiarity with containerization (Docker) and orchestration\n  (Kubernetes or ECS)\n- Solid understanding of software engineering principles,\n  design patterns, and testing practices\n- Practical experience working with AI/ML systems in\n  production environments\n- Understanding of model evaluation techniques and fine-tuning\n  approaches\n- Experience working with LLMs or modern AI frameworks (e.g.,\n  OpenAI, Hugging Face, LangChain, Semantic Kernel) is\n  highly desirable\n- Familiarity with vector databases, embeddings, or RAG\n  architectures is a plus\n- Strong problem-solving and analytical thinking\n- Ability to work collaboratively in a cross-functional team\n- Good communication skills, with the ability to explain\n  technical concepts clearly\n- Self-motivated with a willingness to learn and adapt in a\n  rapidly evolving AI landscape\n\nWhat We Offer:\n\n- Opportunity to work on cutting-edge AI-driven products\n- Collaborative and innovative engineering culture\n- Flexible working arrangements\n- Competitive salary and benefits package\n- Career growth opportunities in a rapidly expanding domain\n",
+  "skills_required": [
+    "Hugging Face",
+    "LangChain",
+    "OpenAI",
+    "RAG",
+    "Semantic Kernel",
+    "embeddings",
+    "model evaluation",
+    "model fine-tuning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and maintain scalable backend services using Node.js and .NET Core",
+    "Build and operate cloud-native applications within AWS including Lambda, ECS/EKS, S3, and API Gateway",
+    "Integrate AI/ML models into production systems including APIs and data pipelines",
+    "Participate in model evaluation, benchmarking, and performance analysis",
+    "Contribute to fine-tuning and optimization of AI models for specific business use cases",
+    "Collaborate with data scientists and AI engineers to productionize models",
+    "Implement and maintain CI/CD pipelines and deployment workflows",
+    "Ensure high standards of code quality, testing, and observability"
+  ],
+  "use_cases": [
+    "AI-driven product development",
+    "AI model integration into production applications",
+    "Business-specific AI use cases through fine-tuning",
+    "Scalable AI-powered backend services",
+    "Cloud-native AI application deployment"
+  ],
+  "tools_mentioned": [
+    ".NET Core",
+    "AWS",
+    "AWS API Gateway",
+    "AWS ECS/EKS",
+    "AWS Lambda",
+    "AWS S3",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "Node.js",
+    "RESTful APIs",
+    "microservices",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Hugging Face",
+    "LangChain",
+    "OpenAI",
+    "RAG",
+    "Semantic Kernel",
+    "embeddings",
+    "model evaluation",
+    "model fine-tuning"
+  ],
+  "languages_programming": [
+    "C#",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work with AI models including\nintegration, fine-tuning, optimization, and\noperationalization. The position explicitly includes\ncontributing to model fine-tuning, evaluation, and\nbenchmarking, which constitutes direct work on AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI",
+      "LangChain",
+      "Semantic Kernel",
+      "embeddings",
+      "RAG"
+    ],
+    "ml": [
+      "Hugging Face",
+      "model fine-tuning",
+      "model evaluation"
+    ],
+    "web": [
+      "Node.js",
+      ".NET Core",
+      "RESTful APIs",
+      "microservices"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS Lambda",
+      "AWS ECS/EKS",
+      "AWS S3",
+      "AWS API Gateway"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "C#"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

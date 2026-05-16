@@ -1,0 +1,115 @@
+{
+  "job_id": "intl-ai-corpus-2278",
+  "source": "intl-ai-corpus",
+  "source_ref": "8837828",
+  "source_url": "https://builtin.com/job/ai-engineer/8837828",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nexaminds",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-23",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "80 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI solutions for environmental and industrial applications",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Information Technology",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Consulting"
+  ],
+  "description": "Unlock Your Future with Nexaminds!\n\nAt Nexaminds, we're on a mission to redefine industries with\nAI. We're passionate about the limitless potential of\nartificial intelligence to transform businesses, streamline\nprocesses, and drive growth.\n\nJoin us on our visionary journey. We're leading the way in\nAI solutions, and we're committed to innovation,\ncollaboration, and ethical practices. Become a part of our\nteam and shape the future powered by intelligent machines.\nIf you're driven by ambition, success, fun, and learning,\nNexaminds is where you belong.\n\nNexaminds is looking for an AI Engineer to develop, deploy,\nand optimize machine learning models focused on real-world\nenvironmental and industrial applications. The ideal\ncandidate has experience in deep learning, computer vision,\nand end-to-end model lifecycle, and enjoys working at the\nintersection of AI and robotics in fast-paced environments.\n\nLocation: India\n\nQualifications we are looking for:\n\n- 2+ years of experience building and deploying machine\n  learning models\n- Strong proficiency in Python\n- Experience with deep learning frameworks (PyTorch,\n  TensorFlow)\n- Solid understanding of computer vision fundamentals (OpenCV)\n- Experience with real-time object detection and\n  classification\n- Knowledge of full ML lifecycle (data curation, training,\n  deployment, monitoring)\n- Experience optimizing models for edge computing environments\n- Strong problem-solving skills and ability to work in dynamic\n  environments\n- Strong written and verbal English proficiency\n\nNice to Have:\n\n- Experience with Nvidia Jetson or TensorRT optimization\n- Familiarity with MLOps tools (Weights & Biases)\n- Experience with ROS (Robot Operating System) or AI +\n  robotics integration\n\nJob duties:\n\n- Develop and optimize deep learning models for real-time\n  object detection and classification\n- Integrate AI models into systems and ensure seamless\n  interaction with hardware and software\n- Collaborate with robotics and software engineering teams\n- Test and validate models in real-world, unstructured\n  environments\n- Monitor model performance in production and handle model\n  drift with retraining strategies\n- Optimize models for low-latency inference on edge/on-site\n  hardware\n- Support data collection and model calibration when needed\n\nWhat you can expect from us\n\nHere at Nexaminds, we're not your typical workplace. We're\nall about creating a friendly and trusting environment where\nyou can thrive. Why does this matter? Well, trust and\nopenness lead to better quality, innovation, commitment to\ngetting the job done, efficiency, and cost-effectiveness.\n\n- Stock options 📈\n- Remote work options 🏠\n- Flexible working hours 🕜\n- Benefits above the law\n- But it's not just about the work; it's about the people too.\n  You'll be collaborating with some seriously awesome IT\n  pros.\n- You'll have access to mentorship and tons of opportunities\n  to learn and level up.\n\nReady to embark on this journey with us? 🚀🎉 If you're\nfeeling the excitement, go ahead and apply!\n",
+  "skills_required": [
+    "OpenCV",
+    "PyTorch",
+    "ROS (Robot Operating System)",
+    "TensorFlow",
+    "deep learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and optimize deep learning models for real-time object detection and classification",
+    "Integrate AI models into systems for seamless interaction with hardware and software",
+    "Collaborate with robotics and software engineering teams",
+    "Test and validate models in real-world, unstructured environments",
+    "Monitor model performance in production and handle model drift with retraining strategies",
+    "Optimize models for low-latency inference on edge and on-site hardware",
+    "Support data collection and model calibration when needed"
+  ],
+  "use_cases": [
+    "Real-time object detection and classification",
+    "Environmental monitoring and analysis",
+    "Industrial automation and inspection",
+    "Edge computing AI deployment",
+    "Robotics AI integration"
+  ],
+  "tools_mentioned": [
+    "Nvidia Jetson",
+    "TensorRT",
+    "Weights & Biases"
+  ],
+  "frameworks_mentioned": [
+    "OpenCV",
+    "PyTorch",
+    "TensorFlow",
+    "deep learning"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on traditional ML/DL work including\ncomputer vision, object detection, and edge deployment.\nThere's no mention of LLMs, agents, RAG, or other GenAI\ntechnologies - it's primarily about deep learning models for\nvisual tasks in robotics/industrial settings.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "OpenCV",
+      "deep learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Nvidia Jetson",
+      "TensorRT",
+      "Weights & Biases"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "computer vision"
+    ],
+    "other": [
+      "ROS (Robot Operating System)"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

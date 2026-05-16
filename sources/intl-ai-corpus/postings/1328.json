@@ -1,0 +1,152 @@
+{
+  "job_id": "intl-ai-corpus-1328",
+  "source": "intl-ai-corpus",
+  "source_ref": "8398518",
+  "source_url": "https://builtin.com/job/ai-ops-engineer/8398518",
+  "title": "AI Ops Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NatWest Group",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "40,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Banking and financial services",
+  "industries": [
+    "Fintech",
+    "Payments",
+    "Financial Services"
+  ],
+  "description": "Join us as a AI Ops Engineer\n\n- In this role, you’ll drive and embed the design and\n  implementation of data science tools and methods, which\n  harness our data to drive market-leading purpose customer\n  solutions\n- Day-to-day, you’ll act as a subject matter expert and\n  articulate advanced data and analytics opportunities,\n  bringing them to life through data visualisation\n- If you’re ready for a new challenge, and are interested in\n  identifying opportunities to support external customers by\n  using your data science expertise, this could be the role\n  for you\n\nWhat you’ll do\n\nWe’re looking for someone to understand the requirements and\nneeds of our business stakeholders. You’ll develop good\nrelationships with them, form hypotheses, and identify\nsuitable data and analytics solutions to meet their needs\nand to achieve our business strategy.\n\nYou’ll be maintaining and developing external curiosity\naround new and emerging trends within data science, keeping\nup to date with emerging trends and tooling and sharing\nupdates within and outside of the team.\n\nYou’ll also be responsible for:\n\n- Proactively bringing together statistical, mathematical,\n  machine-learning and software engineering skills to\n  consider multiple solutions, techniques, and algorithms\n- Implementing ethically sound models end-to-end and applying\n  software engineering and a product development lens to\n  complex business problems\n- Working with and leading both direct reports and wider teams\n  in an Agile way within multi-disciplinary data to achieve\n  agreed project and Scrum outcomes\n- Using your data translation skills to work closely with\n  business stakeholders to define business questions,\n  problems or opportunities that can be supported through\n  advanced analytics\n- Selecting, building, training, and testing complex machine\n  models, considering model valuation, model risk,\n  governance, and ethics throughout to implement and scale\n  models\n\nThe skills you’ll need\n\nTo be successful in this role, you’ll need evidence of\nproject implementation and work experience gained in a data-\nanalysis-related field as part of a multi-disciplinary team.\nWe’ll also expect you to hold an undergraduate or a master’s\ndegree in a quantitative discipline, or evidence of\nequivalent practical experience.\n\nYou’ll also need experience with statistical software,\ndatabase languages, big data technologies, cloud\nenvironments and machine learning on large data sets. And\nwe’ll look to you to bring the ability to demonstrate\nleadership, self-direction and a willingness to both teach\nothers and learn new techniques.\n\nAdditionally, you’ll need:\n\n- Proficient in key AWS tools including EMR, Airflow,\n  DynamoDB, S3, RDS, ElsacticBeanStalk, EC2,EMR, Kinesis,\n  Lambda and CloudWatch\n- Experience using Java, Scala ,  Spark, Python , shell,,\n  pyspark along with experience in  DevOps Tools like  Git ,\n  bitbucket , Jenkins and Artifactory\n- Strong ability to debug complex data issues from splunk ,\n  spark and cloudwatch audit logs, working closely with\n  stakeholders to manage customer incident and support\n  Service management .\n- Experience in model deployment, fine-tuning, inference\n  optimization.\n- Experience model versioning, drift detection, pipelines such\n  as MLflow and Kubeflow\n\nHours\n\n35\n\nJob Posting Closing Date:\n\n06/02/2026\n\nWays of Working:Hybrid\n",
+  "skills_required": [
+    "fine-tuning",
+    "machine learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Drive and embed design and implementation of data science tools and methods to create market-leading customer solutions",
+    "Act as subject matter expert to articulate advanced data and analytics opportunities through data visualization",
+    "Proactively apply statistical, mathematical, machine-learning, and software engineering skills to develop solutions and algorithms",
+    "Implement ethically sound models end-to-end with software engineering and product development practices",
+    "Lead teams in Agile methodology within multi-disciplinary data projects to achieve agreed Scrum outcomes",
+    "Select, build, train, and test complex machine learning models considering valuation, risk, governance, and ethics",
+    "Deploy, fine-tune, and optimize ML models while managing versioning and drift detection pipelines"
+  ],
+  "use_cases": [
+    "Develop data-driven customer solutions for banking services",
+    "Advanced analytics and visualization for business stakeholder insights",
+    "Machine learning model deployment for financial risk assessment and customer support",
+    "Complex data issue debugging and incident management for customer-facing ML applications",
+    "Model governance and ethical implementation for banking compliance"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Artifactory",
+    "Bitbucket",
+    "CloudWatch",
+    "DynamoDB",
+    "EC2",
+    "EMR",
+    "Elastic Beanstalk",
+    "Git",
+    "Jenkins",
+    "Kinesis",
+    "Kubeflow",
+    "Lambda",
+    "MLflow",
+    "PySpark",
+    "RDS",
+    "S3",
+    "Spark",
+    "Splunk",
+    "data visualization",
+    "drift detection",
+    "inference optimization",
+    "model deployment",
+    "model versioning"
+  ],
+  "frameworks_mentioned": [
+    "fine-tuning",
+    "machine learning"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role focuses on data science tools, model deployment\npipelines (MLflow, Kubeflow), and infrastructure operations\n(AWS, Airflow, DevOps tools) rather than building or fine-\ntuning AI models themselves. While there's mention of ML\nmodel implementation, the primary emphasis is on\noperationalizing, deploying, and managing ML systems at\nscale, which classifies this as supporting AI work rather\nthan directly working on AI/ML models.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "fine-tuning",
+      "machine learning"
+    ],
+    "web": [],
+    "databases": [
+      "DynamoDB",
+      "RDS"
+    ],
+    "data": [
+      "Airflow",
+      "Kinesis",
+      "Spark",
+      "PySpark",
+      "data visualization"
+    ],
+    "cloud": [
+      "AWS",
+      "EMR",
+      "S3",
+      "Elastic Beanstalk",
+      "EC2",
+      "Lambda"
+    ],
+    "ops": [
+      "CloudWatch",
+      "Git",
+      "Bitbucket",
+      "Jenkins",
+      "Artifactory",
+      "Splunk",
+      "MLflow",
+      "Kubeflow",
+      "model deployment",
+      "inference optimization",
+      "model versioning",
+      "drift detection"
+    ],
+    "languages": [
+      "Java",
+      "Scala",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

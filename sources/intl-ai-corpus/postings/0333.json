@@ -1,0 +1,132 @@
+{
+  "job_id": "intl-ai-corpus-0333",
+  "source": "intl-ai-corpus",
+  "source_ref": "7780697",
+  "source_url": "https://builtin.com/job/ai-ml-engineer/7780697",
+  "title": "AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "sciemo",
+  "company_type": "entité morale privée",
+  "location": "New York",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "4 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI platform for consumer goods supply chain optimization",
+  "industries": [
+    "Artificial Intelligence",
+    "Consumer Web",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "about sciemo\n\nSciemo builds AI for consumer goods: technology that helps\nbusinesses make faster, smarter, and more human decisions\nacross the entire IBP process. From optimizing promotions to\nbalancing demand and supply, Sciemo's platform transforms\nmessy, siloed data into measurable business impact. Its AI\nagents assist decision-makers in real-time, turning\ncomplexity into clarity. We are headquartered in New York\nCity.\n\noverview\n\nWe are an industry-leading startup developing AI for\nconsumer brands. Our solutions leverage machine learning,\ngenerative AI, agent-based systems, and graph technologies\nto get our customers to insights in seconds and to business\nimpact in minutes using our products.\n\nWe are looking for a Founding Member of Technical Staff to\njoin our team guiding the development and deployment of\ncomplex ML systems reporting to Dan Wald, Co-Founder & CAIO.\n\nrole\n\nAs a Founding Member of Technical Staff, you will work in a\nhybrid capacity as both a Data Scientist and Machine\nLearning Engineer, you will play a pivotal role in\ndesigning, building, and deploying the intelligence behind\nour AI products. You’ll work across the full spectrum of\napplied AI—spanning data science, machine learning, and\nlarge-scale production engineering. This hybrid role\nrequires both deep expertise in developing innovative models\nand the engineering discipline to deploy and maintain them\nin robust, scalable systems.\n\nYou’ll collaborate closely with data engineers, product\nleads, backend engineers, and customer-facing teams to\nensure that our AI systems deliver measurable value in real-\nworld environments. As one of the earliest technical hires,\nyou will help define our AI strategy, set technical\nstandards, and establish best practices for applied AI at\nscale.\n\nresponsibilities\n\nDevelop and Deploy AI Systems\n\n- Architect, build, and deploy ML/GenAI products on cloud\n  infrastructure (AWS or similar).\n- Design and implement end-to-end AI workflows: data\n  ingestion, feature engineering, modeling, evaluation, and\n  deployment.\n- Create automated pipelines for continuous learning, model\n  promotion, and performance monitoring.\n\nSystem Architecture & Reliability\n\n- Lead the design of ML orchestration frameworks (Airflow,\n  Kedro, ZenML, Flyte) to ensure reproducibility and\n  scalability.\n- Oversee deployment of large-scale and multi-agent AI systems\n  with high reliability and fault tolerance.\n- Continuously optimize workflows for efficiency, robustness,\n  and performance in production.\n\nApplied Data Science & Business Impact\n\n- Translate complex business problems into AI solutions,\n  including data collection, experiment design, and roadmap\n  planning.\n- Develop interpretable, modular, and scalable ML systems that\n  deliver measurable business value.\n- Work directly with customers and stakeholders to ensure\n  deployed systems achieve their intended impact.\n\nInnovation & Thought Leadership\n\n- Stay current with advancements in AI/ML, including LLMs,\n  diffusion models, graph AI, and agent architectures.\n- Propose and prototype new approaches for integrating\n  emerging technologies into production products.\n- Develop methods to quantify and communicate AI performance\n  and business ROI.\n- Promote responsible, ethical, and impactful AI practices\n  across the organization.\n\nall about you\n\n- Proven track record of launching AI/ML products into\n  production.\n- Experience with core ML/AI tools: Python, PyTorch,\n  TensorFlow / Keras, scikit-learn, SQL, Spark.\n- Experience writing production-grade Python (object- and\n  function-oriented).\n- Hands-on expertise with large-scale ML systems, GenAI (LLMs,\n  diffusion), agents, and graph-based models.\n- Experience designing and managing ML orchestration workflows\n  and versioned pipelines (Airflow, ZenML, Kedro, dbt,\n  etc.).\n- Strong problem-solving skills, adaptability, and a “hacker”\n  mentality.\n- Excellent communication skills—able to work with both\n  technical and non-technical stakeholders.\n- Demonstrated thought leadership and innovation in applied\n  AI.\n\nbenefits & perks\n\nCheck out our one pager!\n\nlocation\n\nHybrid role based in New York City; open to remote U.S.\ncandidates willing to travel monthly to our NYC office.\n\ninterview rounds\n\n- Phone Screen\n- Peer Interview\n- Founders' Interview\n\nequal opportunity employer\n\nWe are an equal opportunity employer and consider applicants\nwithout regard to gender, gender identity, sexual\norientation, race, ethnicity, disability, veteran status, or\nany other characteristic protected by law. We actively\nencourage diversity, inclusion, and equitable hiring\npractices.\n\nIf you require accommodations during the hiring process,\nplease reach out to our recruitment team at join@sciemo.ai\n",
+  "skills_required": [
+    "Keras",
+    "LLMs",
+    "PyTorch",
+    "TensorFlow",
+    "agents",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect, build, and deploy ML/GenAI products on cloud infrastructure (AWS or similar)",
+    "Design and implement end-to-end AI workflows: data ingestion, feature engineering, modeling, evaluation, and deployment",
+    "Create automated pipelines for continuous learning, model promotion, and performance monitoring",
+    "Lead the design of ML orchestration frameworks to ensure reproducibility and scalability",
+    "Oversee deployment of large-scale and multi-agent AI systems with high reliability and fault tolerance",
+    "Translate complex business problems into AI solutions, including data collection, experiment design, and roadmap planning",
+    "Stay current with advancements in AI/ML, including LLMs, diffusion models, graph AI, and agent architectures"
+  ],
+  "use_cases": [
+    "Promotion optimization for consumer brands to maximize ROI",
+    "Demand and supply balancing across the integrated business planning process",
+    "AI agent-based decision support systems assisting in real-time decision-making",
+    "Transforming siloed data into actionable business insights for consumer goods companies",
+    "Multi-agent AI systems that navigate complex business problems and provide clarity to decision-makers"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Flyte",
+    "Kedro",
+    "Spark",
+    "ZenML",
+    "dbt"
+  ],
+  "frameworks_mentioned": [
+    "Keras",
+    "LLMs",
+    "PyTorch",
+    "TensorFlow",
+    "agents",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on development and deployment of AI\nagents, LLMs, and multi-agent systems. The engineer will\narchitect, build, and deploy ML/GenAI products, not just\nsupport infrastructure for others.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "agents"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "scikit-learn"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Spark",
+      "Airflow",
+      "Kedro",
+      "Flyte",
+      "dbt"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "ZenML"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "diffusion models",
+      "graph AI"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

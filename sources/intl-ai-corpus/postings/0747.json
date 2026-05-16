@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0747",
+  "source": "intl-ai-corpus",
+  "source_ref": "6638229",
+  "source_url": "https://builtin.com/job/ai-ml-software-engineer/6638229",
+  "title": "AI/ML Software Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "eBay",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "26,035 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global ecommerce marketplace connecting buyers and sellers",
+  "industries": [
+    "eCommerce",
+    "Retail"
+  ],
+  "description": "At eBay, we're more than a global ecommerce leader — we’re\nchanging the way the world shops and sells. Our platform\nempowers millions of buyers and sellers in more than 190\nmarkets around the world. We’re committed to pushing\nboundaries and leaving our mark as we reinvent the future of\necommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold\nideas are welcome, and everyone can bring their unique\nselves to work — every day. We're in this together,\nsustaining the future of our customers, our company, and our\nplanet.\n\nJoin a team of passionate thinkers, innovators, and dreamers\n— and help us connect people and build communities to create\neconomic opportunity for all.\n\nAbout the team and role:\n\nThe Compliance Engineering team at eBay is focused on\nprohibited, restricted, and counterfeit compliance detection\nis dedicated to ensuring that eBay’s marketplace adheres to\nall relevant regulations and internal policies.\n\nThe team develops and maintain advanced, AI-driven tools and\nscalable backend systems that automatically identify and\nassess items listed on the platform. By applying\nsophisticated data models, machine learning algorithms, and\nrules-based engines, they detect products that may be\nillegal, harmful, non-compliant with trade regulations, or\ncounterfeit.\n\nOverall, this Compliance Engineering team plays a crucial\nrole in maintaining trust in eBay’s platform, safeguarding\ncustomers, and upholding the company’s dedication to a fair,\nsafe, and legally compliant marketplace.\n\nWhat You Will Accomplish:\n\n- Build large-scale applications, low-latency APIs, data\n  pipelines, and foundational architectures to support\n  eBay’s business operations and customer experiences.\n- Design and implement highly configurable, metadata-driven\n  platforms to enable seamless ingestion of attributes,\n  rules, models, policies, and derived aggregates.\n- Develop machine learning models and Gen AI tools to generate\n  insights and improve customer experiences across eBay.\n- Partner with architects, business leaders, and industry\n  experts to devise strategies and scalable solutions.\n- Be responsible for the entire software lifecycle, including\n  design, development, testing, and experimentation.\n- Mentor and lead junior team members by setting examples and\n  guiding them toward success.\n\nWhat You Will Bring:\n\n- Prefer Technical degree with 3-5+ years of relevant software\n  development experience.\n- Strong hands on Machine Leaning experience, AI/ML/Gen AI,\n  LLM's and proven experience in building and running\n  AI/ML/GenAI models in production environments.\n- Outstanding programming skills in Java, Scala, and Python,\n  with hands-on experience in frameworks like PyTorch and\n  TensorFlow.\n- Proven experience with APIs and Distributed Systems,\n  building and consuming horizontally scalable RESTful APIs,\n  GraphQL, and distributed systems.\n- Hands-on experience with technologies like Spark, Flink, and\n  Kafka with practical experience in their use.\n- Strong understanding of SQL, NoSQL, and sophisticated data\n  modeling techniques.\n- Hands-on experience with the Hadoop ecosystem (HDFS,\n  MapReduce, Hive, Spark) for building and optimizing large-\n  scale data solutions.\n\nPlease see the Talent Privacy Notice for information\nregarding how eBay handles your personal data collected when\nyou use the eBay Careers website or apply for a job with\neBay.\n\neBay is an equal opportunity employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, national origin, sex,\nsexual orientation, gender identity, veteran status, and\ndisability, or other legally protected status. If you have a\nneed that requires accommodation, please contact us at\ntalent@ebay.com. We will make every effort to respond to\nyour request for accommodation as soon as possible. View our\naccessibility statement to learn more about eBay's\ncommitment to ensuring digital accessibility for people with\ndisabilities.\n\n\n\nThe eBay Jobs website uses cookies to enhance your\nexperience. By continuing to browse the site, you agree to\nour use of cookies. Visit our Privacy Center for more\ninformation.\n",
+  "skills_required": [
+    "GenAI",
+    "LLMs",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build large-scale applications, low-latency APIs, data pipelines, and foundational architectures supporting business operations",
+    "Design and implement highly configurable, metadata-driven platforms for ingesting attributes, rules, models, and policies",
+    "Develop machine learning models and GenAI tools to generate insights and improve customer experiences",
+    "Partner with architects, business leaders, and industry experts on scalable solutions",
+    "Own the entire software lifecycle including design, development, testing, and experimentation",
+    "Mentor and lead junior team members"
+  ],
+  "use_cases": [
+    "Automated detection of prohibited and restricted items on marketplace",
+    "Counterfeit product identification and compliance",
+    "Regulatory compliance monitoring across 190+ markets",
+    "Platform trust and safety enforcement",
+    "Customer protection through AI-driven item assessment"
+  ],
+  "tools_mentioned": [
+    "Flink",
+    "GraphQL",
+    "HDFS",
+    "Hadoop",
+    "Hive",
+    "Kafka",
+    "MapReduce",
+    "NoSQL",
+    "RESTful APIs",
+    "SQL",
+    "Spark"
+  ],
+  "frameworks_mentioned": [
+    "GenAI",
+    "LLMs",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "BIG_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying ML models\nand GenAI tools in production environments. The position\nrequires hands-on experience with PyTorch, TensorFlow, and\nLLMs for developing AI-driven compliance detection systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "GenAI"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [
+      "RESTful APIs",
+      "GraphQL"
+    ],
+    "databases": [
+      "SQL",
+      "NoSQL"
+    ],
+    "data": [
+      "Spark",
+      "Flink",
+      "Kafka",
+      "Hadoop",
+      "HDFS",
+      "MapReduce",
+      "Hive"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Java",
+      "Scala",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

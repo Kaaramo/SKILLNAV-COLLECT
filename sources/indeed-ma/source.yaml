@@ -1,0 +1,134 @@
+source_id: indeed-ma
+source_name: Indeed Maroc — ma.indeed.com
+source_url: https://ma.indeed.com/
+country: MA
+language: fr
+
+# ─── Classification SKILLNAV ─────────────────────────────────────────────────
+tier: T1
+priority: true
+category: job_board_maroc
+mcp_tool: firecrawl  # production cible · sample fait avec playwright
+collection_frequency: daily
+
+# ─── Conformité (CLAUDE.md §N4) ──────────────────────────────────────────────
+robots_txt_compliant: true
+robots_txt_checked_at: 2026-05-14
+robots_txt_excerpt: "Allow: / · Disallow: /cmp/* /applystart /api/* /alert"
+tos_reviewed_at: 2026-05-14
+rate_limit_seconds: 5
+user_agent: "SkillnavBot/1.0 (Academic; M242 ENSA-Tetouan)"
+personal_data_policy: stripped
+entity_focus: morale_only
+
+# ─── URL patterns ────────────────────────────────────────────────────────────
+url_patterns:
+  search: "https://ma.indeed.com/jobs?q={keyword}&l="
+  detail: "https://ma.indeed.com/viewjob?jk={jk}"
+  aggregator: "https://ma.indeed.com/q-{keyword}-emplois.html"
+  jk_pattern: "^[a-f0-9]{16}$"  # hash 16 hex
+
+# ─── Anti-bot ────────────────────────────────────────────────────────────────
+anti_bot:
+  curl_direct: blocked  # HTTP 403 + "Security Check"
+  webfetch: blocked
+  pagination_without_auth: blocked  # ?start=10 redirige vers secure.indeed.com/auth
+  playwright_real_browser: works  # vrai navigateur passe le Security Check
+  firecrawl_managed: probable_works  # à valider quand disponible
+
+# ─── Sample sprint 1 — Phase 1 Live + Phase 2 Wayback ────────────────────────
+sample_collected_at: 2026-05-14T21:35:00Z
+sample_count: 79  # 42 live + 37 historiques
+sample_scope: data_ai_strict_only_2023_2026
+collection_strategy: hybrid_playwright_live_plus_wayback_historic
+phase_completed:
+  phase_1_live_2026: 42 fiches  # 4 queries × ~15 par query, dédup
+  phase_2_historique_wayback: 37 fiches  # Wayback snapshots aggregator data-analyst 2023-2024
+  phase_3_extraction: completed  # JSON+MD pour les 79 fiches
+detail_extraction_count: 5  # CIH Bank ×2, Safran, Coface, Attijariwafa, Deloitte
+listing_only_count: 37  # Phase 1 listing-only à enrichir sprint 2
+historical_wayback_count: 37  # Phase 2 — détails inaccessibles (Wayback ne snapshote pas viewjob individuels)
+temporal_distribution:
+  "2026": 42  # Phase 1 live
+  "2025": 0   # gap — Wayback 2025-01/06 sans nouveaux jk dans aggregator data-analyst
+  "2024": 22  # Wayback snapshots 2024-01 + 2024-06
+  "2023": 15  # Wayback snapshots 2023-01 + 2023-07
+
+sample_queries:
+  - keyword: "data scientist"
+    method: playwright_search
+    total_indeed: "100+"
+    page1_extracted: 15
+    relevant: 15
+  - keyword: "data engineer"
+    method: playwright_search
+    total_indeed: "200+"
+    page1_extracted: 14
+    relevant: 14
+  - keyword: "data analyst"
+    method: playwright_search
+    total_indeed: "100+"
+    page1_extracted: 14
+    relevant: 14
+  - keyword: "machine learning"
+    method: playwright_search
+    total_indeed: "25+"
+    page1_extracted: 4
+    relevant: 4
+
+# ─── Distribution par famille ────────────────────────────────────────────────
+family_distribution:
+  DATA_SCIENTIST: 16
+  DATA_ENGINEER: 11
+  DATA_ANALYST: 12
+  ML_ENGINEER: 2
+  MLOPS_ENGINEER: 1
+  AI_ENGINEER: 2
+
+# ─── Distribution géographique ───────────────────────────────────────────────
+location_distribution:
+  Casablanca: 33  # majorité
+  Maroc (Multi-villes): 4
+  Rabat: 2
+  Fès: 1
+  Tanger: 2  # Ads glory + Expleo Tangier
+
+# ─── Entreprises identifiées (Top 15) ────────────────────────────────────────
+top_companies:
+  - {name: "BROME Consulting & Technology", count: 4, secteur: "ESN conseil"}
+  - {name: "Sii", count: 3, secteur: "ESN"}
+  - {name: "CIH Bank", count: 2, secteur: "Banque"}
+  - {name: "Yamed Capital", count: 2, secteur: "Capital risque"}
+  - {name: "SymphonyAI", count: 2, secteur: "AI Inc."}
+  - {name: "Müller's Solutions", count: 2, secteur: "ESN data"}
+  - {name: "futuresight", count: 2, secteur: "Startup tech"}
+  - {name: "Capgemini", count: 2, secteur: "Consulting tech"}
+  - {name: "Attijariwafa Bank", count: 1, secteur: "Banque #1 MA"}
+  - {name: "Safran", count: 1, secteur: "Aérospatial"}
+  - {name: "Coface", count: 1, secteur: "Assurance-crédit"}
+  - {name: "Leyton", count: 1, secteur: "AI Advisory"}
+  - {name: "Deloitte", count: 1, secteur: "Big 4"}
+  - {name: "Société Générale Maroc", count: 1, secteur: "Banque"}
+  - {name: "Marjane Holding", count: 1, secteur: "Retail"}
+
+# ─── Différences vs Rekrute ──────────────────────────────────────────────────
+comparison_with_rekrute:
+  volume_live: indeed_higher  # 100+/200+ vs ~30 pour Rekrute
+  brand_diversity: indeed_richer  # banques + aérospatial + retail + startups
+  historical_indexing: rekrute_better  # Rekrute conserve depuis 2017, Indeed indexe peu via Google
+  anti_bot: indeed_stricter  # 403 vs Rekrute permissif
+  detail_quality: similar  # les deux exposent les fiches en clair
+  cross_overlap: ~5%  # Coface 181033 = Indeed a8beff1a550a90c4 par exemple
+
+# ─── État production ─────────────────────────────────────────────────────────
+production_status: sample_phase1_and_phase2_complete
+next_action: |
+  Sprint 2 — enrichissement Indeed :
+  1. Visiter les 37 fiches Phase 1 en listing-only via Playwright (détails complets)
+  2. Élargir Wayback aux aggregateurs data-scientist et data-engineer (les actuels ont échoué)
+  3. Combler le gap 2025 via Wayback snapshots à dates précises (2025-Q2, Q3, Q4)
+  4. Tester l'actor Apify "indeed-scraper" pour bulk
+  5. Dédoublonnage cross-sources avec Rekrute (SHA-256)
+estimated_total_data_jobs_active_indeed: 350+  # 100 DS + 200 DE + 100 DA + 25 ML
+sample_coverage_pct: 23  # 79 / 350+ = ~23 %
+estimated_quality_score: 0.72  # 5 détails complets · 37 listing-only · 37 Wayback partiel

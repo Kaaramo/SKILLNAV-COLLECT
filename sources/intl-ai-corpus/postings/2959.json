@@ -1,0 +1,175 @@
+{
+  "job_id": "intl-ai-corpus-2959",
+  "source": "intl-ai-corpus",
+  "source_ref": "9079891",
+  "source_url": "https://builtin.com/job/ai-engineer/9079891",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "ChargePoint",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-17",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "968 Employees",
+  "company_stage": "Public",
+  "company_focus": "EV charging network infrastructure and solutions",
+  "industries": [],
+  "description": "About Us\n\nWith electric vehicles expected to be nearly 30% of new\nvehicle sales by 2025 and more than 50% by 2040, electric\nmobility is becoming a reality. ChargePoint (NYSE: CHPT) is\nat the center of this revolution, powering one of the\nworld’s leading EV charging networks and a comprehensive set\nof hardware, software and mobile solutions for every\ncharging need across North America and Europe. We bring\ntogether drivers, businesses, automakers, policymakers,\nutilities and other stakeholders to make e-mobility a global\nreality.\n\nSince our founding in 2007, ChargePoint has focused solely\non making the transition to electric easy for businesses,\nfleets and drivers. ChargePoint offers a once-in-a-lifetime\nopportunity to create an all-electric future and a trillion-\ndollar market.\n\nAt ChargePoint, we foster a positive and productive work\nenvironment by committing to live our values of Be\nCourageous, Charge Together, Love our Customers, Operate\nwith Openness, and Relentlessly Pursue Awesome. These values\nguide how we show up every day, align, and work together to\nbuild a brighter future for all of us.\n\nJoin the team that is building the EV charging industry and\nmake your mark on how people and goods will get everywhere\nthey need to go, in any context, for generations to come.\n\nReports To\n\nDirector, NOC Delivery & Automation\n\nWhat You Will Be Doing\n\n- Lead the development of cutting-edge AI solutions across\n  Voice AI, Computer Vision, and Conversational AI domains.\n- You will architect and build production-grade AI systems\n  that enhance our monitoring and analytics platform,\n  improve customer support experiences, and enable\n  intelligent automation across our EV charging\n  infrastructure.\n- Work closely with cross-functional teams to design, build,\n  and deploy AI-powered solutions that directly improve the\n  experience for millions of EV drivers and operators\n  worldwide.\n\nWhat You Will Bring to ChargePoint\n\n- Deep expertise in Python, FastAPI, Django, and modern\n  backend frameworks for AI service development\n- Hands-on experience with LLM engineering: LangChain,\n  LangGraph, Amazon Bedrock/OpenAI APIs, prompt engineering,\n  and RAG architectures\n- Strong experience with Elasticsearch including vector\n  search, hybrid search (BM25 + dense embeddings), and\n  semantic retrieval\n- Proficiency with vector databases (Qdrant, ChromaDB,\n  Pinecone) and embedding-based retrieval systems\n- Experience building production LLM systems with focus on\n  low-latency inference, caching strategies, and\n  observability\n- Strong foundation in distributed systems design,\n  microservices architecture, and event-driven patterns\n  (Kafka, RabbitMQ)\n- Experience with cloud platforms (AWS/GCP), containerization\n  (Docker, Kubernetes), and CI/CD pipelines\n- Strong knowledge of PostgreSQL (query optimization, schema\n  design), Redis, MongoDB, and message queues\n- Track record of optimizing system performance with\n  measurable improvements (latency reduction, cost\n  optimization)\n\nRequirements\n\n- 8+ years of software engineering experience with 4+ years\n  focused on AI/ML systems in production\n- Tech/B.E. or M.S. in Computer Science, Machine Learning, or\n  related field from a top-tier institution\n- Experience with Voice AI systems, telephony integrations\n  (Genesys, SIP), and speech processing pipelines\n- Background in computer vision, image processing, or visual\n  transformer architectures\n- Data engineering experience with Airflow, DBT, and analytics\n  platforms (ClickHouse, Trino, Iceberg)\n- Experience working with massive datasets (50TB+) and\n  building scalable data pipelines\n- Hands-on experience with model fine-tuning techniques\n  (LoRA/QLoRA) for domain-specific applications\n- Familiarity with RLHF-style preference tuning and model\n  alignment techniques\n- Experience with observability and monitoring stacks\n  including metrics, logging, and tracing\n- Certifications in Generative AI, Agentic AI, or related\n  specialization.\n\nLocation\n\nBangalore, India\n\nWe are committed to an inclusive and diverse team.\nChargePoint is an equal opportunity employer. We do not\ndiscriminate based on race, color, ethnicity, ancestry,\nnational origin, religion, sex, gender, gender identity,\ngender expression, sexual orientation, age, disability,\nveteran status, genetic information, marital status or any\nlegally protected status.\n\nIf there is a match between your experiences/skills and the\nCompany needs, we will contact you directly.\n\nChargePoint is committed to fostering an inclusive workplace\nthat welcomes and supports all qualified individuals. In\nalignment with this commitment, we ensure that persons with\ndisabilities are provided with reasonable accommodations\nthroughout the employment process.\n\nIf you need a reasonable accommodation to participate in the\napplication or interview process, to perform essential job\nfunctions, or to access any other benefits and privileges of\nemployment, please contact us at\naccommodations@chargepoint.com.\n\nChargePoint is an equal opportunity employer.  Applicants\nonly - Recruiting agencies do not contact.\n",
+  "skills_required": [
+    "Amazon Bedrock",
+    "Distributed Systems",
+    "Genesys",
+    "LangChain",
+    "LangGraph",
+    "LoRA/QLoRA",
+    "Microservices Architecture",
+    "OpenAI APIs",
+    "Prompt Engineering",
+    "RAG",
+    "RLHF",
+    "SIP"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead the development of AI solutions across Voice AI, Computer Vision, and Conversational AI domains",
+    "Architect and build production-grade AI systems for monitoring, analytics, customer support, and intelligent automation",
+    "Design, build, and deploy AI-powered solutions to improve experiences for EV drivers and operators",
+    "Develop LLM-based systems with RAG architectures, prompt engineering, and low-latency inference",
+    "Build and optimize data pipelines for massive datasets (50TB+) supporting AI workloads",
+    "Collaborate with cross-functional teams to integrate AI solutions into EV charging infrastructure",
+    "Optimize system performance including latency reduction and cost optimization for AI services"
+  ],
+  "use_cases": [
+    "Voice AI for customer support and telephony integrations in EV charging",
+    "Computer vision for EV charging infrastructure monitoring and analytics",
+    "Conversational AI to enhance customer support experiences for EV drivers",
+    "Intelligent automation across EV charging network operations",
+    "Semantic search and retrieval over EV charging data using RAG architectures",
+    "NOC (Network Operations Center) monitoring and analytics platform enhancement"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "CI/CD",
+    "ChromaDB",
+    "ClickHouse",
+    "DBT",
+    "Django",
+    "Docker",
+    "Elasticsearch",
+    "FastAPI",
+    "GCP",
+    "Iceberg",
+    "Kafka",
+    "Kubernetes",
+    "MongoDB",
+    "Pinecone",
+    "PostgreSQL",
+    "Qdrant",
+    "RabbitMQ",
+    "Redis",
+    "Trino",
+    "Vector Search"
+  ],
+  "frameworks_mentioned": [
+    "Amazon Bedrock",
+    "LangChain",
+    "LangGraph",
+    "LoRA/QLoRA",
+    "OpenAI APIs",
+    "Prompt Engineering",
+    "RAG",
+    "RLHF"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "BIG_DATA",
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, architecting, and\ndeploying production AI systems including Voice AI, Computer\nVision, Conversational AI, and LLM-based solutions (RAG,\nLangChain, fine-tuning with LoRA/QLoRA). The engineer works\nhands-on with models and AI frameworks to create AI-powered\nproducts, making this clearly an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Amazon Bedrock",
+      "OpenAI APIs",
+      "Prompt Engineering",
+      "RAG",
+      "LoRA/QLoRA",
+      "RLHF"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Django"
+    ],
+    "databases": [
+      "Elasticsearch",
+      "Vector Search",
+      "Qdrant",
+      "ChromaDB",
+      "Pinecone",
+      "PostgreSQL",
+      "Redis",
+      "MongoDB"
+    ],
+    "data": [
+      "Kafka",
+      "RabbitMQ",
+      "Airflow",
+      "DBT",
+      "ClickHouse",
+      "Trino",
+      "Iceberg"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Computer Vision",
+      "Voice AI"
+    ],
+    "other": [
+      "Genesys",
+      "SIP",
+      "Microservices Architecture",
+      "Distributed Systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-0048",
+  "source": "intl-ai-corpus",
+  "source_ref": "6696292",
+  "source_url": "https://builtin.com/job/principal-ai-research-engineer-world-models/6696292",
+  "title": "Principal AI Research Engineer - World Models",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Reflex Robotics",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "19 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Affordable wheeled humanoid robots for manufacturing and\nlogistics automation",
+  "industries": [],
+  "description": "Company Overview\n\nReflex Robotics is building affordable ($10k) wheeled\nhumanoid robots to automate dangerous and repetitive tasks\nin manufacturing and logistics.\n\nWe envision a future where intelligent robots are doing all\nkinds of boring work that people hate doing—loading chicken\nnuggets into Costco boxes, lifting forty pound bags of dog\nfood at Petco stores, and cleaning up cranberry juice spills\nin your apartment.\n\nWe are a three-year-old startup backed by Khosla Ventures,\nwith $60M/year of revenue lined up pending successful pilots\nwith e-commerce warehouses in 2025.\n\nHow Does It Work?\n\nOur robots are designed and built entirely in-house by an\nengineering team that led development of the Stretch robot\nat Boston Dynamics and key systems on the Tesla Model S, X,\nand Y production lines. Reflex robots are high-performance,\nlow-inertia, and optimized for low-cost manufacturing.\n\nWe’ve built the best real-time teleoperation system in the\nworld, allowing a remote operator in South America to “play\na video game” to control our robots at human-level speeds.\nThis has allowed us to already ship robots with positive\nunit economics, and enables us to create a powerful human-\nintervention + RL product feedback loop.\n\nOur system allows us to collect high-quality demonstrations\nat scale—giving us the proprietary data engine needed to\ntrain increasingly capable AI systems. We're on track to\nbuild the largest robotics dataset in the world, which will\nserve as an important long-term advantage.\n\nKey Company Beliefs\n\n- High-quality, proprietary robotics data is the next\n  foundation for generational AI companies (like Tesla FSD\n  and ChatGPT).\n- Being nerd-sniped by maximizing an engineering metric is way\n  less important than solving our customers’ biggest pain\n  points.\n- An insane work ethic is required for outsized success—and\n  you'll be rewarded for it.\n\nWhat We’re Looking For\n\nWe’re still a small team—which means high ownership, high\nequity, and the chance to shape the product from the ground\nup.\n\nVLAs and other great “base policies” for robotics achieve\n~80% success rates, but in real robot deployments, it’s\nessential to achieve 99.99% success rates. We can’t ask our\ncustomers to tolerate our robots packing three socks into a\nbin instead of four, or swapping shipping labels between two\npackages—not even once! You should apply for this role if:\n\n- You’ve architected and trained large-scale video/world\n  models (ex. Sora, Veo)\n- You’ve turned generative models into controllable\n  simulators: action‑/state‑conditioned rollouts\n- You’ve built the data & eval stack for world modeling to\n  quantify downstream policy success\n\nYou’d be joining a company that already has a solid core\nbusiness—with working hardware, delighted customers, and\nprofitable unit economics. Reflex is de-risked enough to see\nthe hazy outlines of success, but still small enough that\nthere’s enormous upside up for grabs.\n\nCome Join Us\n\nThis is a rare opportunity to help build a flagship robotics\ncompany from the ground up—and to do work that will truly\nmatter, reshaping what people believe is possible in\nrobotics.\n\nWe love to see the things you’ve worked on. Have a portfolio\nor insane project you’ve worked on? Share it. We’re looking\nfor people who push past the status quo, are passionate at\nwork and in their own time—we’re looking for people who want\nto win.\n",
+  "skills_required": [
+    "PyTorch",
+    "generative models",
+    "model training",
+    "reinforcement learning",
+    "simulators",
+    "video models",
+    "world models"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and train large-scale video/world models (like Sora, Veo) for robotics applications",
+    "Turn generative models into controllable simulators with action-/state-conditioned rollouts",
+    "Build data and evaluation infrastructure for world modeling to quantify downstream policy success",
+    "Develop systems to achieve 99.99% success rates in real robot deployments",
+    "Work with proprietary robotics datasets to train increasingly capable AI systems",
+    "Contribute to the human-intervention + RL product feedback loop"
+  ],
+  "use_cases": [
+    "Automating dangerous and repetitive tasks in manufacturing and logistics",
+    "Loading items into boxes and containers with high precision",
+    "Lifting and moving heavy objects (e.g., 40 lb bags) in retail settings",
+    "Real-time teleoperation system allowing remote control of robots",
+    "Collecting high-quality demonstrations at scale for training",
+    "Achieving 99.99% success rates for real-world robot deployments to ensure zero errors"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "generative models",
+    "model training",
+    "reinforcement learning",
+    "simulators",
+    "video models",
+    "world models"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on AI/ML work focused on building and\ntraining world models (large-scale video/world models like\nSora/Veo) and turning them into controllable simulators for\nrobotics. The engineer will work directly on model\narchitecture, training, and evaluation - not supporting\ninfrastructure or data pipelines for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "world models",
+      "video models",
+      "generative models"
+    ],
+    "ml": [
+      "PyTorch",
+      "reinforcement learning",
+      "model training",
+      "simulators"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,34 @@
+company:
+  name: Capgemini
+  stage: null
+  focus: null
+position:
+  title: Data Architect
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - data lake
+    - data warehouse
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - agile
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4383163294'
+  extracted_at: '2026-05-15T15:53:14+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

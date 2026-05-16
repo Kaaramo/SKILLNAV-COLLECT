@@ -1,0 +1,157 @@
+{
+  "job_id": "intl-ai-corpus-0670",
+  "source": "intl-ai-corpus",
+  "source_ref": "8328592",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer/8328592",
+  "title": "Senior AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cyberhaven",
+  "company_type": "entité morale privée",
+  "location": "GBR",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "237 Employees",
+  "company_stage": "Series B or later",
+  "company_focus": "AI-enabled data security and DLP",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Cybersecurity",
+    "Generative AI",
+    "Data Privacy"
+  ],
+  "description": "About the role\n\nWe’re looking for an experienced Backend engineer to help\ndrive and evolve our product, focusing on high-impact\ninnovation projects as part of our Linea AI team. You will\nbe working on cutting-edge technology and ideas and bringing\nAI prototypes to production. You will work closely with Labs\nteam to operationalize and scale AI prototypes across many\ncustomers.\n\nWhat you’ll do\n\n- Design and scale distributed systems: Architect, build, and\n  optimize highly scalable and fault-tolerant systems that\n  process large graph datasets at enterprise scale, handling\n  billions of events in real time from tens of thousands of\n  endpoints with sub-second latency.\n- Solve complex scaling challenges: Tackle real-world\n  performance and reliability problems through deep\n  analysis, profiling, and systematic troubleshooting in\n  high-throughput distributed environments.\n- Build with modern infrastructure: Develop and evolve a\n  microservices-based architecture using technologies such\n  as Go, Kubernetes, Docker, and Redis, in a continuously\n  improving production stack.\n- Engineer secure-by-design software: Write hardened,\n  security-first code capable of safely processing untrusted\n  data, resisting real-world attack vectors, and operating\n  reliably across large-scale, internet-facing systems.\n- Productionize AI systems: Partner with research and product\n  teams to operationalize AI prototypes, turning\n  experimental models into robust, scalable, and production-\n  ready services.\n\nWho you are\n\n- Proven Backend Expertise: 6+ years of experience building\n  and scaling backend systems, with strong proficiency in\n  Python and/or Go, powering production applications used at\n  scale.\n- Full-Stack Impact: Demonstrated track record of designing\n  and delivering full-stack applications that are actively\n  used in real-world, high-traffic environments.\n- Generative AI & ML at Scale: Hands-on production experience\n  with large-scale foundational models and transformer-based\n  architectures, including deploying, monitoring, and\n  iterating on GenAI systems.\n- Agent & Workflow Systems: At least 1 year of experience\n  building AI agents and orchestration workflows using\n  frameworks such as LangChain, LangGraph, Genkit, or\n  similar technologies.\n- ML Systems & Data Pipelines: Experience delivering machine\n  learning systems at scale, including robust model\n  evaluation, continuous quality improvement pipelines, and\n  data processing using columnar databases and large\n  messaging systems (e.g., Pub/Sub, Kafka).\n- Ownership & Innovation Mindset: Comfortable working in\n  remote, fast-paced environments, with an entrepreneurial\n  mindset-driven to solve complex, real-world problems\n  through innovation and breakthrough technology.\n\nGood to have:\n\n- Security & Product Domain Experience: Background building\n  products in data security, DLP, or application security\n  environments.\n- Cloud Data & AI Workflows: Experience with GCS and BigQuery,\n  and familiarity with LangGraph or similar frameworks for\n  AI agent orchestration.\n- LLM Evaluation & Quality Systems: Hands-on experience\n  designing or operating LLM evaluation pipelines, including\n  automated testing, monitoring, and continuous quality\n  improvement.\n\nJoining Cyberhaven is a chance to revolutionize data\nsecurity. Traditional tools fall short, but we’ve reimagined\nprotection with AI-enabled data lineage that analyzes\nbillions of workflows to understand data, detect risk, and\nstop threats. Backed by $250M from leading investors like\nKhosla and Redpoint, our team includes leaders who built\nindustry-defining technologies at CrowdStrike, Palo Alto\nNetworks, Meta, Google, and more. This role lets you shape\nthe future of data security, alongside experts driven to\nhelp customers protect their most valuable information.\n\nCyberhaven is committed to creating a diverse environment\nand is an equal opportunity employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, gender, gender identity or\nexpression, sexual orientation, national origin, genetics,\ndisability, age, or veteran status.\n",
+  "skills_required": [
+    "AI agents",
+    "GenAI systems deployment",
+    "Genkit",
+    "LLM evaluation pipelines",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "distributed systems",
+    "microservices",
+    "model evaluation",
+    "prompt engineering",
+    "real-time processing",
+    "security-first code",
+    "transformer-based architectures"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect, build, and optimize highly scalable and fault-tolerant systems that process large graph datasets at enterprise scale, handling billions of events in real time from tens of thousands of endpoints with sub-second latency",
+    "Solve real-world performance and reliability problems through deep analysis, profiling, and systematic troubleshooting in high-throughput distributed environments",
+    "Develop and evolve a microservices-based architecture using technologies such as Go, Kubernetes, Docker, and Redis in a continuously improving production stack",
+    "Write hardened, security-first code capable of safely processing untrusted data and resisting real-world attack vectors across large-scale internet-facing systems",
+    "Partner with research and product teams to operationalize AI prototypes, turning experimental models into robust, scalable, and production-ready services",
+    "Build AI agents and orchestration workflows using frameworks such as LangChain, LangGraph, Genkit, or similar technologies"
+  ],
+  "use_cases": [
+    "Process and analyze billions of workflow events in real-time from tens of thousands of endpoints to understand data movement and detect security risks",
+    "Deploy and scale AI-powered data lineage systems that track data across organizations to identify sensitive information and potential threats",
+    "Operationalize large language models and AI agents for data security applications, including automated risk detection and threat prevention",
+    "Enable real-time data loss prevention through AI analysis of enterprise workflows and data patterns",
+    "Provide enterprise-grade security monitoring and threat detection at sub-second latency across massive datasets"
+  ],
+  "tools_mentioned": [
+    "BigQuery",
+    "Docker",
+    "GCS",
+    "Kafka",
+    "Kubernetes",
+    "Pub/Sub",
+    "Redis",
+    "columnar databases",
+    "data pipelines"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "GenAI systems deployment",
+    "Genkit",
+    "LLM evaluation pipelines",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "model evaluation",
+    "prompt engineering",
+    "transformer-based architectures"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires hands-on production experience with large-\nscale foundational models, transformer architectures, and AI\nagents. The engineer will deploy, monitor, and iterate on\nGenAI systems while operationalizing AI prototypes into\nproduction services.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Genkit",
+      "LLMs",
+      "transformer-based architectures",
+      "AI agents",
+      "prompt engineering",
+      "GenAI systems deployment",
+      "LLM evaluation pipelines"
+    ],
+    "ml": [
+      "model evaluation"
+    ],
+    "web": [],
+    "databases": [
+      "Redis",
+      "columnar databases"
+    ],
+    "data": [
+      "Kafka",
+      "Pub/Sub",
+      "data pipelines"
+    ],
+    "cloud": [
+      "GCS",
+      "BigQuery"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Go",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "distributed systems",
+      "microservices",
+      "real-time processing",
+      "security-first code"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

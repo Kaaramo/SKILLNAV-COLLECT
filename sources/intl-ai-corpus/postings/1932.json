@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-1932",
+  "source": "intl-ai-corpus",
+  "source_ref": "8644024",
+  "source_url": "https://www.builtinla.com/job/senior-ai-quality-engineer-hypergiant/8644024",
+  "title": "Senior AI Quality Engineer (Hypergiant)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Accelint",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-04",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Established",
+  "company_focus": "Defense technology and national security systems with\nAI/autonomous capabilities",
+  "industries": [
+    "Aerospace",
+    "Defense",
+    "Manufacturing"
+  ],
+  "description": "This position requires the eligibility to obtain a security\nclearance. Non-US citizens may not be eligible to obtain a\nsecurity clearance. The Defense Industrial Security\nClearance Office (DISCO), an agency of the Department of\nDefense, handles and adjudicates the security clearance\nprocess. More information about Security Clearances can be\nfound on the US Department of State government website here:\nhttps://www.state.gov/security-clearances  Accelint is a\nmission-driven technology company focused on strengthening\nnational security and supporting critical industries. We\nbuild the technologies that help operators and organizations\nsee what’s happening, make faster and better decisions, take\naction with confidence, and stay ready for what comes next.\nOur work includes advanced sensors, autonomous systems,\nmission command and control software, AI-enabled training\nand simulation, and tools that improve logistics,\nmaintenance, and overall readiness.\n\nFor nearly 30 years we have supported military and civilian\nagencies across the Department of Defense, U.S. allies and\npartners, and essential industries. When you join Accelint,\nyour work directly contributes to protecting national\nsecurity and strengthening the systems our society depends\non. \n\nWe are looking for a Senior AI Quality Engineer who will\nfocus on ensuring these AI-powered, agentic applications are\nreliable, observable, and safe to operate in mission-\ncritical environments. You will design and integrate testing\nguardrails directly into agentic workflows, validate\norchestration logic, and build custom evaluation and test\nharnesses tailored to how these systems actually behave,\nrather than relying on off-the-shelf QA tools that don't fit\nthe problem space.\n\nIn this role, you will help define how quality is measured,\nenforced, and continuously evaluated across these systems,\nfrom individual agents to end-to-end workflows. You'll work\nclosely with AI engineers, program teams, and infrastructure\nto embed reliability, security, and evaluation signals into\nthe fabric of the system as it's being built.\n\nThe ideal candidate understands agentic system design, has\nstrong instincts for failure modes in AI-driven workflows,\nand is comfortable building bespoke testing frameworks,\nsimulators, and evaluation pipelines to ensure these\napplications can succeed in real operational contexts.\n\n\n\nRole & Responsibilities\n\n- Hands-on delivery: Participate across the AI solution\n  lifecycle from requirements and design through\n  development, testing, and deployment by writing code,\n  building validation systems, reviewing pull requests, and\n  delivering working AI quality capabilities in an\n  iterative, agile environment.\n- Scenario-driven validation: Build and maintain systems that\n  exercise agentic workflows against realistic scenarios,\n  edge cases, and failure conditions, using custom harnesses\n  and guardrail-style validations, to validate end-to-end\n  behavior and orchestration.\n- Integration hardening: Define contracts, validation, and\n  explicit failure behavior at integration points so agentic\n  workflows degrade safely when dependencies misbehave.\n- Reusable quality components: Create shared libraries,\n  reference harnesses, and validation utilities that teams\n  can reuse to accelerate adoption of AI quality practices.\n- Quality by design: Architect agentic systems so correctness,\n  safety, and expected behavior are enforced by design\n  rather than validated after the fact.\n- Design-time risk reduction: Participate in solution design\n  to identify likely failure patterns in agentic systems and\n  influence architecture and constraints before\n  implementation.\n- AI quality evaluation: Define and implement cost-conscious\n  evaluation strategies for AI-enabled systems, including\n  data quality validation, model relevancy, hallucination\n  detection, failure analysis, and ongoing measurement of\n  AI-driven behavior.\n- Mission-aligned evaluation: Work with cross-functional\n  program teams, including engineering, infrastructure,\n  security, and delivery stakeholders, to translate customer\n  and mission needs into concrete evaluation criteria and\n  success conditions.\n- Delivery collaboration: Communicate estimates, progress, and\n  technical tradeoffs clearly to development leads and\n  product owners, and work alongside other engineers to\n  share knowledge, improve practices, and raise the overall\n  bar for AI engineering quality.\n\n\n\nRequired Experience:\n\n- Strong engineering foundation: 5+ years of professional\n  software engineering experience.\n- Custom validation and evaluation systems: Demonstrated\n  experience building bespoke validation, evaluation, or\n  testing frameworks for complex systems, using or expanding\n  tools such as Playwright, pytest, k6, Guardrails AI, or\n  similar frameworks.\n- Data contracts and validation: Data validation, schema\n  enforcement, and contract testing experience in\n  distributed or service-oriented architectures.\n- Quality-focused engineering: Experience treating quality,\n  reliability, and correctness as core design concerns,\n  including building automation or validation systems that\n  meaningfully influenced how software was designed, tested,\n  and released.\n- Risk reduction and release confidence: Experience defining,\n  interpreting, and acting on quality signals to assess\n  system readiness, guide release decisions, and reduce risk\n  in complex software systems.\n- AI systems: Hands-on experience designing, building, and\n  operating AI-powered systems, including agentic workflows\n  or orchestrated LLM-based applications.\n- Cloud-native delivery: Solid understanding of Amazon Web\n  Services and its native AI/ML services.\n- CI/CD and iterative delivery: Practical experience\n  integrating automation into CI/CD pipelines and delivering\n  software in an iterative, agile environment.\n- Operational and security awareness: Working knowledge of\n  security best practices relevant to regulated or mission-\n  critical contexts.\n- Collaborative engineering: Proven ability to work\n  effectively with cross-functional teams, communicate\n  technical tradeoffs, and deliver outcomes in environments\n  with multiple stakeholders.\n- Eligibility requirements: Must be a U.S. Citizen and able to\n  obtain and maintain a U.S. Security Clearance.\n\n\n\nPreferred Experience:\n\n- Experience designing and operating visual regression and\n  performance testing approaches for complex systems,\n  including defining meaningful baselines, detecting\n  regressions, and using results to inform release\n  decisions.\n- Comfort working in a TypeScript/JavaScript and/or Python-\n  based stack, including modern frameworks (e.g., React,\n  Next.js) across frontend, backend, or tooling codebases.\n- Familiarity with custom LLM integrations, LLM evaluation\n  techniques, prompt engineering, and approaches for\n  assessing non-deterministic or probabilistic system\n  behavior.\n- Exposure to monitoring or observability tooling (e.g.,\n  Datadog, Prometheus/Grafana) to support debugging or\n  validation of complex systems.\n- Working knowledge of security, privacy, and data protection\n  considerations specific to AI-powered systems.\n- Experience documenting system architecture and design\n  decisions clearly for technical and non-technical\n  audiences.\n- Background in building or operating software in regulated,\n  mission, or government contexts, including DoD\n  environments, test and evaluation processes (e.g., DT&E,\n  OT&E), or compliance frameworks such as FedRAMP or CMMC.\n  Experience supporting Air Force programs is a plus.\n- Ability and willingness to travel within the US as needed.\n- Active U.S. Security Clearance (or prior clearance).\n\nClearance Requirements\n\nSome positions will require access to U.S. National Security\ninformation.  Positions that require this access will be\nrequired to receive and maintain a U.S. government personnel\nsecurity clearance (PCL).  In order to qualify for this\nposition, the candidate must be a US Citizen and either\ncurrently possess this National Security eligibility or be\nable to complete the investigation application process with\na favorable determination and maintain that eligibility\nthroughout their employment. To learn more about the\nsecurity clearance process please access this link.\n\nEEOC & Know Your Rights\n\nAccelint companies are Equal Opportunity Employers. All\nqualified applicants will receive consideration for\nemployment without regard to race, color, religion, sex,\nnational origin, age, disability, status as a protected\nveteran or any other status protected by applicable federal,\nstate, and local law. We ensure that all employment\ndecisions, including hiring, promotion, compensation, and\nother terms and conditions of employment, are based on\nmerit, qualifications, and business needs. For more\ninformation about your rights, please review the \"Know Your\nRights\" poster from the Equal Employment Opportunity\nCommission (EEOC). Know your Rights: English Spanish\n\nPay Scales & Benefits\n\nThe listed pay scale reflects the broad, minimum to maximum,\npay scale for this position for the location for which it\nhas been posted and is not a guarantee of compensation or\nsalary. Other compensation considerations may include, but\nare not limited to, job responsibilities, education,\nexperience, knowledge, skills, and abilities, as well as\ninternal equity, alignment with market data, or other\napplicable factors.\n\nBenefits include…\n\n- Paid Time Off\n\n- Paid Company Holidays\n\n- Medical, Dental & Vision Insurance\n\n- Optional HSA and FSA\n\n- Base and Voluntary Life Insurance\n\n- Short Term & Long-Term Disability Insurance\n\n- 401k Matching\n\n- Employee Assistance Program\n",
+  "skills_required": [
+    "Agentic AI systems",
+    "Guardrails AI",
+    "LLM evaluation",
+    "LLM integrations",
+    "Prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and integrate testing guardrails directly into agentic workflows",
+    "Build and maintain custom evaluation and test harnesses for AI-powered systems",
+    "Validate orchestration logic and end-to-end behavior of agentic workflows",
+    "Define and implement evaluation strategies including hallucination detection and failure analysis",
+    "Create reusable quality components, shared libraries, and validation utilities",
+    "Architect agentic systems with correctness, safety, and expected behavior enforced by design",
+    "Work with cross-functional teams to translate mission needs into evaluation criteria",
+    "Integrate automation into CI/CD pipelines for AI quality validation"
+  ],
+  "use_cases": [
+    "AI-enabled training and simulation for military operations",
+    "Autonomous systems for defense applications",
+    "Mission command and control software",
+    "Logistics and maintenance optimization tools",
+    "AI-powered decision support for national security operators"
+  ],
+  "tools_mentioned": [
+    "AWS AI/ML services",
+    "Amazon Web Services",
+    "CI/CD",
+    "Contract testing",
+    "Data validation",
+    "Datadog",
+    "Grafana",
+    "Next.js",
+    "Playwright",
+    "Prometheus",
+    "React",
+    "Schema enforcement",
+    "k6",
+    "pytest"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI systems",
+    "Guardrails AI",
+    "LLM evaluation",
+    "LLM integrations",
+    "Prompt engineering"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying AI-\npowered agentic applications, including designing testing\nguardrails for agentic workflows, validating orchestration\nlogic, and building evaluation pipelines. While focused on\nquality, it requires deep understanding of and direct work\non AI/LLM systems rather than just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Agentic AI systems",
+      "LLM evaluation",
+      "Prompt engineering",
+      "LLM integrations",
+      "Guardrails AI"
+    ],
+    "ml": [],
+    "web": [
+      "Playwright",
+      "React",
+      "Next.js"
+    ],
+    "databases": [],
+    "data": [
+      "Data validation",
+      "Schema enforcement"
+    ],
+    "cloud": [
+      "Amazon Web Services",
+      "AWS AI/ML services"
+    ],
+    "ops": [
+      "pytest",
+      "k6",
+      "CI/CD",
+      "Datadog",
+      "Prometheus",
+      "Grafana",
+      "Contract testing"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

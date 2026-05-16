@@ -1,0 +1,136 @@
+{
+  "job_id": "intl-ai-corpus-0291",
+  "source": "intl-ai-corpus",
+  "source_ref": "7646246",
+  "source_url": "https://builtin.com/job/data-engineer-ai-enablement/7646246",
+  "title": "Data Engineer (AI Enablement)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Octagon",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,286 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global sports and entertainment marketing",
+  "industries": [],
+  "description": "THE JOB / Data Engineer (AI Enablement)\n\nSTRATEGY / Responsible for building and operating the data\nfoundations that power Octagon’s AI solutions and enterprise\nsearch.\n\n ***Our headquarters are in Stamford, CT, but the location\nof this position can be 100% remote for qualified\ncandidates.\n\nYou’re a systems-minded builder who turns messy, multi-\nsource data into reliable, searchable, and governed\nknowledge. Your mission is to stand up the pipelines, vector\nsearch, and metadata standards that make AI tools accurate,\nfast, and safe. You’ll partner closely with the Solutions\nEngineer (peer role) to take prototypes and ship durable\ninfrastructure—ingestion, embeddings, indexing, and APIs—so\nteams can find and use what they need. You’ll report to the\nDirector, Data Strategy and work across departments to\nreduce manual effort, improve data quality, and enable AI-\npowered workflows at scale.\n\n THE WORK YOU’LL DO\n\n- Data foundations: Design and operate the vector\n  database/search layer (e.g., FAISS/pgvector/Milvus) and\n  document-chunking/embedding pipelines that make Octagon’s\n  content discoverable and auditable.\n- Scalable pipelines for AI/ML/LLM: Implement and maintain\n  ELT/ETL to support downstream workflows such as data\n  labeling, classification, and document parsing; build\n  robust validations, lineage, and observability.\n- Retrieval APIs: Expose governed retrieval endpoints that\n  respect permissions (ACLs), support metadata filters, and\n  return source snippets/IDs for grounding and citations.\n- Data structuring & manipulation: Normalize, transform, and\n  move JSON and other structured payloads cleanly through\n  workflows to ensure reliable handoffs and automation\n  outputs.\n- Align & collaborate: Align product peers, design, data\n  science, engineering, and commercial teams around a\n  unified roadmap and shared data contracts.\n- Operationalize prototypes: Take MVPs from the Solutions\n  Engineer and productionize with CI/CD, telemetry,\n  cost/usage guardrails, and pilot → rollout gating.\n- Reliability & security: Build monitoring (freshness, re-\n  index SLAs, retrieval quality), secrets management, access\n  controls, and audit logging aligned with enterprise\n  governance.\n- Flexibility and willingness to travel and work weekends or\n  holidays as needed. Anticipated travel level: Low (0–15%).\n\n THE BIGGER TEAM YOU’LL JOIN\n\nRecognized as one of the “Best Places to Work in Sports”,\nOctagon is the global sports, entertainment, and\nexperiential marketing arm of the Interpublic Group.\n\nWe take pride in being Playmakers – finding insightful, bold\nways to create play in our work, our lives, and in the\nworld. We believe in the power of play to create big ideas\nand unlock potential for our clients and talent.\n\nWe can put ourselves in the shoes of fans because we ARE\nfans – of sports, entertainment, and culture at large. This\nexpertise allows us to continually evolve the fan experience\nacross sports and entertainment alongside some of the\nbiggest brands and talent in the world.\n\nThe world needs play more than ever. Are you a Playmaker?\n\nWHO WE’RE LOOKING FOR\n\n- 3+ years (or equivalent portfolio) building data systems:\n  data modeling, ELT/ETL, Python + SQL; experience with\n  cloud object storage and relational databases.\n- Hands-on with embeddings and vector databases (e.g.,\n  FAISS/pgvector/Milvus) and document processing pipelines\n  for RAG-style retrieval.\n- Scalable pipeline experience supporting AI/ML/LLM use cases\n  (labeling, classification, doc parsing) and partnering\n  closely with Data Science and Data Labeling teams.\n- Data structuring & manipulation expertise: cleanly\n  normalizing and transforming JSON/Parquet/CSV payloads;\n  designing resilient data contracts and schemas.\n- Orchestration/ops: Airflow/Prefect (or similar), CI/CD,\n  structured logging/monitoring, cost/usage guardrails;\n  secure secrets management.\n- Strong collaboration and communication skills; proven\n  ability to align product/design/engineering/commercial\n  stakeholders around a unified roadmap.\n\nNice-To-Haves\n\n- Enterprise connectors and productivity stacks (e.g.,\n  Microsoft 365/SharePoint/Teams/Graph, Copilot or Copilot\n  Studio/Power Automate; Google Workspace; Salesforce;\n  DAMs).\n- Experience implementing LLM inference patterns, similarity\n  search, guardrails, and memory; familiarity with agent\n  frameworks or custom orchestration.\n- Additional languages for systems work (e.g., C++, C#, Java,\n  or Go).\n- Containers (Docker), GitHub Actions, IaC; lightweight\n  internal UIs (Streamlit or R Shiny) to expose services.\n- Familiarity with marketing/media-measurement datasets and\n  associated normalization/quality checks.\n\nThe base range for this position is $90,000 – $100,000.\nWhere an employee or prospective employee is paid within\nthis range will depend on, among other factors, actual\nranges for current/former employees in the subject position;\nmarket considerations; budgetary considerations; tenure and\nstanding with the company (applicable to current employees);\nas well as the employee’s/applicant’s background pertinent\nexperience, and qualifications\n\nOctagon’s comprehensive benefits package includes:\n\n- Unlimited PTO policy – we understand you need time for play!\n- Competitive medical/dental/vision insurance plans with\n  FSA/HSA and Dependent Care FSA options. Pet Insurance for\n  those who need it too!\n- Generous Family and Parental Leave Policy (12 weeks) with\n  eligibility extended to all parents regardless of gender\n  or primary/secondary caregiver status\n- Access to our parent company (IPG) Savings plan (401K\n  program) with company match as well as an Employee Stock\n  Purchase Plan (ESPP)\n- Pretax Transportation/Commuter Benefits and Parent Travel\n  Program\n- Dedicated Mental Health resources including Headspace\n  membership, Employee Assistance Program (CCA) and more\n- Discount portal for everyday goods and services\n- Employee Resource Groups and inclusive diversity programming\n  and initiatives\n- Personal Development programs\n\nWe make our careers website accessible to any and all users.\nIf you need an accommodation to participate in the\napplication process, please contact us at\nJobAppAccommodation@ipgdxtra.com. This email address is not\nfor general employment inquiries or vendors; rather it is\nstrictly for applicants who require special assistance\naccessing our employment website. Due to volume, messages\nsent to this email address that are not related to an\naccommodation cannot be answered.\n",
+  "skills_required": [
+    "RAG",
+    "embeddings"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and operate vector database search layers and document-chunking/embedding pipelines for discoverability",
+    "Implement and maintain ELT/ETL pipelines to support data labeling, classification, and document parsing workflows",
+    "Expose governed retrieval endpoints with permission controls, metadata filters, and source attribution for grounding",
+    "Normalize, transform, and move JSON and structured payloads through workflows ensuring reliable automation outputs",
+    "Collaborate with product, design, data science, and commercial teams to align on unified roadmaps and data contracts",
+    "Productionize prototypes from Solutions Engineers with CI/CD, telemetry, and cost guardrails",
+    "Build monitoring for freshness and retrieval quality, secrets management, and audit logging aligned with enterprise governance"
+  ],
+  "use_cases": [
+    "Enterprise search across organizational content using vector similarity search",
+    "RAG-style retrieval systems that provide accurate, grounded responses with source citations",
+    "Document processing and parsing workflows that structure unstructured content for AI consumption",
+    "AI-powered knowledge discovery that respects access control permissions and security requirements"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "CI/CD",
+    "Docker",
+    "ELT",
+    "ETL",
+    "FAISS",
+    "GitHub Actions",
+    "IaC",
+    "Milvus",
+    "Prefect",
+    "cloud object storage",
+    "document processing pipelines",
+    "monitoring",
+    "pgvector",
+    "relational databases",
+    "secrets management"
+  ],
+  "frameworks_mentioned": [
+    "RAG",
+    "embeddings"
+  ],
+  "languages_programming": [
+    "C#",
+    "C++",
+    "Go",
+    "Java",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a data engineering role focused on building\ninfrastructure and pipelines to support AI/LLM solutions\nrather than building models directly. The work involves\nvector databases, embeddings pipelines, retrieval APIs, and\ndata foundations that enable AI systems to function, but\ndoes not include model training, fine-tuning, or deployment\nof ML models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "embeddings",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "FAISS",
+      "pgvector",
+      "Milvus",
+      "relational databases"
+    ],
+    "data": [
+      "document processing pipelines",
+      "ETL",
+      "ELT",
+      "Airflow",
+      "Prefect"
+    ],
+    "cloud": [
+      "cloud object storage"
+    ],
+    "ops": [
+      "CI/CD",
+      "Docker",
+      "GitHub Actions",
+      "IaC",
+      "secrets management",
+      "monitoring"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "C++",
+      "C#",
+      "Java",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

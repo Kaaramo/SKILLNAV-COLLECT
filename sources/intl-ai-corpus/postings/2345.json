@@ -1,0 +1,109 @@
+{
+  "job_id": "intl-ai-corpus-2345",
+  "source": "intl-ai-corpus",
+  "source_ref": "8855331",
+  "source_url": "https://builtin.com/job/senior-ux-ui-engineer-agentic-ai/8855331",
+  "title": "Senior UX/UI Engineer (Agentic AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Hawk",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "88 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "AI-powered anti-money laundering and fraud detection\ntechnology",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "About Us\n\nHawk is the leading provider of AI-supported anti-money\nlaundering and fraud detection technology. Banks and payment\nproviders globally are using Hawk’s powerful combination of\ntraditional rules and explainable AI to improve the\neffectiveness of their AML compliance and fraud prevention\nby identifying more crime while maximizing efficiency by\nreducing false positives. With our solution, we are playing\na vital role in the global fight against Money Laundering,\nFraud, or the financing of terrorism. We offer a culture of\nmutual trust, support and passion – while providing\nindividuals with opportunities to grow professionally and\nmake a difference in the world.\n\nYour Mission\n\nAs a Senior UX/UI Engineer at Hawk, your mission is to\ndesign, architect, and build the user experience for our\nnext-generation, AI-powered Anti-Money- Laundering\nplatform—specifically focusing on our new agentic AI\nInvestigation Agent and other new agentic products. You will\noperate at the critical intersection of UI, UX, and Product,\nshaping the vision for how human analysts interact with\nautonomous AI workflows. You will draft and implement\ncutting-edge UX capabilities for complex case management,\ncustomer-centric data views, and dynamic grouping, ensuring\nthat AI-driven insights are surfaced intuitively. This is a\nhigh-ownership role requiring you to look at problems\nholistically, establish best-in-class human-machine\ninterfaces, and deliver scalable, high-quality frontend\nsolutions.\n\nKey Responsibilities\n\n- Drive the UX strategy, design, and end-to-end frontend\n  implementation for completely new product capabilities,\n  including our agentic AI workflow automation and case\n  management tools.\n- Build strong, intuitive human/machine interfaces that\n  effectively surface complex agentic AI results and\n  explainability metrics, making fraud and AML data\n  actionable for human analysts.\n- Lead the development of complex UI topics, such as\n  comprehensive 360-degree customer-centric views\n  (aggregating key metrics across different systems) and\n  dynamic entity grouping workflows.\n- Architect and build scalable, maintainable frontend\n  components using React. You will leverage shadcn/ui for\n  our newest solutions (like the Investigation Agent) while\n  maintaining and bridging components in our existing\n  Material UI ecosystem.\n- Step outside the traditional \"developer box.\" Partner\n  closely with Product Management, Backend Engineering\n  (FastAPI/LangGraph), and Data Science to shape the product\n  roadmap, translate user needs into technical reality, and\n  question the\"why\" behind features.\n- Actively leverage and champion the use of agentic coding\n  tools (e.g., Claude Code, Google Antigravity) to\n  accelerate development, improve code quality, and\n  establish modern engineering workflows.\n- Support strategic decision-making, establish frontend\n  coding/design best practices, and ensure a consistent,\n  high-quality user experience across the application suite.\n\nYour Profile\n\n- 4+ years of software development and UI/UX design\n  experience.(Note: We are open to exceptional candidates\n  with 2-3 years of experience if theydemonstrate a\n  remarkably strong track record).\n- Proven experience working seamlessly at the intersection of\n  UI engineering, UX design, and product strategy. You can\n  conceptualize a user journey and write the code to make it\n  real.\n- Deep expertise in frontend development using React. Strong\n  hands-on experience architecting and bridging modern\n  design systems and component libraries—specifically\n  shadcn/ui and Material UI—is highly preferred.\n- Demonstrated ability to design and implement user interfaces\n  for data-heavy, B2B, or enterprise applications (e.g.,\n  workflow automation, analytics dashboards, or case\n  management systems).\n- Hands-on experience and comfort utilizing modern AI coding\n  assistants (Claude Code, Cursor etc.) as an integrated\n  part of your daily development workflow.\n- Excellent holistic thinking and problem-solving skills. You\n  are a self-starter who helps shape the product vision\n  rather than just executing pre-defined tickets.\n- Excellent communicator with a collaborative mindset, capable\n  of articulating design decisions and technical trade-offs\n  to both technical and non-technical stakeholders\n- Committed to user-centric design and delivering applications\n",
+  "skills_required": [
+    "Claude Code",
+    "LangGraph",
+    "UX/UI design",
+    "agentic AI workflows"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Drive UX strategy, design, and frontend implementation for agentic AI workflow automation and case management tools",
+    "Build human/machine interfaces that surface agentic AI results and explainability metrics for fraud and AML analysis",
+    "Lead development of complex UI features including 360-degree customer views and dynamic entity grouping workflows",
+    "Architect and build scalable frontend components using React with shadcn/ui and Material UI",
+    "Partner with Product Management, Backend Engineering (FastAPI/LangGraph), and Data Science on product roadmap",
+    "Leverage agentic coding tools (Claude Code, Google Antigravity) to accelerate development",
+    "Establish frontend coding/design best practices across the application suite"
+  ],
+  "use_cases": [
+    "Anti-money laundering (AML) compliance investigation and case management",
+    "Fraud detection and prevention workflows",
+    "AI-powered investigation automation through agentic workflows",
+    "Customer risk profiling and entity grouping for financial crime detection",
+    "Explainable AI insights for human analyst decision-making"
+  ],
+  "tools_mentioned": [
+    "FastAPI",
+    "Material UI",
+    "React",
+    "shadcn/ui"
+  ],
+  "frameworks_mentioned": [
+    "Claude Code",
+    "LangGraph",
+    "agentic AI workflows"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is building UX/UI for agentic AI products\n(LangGraph-based Investigation Agent) which requires\nunderstanding how to surface agentic AI results,\nexplainability metrics, and autonomous AI workflows to\nusers. Working directly with AI agents and implementing\ninterfaces for AI-driven insights constitutes hands-on work\nwith AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "Claude Code",
+      "agentic AI workflows"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "shadcn/ui",
+      "Material UI",
+      "FastAPI"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "UX/UI design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

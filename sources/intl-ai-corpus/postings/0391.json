@@ -1,0 +1,119 @@
+{
+  "job_id": "intl-ai-corpus-0391",
+  "source": "intl-ai-corpus",
+  "source_ref": "7916522",
+  "source_url": "https://builtin.com/job/software-engineer-ai-frontend/7916522",
+  "title": "Software Engineer – AI Frontend",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Omni (omni.co)",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "641 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Business intelligence and embedded analytics platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software",
+    "Database",
+    "Analytics",
+    "Business Intelligence"
+  ],
+  "description": "About Omni\n\nOmni is a business intelligence and embedded analytics\nplatform that helps customers improve self-service,\naccelerate AI adoption, and build customer-facing data\nproducts. Whether users prefer AI, spreadsheets, SQL, or\npoint-and-click, Omni makes it easy for anyone to explore\nand act on data — all from the same platform. At the core of\nOmni’s platform is a built-in semantic layer that ensures\nconsistency, trust, and AI readiness.\n\nHeadquartered in San Francisco, Omni has office hubs in\nSanta Cruz, Philadelphia, Dublin, and Sydney, with team\nmembers around the world. The company has raised $97M in\nfunding from leading investors including ICONIQ Growth,\nTheory Ventures, First Round Capital, Redpoint Ventures,\nGoogle Ventures, Snowflake Ventures, and Databricks\nVentures.\n\nAbout the Role\n\nThis role is focused on building interfaces and capabilities\nfor our AI-powered analytics service, giving you the chance\nto design intelligent workflows and build AI-assisted tools.\n\nYou'll be working on a team with deep experience in the\nfield, and you'll have the autonomy to prioritize and solve\nproblems by yourself or in collaboration with other members\nof the team.\n\nAll software engineers at Omni operate across our technology\nstack to solve customer problems, and our engineering\nculture is focused on shipping quickly and iteratively while\nmaintaining high bars for performance and quality.\n\nRecent projects include:\n\n- Full-fledged spreadsheets inside of BI\n- An MCP server for Blobby, our AI chat bot that writes\n  queries within the guard rails of a semantic data model\n- CSV uploads\n- Writing data to Google Sheets\n\nQualifications\n\n- Strong technical and communication skills\n- 3-10+ years of experience building production software,\n  proficiency in TypeScript or JavaScript\n- Strategic thinking and the ability to balance business and\n  product goals with velocity and engineering excellence\n- Experience using analytical tools (e.g., SQL, Looker,\n  Tableau, Mode, Amplitude, Google Analytics)\n\nNice to have\n\n- Experience building data products and AI-ready interfaces\n- Familiarity with data warehouses like Snowflake, BigQuery,\n  Redshift\n- Experience with AI/ML integrations or exposure to building\n  AI-assisted features\n\nOur stack:\n\n- TypeScript\n- React with Remix\n- Kotlin / Java\n- AWS\n\nWhy Join Us\n\n- We're a passionate, close-knit team with extensive\n  experience in the space, including founders from Looker\n  and Stitch Data\n- Competitive salary & equity package\n- Paid parental leave\n- Health, dental, and vision insurance\n- 401(k) Plan\n",
+  "skills_required": [
+    "AI-assisted features",
+    "MCP (Model Context Protocol)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build interfaces and capabilities for AI-powered analytics service",
+    "Design intelligent workflows and AI-assisted tools",
+    "Work across the technology stack to solve customer problems",
+    "Collaborate with team members to ship features quickly and iteratively",
+    "Maintain high bars for performance and quality in production software",
+    "Integrate AI features and data tools into the platform"
+  ],
+  "use_cases": [
+    "Self-service business intelligence and analytics",
+    "AI-assisted data exploration and query writing",
+    "Customer-facing data products and analytics",
+    "Multi-modal data access through spreadsheets, SQL, or point-and-click",
+    "Semantic layer for consistent, trustworthy data access across AI and traditional tools"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "BigQuery",
+    "React",
+    "Redshift",
+    "Remix",
+    "SQL",
+    "Snowflake"
+  ],
+  "frameworks_mentioned": [
+    "AI-assisted features",
+    "MCP (Model Context Protocol)"
+  ],
+  "languages_programming": [
+    "Java",
+    "JavaScript",
+    "Kotlin",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a frontend software engineer role building\ninterfaces and workflows for an AI-powered analytics\nservice, but the description focuses on building UI\ncapabilities rather than directly building, training, or\ndeploying AI/ML models. The engineer works on features like\nspreadsheets, CSV uploads, and integrating AI tools like\ntheir chat bot, but the actual AI model work is handled\nseparately.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP (Model Context Protocol)",
+      "AI-assisted features"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "Remix"
+    ],
+    "databases": [
+      "SQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Snowflake",
+      "BigQuery",
+      "Redshift"
+    ],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Kotlin",
+      "Java"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

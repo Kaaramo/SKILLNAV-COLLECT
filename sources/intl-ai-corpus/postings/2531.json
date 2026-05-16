@@ -1,0 +1,104 @@
+{
+  "job_id": "intl-ai-corpus-2531",
+  "source": "intl-ai-corpus",
+  "source_ref": "8692301",
+  "source_url": "https://builtin.com/job/python-developer/8692301",
+  "title": "Python Developer - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Global",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-14",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "4,150 Employees",
+  "company_stage": "Public",
+  "company_focus": "Media and entertainment company with AI-driven advertising\nintelligence platform",
+  "industries": [],
+  "description": "Accepting applications until: 24 April 2026Job\nDescriptionPython Developer\n\nReporting of the Role This role reports to the Python\nDeveloper\n\nOverview of job This role is part of our Global:IQ team, the\ngroup developing our new intelligence platform. Global:IQ\nbrings together a suite of 1st party and partner data, tools\nand capabilities to turn data into audience understanding\nand optimised, data-led media plans. Using a combination of\ndata science, machine learning & AI techniques, it supports\nsmarter targeting across Global’s audio and out-of-home\ninventory, optimises advertising creatives and automates the\ntracking of outcomes for advertisers through the acquisition\nfunnel—from building awareness and consideration to driving\naction.\n\nAs a Python Engineer, you will be the technical backbone of\nthis initiative, building the scalable backend systems that\nallow our AI and machine learning models to run efficiently\nand effectively in production.\n\n3 best things about the job\n\nBuild the Future: You aren't just maintaining legacy code;\nyou are building the \"brain\" of the company, working on end-\nto-end AI and data developments that directly impact how we\ndeliver media.\n\nStartup Mindset, Enterprise Scale: You get the best of both\nworlds—the autonomy and fast-paced culture of a startup\nenvironment, backed by the data assets and resources of a\nmajor media and entertainment company.\n\nModern Tech Stack: You will be working with the tools you\nlove—Python, FastAPI, Postgres, and Snowflake—without being\nbogged down by outdated systems.\n\nMeasures of success\n\nIn the first few months, you would have:\n\n- Gained a comprehensive understanding of the Global:IQ\n  architecture and data flows.\n- Delivered first outcomes at pace into production with an eye\n  to modern AI-enabled development methodology.\n- Contributed considerably in bringing our new Global:IQ\n  product offering to production.\n- Established yourself as a technical leader within the team,\n  advocating for best practices in software development.\n\nKey Responsibilities of the Role\n\n- Backend Engineering (50%): Design, build, and maintain\n  robust APIs and microservices using Python, FastAPI, and\n  Postgres to power the Global:IQ platform.\n- Data Engineering (20%): Deliver high-level data engineering\n  solutions and pipelines that support Global:IQ’s AI and\n  analytics use cases.\n- Infrastructure & Data Warehousing (30%): Architect and\n  manage integrations with cloud platforms (AWS) and data\n  warehouses, specifically Snowflake, ensuring data\n  accessibility and query performance.\n\nWhat you will need\n\n- Experience: 3+ years of experience in backend engineering.\n- Tech Stack: Strong proficiency in Python, with specific\n  experience in FastAPI and Postgres.\n- Data Leadership: Proven experience in leading data and AI-\n  driven projects from conception to deployment.\n- Cloud Data: Hands-on experience with cloud platforms and\n  data warehouses, specifically Snowflake.\n\nPreferred / Bonus:\n\n- Data-Adjacent Experience: A strong understanding of how to\n  build engineering systems that support data workflows.\n- AI/ML Depth: Experience with end-to-end development of AI or\n  Machine Learning features.\n- Mindset: Startup or highly accountable team experience. You\n  are comfortable with ambiguity, move fast, and focus on\n  shipping value.\n- Agentic and AI-accelerated engineering: You are capable with\n  using agentic coding tools and able to deliver outcomes\n  effectively into production with tools like Claude Code,\n  Codex, etc.\n- Domain Passion: You should love the challenge of using data\n  & intelligence to drive ad campaign efficiency and\n  demonstrate the value of the investment in the media.\n",
+  "skills_required": [
+    "Agentic coding tools (Claude Code, Codex)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain robust APIs and microservices using Python, FastAPI, and Postgres to power the Global:IQ platform",
+    "Deliver data engineering solutions and pipelines that support AI and analytics use cases",
+    "Architect and manage integrations with cloud platforms (AWS) and data warehouses (Snowflake)",
+    "Ensure data accessibility and query performance across the platform",
+    "Contribute to bringing the Global:IQ product offering to production",
+    "Advocate for best practices in software development and modern AI-enabled development methodology",
+    "Use agentic coding tools and AI-accelerated engineering to deliver outcomes effectively into production"
+  ],
+  "use_cases": [
+    "Audience understanding and data-led media plan optimization",
+    "Smarter targeting across audio and out-of-home advertising inventory",
+    "Advertising creative optimization",
+    "Automated tracking of advertiser outcomes through the acquisition funnel (awareness, consideration, action)"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Data pipeline development",
+    "FastAPI",
+    "Microservices architecture",
+    "Postgres",
+    "REST API design",
+    "Snowflake"
+  ],
+  "frameworks_mentioned": [
+    "Agentic coding tools (Claude Code, Codex)"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is primarily a backend/data engineering position\nthat builds the infrastructure and data pipelines to support\nAI/ML models. The engineer works ON the systems that allow\nAI/ML models to run in production, but does not directly\nbuild, train, fine-tune, or deploy models themselves. The\nresponsibilities focus on APIs, microservices, data\nengineering, and cloud/data warehouse integrations.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Agentic coding tools (Claude Code, Codex)"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Microservices architecture",
+      "REST API design"
+    ],
+    "databases": [
+      "Postgres",
+      "Snowflake"
+    ],
+    "data": [
+      "Data pipeline development"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

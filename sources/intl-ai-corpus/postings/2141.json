@@ -1,0 +1,155 @@
+{
+  "job_id": "intl-ai-corpus-2141",
+  "source": "intl-ai-corpus",
+  "source_ref": "8776859",
+  "source_url": "https://builtin.com/job/staff-ai-ml-engineer/8776859",
+  "title": "Staff AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "RingCentral",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "7,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud communications and collaboration platform with AI-\npowered features",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Events",
+    "Productivity",
+    "Software",
+    "Business Intelligence",
+    "Conversational AI"
+  ],
+  "description": "We are seeking an experienced AI Engineer with a strong\nbackground in Natural Language Understanding (NLU) who is\npassionate about pushing the boundaries of Conversational\nAI. In this role, you will design, develop, and deploy\nscalable AI solutions leveraging LLMs, Retrieval-Augmented\nGeneration (RAG), and prompt engineering techniques to power\nintelligent products and services.\n\nAs part of our ML/AI team, you’ll own the full lifecycle of\nmodel development — from data preparation and fine-tuning to\ninference optimization and deployment in production\nenvironments.\n\nResponsibilities:\n\n- Design, fine-tune, and deploy LLM-based applications for\n  Conversational AI use cases\n- Build scalable retrieval-augmented generation (RAG)\n  pipelines that combine LLMs with structured/unstructured\n  data sources\n- Develop prompt engineering strategies, templates, and\n  evaluation frameworks for LLM-driven workflows\n- Collaborate with cross-functional teams to identify and\n  implement AI-driven solutions to business problems\n- Optimize models for low-latency inference using\n  quantization, distillation, and other model optimization\n  techniques (e.g., ONNX, TensorRT)\n- Build robust data processing, labeling, and augmentation\n  pipelines to improve model performance\n- Implement monitoring and evaluation systems for deployed\n  LLMs, ensuring reliability, fairness, and safety\n- Stay current with emerging trends in LLMs, retrieval\n  systems, and generative AI frameworks\n\nRequirements:\n\n- 8+ years of hands-on experience in NLU\n- Strong proficiency in Python and PyTorch and related\n  frameworks (like Hugging Face Transformers, Sentence\n  Transformers etc.)\n- Proven experience developing and deploying NLP or LLM\n  pipelines in production environments at scale\n- Solid understanding of transformer architectures and\n  attention mechanisms\n- Proficiency in using LLM provider APIs such as OpenAI,\n  Gemini etc.including prompt design, fine-tuning, and\n  evaluation\n- Experience with model optimization techniques such as\n  quantization, pruning, ONNX, TensorRT, or model\n  distillation\n- Bachelor’s or Master’s degree in Computer Science,\n  Artificial Intelligence, or a related field\n\nNice to Have:\n\n- Hands-on experience with RAG and vector databases (e.g.,\n  FAISS, Qdrant, pgVector etc. )\n- Prior work on LLM fine-tuning, alignment, or evaluation\n- Experience with LLM orchestration frameworks such as\n  LlamaIndex or similar tools\n- Familiarity with multi-provider LLM orchestration,\n  integrating APIs from OpenAI, Gemini etc. and others for\n  fallbacks, routing, or ensemble strategies\n- Knowledge of MLOps for LLMs, including model serving and\n  monitoring\n- Understanding of embedding models, context management, and\n  token optimization for scalable LLM applications\n",
+  "skills_required": [
+    "Embedding models",
+    "Gemini API",
+    "Hugging Face Transformers",
+    "LLMs",
+    "LlamaIndex",
+    "Model distillation",
+    "Model fine-tuning",
+    "OpenAI API",
+    "Prompt Engineering",
+    "PyTorch",
+    "Quantization",
+    "Retrieval-Augmented Generation (RAG)",
+    "Sentence Transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, fine-tune, and deploy LLM-based applications for Conversational AI use cases",
+    "Build scalable retrieval-augmented generation (RAG) pipelines combining LLMs with structured/unstructured data sources",
+    "Develop prompt engineering strategies, templates, and evaluation frameworks for LLM-driven workflows",
+    "Collaborate with cross-functional teams to identify and implement AI-driven solutions to business problems",
+    "Optimize models for low-latency inference using quantization, distillation, and optimization techniques",
+    "Build robust data processing, labeling, and augmentation pipelines to improve model performance",
+    "Implement monitoring and evaluation systems for deployed LLMs ensuring reliability, fairness, and safety"
+  ],
+  "use_cases": [
+    "Conversational AI systems",
+    "Retrieval-augmented generation pipelines",
+    "Natural Language Understanding applications",
+    "Intelligent products and services",
+    "LLM-driven workflows with prompt engineering"
+  ],
+  "tools_mentioned": [
+    "FAISS",
+    "MLOps",
+    "Model serving and monitoring",
+    "ONNX",
+    "Qdrant",
+    "TensorRT",
+    "Vector databases",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Embedding models",
+    "Gemini API",
+    "Hugging Face Transformers",
+    "LLMs",
+    "LlamaIndex",
+    "Model distillation",
+    "Model fine-tuning",
+    "OpenAI API",
+    "Prompt Engineering",
+    "PyTorch",
+    "Quantization",
+    "Retrieval-Augmented Generation (RAG)",
+    "Sentence Transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves direct hands-on work building, fine-\ntuning, and deploying LLM-based systems including RAG\npipelines, prompt engineering, and model optimization. The\nposition owns the full model lifecycle from data preparation\nto production deployment, which is core AI-first work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "Retrieval-Augmented Generation (RAG)",
+      "Prompt Engineering",
+      "OpenAI API",
+      "Gemini API",
+      "LlamaIndex"
+    ],
+    "ml": [
+      "PyTorch",
+      "Hugging Face Transformers",
+      "Sentence Transformers",
+      "Model fine-tuning",
+      "Quantization",
+      "Model distillation",
+      "Embedding models"
+    ],
+    "web": [],
+    "databases": [
+      "FAISS",
+      "Qdrant",
+      "pgvector",
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "ONNX",
+      "TensorRT",
+      "MLOps",
+      "Model serving and monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLU",
+      "NLP",
+      "Transformer architectures"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

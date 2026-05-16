@@ -1,0 +1,49 @@
+company:
+  name: Yakeey
+  stage: null
+  focus: null
+position:
+  title: Data Engineer Lead
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases:
+  - Data pipeline engineering
+  - Dashboarding & reporting
+  skills:
+    genai:
+    - agents
+    - llm
+    - llms
+    - mcp
+    - rag
+    ml: []
+    web:
+    - next
+    databases:
+    - postgres
+    data:
+    - data lake
+    - data warehouse
+    - dbt
+    - pipeline
+    - prefect
+    - redshift
+    - sql
+    cloud:
+    - aws
+    - s3
+    ops:
+    - ci/cd
+    languages:
+    - java
+    - python
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '4409335662'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

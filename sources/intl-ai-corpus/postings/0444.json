@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-0444",
+  "source": "intl-ai-corpus",
+  "source_ref": "8031582",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/8031582",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Spara",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-13",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "13 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Enterprise AI agents for sales lead conversion",
+  "industries": [],
+  "description": "About Spara\n\nSpara is building enterprise-grade AI agents to instantly\nengage, qualify, & convert sales leads into pipeline &\nrevenue. We believe every company will soon provide AI-\npowered, human-level sales conversations to their\ncustomers—and we’re building the platform to make that\npossible.\n\nSales is the economic engine of every company, representing\nan addressable market of $28B. We're solving this complex,\nhigh revenue problem with a multi-modal approach including\nchat, email, voice, and beyond. This gives us a significant\nadvantage in the market and presents exciting engineering\nopportunities.\n\nWe are a tight-knit, experienced team building a multi-\nbillion dollar AI-first company in the heart of New York\nCity. Our culture emphasizes thoughtful decisions,\nsustainable development practices, and steady momentum\nbuilding on deep expertise.\n\nSpara is backed by $15M in funding from top-tier venture\ncapital firms, led by Radical Ventures & Inspired Capital,\nand supported by AI luminaries including founders of PyTorch\nand Google Cloud TPU, as well as Heads of Sales at Anthropic\nand OpenAI.\n\nWe are led by seasoned multi-time founders with deep AI and\ngo-to-market expertise:\n\n- David, previous co-founder/CEO of Triplemint, ran training,\n  coaching, and operations for a 250 person sales team. He\n  led Triplemint to acquisition and currently sits on the\n  board of The Agency RE, a $250M revenue business.\n- Zander was technical co-founder of Nomad Health (now post-\n  Series D). He most recently led Platform at Hyperscience\n  AI, developing workflow orchestration systems for computer\n  vision models.\n\nThis Role\n\nAs a Staff ML Engineer at Spara, you will:\n\n- Architect and build Spara’s AI engine, powering seamless,\n  intelligent interactions across chat, email, voice, and\n  beyond\n- Define quantitative success criteria for Spara's behavior\n  across multiple dimensions, running online and offline\n  evaluations to achieve and maintain best-in-class\n  performance and reliability\n- Craft exceptional user experiences by prompt engineering,\n  fine-tuning, and orchestrating foundation models to\n  deliver precise, engaging, and personalized interactions\n- Operate with a high degree of autonomy while collaborating\n  closely with leadership to shape the product roadmap and\n  technical vision\n- Drive innovation by staying current with best practices and\n  emerging trends in AI application development\n- Deliver outsized impact by deeply understanding customer\n  needs and identifying opportunities to be a force-\n  multiplier across our team of experienced engineers\n- Contribute to our culture of sustainable innovation,\n  collaboration, and continuous improvement\n\nSpara is built with a cutting-edge stack\n\nWe ship to production multiple times a day, and continuously\nadopt modern tooling and practices to move quickly while\nmaintaining quality.\n\n- FastAPI / Python\n- React / Typescript, Vite, Tailwind\n- Postgres + pgvector\n- Multiple foundation models, including OpenAI and Anthropic\n- Google Cloud, Docker\n- GitHub Actions\n\nQualifications\n\n- 5+ years engineering experience, including a strong focus or\n  demonstrated deep interest in the rapidly emerging\n  landscape of large language models and related\n  technologies\n- Proven track record designing and deploying sophisticated\n  ML/AI systems in production environments to drive\n  measurable business impact\n- Strong grasp of software development methodologies, modern\n  tooling, and technologies across the stack\n- Proven ability to thrive in early-stage, agile environments\n  and define solutions in the face of ambiguity and\n  uncertainty\n- Excellent communication and interpersonal skills, with the\n  ability to effectively collaborate with both technical and\n  non-technical stakeholders\n- Advanced degree in Machine Learning is nice to have but not\n  a must\n\nLocation & Work Schedule\n\n- Hybrid: 3 days per week in our office in downtown Manhattan,\n  with the option to work remotely on Wednesdays and Fridays\n\nBenefits\n\n- Competitive salary and comprehensive benefits package\n- Sustainable work culture that values focused work and\n  professional growth\n- Collaborative environment with experienced engineers solving\n  cutting-edge challenges\n- In-office culture in NYC with flexibility for work-life\n  balance\n- Opportunity to create measurable, real-world impact from day\n  one\n",
+  "skills_required": [
+    "Anthropic API",
+    "OpenAI API",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and build Spara's AI engine powering intelligent interactions across chat, email, and voice",
+    "Define quantitative success criteria and run online and offline evaluations to maintain performance and reliability",
+    "Craft exceptional user experiences through prompt engineering, fine-tuning, and orchestrating foundation models",
+    "Collaborate with leadership to shape product roadmap and technical vision with high degree of autonomy",
+    "Drive innovation by staying current with best practices and emerging trends in AI application development",
+    "Deeply understand customer needs to identify opportunities and act as a force-multiplier across the engineering team"
+  ],
+  "use_cases": [
+    "Multi-modal AI sales agents engaging leads across chat, email, and voice channels",
+    "Automated qualification and conversion of sales leads into pipeline and revenue",
+    "Personalized, human-level AI conversations with customers at scale",
+    "Intelligent sales conversation platform replacing traditional human sales interactions"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "FastAPI",
+    "GitHub Actions",
+    "Google Cloud",
+    "Postgres",
+    "React",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "OpenAI API",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves directly building AI agents that power\nmulti-modal sales interactions (chat, email, voice) through\nprompt engineering, fine-tuning, and orchestrating\nfoundation models. This is hands-on work with LLMs to create\nautonomous AI systems, not just supporting infrastructure or\ndata pipelines.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "prompt engineering"
+    ],
+    "ml": [
+      "fine-tuning"
+    ],
+    "web": [
+      "FastAPI",
+      "React"
+    ],
+    "databases": [
+      "Postgres",
+      "pgvector"
+    ],
+    "data": [],
+    "cloud": [
+      "Google Cloud"
+    ],
+    "ops": [
+      "Docker",
+      "GitHub Actions"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

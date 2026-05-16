@@ -1,0 +1,36 @@
+company:
+  name: Coface
+  stage: null
+  focus: null
+position:
+  title: Data Scientist / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web:
+    - react
+    databases: []
+    data:
+    - airflow
+    cloud: []
+    ops:
+    - ci/cd
+    - docker
+    - kubernetes
+    languages:
+    - java
+    - python
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1009916297045'
+  extracted_at: '2026-05-16T01:27:45+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

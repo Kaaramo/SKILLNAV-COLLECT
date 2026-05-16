@@ -1,0 +1,132 @@
+{
+  "job_id": "intl-ai-corpus-2129",
+  "source": "intl-ai-corpus",
+  "source_ref": "8771875",
+  "source_url": "https://builtin.com/job/ai-engineer/8771875",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Distyl AI",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "45 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Applied AI technology company building AI-native operations\nfor Fortune 500 enterprises",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "About Distyl AI\n\nDistyl is an applied AI technology company partnering with\nthe world’s most ambitious institutions to rearchitect\ncritical operations for the frontier of AI. Our customers\ninclude the largest companies in telecom, healthcare,\ninsurance, manufacturing, consumer goods, and global social\norganizations. We research and deploy technologies that\npower AI-native operations — both for our partners and for\nDistyl itself. Our work spans research into self-\nconstructing systems, the development of the most reliable\nexecution of AI systems, and products that transform\nmission-critical workflows. As a result, Distyl's\ntechnologies affect some of the world's largest operations —\nfrom hundreds of millions of consumer interactions to tens\nof millions of supply chain transactions and millions of\npatient journeys. Distyl is backed by leading investors\nincluding Lightspeed Venture Partners, Khosla Ventures,\nCoatue, DST Global, and the board-members of 20+ F500s. The\nresults reflect this approach: a 100% production deployment\nsuccess rate for our customers and one of the few enterprise\nAI companies to run a profitable business.\n\nWhat We’re Looking For\n\nWe’re opening an office in London, UK and looking for AI\nEngineers to design and deploy production-grade AI systems\npowered by LLMs.\n\nAt Distyl, AI Engineers work directly with Fortune 500\ncompanies to transform complex workflows using cutting-edge\nAI. You’ll build and ship real-world AI applications — from\nintelligent agents to full-stack AI products — and see them\noperate at scale in mission-critical environments.\n\nThis role is highly hands-on. You’ll collaborate closely\nwith customers, define system architectures, and build\nreliable, high-impact AI systems from prototype to\nproduction. Engineers at Distyl also help shape technical\ndirection across major customer engagements, guiding\nenterprise teams through AI adoption and deployment.\n\nKey Responsibilities\n\n- Build Production AI Systems: Design, develop, and deploy\n  robust AI applications using LLMs, including prompt\n  engineering, agent workflows, tool use, and full-stack AI\n  products\n- Work Directly with Customers: Partner closely with\n  enterprise stakeholders to understand complex problems and\n  translate them into impactful AI solutions\n- Lead System Architecture: Design scalable architectures for\n  production AI systems, balancing performance, reliability,\n  cost, and maintainability\n- Develop Our Internal Platform: Contribute to Distillery, our\n  internal LLM application platform, by building reusable\n  infrastructure, tools, and workflows used across customer\n  deployments\n- Evaluate AI Systems Rigorously: Develop evaluation\n  frameworks that measure model performance across accuracy,\n  latency, cost, reliability, and safety\n- Ship Production-Grade Systems: Ensure systems meet high\n  standards for observability, reliability, security, and\n  maintainability\n- Raise the Engineering Bar: Improve development workflows,\n  evaluation practices, and deployment strategies as our AI\n  platform continues to evolve\n\nWho You Are\n\n- 3+ years of professional software engineering experience\n- Strong proficiency in Python or TypeScript\n- Experience building and deploying LLM-powered applications\n  or AI agents in production\n- Experience with modern LLM tooling such as LangChain,\n  LlamaIndex, Guardrails, MCP, or agent frameworks\n- Experience implementing RAG pipelines, tool use, or multi-\n  step AI workflows\n- Strong understanding of AI system evaluation, debugging, and\n  observability\n- Experience building reliable production systems with modern\n  DevOps practices\n- Experience deploying AI systems in enterprise environments\n  is a plus\n- Experience working across cloud platforms (AWS, GCP, or\n  Azure) is a plus\n- Experience with agent architectures and long-horizon task\n  execution is a plus\n- Familiarity with responsible AI practices, including\n  auditability and governance is a plus\n\nWhat We Offer\n\n- Competitive salary, meaningful equity, and a comprehensive\n  benefits package\n- Workplace Pension Scheme with employer contributions\n- Private Medical Insurance (PMI) offered\n- Generous holiday allowance\n- Lunch provided on office days\n- Access to state-of-the-art models, generous usage of modern\n  AI tools, and real-world business problems\n- Ownership of high-impact projects across top enterprises\n- A mission-driven, fast-moving culture that prizes curiosity,\n  pragmatism, and excellence\n",
+  "skills_required": [
+    "Agent frameworks",
+    "Agent workflows",
+    "Guardrails",
+    "LLM application development",
+    "LangChain",
+    "LlamaIndex",
+    "MCP",
+    "Prompt engineering",
+    "RAG pipelines",
+    "Tool use"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and deploy robust AI applications using LLMs, including prompt engineering, agent workflows, tool use, and full-stack AI products",
+    "Partner closely with enterprise stakeholders to understand complex problems and translate them into impactful AI solutions",
+    "Design scalable architectures for production AI systems, balancing performance, reliability, cost, and maintainability",
+    "Contribute to Distillery internal LLM application platform by building reusable infrastructure, tools, and workflows",
+    "Develop evaluation frameworks that measure model performance across accuracy, latency, cost, reliability, and safety",
+    "Ensure systems meet high standards for observability, reliability, security, and maintainability",
+    "Improve development workflows, evaluation practices, and deployment strategies"
+  ],
+  "use_cases": [
+    "Intelligent agents for enterprise workflow automation",
+    "Mission-critical operations transformation using AI",
+    "Consumer interaction automation at massive scale",
+    "Supply chain transaction processing",
+    "Healthcare patient journey optimization",
+    "Enterprise AI system deployment for Fortune 500 companies"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "DevOps",
+    "GCP",
+    "Observability tools"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "Agent workflows",
+    "Guardrails",
+    "LLM application development",
+    "LangChain",
+    "LlamaIndex",
+    "MCP",
+    "Prompt engineering",
+    "RAG pipelines",
+    "Tool use"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is ai-first because the role involves directly building\nand deploying LLM-powered AI systems, including agent\nworkflows, prompt engineering, and full-stack AI products.\nThe engineer works hands-on with LLMs, RAG pipelines, and AI\nagents in production environments, not just supporting\ninfrastructure for others' AI work.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "Guardrails",
+      "MCP",
+      "Agent frameworks",
+      "RAG pipelines",
+      "Prompt engineering",
+      "Tool use",
+      "Agent workflows",
+      "LLM application development"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "DevOps",
+      "Observability tools"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

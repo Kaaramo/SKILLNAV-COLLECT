@@ -1,0 +1,162 @@
+{
+  "job_id": "intl-ai-corpus-1397",
+  "source": "intl-ai-corpus",
+  "source_ref": "8435734",
+  "source_url": "https://www.builtinla.com/job/ai-integration-engineer-ai-ml/8435734",
+  "title": "AI Integration Engineer, AI/ML",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Viral Nation",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-08",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Unknown",
+  "company_focus": "Social-first ecosystems for brand marketing and influencer\nmarketing",
+  "industries": [],
+  "description": "At Viral Nation, we specialize in building social-first\necosystems for brands to connect with the modern consumer\njourney. Our integrated solutions align strategy, talent,\nmedia, and technology with culturally relevant creativity to\nscale the world’s fastest-growing digital brands. Viral\nNation offers a fluid, creative, and growth-oriented\nenvironment that will support your ambitions to apply your\ntalents in an open, collaborative, and fast-paced culture.\nOur ability to stay at the forefront of the industry has\nfuelled our success and will guide us in paving the path\nforward. We’re driven to push boundaries and think beyond\ntoday to deliver strategies, and we’re just getting started.\n\nWhile we continuously exceed our goals, we need your help –\nour success is only as great as our people. Strong\nperformance leads to high expectations, and we must keep\nraising the bar!\n\nViral Nation is seeking an AI Integration Engineer, AI/ML to\nserve as the primary technical engine translating high-level\narchitectural visions into production-ready reality.\nReporting directly to the Principal Architect, AI/ML and VP\nof Engineering, you will be responsible for the hands-on\ndevelopment, integration, and deployment of AI/ML models and\nagentic workflows within our GCP ecosystem.\n\nWhat You'll Do Here:\n\n- You will transform the Principal Architect’s reference\n  architectures into scalable, deployable code using Python,\n  GKE, and Cloud Run.\n- Your primary focus involves building out agentic ecosystems\n  using Google ADK (Agent Development Kit) and Model Context\n  Protocol (MCP), specifically focusing on the Agent-to-\n  Agent (A2A) orchestration patterns defined by the\n  Architect.\n- You will apply advanced prompt engineering and context\n  engineering techniques to optimize LLM performance,\n  ensuring agents maintain state and accuracy over long\n  interactions.\n- You will develop and tune high-fidelity RAG pipelines using\n  the Google RAG Engine and Agent Engine to ensure agents\n  have the precise context required for influencer marketing\n  workflows.\n- The role requires applying machine learning techniques to\n  our massive datasets to implement automated anomaly\n  detection, forecasting, and trend analysis.\n- You will perform advanced data science and analysis by\n  generating and querying high-dimensional video and text\n  embeddings to extract insights from social media content.\n- You will integrate Gemini and Model Garden LLMs into\n  production applications while managing the technical\n  nuances of token limits and context window optimization.\n- Partnering with the Architect, you will implement MLOps\n  practices that track agent performance, cost-efficiency,\n  and ethical AI safeguards within the GCP IAM framework.\n\nWhat You'll Need To Have:\n\n- Advanced proficiency in Python is required for AI/ML backend\n  development, data analysis, and API construction.\n- You must possess a deep understanding of prompt engineering\n  strategies (Chain-of-Thought, ReAct) and context\n  engineering to maximize model reasoning capabilities.\n- The position demands deep hands-on experience with Google\n  ADK, MCP, Vertex AI Pipelines, and the Google RAG Engine.\n- You should have practical experience applying classical ML\n  algorithms for regression, forecasting, and anomaly\n  detection on large-scale datasets.\n- The role requires a strong understanding of vector databases\n  and the manipulation of video/text embeddings for semantic\n  search and classification.\n- Deep experience with utilizing GitHub Actions to support the\n  SDLC workflows and CI/CD standards established by the\n  Principal Architect.\n\nNice To Haves\n\n- Experience utilizing Snowflake Cortex Analyst, Cortex\n  Search, and Snowflake Intelligence ecosystem.\n- Proficiency in Node.js for full-stack integration layer and\n  tool development is highly regarded.\n- Prior experience in the digital marketing or influencer\n  marketing space is a significant advantage.\n- Experience with containerization and orchestration using\n  Docker and GKE will help scale our autonomous systems.\n\nCompensation Philosophy:\n\nAt Viral Nation, compensation is structured, performance-\nled, and market-aligned. Pay decisions are intentional,\nbased on role requirements, performance, and market\nalignment by country, and are set to maintain internal pay\nequity across comparable roles and levels.\n\nCompensation progression is tied to demonstrated\nperformance, expanded scope, and sustained contribution over\ntime, not tenure alone. Employee compensation is reviewed\nregularly through formal performance reviews and check-ins\nto ensure alignment with role expectations and impact.\n\n\n\nAI in Recruitment:\n\n\n\nViral Nation does not use AI-enabled tools to screen,\nassess, rank, or select candidates in our recruitment\nprocess. Our hiring teams make all hiring decisions.\n\nDEI Commitment:\n\nViral Nation is committed to diversity, equity and inclusion\nin our agency. Viral Nation welcomes applications from\npeople with visible and non-visible disabilities.\nAccommodations are available on request for candidates\ntaking part in all aspects of the recruiting and selection\nprocess.\n",
+  "skills_required": [
+    "Anomaly detection",
+    "Chain-of-Thought prompting",
+    "Classical ML algorithms",
+    "Embeddings",
+    "Forecasting",
+    "Gemini LLM",
+    "Google ADK (Agent Development Kit)",
+    "Google Agent Engine",
+    "Google Model Garden",
+    "Google RAG Engine",
+    "Model Context Protocol (MCP)",
+    "Prompt Engineering",
+    "RAG (Retrieval Augmented Generation)",
+    "ReAct prompting",
+    "Regression analysis"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Transform reference architectures into scalable, deployable code using Python, GKE, and Cloud Run",
+    "Build agentic ecosystems using Google ADK and Model Context Protocol (MCP) with Agent-to-Agent orchestration patterns",
+    "Apply advanced prompt engineering and context engineering techniques to optimize LLM performance",
+    "Develop and tune high-fidelity RAG pipelines using Google RAG Engine and Agent Engine for influencer marketing workflows",
+    "Apply machine learning techniques for automated anomaly detection, forecasting, and trend analysis on large datasets",
+    "Generate and query high-dimensional video and text embeddings to extract insights from social media content",
+    "Integrate Gemini and Model Garden LLMs into production applications with token limit and context window optimization",
+    "Implement MLOps practices to track agent performance, cost-efficiency, and ethical AI safeguards"
+  ],
+  "use_cases": [
+    "Influencer marketing workflow automation",
+    "Social media content analysis and insights extraction",
+    "Automated anomaly detection in marketing data",
+    "Trend forecasting and analysis",
+    "Semantic search and classification of video and text content"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Cloud Run",
+    "Docker",
+    "GCP (Google Cloud Platform)",
+    "GCP IAM",
+    "GKE (Google Kubernetes Engine)",
+    "GitHub Actions",
+    "MLOps",
+    "Snowflake Cortex Analyst",
+    "Snowflake Cortex Search",
+    "Vector Databases",
+    "Vertex AI Pipelines"
+  ],
+  "frameworks_mentioned": [
+    "Anomaly detection",
+    "Chain-of-Thought prompting",
+    "Classical ML algorithms",
+    "Embeddings",
+    "Forecasting",
+    "Gemini LLM",
+    "Google ADK (Agent Development Kit)",
+    "Google Agent Engine",
+    "Google Model Garden",
+    "Google RAG Engine",
+    "Model Context Protocol (MCP)",
+    "Prompt Engineering",
+    "RAG (Retrieval Augmented Generation)",
+    "ReAct prompting",
+    "Regression analysis"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on development and deployment of\nAI/ML models, agentic workflows, and RAG pipelines. The\nengineer will build agent ecosystems using Google ADK/MCP,\nimplement LLM integrations with Gemini, and develop RAG\npipelines - all core AI/ML implementation work, not support\nfunctions.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Google ADK (Agent Development Kit)",
+      "Model Context Protocol (MCP)",
+      "Prompt Engineering",
+      "RAG (Retrieval Augmented Generation)",
+      "Gemini LLM",
+      "Google Model Garden",
+      "Google RAG Engine",
+      "Google Agent Engine",
+      "Chain-of-Thought prompting",
+      "ReAct prompting"
+    ],
+    "ml": [
+      "Classical ML algorithms",
+      "Regression analysis",
+      "Forecasting",
+      "Anomaly detection",
+      "Embeddings"
+    ],
+    "web": [],
+    "databases": [
+      "Vector Databases",
+      "Snowflake Cortex Analyst",
+      "Snowflake Cortex Search"
+    ],
+    "data": [],
+    "cloud": [
+      "Vertex AI Pipelines",
+      "GKE (Google Kubernetes Engine)",
+      "Cloud Run",
+      "GCP (Google Cloud Platform)",
+      "GCP IAM"
+    ],
+    "ops": [
+      "GitHub Actions",
+      "CI/CD",
+      "MLOps",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

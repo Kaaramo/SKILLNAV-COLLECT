@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-0177",
+  "source": "intl-ai-corpus",
+  "source_ref": "7316269",
+  "source_url": "https://builtin.com/job/staff-software-engineer-big-data-gen-ai/7316269",
+  "title": "Staff Software Engineer - Big Data (Gen AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Extreme Networks",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-17",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,661 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud-driven networking solutions",
+  "industries": [],
+  "description": "Over 50,000 customers globally trust our end-to-end, cloud-\ndriven networking solutions. They rely on our top-rated\nservices and support to accelerate their digital\ntransformation efforts and deliver unprecedented progress.\nWith double-digit growth year over year, no provider is\nbetter positioned to deliver scalable outcomes than Extreme.\n\nInclusion is one of our core values and in our DNA. We are\ncommitted to fostering an inclusive workplace that embraces\nour differences and creates an atmosphere where all our\nemployees thrive because of their differences, not in spite\nof them.\n\nBecome part of Something big with Extreme! As a global\nnetworking leader, learn why there’s no better time to join\nthe Extreme team.\n\nPosition: Staff Software Engineer - Big Data (Gen AI)\n\nExperience: 8 to 13 Years\n\nLocation: Remote/US\n\n\n\nJob Responsibilities:\n\n\n\n·        Be a thought leader and forward thinker, help drive\nan innovative vision for our various products and platforms,\ndesign and launch strategic machine learning (ML) solutions\nand drive business-wide innovation.\n\n·        Take the lead in the end-to-end software\ndevelopment lifecycle, encompassing design, testing,\ndeployment, and operations, lead technical discussions and\nstrategy, and participate hands-on in design reviews, code\nreviews, and implementation.\n\n·        Craft high-performance, Big Data Lakehouse\narchitectures such as Hudi, Delta or Iceberg.\n\n·        Develop Big Data Platform to solve big data\npipeline and processing.\n\n·        Mentor and develop other engineers on the team,\nestablish technical direction and foster team culture.\n\n·        Uphold the highest standards of technical rigor in\nengineering and operational excellence, build highly\nresilient and scalable systems, and champion operational and\nprocess improvements.\n\n\n\nBasic Qualifications:\n\n\n\n·        Degree in mathematics/computer science or related\ndiscipline.\n\n·        5+ years of experience in the complete software\ndevelopment lifecycle including design, coding, code\nreviews, testing, build processes, deployments, and\noperations.\n\n·        4+ years of experience in Spark/PySpark with an in-\ndepth knowledge of its advanced features and libraries.\n\n·        3+ years of experience in Data Lakehouse solution\nsuch as Hudi/Iceberg/Delta with an in-depth knowledge of its\nadvanced features and libraries.\n\n·        2+ years of experience in leading the design and\narchitecture of large distributed systems preferably on\ncloud platforms (e.g., AWS, Azure, Google Cloud).\n\n·        Proficient in Docker, Kubernetes, and modern CI/CD\npractices.\n\n\n\nPreferred Qualifications:\n\n\n\n·        MS or PhD in Computer Science or equivalent\nexperience in ML.\n\n·        Experience working with Big Data Infra such as AWS\nEMR.\n\n·        Experience with NoSQL and document databases.\n\n·        Proven ability to handle big data, optimize\nworkflows, and improve system performance.\n\nSalary based on qualifications, experience and region up to\nUSD 170000 plus benefits.\n\n\n\nCome work with a team of highly talented engineers, and\nadvance with us to achieve new heights every day!\n\nExtreme Networks, Inc. (EXTR) creates effortless networking\nexperiences that enable all of us to advance. We push the\nboundaries of technology leveraging the powers of machine\nlearning, artificial intelligence, analytics, and\nautomation. Over 50,000 customers globally trust our end-to-\nend, cloud-driven networking solutions and rely on our top-\nrated services and support to accelerate their digital\ntransformation efforts and deliver progress like never\nbefore. For more information, visit Extreme's website or\nfollow us on Twitter, LinkedIn, and Facebook.\n\nWe encourage people from underrepresented groups to apply.\nCome Advance with us! In keeping with our values, no\nemployee or applicant will face discrimination/harassment\nbased on: race, color, ancestry, national origin, religion,\nage, gender, marital domestic partner status, sexual\norientation, gender identity, disability status, or veteran\nstatus. Above and beyond discrimination/harassment based on\n“protected categories,” Extreme Networks also strives to\nprevent other, subtler forms of inappropriate behavior\n(e.g., stereotyping) from ever gaining a foothold in our\norganization. Whether blatant or hidden, barriers to success\nhave no place at Extreme Networks.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Drive innovative vision for products and platforms, design and launch strategic ML solutions",
+    "Lead end-to-end software development lifecycle including design, testing, deployment, and operations",
+    "Craft high-performance Big Data Lakehouse architectures such as Hudi, Delta, or Iceberg",
+    "Develop Big Data Platform to solve big data pipeline and processing challenges",
+    "Mentor and develop other engineers, establish technical direction and foster team culture",
+    "Build highly resilient and scalable systems and champion operational and process improvements"
+  ],
+  "use_cases": [
+    "Cloud-driven networking solutions for digital transformation",
+    "Big data processing and analytics pipelines",
+    "Machine learning platform infrastructure for networking applications",
+    "Distributed systems for data lakehouse architectures",
+    "Automation and analytics using AI/ML capabilities"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS EMR",
+    "Azure",
+    "CI/CD",
+    "Delta",
+    "Docker",
+    "Google Cloud",
+    "Hudi",
+    "Iceberg",
+    "Kubernetes",
+    "NoSQL databases",
+    "PySpark",
+    "Spark"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building big data infrastructure\n(Spark, Lakehouse architectures, data pipelines) and\ndistributed systems to support ML initiatives, not directly\nbuilding or deploying AI models. The primary\nresponsibilities involve designing data platform\narchitectures, optimizing big data workflows, and\nengineering scalable systems - all enabling work for AI/ML\nrather than hands-on model development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "NoSQL databases"
+    ],
+    "data": [
+      "Spark",
+      "PySpark",
+      "Hudi",
+      "Delta",
+      "Iceberg"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "AWS EMR"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

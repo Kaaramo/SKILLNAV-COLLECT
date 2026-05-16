@@ -1,0 +1,159 @@
+{
+  "job_id": "intl-ai-corpus-0956",
+  "source": "intl-ai-corpus",
+  "source_ref": "7780037",
+  "source_url": "https://builtin.com/job/ai-engineer-full-stack/7780037",
+  "title": "AI Engineer (Full Stack)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Flent",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-07",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "19 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered rental marketplace and living platform",
+  "industries": [
+    "Real Estate",
+    "Software"
+  ],
+  "description": "Hey — I’m Rishabh, co-founder & COO at Flent. I lead all\nthings tech, platform, and cashflow here.\n\nI feel the Flent is a lot more than a grid of homes on an\napp. We are now building a platform for living.\n\nRenting in REAL life is extremely messy. Most people come\nwith fuzzy requirements - “something close to my office,\nmaybe ₹60k budget, should’ve good ventilation, non-smoking\nflatmates”. And on the supply side, every home is a new SKU\nwith 100+ attributes. Traditional marketplace interfaces and\njourneys will never work.\n\nI think of our platform as a human broker in a software form\n- one that listens, interprets, and guides, rather than\ndumping endless choices. It should be able to explain “why\nthis home” makes sense for you, do the trade-offs you’d\notherwise struggle with, and build trust through speed and\nclarity.\n\nGood software makes choices smooth. Great software makes\nthem vanish into a flow – that’s the bar I hold while\nbuilding things at Flent.\n\nAbout the role\n\nWe’re hiring our foundation engineering squad — the team\nthat’ll lay the technical bedrock of Flent.\n\nYou’ll work with product and design to build Flent’s digital\nrenting ecosystem. Whether it’s search, payments, or real-\ntime notifications, your code will power how thousands of\npeople find and manage their homes. We are looking for AI-\nnative engineers who can multiply output-scaffold, test, and\nrefactor faster, while keeping quality and security high.\n\nMore than anything, this is your chance to curate the kind\nof engineering culture you always wished for, built around\npeople who care about doing their best work.\n\nWhat you’ll broadly do:\n\n- Architect the AI Broker You will own the strategic direction\n  of our conversational search platform. Your goal is to\n  move beyond filters, designing the core logic that\n  understands renter intent and delivers curated,\n  explainable home matches.\n- Build Spatial Home Tours You will lead the creation of a\n  new-to-market virtual tour experience. This involves\n  architecting the spatial interface from the ground up,\n  capturing user interaction data within the 3D space, and\n  using those signals to create a smarter, self-improving\n  discovery engine.\n- Build the \"Flent for Living\" Platform You will be\n  responsible for the entire resident-facing ecosystem. This\n  includes the end-to-end development of features like\n  integrated payments, smart access control, maintenance\n  ticketing, and lifestyle service upgrades.\n- Define Foundational Engineering Culture As a member of the\n  founding engineering team, you will establish the\n  technical standards, security practices, and development\n  methodologies that will define how Flent builds products\n  for years to come.\n\nWhat your day-to-day will look like:\n\n- Develop backend APIs and services (Node/TS, Go, Python,\n  Postgres, Redis, GraphQL/gRPC)\n- Build and optimize responsive UIs and 3D interactions\n  (React/Next.js, WebGL, Three.js)\n- Integrate and productionize AI/NLP modules and ML-driven\n  recommendation systems\n- Implement authentication, authorization, validation,\n  monitoring, and logging\n- Profile, debug, and optimize 3D rendering, database, and API\n  performance\n- Automate deployments, run tests, maintain CI/CD, manage\n  feature flags\n- Analyze metrics, design/run A/B tests, iterate on user\n  feedback\n- Review code, document technical decisions and run PR\n  feedback rituals.\n\nWe’re looking for someone who has:\n\n- Has 4–6 years of experience in software engineering, ideally\n  across high-growth startups.\n- Is a product-minded builder — raises the bar beyond\n  functionality, prioritizing UX, performance, and clarity.\n- fast adaptability — moves across backend, frontend, AI, and\n  3D; learns new tools quickly.\n- Strong frontend chops: React/Next.js, modern state\n  management, WebGL/Three.js for 3D, and performance\n  budgets.\n- Brings backend strength — comfortable with at least one of\n  Node/TS, Go, or Python; Postgres; has some experience with\n  Redis; queues/streams; caching; auth; rate-limiting;\n  infra-as-code; and cloud (AWS/GCP).\n- Is AI-native — uses copilots/agents for scaffolding, test\n  writing, code search, and safe refactors — and knows when\n  not to.\n- Understands data & retrieval — familiar with embeddings/RAG,\n  vector stores (pgvector/others), and building\n  ranking/feedback loops.\n- Practices strong engineering hygiene — testing strategy\n  (unit/integration/property), static analysis, secure\n  coding, privacy-aware logs, and clean rollbacks.\n- Converts data to action — through clean event design,\n  meaningful dashboards, disciplined A/Bs, and fast\n  translation of signals into product updates.\n- Operates with high agency and low ego — finds a way, moves\n  fast, and keeps it real.\n\nEducational background doesn’t matter to us. What does is\nyour attitude, your ability to take ownership, and your\nwillingness to do what it takes to make landlords feel taken\ncare of.\n\nApply now if you feel you are ready for your next challenge!\n",
+  "skills_required": [
+    "A/B testing",
+    "AI/NLP modules",
+    "RAG",
+    "embeddings",
+    "recommendation systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect the AI Broker conversational search platform to understand renter intent and deliver curated home matches",
+    "Build spatial home tours with 3D interfaces and use interaction data to create a smarter discovery engine",
+    "Build the resident-facing platform including payments, smart access control, maintenance ticketing, and lifestyle services",
+    "Develop backend APIs and services using Node/TypeScript, Go, Python, Postgres, Redis, and GraphQL/gRPC",
+    "Build and optimize responsive UIs and 3D interactions with React/Next.js, WebGL, and Three.js",
+    "Integrate and productionize AI/NLP modules and ML-driven recommendation systems",
+    "Establish foundational engineering culture including technical standards, security practices, and development methodologies"
+  ],
+  "use_cases": [
+    "Conversational AI broker for rental home search that interprets fuzzy user requirements",
+    "Explainable home recommendations that trade off multiple attributes like budget, location, and amenities",
+    "Spatial 3D virtual tours that capture user interaction signals to improve home discovery",
+    "ML-driven recommendation engine for matching renters with homes based on preferences",
+    "Integrated resident platform for payments, access control, maintenance ticketing, and lifestyle services"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "GCP",
+    "GraphQL",
+    "Next.js",
+    "Postgres",
+    "React",
+    "Redis",
+    "Three.js",
+    "WebGL",
+    "authentication",
+    "authorization",
+    "caching",
+    "feature flags",
+    "gRPC",
+    "logging",
+    "monitoring",
+    "pgvector",
+    "queues",
+    "rate-limiting",
+    "state management",
+    "validation",
+    "vector stores"
+  ],
+  "frameworks_mentioned": [
+    "AI/NLP modules",
+    "RAG",
+    "embeddings",
+    "recommendation systems"
+  ],
+  "languages_programming": [
+    "Go",
+    "Node/TypeScript",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves building an AI Broker with conversational\nsearch, integrating AI/NLP modules, and implementing\nembeddings/RAG with vector stores. The engineer is\nresponsible for understanding renter intent, delivering\nexplainable matches, and building ML-driven recommendation\nsystems - all hands-on AI/ML work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG"
+    ],
+    "ml": [
+      "embeddings",
+      "recommendation systems",
+      "AI/NLP modules"
+    ],
+    "web": [
+      "GraphQL",
+      "gRPC",
+      "React",
+      "Next.js",
+      "WebGL",
+      "Three.js",
+      "state management",
+      "authentication",
+      "authorization",
+      "validation",
+      "rate-limiting"
+    ],
+    "databases": [
+      "vector stores",
+      "pgvector",
+      "Postgres",
+      "Redis",
+      "caching"
+    ],
+    "data": [
+      "queues"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "CI/CD",
+      "feature flags",
+      "monitoring",
+      "logging"
+    ],
+    "languages": [
+      "Node/TypeScript",
+      "Go",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "A/B testing"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

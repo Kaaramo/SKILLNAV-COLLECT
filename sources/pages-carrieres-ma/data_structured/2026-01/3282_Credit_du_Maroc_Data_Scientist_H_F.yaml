@@ -1,0 +1,37 @@
+company:
+  name: Crédit du Maroc
+  stage: null
+  focus: null
+position:
+  title: Data Scientist (H/F)
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - scikit-learn
+    - tensorflow
+    - xgboost
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops:
+    - mlflow
+    languages:
+    - python
+    - R
+    domains:
+    - finance
+    other:
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '3282'
+  extracted_at: '2026-05-15T15:53:14+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

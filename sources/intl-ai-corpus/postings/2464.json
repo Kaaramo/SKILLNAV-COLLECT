@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-2464",
+  "source": "intl-ai-corpus",
+  "source_ref": "8903139",
+  "source_url": "https://builtin.com/job/senior-data-engineer-ai-ml/8903139",
+  "title": "Senior Data Engineer - AI/ML",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Global Software Solutions Group",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "160 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "Global software solutions and technology platform services",
+  "industries": [
+    "Fintech",
+    "Payments",
+    "Software",
+    "Financial Services",
+    "Automation"
+  ],
+  "description": "We are looking for a highly skilled Senior Data Engineer to\njoin our Data Engineering chapter within the Technology\nPlatform domain. The ideal candidate will have strong\nexpertise in real-time data streaming, modern data\nplatforms, and AI/ML operationalization\n(AIOps/MLOps/LLMOps).\n\nYou will be responsible for designing, building, and\noptimizing scalable data pipelines and enabling advanced\nanalytics and AI-driven solutions.\n\nRequirementsKey Responsibilities\n\n- Design and implement real-time data streaming pipelines\n  using Kafka and related technologies\n- Build and maintain scalable data engineering solutions on\n  Cloudera platform\n- Develop and optimize ETL/ELT pipelines for large-scale\n  structured and unstructured data\n- Collaborate with data scientists to deploy and manage ML\n  models (MLOps/LLMOps frameworks)\n- Implement and manage CI/CD pipelines for data and ML\n  workflows\n- Work with OpenShift/Kubernetes for containerized deployments\n- Ensure data quality, governance, and security best practices\n- Monitor, troubleshoot, and optimize data workflows and\n  infrastructure\n- Partner with cross-functional teams including product,\n  engineering, and analytics\n\nRequired Skills & Experience\n\n- 6+ years of experience in Data Engineering\n- Strong hands-on experience with Apache Kafka (Real-Time\n  Streaming - RTS)\n- Expertise in Cloudera Data Platform (CDP) or similar big\n  data ecosystems\n- Experience with CI/CD pipelines (Jenkins, GitLab, etc.)\n- Hands-on experience with OpenShift/Kubernetes\n- Strong programming skills in Python/Scala/Java\n- Experience with distributed data processing frameworks\n  (Spark, Hive, etc.)\n- Good understanding of data modeling and data warehousing\n  concepts\n\nPreferred Skills\n\n- Experience in AIOps, MLOps, or LLMOps\n- Exposure to AI/ML lifecycle management and deployment\n- Knowledge of cloud platforms (AWS/Azure/GCP) is a plus\n- Experience in banking or financial services domain\n\nSoft Skills\n\n- Strong problem-solving and analytical thinking\n- Excellent communication and stakeholder management\n- Ability to work in agile and fast-paced environments\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement real-time data streaming pipelines using Kafka and related technologies",
+    "Build and maintain scalable data engineering solutions on Cloudera Data Platform",
+    "Develop and optimize ETL/ELT pipelines for large-scale structured and unstructured data",
+    "Collaborate with data scientists to deploy and manage ML models via MLOps/LLMOps frameworks",
+    "Implement and manage CI/CD pipelines for data and ML workflows",
+    "Work with OpenShift/Kubernetes for containerized deployments",
+    "Ensure data quality, governance, and security best practices",
+    "Monitor, troubleshoot, and optimize data workflows and infrastructure"
+  ],
+  "use_cases": [
+    "Real-time data streaming and ingestion for AI/ML systems",
+    "MLOps/LLMOps pipeline operationalization and deployment",
+    "Scalable data platform management for advanced analytics",
+    "AI-driven analytics enablement in banking/financial services"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Apache Kafka",
+    "Apache Spark",
+    "Azure",
+    "CI/CD",
+    "Cloudera Data Platform",
+    "Data modeling",
+    "Data warehousing",
+    "ETL/ELT pipelines",
+    "GCP",
+    "GitLab",
+    "Hive",
+    "Jenkins",
+    "Kubernetes",
+    "LLMOps",
+    "MLOps",
+    "OpenShift"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is a Senior Data Engineer focused on building data\npipelines and infrastructure that enable AI/ML work. While\nit mentions MLOps/LLMOps collaboration, the core\nresponsibilities center on data streaming, ETL/ELT\npipelines, and data platform management — enabling work for\ndata scientists rather than directly building, training, or\nfine-tuning models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Data warehousing"
+    ],
+    "data": [
+      "Apache Kafka",
+      "Cloudera Data Platform",
+      "ETL/ELT pipelines",
+      "Apache Spark",
+      "Hive",
+      "Data modeling"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "MLOps",
+      "LLMOps",
+      "CI/CD",
+      "Jenkins",
+      "GitLab",
+      "OpenShift",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "Scala",
+      "Java"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

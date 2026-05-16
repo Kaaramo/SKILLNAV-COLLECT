@@ -1,0 +1,40 @@
+company:
+  name: Stellantis
+  stage: null
+  focus: null
+position:
+  title: Senior Software Engineer – Perception – Radar / Machine Learning H/F
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Computer vision
+  skills:
+    genai: []
+    ml:
+    - deep learning
+    - machine learning
+    - ml
+    - pytorch
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - pipeline
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains:
+    - automotive
+    - computer vision
+    - robotics
+    other:
+    - MLOps
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4328910821'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

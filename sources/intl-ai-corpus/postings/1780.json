@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-1780",
+  "source": "intl-ai-corpus",
+  "source_ref": "7633296",
+  "source_url": "https://builtin.com/job/senior-python-developer/7633296",
+  "title": "Python Developer (Gen AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Infrrd",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "227 Employees",
+  "company_stage": null,
+  "company_focus": "Intelligent Document Processing platform for automated data\nextraction",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "Hello there! Infrrd here.\n\n\n\nHaven’t heard of us before? No problem. First off, it’s\npronounced In-fur-d. We are the creators of a proprietary\nIntelligent Document Processing platform that automates data\nextraction from complex and messy unstructured documents.\nFor over a decade, we’ve been building expertise in\nArtificial Intelligence, Machine Learning, Deep Learning,\nNatural Language Processing, Neural Networks and much more.\nWe are building technology that is disrupting the data\nextraction space for more than a decade now.\n\n\n\nAnd now, we are on the lookout for a motivated Python\nDeveloper to join our Engineering team. In this role, you\nwill help us to build our product in an efficient and solid\nway.\n\nJob Purpose\n\nTo provide hands-on technical support during implementation\nof Product features with a focus on rapid debugging,\nscripting, and data analysis; ensure smooth integrations and\nreliable deployments while improving developer productivity\nusing AI-first tools and automation; and optimize the\nexisting code and framework.\n\nJob Duties and Responsibilities\n\n- Build and debug features for the Product. Rollout issues\n  across APIs, data transformations, and deployment\n  workflows with rapid turnarounds.\n- Build and maintain Python utilities/services for validation,\n  transformation, and automation of QC checklist execution.\n- Implement GenAI workflows using LangChain/OpenAI, including\n  prompt design, tools, and guards for reliability and\n  traceability.\n- Design and tune vector indexing and retrieval over PGVector\n  for checklist content, policies, and artifacts.\n- Create evaluators, test harnesses, and regression suites for\n  LLM pipelines and generated code outputs.\n- Instrument logs/metrics and perform root-cause analysis\n  across data, prompts, and model outputs; document\n  playbooks.\n- Collaborate with Product/CS/QA to triage tickets, reproduce\n  issues, and ship hotfixes and safe migrations.\n- Harden deployments with config management, secrets hygiene,\n  and rollback strategies for onboarding and production.\n- Maintain knowledge base and SOPs for integrations, data\n  contracts, and compliance-sensitive workflows.\n\nRequired Qualifications:\n\n- Bachelor's in CS/Engineering or equivalent practical\n  experience\n- Strong Python development background\n- Experience implementing GenAI/LLM solutions in production-\n  like settings\n- Excellent debugging and communication skills.\n\nMust-have Skills:\n\n- Python 3.x with strong software engineering and debugging\n  proficiency.\n- GenAI/LLM: LangChain, OpenAI API, prompt engineering,\n  tool/function calling, guards.\n- NLP utilities and text processing with nltk or similar.\n- MongoDB data modeling and query optimization for app/ops\n  flows.\n- Vector databases and retrieval (PGVector on Postgres) for\n  RAG-like patterns.\n- Observability and log analysis for rapid root-cause and fix-\n  forward.\n- LLM orchestration with OpenAI/Gemini, including retries,\n  timeouts, and structured outputs.\n- Vector retrieval with PGVector (indexing, chunking,\n  similarity tuning, evals).\n- Debugging onboarding/deployment issues across configs, data,\n  and environments\n\nNice to have skills:\n\n- MLOps fundamentals (model/config/versioning, evals, CI for\n  LLM flows).\n- MCP server or tool-agent patterns for internal developer\n  workflows.\n- FastAPI/async IO for lightweight services and integrations.\n- CI/CD (GitHub Actions) and infra basics (Docker).\n- Experience with mortgage/QC/RegTech domains or checklists.\n- Python packaging, environments, and testing; REST APIs and\n  JSON.\n- Prompt engineering basics; model limits, latency, and cost\n  tradeoffs.\n- Data handling with Pandas and text\n  normalization/tokenization\n\nWorking Knowledge (Tools):\n\n- GitHub/Git; Issues/Projects; PR reviews.\n- JIRA/Confluence for triage and runbooks.\n- Postman/cURL for API validation.\n- VS Code with Copilot/Cursor; Python tooling\n  (venv/poetry/pytest).\n",
+  "skills_required": [
+    "Gemini",
+    "LLM orchestration",
+    "LangChain",
+    "MCP server",
+    "NLTK",
+    "OpenAI API",
+    "RAG patterns",
+    "guards",
+    "prompt engineering",
+    "tool/function calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and debug features for the Product with rapid turnarounds across APIs, data transformations, and deployment workflows",
+    "Build and maintain Python utilities/services for validation, transformation, and automation of QC checklist execution",
+    "Implement GenAI workflows using LangChain/OpenAI including prompt design, tools, and guards for reliability and traceability",
+    "Design and tune vector indexing and retrieval over PGVector for checklist content, policies, and artifacts",
+    "Create evaluators, test harnesses, and regression suites for LLM pipelines and generated code outputs",
+    "Instrument logs/metrics and perform root-cause analysis across data, prompts, and model outputs",
+    "Collaborate with Product/CS/QA to triage tickets, reproduce issues, and ship hotfixes and safe migrations",
+    "Harden deployments with config management, secrets hygiene, and rollback strategies"
+  ],
+  "use_cases": [
+    "Intelligent document processing and data extraction",
+    "Automated QC checklist execution and validation",
+    "RAG-based retrieval of checklist content, policies, and artifacts",
+    "LLM pipeline orchestration with reliability guards",
+    "Root-cause analysis and debugging of AI-powered features",
+    "Compliance-sensitive workflow automation"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "FastAPI",
+    "Git",
+    "GitHub Actions",
+    "MongoDB",
+    "PGVector",
+    "Pandas",
+    "Postgres",
+    "REST APIs",
+    "pytest",
+    "vector indexing and retrieval"
+  ],
+  "frameworks_mentioned": [
+    "Gemini",
+    "LLM orchestration",
+    "LangChain",
+    "MCP server",
+    "NLTK",
+    "OpenAI API",
+    "RAG patterns",
+    "guards",
+    "prompt engineering",
+    "tool/function calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on implementation of GenAI/LLM\nsolutions including LangChain workflows, prompt engineering,\nvector indexing with PGVector for RAG patterns, and building\nevaluators for LLM pipelines. The developer will work\ndirectly on building and deploying AI-powered features, not\njust supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "OpenAI API",
+      "prompt engineering",
+      "tool/function calling",
+      "guards",
+      "Gemini",
+      "MCP server",
+      "LLM orchestration",
+      "RAG patterns"
+    ],
+    "ml": [
+      "NLTK"
+    ],
+    "web": [
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [
+      "MongoDB",
+      "PGVector",
+      "Postgres",
+      "vector indexing and retrieval"
+    ],
+    "data": [
+      "Pandas"
+    ],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "GitHub Actions",
+      "Git",
+      "pytest"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

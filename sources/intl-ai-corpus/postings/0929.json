@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-0929",
+  "source": "intl-ai-corpus",
+  "source_ref": "7721162",
+  "source_url": "https://builtin.com/job/senior-ai-tools-engineer/7721162",
+  "title": "Senior AI Tools Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Authentic Brands Group",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "353 Employees",
+  "company_stage": "Public",
+  "company_focus": "Sports and entertainment brand licensing and management",
+  "industries": [
+    "Marketing Tech",
+    "Design"
+  ],
+  "description": "Who We Are\n\nAuthentic is a unified platform that integrates M&A, brand\nstrategy, creativity and digital innovation to unlock the\npower of its global Lifestyle and Entertainment portfolio.\nAs the world’s largest sports and entertainment licensing\ncompany, Authentic connects strong brands with best-in-class\npartners to optimize long-term value in the marketplace. Its\nbrands generate more than $32 billion in global annual\nretail sales and have an expansive retail footprint in more\nthan 150 countries, including 13,000-plus freestanding\nstores and shop-in-shops and 400,000 points of sale.\nAuthentic transforms brands by delivering powerful\nstorytelling, compelling content, innovative business models\nand immersive experiences. It creates original marketing\nstrategies to drive the success of its brands across all\nconsumer touchpoints, platforms and emerging media\n\n Why Authentic\n\n You’ll be able to access the resources and scale, while\nleveraging innovative technology and nimble environment.\nWhat we’re saying is, this isn’t your average day job. If\nyou’re hungry to drive ideas into action and own your\ncareer, let’s chat. Our team is rapidly innovating to evolve\nand define the future of our brands. With the help of some\nof the brightest minds in retail, marketing, licensing,\nlegal and more, we are building the intersection of digital\nand experiential marketing to help achieve that mission. We\nreimagine, evolve and transform brands! At Authentic, we\nfoster an inclusive workplace where diversity of thought and\nexpertise drive competitive advantage. Our global teams are\nbuilt by go-getters who contribute unique perspectives and\npush the boundaries of creativity and innovation.\nHeadquartered in New York City, Authentic has offices in\nmajor metropolitan cities including Los Angeles and Miami,\nas well as Toronto, Mexico City, London, and Shanghai.\n\nWhat You’ll Do\n\nReporting to EVP, Digital Technology, The Senior AI Tools\nEngineer builds the technical foundation that enables\nAuthentic Intelligence to connect to real-world data and\nworkflows. This role owns the design and implementation of\ntool schemas, APIs, and integrations that allow the\nplatform’s LLMs to perform structured, secure actions across\nABG systems.\n\nYou’ll architect, document, and optimize the “function\nlayer” of Authentic Intelligence - ensuring that every tool\nthe AI can call is stable, secure, and business-aligned.\n\nWhat you’ll be working on\n\n- Design and maintain JSON / Pydantic tool schemas for OpenAI,\n  Anthropic, or similar function-calling models.\n- Build and document internal APIs that connect the LLM layer\n  to data and business logic.\n- Partner with data and infrastructure teams to ensure\n  reliable authentication, rate-limiting, and observability.\n- Implement error handling, versioning, and monitoring for all\n  active tools.\n- Collaborate with the Prompt Architect to align tools with\n  business logic and prompt capabilities.\n- Contribute to internal SDKs and developer documentation for\n  the Authentic Intelligence platform.\n\nMust Haves:\n\n- 4–7 years backend or full-stack engineering experience with\n  Python or TypeScript.\n- Proven experience integrating APIs and defining schemas for\n  LLM or automation workflows.\n- Understanding of OpenAI / Anthropic tool calling, LangChain,\n  or similar frameworks.\n- Familiarity with enterprise authentication (OAuth, SSO),\n  rate-limiting, and telemetry.\n- Excellent communication skills and a focus on reliability\n  and scale.\n\nPrimary Location Salary\n\n$170,000 - $210,000\n\nFraud Alert: Unauthorized Job Offers and Impersonations\n\nWe have been made aware of fraudulent job offers and\ninterview requests being sent by individuals falsely\nclaiming to represent Authentic. These scams are often\ninitiated via email, employment websites and social media,\nand may include fake interview requests, offer letters or\nattempts to collect personal and financial information.\n\nPlease note:\n\n- All legitimate Authentic job postings can be found only on\n  our official website (authentic.com) or through our\n  verified LinkedIn page\n  (https://www.linkedin.com/company/weareauthentic).\n- Authentic does not conduct interviews over Teams or Zoom\n  without prior email correspondence from a verified\n  @authentic.com email address.\n- We will never ask you for sensitive personal information,\n  payment or banking details as part of the hiring process.\n\nIf you believe you've been contacted by someone\nimpersonating an Authentic team member, please report it\nimmediately by emailing peopleandculture@authentic.com.\n\nAuthentic is an equal-opportunity employer and we value and\nembrace the diversity and inclusion of all Team Members. We\ndo not discriminate on the basis of gender, gender identity,\nsexual orientation, race, national origin, disability, age,\nmarital status, protected veteran status, or other legally\nprotected status.\n\nFor individuals with disabilities or religious obligations\nwho would like to request an accommodation, please contact\ntalent@authentic.com\n\nTo access Authentic' s Privacy Policy, which contains\ninformation regarding data collected from job applicants and\nhow we use it, please click here:\nhttps://authentic.com/pages/privacy-policy\n",
+  "skills_required": [
+    "Anthropic",
+    "LangChain",
+    "OpenAI",
+    "function calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and maintain JSON and Pydantic tool schemas for OpenAI, Anthropic, and similar function-calling models",
+    "Build and document internal APIs that connect the LLM layer to enterprise data and business logic systems",
+    "Partner with data and infrastructure teams to ensure reliable authentication, rate-limiting, and observability across tool integrations",
+    "Implement error handling, versioning, and monitoring for all active tools in the Authentic Intelligence platform",
+    "Collaborate with the Prompt Architect to align tool capabilities with business logic and prompt engineering requirements",
+    "Contribute to internal SDKs and developer documentation for the Authentic Intelligence platform"
+  ],
+  "use_cases": [
+    "Enabling LLMs to perform structured, secure actions across enterprise systems through tool calling",
+    "Connecting AI capabilities to real-world business workflows and data sources",
+    "Building reliable authentication and telemetry for AI-powered business process automation",
+    "Integrating AI tools with brand management and licensing operations"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "API versioning",
+    "JSON",
+    "OAuth",
+    "Pydantic",
+    "REST APIs",
+    "SSO",
+    "error handling",
+    "monitoring",
+    "rate limiting",
+    "telemetry"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic",
+    "LangChain",
+    "OpenAI",
+    "function calling"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role builds the function layer and tool schemas that\nenable LLMs to perform structured actions across enterprise\nsystems. The engineer works directly with OpenAI/Anthropic\nfunction-calling models and LangChain frameworks to\nintegrate AI capabilities with real-world business\nworkflows.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI",
+      "Anthropic",
+      "function calling",
+      "LangChain"
+    ],
+    "ml": [],
+    "web": [
+      "JSON",
+      "Pydantic",
+      "API design",
+      "REST APIs",
+      "API versioning"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "OAuth",
+      "SSO",
+      "rate limiting",
+      "telemetry",
+      "error handling",
+      "monitoring"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

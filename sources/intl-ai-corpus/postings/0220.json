@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-0220",
+  "source": "intl-ai-corpus",
+  "source_ref": "7495968",
+  "source_url": "https://builtin.com/job/ai-engineer/7495968",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "HouseAccount",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-14",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "28 Employees",
+  "company_stage": "Seed",
+  "company_focus": "Modern home services platform with AI-powered automation",
+  "industries": [],
+  "description": "About HouseAccount\n\nAt HouseAccount, we’re building the modern home services\nplatform, starting with the handyman. We connect homeowners\nto trusted local providers and make it simple to book,\nmanage, and pay for everything their home needs in one\nplace. By combining vetted pros, transparent pricing, and\nAI-powered automation, we’re turning home maintenance into\nsomething homeowners don’t have to think about.\n\nWhat You’ll Do\n\nYou’ll lead the effort to make HouseAccount truly AI-first,\ndesigning, prototyping, and deploying intelligent systems\nthat power how we match, message, and manage home services.\nYou’ll work closely with our product and growth teams to\nidentify repetitive workflows and convert them into smart,\nautomated agents that scale what we do every day.\n\nA typical day might include:\n\n- Building and fine-tuning workflows with OpenAI APIs,\n  Anthropic Claude, or Mistral models\n- Using frameworks like LangChain, LlamaIndex, or Vercel AI\n  SDK to connect multiple models and data sources\n- Designing retrieval and memory systems that help agents\n  reason across internal data (CRM, outreach logs, provider\n  data)\n- Prototyping automations using Zapier, n8n, or custom\n  Python/Ruby scripts before productizing them\n- Collaborating with engineering to connect model outputs back\n  to our Rails app via clean APIs\n- Experimenting with prompt architectures, tool use, and\n  context management to improve performance and accuracy\n\nYou’ll work across the stack, but your focus will be\nbuilding and scaling agentic systems that make our\noperations and product smarter.\n\nWhat Matters to Us\n\n- You’ve built real things with OpenAI or similar APIs -\n  agents, copilots, automations, or internal tools\n- You understand how to translate messy real-world processes\n  into structured logic for AI systems\n- You’re comfortable working across data pipelines, APIs, and\n  backend logic to get something working end-to-end\n- You thrive in fast, iterative environments and care more\n  about getting something live than perfecting it in a doc\n- You’re deeply curious about how AI can simplify human work\n  and scale impact\n\nWho You Are\n\n- 3 to 7 years of software or AI engineering experience,\n  ideally in a startup or applied AI setting\n- Proficient in Python (FastAPI, Flask, or Django) and\n  comfortable building integrations in JavaScript or\n  TypeScript\n- Familiar with LangChain, LlamaIndex, or similar frameworks\n  for orchestration\n- Experienced with vector databases like pgvector, Pinecone,\n  or Weaviate\n- Familiar with workflow automation tools such as Zapier or\n  n8n\n- Bonus: you’ve been a founding or early engineer and thrive\n  in the 0 to 1 stage\n\nWhy This Role Matters\n\nYou’ll be one of the first engineers shaping how AI is built\ninto the DNA of our product and operations. This role sits\nat the intersection of engineering, product, and applied\nresearch - bringing intelligent systems from idea to\nproduction and defining how we scale smarter.\n",
+  "skills_required": [
+    "Anthropic Claude",
+    "LangChain",
+    "LlamaIndex",
+    "Mistral",
+    "OpenAI APIs",
+    "RAG",
+    "Vercel AI SDK",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, prototype, and deploy intelligent systems that power matching, messaging, and management of home services",
+    "Build and fine-tune workflows with OpenAI APIs, Anthropic Claude, or Mistral models",
+    "Use frameworks like LangChain, LlamaIndex, or Vercel AI SDK to connect multiple models and data sources",
+    "Design retrieval and memory systems that help agents reason across internal data including CRM, outreach logs, and provider data",
+    "Prototype automations using Zapier, n8n, or custom Python/Ruby scripts before productizing them",
+    "Collaborate with engineering to connect model outputs to the Rails app via clean APIs",
+    "Experiment with prompt architectures, tool use, and context management to improve performance and accuracy",
+    "Build and scale agentic systems that make operations and product smarter"
+  ],
+  "use_cases": [
+    "Match homeowners to trusted local service providers using AI-powered matching systems",
+    "Automate repetitive workflows and convert them into smart agents that scale daily operations",
+    "Enable agents to reason across internal data sources including CRM, outreach logs, and provider data",
+    "Create intelligent messaging and management systems for home service bookings",
+    "Transform messy real-world home service processes into structured logic for AI automation"
+  ],
+  "tools_mentioned": [
+    "Django",
+    "FastAPI",
+    "Flask",
+    "Pinecone",
+    "REST",
+    "Weaviate",
+    "Zapier",
+    "n8n",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic Claude",
+    "LangChain",
+    "LlamaIndex",
+    "Mistral",
+    "OpenAI APIs",
+    "RAG",
+    "Vercel AI SDK",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "Ruby",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building, fine-tuning, and deploying AI\nsystems including agents, RAG implementations, and automated\nworkflows using LLMs. The engineer will work directly with\nOpenAI/Anthropic APIs, LangChain, and vector databases to\ncreate intelligent systems for the home services platform.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI APIs",
+      "Anthropic Claude",
+      "Mistral",
+      "LangChain",
+      "LlamaIndex",
+      "Vercel AI SDK",
+      "RAG",
+      "agents",
+      "prompt engineering",
+      "function calling"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "Django",
+      "REST"
+    ],
+    "databases": [
+      "pgvector",
+      "Pinecone",
+      "Weaviate"
+    ],
+    "data": [
+      "Zapier",
+      "n8n"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Ruby"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

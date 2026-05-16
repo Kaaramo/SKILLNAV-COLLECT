@@ -1,0 +1,137 @@
+{
+  "job_id": "intl-ai-corpus-2194",
+  "source": "intl-ai-corpus",
+  "source_ref": "8796253",
+  "source_url": "https://www.builtinla.com/job/senior-ai-engineer/8796253",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "RegScale",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-19",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B",
+  "company_focus": "Continuous controls monitoring platform for security, risk,\nand compliance automation",
+  "industries": [],
+  "description": "RegScale is a continuous controls monitoring (CCM) platform\nthat helps organizations automate and scale their security,\nrisk, and compliance programs. We are at an inflection\npoint, transitioning from startup execution to a\ndisciplined, enterprise ready engineering organization, and\nwe are building the team that will take us there. AI is\ncentral to where RegScale is going, woven into how\ncompliance programs are automated, monitored, and delivered\nat scale.\n\nThe Role\n\nSenior AI Engineers at RegScale own the design and delivery\nof production AI systems end to end. You bring genuine\nbreadth across the AI engineering stack including data\npipelines, model fine tuning and evaluation, agent design\nand orchestration, MCP server development, and AI\nsafeguards, and you understand how these disciplines\nconnect. You make sound decisions across all of them, not\njust within a narrow specialization.\n\nYour work lives inside Platform Engineering and is consumed\nby product teams building GRC features and by integrators\nconnecting RegScale to the broader compliance ecosystem. You\nbuild primitives and frameworks others build on top of, and\nyou raise the bar for how the engineering organization\nthinks about and delivers AI in production.\n\nThis role is for an engineer who brings the same rigor to AI\nsystems as to any other production engineering discipline,\nincluding reliability, observability, cost management, and\nongoing behavior in the real world.\n\nKey Responsibilities\n\n- Design, build, and operate AI systems in production with\n  full ownership across reliability, performance, cost,\n  observability, and ongoing model behavior.\n- Build and maintain data pipelines that ingest, clean,\n  transform, and version the data AI systems depend on,\n  ensuring quality and traceability from source to model.\n- Design and implement retrieval augmented generation\n  pipelines, vector and graph search systems, and hybrid\n  retrieval strategies that make compliance data accessible\n  for AI driven features.\n- Fine tune, evaluate, and monitor models against real world\n  performance criteria, with a clear understanding of how to\n  measure what matters in a compliance domain.\n- Architect and build AI agent systems and orchestration\n  layers that coordinate multi step reasoning, tool use, and\n  decision making across complex GRC workflows.\n- Build and maintain MCP servers that expose RegScale platform\n  capabilities to AI systems, enabling reliable, secure, and\n  observable AI integrations across the platform.\n- Design reusable AI primitives and frameworks that product\n  and integration teams can build on, accelerating AI\n  feature development across the organization.\n- Integrate AI capabilities into CI/CD pipelines with\n  appropriate testing, evaluation gates, and deployment\n  strategies that maintain production quality as models and\n  data evolve.\n- Partner with Platform Engineering, Core Engineering, and\n  Compliance as Code teams to ensure AI capabilities meet\n  enterprise reliability and security standards.\n- Proactively identify risks in AI system behavior, data\n  quality, and model performance, bringing proposed\n  mitigations before they become production incidents.\n\nRequired Qualifications\n\n- 8 or more years of software engineering experience with at\n  least 4 years focused on building and operating AI or\n  machine learning systems in production environments.\n- Demonstrated track record of shipping AI features that\n  customers depend on, with ownership across the full\n  production lifecycle including reliability, observability,\n  cost management, and ongoing model behavior.\n- Strong data engineering fundamentals, including pipeline\n  design, data modeling, transformation, quality validation,\n  and performance monitoring at scale.\n- Hands on experience with retrieval augmented generation,\n  vector and graph databases, embedding models, and hybrid\n  retrieval strategies.\n- Experience designing and building AI agent systems and\n  orchestration frameworks, including multi step reasoning,\n  tool use, and failure handling in production contexts.\n- Solid understanding of model fine tuning and evaluation,\n  including how to define meaningful performance criteria\n  for domain specific applications.\n- Strong software engineering fundamentals applied to AI\n  systems with production grade rigor.\n- Strong written and verbal communication skills, able to\n  articulate AI architecture decisions and tradeoffs to both\n  technical and non-technical stakeholders.\n\nPreferred Qualifications\n\n- Experience building AI systems in regulated industries or\n  compliance focused platforms where auditability,\n  explainability, and data sensitivity shaped design\n  decisions.\n- Familiarity with secure MCP server development and protocols\n  for exposing platform capabilities to AI systems.\n- Background in enterprise SaaS companies where AI features\n  had to meet enterprise reliability, security, and\n  integration standards.\n- Experience with inference cost optimization, caching\n  strategies, and model selection tradeoffs at scale.\n- Familiarity with GRC frameworks such as FedRAMP, NIST, or\n  CMMC and the compliance domain more broadly.\n- Experience with cloud native AI infrastructure in Azure or\n  comparable platforms including model deployment, scaling,\n  and monitoring.\n- Contributions to or deep familiarity with open-source AI\n  frameworks for orchestration, evaluation, and\n  observability.\n- Experience implementing and using data lake solutions (i.e.\n  Snowflake, Databricks, Synapse Analytics, AWS Redshift) in\n  a production environment.\n\nRegScale is only able to hire US Citizens\n",
+  "skills_required": [
+    "AI agents",
+    "AI safeguards",
+    "MCP server development",
+    "RAG",
+    "embedding models",
+    "model evaluation",
+    "model fine-tuning",
+    "orchestration frameworks"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and operate AI systems in production with full ownership across reliability, performance, cost, observability, and ongoing model behavior",
+    "Build and maintain data pipelines that ingest, clean, transform, and version the data AI systems depend on",
+    "Design and implement retrieval augmented generation pipelines, vector and graph search systems, and hybrid retrieval strategies",
+    "Fine tune, evaluate, and monitor models against real world performance criteria for compliance domain applications",
+    "Architect and build AI agent systems and orchestration layers for multi-step reasoning, tool use, and decision making across GRC workflows",
+    "Build and maintain MCP servers that expose platform capabilities to AI systems",
+    "Design reusable AI primitives and frameworks for product and integration teams",
+    "Integrate AI capabilities into CI/CD pipelines with testing, evaluation gates, and deployment strategies"
+  ],
+  "use_cases": [
+    "Automate compliance program monitoring and delivery at scale",
+    "Enable AI-driven features for GRC (Governance, Risk, and Compliance) workflows",
+    "Make compliance data accessible through RAG and search systems",
+    "Coordinate multi-step reasoning and decision making across complex compliance workflows",
+    "Expose platform capabilities to AI systems for secure and observable integrations"
+  ],
+  "tools_mentioned": [
+    "AWS Redshift",
+    "Azure",
+    "CI/CD",
+    "Databricks",
+    "ETL",
+    "Snowflake",
+    "data pipelines",
+    "graph databases",
+    "observability and monitoring",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "AI safeguards",
+    "MCP server development",
+    "RAG",
+    "embedding models",
+    "model evaluation",
+    "model fine-tuning",
+    "orchestration frameworks"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves direct hands-on work building AI systems\nincluding RAG pipelines, agent orchestration, model fine-\ntuning and evaluation, and MCP server development. The\nengineer owns end-to-end AI system design and delivery,\nworking directly on models and AI infrastructure rather than\njust supporting systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "AI agents",
+      "MCP server development",
+      "AI safeguards",
+      "orchestration frameworks"
+    ],
+    "ml": [
+      "model fine-tuning",
+      "model evaluation",
+      "embedding models"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases",
+      "graph databases",
+      "Snowflake",
+      "AWS Redshift"
+    ],
+    "data": [
+      "data pipelines",
+      "ETL",
+      "Databricks"
+    ],
+    "cloud": [
+      "Azure"
+    ],
+    "ops": [
+      "CI/CD",
+      "observability and monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "GRC frameworks"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

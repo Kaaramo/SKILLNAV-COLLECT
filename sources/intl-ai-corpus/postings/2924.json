@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-2924",
+  "source": "intl-ai-corpus",
+  "source_ref": "9065037",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/9065037",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Jeeves",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "238 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Financial operating system providing corporate cards, cross-\nborder payments, and spend management",
+  "industries": [],
+  "description": "Jeeves is a groundbreaking financial operating system built\nfor global businesses that provides corporate cards, cross-\nborder payments, and spend management software within one\nunified platform. The company operates across 20+ countries\nincluding Brazil, Canada, Colombia, Mexico, the United\nKingdom, across Europe, and the United States, and serves\nover 5,000 clients ranging from venture-backed startups to\nSMBs around the world. With a mission to empower businesses\nwith more efficient and cost-effective financial solutions\nworldwide, Jeeves combines cutting-edge financial technology\nwith exceptional team expertise to transform the business\nfinancial landscape. Jeeves has been recognized as one of\nThe Information's 50 Most Promising Startups in 2023, as\nwell as a Y Combinator Top Company 2021-2023 and won\n“Fintech of the Year\" at the European Fintech Awards.\n\nSince graduating from Y Combinator in 2020, Jeeves has\nsuccessfully raised over $380 million and is backed by top\nworld-class investors including Andreessen Horowitz, Y\nCombinator, CRV, Tencent, Stanford University, Clocktower\nVentures, and founders of more than 15 unicorns including\nDavid Velez (Nubank), Carlos Garcia (Kavak) and Sebastián\nMejía (Rappi).\n\nJeeves is building AI into the core of its financial\nplatform — from intelligent spend categorization and anomaly\ndetection to LLM-powered workflows that help finance teams\nmove faster. We're looking for a Senior AI Engineer who is\nobsessed with building AI systems that actually work in\nproduction: reliable, observable, cost-efficient, and\ngenuinely useful.\n\nThis is not a research role. You will ship AI-powered\nfeatures that process real financial data for real\nbusinesses. You'll work alongside backend engineers, data\nscientists, and product teams to take AI from prototype to\nproduction — and you'll help define how Jeeves builds with\nAI as the company scales.\n\nIf you've built LLM pipelines, designed RAG architectures,\noperated ML systems in production, and care deeply about\nwhat happens when your AI makes a wrong call in a financial\ncontext — we want to meet you.\n\nLocation: This is a full-time remote position. #LI-REMOTE\n\n\n\nWhat You'll Do:\n\nRequirements:\n",
+  "skills_required": [
+    "Anomaly detection",
+    "LLM pipelines",
+    "LangChain",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG architectures"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and ship AI-powered features that process real financial data for production use",
+    "Design and implement RAG architectures and LLM pipelines for financial workflows",
+    "Operate and maintain ML systems in production with reliability, observability, and cost-efficiency",
+    "Collaborate with backend engineers, data scientists, and product teams to take AI from prototype to production",
+    "Ensure AI systems handle edge cases and errors appropriately in a financial context",
+    "Help define and establish AI engineering best practices as the company scales"
+  ],
+  "use_cases": [
+    "Intelligent spend categorization for business transactions",
+    "Anomaly detection in financial data",
+    "LLM-powered workflows to help finance teams move faster",
+    "Automated financial data processing and analysis",
+    "AI-assisted spend management"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "ML systems in production",
+    "Postgres",
+    "Redis"
+  ],
+  "frameworks_mentioned": [
+    "Anomaly detection",
+    "LLM pipelines",
+    "LangChain",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG architectures"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and shipping AI-powered\nfeatures including LLM pipelines, RAG architectures, and ML\nsystems in production. The engineer will work hands-on with\nmodels, agents, and AI systems that process real financial\ndata, making this clearly an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM pipelines",
+      "RAG architectures",
+      "Prompt engineering",
+      "LangChain",
+      "OpenAI API"
+    ],
+    "ml": [
+      "Anomaly detection"
+    ],
+    "web": [],
+    "databases": [
+      "Postgres",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "ML systems in production",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

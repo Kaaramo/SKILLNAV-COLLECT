@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-2598",
+  "source": "intl-ai-corpus",
+  "source_ref": "8923637",
+  "source_url": "https://www.builtinla.com/job/ai-product-engineer/8923637",
+  "title": "AI Product Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Raspberry AI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-01",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series A",
+  "company_focus": "AI design software for fashion brands and retailers",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Analytics"
+  ],
+  "description": "AI Product EngineerRaspberry AI\n\nRaspberry AI is a leading provider of industry-defining AI\ndesign software for fashion brands and retailers. Our\nsoftware empowers brands to rapidly understand consumer\ndemand and create unique designs within minutes. Leveraging\ncutting-edge AI analytics and generative AI capabilities, we\nhelp fashion brands revolutionize their design and\nmerchandising processes.\n\nWe are a Series A startup, backed by top-tier venture\ncapital firms such as Andreessen Horowitz, Khosla Ventures,\nMVP and Greycroft.\n\nAbout the Role\n\nWe are seeking a Senior AI Product Engineer to build the\nagentic layer of Raspberry's platform. Today our product\ngives designers powerful, individual AI tools — image\ngeneration, editing, virtual try-on, and more. The next step\nis making these tools work together autonomously: agents\nthat operate on our collaborative design canvas, chain\nmulti-step creative workflows, and keep designers in control\nof the output.\n\nThis role sits at the intersection of AI engineering and\nproduct engineering. You'll design agent architectures and\nship the product experiences around them — from model\norchestration and tool-use to the React interfaces designers\ninteract with.\n\nResponsibilities\n\n- Build AI agents that take actions inside Raspberry's design\n  platform — triggering generations, chaining outputs across\n  creative AI tools, and orchestrating multi-step workflows\n- Design the orchestration and tool abstraction layer that\n  exposes Raspberry's creative AI tools as agent-callable\n  actions\n- Architect end-to-end agentic workflows for batch design\n  operations (e.g., sketch → render → colorway → on-body →\n  tech flat)\n- Build conversation, review, and approval interfaces that\n  keep designers in control of agent-driven outputs\n- Evaluate and integrate agent frameworks and LLM capabilities\n  to find the best approaches for our domain\n- Collaborate closely with ML engineers, product, and design\n  to shape the roadmap for AI-powered creative workflows\n\nQualifications\n\n- 5+ years of software engineering experience, with meaningful\n  time building AI-native products end-to-end\n- Hands-on experience with agent frameworks and orchestration\n  (LangGraph, Anthropic Agent SDK, CrewAI, or similar)\n- Strong full-stack product engineering skills — our frontend\n  is React/Next.js/TypeScript, backend is FastAPI/Python\n- Deep fluency with LLMs and generative AI — prompt\n  engineering, function calling/tool use, multimodal models\n- Excellent communication and collaboration skills\n\nNice to Have\n\n- Experience building collaborative or real-time applications\n  (CRDTs, WebSockets)\n- Background in computer vision, image generation, or\n  diffusion models\n- Experience building tools or workflows for professional\n  creatives (designers, artists, or adjacent domains)\n- Contributions to open-source AI projects or published\n  research\n- Comfort operating in an early-stage startup with fast\n  iteration cycles\n\nBenefits\n\n- Competitive salary and equity options\n- Comprehensive benefits package including health, dental, and\n  vision insurance\n- Opportunity to work on cutting-edge AI technology with a\n  high-impact team\n- Fully remote with a supportive company culture\n- Be part of a rapidly growing company with significant growth\n  potential\n",
+  "skills_required": [
+    "AI agents",
+    "Anthropic Agent SDK",
+    "CRDTs",
+    "CrewAI",
+    "Function calling/tool use",
+    "LLM orchestration",
+    "LangGraph",
+    "Multimodal models",
+    "Prompt engineering",
+    "WebSockets"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build AI agents that trigger generations, chain outputs across creative AI tools, and orchestrate multi-step workflows within Raspberry's design platform",
+    "Design the orchestration and tool abstraction layer that exposes creative AI tools as agent-callable actions",
+    "Architect end-to-end agentic workflows for batch design operations such as sketch to render to colorway to on-body to tech flat",
+    "Build conversation, review, and approval interfaces that keep designers in control of agent-driven outputs",
+    "Evaluate and integrate agent frameworks and LLM capabilities to determine the best approaches for the domain",
+    "Collaborate with ML engineers, product, and design to shape the roadmap for AI-powered creative workflows"
+  ],
+  "use_cases": [
+    "Autonomous AI agents for fashion design creation and orchestration",
+    "Multi-step creative AI workflows chaining image generation, editing, and rendering",
+    "Generative AI for fashion design including virtual try-on, sketch rendering, and colorway generation",
+    "Collaborative design canvas with AI-driven batch design operations",
+    "Conversational interfaces for designer control over AI-generated outputs"
+  ],
+  "tools_mentioned": [
+    "FastAPI",
+    "Next.js",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Anthropic Agent SDK",
+    "CrewAI",
+    "Function calling/tool use",
+    "LLM orchestration",
+    "LangGraph",
+    "Multimodal models",
+    "Prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "COMPUTER_VISION",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building AI agent systems — designing\nagent architectures, building orchestration layers for\nmulti-step AI workflows, and implementing tool-use/function\ncalling patterns. The engineer is hands-on with LLMs, agent\nframeworks (LangGraph, Anthropic Agent SDK), and generative\nAI capabilities, making this clearly an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "Anthropic Agent SDK",
+      "CrewAI",
+      "LLM orchestration",
+      "Prompt engineering",
+      "Function calling/tool use",
+      "AI agents",
+      "Multimodal models"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "Next.js",
+      "FastAPI"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [
+      "Computer vision",
+      "Image generation",
+      "Diffusion models"
+    ],
+    "other": [
+      "CRDTs",
+      "WebSockets"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-1367",
+  "source": "intl-ai-corpus",
+  "source_ref": "8417953",
+  "source_url": "https://builtin.com/job/staff-ai-engineer-growth/8417953",
+  "title": "Staff AI Engineer, Growth",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pinecone",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-05",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "125 Employees",
+  "company_stage": "Series C",
+  "company_focus": "Vector database for AI applications",
+  "industries": [],
+  "description": "About Pinecone:\n\nPinecone is the leading vector database for building\naccurate and performant AI applications at scale in\nproduction. Pinecone's mission is to make AI knowledgeable.\nMore than 9000 customers across various industries have\nshipped AI applications faster and more confidently with\nPinecone's developer-friendly technology. Pinecone is based\nin New York and raised $138M in funding from Andreessen\nHorowitz, ICONIQ, Menlo Ventures, and Wing Venture Capital.\n\nAbout The Role:\n\nThe Growth Marketing Lead will be instrumental in scaling\nPinecone's growth engine, blending technical execution with\nstrategic growth initiatives across Product-Led Growth (PLG)\nand sales-assisted motions. This role sits at the\nintersection of engineering, marketing, and product—building\nthe technical infrastructure and campaigns that convert\ndevelopers into qualified pipeline and revenue. You'll\narchitect automated systems, optimize conversion funnels,\nand leverage data-driven experimentation to accelerate\nPinecone's growth trajectory.\n\nResponsibilities:\n\n- Ship AI-driven signup experiments daily: Build and test\n  personalized landing pages, signup flows, and pricing\n  variants using semantic search to match visitor intent;\n  automate lead enrichment pipelines that classify ICP fit\n  and route high-value signups to SDRs instantly\n- Create adaptive activation systems: Build AI-powered\n  onboarding workflows that personalize tutorials, code\n  samples, and integration guides in real-time based on user\n  behavior; deploy automated health dashboards that flag\n  dormant users and trigger intervention experiments\n- Automate pipeline generation workflows: Use AI to generate\n  programmatic SEO content, optimize for search intent, and\n  detect buying signals from activity (Discord, GitHub,\n  website, ads); auto-enrich accounts and create CRM\n  opportunities\n- Build AI agents and internal research tools: Ship agents\n  that personalize email sequences, in-app messaging, and\n  Slack community outreach for external users; create\n  internal utilities for Marketing/Sales teams to instantly\n  look up user context, journey stage, and behavior patterns\n  using semantic search over CRM, product usage, and\n  community data\n- Build measurement and attribution infrastructure: Create\n  end-to-end tracking systems that connect traffic sources →\n  signups → activations with causal attribution; automate\n  dashboards and experiments that measure impact on\n  conversion rates, activation velocity, and pipeline\n  generation\n\nRequirements:\n\n- 4+ years building full-stack applications in production\n  environments (Python, JavaScript/TypeScript, or similar)\n- Hands-on experience with AI/ML APIs (OpenAI, Anthropic, or\n  similar) and vector databases\n- Track record driving measurable growth outcomes (signups,\n  activations, pipeline) in PLG or B2B SaaS\n- Proficiency with marketing automation platforms (HubSpot,\n  Salesforce) and data analysis tools (SQL, Python)\n- Strong experimentation mindset: A/B testing, measurement\n  frameworks, and data-driven decision making\n\nPreferred Skills:\n\n- Built AI agents, agentic RAG systems, or semantic search\n  applications\n- Experience with workflow automation tools (n8n, Zapier,\n  Clay) and CRM/data warehouse integrations\n- Developer marketing or technical GTM experience in\n  AI/infrastructure space\n- Early-stage startup background with hands-on growth\n  engineering\n- Familiarity with modern data stack (dbt, Snowflake/BigQuery,\n  reverse ETL)\n\nPerks & Benefits:\n\n- Comprehensive health coverage including Medical, Dental,\n  Vision\n- Free mental health therapy sessions; free One Medical, Tela-\n  doc, and Health Advocate subscriptions\n- Cost-savings on gynecology, fertility, and family-building\n  care\n- Equity award\n- 401(k)\n- Flexible time off\n- Paid parental leave\n- Annual Department Retreat\n- WFH Equipment Stipend\n\nAll qualified applicants will receive considerations for\nemployment without regard to race, color, religion, sex,\nage, disability, marital status, familial status, sexual\norientation, pregnancy, gender identity, gender expression,\nnational origin, ancestry, citizenship status, veteran\nstatus, and any other legally protected status under\nfederal, state, or local anti-discrimination laws.\n",
+  "skills_required": [
+    "AI agents",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "Semantic search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Ship AI-driven signup experiments daily including personalized landing pages, signup flows, and automated lead enrichment pipelines",
+    "Create adaptive activation systems with AI-powered onboarding workflows that personalize tutorials and integration guides in real-time",
+    "Automate pipeline generation workflows using AI to generate programmatic SEO content and detect buying signals from user activity",
+    "Build AI agents and internal research tools for personalized email sequences, in-app messaging, and user context lookup using semantic search",
+    "Build measurement and attribution infrastructure connecting traffic sources to signups and activations with causal tracking"
+  ],
+  "use_cases": [
+    "Personalized developer signup and onboarding flows using semantic search and AI-driven intent matching",
+    "Real-time personalization of tutorials, code samples, and integration guides based on user behavior",
+    "AI-powered lead enrichment and routing to sales teams with instant ICP classification",
+    "Automated programmatic SEO content generation and buying signal detection from community activity",
+    "Semantic search over CRM, product usage, and community data for instant user context lookup"
+  ],
+  "tools_mentioned": [
+    "BigQuery",
+    "Clay",
+    "HubSpot",
+    "Pinecone",
+    "SQL",
+    "Salesforce",
+    "Snowflake",
+    "Vector databases",
+    "Zapier",
+    "dbt",
+    "n8n"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "Semantic search"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building of AI-driven systems\nincluding agents, RAG applications, semantic search\nimplementations, and personalization workflows using AI/ML\nAPIs. The engineer is directly implementing AI solutions for\ngrowth marketing, not just supporting infrastructure for AI\nteams.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI/Anthropic APIs",
+      "RAG",
+      "Semantic search",
+      "AI agents"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Vector databases",
+      "SQL"
+    ],
+    "data": [
+      "HubSpot",
+      "Salesforce",
+      "dbt",
+      "Snowflake",
+      "BigQuery",
+      "n8n",
+      "Zapier",
+      "Clay"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

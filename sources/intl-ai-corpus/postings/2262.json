@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-2262",
+  "source": "intl-ai-corpus",
+  "source_ref": "8832763",
+  "source_url": "https://builtin.com/job/staff-software-engineer-enterprise-ai-platform/8832763",
+  "title": "Staff software engineer, enterprise AI platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Writer",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-21",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "350 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Enterprise generative AI platform for building and deploying\nAI agents",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Generative AI"
+  ],
+  "description": "🚀 About WRITER\n\nWRITER is where the world's leading enterprises orchestrate\nAI-powered work. Our vision is to expand human capacity\nthrough superintelligence. And we're proving it's possible –\nthrough powerful, trustworthy AI that unites IT and business\nteams together to unlock enterprise-wide transformation.\nWith WRITER's end-to-end platform, hundreds of companies\nlike Mars, Marriott, Uber, and Vanguard are building and\ndeploying AI agents that are grounded in their company's\ndata and fueled by WRITER's enterprise-grade LLMs. Valued at\n$1.9B and backed by industry-leading investors including\nPremji Invest, Radical Ventures, and ICONIQ Growth, WRITER\nis rapidly cementing its position as the leader in\nenterprise generative AI.\n\nFounded in 2020 with office hubs in San Francisco, New York\nCity, Austin, Chicago, and London, our team thinks big and\nmoves fast, and we're looking for smart, hardworking\nbuilders and scalers to join us on our journey to create a\nbetter future of work with AI.\n\n📐 About the role\n\nWe’re looking for a staff software engineer to join our\nenterprise admin team. This team owns the foundational\nsystems that enable large organisations to securely adopt\nand operate Writer at scale, including identity,\nauthentication, authorization, administration, and billing\nfoundations.\n\nYou'll design and build the foundational platform services\nthat our largest customers depend on for secure, reliable\naccess to Writer across their organisations. These systems\npower enterprise-grade access control, permissions, seat\nmanagement, usage governance, and subscription\ninfrastructure. The problems are non-trivial: multi-tenancy,\ndistributed systems, compliance constraints, scalability,\nand long-term architectural maintainability.\n\nThis is a hands-on engineering role for someone who enjoys\nowning systems end-to-end, from architecture and design\nthrough production reliability and iteration.\n\nThis role is hybrid, based out of our London hub. You’ll\nreport to an engineering director.\n\n🦸🏻‍♀️ What you’ll do\n\n- Design and build robust, scalable services for enterprise\n  administration, billing, identity management,\n  authentication, and authorization\n- Make meaningful system design decisions, own the\n  architecture of core platform components from initial\n  design through production\n- Build and optimise high-performance APIs and distributed\n  services that operate reliably at enterprise scale\n- Collaborate with product managers and cross-functional\n  engineering teams to translate complex business and\n  compliance requirements into well-designed technical\n  solutions\n- Partner with DevOps teams on continuous deployment, logging,\n  and monitoring; ensuring top-tier performance and\n  reliability\n- Drive improvements in observability, reliability, deployment\n  workflows, and operational excellence\n- Navigate ambiguity, take loosely defined problem spaces and\n  turn them into well-structured, maintainable\n  implementations\n- Raise the bar on code quality, testing, documentation, and\n  long-term maintainability\n\n⭐️ What you need\n\n- 7+ years of hands-on software engineering experience\n  building production systems end-to-end with extremely\n  strong proficiency with Python and functional programming\n- Strong system design skills, you can whiteboard a\n  distributed architecture, reason about trade-offs, and\n  make pragmatic decisions under uncertainty\n- Experience building microservices and RESTful APIs in cloud\n  environments (AWS, GCP, or Azure), including\n  containerization with Docker and Kubernetes\n- Solid grasp of database systems (e.g., PostgreSQL), event-\n  driven architectures, and distributed systems fundamentals\n  (availability, fault tolerance, operational safety)\n- Comfort operating in ambiguity, you drive clarity rather\n  than waiting for complete specifications, and you drive\n  clarity for yourself and the team\n- Experience coding with AI tools to move faster while\n  maintaining high standards for correctness, security, and\n  maintainability\n- A \"Connect\" mindset, thriving in collaborative settings\n  where you actively engage with cross-functional teams and\n  mentor junior engineers to achieve shared goals\n- A \"Challenge\" spirit, demonstrating exceptional problem-\n  solving skills to tackle complex technical hurdles and\n  proactively suggest innovative improvements to our systems\n  and processes\n- An “Own” mindset, you take full accountability for outcomes\n  from design through production, and you raise the bar on\n  quality and maintainability\n\nNice to have\n\n- Experience in identity and access management, authentication\n  (SSO, SAML, OIDC), and authorization models (RBAC, ABAC,\n  policy engines)\n- Experience building billing, subscription, or metering\n  systems at scale\n- Background in multi-tenant enterprise SaaS platforms\n- Experience with functional Scala is a strong plus\n\n🍩 Benefits & perks (UK full-time employees):\n\n- Generous PTO, plus company holidays\n- Comprehensive medical and dental insurance\n- Paid parental leave for all parents (12 weeks)\n- Fertility and family planning support\n- Early-detection cancer testing through Galleri\n- Competitive pension scheme and company contribution\n- Annual work-life stipends for:\n  - Wellness stipend for gym, massage/chiropractor, personal\n    training, etc.\n  - Learning and development stipend\n- Company-wide off-sites and team off-sites\n- Competitive compensation and company stock options\n",
+  "skills_required": [
+    "ABAC",
+    "Distributed systems",
+    "OIDC",
+    "RBAC",
+    "SAML",
+    "SSO"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build robust, scalable services for enterprise administration, billing, identity management, authentication, and authorization",
+    "Own the architecture of core platform components from initial design through production",
+    "Build and optimise high-performance APIs and distributed services that operate reliably at enterprise scale",
+    "Collaborate with product managers and cross-functional engineering teams to translate complex business and compliance requirements into well-designed technical solutions",
+    "Partner with DevOps teams on continuous deployment, logging, and monitoring for top-tier performance and reliability",
+    "Drive improvements in observability, reliability, deployment workflows, and operational excellence",
+    "Navigate ambiguity and turn loosely defined problem spaces into well-structured, maintainable implementations"
+  ],
+  "use_cases": [
+    "Enterprise identity and access management for AI platform adoption",
+    "Secure authentication and authorization for large organizations",
+    "Billing and subscription infrastructure for enterprise customers",
+    "Multi-tenant platform governance and compliance",
+    "Seat management and usage governance at scale"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Event-driven architecture",
+    "GCP",
+    "Kubernetes",
+    "Microservices",
+    "PostgreSQL",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building enterprise administration\ninfrastructure (identity, authentication, authorization,\nbilling) that enables organizations to use Writer's AI\nplatform. The engineer works ON the platform infrastructure\nthat supports AI adoption, not ON building/deploying AI\nmodels or agents themselves. This is enabling work for\ncustomers who use the AI products.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "Microservices"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [
+      "Event-driven architecture"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "Scala",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "SSO",
+      "SAML",
+      "OIDC",
+      "RBAC",
+      "ABAC",
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

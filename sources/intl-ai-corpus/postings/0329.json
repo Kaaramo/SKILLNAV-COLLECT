@@ -1,0 +1,115 @@
+{
+  "job_id": "intl-ai-corpus-0329",
+  "source": "intl-ai-corpus",
+  "source_ref": "7780047",
+  "source_url": "https://builtin.com/job/lead-ai-ml-engineer/7780047",
+  "title": "Lead AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Junior",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "111 Employees",
+  "company_stage": "Series A",
+  "company_focus": "LLM-powered investment research tools for private market\ninvestors",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software",
+    "Generative AI"
+  ],
+  "description": "👶 About Junior\n\nWe’re building cutting-edge LLM-powered tools to supercharge\nthe investment research process for private market\ninvestors. Our clients include several of the world’s top 10\nprivate equity and consulting firms, and are responsible for\ninvesting billions of dollars annually. We’re a profitable,\nbootstrapped company with a growing team of 24 based in\nLondon and NYC.\n\nYou can read more about the company mission & values here.\n\n💡 Role Description\n\nAs one of our first AI/ML hires, you'll have the unique\nopportunity to:\n\n- Work on groundbreaking projects involving a mix of LLMs and\n  traditional ML\n- Come up with novel research synthesis ideas using NLP\n  techniques and prove their business value\n- Collaborate closely with our external partners to fuel our\n  growth\n- Contribute to product decisions, direction and\n  prioritization\n- Shape our engineering culture\n\nWe’re live with >20 enterprise clients, and already have 10s\nof thousands of calls on our platform. There’s lots of data\nto improve on and build.\n\n🔧 Sample set of projects\n\n- Build a search ranking algorithm across open text,\n  integrating signals from user interactions (e.g., edits,\n  copies, and engagement metrics) alongside semantic and\n  PostgreSQL-based text search to improve relevance and\n  ranking across multiple features.\n- Build your coworker: build an in-house prompt system that\n  can use production signals or human labels to constantly\n  and iteratively refine and improve prompts and output\n- Build and open source a benchmark for evaluating LLM output\n  on investment research specific tasks\n- Build an agentic entity deduping system that uses signals\n  from within the app and valuable external data sources /\n  google to clean up the last mile of great STT output:\n  entity resolution\n- Build a knowledge graph custom to every research sprint that\n  begins as highly unstructured interview data and leverages\n  agentic infrastructure to pull in data where necessary and\n  constantly rebalance the graph and the derived output.\n\n🔥 About You\n\nWe're looking for product-minded ML engineers who:\n\n- Based in NYC\n- Are opinionated about their work and eager to contribute to\n  product decisions\n- Have strong communication skills and a desire for a client-\n  facing role\n- Are able to break down AI/ML problems for a non-technical\n  audience clearly and succinctly, and translate their\n  suggestions into testable experiments.\n- Have experience building LLM systems from the ground up in a\n  product-focused organization, and can help drive\n  everything from data gathering / logging → prompt\n  optimizing\n- Have a strong bias to action, highly organised and\n  experienced working with senior stakeholders to deliver\n  large projects end to end\n- Excited to build a team\n\n🌵 Benefits\n\nAll the usual benefits (competitive pay and equity, private\nhealthcare etc). Unusual benefits:\n\n- Gym membership\n- In-office cook\n- Summers working in Greece by the beach\n\n📩 How to Apply\n\nIf you're excited about the opportunity to drive innovation\nat Junior, we'd love to hear from you! We can't wait to meet\nyou! 🙌\n",
+  "skills_required": [
+    "LLMs",
+    "NLP",
+    "agents",
+    "entity resolution",
+    "prompt engineering",
+    "search ranking algorithms",
+    "semantic search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build LLM-powered systems including prompt optimization and agentic infrastructure",
+    "Develop search ranking algorithms integrating user interaction signals with semantic and text search",
+    "Create agentic entity deduplication systems for investment research data",
+    "Build and maintain knowledge graphs from unstructured interview data using agents",
+    "Conduct NLP research synthesis and prove business value for investment research use cases",
+    "Contribute to product decisions, direction, and engineering culture as an early ML hire"
+  ],
+  "use_cases": [
+    "Investment research process automation for private equity and consulting firms",
+    "Semantic search and ranking across unstructured text and interview data",
+    "Entity resolution and deduplication from speech-to-text output in investment research",
+    "Knowledge graph construction from unstructured interview data for research sprints",
+    "LLM-powered prompt systems that continuously refine outputs using production signals",
+    "Investment research benchmarking and evaluation using LLM outputs"
+  ],
+  "tools_mentioned": [
+    "PostgreSQL",
+    "knowledge graphs"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "NLP",
+    "agents",
+    "entity resolution",
+    "prompt engineering",
+    "search ranking algorithms",
+    "semantic search"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI/ML engineering role that involves directly\nbuilding LLM-powered systems including prompt optimization,\nagentic entity deduplication, knowledge graphs with agentic\ninfrastructure, and search ranking algorithms. The hands-on\nwork with LLMs, prompt engineering, and agent deployment\nqualifies this as ai-first, not just supporting\ninfrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "prompt engineering",
+      "agents",
+      "semantic search"
+    ],
+    "ml": [
+      "NLP",
+      "search ranking algorithms",
+      "entity resolution"
+    ],
+    "web": [],
+    "databases": [
+      "knowledge graphs",
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

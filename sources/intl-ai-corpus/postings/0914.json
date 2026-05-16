@@ -1,0 +1,119 @@
+{
+  "job_id": "intl-ai-corpus-0914",
+  "source": "intl-ai-corpus",
+  "source_ref": "7690054",
+  "source_url": "https://builtin.com/job/software-development-engineer-iii-gen-ai/7690054",
+  "title": "Software Development Engineer III - Gen AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "HighLevel",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "974 Employees",
+  "company_stage": "Growth/Late Stage",
+  "company_focus": "AI-powered white-label sales and marketing SaaS platform for\nagencies and businesses",
+  "industries": [
+    "Information Technology",
+    "Internet of Things",
+    "Marketing Tech"
+  ],
+  "description": "About HighLevel:\n\nHighLevel is an AI powered, all-in-one white-label sales &\nmarketing platform that empowers agencies, entrepreneurs,\nand businesses to elevate their digital presence and drive\ngrowth. We are proud to support a global and growing\ncommunity of over 2 million businesses, comprised of\nagencies, consultants, and businesses of all sizes and\nindustries. HighLevel empowers users  with all the tools\nneeded to capture, nurture, and close new leads into repeat\ncustomers. As of mid 2025, HighLevel processes over 4\nbillion API hits and handles more than 2.5 billion message\nevents every day. Our platform manages over 470 terabytes of\ndata distributed across five databases, operates with a\nnetwork of over 250 microservices, and supports over 1\nmillion hostnames.\n\nOur People\n\nWith over 1,500 team members across 15+ countries, we\noperate in a global, remote-first environment. We are\nbuilding more than software; we are building a global\ncommunity rooted in creativity, collaboration, and impact.\nWe take pride in cultivating a culture where innovation\nthrives, ideas are celebrated, and people come first, no\nmatter where they call home.\n\nOur Impact\n\nAs of mid 2025, our platform powers over 1.5 billion\nmessages, helps generate over 200 million leads, and\nfacilitates over 20 million conversations for the more than\n2 million businesses we serve each month. Behind those\nnumbers are real people growing their companies, connecting\nwith customers, and making their mark - and we get to help\nmake that happen.\n\nAbout the Role:\n\nWe are seeking an SDE3 to build and scale our Generative AI\nproducts. In this role, you will implement features end to\nend, contribute to design discussions (with guidance from\nsenior engineers), and collaborate across teams to deliver\nAI-driven systems at scale. You’ll focus on hands-on coding\nand applying best practices to keep our AI platforms\nperformant, reliable, and innovative.\n\nTeam-Specific Focus Area:\n\nAsk AI:\n\n-Build a centralized AI platform with a common frontend,\nconsistent UX, and a framework for future agents (Funnels\nAI, Workflows AI, Email Builder, Planner, etc.)\n\n-Develop Planner & Executor agents to plan multi-step goals\nand intelligently execute them using workflows and context\n\n-Launch and scale specialized agents for email, social\nmedia, ads, messaging, sales, reputation management, and\ncontent creation\n\n-Integrate with Agent Studio, Voice, and extend through the\nMCP server with 200+ tools and connectors\n\n-Ensure usage tracking, feedback, and billing readiness to\nsupport scale and monetization\n\nResponsibilities:\n\n- Architecture - Design the architecture and make sure it is\n  cost-efficient and aligned to the overall architectural\n  vision\n- Implementation - Implementing major/complex parts of the\n  product\n- Ownership - Take ownership of the delivery timeline and\n  coordinate the complete development of products\n- Releases - Take ownership of the product releases, pre-plan\n  and scale the infrastructure accordingly\n- Leadership - Communicate clear goals, provide constructive\n  feedback, manage, coach, and support the engineering team\n- Quality - Maintain high standards of code quality through\n  regular design and code reviews\n\nRequirements:\n\n- Proven expertise in architecting and scaling AI Agent\n  platforms with measurable adoption\n- Strong knowledge of RAG pipelines (retrieval optimization,\n  reranking, chunking, knowledge graphs)\n- Deep experience with conversational AI systems and\n  evaluation frameworks\n- Track record of scaling services to 200K+ MAUs (or\n  equivalent scale)\n- 4+ years of engineering experience, with demonstrated\n  leadership in technical decision-making\n- Strong communication skills and ability to collaborate\n  across engineering, product, and design\n- Bachelor’s degree or equivalent in Computer Science,\n  Engineering, or related field\n- Experience in Node.js and modern front-end frameworks\n  (Vue.js/React/Angular) is a plus\n\nEEO Statement:\n\nThe company is an Equal Opportunity Employer. As an employer\nsubject to affirmative action regulations, we invite you to\nvoluntarily provide the following demographic information.\nThis information is used solely for compliance with\ngovernment record-keeping, reporting, and other legal\nrequirements. Providing this information is voluntary and\nrefusal to do so will not affect your application status.\nThis data will be kept separate from your application and\nwill not be used in the hiring decision.\n\n#LI-Remote #LI-NJ1\n",
+  "skills_required": [
+    "AI Agents",
+    "Conversational AI",
+    "LangChain",
+    "MCP (Model Context Protocol)",
+    "RAG pipelines"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design architecture ensuring cost-efficiency and alignment with overall architectural vision",
+    "Implement major and complex parts of AI products and features",
+    "Take ownership of delivery timeline and coordinate complete development of products",
+    "Own product releases with pre-planning and infrastructure scaling",
+    "Communicate clear goals, provide feedback, coach and support the engineering team",
+    "Maintain high code quality standards through design and code reviews"
+  ],
+  "use_cases": [
+    "Multi-step goal planning and execution with Planner & Executor agents",
+    "Specialized agents for email, social media, ads, messaging, sales, reputation management, and content creation",
+    "Centralized AI platform with common frontend and consistent UX across products",
+    "Agent Studio integration with 200+ tools and connectors via MCP server",
+    "Lead capture, nurturing, and customer conversion through AI-driven workflows"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "Angular",
+    "Knowledge graphs",
+    "Microservices architecture",
+    "React",
+    "Vector databases",
+    "Vue.js"
+  ],
+  "frameworks_mentioned": [
+    "AI Agents",
+    "Conversational AI",
+    "LangChain",
+    "MCP (Model Context Protocol)",
+    "RAG pipelines"
+  ],
+  "languages_programming": [
+    "Node.js"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building AI Agent platforms,\ndeveloping Planner & Executor agents, implementing RAG\npipelines, and architecting generative AI systems. The\nposition requires hands-on work creating, deploying, and\nscaling AI agents and conversational AI systems, not just\nsupporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "RAG pipelines",
+      "AI Agents",
+      "Conversational AI",
+      "MCP (Model Context Protocol)",
+      "LangChain"
+    ],
+    "ml": [],
+    "web": [
+      "Vue.js",
+      "React",
+      "Angular",
+      "API design"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Knowledge graphs"
+    ],
+    "cloud": [],
+    "ops": [
+      "Microservices architecture"
+    ],
+    "languages": [
+      "Node.js"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

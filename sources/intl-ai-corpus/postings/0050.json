@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0050",
+  "source": "intl-ai-corpus",
+  "source_ref": "6707113",
+  "source_url": "https://builtin.com/job/ai-engineer/6707113",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Rilla",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "67 Employees",
+  "company_stage": "Series B or later",
+  "company_focus": "Conversation intelligence software for offline commerce",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "A Foundational Company\n\nRilla builds the world’s leading conversation intelligence\nsoftware for offline commerce.\n\nBy recording, analyzing, and indexing conversations, our\nplatform supplies unparalleled alpha to the critical,\nphysical businesses that constitute the backbone of our\neconomy.\n\nOur purpose is to bring the technology of the 21st century’s\nmost innovative companies to the rest of the economy.\n\nAs a side effect of this mission, we’ve become one of the\nfastest growing companies in history. In numbers, that means\n0→$40M in 3.5 years, growing 15% MoM, Net Revenue Retention\nabove 170%, an NPS higher than the iPhone’s, and\nprofitability.\n\nThe Role\n\nAI Engineers at Rilla are redefining how humans interact\nwith machines—using voice, intelligence, and a whole new\nclass of data.\n\nEvery day, you’ll architect and ship AI-powered systems that\nmake it possible for people to talk to Rilla like they would\na human. You’ll help build agents that operate natively on\nreal-world audio, extract insights from conversations no one\nelse can even access, and push the boundaries of what’s\npossible in AI.\n\nWe’re building:\n\n- A voice-first interface that lets users command Rilla\n  directly through natural speech\n- A search engine that uncovers business-critical insights\n  from voice data that’s never been searchable\n- A first-of-its-kind audio intelligence pipeline—designed for\n  the messy, noisy, wildly unstructured conversations that\n  happen in the real world, not in an online meeting\n\nAs an early AI engineer, you’ll shape the foundations of our\nAI stack and drive the invention of new techniques, tooling,\nand models. You’ll work across the full AI lifecycle—from\ndata acquisition to real-time inference and user-facing chat\ninterfaces.\n\nIf you’re obsessive about your craft, think like a founder,\nand want to be on the frontier of voice and offline AI, this\nis your team. The scale of the problems we’re solving is\nunmatched—and the surface area for ownership is only getting\nbigger.\n\nTechnologies We Use\n\n- We work primarily in Python and TypeScript, with FastAPI for\n  API development\n- AI/ML technologies including PyTorch, OpenAI APIs, Baseten,\n  and LiteLLM\n- Cloud infrastructure with AWS and LiveKit for real-time\n  communications\n- PostgreSQL, Redis, and S3 for data storage\n\nWhat We Value\n\n- An infinite learner. Someone who is relentless in their\n  curiosity.\n- A customer obsessive. Someone who deeply care about\n  delighting customers and solving real pains, not vanity\n  metrics.\n- A winning attitude. You thrive with extreme accountability,\n  learning as a team, and both giving and receiving rapid\n  feedback.\n- Extreme empathy. Our customers are not tech companies. They\n  live and work in the real world. Empathy is critical to\n  arriving at correct solutions.\n- Unafraid of failure. You take risks. You see failure as an\n  opportunity to learn, grow, and be better the next time.\n  In a weird way, you trick your brain into being excited\n  when you fail, because it means you got a new opportunity\n  to learn more.\n\nWhat We Require\n\n- Experience building and deploying AI/LLM systems in\n  production\n- Familiarity with tools that power today's AI: eval\n  frameworks, agent tooling, and prompt engineering\n- Comfort working directly with customers to understand their\n  needs and solve real-world problems\n\nDon’t Work Here\n\nPlease don't join if you're not excited about:\n\n- Building an AI product for an industry untouched by modern\n  software\n- Constantly talking to and visiting customers in the field\n- Working ~70 hrs/week in person with some of the most\n  ambitious people in NYC\n- Attempting to build a generational company, and the\n  intensity required to do so\n\nCompensation\n\nThe estimated salary range for this position is $200,000 -\n$300,000/year.\n\nSuccessful candidates with competing offers will receive\nmatching and competitive offers.\n\nTotal compensation for this position may also include\nIncentive Stock Options, sign-on bonus, and other potential\nfuture incentives. This estimate excludes the value of any\npotential sign-on bonus; the value of any benefits offered;\nand the potential future value of any long-term incentives.\n\nOur benefits aim to empower Rilla employees in removing\nroadblocks to achieving their life’s work. The list below\ndetails our available benefits and some of the perks that\ncan be enjoyed as an employee of Rilla.\n\nBenefits\n\n- Medical, dental, and vision insurance\n- Breakfast, lunch, dinner, and supplementary food and drink —\n  6x a week\n- Gym membership\n- Commuter benefits\n- Relocation assistance\n- Take what you need paid time off, not accrual based\n- $1,000 stipend for learning and personal growth\n- $1,500 a month rent stipend\n- Tech equipment\n",
+  "skills_required": [
+    "OpenAI APIs",
+    "PyTorch",
+    "agent tooling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and ship AI-powered systems for voice-first interfaces and command functionality",
+    "Build AI agents that operate natively on real-world audio data",
+    "Develop audio intelligence pipeline for unstructured, noisy real-world conversations",
+    "Create search engine capabilities to extract business-critical insights from voice data",
+    "Work across full AI lifecycle from data acquisition to real-time inference",
+    "Shape the foundations of the AI stack and drive invention of new techniques and models",
+    "Deploy AI/LLM systems in production environments",
+    "Work directly with customers to understand needs and solve real-world problems"
+  ],
+  "use_cases": [
+    "Voice-first interface allowing users to command Rilla through natural speech",
+    "Search engine uncovering business-critical insights from previously unsearchable voice data",
+    "Audio intelligence pipeline for analyzing messy, noisy offline conversations in physical businesses",
+    "Real-time conversation analysis and indexing for offline commerce",
+    "Extracting actionable intelligence from real-world audio interactions in physical business settings"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "FastAPI",
+    "LLM system deployment",
+    "LiveKit",
+    "PostgreSQL",
+    "Redis",
+    "S3",
+    "eval frameworks",
+    "real-time inference"
+  ],
+  "frameworks_mentioned": [
+    "OpenAI APIs",
+    "PyTorch",
+    "agent tooling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves directly building AI-powered systems\nincluding voice interfaces, AI agents that operate on real-\nworld audio, and audio intelligence pipelines. The engineer\nwill work across the full AI lifecycle from data acquisition\nto real-time inference, deploying LLM systems and working\nwith agent tooling and prompt engineering.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI APIs",
+      "prompt engineering",
+      "agent tooling"
+    ],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "S3"
+    ],
+    "ops": [
+      "eval frameworks",
+      "LiveKit",
+      "LLM system deployment",
+      "real-time inference"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

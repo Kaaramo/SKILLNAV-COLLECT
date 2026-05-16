@@ -1,0 +1,145 @@
+{
+  "job_id": "intl-ai-corpus-2070",
+  "source": "intl-ai-corpus",
+  "source_ref": "8734409",
+  "source_url": "https://builtin.com/job/fullstack-engineer-ai/8734409",
+  "title": "Fullstack Engineer (AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Redica Systems",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-12",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "89 Employees",
+  "company_stage": "Start-up",
+  "company_focus": "SaaS data analytics platform for life sciences quality and\nregulatory compliance",
+  "industries": [
+    "Information Technology",
+    "Machine Learning",
+    "Analytics"
+  ],
+  "description": "Company Description\n\nRedica Systems is a SaaS start-up serving more than 200\ncustomers within the life science sector, with a specific\nfocus on Pharmaceuticals and MedTech. Our workforce is\ndistributed globally, with headquarters in Pleasanton, CA.\n\nRedica's data analytics platform empowers companies to\nimprove product quality and navigate evolving regulations.\nUsing proprietary processes, we harness one of the\nindustry's most comprehensive datasets, sourced from\nhundreds of health agencies and the Freedom of Information\nAct.\n\nOur customers use Redica Systems to more effectively and\nefficiently manage their inspection preparation, monitor\ntheir supplier quality, and perform regulatory surveillance.\n\nMore information is available at redica.com.\n\nJob Description\n\nWe’re looking for an experienced Full-stack Developer to\njoin our AI team as we continue to develop the first-of-its-\nkind AI-driven Quality and Regulatory Intelligence (QRI)\nplatform for the life sciences industry.\n\nCore Responsibilities\n\n- Collaborate with the Product Team to understand and solidify\n  business requirements and use cases for AI Applications\n- Contribute to the architecture, design, and implementation\n  of the Backend APIs (Python, FastAPI) for Generative AI\n  functionalities\n- Contribute to the architecture, design, and implementation\n  of Frontend UI (React, NextJS) for AI Applications\n- Contribute to designing the AWS architecture and service\n  stack to host the Frontend and Backend of AI applications\n  in a fault-tolerant and robust manner\n- Develop effective Unit, Integration, and E2E testing\n  strategies for the developed components\n- Write correct and clean code with minimal guidance and\n  consistently follow developer best practices\n- Suggest improvements and optimizations to processes and\n  implement them systematically\n\nAbout you\n\n- Tech Savvy: Actively adopting and incorporating new tools\n  and frameworks into projects\n- Manages Complexity: Proficient in managing complexity,\n  integrating various systems seamlessly\n- Plans and Aligns: Able to create and follow a project plan\n  and align tasks with organizational goals\n- Collaborates: Able to work effectively with team members and\n  contribute to shared objectives\n- Manages Ambiguity: Able to handle ambiguity, adapt to\n  changing requirements\n\nEngaged: You share our values and possess the essential\ncompetencies needed to thrive at Redica, as outlined here:\nhttps://redica.com/about-us/careers/\n\nQualifications\n\n- 3+ years of developer experience in full-stack application\n  development\n- Strong experience building frontend UI components with\n  React/NextJS\n- Experience designing and building backend APIs in Python\n  (e.g. FastAPI, Flask, Django)\n- Knowledge of AWS services required to containerize, host,\n  and orchestrate AI frontend/backend services (ECS, Lambda,\n  EC2, ALB, API Gateway, Cloudfront, etc.)\n- Solid understanding of API design best practices\n- Hands-on experience in integrating backend APIs with SQL\n  (Postgres/MySQL/Other) and no-SQL databases\n  (DynamoDB/MongoDB/Other)\n- Basic understanding of LLMs and Generative AI applications\n- Computer Science, Computer Engineering, or a similar\n  technical degree\n\nBonus Points\n\n- Strong understanding of AI/ML concepts\n- Experience building applications with LLMs/Generative AI,\n  RAG\n- Familiarity with AI frameworks like Langchain, LangGraph,\n  Llamaindex\n- Familiarity with Foundation Model APIs from LLM providers:\n  OpenAI, Anthropic, Gemini\n\nAdditional Information\n\nTop pharmaceutical companies, food manufacturers, medtech\ncompanies, and service firms from around the globe rely on\nRedica Systems to mine and process government inspection,\nenforcement, and registration data. This enables them to\nquantify risk signals from their suppliers, identify market\nopportunities, benchmark against peers, and prepare for the\nlatest inspection trends.\n\nOur data and analytics have been cited by major media\noutlets including MSNBC, The Wall Street Journal (WSJ), and\nThe Boston Globe.\n",
+  "skills_required": [
+    "Anthropic API",
+    "Gemini API",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate with Product Team to understand and solidify business requirements and use cases for AI Applications",
+    "Contribute to architecture, design, and implementation of Backend APIs (Python, FastAPI) for Generative AI functionalities",
+    "Contribute to architecture, design, and implementation of Frontend UI (React, NextJS) for AI Applications",
+    "Design AWS architecture and service stack to host AI frontend/backend applications in a fault-tolerant manner",
+    "Develop Unit, Integration, and E2E testing strategies for developed components",
+    "Write correct and clean code following developer best practices",
+    "Suggest improvements and optimizations to processes and implement them systematically"
+  ],
+  "use_cases": [
+    "AI-driven Quality and Regulatory Intelligence (QRI) platform for life sciences industry",
+    "Inspection preparation management for pharmaceutical companies",
+    "Supplier quality monitoring",
+    "Regulatory surveillance",
+    "Risk signal quantification from suppliers",
+    "Market opportunity identification and benchmarking"
+  ],
+  "tools_mentioned": [
+    "API Gateway",
+    "AWS",
+    "CloudFront",
+    "Django",
+    "DynamoDB",
+    "EC2",
+    "ECS",
+    "FastAPI",
+    "Flask",
+    "Lambda",
+    "MongoDB",
+    "MySQL",
+    "Next.js",
+    "Postgres",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "Gemini API",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves implementing Generative AI\nfunctionalities including RAG, and working with LLM\nframeworks (LangChain, LangGraph, LlamaIndex) to build AI\napplications. The position is on the dedicated AI team\nbuilding AI-driven Quality and Regulatory Intelligence\nplatform.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "OpenAI API",
+      "Anthropic API",
+      "Gemini API",
+      "LLMs"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "Django",
+      "React",
+      "Next.js"
+    ],
+    "databases": [
+      "Postgres",
+      "MySQL",
+      "DynamoDB",
+      "MongoDB"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "ECS",
+      "Lambda",
+      "EC2",
+      "API Gateway",
+      "CloudFront"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

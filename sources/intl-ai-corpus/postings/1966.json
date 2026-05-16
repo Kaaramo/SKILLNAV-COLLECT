@@ -1,0 +1,149 @@
+{
+  "job_id": "intl-ai-corpus-1966",
+  "source": "intl-ai-corpus",
+  "source_ref": "8668549",
+  "source_url": "https://www.builtinla.com/job/senior-applied-ai-engineer/8668549",
+  "title": "Senior Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Genius Sports",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-05",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Sports technology and data solutions for fans, broadcasts,\nand live sports experiences",
+  "industries": [
+    "AdTech",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Marketing Tech",
+    "Software",
+    "Sports",
+    "Big Data Analytics"
+  ],
+  "description": "By bringing together next-gen technology and the finest live\ndata available, Genius Sports is enabling a new era of\nsports for fans worldwide, delivering experiences that are\nmore immersive, interactive and personalized than ever\nbefore. Learn more at geniussports.com. \n\nAbout the Role\n\nWe are looking for a Senior Applied AI Engineer to build\nproduction-grade, multimodal (audio/video/text) systems that\nconvert broadcast and radio feeds into structured, real-time\nsignals and event candidates. You will implement and evolve\n“agentic” components (sensor agents, specialist agents,\ndecision logic) that power products like Audio Intelligence,\nsemi-automated broadcast-to-data tagging, and\nhighlight/momentum signals.\n\nWe will lean on your technical expertise and your pragmatic\napproach to problem solving; working in a team that\nprioritizes the principles of Agile delivery and continuous\nimprovement. You will have a Data-driven, evidence-based\nmentality, comfortable with the principles of continuous\nexperimentation and validation.\n\nKey Responsibilities\n\n- Build and maintain multimodal agents:\n- Implement streaming-friendly pipelines: chunking,\n  normalization, time-sync, async execution, and robust\n  retry/backoff for model/tool calls.\n- Develop prompt-as-code with strict JSON contracts, schema\n  validation, and deterministic post-processing to reduce\n  brittleness.\n- Improve system robustness under noisy inputs by:\n- Partner with product, platform, and domain leads to\n  translate sport rules/edge cases into validation logic and\n  to integrate outputs into downstream consumers (tagging,\n  live feeds, analytics).\n- Contribute to the evaluation workflow by adding test cases,\n  failure mode categories, and regression checks for prompts\n  and model routing.\n- Stay up-to-date with emerging Gen AI technologies, tools,\n  and best practices.\n- Mentor and support other team members in data engineering\n  principles and practices.\n\n\nQualifications \n\n- 5–8+ years of professional software engineering experience\n  (backend and/or ML systems).\n- Strong proficiency in one or more of: Python, Java, Rust.\n- Hands-on experience building production services involving\n  LLM or multimodal model integration (including Gemini,\n  ChatGPT or Claude).\n- Comfortable with ambiguity, iterative experimentation, and\n  evidence-based decision-making in an Agile environment.\n- Experience with streaming data platforms like Kafka, Pulsar,\n  Flink\n- Experience with AWS Bedrock or Google Vertex AI\n- Familiarity with version control systems (e.g., Git).\n- Excellent problem-solving skills and attention to detail.\n- Ability to work independently and as part of a team.\n- Strong communication skills.\n\n\nPreferred Qualifications \n\n- Experience with audio ML / speech / acoustic event\n  detection, or media pipelines (audio/video chunking,\n  sync).\n- Experience with RAG or rules/config grounding for sport-\n  specific logic (league configs, terminology, rulebooks).\n- Familiarity with evaluation practices (golden sets,\n  precision/recall, drift monitoring) and production\n  observability.\n- Experience operating systems where cost/latency tradeoffs\n  matter (routing “flash vs heavy” models, caching,\n  batching).\n\nThe salary for this role is based on an annualized range of\n$180,000 - $230,000 USD. This role will also be eligible to\ntake part in Genius Sports Group's benefits plan.\n\nWe enjoy an ‘office-first’ culture and maximize\nopportunities to collaborate, connect and learn together.\nOur hybrid working models differ depending on your role and\nlocation. Occasional travel may be required.\n\nAs well as a competitive salary and range of benefits, we’re\ncommitted to supporting employee wellbeing and helping you\ngrow your skills, experience and career. Learn more about\nhow rewarding life at Genius can be at Reward | Genius\nSports. One team, being brave, driving change \n\nWe strive to create an inclusive working environment, where\neveryone feels a sense of belonging and the ability to make\na difference. Learn more about our values and culture at\nCulture | Genius Sports.\n\nLet us know when you apply if you need any assistance during\nthe recruiting process due to a disability.\n",
+  "skills_required": [
+    "Acoustic Event Detection",
+    "Agents",
+    "Audio ML",
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "LLMs",
+    "Multimodal AI",
+    "Prompt Engineering",
+    "RAG",
+    "Speech Recognition"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain multimodal agents processing audio/video/text streams",
+    "Implement streaming-friendly pipelines with chunking, normalization, time-sync, and async execution",
+    "Develop prompt-as-code with JSON contracts, schema validation, and deterministic post-processing",
+    "Improve system robustness under noisy inputs",
+    "Partner with product and domain leads to translate sport rules into validation logic",
+    "Contribute to evaluation workflow with test cases and regression checks for prompts and model routing",
+    "Stay current with emerging GenAI technologies and best practices",
+    "Mentor team members in data engineering principles"
+  ],
+  "use_cases": [
+    "Converting broadcast and radio feeds into structured real-time signals",
+    "Audio Intelligence for sports content analysis",
+    "Semi-automated broadcast-to-data tagging",
+    "Highlight and momentum signal generation for sports events",
+    "Real-time event candidate detection from multimodal sources"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "Evaluation/Monitoring",
+    "Flink",
+    "Git",
+    "Google Vertex AI",
+    "Kafka",
+    "Pulsar"
+  ],
+  "frameworks_mentioned": [
+    "Acoustic Event Detection",
+    "Agents",
+    "Audio ML",
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "LLMs",
+    "Multimodal AI",
+    "Prompt Engineering",
+    "RAG",
+    "Speech Recognition"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and implementing production-\ngrade multimodal AI agents, LLM integration, and agentic\nsystems (sensor agents, specialist agents, decision logic).\nThe position requires hands-on work with AI models including\nfine-tuning, prompt engineering, and building AI-powered\nproducts like Audio Intelligence and automated tagging\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "Multimodal AI",
+      "Prompt Engineering",
+      "RAG",
+      "Agents",
+      "Gemini",
+      "ChatGPT",
+      "Claude"
+    ],
+    "ml": [
+      "Audio ML",
+      "Speech Recognition",
+      "Acoustic Event Detection"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Kafka",
+      "Pulsar",
+      "Flink"
+    ],
+    "cloud": [
+      "AWS Bedrock",
+      "Google Vertex AI"
+    ],
+    "ops": [
+      "Git",
+      "Evaluation/Monitoring"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "Rust"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

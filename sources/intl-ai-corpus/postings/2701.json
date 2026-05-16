@@ -1,0 +1,156 @@
+{
+  "job_id": "intl-ai-corpus-2701",
+  "source": "intl-ai-corpus",
+  "source_ref": "8976069",
+  "source_url": "https://builtin.com/job/ai-engineer/8976069",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ford Motor Company",
+  "company_type": "entité morale privée",
+  "location": "Chennai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-07",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "175,633 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global automotive manufacturer with financial services risk\nanalytics",
+  "industries": [],
+  "description": "In this role, you will act as a force multiplier for our\nquantitative analytics teams. Your primary mission will be\nto design, build, and deploy Generative AI tools and Large\nLanguage Model (LLM) applications that assist our analytical\nmodelers in their day-to-day work. Whether it is building AI\nco-pilots for code generation, creating automated model-\ndocumentation generators, you will build the AI\ninfrastructure that makes our FC risk team faster, more\nefficient, and more innovative.\n\nResponsibilities\n\n- Internal AI Tool Development: Architect and build LLM-\n  powered applications, AI agents, and workflow automations\n  specifically designed to assist model validators and\n  quantitative modelers (e.g., Independent validation\n  agents, code-generation agents, and Monitoring agents).\n- AI-Ops & Infrastructure (LLMOps): Establish robust AI-Ops\n  pipelines to manage the end-to-end lifecycle of Generative\n  AI tools. Implement automated deployment, version control,\n  prompt tracking, and continuous monitoring for model\n  performance and hallucination mitigation.\n- Cloud & CI/CD Engineering: Deploy highly available AI\n  microservices using Google Cloud Platform (GCP). Manage\n  CI/CD pipelines using Infrastructure as Code (e.g.,\n  Terraform, Cloud Build) to ensure seamless and secure\n  continuous integration.\n- User-Centric Collaboration: Work closely with analytical\n  modelers to deeply understand their daily bottlenecks,\n  data prep challenges, and coding workflows, translating\n  those pain points into effective AI solutions.\n- Security & Governance: Ensure all internal AI tools adhere\n  to Ford's strict data privacy, security, and compliance\n  standards, implementing guardrails for internal data\n  usage.\n\nSkills & Knowledge Required\n\n- LLM & GenAI Technologies: Strong hands-on experience with\n  LLM orchestration frameworks (e.g., LangChain, Google ADK,\n  MCP), and utilizing commercial or open-source foundation\n  models.\n- AI-Ops / LLMOps: Proficiency in tools for monitoring,\n  tracing, and evaluating LLM outputs.\n- Vector Databases: Experience working with vector search\n  technologies (e.g., GCP Vertex Vector Search, Sentence\n  Transformer, ColBERT) for retrieval using encoder based\n  models.\n- Software Engineering: 4+ years of advanced hands-on\n  experience with Python programming and building robust\n  APIs (FastAPI, Flask) to serve AI models to end-users.\n- Cloud Platform: Extensive experience in Google Cloud\n  Platform (GCP), specifically with Cloud Build, Cloud Run,\n  GCS, BigQuery.\n- Analytics Workflow Understanding: Familiarity with the\n  general workflows of data scientists and modelers (data\n  wrangling, feature engineering, model validation) so you\n  can effectively build tools that serve them.\n\nQualifications\n\n- Education: Master’s or Bachelor’s degree in Computer\n  Science, Software Engineering, Artificial Intelligence,\n  Data Science, or a related technical discipline.\n- AI/Engineering Experience: 4–7 years of overall software\n  engineering or AI development experience (Python –\n  PyTorch, Pandas), with at least 1–2 years of dedicated,\n  hands-on experience building and deploying LLMs and GenAI\n  applications into production.\n- DevOps/MLOps: Proven track record of implementing CI/CD for\n  machine learning/AI, containerization (Docker/Kubernetes),\n  and cloud infrastructure management.\n- Good to Have (Optional):\n  - Previous exposure to the Banking, Financial Services, or\n    Credit Analytics industries.\n  - Familiarity with SAS to aid in building code-translation or\n    modernization tools for modelers.\n",
+  "skills_required": [
+    "AI agents",
+    "ColBERT",
+    "Foundation models",
+    "Google ADK",
+    "Hallucination mitigation",
+    "LLM orchestration frameworks",
+    "LangChain",
+    "MCP",
+    "Prompt tracking",
+    "PyTorch",
+    "RAG",
+    "Sentence Transformer"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and build LLM-powered applications, AI agents, and workflow automations for model validators and quantitative modelers",
+    "Establish robust AI-Ops pipelines managing the end-to-end lifecycle of Generative AI tools including deployment, version control, prompt tracking, and monitoring",
+    "Deploy highly available AI microservices on Google Cloud Platform using Infrastructure as Code and CI/CD pipelines",
+    "Collaborate with analytical modelers to understand bottlenecks and translate pain points into effective AI solutions",
+    "Ensure all internal AI tools adhere to data privacy, security, and compliance standards with appropriate guardrails",
+    "Build AI co-pilots for code generation, automated model-documentation generators, and monitoring agents"
+  ],
+  "use_cases": [
+    "AI co-pilots for code generation assisting quantitative modelers",
+    "Automated model documentation generation for risk models",
+    "Independent validation agents for model review processes",
+    "Monitoring agents for ongoing model performance tracking",
+    "Code-translation and modernization tools for SAS-to-Python migration",
+    "Workflow automations for data preparation and feature engineering"
+  ],
+  "tools_mentioned": [
+    "BigQuery",
+    "CI/CD",
+    "Cloud Build",
+    "Cloud Run",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "GCP Vertex Vector Search",
+    "Google Cloud Platform",
+    "Kubernetes",
+    "LLMOps",
+    "Pandas",
+    "Terraform",
+    "Vector search"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "ColBERT",
+    "Foundation models",
+    "Google ADK",
+    "Hallucination mitigation",
+    "LLM orchestration frameworks",
+    "LangChain",
+    "MCP",
+    "Prompt tracking",
+    "PyTorch",
+    "RAG",
+    "Sentence Transformer"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building, deploying, and managing LLM-\npowered applications, AI agents, and GenAI tools. The\nengineer is hands-on with foundation models, LangChain,\nvector databases, and LLM orchestration — clearly working ON\nAI systems, not just supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Google ADK",
+      "MCP",
+      "LLM orchestration frameworks",
+      "Foundation models",
+      "AI agents",
+      "Prompt tracking",
+      "Sentence Transformer",
+      "ColBERT",
+      "Hallucination mitigation",
+      "RAG"
+    ],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask"
+    ],
+    "databases": [
+      "Vector search",
+      "GCP Vertex Vector Search",
+      "BigQuery"
+    ],
+    "data": [
+      "Pandas"
+    ],
+    "cloud": [
+      "Google Cloud Platform",
+      "Cloud Build",
+      "Cloud Run"
+    ],
+    "ops": [
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "LLMOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

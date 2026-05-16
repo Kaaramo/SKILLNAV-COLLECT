@@ -1,0 +1,36 @@
+company:
+  name: SQLI
+  stage: null
+  focus: null
+position:
+  title: Data Engineer MS Fabric PySpark (H/F)
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - data lake
+    - databricks
+    - sql
+    cloud:
+    - azure
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - Big Data
+    - Git
+    - NoSQL
+    - PySpark
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4315404012'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

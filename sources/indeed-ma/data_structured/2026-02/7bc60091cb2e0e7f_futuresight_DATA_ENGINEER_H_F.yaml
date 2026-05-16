@@ -1,0 +1,39 @@
+company:
+  name: futuresight
+  stage: null
+  focus: null
+position:
+  title: DATA ENGINEER (H/F)
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases:
+  - Data pipeline engineering
+  skills:
+    genai:
+    - genai
+    ml:
+    - machine learning
+    web: []
+    databases: []
+    data:
+    - kafka
+    - spark
+    - sql
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops:
+    - docker
+    languages:
+    - python
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 7bc60091cb2e0e7f
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

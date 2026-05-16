@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-2211",
+  "source": "intl-ai-corpus",
+  "source_ref": "8810541",
+  "source_url": "https://builtin.com/job/ai-ml-engineer-lang-chain-lang-graph-and-mcp/8810541",
+  "title": "AI/ML Engineer - Lang Chain, Lang Graph and MCP",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Optum",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-19",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "160,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Healthcare technology, pharmacy benefits, and care delivery\nservices",
+  "industries": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Healthtech",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Requisition Number: 2344880 Optum is a global organization\nthat delivers care, aided by technology to help millions of\npeople live healthier lives. The work you do with our team\nwill directly improve health outcomes by connecting people\nwith the care, pharmacy benefits, data and resources they\nneed to feel their best. Here, you will find a culture\nguided by inclusion, talented peers, comprehensive benefits\nand career development opportunities. Come make an impact on\nthe communities we serve as you help us advance health\noptimization on a global scale. Join us to start Caring.\nConnecting. Growing together. Primary Responsibilities:\n\n- Design and implement multi-agent AI systems using LangChain,\n  LangGraph, MCP, and advanced memory architectures\n- Build Retrieval-Augmented Generation (RAG) pipelines\n  including text chunking, embedding, indexing, and vector\n  retrieval\n- Develop and maintain AI agent orchestration frameworks,\n  ensuring reliable tool use, memory updates, and agent to\n  agent communication\n- Integrate LLMs with enterprise systems through secure API\n  patterns, prompt orchestration, and contextual memory\n- Implement and optimize vector database solutions\n- Architect production-reference AI pipelines on Azure using:\n  - Azure Foundry (Azure AI Foundry) for model hosting,\n    evaluation, and monitoring\n  - Azure AI Search for hybrid retrieval, semantic search, and\n    grounding\n  - Azure Container Apps / Azure Kubernetes Service (AKS) for\n    scalable deployment\n- Containerize and deploy AI systems using Docker, Azure\n  Container Registry (ACR), and orchestrate using ACA/AKS\n- Productionize agentic/RAG solutions with CI/CD,\n  observability, autoscaling, and reliability best practices\n- Collaborate with product and data engineering teams to\n  deliver end-to-end AI capabilities\n- Comply with the terms and conditions of the employment\n  contract, company policies and procedures, and any and all\n  directives (such as, but not limited to, transfer and/or\n  re-assignment to different work locations, change in teams\n  and/or work shifts, policies in regard to flexibility of\n  work benefits and/or work environment, alternative work\n  arrangements, and other decisions that may arise due to\n  the changing business environment). The Company may adopt,\n  vary or rescind these policies and directives in its\n  absolute discretion and without any limitation (implied or\n  otherwise) on its ability to do so\n\nRequired Qualifications:\n\n- B.Tech./MCA/Graduation (15+ years of formal education,\n  Correspondence courses are not relevant)\n- 6+ years of total experience\n- Experience with RAG architecture, including Vector storage\n  and retrieval, Embedding pipelines, Query routing and\n  relevance tuning\n- Solid understanding of AI concepts, including multi-agent\n  systems, Memory architectures, Reasoning & tool driven\n  agents\n- Hands-on expertise with: Lang Chain, Lang Graph and MCP\n  (Model Context Protocol)\n- Practical knowledge of vector databases and similarity\n  search\n- Proficient in Python, AI/ML libraries, and API development\n\nPreferred Qualifications:\n\n- Solid experience with Azure cloud, including:\n  - Experience containerizing AI solutions using Docker\n  - Azure AI Foundry / Azure OpenAI / Prompt Flow, Azure AI\n    Search, Azure Container Apps, Azure\n  - Kubernetes Service (AKS), Azure Container Registry (ACR)\n  - Ability to deploy, scale, monitor, and produce AI workloads\n    on cloud infrastructure\n  - Familiarity with MLOps, CI/CD pipelines, and model lifecycle\n    management\n\nAt UnitedHealth Group, our mission is to help people live\nhealthier lives and make the health system work better for\neveryone. We believe everyone - of every race, gender,\nsexuality, age, location and income - deserves the\nopportunity to live their healthiest life. Today, however,\nthere are still far too many barriers to good health which\nare disproportionately experienced by people of color,\nhistorically marginalized groups and those with lower\nincomes. We are committed to mitigating our impact on the\nenvironment and enabling and delivering equitable care that\naddresses health disparities and improves health outcomes -\nan enterprise priority reflected in our mission.\n",
+  "skills_required": [
+    "Embedding pipelines",
+    "LangChain",
+    "LangGraph",
+    "MCP (Model Context Protocol)",
+    "Multi-agent systems",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement multi-agent AI systems using LangChain, LangGraph, MCP, and advanced memory architectures",
+    "Build Retrieval-Augmented Generation (RAG) pipelines including text chunking, embedding, indexing, and vector retrieval",
+    "Develop and maintain AI agent orchestration frameworks with tool use, memory updates, and agent-to-agent communication",
+    "Integrate LLMs with enterprise systems through secure API patterns, prompt orchestration, and contextual memory",
+    "Implement and optimize vector database solutions for similarity search and retrieval",
+    "Architect production AI pipelines on Azure using Azure AI Foundry, Azure AI Search, and Azure Container Apps/AKS",
+    "Containerize and deploy AI systems using Docker, Azure Container Registry, and orchestrate using ACA/AKS",
+    "Productionize agentic/RAG solutions with CI/CD, observability, autoscaling, and reliability best practices"
+  ],
+  "use_cases": [
+    "Multi-agent AI systems for healthcare operations",
+    "Enterprise knowledge retrieval and search via RAG",
+    "AI agent orchestration with tool integration and memory",
+    "LLM integration with healthcare enterprise systems",
+    "Production AI pipelines on Azure cloud infrastructure"
+  ],
+  "tools_mentioned": [
+    "API development",
+    "Azure",
+    "Azure AI Foundry",
+    "Azure AI Search",
+    "Azure Container Apps",
+    "Azure Kubernetes Service (AKS)",
+    "Azure OpenAI",
+    "CI/CD",
+    "Docker",
+    "MLOps",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Embedding pipelines",
+    "LangChain",
+    "LangGraph",
+    "MCP (Model Context Protocol)",
+    "Multi-agent systems",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves building and deploying multi-\nagent AI systems using LangChain/LangGraph, implementing RAG\npipelines, and architecting production AI solutions. The\nengineer will work hands-on with LLMs, agents, and AI\ninfrastructure throughout the development lifecycle.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "MCP (Model Context Protocol)",
+      "RAG",
+      "Prompt Engineering",
+      "Multi-agent systems"
+    ],
+    "ml": [
+      "Embedding pipelines"
+    ],
+    "web": [
+      "API development"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure",
+      "Azure AI Foundry",
+      "Azure OpenAI",
+      "Azure AI Search",
+      "Azure Kubernetes Service (AKS)",
+      "Azure Container Apps"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,97 @@
+{
+  "job_id": "intl-ai-corpus-0836",
+  "source": "intl-ai-corpus",
+  "source_ref": "7377298",
+  "source_url": "https://builtin.com/job/ai-engineer-fde-forward-deployed-engineer/7377298",
+  "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Deductive AI",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-19",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "12 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI SRE Agents for production incident resolution",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Biotech"
+  ],
+  "description": "About Deductive AI\n\nDeductive is building AI SRE Agents trusted by leading\nglobal software companies to troubleshoot and resolve\ncomplex production incidents. Our mission is to free\nengineers and organizations from the burden of constant\nfirefighting, enabling them to focus on building and\nachieving their greatest potential.\n\nWe are a team of world-class AI researchers and engineers\nwith backgrounds spanning UC Berkeley, IIT, Meta, Google,\nAmazon, Databricks, and ThoughtSpot. We combine deep\nacademic research with hands-on industry experience to push\nthe boundaries of what AI can do for reliability\nengineering.\n\nRole Overview\n\nAs a Forward Deployed Engineer, you’ll work directly with\ncustomers to help them realize the value of Deductive during\nPOCs and rollouts. You’ll learn how their teams handle\nincidents and reliability challenges, then adapt and extend\nour AI platform to fit their needs. This role blends\ntechnical problem-solving with customer collaboration,\nconfiguring and fine-tuning Deductive to deliver clear,\nmeasurable outcomes. You’ll work closely with our Go-to-\nMarket and Engineering teams, serving as the voice of the\ncustomer.\n\nWhat You’ll Do\n\n- Own and drive successful deployments of Deductive, guiding\n  customers from scoping and integration through production\n  readiness and measurable impact.\n- Configure and optimize Deductive deployments to fit the use\n  cases in customer environments and deliver value quickly.\n- Act as a trusted technical partner to customers, helping\n  them navigate observability and reliability challenges\n  while shaping effective practices.\n- Build automations and scripts that extend Deductive across\n  observability platforms, codebases, and knowledge systems.\n- Collaborate with Product and Engineering to translate\n  customer insights into product enhancements and reusable\n  best practices.\n\nWhat We’re Looking For\n\n- 3+ years of experience as Software Engineer, Platform\n  Engineer or Site Reliability Engineer\n- Strong fundamentals and expertise in cloud infrastructure\n  (e.g. AWS, GCP, Kubernetes) and observability (e.g.\n  Datadog, Grafana, Prometheus, OpenTelemetry)\n- Strong programming skills to build automations using one or\n  more scripting languages (e.g. python).\n- Proven track record in fast-moving, ambiguous situations\n  where both precision and urgency matter.\n- Strong Plus: Experience working directly with customers in\n  roles like Forward Deployed Engineer, Sales or Solutions\n  Engineer.\n\nWhy Join Us\n\nAt Deductive, you’ll have the opportunity to:\n\n- Join a team of world-class researchers and builders.\n- Help shape how AI transforms reliability and software\n  engineering and make history.\n- Work directly with some of the world’s most advanced\n  engineering organizations.\n- Be part of a fast-growing startup where your contributions\n  directly shape the product and customer success.\n\nWe offer highly competitive compensation, equity, and\nbenefits.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and drive successful deployments of Deductive, guiding customers from scoping and integration through production readiness and measurable impact",
+    "Configure and optimize Deductive deployments to fit the use cases in customer environments and deliver value quickly",
+    "Act as a trusted technical partner to customers, helping them navigate observability and reliability challenges while shaping effective practices",
+    "Build automations and scripts that extend Deductive across observability platforms, codebases, and knowledge systems",
+    "Collaborate with Product and Engineering to translate customer insights into product enhancements and reusable best practices"
+  ],
+  "use_cases": [
+    "Troubleshoot and resolve complex production incidents using AI agents",
+    "Free engineers from constant firefighting to focus on building and achieving potential",
+    "Transform reliability and software engineering practices through AI automation",
+    "Integrate AI capabilities across observability platforms, codebases, and knowledge systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Datadog",
+    "GCP",
+    "Grafana",
+    "Kubernetes",
+    "OpenTelemetry",
+    "Prometheus"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This Forward Deployed Engineer role involves configuring and\nfine-tuning Deductive's AI platform for customer\ndeployments, working directly on adapting AI agents to\ncustomer environments. The role requires hands-on\noptimization and extension of AI systems to solve production\nincidents, which qualifies as building/deploying AI\nsolutions rather than just supporting AI infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Datadog",
+      "Grafana",
+      "Prometheus",
+      "OpenTelemetry"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

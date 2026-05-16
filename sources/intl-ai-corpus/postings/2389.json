@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-2389",
+  "source": "intl-ai-corpus",
+  "source_ref": "8869267",
+  "source_url": "https://www.builtinla.com/job/principal-ai-engineer-ai-creator/8869267",
+  "title": "Principal AI Engineer - AI Creator",
+  "title_normalized": "AI_ENGINEER",
+  "company": "DataCamp",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Online learning platform for data and AI skills education",
+  "industries": [],
+  "description": "About DataCamp\n\nDataCamp's mission is to empower everyone with the data and\nAI skills essential for 21st-century success. By providing\npractical, engaging learning experiences, DataCamp equips\nlearners and organizations of all sizes to harness the power\nof data and AI. As a trusted partner to over 17 million\nlearners and 6,000+ companies, including 80% of the Fortune\n1000, DataCamp is leading the charge in addressing the\ncritical data and AI skills shortage.\n\nAbout the role\n\nResearch has consistently shown that one-on-one tutoring\ndramatically outperforms traditional classroom instruction—a\nfinding known as Bloom's 2 Sigma Problem. Despite decades of\nawareness, no solution has successfully delivered\npersonalized tutoring at scale. Until now.\n\nWe’re building an AI Creator that turns learning into\naction—empowering users to instantly build, experiment, and\nsolve real-world problems, transforming knowledge into\ntangible impact from day one.. You will work on the core AI\nsystem that delivers real-time, adaptive learning\nexperiences to learners. If you're excited about building\nthe future of human learning, this role is for you.\n\nAbout you\n\nAt DataCamp, we seek individuals who embody our core values\nof data-driven decision-making, action, transparency,\nownership, and customer focus. You thrive in a fast-paced,\nhigh-performing environment and are driven by a passion for\nmaking a meaningful impact. You're adaptable, embracing\nchange and ambiguity with enthusiasm. Your initiative and\nentrepreneurial spirit push you beyond just meeting\ntargets—you aim to understand the \"why\" behind our goals and\ntake ownership to drive the business forward. You’re a\ncollaborative team player who values transparency and always\nseeks to improve and innovate. If this sounds like you, we\nencourage you to apply!\n\nResponsibilities\n\n- Build and evolve the core AI tutoring system, including\n  prompt architectures, agentic workflows, and real-time\n  adaptive behaviors.\n- Run rigorous experimentation and evaluation, developing\n  custom metrics and frameworks to measure learning\n  effectiveness and improve model reliability.\n- Design and implement scalable, maintainable software,\n  integrating AI capabilities with platform systems, content\n  pipelines, and user experience components.\n- Collaborate cross-functionally with educators, content\n  creators, and product teams to translate pedagogical goals\n  into technical solutions.\n- Prototype and productionize novel model interactions,\n  leveraging emerging research and capabilities to advance\n  the tutor’s intelligence.\n- Ensure quality, safety, and observability through\n  monitoring, testing, guardrails, and iterative refinement\n  of model behavior.\n- Share knowledge and elevate teammates, contributing to a\n  culture of clarity, simplicity, and continuous learning.\n\nQualifications\n\nTechnical\n\n- 1+ years building complex LLM-based systems, with strong\n  prompt engineering intuition and experience designing\n  agentic workflows.\n- Ability to design meaningful evaluation methods, including\n  custom metrics and frameworks when off-the-shelf options\n  fall short.\n- Strong software engineering fundamentals, architectural\n  thinking, and fluency in Python; comfortable working with\n  production infrastructure, cloud environments, and CI/CD.\n- Actively follows AI research and emerging capabilities,\n  applying new ideas creatively to real problems.\n\nProduct & Pedagogy\n\n- Strong empathy for learners and content creators; able to\n  translate pedagogical goals into system behavior and\n  product decisions.\n- Ability to reason holistically across AI behavior, content\n  structure, platform features, and user experience.\n- Familiarity with learning science or a desire to develop\n  expertise.\n\nCharacter & Collaboration\n\n- Drawn to difficult, ambiguous problems with no clear\n  blueprint; persistent in exploring and refining solutions.\n- Preference for elegance and simplicity in system design.\n- Communicates clearly across mediums and enjoys mentoring and\n  collaborating in small, high-ownership teams.\n\nWhy Datacamp?\n\nJoining DataCamp means becoming part of a dynamic, creative,\nand international start-up. Here are just a few of the\nreasons why you’ll love being on our team:\n\n- Exciting challenges: Face new technical challenges daily,\n  keeping your work engaging and rewarding.\n- Competitive compensation: We offer a competitive salary with\n  attractive benefits.\n- Flexibility: Benefit from flexible working hours because the\n  future is flexible!\n- Continuous learning: Access a yearly learning budget for\n  conferences & training to support your professional\n  growth.\n- Global retreats: Participate in international company\n  retreats, fostering a global team spirit.\n- Equipment: Yearly refreshment of your IT Equipment budget\n  for your home working setup.\n- Amazing team: Collaborate with a truly exceptional\n  team—seriously, we’re awesome!\n",
+  "skills_required": [
+    "LLM-based systems",
+    "agentic workflows",
+    "guardrails",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and evolve the core AI tutoring system, including prompt architectures, agentic workflows, and real-time adaptive behaviors",
+    "Run rigorous experimentation and evaluation, developing custom metrics and frameworks to measure learning effectiveness and improve model reliability",
+    "Design and implement scalable, maintainable software, integrating AI capabilities with platform systems, content pipelines, and user experience components",
+    "Collaborate cross-functionally with educators, content creators, and product teams to translate pedagogical goals into technical solutions",
+    "Prototype and productionize novel model interactions, leveraging emerging research and capabilities to advance the tutor's intelligence",
+    "Ensure quality, safety, and observability through monitoring, testing, guardrails, and iterative refinement of model behavior",
+    "Share knowledge and elevate teammates, contributing to a culture of clarity, simplicity, and continuous learning"
+  ],
+  "use_cases": [
+    "Personalized AI tutoring at scale",
+    "Real-time adaptive learning experiences",
+    "Interactive learning through hands-on building and experimentation",
+    "Transforming knowledge into practical application",
+    "One-on-one tutoring simulation using AI"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "cloud environments",
+    "monitoring",
+    "testing"
+  ],
+  "frameworks_mentioned": [
+    "LLM-based systems",
+    "agentic workflows",
+    "guardrails",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and evolving the core AI\ntutoring system, including prompt architectures, agentic\nworkflows, and real-time adaptive behaviors. The position\nrequires hands-on work with LLM-based systems, prompt\nengineering, and designing agentic workflows, which is\ndirectly working ON AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "agentic workflows",
+      "LLM-based systems",
+      "guardrails"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "cloud environments"
+    ],
+    "ops": [
+      "CI/CD",
+      "monitoring",
+      "testing"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

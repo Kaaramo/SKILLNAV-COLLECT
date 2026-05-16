@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-2534",
+  "source": "intl-ai-corpus",
+  "source_ref": "8709662",
+  "source_url": "https://www.builtinla.com/job/senior-data-engineer/8709662",
+  "title": "Senior Data & AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Alvys",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-05",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Growth",
+  "company_focus": "Transportation Management System (TMS) SaaS platform for\nlogistics",
+  "industries": [
+    "Cloud",
+    "Logistics",
+    "Software",
+    "Transportation",
+    "Automation"
+  ],
+  "description": "Industry Insight\n\nTransportation logistics is the foundational industry that\npowers everything we rely on daily, yet it remains a complex\nand fragmented domain ripe for technological revolution. The\nUS transportation logistics industry alone is an $800\nbillion market.\n\nAlvys is not just participating in this change; we are\ndriving it as the fastest-growing Transportation Management\nSystem (TMS) in history, uniquely positioned to truly\ntransform this essential sector.\n\nYour role will be at the forefront of automating and\nstandardizing a sector that moves trillions of dollars'\nworth of goods annually, predominantly by truck, but still\nlacks modern tools and solutions. Your leadership will help\nbridge this gap, bringing innovative technologies to a\ntraditionally underserved and mission-critical industry.\n\nAbout Alvys\n\nAlvys is the fastest-growing Transportation Management\nSystem (TMS) in history, uniquely positioned to dominate and\ntruly revolutionize the $800 billion US transportation\nlogistics industry.\n\nWe're not just iterating on old tools; we're building a\nworld-class, multi-tenant SaaS platform from the ground up\nto automate, standardize, and transform this essential\nsector. Join us to apply your technical vision to one of the\neconomy's most mission-critical and underserved markets,\nmaking a massive, tangible impact on the movement of global\ngoods.\n\nThis is where industry experience meets cutting-edge\ntechnology to create the undisputed market winner, and you\nwill be a core part of that journey.\n\nAbout the Role\n\nAs a Senior Engineer, you will be the primary architect of\nour data ecosystem. Alvys is shifting toward a Snowflake-\ncentric data architecture to power our next generation of\nlogistics intelligence. You aren't just building pipelines;\nyou are defining our LLM-based data strategy, enabling\nlarge-scale ML model deployment, and leveraging Snowflake\nCortex to turn fragmented logistics data into actionable AI-\ndriven products.\n\nThis is a high-visibility, 'player-coach' position. You will\nwork closely with leadership to ensure our data\ninfrastructure supports real-time operational needs today\nwhile scaling for the AI-first logistics world of 2026 and\nbeyond.\n\nOur Tech Stack\n\n- Data Platform: Snowflake (Warehouse, Cortex AI/ML, Semantic\n  Models, LLM Agents)\n- Data Pipelines: dbt, Fivetran, Reverse ETL (Census)\n- AI/ML: Snowflake Cortex, OpenAI, Azure Cognitive\n- Backend/Infra: .NET/C#, Python, Azure Ecosystem, GitHub\n  Actions\n\nKey Responsibilities\n\n- Define and implement the strategy for LLM-based data\n  products, including data preparation, semantic layer\n  design, and embedding pipelines for RAG-based\n  applications.\n- Own the design and evolution of our Snowflake architecture.\n  Lead the implementation of Snowflake Cortex for AI/ML\n  workloads, including semantic models and LLM agents.\n- Design and maintain reliable, performant ELT/Reverse ETL\n  pipelines. Ensure our multi-tenant SaaS data remains\n  isolated, secure, and performant at scale.\n- Build and operationalize pipelines for large-scale ML and\n  LLM model development, moving from POC to production-grade\n  deployment within the Snowflake perimeter.\n- Think holistically about the data estate. Reduce complexity\n  through modularity and well-defined service boundaries\n  (e.g., Medallion Architecture).\n- Serve as the go-to expert for emerging data trends. Mentor\n  engineers and partner with Product and Design to translate\n  complex business logic into automated deliverables.\n\nThe Experience You Have\n\n- 7+ years of experience in Data Engineering with a proven\n  track record of delivering mission-critical data\n  platforms.\n- Deep proficiency in Snowflake (Data Modeling, Query\n  Optimization, Security, and Cortex AI functions).\n- Expert-level skill in SQL and Python. Extensive experience\n  with dbt and modern orchestration (Airflow/Dagster).\n- Demonstrated experience building pipelines for ML or LLM-\n  based applications, including feature engineering and\n  model deployment.\n- Competency in Azure (preferred) or other major cloud\n  providers, including CI/CD and infrastructure-as-code\n  principles.\n- Experience driving cross-team consensus on architectural\n  decisions and mentoring junior/mid-level engineers.\n\nThe Way You Work\n\n- Ownership: You take end-to-end responsibility. If it’s in\n  production, it’s yours—from the initial schema design to\n  the final dashboard latency.\n- Pragmatism: You believe technical debt is a strategic\n  choice. You choose solutions that scale and solve real\n  problems over theoretical \"perfection.\"\n- Simplicity: You prioritize modularity and clean design to\n  reduce cognitive load in a complex logistics domain.\n- Transparency: You democratize data. You ensure insights are\n  accessible across the organization and participate in\n  constructive feedback loops.\n\nEqual Employment Opportunity\n\nAlvys is an equal opportunity employer and as such, we do\nnot discriminate on the basis of race, color, religion, sex,\nsexual orientation, gender identity, national origin, age,\ndisability, or any other characteristic protected by\napplicable laws.\n\nWe are dedicated to growing a diverse team of highly\ntalented people. We’re dedicated to building a workplace\nwhere we give each other the strategies, support, and space\nwe each need to thrive—believing in and bringing out the\nbest of everyone.\n\nIf you require any accommodations during the recruitment\nprocess, whether it be alternate forms of material,\naccessible meeting rooms, etc., please let us know and we\nwill work with you to meet your needs.\n\nFor information about Alvys's privacy practices, see our\nPrivacy Policy.\n",
+  "skills_required": [
+    "Embedding Pipelines",
+    "Feature Engineering",
+    "LLM Agents",
+    "OpenAI API",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define and implement the strategy for LLM-based data products, including data preparation, semantic layer design, and embedding pipelines for RAG-based applications",
+    "Own the design and evolution of Snowflake architecture and lead implementation of Snowflake Cortex for AI/ML workloads, including semantic models and LLM agents",
+    "Design and maintain reliable, performant ELT/Reverse ETL pipelines ensuring multi-tenant SaaS data isolation, security, and performance at scale",
+    "Build and operationalize pipelines for large-scale ML and LLM model development, moving from POC to production-grade deployment within Snowflake",
+    "Reduce complexity through modularity and well-defined service boundaries using Medallion Architecture",
+    "Serve as the go-to expert for emerging data trends and mentor engineers while partnering with Product and Design to translate business logic into automated deliverables"
+  ],
+  "use_cases": [
+    "LLM-based logistics intelligence products powered by Snowflake Cortex",
+    "RAG-based applications for querying fragmented logistics data",
+    "Automating and standardizing transportation management workflows",
+    "Large-scale ML model deployment for logistics prediction and optimization",
+    "Real-time operational data infrastructure for multi-tenant TaaS platform"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "Azure",
+    "Azure Cognitive Services",
+    "Census (Reverse ETL)",
+    "Dagster",
+    "Fivetran",
+    "GitHub Actions",
+    "Medallion Architecture",
+    "Model Deployment",
+    "Semantic Layer Design",
+    "Snowflake",
+    "Snowflake Cortex",
+    "dbt"
+  ],
+  "frameworks_mentioned": [
+    "Embedding Pipelines",
+    "Feature Engineering",
+    "LLM Agents",
+    "OpenAI API",
+    "RAG"
+  ],
+  "languages_programming": [
+    ".NET/C#",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves defining and implementing LLM-based data\nstrategies, building RAG-based applications, deploying\nLLM/ML models via Snowflake Cortex, and implementing\nsemantic models and LLM agents. While it has a strong data\nengineering foundation, the core mandate is architecting AI-\ndriven data products and operationalizing LLM pipelines,\nmaking it ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "RAG",
+      "LLM Agents",
+      "Embedding Pipelines"
+    ],
+    "ml": [
+      "Feature Engineering"
+    ],
+    "web": [],
+    "databases": [
+      "Snowflake"
+    ],
+    "data": [
+      "dbt",
+      "Fivetran",
+      "Census (Reverse ETL)",
+      "Airflow",
+      "Dagster",
+      "Medallion Architecture",
+      "Semantic Layer Design"
+    ],
+    "cloud": [
+      "Snowflake Cortex",
+      "Azure Cognitive Services",
+      "Azure"
+    ],
+    "ops": [
+      "GitHub Actions",
+      "Model Deployment"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      ".NET/C#"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2351",
+  "source": "intl-ai-corpus",
+  "source_ref": "8857518",
+  "source_url": "https://www.builtinla.com/job/qa-engineer-ai-automation-web-games/8857518",
+  "title": "QA Engineer, AI Automation & Web Games",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Wolf Games",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Seed",
+  "company_focus": "Generative entertainment platform for AI-collaborative\ncrime-solving games",
+  "industries": [
+    "Artificial Intelligence",
+    "Gaming",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About Wolf Games\n\nWolf Games is building the platform for generative\nentertainment universes — living, ever-expanding worlds\nwhere creators, players, and AI collaborate in real time.\nOur first universe, Public Eye, turns everyone into a\ndetective. Across a suite of crime-solving games, players\ncollect evidence, crack cases, and rise through the ranks of\na connected detective program. We're creating a future where\ngame development and player experience are tightly connected\nthrough intelligent systems that learn, adapt, and surprise.\n\nAbout the role\n\nWe're looking for a QA Engineer to build and manage AI-\ndriven QA systems that autonomously verify, play, and\nbulletproof our mobile HTML5 games. This is a role for\nsomeone who sees QA as an engineering discipline —\nprioritizing AI tooling, automated playthroughs, and script\ngeneration over manual clicking.\n\nYou will transform traditional manual testing into a highly\nautomated, continuous pipeline of AI bug hunts, autonomous\nplaythroughs, and AI code reviews. As Wolf Games scales to\nproduce daily live content, our testing surface area is\nexploding. Traditional manual QA cannot keep pace with an\nAI-driven development pipeline that ships daily. We need\nsomeone who builds AI systems to test what our AI systems\nbuild.\n\nThe time you save through automation goes directly into what\nhumans do best: evaluating game feel, tuning, balance, and\n\"finding the fun.\" You'll be the human arbiter of taste\nwhile your AI agents handle the regression testing.\n\nYou will report to the Director of Engineering and work\nclosely with engineering and creative leadership to:\n\n- Design and deploy AI agents capable of autonomously playing\n  through our HTML5 games to validate core loops,\n  progression logic, and edge cases.\n- Build an automated \"AI Bug Hunt\" system that continuously\n  explores daily builds to identify physics glitches, UI\n  overlaps, and rendering anomalies across mobile browser\n  environments.\n- Integrate QA deeply into Wolf's AI-driven development\n  process, writing the test parameters, prompts, and\n  acceptance criteria that our AI coding tools use to\n  generate game features.\n- Implement automated AI code reviews that scan incoming pull\n  requests for performance bottlenecks, memory leaks, and\n  mobile web anti-patterns before human review.\n- Develop automated systems to simulate and test device\n  fragmentation — iOS Safari memory limits, Android Chrome\n  touch latency, variable network speeds.\n- Embed AI QA gates directly into the CI/CD pipeline, halting\n  builds that fail automated visual or state-based checks.\n- Run structured internal play-test sessions for rapid\n  prototypes, translating subjective design feedback into\n  objective, testable parameters.\n- Reduce manual regression testing by 90% through AI-augmented\n  end-to-end testing.\n\nWhat you'll bring\n\n- Extensive experience shipping and maintaining mobile browser\n  / HTML5 games. This is non-negotiable.\n- Proven track record testing browser-based games built with\n  Pixi.js, Phaser, Three.js, or custom WebGL engines.\n- Deep familiarity with LLMs, AI agents, and prompt\n  engineering. You know how to instruct an AI to review\n  code, write test scripts, or analyze game logs.\n- Strong scripting skills in TypeScript/JavaScript and\n  experience with modern testing frameworks (Playwright,\n  Cypress, Puppeteer) combined with AI-assisted workflows.\n- Solid understanding of TDD methodologies and how to apply\n  them in an AI-code-generation environment.\n- Highly developed taste for games — strong intuition for what\n  makes a game fun and the ability to articulate design\n  feedback constructively.\n- Deep empathy for the player experience, prioritizing issues\n  based on how heavily they disrupt the core gameplay loop.\n- An automation-obsessive mindset. If you have to manually\n  test something twice, your instinct is to build an AI\n  agent or script to do it forever.\n- Exceptional communication skills — your bug tickets and AI\n  test prompts are precise, clear, and immediately\n  actionable.\n- Comfort operating in a high-velocity environment where\n  builds happen daily and traditional QA timelines do not\n  exist.\n\nNice to have\n\n- Experience configuring visual regression tools for\n  WebGL/Canvas environments.\n- Background training or fine-tuning AI models for testing\n  applications.\n- Prior work embedding QA automation into CI/CD pipelines at\n  scale.\n- Experience with AAA-level QA rigor applied to mobile or web\n  game contexts.\n\nWhy Wolf Games\n\nWe are a small, creative, and collaborative team that values\ncuriosity, craftsmanship, and experimentation. We believe\nsmall wins lead to big wins — and that the right QA systems,\nbuilt by the right engineer, can let a small team ship at\nstartup speed with AAA quality. If you're excited to\nindustrialize quality assurance through AI while defending\nthe fun, we'd love to hear from you.\n",
+  "skills_required": [
+    "AI agents",
+    "LLMs",
+    "Phaser",
+    "Pixi.js",
+    "TDD",
+    "Three.js",
+    "WebGL",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deploy AI agents capable of autonomously playing through HTML5 games to validate core loops, progression logic, and edge cases",
+    "Build an automated AI Bug Hunt system that continuously explores daily builds to identify physics glitches, UI overlaps, and rendering anomalies",
+    "Write test parameters, prompts, and acceptance criteria that AI coding tools use to generate game features",
+    "Implement automated AI code reviews that scan pull requests for performance bottlenecks, memory leaks, and mobile web anti-patterns",
+    "Develop automated systems to simulate and test device fragmentation across iOS Safari, Android Chrome, and variable network speeds",
+    "Embed AI QA gates directly into CI/CD pipeline with automated visual and state-based checks",
+    "Run structured internal play-test sessions and translate subjective design feedback into testable parameters",
+    "Reduce manual regression testing by 90% through AI-augmented end-to-end testing"
+  ],
+  "use_cases": [
+    "Autonomous game playthrough validation for mobile HTML5 games",
+    "Automated bug detection across physics, UI, and rendering systems",
+    "AI-assisted code review and quality assurance for game development",
+    "Device fragmentation testing across mobile browsers",
+    "CI/CD quality gates for daily game builds",
+    "Generative entertainment universes with AI-collaborative gameplay"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Cypress",
+    "Playwright",
+    "Puppeteer",
+    "visual regression testing"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "LLMs",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building AI agents that autonomously play\ngames, write test scripts, perform code reviews, and\nintegrate into development pipelines. The engineer actively\ndesigns and deploys AI systems that test other AI-built\nsystems, requiring hands-on prompt engineering, LLM\nintegration, and AI agent development - not just supporting\ninfrastructure for AI work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "LLMs",
+      "AI agents"
+    ],
+    "ml": [],
+    "web": [
+      "Playwright",
+      "Cypress",
+      "Puppeteer"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "visual regression testing"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [
+      "mobile HTML5 games",
+      "game QA"
+    ],
+    "other": [
+      "Pixi.js",
+      "Phaser",
+      "Three.js",
+      "WebGL",
+      "TDD"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

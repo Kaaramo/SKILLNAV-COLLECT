@@ -1,0 +1,58 @@
+company:
+  name: Unknown
+  stage: null
+  focus: null
+position:
+  title: Data Scientist
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities:
+  - Développement et mise en œuvre de modèles prédictifs et d'algorithmes d'apprentissage automatique.
+  - Analyse exploratoire approfondie des données.
+  - Collaboration avec les équipes pour intégrer les modèles et les analyses dans les projets et les systèmes existants.
+  - Conception et développement d'outils et de pipelines d'analyse de données.
+  - Création de visualisations et de tableaux de bord pour présenter les résultats.
+  - Interprétation des résultats des modèles et formulation de recommandations.
+  - Veille technologique et méthodologique en science des données
+  - De formation Bac +5 en data science ou en statistique/économétrie avec des spécialisations en informatique
+  - Minimum 8 ans d'expériences dans un domaine connexe , la data ou l'IA pendant laquelle vous avez développé des compétences
+    opérationnelles
+  - Expérience avec des outils de visualisation de données tels que Tableau, Power BI ou Matplotlib
+  - Capacités exceptionnelles d'analyse, de conception et de résolution de problèmes.
+  - Expérience professionnelle antérieure en tant que Data Scientist ou dans un rôle similaire.
+  - Solide compréhension des concepts et des méthodologies de l'apprentissage automatique et de l'analyse de données
+  - Expertise en algorithme et méthodes de machine learning et de deep learning
+  - Maîtrise des différentes architectures de réseaux neuronaux et les environnements/librairies de développement associés
+    (TensorFlow, PyTorch, Caffe, Keras, Onnx, etc.)
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - deep learning
+    - keras
+    - machine learning
+    - pytorch
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - hadoop
+    - spark
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - java
+    - python
+    - R
+    domains: []
+    other:
+    - power bi
+    - tableau
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1008667992211'
+  extracted_at: '2026-05-16T01:27:45+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

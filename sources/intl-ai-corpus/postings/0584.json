@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-0584",
+  "source": "intl-ai-corpus",
+  "source_ref": "8266626",
+  "source_url": "https://builtin.com/job/ai-lead-engineer/8266626",
+  "title": "Lead AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Tidal Financial Group",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-21",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "154 Employees",
+  "company_stage": null,
+  "company_focus": "ETF investment and technology platform",
+  "industries": [
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "Tidal Financial Group is a leading ETF investment technology\nplatform dedicated to creating, operating, and growing ETFs.\nWe combine expertise and innovative partnership approaches\nto offer comprehensive, value-generating ETF solutions. Our\nplatform offers best-in-class strategic guidance, product\nplanning, trust and fund services, legal support, operations\nsupport, marketing and research, and sales and distribution\nservices.\n\nRole summary\n\nTidal is an ETF investment and technology platform that\nhelps partners create, operate, and grow ETFs across the ETF\nlifecycle—from strategy and product planning to operations,\nregulatory/compliance, trading support, and distribution.\nWe’re hiring an AI Lead to own the end-to-end delivery of\nproduction AI solutions across the organization.\n\nYou will define and execute AI strategy, build and ship\nhigh-impact solutions, establish the standards and\ngovernance for secure AI in a regulated environment, and\nbuild a high-performing team over time.\n\nKey Responsibilities\n\nQualifications\n\nAI solution delivery: Design, develop, and deploy LLM-\npowered applications, including retrieval (RAG/hybrid),\nintelligent automation, and agentic AI. Deliver production-\ngrade systems that integrate with existing data sources,\ninternal APIs, and operational tools.\n\nModel development Lead the definition, development, and\ndelivery of machine learning models and AI solutions,\nincluding training/fine-tuning, evaluation, and deployment\nin cloud environments (AWS-first; additional cloud\nexperience is a plus).\n\n Engineering ownership: Lead the testing, deployment, and\nongoing maintenance of AI systems, including operational\nrunbooks, support processes, and reliability improvements.\n\nPerformance and cost optimization: Optimize AI systems for\nperformance, scalability, latency, and cost (model\nselection/routing, caching, batching, and other\narchitectural techniques).\n\n Architecture & collaboration: Partner with data and\nengineering leads to architect AI-powered systems end-to-end\n(data pipelines, permissions, service boundaries,\nintegrations, and operational controls).\n\n Evaluation & reliability: Establish evaluation frameworks,\nmonitoring, and observability to ensure AI systems perform\naccurately and reliably. Build test datasets, track quality\nmetrics, detect drift, and implement regression prevention.\nIn fund operations, incorrect outputs carry real\nconsequences.\n\n Cross-functional partnership: Collaborate with business\nteams to identify automation opportunities and translate\nrequirements into technical solutions. Prioritize\ninitiatives based on operational impact, risk, and\nfeasibility.\n\nTechnical standards: Define architecture patterns,\ndevelopment standards, and reusable components that enable\nAI delivery to scale beyond individual projects. Evaluate\nemerging technologies and recommend adoption paths when they\ncreate measurable advantage.\n\n\n\nRequired\n\n- 8+ years building production software systems, including\n  technical leadership on complex initiatives.\n- Proven experience shipping LLM-based applications to\n  production (beyond prototypes), including:\n  - retrieval (RAG/hybrid), vector search patterns, and\n    grounding\n  - structured outputs and validation\n  - evaluation/monitoring and regression prevention\n- Strong Python development skills and experience building\n  APIs/services.\n- Experience deploying secure, observable systems in AWS\n  (e.g., IAM, logging/monitoring, CI/CD; specific services\n  may vary).\n- Hands-on experience integrating LLMs via APIs/SDKs across\n  one or more providers (commercial and/or open-source),\n  including model selection and safe usage patterns.\n\nPreferred\n\n- Experience in financial services, asset management, or\n  similarly regulated industries.\n- Experience implementing automation with approvals,\n  controlled documents, and audit trails.\n- Experience with multi-model strategies (provider selection,\n  routing, fallback patterns).\n- Experience building internal platforms or reusable AI\n  components (shared libraries, templates, evaluation\n  harnesses).\n- Familiarity with AI governance practices and model risk\n  documentation.\n",
+  "skills_required": [
+    "LLM fine-tuning",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agentic AI",
+    "model evaluation",
+    "model training"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and deploy LLM-powered applications including RAG, intelligent automation, and agentic AI",
+    "Lead the definition, development, and delivery of machine learning models including training/fine-tuning and deployment",
+    "Lead testing, deployment, and ongoing maintenance of AI systems with operational runbooks and support processes",
+    "Optimize AI systems for performance, scalability, latency, and cost using architectural techniques",
+    "Partner with data and engineering leads to architect AI-powered systems end-to-end including data pipelines and integrations",
+    "Establish evaluation frameworks, monitoring, and observability to ensure accurate and reliable AI system performance",
+    "Collaborate with business teams to identify automation opportunities and translate requirements into technical solutions",
+    "Define architecture patterns, development standards, and reusable components to enable AI delivery at scale"
+  ],
+  "use_cases": [
+    "Retrieval-augmented generation (RAG) and hybrid search for financial information retrieval",
+    "Intelligent automation for ETF operations and business processes",
+    "Agentic AI systems for autonomous decision support in investment workflows",
+    "Structured data extraction and validation from unstructured financial documents",
+    "Multi-model routing and provider selection for optimal AI performance in regulated environments",
+    "AI-powered search and grounding for compliance and regulatory information access"
+  ],
+  "tools_mentioned": [
+    "APIs/services",
+    "AWS",
+    "CI/CD",
+    "IAM",
+    "batching",
+    "caching",
+    "data pipelines",
+    "model selection/routing",
+    "monitoring",
+    "observability",
+    "regression prevention",
+    "test datasets",
+    "vector search"
+  ],
+  "frameworks_mentioned": [
+    "LLM fine-tuning",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agentic AI",
+    "model evaluation",
+    "model training"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on AI engineering role that directly builds,\ndeploys, and optimizes LLM-powered applications including\nRAG systems, agentic AI, and intelligent automation. The\nrole involves training/fine-tuning models, implementing\nretrieval patterns, and shipping production-grade AI systems\nrather than just supporting AI infrastructure.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "agentic AI",
+      "LLM fine-tuning",
+      "OpenAI/Anthropic APIs"
+    ],
+    "ml": [
+      "model training",
+      "model evaluation"
+    ],
+    "web": [
+      "APIs/services"
+    ],
+    "databases": [
+      "vector search"
+    ],
+    "data": [
+      "data pipelines",
+      "test datasets"
+    ],
+    "cloud": [
+      "AWS",
+      "IAM"
+    ],
+    "ops": [
+      "CI/CD",
+      "monitoring",
+      "model selection/routing",
+      "caching",
+      "batching",
+      "observability",
+      "regression prevention"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

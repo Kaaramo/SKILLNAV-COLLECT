@@ -1,0 +1,108 @@
+{
+  "job_id": "intl-ai-corpus-1455",
+  "source": "intl-ai-corpus",
+  "source_ref": "8473792",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai-tooling/8473792",
+  "title": "Senior Software Engineer (AI Tooling)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Garda Capital Partners",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-12",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "115 Employees",
+  "company_stage": "Established",
+  "company_focus": "Alternative investment firm deploying relative value\nstrategies across fixed income markets",
+  "industries": [],
+  "description": "Garda Capital Partners (Garda) is a multi-billion dollar\nalternative investment firm with over 22 years of experience\ndeploying relative value strategies across fixed income\nmarkets for institutional investors. Garda's primary offices\nare located in Wayzata, New York City, West Palm Beach,\nGeneva, Zug, Copenhagen, Singapore, and Scottsdale.\n\nGarda is looking to hire a Senior Software Engineer (AI\nTooling) to be a part of our Research and Technology (R&T)\ngroup to design and build systems that integrate modern AI\ncapabilities across the firm. The selected candidate will\nlead technical projects, architect backend infrastructure,\nand create applications that enable research, trading, and\noperations teams to leverage AI tools effectively.\n\nThis is a senior engineering role focused on building\nproduction systems and internal platforms—not ML research or\nmodel development. You'll design API gateways, build vector\nsearch infrastructure, create AI-powered internal\napplications, and work with business stakeholders to\ntranslate requirements into robust technical solutions. The\nideal candidate is excited about the practical applications\nof AI but wants to focus on software engineering, system\ndesign, and delivery. Experience in financial services or\ncapital markets is strongly preferred.\n\nPosition Responsibilities\n\n- Design and lead implementation of backend infrastructure for\n  AI capabilities (LLM gateways, vector databases, chat\n  services, monitoring systems)\n- Build internal applications that integrate AI into research,\n  trading, and operations workflows\n- Architect data processing pipelines and API integrations for\n  AI-powered features\n- Own complete projects from design through production\n  deployment\n- Evaluate new AI platforms and tools; build proofs-of-concept\n  and convert successful ones to production\n- Provide technical consultation to business stakeholders and\n  translate their needs into practical solutions\n- Make architectural decisions for systems integrating AI\n  capabilities with existing infrastructure\n- Build automation workflows that reduce manual processes\n  using AI tools\n- Develop integrations between internal systems, vendor\n  platforms, and AI services\n- Establish patterns and best practices for AI application\n  development across the firm\n- Mentor other engineers and contribute to technical standards\n- Collaborate with infrastructure and security teams on\n  deployment, scaling, and governance\n\nQualifications & Desired Skills\n\n- Bachelor's Degree in Computer Science, Engineering,\n  Mathematics, Finance, or related field\n- 5+ years of software engineering experience\n- Strong programming skills in Python (primary language) with\n  experience in other languages a plus\n- Proven experience designing and building backend services,\n  APIs, and internal platforms\n- Experience with cloud platforms, containerization, or\n  distributed systems\n- Strong interest in AI applications and modern development\n  tools; no ML/deep learning background required\n- Ability to evaluate new technologies, build prototypes, and\n  make pragmatic technical decisions\n- Experience with fixed income, trading systems, or investment\n  management operations strongly preferred\n- Capital markets knowledge is a significant advantage\n- Excellent problem-solving skills and ability to learn new\n  technologies rapidly\n- Strong communication skills with ability to work effectively\n  across technical and business teams\n- Self-directed with ability to drive projects independently\n  from concept to production\n- Comfortable working in a fast-paced environment with\n  evolving requirements\n- Excited about building practical tools that deliver real\n  business value\n\nThis role is also eligible for other forms of compensation\nand benefits, such as a discretionary bonus, healthcare\nplan, 401(k) matching program, etc. Within the range,\nindividual pay is determined by work location and additional\nfactors, such as job-related skills, experience, and\nrelevant education.\n\nBase Salary for this role is expected to be between:\n\n$200,000—$250,000 USD\n",
+  "skills_required": [
+    "LLM gateways"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and lead implementation of backend infrastructure for AI capabilities including LLM gateways, vector databases, chat services, and monitoring systems",
+    "Build internal applications that integrate AI into research, trading, and operations workflows",
+    "Architect data processing pipelines and API integrations for AI-powered features",
+    "Own complete projects from design through production deployment",
+    "Evaluate new AI platforms and tools, build proofs-of-concept and convert successful ones to production",
+    "Provide technical consultation to business stakeholders and translate their needs into practical solutions",
+    "Build automation workflows that reduce manual processes using AI tools",
+    "Establish patterns and best practices for AI application development across the firm"
+  ],
+  "use_cases": [
+    "AI-powered applications for research teams in fixed income markets",
+    "AI integration into trading workflows and systems",
+    "AI-enabled operations automation and workflow optimization",
+    "Internal AI tooling and platforms for institutional investment firm",
+    "Chat services and monitoring systems for AI capabilities"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "Backend services",
+    "Cloud platforms",
+    "Containerization",
+    "Data processing pipelines",
+    "Distributed systems",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LLM gateways"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role builds infrastructure and platforms that enable\nothers to use AI tools (LLM gateways, vector databases,\ninternal applications), but explicitly states it's NOT about\nML research or model development. The focus is on software\nengineering and system design to support AI adoption, not\nhands-on model work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM gateways"
+    ],
+    "ml": [],
+    "web": [
+      "APIs",
+      "Backend services"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Data processing pipelines"
+    ],
+    "cloud": [
+      "Cloud platforms"
+    ],
+    "ops": [
+      "Containerization",
+      "Distributed systems"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

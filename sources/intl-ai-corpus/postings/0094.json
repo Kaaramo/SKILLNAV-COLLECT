@@ -1,0 +1,97 @@
+{
+  "job_id": "intl-ai-corpus-0094",
+  "source": "intl-ai-corpus",
+  "source_ref": "7033274",
+  "source_url": "https://builtin.com/job/senior-full-stack-engineer-observability-evals-platform-langsmith/7033274",
+  "title": "Senior Full Stack Engineer,  AI Observability & Evals Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "LangChain",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-10",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "123 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Agent engineering platform and open source frameworks",
+  "industries": [
+    "Information Technology",
+    "Software",
+    "Database"
+  ],
+  "description": "About LangChain\n\nAt LangChain, our mission is to make intelligent agents\nubiquitous. We provide the agent engineering platform and\nopen source frameworks developers need to ship reliable\nagents fast.\n\nOur open source frameworks, LangChain and LangGraph, see\nover 90+ million downloads per month and help developers\nbuild agents with speed and granular control. LangSmith\noffers observability, evaluation, and deployment for rapid\niteration, enabling teams to transform LLM systems into\ndependable production experiences.\n\nLangChain is trusted by millions of developers worldwide and\npowers AI teams at companies like Replit, Clay, Cloudflare,\nHarvey, Rippling, Vanta, Workday, and more.\n\nAbout the role:\n\nIn person 5 days/week in San Francisco\n\nWe're looking for a Senior Full Stack Engineer for our\ncommercial product LangSmith, an observability and evals\nplatform. In this role, you'll have the opportunity to shape\nthe technical direction of our platform while working\nclosely with enterprise customers, developer end-users and\ninternal stakeholders.\n\n- Lead the technical architecture and implementation of key\n  product features for LangSmith, working across our entire\n  Go, Python, and Typescript stack.\n- Collaborate closely with product and design teams to iterate\n  on new features.\n- Mentor and guide more junior members of the team. Drive\n  aggressive project timelines while ensuring high\n  engineering standards are being met.\n- Lead by example in writing clean, maintainable, and well-\n  tested code\n\nHow to be successful in this role\n\n- 7+ years of experience in software engineering working on\n  complex platform products\n- Fullstack engineering experience with Go or Python on the\n  backend and React + Typescript on the frontend.\n- Strong understanding of database systems, particularly\n  Postgres and Redis\n- Experience designing and scaling APIs, preferably in a high-\n  performance, data-intensive application\n- A “get stuff done” attitude - comfortable shipping fast and\n  iterating based on user feedback\n- Strong communicator with the ability to collaborate closely\n  with various internal stakeholders and engage directly\n  with our top-tier customers\n- Strong ownership mindset\n- Bonus: Experience with AI/LLM-powered applications,\n  developer tools, or observability platforms\n\nCompensation & Benefits\n\n- We offer competitive compensation that includes base salary,\n  meaningful equity, and benefits such as health and dental\n  coverage, flexible vacation, a 401(k) plan, and life\n  insurance. Actual compensation will vary based on role,\n  level, and location. For team members in the EU and UK, we\n  provide locally competitive benefits aligned with regional\n  norms and regulations.\n- Annual salary range: $175,000-$225,000 USD\n",
+  "skills_required": [
+    "system architecture"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead the technical architecture and implementation of key product features for LangSmith, working across Go, Python, and Typescript stack",
+    "Collaborate closely with product and design teams to iterate on new features",
+    "Mentor and guide more junior members of the team while driving aggressive project timelines and high engineering standards",
+    "Lead by example in writing clean, maintainable, and well-tested code for the observability and evals platform"
+  ],
+  "use_cases": [
+    "Observability and monitoring for LLM-powered agents and applications",
+    "Evaluation and testing framework for AI/ML systems",
+    "Deployment and iteration tools for production LLM applications",
+    "Developer tooling for building reliable intelligent agents"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "Postgres",
+    "React",
+    "Redis"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Full Stack Engineer role building LangSmith, an\nobservability and evaluation platform for AI/LLM systems.\nThe role involves building infrastructure and tooling to\nsupport AI development rather than directly working with\nmodels - it's a platform engineering role that enables other\ndevelopers to build and monitor their AI agents.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "React",
+      "API design"
+    ],
+    "databases": [
+      "Postgres",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Go",
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "system architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

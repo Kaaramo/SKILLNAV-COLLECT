@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-1872",
+  "source": "intl-ai-corpus",
+  "source_ref": "8603650",
+  "source_url": "https://builtin.com/job/ai-engineer/8603650",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Antares Capital LP",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "441 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "Financial services and lending firm providing capital\nsolutions",
+  "industries": [],
+  "description": "Job Description\n\nAntares Capital is seeking an AI Engineer to join our Data &\nAnalytics Technology team. In this hands-on role, you will\ndesign, build, and operate production-grade AI capabilities\nthat power decision-making across the firm—with a focus on\nRetrieval-Augmented Generation (RAG), vector database–backed\nretrieval, and the orchestration of multiple Large Language\nModels (LLMs). You will help shape our AI architecture to be\nagile, flexible, and built to last—emphasizing modularity,\nreliability, and secure-by-design practices appropriate for\nfinancial services. The ideal candidate brings 3+ years of\nexperience delivering AI/ML solutions (including 2+ years\nwith LLM-based systems), a strong engineering and\narchitecture mindset, and a passion for responsible\ninnovation in a regulated environment.\n\nResponsibilities\n\n- Design and implement robust RAG pipelines integrating domain\n  datasets, embeddings, and retrieval strategies to deliver\n  accurate, auditable responses.\n- Lead the evaluation and integration of vector databases\n  (e.g., FAISS, Pinecone, Milvus) and tune\n  indexing/embedding strategies for performance and\n  relevance.\n- Architect and orchestrate combinations of LLMs and tools\n  (routing, ensemble prompts, function-calling, guardrails)\n  to optimize quality, latency, and cost.\n- Drive an ontology-driven approach: model and map enterprise\n  data to real-world business concepts (e.g., customers,\n  counterparties, facilities, equipment) rather than siloed\n  technical tables; steward canonical vocabularies,\n  taxonomies, and knowledge graphs.\n- Partner with data and platform teams to establish and evolve\n  a semantic layer that aligns data products with business\n  entities, definitions, and policies; ensure traceability\n  from ontology to physical data stores.\n- Contribute to and extend the AI reference architecture\n  emphasizing modular services, clear interfaces,\n  observability, and change-tolerant design.\n- Develop secure data access patterns (role-based permissions,\n  PII minimization) and implement content filtering,\n  redaction, and safety controls.\n- Build evaluation frameworks (automated tests, offline/online\n  metrics, human-in-the-loop review) and maintain datasets\n  for regression benchmarking.\n- Implement CI/CD and containerization for AI services;\n  instrument telemetry, tracing, and feature flags for safe\n  progressive delivery.\n- Collaborate with product, data, risk, and security teams to\n  translate business needs into pragmatic AI solutions\n  aligned to industry compliance and model risk management.\n- Troubleshoot production issues, conduct post-incident\n  reviews, and drive reliability improvements (SLOs, error\n  budgets, resilience testing).\n- Mentor engineers, review designs/code, and champion\n  engineering excellence and documentation across the AI\n  platform.\n\nQualifications\n\n- 5+ years of industry experience building and deploying AI/ML\n  applications, including 2+ years with LLM-based systems\n  (preferably in financial services).\n- Hands-on expertise with RAG: embedding generation,\n  retrievers, prompt construction, context management, and\n  hallucination mitigation.\n- Deep understanding of vector databases and embedding\n  frameworks; ability to tune similarity search (cosine,\n  dot-product) and index parameters.\n- Proven experience with ontology-driven data modeling\n  (business entities, taxonomies, knowledge graphs, semantic\n  modeling) and mapping from physical schemas to conceptual\n  models. Any experience with 3rd party platform (eg:\n  Palantir/Foundry) implementations is a plus.\n- Fluency in Python and production-grade services\n  (microservices, REST/GraphQL, event-driven patterns);\n  strong software engineering fundamentals.\n- Proficiency with big data and machine learning platforms\n  such as Databricks (Spark, Delta Lake, Unity Catalog) and\n  experience operating at scale.\n- Experience with large-scale cloud data/AI solutions,\n  including Microsoft Fabric (OneLake, Lakehouse, semantic\n  models, pipelines) or equivalent enterprise data/AI\n  fabric, and common cloud services (Azure preferred).\n- Grounding LLMs with curated, versioned knowledge sources;\n  experience with data pipelines and ETL/ELT concepts.\n- Strong grasp of evaluation, observability, and MLOps for\n  LLMs (dataset management, A/B testing, drift/quality\n  monitoring, prompt/version governance).\n- Practical experience with CI/CD, Docker/containers, and\n  infrastructure-as-code (Terraform or equivalent).\n- Awareness of financial-industry considerations: data\n  privacy, model risk/governance, auditability, and secure\n  development practices.\n- Excellent communication skills and the ability to influence\n  and collaborate across product, platform, data, and\n  risk/security teams.\n\nThe Fine Print\n\n- Must have unrestricted authorization to work in the United\n  States.\n- Must be willing to comply with pre-employment screening,\n  including but not limited to drug testing, reference\n  verification, and background check.\n- Role may be hybrid/onsite at an Antares office; occasional\n  travel as necessary.\n\n#LI-CK1\n\n#LI-hybrid\n\nA reasonable estimate of the current base salary range at\nthe time of posting is below. Base salary does not include\nother forms of compensation or benefits. Actual base salary\nwithin the specified range is comprised of several\ncomponents, including but not limited to applicant's skill,\nprior relevant experience, specific degrees and\ncertifications, job responsibilities, market considerations\nand the location of the position.\n\nThis role is eligible for a discretionary annual bonus\n(based on company, business unit and individual\nperformance).\n\nOur benefit offerings include medical, dental and vision\ncoverage, employer paid short & long-term disability and\nlife insurance, 401(k), profit sharing, paid time off, Maven\nfamily & fertility benefit, parental leave (including\nadoption, surrogacy, and foster placement), as well as other\nvoluntary benefits.\n\nBase Salary Range\n\n$175,000 - $240,000\n\nTo learn more, visit www.antares.com. Antares is an Equal\nOpportunity Employer. Employment decisions are made without\nregard to race, color, religion, national or ethnic origin,\nsex, sexual orientation, gender identity or expression, age,\ndisability, protected veteran status or other\ncharacteristics protected by law.\n",
+  "skills_required": [
+    "Embedding generation",
+    "Function calling",
+    "Guardrails",
+    "LLM orchestration",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement robust RAG pipelines integrating domain datasets, embeddings, and retrieval strategies to deliver accurate, auditable responses",
+    "Lead the evaluation and integration of vector databases (e.g., FAISS, Pinecone, Milvus) and tune indexing/embedding strategies for performance and relevance",
+    "Architect and orchestrate combinations of LLMs and tools (routing, ensemble prompts, function-calling, guardrails) to optimize quality, latency, and cost",
+    "Drive an ontology-driven approach: model and map enterprise data to real-world business concepts and steward canonical vocabularies, taxonomies, and knowledge graphs",
+    "Partner with data and platform teams to establish and evolve a semantic layer that aligns data products with business entities, definitions, and policies",
+    "Develop secure data access patterns (role-based permissions, PII minimization) and implement content filtering, redaction, and safety controls",
+    "Build evaluation frameworks (automated tests, offline/online metrics, human-in-the-loop review) and maintain datasets for regression benchmarking",
+    "Implement CI/CD and containerization for AI services; instrument telemetry, tracing, and feature flags for safe progressive delivery"
+  ],
+  "use_cases": [
+    "Enterprise knowledge retrieval and search for financial data",
+    "Decision-making support across the firm using AI-powered insights",
+    "Ontology-driven semantic layer for business entity mapping",
+    "Secure and auditable AI responses for regulated financial services",
+    "Automated evaluation and benchmarking of AI system performance"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "Azure",
+    "CI/CD",
+    "Databricks",
+    "Delta Lake",
+    "Docker",
+    "ETL/ELT",
+    "FAISS",
+    "GraphQL",
+    "Knowledge graphs",
+    "Kubernetes",
+    "MLOps",
+    "Microsoft Fabric",
+    "Milvus",
+    "Pinecone",
+    "REST",
+    "Spark",
+    "Terraform",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Embedding generation",
+    "Function calling",
+    "Guardrails",
+    "LLM orchestration",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building and deploying production AI\nsystems with direct work on RAG pipelines, vector databases,\nLLM orchestration, and embedding strategies. The engineer\nwill design, implement, and operate AI capabilities - not\njust support them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLM orchestration",
+      "Embedding generation",
+      "Prompt engineering",
+      "Function calling",
+      "Guardrails"
+    ],
+    "ml": [],
+    "web": [
+      "REST",
+      "GraphQL"
+    ],
+    "databases": [
+      "FAISS",
+      "Pinecone",
+      "Milvus",
+      "Vector databases"
+    ],
+    "data": [
+      "Databricks",
+      "Spark",
+      "Delta Lake",
+      "ETL/ELT",
+      "Knowledge graphs"
+    ],
+    "cloud": [
+      "Microsoft Fabric",
+      "Azure"
+    ],
+    "ops": [
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "MLOps",
+      "A/B testing"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,142 @@
+{
+  "job_id": "intl-ai-corpus-0920",
+  "source": "intl-ai-corpus",
+  "source_ref": "7704891",
+  "source_url": "https://builtin.com/job/sr-ai-engineer/7704891",
+  "title": "Senior AI ML Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "3Pillar Global",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,784 Employees",
+  "company_stage": null,
+  "company_focus": "Technology consulting and AI solutions",
+  "industries": [],
+  "description": "At 3Pillar, we leverage cutting-edge technologies to drive\ninnovation and deliver impactful solutions for our clients.\nAs a Senior AI Engineer, you will lead the design and\nimplementation of scalable AI systems and provide technical\nmentorship to junior team members. You’ll also evaluate\nmodel architectures, explore cutting-edge techniques, and\nensure solutions are both impactful and ethical.\n\nResponsibilities:\n\n- Collaborate with stakeholders, including product managers,\n  architects, and software engineers to identify business\n  problems that can be solved using AI and develop\n  innovative AI solutions using Gen AI, Agentic AI and\n  similar technologies and frameworks.\n- Understanding the business requirement to implement,\n  integrate and deploy Generative AI product & features into\n  production environments.\n- Fine-tune and deploy generative AI models for tasks like\n  text, image, video or audio generation.\n- Integrate generative models into scalable applications and\n  ensure optimal production grade performance.\n- Stay updated with advancements in Gen and Agentic AI and\n  implement best practices.\n- Deploy AI agents into production environments, ensuring\n  performance, scalability, security, and reliability.\n- Agent Chaining: Implement solutions that enable multiple AI\n  agents to collaborate and solve complex tasks.\n- Develop and refine prompts to maximize performance and\n  accuracy of language models.\n- Maintain clear and comprehensive technical documentation.\n- Mentor and provide technical guidance to junior Python\n  engineers and team members.\n- Advocating for AI adoption inside the team and inspiring,\n  supporting others.\n\nQualification:\n\n- Bachelors or Masters degree in Computer Science,\n  Engineering, Mathematics, or related fields.\n- A minimum of 4+ years of experience in building AI\n  applications with NLP and deep learning, with around 2\n  years of experience in building production grade Gen AI\n  applications.\n- Experience with cloud platforms such as AWS, Azure, or\n  Google Cloud.\n- Advance Programming skills in Python\n- Solid understanding of Gen AI, LLMs, LLM fine tuning, RAG,\n  MCP, Agentic AI, and prompt engineering.\n- Ability to work with different LLM models and choose one\n  over another based on a use case\n- Experience with LLM based application development using\n  frameworks such as LangChain, LangGraph, LangSmith, and\n  Google GenAI SDK.\n- Understanding of data privacy, AI Ethics, Responsible AI,\n  and model governance\n- Strong analytical and problem-solving skills, with attention\n  to detail.\n- Excellent communication skills, with the ability to present\n  complex technical concepts to both technical and non-\n  technical audiences.\n- Proven ability to work independently and with a team.\n- Data Engineering (Good to have)\n- Good understanding of Software Engineering processes.\n- Experience in working with huge datasets in a production\n  environment.\n- Experience with vector databases (FAISS, Pinecone), RAG,\n  Hugging Face.\n- Contributions to research papers, blogs, or open-source\n  projects.\n",
+  "skills_required": [
+    "AI Ethics",
+    "Agentic AI",
+    "Google GenAI SDK",
+    "Hugging Face",
+    "LLM fine-tuning",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "RAG",
+    "Responsible AI",
+    "deep learning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate with stakeholders to identify business problems and develop innovative AI solutions using Gen AI, Agentic AI and similar technologies",
+    "Implement, integrate and deploy Generative AI products and features into production environments",
+    "Fine-tune and deploy generative AI models for tasks like text, image, video or audio generation",
+    "Integrate generative models into scalable applications and ensure optimal production grade performance",
+    "Deploy AI agents into production environments, ensuring performance, scalability, security, and reliability",
+    "Implement agent chaining solutions that enable multiple AI agents to collaborate and solve complex tasks",
+    "Develop and refine prompts to maximize performance and accuracy of language models",
+    "Mentor and provide technical guidance to junior Python engineers and team members"
+  ],
+  "use_cases": [
+    "Generative AI text, image, video, and audio generation for enterprise solutions",
+    "Agentic AI systems with multi-agent collaboration for complex task solving",
+    "RAG-based knowledge retrieval and question answering systems",
+    "LLM-powered applications with prompt engineering optimization",
+    "Production AI solutions with fine-tuned models for specific business needs"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "FAISS",
+    "Google Cloud",
+    "LangSmith",
+    "Pinecone",
+    "model governance"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI",
+    "Google GenAI SDK",
+    "Hugging Face",
+    "LLM fine-tuning",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "RAG",
+    "deep learning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building, fine-tuning, and\ndeploying generative AI models and AI agents. The engineer\nworks directly with LLMs, RAG architectures, agentic AI\nframeworks, and implements AI solutions in production\nenvironments.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Google GenAI SDK",
+      "RAG",
+      "MCP",
+      "Agentic AI",
+      "prompt engineering"
+    ],
+    "ml": [
+      "LLM fine-tuning",
+      "deep learning",
+      "Hugging Face"
+    ],
+    "web": [],
+    "databases": [
+      "FAISS",
+      "Pinecone"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "Google Cloud"
+    ],
+    "ops": [
+      "LangSmith",
+      "model governance"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": [
+      "AI Ethics",
+      "Responsible AI"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

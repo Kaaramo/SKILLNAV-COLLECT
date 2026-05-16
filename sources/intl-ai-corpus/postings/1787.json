@@ -1,0 +1,162 @@
+{
+  "job_id": "intl-ai-corpus-1787",
+  "source": "intl-ai-corpus",
+  "source_ref": "7882717",
+  "source_url": "https://builtin.com/job/ai-engineer/7882717",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Huron",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,753 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global consultancy for strategic growth and digital\ntransformation",
+  "industries": [],
+  "description": "Huron is a global consultancy that collaborates with clients\nto drive strategic growth, ignite innovation and navigate\nconstant change. Through a combination of strategy,\nexpertise and creativity, we help clients accelerate\noperational, digital and cultural transformation, enabling\nthe change they need to own their future.  Join our team as\nthe expert you are now and create your future.\n\nWe are looking for a hands-on and adaptable AI Engineer to\njoin our AI practice. You’ll help design, build, and deploy\nintelligent systems that leverage a range of\ntechnologies—from machine learning to generative AI and\nagent-based architectures—to solve complex, real-world\nproblems. This role spans the full AI solution lifecycle:\ndata preparation, model development, application\nintegration, and ongoing evaluation. You will collaborate\nclosely with architects, and domain experts to ensure the AI\nsolutions you help build are intelligent, reliable, and\naligned with client goals. We work across industries and use\ncases, from early-stage prototypes to production-ready\ndeployments, and we're continuously exploring new AI\nparadigms—including AI agents, agent orchestration layer,\nmodel chaining, and self-evaluating systems. If you’re\nexcited by emerging AI technologies, fast-moving teams, and\napplied problem-solving, this is the role for you.\n\nResponsibilities\n\n- Design and develop AI-powered systems using both traditional\n  ML and generative AI techniques, including prompt\n  engineering, fine-tuning, and embeddings\n- Build intelligent applications and agents that can perform\n  tasks autonomously or interactively, using frameworks like\n  LangGraph, AutoGen, CrewAI or similar\n- Create modular, well-documented APIs and service components\n  (e.g., using FastAPI or Flask) to enable model integration\n  and consumption\n- Develop and manage data pipelines, including data\n  collection, transformation, and quality assurance to\n  support model training\n- Implement observability and evaluation mechanisms to monitor\n  AI system behavior, including accuracy, drift,\n  reliability, and task-level reasoning\n- Collaborate with software engineers, data scientists, and\n  solution architects to ensure seamless design,\n  development, and transition to production\n- Support rapid experimentation as well as robust deployment\n  pipelines, depending on the maturity of each use case\n- Stay informed on the latest trends in GenAI, AI agents,\n  orchestration protocols, and evaluation frameworks to\n  continuously evolve our capabilities\n\nPreferred Qualifications\n\n- Atleast 4 years of hands-on experience in AI/ML development\n  or intelligent application engineering\n- Proficiency in Python and familiarity with modern ML/AI\n  libraries (e.g., scikit-learn, PyTorch, TensorFlow, OpenAI\n  APIs)\n- Experience building APIs or backend services using FastAPI,\n  Flask, or equivalent frameworks\n- Exposure to agent frameworks (e.g., LangGraph, AutoGen) and\n  vector databases\n- Familiarity with cloud platforms (Azure, AWS) and\n  containerization tools (Docker)\n- Familiarity with cloud-based ML platforms such as Azure\n  Machine Learning, AWS SageMaker, or Google AI/ML services\n- Experience with MLOps pipelines, CI/CD for model delivery,\n  or model monitoring is a plus\n- Familiarity with orchestration standards or tools such as\n  MCP or agent routing protocols is a plus\n- Knowledge of AI system evaluation, observability, or prompt\n  performance testing is a plus\n- Ability to work on cross-functional teams, balance multiple\n  projects, and communicate effectively with technical and\n  non-technical audiences\n- Cloud certifications in AI/ML services (Azure, AWS, or\n  Google Cloud) is a plus\n- Bachelor’s degree in computer science, Engineering, Data\n  Science, or a related field\n\nPosition LevelSenior Associate\n\nCountryIndia\n",
+  "skills_required": [
+    "AutoGen",
+    "CrewAI",
+    "Embeddings",
+    "Fine-tuning",
+    "LangGraph",
+    "MCP",
+    "OpenAI APIs",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop AI-powered systems using traditional ML and generative AI techniques including prompt engineering, fine-tuning, and embeddings",
+    "Build intelligent applications and agents using frameworks like LangGraph, AutoGen, or CrewAI for autonomous or interactive task execution",
+    "Create modular APIs and service components using FastAPI or Flask to enable model integration and consumption",
+    "Develop and manage data pipelines including data collection, transformation, and quality assurance for model training",
+    "Implement observability and evaluation mechanisms to monitor AI system behavior including accuracy, drift, and reliability",
+    "Collaborate with software engineers, data scientists, and solution architects for seamless design and production transition",
+    "Support rapid experimentation and robust deployment pipelines across use cases of varying maturity",
+    "Stay current on emerging GenAI, AI agents, orchestration protocols, and evaluation frameworks"
+  ],
+  "use_cases": [
+    "Intelligent agents for autonomous or interactive task execution",
+    "AI agent orchestration and model chaining for multi-step workflows",
+    "Self-evaluating AI systems with observability and drift monitoring",
+    "Cross-industry AI solutions from prototype to production deployment",
+    "Generative AI applications with prompt engineering and fine-tuning"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS SageMaker",
+    "Azure",
+    "Azure Machine Learning",
+    "CI/CD",
+    "Data Pipelines",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "Google AI/ML Services",
+    "MLOps",
+    "Model Monitoring",
+    "REST APIs",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "Embeddings",
+    "Fine-tuning",
+    "LangGraph",
+    "MCP",
+    "OpenAI APIs",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, deploying, and fine-\ntuning AI/ML models and agent-based systems. The engineer\nwill design AI-powered systems, build intelligent agents\nusing frameworks like LangGraph/AutoGen, and work across the\nfull AI solution lifecycle from data preparation to\nproduction deployment.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "AutoGen",
+      "CrewAI",
+      "OpenAI APIs",
+      "Prompt Engineering",
+      "Fine-tuning",
+      "Embeddings",
+      "MCP",
+      "RAG"
+    ],
+    "ml": [
+      "scikit-learn",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector Databases"
+    ],
+    "data": [
+      "Data Pipelines"
+    ],
+    "cloud": [
+      "Azure",
+      "AWS",
+      "Azure Machine Learning",
+      "AWS SageMaker",
+      "Google AI/ML Services"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "MLOps",
+      "Model Monitoring"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "NLP",
+      "Machine Learning"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

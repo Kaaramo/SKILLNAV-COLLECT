@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-0153",
+  "source": "intl-ai-corpus",
+  "source_ref": "7208603",
+  "source_url": "https://builtin.com/job/ai-data-engineer/7208603",
+  "title": "AI Data Engineer",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "C the Signs",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "39 Employees",
+  "company_stage": null,
+  "company_focus": "Healthcare AI for patient outcomes",
+  "industries": [
+    "Healthtech",
+    "Hospitality",
+    "Telehealth"
+  ],
+  "description": "Position Summary\n\nThe Data Engineer will play a crucial role in developing and\nfine-tuning data specifically for our LLMs and machine\nlearning models. This individual will be responsible for the\nentire data lifecycle, including gathering, cleaning,\nstructuring, and optimizing large, diverse healthcare\ndatasets. The ideal candidate will have a strong background\nin data engineering principles, experience with big data\ntechnologies, and a keen understanding of the unique\nchallenges and requirements of healthcare data.\n\nYou will design, build, and maintain scalable data pipelines\nthat source, preprocess, and deliver high-quality, high-\nvolume datasets to our machine learning engineers. This role\nrequires a deep understanding of data engineering best\npractices coupled with specific knowledge of the data\nrequirements for LLM training and refinement\n\nKey Responsibilities\n\n- Collaborate with data scientists and machine learning\n  engineers to understand data requirements for LLM and\n  machine learning model fine-tuning.\n- Design, build, and maintain scalable data pipelines to\n  ingest, process, and store massive and diverse healthcare\n  datasets.\n- Implement robust data validation and monitoring to ensure\n  the integrity, accuracy, and consistency of all training\n  datasets.\n- Implement robust data cleaning, validation, and\n  transformation processes to ensure data quality and\n  integrity.\n- Develop and optimize data structures and schemas for\n  efficient access and utilization by LLMs and machine\n  learning models.\n- Work with the team to identify and acquire new data sources,\n  ensuring compliance with relevant healthcare regulations\n  (e.g., HIPAA).\n- Monitor data pipeline performance, troubleshoot issues, and\n  implement optimizations to improve efficiency and\n  reliability.\n- Document data engineering processes, data models, and data\n  dictionaries.\n- Stay up-to-date with the latest advancements in data\n  engineering, big data technologies, and machine learning.\n\nRequirementsRequired\n\n- Bachelor's degree in Computer Science, Engineering, or a\n  related field.\n- Proven experience as a Data Engineer, with a focus on big\n  data technologies.\n- Strong proficiency in programming languages such as Python,\n  Scala, or Java.\n- Extensive experience with data warehousing, ETL processes,\n  and data modeling.\n- Experience with major cloud providers (e.g., AWS, GCP,\n  Azure) and their data storage and processing services.\n- Hands-on experience with big data frameworks like Apache\n  Spark for distributed processing.\n- Excellent problem-solving skills and the ability to work\n  independently and as part of a team.\n- Strong communication and interpersonal skills.\n\nPreferred\n\n- Master's degree in a related field.\n- Experience with healthcare data and a good understanding of\n  healthcare data standards (e.g., FHIR, HL7).\n- Familiarity with machine learning concepts and LLM fine-\n  tuning processes.\n- Experience with data orchestration tools (e.g., Apache\n  Airflow).\n\nWork Authorization:\n\nBenefits\n\nWhy Join Us?\n\nJoining C the Signs is not just about building AI; it’s\nabout shaping the future of healthcare. If you are a\ntechnical leader with an unshakable belief in the power of\nAI to save lives and the ability to make it happen at scale,\nthis is your opportunity to create a tangible, global\nimpact.\n\nBenefits:\n\n- Competitive salary and benefits package.\n- Flexible working arrangements (remote or hybrid options\n  available).\n- The opportunity to work on life-changing AI technology that\n  directly impacts patient outcomes.\n- Join a team that combines cutting-edge innovation with a\n  mission to save lives and improve health equity.\n- Continuous learning opportunities with access to the latest\n  tools and advancements in AI and healthcare.\n",
+  "skills_required": [
+    "FHIR",
+    "HL7",
+    "LLM fine-tuning concepts"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate with data scientists and ML engineers to understand data requirements for LLM and machine learning model fine-tuning",
+    "Design, build, and maintain scalable data pipelines to ingest, process, and store massive and diverse healthcare datasets",
+    "Implement robust data validation, cleaning, and transformation processes to ensure data quality and integrity for training datasets",
+    "Develop and optimize data structures and schemas for efficient access and utilization by LLMs and machine learning models",
+    "Work with the team to identify and acquire new data sources, ensuring compliance with healthcare regulations like HIPAA",
+    "Monitor data pipeline performance, troubleshoot issues, and implement optimizations to improve efficiency and reliability"
+  ],
+  "use_cases": [
+    "Healthcare data processing for LLM training and fine-tuning",
+    "Healthcare AI applications impacting patient outcomes",
+    "Large-scale healthcare data ingestion and transformation",
+    "Data pipeline infrastructure for machine learning workflows",
+    "Compliant healthcare data management and storage"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Apache Airflow",
+    "Apache Spark",
+    "Azure",
+    "ETL",
+    "GCP",
+    "data modeling",
+    "data warehousing"
+  ],
+  "frameworks_mentioned": [
+    "LLM fine-tuning concepts"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role focuses on building data pipelines, cleaning and\nstructuring data for LLMs and ML models, but does not\ninvolve actually building, training, fine-tuning, or\ndeploying models. The engineer provides the foundational\ndata infrastructure and high-quality datasets that enable ML\nengineers to work on models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM fine-tuning concepts"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "data warehousing"
+    ],
+    "data": [
+      "Apache Spark",
+      "ETL",
+      "data modeling",
+      "Apache Airflow"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "Scala",
+      "Java"
+    ],
+    "domains": [
+      "HIPAA compliance"
+    ],
+    "other": [
+      "FHIR",
+      "HL7"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

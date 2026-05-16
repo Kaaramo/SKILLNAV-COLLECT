@@ -1,0 +1,113 @@
+{
+  "job_id": "intl-ai-corpus-2492",
+  "source": "intl-ai-corpus",
+  "source_ref": "7033254",
+  "source_url": "https://builtin.com/job/backend-engineer-observability-evals-platform/7033254",
+  "title": "Senior Backend Software Engineer, AI Observability & Evals Platform (LangSmith)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "LangChain",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "123 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Building the foundation for agent engineering — tools and\nplatform for building, evaluating, deploying, and operating\nAI agents at scale",
+  "industries": [
+    "Information Technology",
+    "Software",
+    "Database"
+  ],
+  "description": "About Us\n\nAt LangChain, our mission is to make intelligent agents\nubiquitous. We build the foundation for agent engineering in\nthe real world, helping developers move from prototypes to\nproduction-ready AI agents that teams can rely on. We began\nas widely adopted open-source tools and have grown to also\noffer a platform for building, evaluating, deploying, and\noperating agents at scale.\n\nWith $125M raised at Series B from IVP, Sequoia, Benchmark,\nCapitalG, and Sapphire Ventures, we’re at a stage where\nwe’re continuing to develop new products, growth is\naccelerating, and all team members have meaningful impact on\nwhat we build and how we work together. LangChain is a place\nwhere your contributions can shape how this technology shows\nup in the real world.\n\nToday, LangChain, LangGraph, LangSmith, and Fleet are used\nby teams shipping real AI products across startups and large\nenterprises. Millions of developers trust LangChain to power\nAI teams at companies like Replit, Clay, Coinbase, Workday,\nLyft, Cloudflare, Harvey, Rippling, Vanta, and 35% of the\nFortune 500.\n\nAbout The Team\n\nThe LangSmith team owns and builds LangChain's core platform\nfor observability, evaluation, and production reliability of\nAI systems. From tracing and annotation to run rules,\nevaluations, and beyond, this team owns LangSmith end-to-\nend. If you want to define what great AI observability looks\nlike at production scale, this is where that work gets done.\n\nAbout The Role\n\nIn person 5 days/week in San Francisco, Boston, MA, New\nYork.\n\nWe are looking for a Senior Backend Engineer to join us. In\nthis role you will be building the backend systems that\npower LangChain’s observability and evals platform. You will\nwork on the core services that allow developers to monitor\nand evaluate their AI applications at scale. While the focus\nis on backend feature development, familiarity with\nfullstack or frontend engineering, performance tuning, and\ndebugging production issues would be extremely valuable.\n\nWhat You'll Do\n\n- Design, develop, and maintain backend services and APIs to\n  support LangSmith’s tracing, monitoring, and evaluation\n  workflows.\n- Collaborate on architectural decisions to ensure systems are\n  performant and maintainable.\n- Optimize storage and query performance for high-volume\n  observability and evaluation data.\n- Ensure system reliability through strong testing,\n  monitoring, and alerting practices.\n- Troubleshoot and resolve production issues, performing root-\n  cause analysis and implementing long-term fixes.\n- Create and maintain technical documentation, including\n  system design and API references.\n- Work closely with full-stack engineers, product managers,\n  and product designers on rolling out new features.\n\nWhat You'll Bring\n\n- 5+ years of professional experience in backend engineering\n  working on highly complex products\n- Proficiency in one or more backend languages/frameworks,\n  ideally Python or Go\n- Strong understanding of API design and building reliable\n  data services.\n- Experience with high-throughput or mission-critical systems.\n- Demonstrated ability to optimize backend services for\n  performance and reliability.\n- Experience with database systems (Postgres, Redis,\n  Clickhouse), and cloud platforms (AWS, GCP, Azure)\n- Strong communication skills, with the ability to collaborate\n  cross-functionally\n- Customer centricity and ownership mentality\n\nCompensation\n\nAnnual salary range: $175,000- $225,000\n\nCompensation Philosophy:\n\nWe offer competitive compensation that includes base salary,\nvariable compensation for relevant roles, meaningful equity,\nbenefits, and perks. Actual compensation and offerings will\nvary based on role, level, and location. Team members in the\nEU, UK, and APAC receive locally competitive benefits\naligned with regional norms and regulations.\n\nBenefits\n\nBenefits include medical, dental, and vision coverage,\nflexible vacation, a 401(k) plan, meals on in-office days in\nthe US and more.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and maintain backend services and APIs to support LangSmith's tracing, monitoring, and evaluation workflows",
+    "Collaborate on architectural decisions to ensure systems are performant and maintainable",
+    "Optimize storage and query performance for high-volume observability and evaluation data",
+    "Ensure system reliability through strong testing, monitoring, and alerting practices",
+    "Troubleshoot and resolve production issues, performing root-cause analysis and implementing long-term fixes",
+    "Create and maintain technical documentation, including system design and API references",
+    "Work closely with full-stack engineers, product managers, and product designers on rolling out new features"
+  ],
+  "use_cases": [
+    "AI application observability — tracing and monitoring LLM/agent runs in production",
+    "Evaluation of AI systems — automated and manual evaluation workflows for AI applications",
+    "Production reliability monitoring for AI agents and LLM-based systems",
+    "High-volume data storage and querying for observability and evaluation metrics",
+    "Annotation and run rules for AI system debugging and improvement"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "AWS",
+    "Azure",
+    "ClickHouse",
+    "GCP",
+    "Monitoring and alerting",
+    "Performance tuning",
+    "PostgreSQL",
+    "REST APIs",
+    "Redis",
+    "System reliability"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is a backend engineering position focused on\nbuilding the infrastructure (observability, tracing,\nevaluation platform) that supports AI developers, not on\nbuilding/training/deploying AI models directly. The engineer\nbuilds the LangSmith platform's backend services—storage,\nAPIs, monitoring—but does not work on models, agents, or\nGenAI systems themselves. It's enabling infrastructure for\nAI practitioners.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "API design",
+      "REST APIs"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Redis",
+      "ClickHouse"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Performance tuning",
+      "Monitoring and alerting",
+      "System reliability"
+    ],
+    "languages": [
+      "Python",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

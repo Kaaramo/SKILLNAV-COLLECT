@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-0829",
+  "source": "intl-ai-corpus",
+  "source_ref": "7318531",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/7318531",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Metaforms",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-13",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "38 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI platform for market research and surveys",
+  "industries": [
+    "Artificial Intelligence",
+    "Productivity"
+  ],
+  "description": "About Metaforms\n\nAt Metaforms, we’re redefining how market research gets\ndone.\n\nOur AI platform empowers the world’s leading research\nagencies to scale 10x faster while maintaining\nuncompromising quality. With AI Agents that augment survey\nprogramming, data processing, and project management, we\nhelp customers like Dynata, Savanta, and Borderless Access\ndeliver more projects with less friction.\n\n- 📊 1,000+ surveys processed monthly\n- 🌍 Serving Fortune 500 companies\n- 📈 Experiencing rapid month-over-month growth\n\nWe recently raised $9M in Series A funding, positioning us\nto aggressively scale our AI engineering team and build the\nnext generation of production-grade AI agent systems.\n\n💡 The Role\n\nWe’re hiring a Senior AI Engineer to lead the design,\ndevelopment, and refinement of AI agent systems that power\nmodern research workflows.\n\nThis role goes beyond building models — you’ll drive system-\nlevel innovation, mentor peers, and shape how our AI\ncopilots tackle domain-specific challenges at scale. You’ll\nwork at the intersection of cutting-edge research and\nengineering execution, ensuring reliability, robustness, and\nreal-world impact.\n\n🔨 What You’ll Build\n\nData Creation & Intelligence\n\n- Architect synthetic data pipelines to strengthen model\n  performance on edge cases\n- Lead development of complex evaluation datasets (especially\n  for DSLs) to systematically identify weaknesses\n- Build scalable systems for automated data verification and\n  pipeline orchestration\n\nModel Response Analysis & Monitoring\n\n- Define rubrics and frameworks for evaluating nuanced,\n  ambiguous AI tasks\n- Build monitoring and optimization systems for continuous\n  production feedback loops\n- Create tools that empower domain experts to collaborate in\n  evolving datasets & model behavior\n\nSystem Innovation & Scale\n\n- Research and implement novel approaches for long-context\n  handling, cascading error reduction, and structured\n  outputs\n- Advance prompt engineering, fine-tuning, and control\n  techniques for greater reliability\n- Drive the design and evaluation of production-grade, agentic\n  AI systems at scale\n\n🧑‍💻 What We’re Looking For\n\nCore Skills\n\n- Strong programming skills in Python\n  (Go/JavaScript/TypeScript a plus)\n- Extensive experience with LLMs, synthetic data pipelines,\n  evaluation frameworks, and system optimization\n- Deep knowledge of prompt engineering, fine-tuning,\n  structured evaluation, and reliability techniques\n- Strong problem-solving, debugging, and analytical skills\n  with a production-first mindset\n- Ability to communicate complex technical ideas to both\n  technical and non-technical audiences\n- High ownership and leadership — comfortable leading\n  projects, mentoring engineers, and driving experiments\n  independently\n\nBonus Points\n\n- Experience with model monitoring, bias evaluation, or\n  dataset management systems\n- Background in semantic parsing, DSLs, or structured-output\n  models\n- Passion for pioneering reliability and control in agentic AI\n  systems\n- Previous experience in zero-to-one or scaling-stage AI\n  companies\n\n🌟 Leadership & Impact\n\nAs a Senior AI Engineer, you will:\n\n- Mentor and guide junior engineers, fostering technical\n  growth and high-quality output\n- Help set engineering standards, best practices, and system\n  design principles for AI pipelines\n- Partner with product and leadership to shape technical\n  strategy and roadmap\n- Serve as a thought leader in agentic AI reliability and\n  scale within the company\n\n🌟 Why Join Metaforms?\n\n- Lead at the cutting edge of AI agent and co-pilot system\n  development\n- Work with a high-agency team shipping production-grade AI\n  tools\n- Thrive in a zero-bureaucracy culture optimized for speed,\n  quality, and user impact\n- Be part of a Series A funded company ($10M+), backed to\n  scale aggressively\n\n🎁 Benefits\n\n- Full family health insurance\n- $1,000 USD annual reimbursement for skill development\n- Dedicated mentor/coach support\n- Free lunch & dinner at office\n- Monthly food/snacks allowance\n\n👉 Join Metaforms and help shape the future of AI-powered\nresearch systems at scale.\n",
+  "skills_required": [
+    "LLMs",
+    "RAG",
+    "agents",
+    "fine-tuning",
+    "prompt engineering",
+    "structured-output models"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect synthetic data pipelines to strengthen model performance on edge cases",
+    "Lead development of complex evaluation datasets and automated data verification systems",
+    "Build monitoring and optimization systems for continuous production feedback loops",
+    "Research and implement novel approaches for long-context handling, cascading error reduction, and structured outputs",
+    "Advance prompt engineering, fine-tuning, and control techniques for greater reliability",
+    "Drive the design and evaluation of production-grade, agentic AI systems at scale",
+    "Mentor junior engineers and set engineering standards for AI pipelines",
+    "Partner with product and leadership to shape technical strategy and roadmap"
+  ],
+  "use_cases": [
+    "AI-powered survey programming and data processing automation",
+    "AI agents for market research project management",
+    "Synthetic data generation for model training and edge case handling",
+    "Automated evaluation and monitoring of AI system outputs",
+    "Domain-specific AI copilots for research workflows",
+    "DSL (Domain Specific Language) processing and structured output generation"
+  ],
+  "tools_mentioned": [
+    "bias evaluation",
+    "dataset management",
+    "evaluation frameworks",
+    "model monitoring",
+    "synthetic data pipelines"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "RAG",
+    "agents",
+    "fine-tuning",
+    "prompt engineering",
+    "structured-output models"
+  ],
+  "languages_programming": [
+    "Go",
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves direct hands-on work building AI agent\nsystems, including prompt engineering, fine-tuning LLMs,\nsynthetic data pipelines, and model evaluation frameworks.\nThe engineer will architect agentic AI systems and implement\ntechniques for long-context handling and structured outputs,\nwhich is core AI/ML development work.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "prompt engineering",
+      "RAG",
+      "agents",
+      "structured-output models"
+    ],
+    "ml": [
+      "fine-tuning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "synthetic data pipelines",
+      "dataset management"
+    ],
+    "cloud": [],
+    "ops": [
+      "evaluation frameworks",
+      "model monitoring",
+      "bias evaluation"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "domains": [
+      "semantic parsing",
+      "DSLs"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

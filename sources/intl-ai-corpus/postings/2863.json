@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-2863",
+  "source": "intl-ai-corpus",
+  "source_ref": "9044622",
+  "source_url": "https://builtin.com/job/ai-native-data-platform-engineer/9044622",
+  "title": "AI-Native Data Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Farther",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-14",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "530 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Technology-driven wealth management RIA platform",
+  "industries": [
+    "Fintech",
+    "Financial Services"
+  ],
+  "description": "Company Description\n\nFarther is a rapidly growing RIA that combines expert\nadvisors with cutting-edge technology - delivering a\ncomprehensive, tailored wealth management experience.\n\nFarther’s founders are leaders and innovators from the\nprivate wealth industry who possess a unique blend of\ntraditional wealth management, fintech, and technology\nproduction expertise. We’re backed by top-tier venture\ncapital firms, fintech investors, and industry leaders.\n\nJoining Farther means joining a collaborative team of\nentrepreneurs who are passionate about helping their clients\nand our teammates achieve more. If you’re the type who\nbreaks through walls to get things done the right way, we\nwant to build the future of wealth management with you.\n\nThe Role\n\nAs an AI-Native Data Platform Engineer at Farther, you will\ndesign and own the canonical data foundations powering our\nfinancial AI systems. This role sits at the core of our\nplatform — building the ontology, data contracts, and\nreconciliation frameworks that enable intelligent agents to\noperate safely and autonomously.\n\nAI systems only perform as well as the structure beneath\nthem. You will architect custodial data pipelines, canonical\nfinancial models, and AI-ready schemas that support\nembeddings, retrieval systems, and agent-driven workflows in\na regulated wealth management environment.\n\nWe are building autonomous agents that reason over and act\non platform state — and you will define the data layer that\nmakes that possible.\n\nYour Impact\n\n- Design scalable ingestion pipelines across custodians\n  (Schwab, Fidelity, Pershing, etc.) and internal financial\n  systems\n- Build and evolve canonical models for accounts, positions,\n  transactions, balances, corporate actions, and household\n  hierarchies\n- Define financial data ontology and enforce strong data\n  contracts across services\n- Implement reconciliation frameworks and golden-source\n  resolution across multi-vendor datasets\n- Engineer AI-ready data layers optimized for embeddings,\n  vector search, and RAG architectures\n- Structure financial datasets to improve prompt reliability\n  and LLM output consistency\n- Architect closed-loop, agent-driven systems that monitor,\n  reason over, and autonomously remediate data\n  inconsistencies\n- Implement observability, lineage, governance, and fine-\n  grained access controls across regulated datasets\n\nThe Ideal Match\n\n- 5+ years building production-grade data platforms\n- Deep SQL expertise and strong Python for data engineering\n- Experience designing canonical schemas and resolving vendor\n  data inconsistencies\n- Strong understanding of custodial financial data (positions,\n  trades, balances, performance, corporate actions)\n- Familiarity with embeddings, vector databases, and retrieval\n  architectures\n- Exposure to prompt engineering and structured context design\n  for LLM systems\n- Knowledge of MLOps fundamentals (versioning, monitoring,\n  reproducibility)\n- Comfortable with AWS data services (S3, Lambda, ECS, Glue,\n  Redshift, OpenSearch) and event-driven orchestration\n- Strong ownership mindset and systems-level thinking\n\nBonus Points\n\n- Wealth management or capital markets background\n- Experience integrating OpenAI or Anthropic APIs into\n  production systems\n- Experience designing retrieval schemas for AI agents\n- Experience with authorization and policy platforms (e.g.,\n  OSO, Auth0)\n- Experience implementing fine-grained access control for AI-\n  driven systems\n- Familiarity with GitHub-based CI/CD workflows and automation\n- Experience with data governance, lineage, and compliance\n  controls\n\nWhy Join Us\n\n- Learn & grow through book clubs, seminars, and peer learning\n  sessions\n- Full health benefits + 401(k) matching & Roth IRA options\n- Unlimited PTO\n- An amazing collaborative atmosphere between product, design,\n  and engineering to solve hard problems together\n\nReady to disrupt wealth management? Let's talk!\n",
+  "skills_required": [
+    "Anthropic API",
+    "Embeddings",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG architectures"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design scalable ingestion pipelines across custodians (Schwab, Fidelity, Pershing) and internal financial systems",
+    "Build and evolve canonical models for accounts, positions, transactions, balances, corporate actions, and household hierarchies",
+    "Define financial data ontology and enforce strong data contracts across services",
+    "Implement reconciliation frameworks and golden-source resolution across multi-vendor datasets",
+    "Engineer AI-ready data layers optimized for embeddings, vector search, and RAG architectures",
+    "Structure financial datasets to improve prompt reliability and LLM output consistency",
+    "Architect closed-loop, agent-driven systems that monitor, reason over, and autonomously remediate data inconsistencies",
+    "Implement observability, lineage, governance, and fine-grained access controls across regulated datasets"
+  ],
+  "use_cases": [
+    "Autonomous financial agents that reason over and act on platform state",
+    "RAG-based retrieval over financial data for wealth management advisory",
+    "Automated data reconciliation and anomaly remediation across custodial sources",
+    "LLM-driven financial data analysis with structured context",
+    "Enterprise data governance and lineage for regulated wealth management"
+  ],
+  "tools_mentioned": [
+    "AWS ECS",
+    "AWS Glue",
+    "AWS Lambda",
+    "AWS Redshift",
+    "AWS S3",
+    "CI/CD",
+    "Canonical schema design",
+    "Data governance",
+    "Data lineage",
+    "ETL pipelines",
+    "Event-driven orchestration",
+    "Fine-grained access control",
+    "MLOps",
+    "OpenSearch",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "Embeddings",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG architectures"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is fundamentally a data platform engineering\nposition that supports AI systems rather than building them\ndirectly. The engineer builds data pipelines, canonical\nmodels, and schemas that enable AI agents and RAG systems to\nfunction, but does not train, fine-tune, or deploy ML\nmodels. The core work is data engineering and ontology\ndesign in service of downstream AI/LLM consumers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Embeddings",
+      "RAG architectures",
+      "Prompt engineering",
+      "OpenAI API",
+      "Anthropic API"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "OpenSearch",
+      "Vector Databases"
+    ],
+    "data": [
+      "Data governance",
+      "ETL pipelines",
+      "Canonical schema design",
+      "Event-driven orchestration",
+      "Data lineage"
+    ],
+    "cloud": [
+      "AWS S3",
+      "AWS Lambda",
+      "AWS ECS",
+      "AWS Glue",
+      "AWS Redshift"
+    ],
+    "ops": [
+      "MLOps",
+      "CI/CD",
+      "Fine-grained access control"
+    ],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [
+      "Wealth management domain knowledge",
+      "Custodial financial data"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0959",
+  "source": "intl-ai-corpus",
+  "source_ref": "7793183",
+  "source_url": "https://builtin.com/job/senior-ai-infrastructure-engineer-dgx-cloud/7793183",
+  "title": "Senior AI Infrastructure Engineer - DGX Cloud",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NVIDIA",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21,960 Employees",
+  "company_stage": "Public",
+  "company_focus": "GPU computing, AI hardware, and high-performance computing\nsolutions",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Hardware",
+    "Robotics",
+    "Metaverse"
+  ],
+  "description": "NVIDIA is looking for an outstanding, passionate, and\ntalented Senior AI Infrastructure Engineer  to join our DGX\nCloud group. This engineering role will design, build and\nmaintain large scale production systems with high efficiency\nand availability using the combination of software and\nsystems engineering practices. This role demands knowledge\nacross different systems, networking, coding, database,\ncapacity management, continuous delivery and deployment and\nopen source cloud enabling technologies like Kubernetes and\nOpenStack. AI Infrastructure Engineer at NVIDIA ensures that\nour internal and external facing GPU cloud services run\nmaximum reliability and uptime and at the same time making\nchanges to the existing system through careful preparation\nand planning while managing capacity and performance.\n\nNVIDIA’s culture of diversity, intellectual curiosity,\nproblem solving and openness is important to our success.\n\n\nOur organization brings together people with a wide variety\nof backgrounds, experiences and perspectives. We encourage\nthem to collaborate, think big and take risks in a blame-\nfree environment. We promote self-direction to work on\nmeaningful projects, while we also strive to build an\nenvironment that provides the support and mentorship needed\nto learn and grow.\n\nWhat You’ll Be Doing:\n\n- Design, build, deploy, and run internal tooling for large\n  scale AI training and Inferencing platform built on top of\n  cloud infrastructure\n- Conduct in-depth performance characterization and analysis\n  on large multi-GPU and multi-node clusters.\n- Engage in and improve the whole lifecycle of services—from\n  inception and design through deployment, operation and\n  refinement.\n- Support services before they go live through activities such\n  as system design consulting, developing software tools,\n  platforms and frameworks, capacity management and launch\n  reviews.\n- Maintain services once they are live by measuring and\n  monitoring availability, latency and overall system\n  health.\n- Scale systems sustainably through mechanisms like\n  automation, and evolve systems by pushing for changes that\n  improve reliability and velocity\n- Practice sustainable incident response and blameless\n  postmortems\n- Be part of an on call rotation to support production systems\n\nWhat We Need To See:\n\n- BS degree in Computer Science or a related technical field\n  involving coding (e.g., physics or mathematics), or\n  equivalent experience.\n- 5+ years of experience.\n- A track record showing a good balance between initiating\n  your own projects, convincing others to collaborate with\n  you and collaborating well on projects initiated by\n  others.\n- Experience with infrastructure automation and distributed\n  systems design developing tools for running large scale\n  private or public cloud systems in production.\n- Experience in one or more of the following: Python, Go,\n  C/C++, Java\n- In depth knowledge in one or more of Linux, Networking,\n  Storage, and Containers Technologies\n- Experience with Public Cloud and Infrastructure as a code\n  (IAAC) and Terraform\n- Distributed system experience\n\nWays to stand out from the crowd:\n\n- Interest in crafting, analyzing and fixing large-scale\n  distributed systems.\n- Systematic problem-solving approach, coupled with strong\n  communication skills and a sense of ownership and drive.\n- Ability to debug and optimize code and automate routine\n  tasks.\n- Experience in using or running large private and public\n  cloud systems based on Kubernetes or Slurm.\n\nNVIDIA is widely considered to be one of the technology\nworld’s most desirable employers. We have some of the most\nforward-thinking and hard-working people in the world\nworking for us. Are you creative and autonomous? Do you love\na challenge? If so, we want to hear from you. NVIDIA is\nleading the way in groundbreaking developments in Artificial\nIntelligence, High-Performance Computing and Visualization.\nThe GPU, our invention, serves as the visual cortex of\nmodern computers and is at the heart of our products and\nservices. If you're creative and self-motivated, we want to\nhear from you! NVIDIA is leading the way in groundbreaking\ndevelopments in Artificial Intelligence, High-Performance\nComputing and Visualization. The GPU, our invention, serves\nas the visual cortex of modern computers and is at the heart\nof our products and services\n",
+  "skills_required": [
+    "GPU computing"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, deploy, and run internal tooling for large scale AI training and inferencing platform on cloud infrastructure",
+    "Conduct performance characterization and analysis on large multi-GPU and multi-node clusters",
+    "Engage in full service lifecycle from inception and design through deployment, operation and refinement",
+    "Support services before launch through system design consulting, developing software tools, platforms and frameworks, capacity management and launch reviews",
+    "Maintain live services by measuring and monitoring availability, latency and overall system health",
+    "Scale systems sustainably through automation and evolve systems to improve reliability and velocity",
+    "Practice sustainable incident response and blameless postmortems",
+    "Participate in on-call rotation to support production systems"
+  ],
+  "use_cases": [
+    "Large scale AI training platform infrastructure",
+    "AI inferencing platform infrastructure",
+    "Multi-GPU and multi-node cluster management",
+    "GPU cloud services reliability and uptime",
+    "Internal tooling for AI infrastructure operations"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Distributed systems",
+    "Docker",
+    "Infrastructure as Code",
+    "Kubernetes",
+    "Linux",
+    "Networking",
+    "OpenStack",
+    "Public cloud",
+    "Slurm",
+    "Storage systems",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "GPU computing"
+  ],
+  "languages_programming": [
+    "C/C++",
+    "Go",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building and maintaining\ninfrastructure/platforms that enable AI training and\ninference workloads, but does not involve building,\ntraining, fine-tuning, or deploying AI/ML models themselves.\nThe work is on the underlying systems, automation, and\nreliability engineering that supports AI workloads run by\nothers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "GPU computing"
+    ],
+    "web": [],
+    "databases": [
+      "Storage systems"
+    ],
+    "data": [],
+    "cloud": [
+      "OpenStack",
+      "Public cloud"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "Docker",
+      "Networking",
+      "Distributed systems",
+      "CI/CD",
+      "Infrastructure as Code",
+      "Slurm"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "C/C++",
+      "Java"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

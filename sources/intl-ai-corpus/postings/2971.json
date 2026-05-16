@@ -1,0 +1,161 @@
+{
+  "job_id": "intl-ai-corpus-2971",
+  "source": "intl-ai-corpus",
+  "source_ref": "9084727",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer/9084727",
+  "title": "Senior AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Fortive",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-17",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "13,486 Employees",
+  "company_stage": "Public",
+  "company_focus": "Industrial technology and healthcare SaaS solutions",
+  "industries": [
+    "Hardware",
+    "Other",
+    "Software",
+    "Appliances",
+    "Industrial",
+    "Manufacturing"
+  ],
+  "description": "Job Summary:\n\nDesign, develop, and deploy AI/ML models and intelligent\nsystems that enhance clinical decision-making, operational\nefficiency, and patient outcomes. Collaborate with cross-\nfunctional teams to integrate AI capabilities into scalable,\nsecure, and compliant SaaS platforms.\n\nKey Responsibilities:\n\n- Machine Learning & Deep Learning\n  - Expertise in supervised, unsupervised, and reinforcement\n    learning\n  - Familiarity with CNNs, RNNs, transformers, and generative\n    models\n  - Proficiency in TensorFlow, PyTorch, Scikit-learn\n- Programming & Software Engineering\n  - Advanced skills in Python, R, SQL; optionally Java or Scala\n  - Experience with CI/CD, Docker, Kubernetes, GitOps\n- Data Engineering & Architecture\n  - Building scalable data pipelines and real-time analytics\n  - Experience with Spark, Hadoop, and cloud-native platforms\n    (Azure, AWS, GCP)\n- Healthcare Compliance & Interoperability\n  - Knowledge of HIPAA, HL7, FHIR standards\n  - Experience integrating AI into EHRs and clinical workflows\n- AI Strategy & Responsible Use\n  - Ethical AI design, bias mitigation, and explainability\n  - Ability to align AI initiatives with business and clinical\n    goals\n\nRequired Qualifications:\n\nEducation & Experience\n\n- Bachelor’s or Master’s degree in Computer Science, Data\n  Science, or related field.\n  - 6+ years of experience in AI/ML engineering, preferably\n    within healthcare SaaS environments\n  - Proven track record of deploying models in production and\n    integrating with cloud-native platforms\n\nOther Preferred Knowledge, Skills, Abilities or\nCertifications:\n\n- Cloud & AI Certifications\n  - Healthcare Standards & Compliance\n  - Ethical AI & Responsible Use\n  - Data Engineering & Real-Time Analytics\n",
+  "skills_required": [
+    "Bias Mitigation",
+    "CNNs",
+    "Ethical AI and Explainability",
+    "Generative Models",
+    "PyTorch",
+    "RNNs",
+    "Reinforcement Learning",
+    "Scikit-learn",
+    "TensorFlow",
+    "Transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and deploy AI/ML models and intelligent systems for clinical decision-making and patient outcomes",
+    "Build and train deep learning models using supervised, unsupervised, and reinforcement learning approaches",
+    "Develop scalable data pipelines and real-time analytics systems to support AI workloads",
+    "Integrate AI capabilities into secure, HIPAA-compliant SaaS platforms and EHR systems",
+    "Implement ethical AI design practices including bias mitigation and explainability",
+    "Align AI initiatives with business and clinical goals across cross-functional teams",
+    "Deploy production models on cloud-native platforms with CI/CD, Docker, and Kubernetes"
+  ],
+  "use_cases": [
+    "Clinical decision support and enhanced patient outcomes",
+    "Operational efficiency improvements in healthcare settings",
+    "AI integration into EHRs and clinical workflows",
+    "Real-time clinical analytics and intelligent alerting",
+    "Ethical and compliant AI-driven healthcare SaaS platform"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Data Pipelines",
+    "Docker",
+    "GCP",
+    "GitOps",
+    "Hadoop",
+    "Kubernetes",
+    "Real-Time Analytics",
+    "Spark"
+  ],
+  "frameworks_mentioned": [
+    "CNNs",
+    "Generative Models",
+    "PyTorch",
+    "RNNs",
+    "Reinforcement Learning",
+    "Scikit-learn",
+    "TensorFlow",
+    "Transformers"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "R",
+    "SQL",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "BIG_DATA",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly designing, developing, and\ndeploying AI/ML models including deep learning architectures\n(CNNs, RNNs, transformers) and generative models. The\nengineer works hands-on with model building, training, and\nproduction deployment, making it clearly an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "CNNs",
+      "RNNs",
+      "Transformers",
+      "Generative Models",
+      "Reinforcement Learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Spark",
+      "Hadoop",
+      "Data Pipelines",
+      "Real-Time Analytics"
+    ],
+    "cloud": [
+      "Azure",
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "GitOps"
+    ],
+    "languages": [
+      "Python",
+      "R",
+      "SQL",
+      "Java",
+      "Scala"
+    ],
+    "domains": [
+      "HIPAA Compliance",
+      "HL7/FHIR Standards",
+      "Healthcare AI"
+    ],
+    "other": [
+      "Ethical AI and Explainability",
+      "Bias Mitigation"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

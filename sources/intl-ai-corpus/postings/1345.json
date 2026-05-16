@@ -1,0 +1,114 @@
+{
+  "job_id": "intl-ai-corpus-1345",
+  "source": "intl-ai-corpus",
+  "source_ref": "8407233",
+  "source_url": "https://builtin.com/job/senior-ai-data-engineer/8407233",
+  "title": "Senior AI Data Engineer",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "VideoAmp",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "350 Employees",
+  "company_stage": null,
+  "company_focus": "Linear TV and digital video advertising measurement and\noptimization",
+  "industries": [
+    "AdTech",
+    "Big Data",
+    "Digital Media",
+    "Marketing Tech",
+    "Sales",
+    "Software",
+    "Data Privacy"
+  ],
+  "description": "VideoAmp is on a mission to create the best employee and\nworkplace experience where people can bring their whole self\nto work everyday.  We believe that accomplishing something\ngreat requires a special group of people who work hard,\ndrive results and have a blast while doing it - people who\nchallenge the status quo and embody our values.  People who\nsay “I’ll find a way” instead of saying “it can’t be done.”\nAt VideoAmp, we believe in challenging advertising paradigms\nto maximize value for clients. We do this by enabling\ncompanies to execute on business outcomes across their media\ninvestment instead of more traditional media metrics.\nVideoAmp is the software and data solutions company powering\nthe convergence of linear TV and digital video advertising.\nOur solutions connect linear TV viewership with addressable\ndata assets to benefit the marketing and media industries.\nThis enables marketers and content owners to holistically\nplan, transact, and measure deduplicated audiences across\ndigital video, OTT, connected and linear TV advertising.\nRole & Responsibilities\n\nVideoAmp is seeking a Senior AI Data Engineer  to join our\nLinear Data Processing (LDP) team. This role focuses on\nbuilding production-grade AI and LLM-powered systems\ndirectly into large-scale data pipelines that support\naudience measurement, currency, identity, and metadata\nworkflows across linear and digital media.\n\nYou will apply LLMs and classical ML to real-world linear TV\nproblems: network-specific schedules, hourly viewership\nlogs, program metadata, and commercial schedules that vary\nwidely by partner, format, and quality.\n\n- Design and operate AI- and LLM-enabled data pipelines\n  processing billions of linear and digital records\n- Build and productionize LLM-driven systems for concrete LDP\n  problems, including:Network & Program Schedules\n- Hourly Viewership Logs\n- Commercial & Ad Spot Metadata\n- Combine LLMs with rules, heuristics, and ML models to ensure\n  deterministic, auditable outcomes\n- Own the end-to-end AI lifecycle, including:\n- Integrate LLMs responsibly into batch and event-driven LDP\n  workflows, balancing accuracy, latency, and cost\n- Build human-in-the-loop workflows for high-impact or low-\n  confidence cases\n- Collaborate closely with Measurement, Identity, Library, and\n  Product teams to translate ambiguous data issues into\n  scalable AI solutions\n- Provide technical leadership through design reviews,\n  mentorship, and architectural guidance\n\nWhat We’re Looking For\n\n- 4+ years of experience in AI/ML engineering, applied ML\n  systems, or data engineering\n- Demonstrated experience shipping LLM-powered systems into\n  production\n- Strong understanding of:\n- Proficiency in Python and SQL; strong software engineering\n  fundamentals\n- Experience working with large-scale data platforms and\n  distributed systems\n- Ability to design AI systems that meet measurement-grade\n  reliability, explainability, and auditability requirements\n\nStrong Plus\n\n- Experience working with TV schedules, viewership logs, or\n  advertising metadata\n- Familiarity with linear TV measurement or media data\n  pipelines\n- Experience applying AI in compliance-sensitive or customer-\n  facing measurement systems\n- Knowledge of MLOps / LLMOps best practices\n\nWhat Success Looks Like at VideoAmp\n\n- LLM-powered systems materially reduce manual curation of\n  schedules and metadata\n- Data quality issues are detected earlier and explained more\n  clearly\n- Measurement pipelines become more adaptive to partner-\n  specific formats\n- AI systems are trusted, observable, and operationally stable\n\nWhat We Offer\n\nThis position pays between $150,000 - $170,000 + Equity +\nBenefits. The actual compensation offer will be determined\nby a number of factors, including, but not limited to,\napplicant's qualifications, skills, and experience.\n\n- Discretionary and flexible paid time off\n- In addition to standard US holidays off, VideoAmp employees\n  also partake in Spring, Summer and Winter breaks\n- Comprehensive medical, dental, and vision benefits for you\n  and your dependents—including multiple options fully\n  covered by VideoAmp\n- Unlimited financial wellness sessions with Origin financial\n  advisors\n- 401k Plan with matching\n- HSA & FSA\n- Commuter Benefits\n- Cell Phone Reimbursement\n- Paid Maternity and Parental Leave for All Family Additions\n\nWe are on a collective mission to bring equity and\ntransparency into media measurement, and that begins with an\nhonest, inclusive culture. At VideoAmp, we empower our team\nto thrive through collaboration, mentorship, and innovation.\nIf you’re passionate about technical revenue accounting,\nSaaS transformation, and AdTech innovation, we’d love to\nhear from you.\n\nAbove all, if you’re eager to influence and support the\nrevolutionary goals of a dynamic, cross-functional team—join\nus and make an impact!\n\n#LI-Hybrid\n",
+  "skills_required": [
+    "LLMs",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and operate AI- and LLM-enabled data pipelines processing billions of linear and digital records",
+    "Build and productionize LLM-driven systems for network schedules, hourly viewership logs, and commercial metadata",
+    "Combine LLMs with rules, heuristics, and ML models to ensure deterministic, auditable outcomes",
+    "Integrate LLMs responsibly into batch and event-driven workflows, balancing accuracy, latency, and cost",
+    "Build human-in-the-loop workflows for high-impact or low-confidence cases",
+    "Collaborate with Measurement, Identity, Library, and Product teams to translate data issues into scalable AI solutions",
+    "Provide technical leadership through design reviews, mentorship, and architectural guidance"
+  ],
+  "use_cases": [
+    "Process network-specific schedules and program metadata for linear TV",
+    "Handle hourly viewership logs that vary by partner, format, and quality",
+    "Extract and structure commercial and ad spot metadata",
+    "Enable audience measurement, currency, and identity workflows across linear and digital media",
+    "Detect and explain data quality issues in measurement pipelines",
+    "Make measurement pipelines adaptive to partner-specific formats"
+  ],
+  "tools_mentioned": [
+    "LLMOps",
+    "MLOps",
+    "batch processing",
+    "data pipelines",
+    "distributed systems",
+    "event-driven workflows"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and productionizing LLM-powered\nsystems and integrating them directly into data pipelines.\nThe engineer will own the end-to-end AI lifecycle, combining\nLLMs with ML models for specific business problems like\nnetwork schedules and viewership logs.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [
+      "data pipelines",
+      "distributed systems",
+      "batch processing",
+      "event-driven workflows"
+    ],
+    "cloud": [],
+    "ops": [
+      "MLOps",
+      "LLMOps"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

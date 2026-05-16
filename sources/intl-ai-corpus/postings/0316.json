@@ -1,0 +1,114 @@
+{
+  "job_id": "intl-ai-corpus-0316",
+  "source": "intl-ai-corpus",
+  "source_ref": "7771933",
+  "source_url": "https://builtin.com/job/ai-engineer-remote-europe/7771933",
+  "title": "AI Engineer - Remote Europe",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Reedsy",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "248 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Publishing platform and marketplace for authors",
+  "industries": [],
+  "description": "About Reedsy\n\nWe’re here to give authors the tools and resources they need\nto create beautiful books. Our marketplace gathers the\nindustry's best publishing professionals — the likes of Neil\nGaiman's editor, Nora Roberts' book marketer, and GRRM’s\ncover designer.\n\nWe’ve grown to a community of 5,000,000 authors, and\ntransformed the way people write and publish their book.\nWant to hop on board and help us get to our next\ndestination? Cool, keep reading!\n\nResponsibilities\n\nAt Reedsy, our goal is to build the best ecosystem for\nwriters, supporting them at every stage of their creative\njourney. Over the years, we've developed a suite of\nproducts, including a marketplace, book discovery platform,\nwriting app, central authentication system, and email\nmarketing tools.\n\nAs a publishing startup, we're thoughtful about how we\nintegrate AI. As an AI Engineer, you'll help us empower\nauthors to do more — enhancing creativity, not replacing it.\nYou’ll focus on building intelligent features that support\nstorytelling and streamline workflows.\n\nIn this role, you will:\n\n- Design and implement AI-powered tools for authors (e.g. a\n  narrative co-pilot, visual storyboarding assistant, etc.);\n- Improve internal workflows by automating repetitive tasks\n  and enhancing UX across our products;\n- Build internal tools for AI development, including\n  evaluation benchmarks and automated testing;\n- Collaborate closely with engineers and operations teams to\n  identify high-impact AI opportunities.\n\nRequirements\n\n- Proven experience integrating AI/ML into real-world\n  products, with ownership of the full lifecycle — from\n  modeling and evaluation to deployment and go-to-market\n  execution.\n- Experience working with large language models (e.g., prompt\n  engineering, fine-tuning, model selection, retrieval-\n  augmented generation)\n- Familiarity with orchestration tools (e.g., LangChain,\n  LlamaIndex, or custom chaining frameworks)\n- Knowledge of hallucination detection and mitigation\n  strategies\n- Hands-on experience with cloud platforms (preferably Google\n  Cloud Platform) and scalable AI deployment\n- Familiarity with embeddings, vector databases, and\n  Elasticsearch\n- Experience with AI developer tooling (e.g., Cursor,\n  intelligent CI/CD, AI-powered QA)\n\nBonus Points\n\n- Fluent in multiple languages. Reedsy welcomes applicants of\n  all cultures and backgrounds.\n- A good dose of ambition, a willingness to learn, and a great\n  sense of humor\n\nBenefits\n\n- Work from home\n- Paid paternal and maternal leave\n- Annual team retreat\n\nSalary range:\n\n70k-120k EUR - 0-0.2% equity\n",
+  "skills_required": [
+    "Embeddings",
+    "Fine-tuning",
+    "LangChain",
+    "Large Language Models",
+    "LlamaIndex",
+    "Orchestration frameworks",
+    "Prompt Engineering",
+    "Retrieval-Augmented Generation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement AI-powered tools for authors such as narrative co-pilots and visual storyboarding assistants",
+    "Improve internal workflows by automating repetitive tasks and enhancing UX across products",
+    "Build internal tools for AI development including evaluation benchmarks and automated testing",
+    "Collaborate closely with engineers and operations teams to identify high-impact AI opportunities",
+    "Own the full AI/ML lifecycle from modeling and evaluation to deployment and go-to-market execution"
+  ],
+  "use_cases": [
+    "Narrative co-pilot to assist authors in storytelling and writing",
+    "Visual storyboarding assistant to help authors visualize scenes and plot",
+    "Automated workflow tools to streamline repetitive publishing tasks",
+    "AI-powered enhancements to book discovery and writing applications",
+    "Intelligent features that support creativity without replacing human authors"
+  ],
+  "tools_mentioned": [
+    "AI deployment",
+    "Elasticsearch",
+    "Google Cloud Platform",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Embeddings",
+    "Fine-tuning",
+    "LangChain",
+    "Large Language Models",
+    "LlamaIndex",
+    "Orchestration frameworks",
+    "Prompt Engineering",
+    "Retrieval-Augmented Generation"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on AI engineering requiring direct work\nwith LLMs, including prompt engineering, fine-tuning, RAG\nimplementation, and building AI-powered tools like narrative\nco-pilots. The engineer owns the full lifecycle from\nmodeling to deployment, which is characteristic of ai-first\nroles.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Large Language Models",
+      "Prompt Engineering",
+      "Fine-tuning",
+      "Retrieval-Augmented Generation",
+      "LangChain",
+      "LlamaIndex",
+      "Orchestration frameworks"
+    ],
+    "ml": [
+      "Embeddings"
+    ],
+    "web": [],
+    "databases": [
+      "Vector databases",
+      "Elasticsearch"
+    ],
+    "data": [],
+    "cloud": [
+      "Google Cloud Platform"
+    ],
+    "ops": [
+      "AI deployment"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

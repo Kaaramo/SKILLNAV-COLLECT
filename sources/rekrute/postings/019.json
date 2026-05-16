@@ -1,0 +1,51 @@
+{
+  "job_id": "rekrute-2025-019",
+  "source": "rekrute",
+  "source_url": "https://www.rekrute.com/offre-emploi-developpeur-ia-machine-learning-engineer-hf-recrutement-its-provider-casablanca-172592.html",
+  "source_ref": "172592",
+  "title": "Developpeur Ia Machine Learning Engineer Hf",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Its",
+  "company_type": "entité morale privée",
+  "location": "Provider Casablanca",
+  "country": "MA",
+  "remote_policy": "hybrid",
+  "posted_date": "2025-07-03",
+  "deadline_date": "20/08/2025",
+  "contract_type": "CDI",
+  "experience_min_years": 1,
+  "experience_max_years": 3,
+  "salary_range": null,
+  "description": "Dans le cadre du développement d’un agent conversationnel intelligent, nous recherchons un(e) Machine Learning Engineer passionné(e) par les modèles de langage (LLM) et le fine-tuning. Vous travaillerez au cœur d’un projet stratégique mêlant NLP, IA générative, infrastructure IA, et intégration produit. Missions Concevoir et entraîner des modèles NLP de type transformers (BERT, LLaMA, Mistral, etc.) Définir la stratégie de fine-tuning sur des jeux de données spécialisés Implémenter des pipelines de traitement de données pour l'entraînement Mettre en place des outils d'évaluation du modèle (perplexité, rouge, F1…) Collaborer avec les équipes backend, produit et data pour assurer une intégration fluide Participer à la veille technologique et au choix des architectures",
+  "skills_required": [
+    "Python",
+    "R",
+    "Machine Learning",
+    "NLP",
+    "PyTorch",
+    "MLflow",
+    "CI/CD",
+    "LLM"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [
+    "MLflow"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch"
+  ],
+  "languages_programming": [
+    "Python",
+    "R"
+  ],
+  "domains_iaml": [],
+  "job_family": "ML_ENGINEER",
+  "education_required": "Bac +2",
+  "scraped_at": "2026-05-14T21:00:00Z",
+  "scraper": "skillnav-curl-batch-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.85,
+  "extraction_method": "google_search_url + curl_html + python_regex_extraction"
+}

@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0662",
+  "source": "intl-ai-corpus",
+  "source_ref": "8318564",
+  "source_url": "https://builtin.com/job/foundational-ai-engineer/8318564",
+  "title": "Software Engineer (AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Numeral",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-27",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "16 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Sales tax compliance automation for e-commerce",
+  "industries": [
+    "Fintech",
+    "Financial Services",
+    "Automation"
+  ],
+  "description": "About Numeral:\n\nNumeral is building the automation backbone for internet\ncommerce — starting with the painful world of sales tax\ncompliance. We handle everything from registration to\nremittance, delivering a white-glove service so e-commerce\nbusinesses can stay laser-focused on what they do best:\ngrowing their products, customers, and teams.\n\nWe’re one of the fastest-growing companies from Y\nCombinator’s W23 batch, backed by top-tier investors\nincluding Benchmark Capital. Our team has deep roots from\nthe early days at Stripe, Airbnb, Notion, and other breakout\ncompanies — and now we’re bringing that same level of craft,\nspeed, and ambition to a space that’s long overdue for\nreinvention.\n\nNumeral is small but mighty. Growth is already borderline\nunmanageable — which means every hire we make now will\ndirectly shape the trajectory of the company. If you’re\nexcited about joining as an early team member and want the\nkind of ownership that defines careers, we want to meet you.\n\nMission:\n\nRunning an online business today means wearing a thousand\nhats — most of them not the reason founders started their\ncompany. Our mission is to eliminate the administrative and\naccounting burdens that distract businesses from doing what\nthey love.\n\nWe’ve already helped hundreds of merchants avoid the\nheadache of building giant finance teams just to manage tax\ncompliance. Tomorrow, we’re scaling that impact even\nfurther: building the automation layer that lets internet\nbusinesses stay nimble, compliant, and future-proof.\n\nNumeral has raised over $57M, now serves over 2,500 paying\ncustomers and we have more than tripled our revenue every\nyear in our history.\n\nAbout the role:\n\nWe’re looking for a Foundational AI Engineer who thrives in\nambiguity, enjoys building real-world AI systems end-to-end,\nand wants to define the technical and architectural\nfoundations of an early-stage startup.\n\nThis is a hands-on role for someone who wants to design and\nimplement LLM-powered automation systems: model\norchestration, tool calling, MCP-style integrations, agentic\nworkflows, and automation-driven tooling, while being\nfamiliar with a traditional full-stack development\nenvironment. You should also extensively use AI-powered\ntools for development.\n\nYou’ll work closely with product and leadership to\nconcretize AI ideas into production-grade systems that\ncustomers rely on daily.\n\nResponsibilities:\n\n- Design, build, and operate production AI systems, including\n  tool-calling agents, model orchestration layers, and RAG.\n- Implement and maintain AI integrations using modern\n  frameworks, MCP servers, and external model providers.\n- Build and evolve scalable backend services and APIs that\n  power automated workflows and customer-facing features.\n- Think in automation and workflows: design systems using\n  tools like n8n, Claude Code-style agents, or similar\n  orchestration approaches where appropriate.\n- Make architectural decisions that balance latency, cost,\n  reliability, and iteration speed.\n- Own infrastructure, observability, and performance for both\n  AI and non-AI services.\n- Collaborate closely with product, design, and data teams to\n  ship features that solve real customer problems.\n- Help define engineering best practices, AI\n  safety/reliability norms, and our overall technical\n  culture.\n\nQualifications:\n\n- 7+ years of experience building products in high-growth\n  environments.\n- 2+ years of experience building with LLMs.\n- Avid use of state-of-the-art AI development tools such as\n  Cursor and Claude Code.\n- Fluency with backend technologies like PostgreSQL, Redis,\n  and cloud services (AWS preferred).\n- Experience with frontend development, especially TypeScript\n  and its ecosystem.\n- Strong product sense, balancing performance, flexibility,\n  and speed.\n- Comfortable working in dynamic startup environments with\n  evolving needs.\n- Excellent communication and collaboration skills.\n\nBonus Points For:\n\n- Experience in payments, tax, accounting, or regulatory tech.\n- Experience with automation tools (n8n, Zapier-style systems,\n  workflow engines) or building internal automation\n  platforms.\n- Familiarity with MCPs, tool calls, agent frameworks, or\n  model orchestration patterns.\n- Understanding of vector databases and concepts (such as\n  Pinecone, HNSW).\n\nWhy Join Us?\n\n- Competitive salary and equity - you'll share directly in the\n  company's success\n- Full medical, dental, and vision coverage\n- Wellness perks like Headspace and the Peloton One App\n- 401(k) to help you build long-term financial security\n- Lunch and snacks when you're in the office\n- Regular team offsites and company events as we grow\n- A culture built on ownership - your work matters and people\n  will see it!\n",
+  "skills_required": [
+    "LLMs",
+    "MCP",
+    "RAG",
+    "Zapier",
+    "agents",
+    "model orchestration",
+    "n8n",
+    "tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and operate production AI systems including tool-calling agents, model orchestration layers, and RAG",
+    "Implement and maintain AI integrations using modern frameworks, MCP servers, and external model providers",
+    "Build and evolve scalable backend services and APIs that power automated workflows and customer-facing features",
+    "Design automation systems using workflow orchestration tools and agent-based approaches",
+    "Make architectural decisions that balance latency, cost, reliability, and iteration speed",
+    "Own infrastructure, observability, and performance for both AI and non-AI services",
+    "Collaborate with product, design, and data teams to ship features that solve real customer problems",
+    "Define engineering best practices, AI safety/reliability norms, and technical culture"
+  ],
+  "use_cases": [
+    "Automating sales tax compliance workflows for e-commerce businesses",
+    "Building intelligent agents to handle regulatory and accounting burdens",
+    "Implementing document processing and knowledge retrieval for tax compliance",
+    "Creating automated workflows that integrate with e-commerce platforms",
+    "Developing AI-powered tools to reduce administrative overhead for online businesses"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Pinecone",
+    "PostgreSQL",
+    "Redis",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "MCP",
+    "RAG",
+    "agents",
+    "model orchestration",
+    "tool calling"
+  ],
+  "languages_programming": [
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on AI engineering role focused on building\nLLM-powered systems including tool-calling agents, model\norchestration, RAG, and agentic workflows. The role directly\ndesigns and implements AI/ML systems rather than just\nsupporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "agents",
+      "tool calling",
+      "MCP",
+      "model orchestration"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "PostgreSQL",
+      "Redis",
+      "vector databases",
+      "Pinecone"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [],
+    "languages": [
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "n8n",
+      "Zapier"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

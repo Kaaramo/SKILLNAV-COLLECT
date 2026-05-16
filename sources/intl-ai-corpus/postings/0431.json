@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-0431",
+  "source": "intl-ai-corpus",
+  "source_ref": "8020473",
+  "source_url": "https://builtin.com/job/staff-ai-machine-learning-engineer/8020473",
+  "title": "Staff AI / Machine Learning Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Blackbird.AI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "51 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "AI-powered narrative and risk intelligence platform",
+  "industries": [],
+  "description": "Blackbird.AI helps organizations detect and understand\nemergent threats through our AI-powered Narrative and Risk\nIntelligence Platform. We build systems that surface,\ncontextualize, and explain complex information ecosystems so\ncustomers can make informed decisions in high-stakes\nenvironments. We are a fast-growth start-up recognized as\nthe undisputed leader in the Narrative Intelligence market\nthat we created. We are mission-driven high performers\nlooking to welcome like-minded individuals to our team.\n\nAs a Staff AI / Machine Learning Engineer, you will design\nand build production-grade AI systems that combine large\nlanguage models, machine learning, and structured data. You\nwill focus on turning advanced AI capabilities into\nreliable, explainable, and scalable platform features,\nworking closely with data and backend engineers to ensure\nreal-world performance and trustworthiness.\n\nThis is a hands-on technical leadership role for engineers\nwho enjoy shipping complex AI systems—not just experimenting\nwith models.\n\nWhat You’ll Do\n\n- Build and operate production-grade AI systems that combine\n  machine learning, large language models, and structured\n  data\n- Translate ambiguous problem spaces into reliable,\n  explainable AI capabilities that customers can trust\n- Apply machine learning and AI techniques to graph-structured\n  and networked data, enabling reasoning over entities,\n  relationships, and complex information structures\n- Design AI systems with strong guarantees around correctness,\n  transparency, and performance\n- Partner with data and backend engineers to bring AI\n  capabilities into scalable platform services\n- Evaluate, iterate, and improve AI systems using both\n  quantitative metrics and real-world feedback\n- Make thoughtful trade-offs across model quality, latency,\n  cost, and system complexity\n- Own AI components end-to-end, from initial design through\n  deployment and long-term maintenance\n- Provide technical leadership through design reviews,\n  mentorship, and shared best practices.\n\nRequirementsCore Qualifications\n\n- 7+ years of experience in software engineering, ML\n  engineering, or applied AI or equivalent senior experience\n  with demonstrated Staff-level impact\n- Strong experience building production AI systems, not just\n  prototypes\n- Deep proficiency in Python and modern ML/AI frameworks\n- Hands-on experience with LLMs, including prompting,\n  retrieval-augmented generation, tool use, and evaluation\n- Experience designing explainable and auditable ML systems\n- Solid understanding of API-driven architectures and data\n  contracts\n- Experience working with graph-structured or networked data,\n  including reasoning over entities and relationships\n- Ability to reason about performance, cost, and reliability\n  in real systems\n- Strong written and verbal communication skills\n\nPreferred Qualifications\n\n- Experience with agentic AI or multi-step reasoning systems\n- Experience with graph data models, network analysis, or\n  knowledge graphs, including relationship modeling,\n  traversal, or graph-based reasoning\n- Experience applying ML or LLM techniques to graph or\n  network-based problems (e.g., relationship discovery,\n  influence propagation, community detection, or other\n  network analysis)\n- Experience building ranking, influence, or scoring models\n- Experience designing LLM evaluation and validation\n  frameworks\n- Background in trust & safety, security, intelligence, or\n  risk domains\n- Startup or fast-paced product environment experience\n- Experience with Databricks or similar platforms\n- Comfort using AI-assisted development tools in daily\n  workflows\n\nWhat We Value\n\n- Pragmatic AI: You know how to turn cutting-edge ideas into\n  dependable systems\n- Explainability: You care deeply about transparency and trust\n- Ownership: You take responsibility for outcomes, not just\n  code\n- Collaboration: You work effectively across engineering and\n  product boundaries\n- Impact: You focus on solving meaningful, real-world problems\n- Continuous Learning: You evolve with the AI landscape\n  without chasing hype\n\nLeveling Note\n\nThis role is scoped at the Staff level. Candidates with\nexceptional experience and demonstrated organization-level\nimpact may be considered for Senior Staff or Principal\nlevel.\n\nBenefits\n\n- Competitive compensation package, 401(k), and equity -\n  everyone has a stake in our growth!\n- Comprehensive health benefits for you and your loved ones,\n  including wellness days and monthly wellness\n  reimbursements - an apple a day doesn't always keep the\n  doctor away!\n- Generous vacation policy, encouraging you to take the time\n  you need - we trust you to strike the right work/life\n  balance!\n- A flexible work environment with opportunities to\n  collaborate with your team in person - you can have it\n  all!\n- Inclusion and Impact - soar to new heights!\n- Professional development stipend - never stop learning!\n",
+  "skills_required": [
+    "LLMs",
+    "agentic AI",
+    "multi-step reasoning",
+    "prompting",
+    "retrieval-augmented generation",
+    "tool use"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and operate production-grade AI systems that combine machine learning, large language models, and structured data",
+    "Apply machine learning and AI techniques to graph-structured and networked data, enabling reasoning over entities, relationships, and complex information structures",
+    "Design AI systems with strong guarantees around correctness, transparency, and performance",
+    "Partner with data and backend engineers to bring AI capabilities into scalable platform services",
+    "Own AI components end-to-end, from initial design through deployment and long-term maintenance",
+    "Provide technical leadership through design reviews, mentorship, and shared best practices"
+  ],
+  "use_cases": [
+    "Detect and understand emergent threats through narrative and risk intelligence",
+    "Surface, contextualize, and explain complex information ecosystems for high-stakes decision making",
+    "Enable reasoning over entities and relationships in graph-structured data",
+    "Provide explainable and auditable AI systems customers can trust",
+    "Apply ML and LLM techniques to network-based problems like relationship discovery and influence propagation"
+  ],
+  "tools_mentioned": [
+    "API-driven architectures",
+    "Databricks",
+    "LLM evaluation frameworks",
+    "graph data models",
+    "knowledge graphs",
+    "network analysis"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "agentic AI",
+    "multi-step reasoning",
+    "prompting",
+    "retrieval-augmented generation",
+    "tool use"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires hands-on building and deployment of\nproduction AI systems that combine LLMs, machine learning,\nand structured data. The engineer directly works with LLMs,\nRAG, tool use, and agentic AI systems—not just supporting\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "prompting",
+      "retrieval-augmented generation",
+      "tool use",
+      "agentic AI",
+      "multi-step reasoning"
+    ],
+    "ml": [],
+    "web": [
+      "API-driven architectures"
+    ],
+    "databases": [],
+    "data": [
+      "graph data models",
+      "network analysis",
+      "knowledge graphs",
+      "Databricks"
+    ],
+    "cloud": [],
+    "ops": [
+      "LLM evaluation frameworks"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

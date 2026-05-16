@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-1260",
+  "source": "intl-ai-corpus",
+  "source_ref": "8353951",
+  "source_url": "https://builtin.com/job/ai-platform-engineer/8353951",
+  "title": "AI Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AHEAD",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,154 Employees",
+  "company_stage": null,
+  "company_focus": "Digital transformation platforms",
+  "industries": [
+    "Cloud",
+    "Information Technology"
+  ],
+  "description": "AHEAD builds platforms for digital business. By weaving\ntogether advances in cloud infrastructure, automation and\nanalytics, and software delivery, we help enterprises\ndeliver on the promise of digital transformation.\n\nAt AHEAD, we prioritize creating a culture of belonging,\nwhere all perspectives and voices are represented, valued,\nrespected, and heard. We create spaces to empower everyone\nto speak up, make change, and drive the culture at AHEAD.\n\nWe are an equal opportunity employer, and do not\ndiscriminate based on an individual's race, national origin,\ncolor, gender, gender identity, gender expression, sexual\norientation, religion, age, disability, marital status, or\nany other protected characteristic under applicable law,\nwhether actual or perceived.\n\nWe embrace all candidates that will contribute to the\ndiversification and enrichment of ideas and perspectives at\nAHEAD.\n\nWe are seeking an experienced AI Platform Engineer to\ndesign, deploy, and optimize AI/ML infrastructure, AI\nworkflows, and automated pipelines. This role focuses on\nbuilding scalable environments for training and deploying\nmachine learning models, leveraging modern orchestration,\nautomation, and GPU acceleration technologies. You will\ncollaborate with data scientists and platform engineers to\ndrive efficient resource utilization and scalable operations\nacross cloud and hybrid environments.\n\nKey Responsibilities\n\n- Kubernetes for AI/ML: Architect and manage Kubernetes\n  clusters tailored to AI/ML workloads.\n- GPU Orchestration: Implement Run:ai and operators for GPU\n  resource orchestration and workload scheduling.\n- Automation & Pipelines: Develop and maintain Python-based\n  automation scripts and ML pipelines; automate\n  infrastructure provisioning with Terraform and\n  configuration management with Ansible.\n- Notebooks & Collaboration: Create and manage Jupyter\n  Notebooks for experimentation and collaboration.\n- NVIDIA Integration: Integrate and optimize NVIDIA Enterprise\n  Suite components (CUDA, NeMo Framework, Triton, TensorRT,\n  GPU drivers) for accelerated computing.\n- MLOps Practices: Establish and maintain MLOps best practices\n  for model lifecycle management, CI/CD, and monitoring\n  (e.g., MLflow, Kubeflow).\n- Collaboration: Work closely with data scientists and\n  platform engineers to ensure efficient resource\n  utilization and scalability across environments.\n\nRequired Skills & Experience\n\n- Strong proficiency in Python and experience with ML\n  frameworks (TensorFlow, PyTorch).\n- Hands-on experience with Kubernetes and container\n  orchestration.\n- Familiarity with Run:ai or similar GPU scheduling platforms.\n- Expertise in Terraform and Ansible for infrastructure\n  automation.\n- Experience with Jupyter Notebooks for ML development.\n- Knowledge of NVIDIA Enterprise Suite (CUDA, NeMo Framework,\n  Triton, GPU drivers).\n- Solid understanding of MLOps principles and tools (e.g.,\n  MLflow, Kubeflow).\n- Background in deploying and scaling AI workloads in cloud or\n  hybrid environments.\n\nQualifications\n\n- 4+ years in platform architecture or solutions architecture,\n  with 2+ years focused on AI/ML workloads.\n- Experience with high-performance computing (HPC)\n  environments.\n- Familiarity with distributed training and model optimization\n  techniques.\n- Certification in Kubernetes or cloud platforms (AWS, Azure,\n  GCP).\n\nWhy AHEAD:\n\nThrough our daily work and internal groups like Moving Women\nAHEAD and RISE AHEAD, we value and benefit from diversity of\npeople, ideas, experience, and everything in between.\n\nWe fuel growth by stacking our office with top-notch\ntechnologies in a multi-million-dollar lab, by encouraging\ncross department training and development, sponsoring\ncertifications and credentials for continued learning.\n\nIndia Employment Benefits include:\n\nComprehensive health insurance coverage for employees, with\noptions to extend coverage to dependents\n\nPaid time off and company holidays, along with additional\nleave benefits as per policy\n\nFlexible work arrangements, supporting work-life balance\n\nLearning and development opportunities to support continuous\ngrowth and upskilling\n\nEmployee wellness initiatives and programs focused on\nphysical and mental well-being\n\nRetirement and statutory benefits in line with India\nregulations\n\nInclusive and people-first culture, with a strong focus on\ncollaboration and ownership\n",
+  "skills_required": [
+    "CUDA",
+    "NVIDIA NeMo Framework",
+    "PyTorch",
+    "TensorFlow",
+    "TensorRT"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and manage Kubernetes clusters tailored for AI/ML workloads",
+    "Implement Run:ai and operators for GPU resource orchestration and workload scheduling",
+    "Develop Python-based automation scripts and ML pipelines; automate infrastructure with Terraform and Ansible",
+    "Create and manage Jupyter Notebooks for experimentation and collaboration",
+    "Integrate and optimize NVIDIA Enterprise Suite components including CUDA, NeMo, Triton, and TensorRT",
+    "Establish MLOps best practices for model lifecycle management, CI/CD, and monitoring using MLflow and Kubeflow",
+    "Collaborate with data scientists and platform engineers to ensure efficient resource utilization and scalability"
+  ],
+  "use_cases": [
+    "Enterprise AI/ML infrastructure platform enabling scalable model training and deployment",
+    "GPU-accelerated computing workloads with orchestration and scheduling",
+    "Hybrid cloud environments for running ML workloads",
+    "Collaborative ML experimentation environments for data science teams",
+    "Automated MLOps pipelines for model lifecycle management"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ansible",
+    "Azure",
+    "CI/CD",
+    "GCP",
+    "GPU orchestration",
+    "Jupyter Notebooks",
+    "Kubeflow",
+    "Kubernetes",
+    "MLOps",
+    "MLflow",
+    "Run:ai",
+    "Terraform",
+    "Triton"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "NVIDIA NeMo Framework",
+    "PyTorch",
+    "TensorFlow",
+    "TensorRT"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is focused on building and managing AI/ML\ninfrastructure platforms rather than directly building,\ntraining, or fine-tuning models. The engineer creates the\nenvironment (Kubernetes, GPU orchestration, MLOps pipelines)\nthat enables data scientists to do the actual AI work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "NVIDIA NeMo Framework"
+    ],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "CUDA",
+      "TensorRT"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Jupyter Notebooks"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Run:ai",
+      "Terraform",
+      "Ansible",
+      "Triton",
+      "MLflow",
+      "Kubeflow",
+      "MLOps",
+      "GPU orchestration",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

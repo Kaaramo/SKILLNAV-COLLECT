@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-1235",
+  "source": "intl-ai-corpus",
+  "source_ref": "8330402",
+  "source_url": "https://builtin.com/job/senior-hpc-and-ai-networking-performance-research-and-analysis-engineer/8330402",
+  "title": "Senior HPC and AI Networking Performance Research and Analysis Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NVIDIA",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21,960 Employees",
+  "company_stage": "Public",
+  "company_focus": "GPU computing and AI infrastructure",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Hardware",
+    "Robotics",
+    "Metaverse"
+  ],
+  "description": "NVIDIA is looking for a talented Performance Research and\nAnalysis Engineer to join our Performance group. The ideal\ncandidate will profile and analyze AI workloads on large\nGPUs and CPUs scale clusters for distributed Deep Learning\nLLM training and inference focusing at the communication\npatterns, collectives communication, RDMA, networking and\nsystem performance. You will work and interact with many\ntypes of HW platforms such as HCAs, Switches, CPUs, GPUs,\nSystems and also with various SW layers and features. You\nwill experience with simulators and developing performance\nanalysis tools and methodologies to dive deeply into the\ndetails, understand performance expectation, limitations,\nand bottlenecks as part of the root cause analysis of these\njobs.\n\nWhat you'll be doing:\n\n- Experience and research AI workloads and DL models\n  specifically tailored for large-scale deep learning LLM\n  training on NVIDIA supercomputers with a focus on High-\n  performance networking.\n- Benchmarking, Profiling, and Analyzing the performance to\n  find bottlenecks and identify areas of improvement and\n  optimizations, with a strong emphasis on networking\n  aspects.\n- Implement performance analysis tools.\n- Collaborating with many teams from HW to SW to provide\n  performance analysis insights.\n- Define performance test planning, set performance\n  expectations for new technologies and solutions, and work\n  to reach the performance targets limits.\n\nWhat we need to see:\n\n- B.Sc in Computer Science or Software Engineering\n- 6+ years of experience with high-performance Networking\n  (RDMA, MPI, NCCL)\n- Demonstrated Performance Analysis skills and methodologies.\n- Experience with NVIDIA GPUs, CUDA library, deep learning\n  frameworks like TensorFlow or PyTorch,\n- Combined with expertise in networking collective\n  communication libraries (such as NCCL) and protocols (such\n  as RoCE and RDMA).\n- Fast and self-learning capabilities with strong analytical\n  and problem solving skills\n- Programming Languages: Python, Bash and C languages\n- Experience with Linux OS distros\n- Team player with good communication and interpersonal skills\n\nWays to stand out from the crowd:\n\n- In-depth knowledge and experience with AI workloads\n  benchmarking for distributed LLM training, CUDA, and NCCL\n  libraries.\n- In-depth System knowledge and understanding (Intel / AMD /\n  ARM CPUs, NVIDIA GPUs, HCA, Memory, PCI)\n- Knowledge in Congestion Control algorithms\n\nNVIDIA is committed to fostering a diverse work environment\nand proud to be an equal opportunity employer. As we highly\nvalue diversity in our current and future employees, we do\nnot discriminate (including in our hiring and promotion\npractices) on the basis of race, religion, color, national\norigin, gender, gender expression, sexual orientation, age,\nmarital status, veteran status, disability status or any\nother characteristic protected by law.\n",
+  "skills_required": [
+    "CUDA",
+    "NVIDIA GPUs",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Profile and analyze AI workloads and distributed deep learning LLM training on large-scale GPU and CPU clusters",
+    "Benchmark and analyze performance with focus on communication patterns, RDMA, networking, and system performance",
+    "Implement performance analysis tools and methodologies for root cause analysis of performance bottlenecks",
+    "Collaborate with cross-functional teams from hardware to software to provide performance analysis insights",
+    "Define performance test planning, set performance expectations for new technologies, and work to reach performance targets"
+  ],
+  "use_cases": [
+    "Distributed deep learning LLM training at scale on NVIDIA supercomputers",
+    "High-performance networking optimization for AI/ML workloads",
+    "Collective communication optimization using NCCL and RDMA protocols",
+    "System performance analysis and bottleneck identification for large-scale GPU clusters",
+    "AI workload benchmarking and performance profiling on multi-node systems"
+  ],
+  "tools_mentioned": [
+    "Benchmarking",
+    "Congestion Control",
+    "Linux",
+    "MPI",
+    "NCCL",
+    "Performance Analysis",
+    "RDMA",
+    "RoCE"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "NVIDIA GPUs",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Bash",
+    "C",
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "RESEARCH"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on analyzing and optimizing performance\nfor distributed deep learning and LLM training workloads,\nspecifically around networking and system performance. The\nengineer works with PyTorch, TensorFlow, CUDA, and NCCL to\nunderstand bottlenecks and optimize training infrastructure,\nbut does not involve building, fine-tuning, or deploying\nmodels directly.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "NVIDIA GPUs",
+      "CUDA",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "RDMA",
+      "MPI",
+      "NCCL",
+      "RoCE",
+      "Linux",
+      "Performance Analysis",
+      "Benchmarking",
+      "Congestion Control"
+    ],
+    "languages": [
+      "Python",
+      "Bash",
+      "C"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

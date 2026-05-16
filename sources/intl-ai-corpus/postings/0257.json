@@ -1,0 +1,165 @@
+{
+  "job_id": "intl-ai-corpus-0257",
+  "source": "intl-ai-corpus",
+  "source_ref": "7592560",
+  "source_url": "https://builtin.com/job/senior-ai-developer/7592560",
+  "title": "Senior AI Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "EBizCharge",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "200 Employees",
+  "company_stage": null,
+  "company_focus": "Integrated payment solutions for ERP/CRM/eCommerce",
+  "industries": [
+    "Fintech",
+    "Payments",
+    "Financial Services"
+  ],
+  "description": "Headquartered in Irvine, California, EBizCharge specializes\nin developing integrated payment solutions that facilitate\nelectronic payment processing within ERP, CRM, Mobile, and\neCommerce applications. Our applications are PCI compliant\nand fully integrated with major ERP/accounting systems,\nincluding QuickBooks, Sage, SAP Business One, Microsoft\nDynamics, NetSuite, Epicor, Acumatica, and major online\nshopping carts, including Magento and WooCommerce.\nEBizCharge offers its employees tremendous learning\nopportunities, career growth potential, and a dynamic work\nenvironment.\n\nSummary\n\nAs a Senior AI Developer, you will design, develop, and\nmaintain secure and scalable Model Context Protocol (MCP)\nServers that expose external capabilities to AI assistants.\nYou will create and integrate tools that enable AI agents\nparticularly those deployed through Azure AI Foundry to\ninteract with external systems, databases, and APIs. This\nrole combines deep technical expertise in cloud\ninfrastructure, AI tool design, and system security to\nempower next-generation AI-driven solutions for internal and\nclient-facing applications.\n\nResponsibilities\n\n- Design, develop, and maintain MCP servers that expose\n  external tools and capabilities to AI assistants.\n- Implement specific MCP tools (functions) for reading files,\n  managing issues, interacting with databases, or triggering\n  complex workflows.\n- Define and structure resources, schemas, and prompts\n  accessible to AI agents.\n- Ensure security and access control for the MCP server,\n  limiting which tools and data agents can execute or\n  access.\n- Manage API integrations and external data sources used by\n  MCP tools.\n- Use JSON Schema or similar standards to document and\n  validate tool definitions.\n- Integrate MCP Server tools with Azure AI Foundry agents,\n  enabling AI agents to perform actions such as data\n  querying, workflow automation, and API interaction.\n- Collaborate with product managers and front-end teams to\n  integrate AI capabilities into user-facing platforms\n  (e.g., Microsoft Copilot, VS Code extensions, or web\n  portals).\n- Utilize Azure Functions, Azure Logic Apps, and Azure\n  Cognitive Services to connect MCP-based AI workflows to\n  enterprise systems.\n- Develop and manage tools that interface with Azure resources\n  (e.g., Azure Storage, Azure SQL, Azure Compute Services)\n  through the MCP Server.\n- Enable AI agents to securely manage, retrieve, and utilize\n  Azure resources.\n- Apply best practices in cloud security, authentication, and\n  API permissions management.\n- Conduct comprehensive testing and debugging of MCP tools and\n  Azure integrations.\n- Create detailed documentation for MCP tools, including usage\n  examples, API specifications, and integration guides.\n- Ensure scalability, performance, and reliability of MCP and\n  AI Foundry deployments.\n- Partner with AI engineers, cloud architects, and data\n  scientists to align tool development with strategic goals.\n- Present technical solutions and architectural decisions to\n  stakeholders in clear, actionable terms.\n- Contribute to the AI governance framework, ensuring\n  responsible AI tool design and usage.\n\nQualifications\n\n- Bachelor’s or Master’s degree in Computer Science,\n  Artificial Intelligence, or a related field.\n- 5+ years of experience in AI development.\n- Proven track record of deploying secure, production-grade AI\n  cloud-integrated systems.\n- Hands-on experience designing or integrating MCP Servers or\n  agent tool frameworks.\n\n\n\nTechnical Skills\n\n- Strong coding ability in Python; familiarity with R is a\n  plus.\n- Experience with ML/DL libraries: TensorFlow, PyTorch,\n  Scikit-learn, Keras.\n- Familiarity with frameworks for RESTful API or microservice\n  development (e.g., FastAPI, Flask, .NET Core).\n\n- Understanding of how large language models (LLMs) interact\n  with tools, contexts, and external APIs.\n- Knowledge of AI agent architectures and prompt engineering\n  for tool-enabled reasoning.\n\n- Strong experience with Azure, especially Azure AI Foundry,\n  Azure OpenAI Service, Azure Functions, and Azure Storage.\n- Familiarity with AWS or GCP is a plus.\n- Experience with CI/CD pipelines, Git, and containerized\n  deployment (Docker, Kubernetes).\n\n- Knowledge of authentication mechanisms (OAuth, API Keys,\n  Managed Identity).\n- Experience in defining and enforcing access control policies\n  for AI tools and APIs.\n- Understanding data privacy and compliance in AI systems.\n\n\n\nRequired Experience\n\n- Prior work on intelligent assistants, AI copilots, or MCP-\n  based integrations.\n- Background in designing agentic AI systems or tool-augmented\n  LLMs.\n- Familiarity with LangChain, Semantic Kernel, or other AI\n  orchestration frameworks.\n- Experience in AI-driven workflow automation, knowledge\n  retrieval, or business process orchestration.\n\n- Excellent problem-solving and analytical thinking.\n- Strong communication skills, with the ability to explain\n  complex systems clearly.\n- Proactive collaboration in fast-paced, cross-functional\n  environments.\n- Commitment to innovation, security, and responsible AI\n  development.\n\nBenefits\n\n- 100% employer paid benefits (including Medical, Dental,\n  Vision, & life insurance) for selected plans for the\n  employee.\n- Retirement 401(k) plan with company match.\n- Gym access, dry cleaners, car wash conveniently located\n  within building.\n- Generous PTO plan with an additional 9 Days Company Paid\n  Holidays per year.\n\nJob Type: Full-time\n\nThe Company is committed to compliance with all applicable\nlaws providing equal employment opportunities. This\ncommitment applies to all persons involved in Company\noperations. The Company prohibits unlawful discrimination\nagainst any job applicant, employee, or unpaid intern by any\nemployee of the Company, including supervisors and\ncoworkers. Pay discrimination between employees of the\nopposite sex or between employees of another race or\nethnicity performing substantially similar work, as defined\nby the California Fair Pay Act and federal law, is\nprohibited.\n",
+  "skills_required": [
+    "AI agents",
+    "Keras",
+    "LLM tool integration",
+    "LangChain",
+    "MCP (Model Context Protocol)",
+    "PyTorch",
+    "Scikit-learn",
+    "Semantic Kernel",
+    "TensorFlow",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and maintain secure MCP servers that expose external tools and capabilities to AI assistants",
+    "Implement specific MCP tools for file reading, issue management, database interaction, and workflow automation",
+    "Integrate MCP Server tools with Azure AI Foundry agents for data querying and automated workflows",
+    "Ensure security and access control for MCP servers, limiting agent access to authorized tools and data",
+    "Collaborate with product managers and front-end teams to integrate AI capabilities into user-facing platforms like Microsoft Copilot and web portals",
+    "Utilize Azure Functions, Logic Apps, and Cognitive Services to connect AI workflows with enterprise systems including Azure Storage, SQL, and Compute Services"
+  ],
+  "use_cases": [
+    "AI assistants and agents accessing external capabilities through MCP servers",
+    "Automated data querying from databases and external APIs via AI agents",
+    "Workflow automation and business process orchestration powered by AI",
+    "Secure management and retrieval of Azure cloud resources through AI agents",
+    "Knowledge retrieval and intelligent assistant functionality integrated into ERP and payment systems"
+  ],
+  "tools_mentioned": [
+    ".NET Core",
+    "API Keys",
+    "Azure AI Foundry",
+    "Azure Cognitive Services",
+    "Azure Compute Services",
+    "Azure Functions",
+    "Azure Logic Apps",
+    "Azure OpenAI Service",
+    "Azure SQL",
+    "Azure Storage",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "Git",
+    "JSON Schema",
+    "Kubernetes",
+    "Managed Identity",
+    "OAuth",
+    "RESTful API"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Keras",
+    "LLM tool integration",
+    "LangChain",
+    "MCP (Model Context Protocol)",
+    "PyTorch",
+    "Scikit-learn",
+    "Semantic Kernel",
+    "TensorFlow",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "R"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building MCP servers that\nexpose tools to AI assistants and agents, implementing\nfunction calling, integrating with Azure AI Foundry agents,\nand designing agentic AI systems. This is directly building\nAI infrastructure and tooling for AI agents rather than\nsupporting AI work done by others.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP (Model Context Protocol)",
+      "LangChain",
+      "Semantic Kernel",
+      "prompt engineering",
+      "AI agents",
+      "LLM tool integration"
+    ],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Keras"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "RESTful API",
+      ".NET Core"
+    ],
+    "databases": [],
+    "data": [
+      "JSON Schema"
+    ],
+    "cloud": [
+      "Azure AI Foundry",
+      "Azure OpenAI Service",
+      "Azure Functions",
+      "Azure Logic Apps",
+      "Azure Cognitive Services",
+      "Azure Storage",
+      "Azure SQL",
+      "Azure Compute Services",
+      "OAuth",
+      "API Keys",
+      "Managed Identity"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Git"
+    ],
+    "languages": [
+      "Python",
+      "R"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

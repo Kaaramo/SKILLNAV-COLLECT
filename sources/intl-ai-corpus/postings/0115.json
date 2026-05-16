@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0115",
+  "source": "intl-ai-corpus",
+  "source_ref": "7095186",
+  "source_url": "https://builtin.com/job/ai-engineer-agents/7095186",
+  "title": "AI Engineer - Agents",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Traversal",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-17",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "AI Site Reliability Engineer for enterprise - AI agents for\nobservability and incident troubleshooting",
+  "industries": [],
+  "description": "About Traversal\n\nTraversal is the AI Site Reliability Engineer (SRE) for the\nenterprise—already trusted by some of the largest companies\nin the world to troubleshoot, remediate, and even prevent\nthe most complex production incidents. Our mission is to\nfree engineers from endless firefighting and enable them to\nfocus on creative, high-impact work.\n\nOur roots remain deeply embedded in AI research, and we’re\nchanneling that scientific rigor and creativity into\nbuilding the premier AI agent lab for the enterprise. Hence,\nwhat we’re proudest of is assembling the most talented yet\nnicest group of individuals, including researchers from MIT,\nHarvard, and Berkeley, to world-class engineers from\nindustry: Citadel Securities, Cockroach Labs, Datadog, DE\nShaw, ServiceNow, Glean, Perplexity, Pinecone, and more, to\ntake on one of the hardest problems for AI to solve. Without\nthe entire team, none of this would be possible.\n\nThe Role\n\nAs an AI Agents Engineer at Traversal, you'll be responsible\nfor designing and implementing intelligent agents that\noperate at the heart of our observability platform. You will\nwork on deploying frontier LLMs in production, optimizing\nmulti-step reasoning workflows, and improving the\nperformance and accuracy of agentic architectures across\ndistributed systems.\n\nThis is a highly technical role at the intersection of AI,\ninfrastructure, and systems engineering. You’ll work across\nteams to ensure our AI agents interact seamlessly with large\nvolumes of observability data and scale reliably across\nenvironments.\n\nResponsibilities\n\n- AI Agent Architecture: Design and build multi-step reasoning\n  workflows that use LLMs and other components to analyze\n  large-scale observability data.\n- Prompting & Tooling: Develop tooling for prompt engineering,\n  function calling, and agentic orchestration that optimizes\n  latency, reliability, and performance.\n- Production Deployment: Integrate AI components into a\n  robust, scalable production environment with low latency\n  and high uptime requirements.\n- Experimentation: Prototype and test new LLMs, prompting\n  strategies, and fine-tuning approaches to improve the\n  quality and coverage of agentic responses.\n- Collaboration: Work closely with backend, infra, and product\n  teams to ensure AI agents are well-integrated into the\n  broader system.\n- Observability & Debugging: Build evaluation and monitoring\n  tools for agent performance and reliability across\n  production workloads.\n\nRequirements\n\n- 3+ years of software engineering experience.\n- Strong Python skills, including experience with performance\n  tuning and ML/AI libraries.\n- Experience building and deploying distributed systems and/or\n  large-scale data processing pipelines. Familiarity with\n  LLMs, prompt engineering, or agentic frameworks.\n- Experience with observability data (logs, metrics, traces)\n  and live incident debugging.\n- Proven ability to deliver projects end-to-end: from\n  experimentation to production deployment and iteration.\n- Strong debugging skills and ability to work across layers\n  (data, infra, model, and application).\n\nNice to Have\n\n- Experience with observability data and production\n  infrastructure (logs, metrics, traces).\n- Familiarity with model fine-tuning, evaluation tooling, or\n  reinforcement learning from human feedback (RLHF).\n- Background in AI agent research or open-source contributions\n  to agent frameworks.\n- Experience working with Terraform, Kubernetes, or ML\n  orchestration platforms.\n\nCompensation\n\nWe offer competitive compensation, startup equity, health\ninsurance, and additional benefits. The U.S. base salary\nrange for this full-time, in-person role in New York is\n$150,000–$300,000, plus equity and benefits. Our salary\nranges are based on location, level, and role. Individual\ncompensation is determined by experience, skills, and job-\nrelated knowledge.\n\nWhy You Should Join Us\n\nWe’ll make sure you’re fully supported with health\ninsurance, a great tech setup, flexible time off, and plenty\nof in-office snacks. We offer competitive salary and equity\npackages, and take thoughtful consideration with every hire\non our small, high-impact team.\n\nTraversal is fully in-office, 5 days a week, based in New\nYork near Madison Square Park. We have a collaborative,\nhard-working culture and are energized by building the\nfuture of AI-powered software maintenance.\n\nWorking here means owning meaningful parts of the product,\nhaving the flexibility to move fast, and learning\nconstantly. This is a place to grow your career, make a real\nimpact, and help define a new category of infrastructure\nsoftware.\n",
+  "skills_required": [
+    "LLMs",
+    "RLHF",
+    "agentic frameworks",
+    "function calling",
+    "model fine-tuning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build multi-step reasoning workflows that use LLMs and other components to analyze large-scale observability data",
+    "Develop tooling for prompt engineering, function calling, and agentic orchestration that optimizes latency, reliability, and performance",
+    "Integrate AI components into a robust, scalable production environment with low latency and high uptime requirements",
+    "Prototype and test new LLMs, prompting strategies, and fine-tuning approaches to improve the quality and coverage of agentic responses",
+    "Work closely with backend, infra, and product teams to ensure AI agents are well-integrated into the broader system",
+    "Build evaluation and monitoring tools for agent performance and reliability across production workloads"
+  ],
+  "use_cases": [
+    "Troubleshoot, remediate, and prevent complex production incidents in enterprise environments",
+    "Analyze large-scale observability data including logs, metrics, and traces",
+    "Automate incident debugging and resolution through intelligent agent workflows",
+    "Provide AI-powered site reliability engineering capabilities",
+    "Enable engineers to focus on creative work by reducing firefighting",
+    "Scale agentic architectures across distributed systems and environments"
+  ],
+  "tools_mentioned": [
+    "Kubernetes",
+    "ML orchestration platforms",
+    "Terraform",
+    "distributed systems",
+    "logs",
+    "metrics",
+    "observability",
+    "traces"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "RLHF",
+    "agentic frameworks",
+    "function calling",
+    "model fine-tuning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work with LLMs and AI agents\nincluding designing multi-step reasoning workflows, prompt\nengineering, function calling, agentic orchestration, and\ndeploying frontier LLMs in production. The engineer will\ndirectly build, optimize, and deploy AI systems rather than\njust supporting infrastructure or data pipelines for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "LLMs",
+      "function calling",
+      "agentic frameworks",
+      "model fine-tuning"
+    ],
+    "ml": [
+      "RLHF"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "observability",
+      "logs",
+      "metrics",
+      "traces"
+    ],
+    "cloud": [
+      "distributed systems"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Terraform",
+      "ML orchestration platforms"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-1643",
+  "source": "intl-ai-corpus",
+  "source_ref": "8553887",
+  "source_url": "https://builtin.com/job/senior-ai-performance-and-efficiency-engineer/8553887",
+  "title": "Senior AI Performance and Efficiency Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NVIDIA",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21,960 Employees",
+  "company_stage": "Public",
+  "company_focus": "GPU computing and AI hardware/software",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Hardware",
+    "Robotics",
+    "Metaverse"
+  ],
+  "description": "We are seeking a Senior AI/ML Performance and Efficiency\nEngineer, GPU Clusters at NVIDIA to join our AI Efficiency\nefforts. As an Engineer, you will have a pivotal role in\nenhancing efficiency for our researchers by implementing\nprogressions throughout the entire stack. Your main task\nwill revolve around collaborating closely with customers to\npinpoint and address infrastructure and application\ndeficiencies, facilitating groundbreaking AI and ML research\non GPU Clusters. Together, we can craft potent, effective,\nand scalable solutions as we mold the future of AI/ML\ntechnology!\n\nWhat you will be doing:\n\n- Collaborate closely with our AI/ML researchers to make their\n  ML models more efficient leading to significant\n  productivity improvements and cost savings\n- Build tools, frameworks, and apply ML techniques to detect &\n  analyze efficiency bottlenecks and deliver productivity\n  improvements for our researchers\n- Work with researchers working on a variety of innovative ML\n  workloads across Robotics, Autonomous vehicles, LLM’s,\n  Videos and more\n- Collaborate across the engineering organizations to deliver\n  efficiency in our usage of hardware, software, and\n  infrastructure\n- Proactively monitor fleet wide utilization patterns, analyze\n  existing inefficiency patterns, or discover new patterns,\n  and deliver scalable solutions to solve them\n- Keep up to date with the most recent developments in AI/ML\n  technologies, frameworks, and successful strategies, and\n  advocate for their integration within the organization.\n\nWhat we need to see:\n\n- BS or similar background in Computer Science or related area\n  (or equivalent experience)\n- Minimum 5+ years of experience designing and operating large\n  scale compute infrastructure\n- Strong understanding of modern ML techniques and tools\n- Experience investigating, and resolving, training &\n  inference performance end to end\n- Debugging and optimization experience with NSight Systems\n  and NSight Compute\n- Experience with debugging large-scale distributed training\n  using NCCL\n- Proficiency in programming & scripting languages such as\n  Python, Go, Bash, as well as familiarity with cloud\n  computing platforms (e.g., AWS, GCP, Azure) in addition to\n  experience with parallel computing frameworks and\n  paradigms.\n- Dedication to ongoing learning and staying updated on new\n  technologies and innovative methods in the AI/ML\n  infrastructure sector.\n- Excellent communication and collaboration skills, with the\n  ability to work effectively with teams and individuals of\n  different backgrounds\n\nWays to stand out from the crowd:\n\n- Background with NVIDIA GPUs, CUDA Programming, NCCL and\n  MLPerf benchmarking\n- Experience with Machine Learning and Deep Learning concepts,\n  algorithms and models\n- Familiarity with InfiniBand with IBOP and RDMA\n- Understanding of fast, distributed storage systems like\n  Lustre and GPFS for AI/HPC workloads\n- Familiarity with deep learning frameworks like PyTorch and\n  TensorFlow\n\nNVIDIA offers competitive salaries and a comprehensive\nbenefits package. Our engineering teams are growing rapidly\ndue to outstanding expansion. If you're a passionate and\nindependent engineer with a love for technology, we want to\nhear from you.\n\nYour base salary will be determined based on your location,\nexperience, and the pay of employees in similar positions.\nThe base salary range is 152,000 USD - 241,500 USD for Level\n3, and 184,000 USD - 287,500 USD for Level 4.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until\nFebruary 24, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering a diverse work environment\nand proud to be an equal opportunity employer. As we highly\nvalue diversity in our current and future employees, we do\nnot discriminate (including in our hiring and promotion\npractices) on the basis of race, religion, color, national\norigin, gender, gender expression, sexual orientation, age,\nmarital status, veteran status, disability status or any\nother characteristic protected by law.\n",
+  "skills_required": [
+    "CUDA",
+    "Distributed training",
+    "NCCL",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate closely with AI/ML researchers to improve ML model efficiency and achieve cost savings",
+    "Build tools and frameworks to detect and analyze efficiency bottlenecks for researchers",
+    "Optimize ML workloads across Robotics, Autonomous vehicles, LLMs, and Video domains",
+    "Collaborate across engineering organizations to optimize hardware, software, and infrastructure usage",
+    "Monitor fleet-wide utilization patterns and deliver scalable solutions to address inefficiencies",
+    "Stay current with AI/ML technologies and advocate for integrating successful strategies within the organization"
+  ],
+  "use_cases": [
+    "Robotics model training and optimization",
+    "Autonomous vehicle AI systems",
+    "Large language model training and inference",
+    "Video processing and analysis",
+    "Distributed training for large-scale ML workloads"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "GPFS",
+    "IBOP",
+    "InfiniBand",
+    "Infrastructure design",
+    "Lustre",
+    "MLPerf benchmarking",
+    "NSight Compute",
+    "NSight Systems",
+    "Parallel computing",
+    "Performance optimization",
+    "RDMA"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "Distributed training",
+    "NCCL",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on infrastructure optimization,\nperformance analysis, and tooling to enable ML researchers,\nrather than building or deploying AI models directly. The\nengineer works on improving efficiency of GPU clusters and\ninfrastructure that supports AI/ML workloads, making this an\nai-support role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "CUDA",
+      "PyTorch",
+      "TensorFlow",
+      "NCCL",
+      "Distributed training"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "InfiniBand",
+      "IBOP",
+      "RDMA",
+      "Lustre",
+      "GPFS"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "NSight Systems",
+      "NSight Compute",
+      "MLPerf benchmarking",
+      "Parallel computing",
+      "Performance optimization",
+      "Infrastructure design"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "Bash"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

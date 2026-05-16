@@ -1,0 +1,146 @@
+{
+  "job_id": "intl-ai-corpus-2643",
+  "source": "intl-ai-corpus",
+  "source_ref": "8945561",
+  "source_url": "https://builtin.com/job/senior-infrastructure-engineer-ai-first/8945561",
+  "title": "Senior Infrastructure Engineer (AI-First)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "MUBI",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "412 Employees",
+  "company_stage": "Series D+",
+  "company_focus": "Global streaming service, production company, and film\ndistributor",
+  "industries": [],
+  "description": "About MUBI\n\nMUBI is a global streaming service, production company and\nfilm distributor dedicated to elevating great cinema. To\nmake this possible, we create, curate, acquire and champion\nvisionary films, bringing them to audiences all over the\nworld. We have a team of brilliant, dedicated and passionate\npeople to help bring our mission to life. From London to New\nYork, Istanbul to Paris, and Berlin to Mexico - we work\ntogether to realize MUBI’s vision.\n\nThat’s where you come in! Join our global team and help us\nmake great cinema accessible to everyone, everywhere.\n\nAbout the Role\n\nThis isn't a traditional DevOps role, and it's not an ML\ninfrastructure role. You're an infrastructure engineer who\nbuilds and ships software — internal tools, services, and\nagentic automation that solve real infrastructure problems.\nThink automated incident response, intelligent\nobservability, MCP servers that connect infrastructure\nsystems, and support ticket triaging. You apply agentic\npatterns to the messy operational world, not train models or\nmanage GPUs.\n\nWe're looking for someone senior — you architect systems,\nmentor other engineers, and lead by example. You've built\nreal applications and tools in the infra space before, not\njust configured existing ones. You don't hesitate to poke\naround unfamiliar systems, take full ownership of problems,\nand drive them to completion.\n\nOur infrastructure team operates on SRE principles: we build\nreliable, automated systems and eliminate toil. We also\nbuild and maintain the platforms that let the rest of\nengineering deploy, scale, and monitor their services.\nYou'll own problems end-to-end, from bare-metal CDN servers\nto Kubernetes clusters to the AI-powered workflows that tie\neverything together. You use AI tools in your own workflow\ntoo — not as a novelty, but as a core part of how you build.\n\nSmall team, high autonomy, direct impact.\n\nHybrid in London (2-3 days/week). Remote considered for\nstrong candidates outside London.\n\nWhere you'll have impact:\n\nBuild & Ship — Agentic Infrastructure\n\n- Design and build agentic workflows for infrastructure\n  operations — incident response, observability, support\n  ticket triaging\n- Build and maintain MCP servers and AI-powered automation\n  that connects infrastructure systems\n- Assess and own the security surface of agentic tools and\n  workflows you build — understand what you're exposing and\n  how to lock it down\n- Build internal tools and services that make the engineering\n  team faster\n- Prototype rapidly using AI-assisted development workflows\n- Collaborate with product engineers — you're a peer, not a\n  support function\n- Write production-quality code, not just glue scripts\n\nPlatform & Infrastructure\n\n- Design, run, and evolve our EKS clusters — the primary\n  platform for all MUBI services\n- Build and improve CI/CD pipelines (Jenkins, ArgoCD, Helm)\n- Operate and extend our in-house bare-metal CDN spanning\n  multiple global locations\n- Manage cloud infrastructure on AWS using Terraform and Chef\n- Build and maintain Kubernetes operators and controllers to\n  automate platform workflows\n- Design and operate data pipelines and event-driven\n  architectures using Kafka\n- Maintain and improve observability (ELK, Prometheus,\n  Grafana, Datadog)\n- Define and uphold SLO commitments — own availability and\n  reliability targets\n- Automate everything worth automating\n\nTech stack\n\n- Cloud: AWS, Kubernetes (currently EKS)\n- IaC: Terraform, Chef\n- CI/CD: Jenkins, ArgoCD, Helm, Kustomize\n- Observability: ELK Stack, Prometheus with Thanos, Grafana,\n  Datadog\n- Streaming/Messaging: Kafka\n- Servers: Nginx (with Lua), bare-metal CDN\n- Databases: MariaDB, PostgreSQL\n- AI/Agents: Claude, MCP, agentic workflow tooling\n- Languages: Language-agnostic — strong fundamentals matter\n  more than specific languages\n\nWhat you'll bring\n\n- 5+ years in infrastructure, platform engineering, or DevOps\n- Interest or experience in building agentic workflows, AI-\n  powered automation, or working with LLM APIs\n- Strong software engineering skills — you've built and\n  shipped applications and tools in the infrastructure\n  space, not just configured existing systems\n- Strong Kubernetes experience — you understand the internals,\n  not just kubectl apply\n- Deep Linux and networking knowledge — you're comfortable\n  running, debugging, and automating bare-metal servers, not\n  just clicking around a cloud console\n- Security-minded — you think about the attack surface of what\n  you build, especially when integrating AI and agentic\n  tools into infrastructure\n- Deep understanding of distributed systems, high\n  availability, and SLO-driven operations\n- Technical leadership — you architect solutions, mentor\n  engineers, and raise the bar for the team\n- Infrastructure as code experience (Terraform)\n\nNice-to-haves:\n\n- Experience building Kubernetes operators, controllers, or\n  custom platform abstractions\n- AWS or other cloud provider experience\n- Experience with bare-metal servers or CDN operations\n- Background in backend or full-stack development\n- Ruby, Python, or Go experience\n- Experience with Kafka or event-driven architectures\n- Data pipeline design and operations\n- Experience building with LLM APIs, MCP, or agentic\n  frameworks\n- Familiarity with AI-powered operational tooling (AIOps,\n  intelligent alerting, automated runbooks)\n- Video streaming domain knowledge\n\nDon't meet every requirement? Please apply anyway. We're\nlooking for curious, capable people who want to build great\nthings. If you think you'd thrive here, we'd love to talk.\n\nWe want to make cinema accessible to everyone. We believe\npeople from different backgrounds bring different ideas that\nfoster innovation and engagement, allowing us to attract\ngreat people to develop the best experience for our users.\n\nMUBI is committed to being an Equal Opportunity Employer.\nThat means it's our responsibility to ensure that all\ncandidates are not discriminated against in our hiring\nprocesses and our employment decisions based on their race,\ncolor, religion, nationality or ethnic origin, age, gender\nidentity or expression, sex, marital status, physical or\nmental disability, socioeconomic background, sexual\norientation, family or parental status, or any other\napplicable characteristic.\n",
+  "skills_required": [
+    "Agentic workflows",
+    "Claude API",
+    "LLM APIs",
+    "MCP (Model Context Protocol)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build agentic workflows for infrastructure operations including incident response, observability, and support ticket triaging",
+    "Build and maintain MCP servers and AI-powered automation connecting infrastructure systems",
+    "Assess and own the security surface of agentic tools and workflows",
+    "Design, run, and evolve EKS Kubernetes clusters as the primary platform for all services",
+    "Build and improve CI/CD pipelines using Jenkins, ArgoCD, and Helm",
+    "Operate and extend bare-metal CDN spanning multiple global locations",
+    "Manage cloud infrastructure on AWS using Terraform and Chef",
+    "Build and operate data pipelines and event-driven architectures using Kafka"
+  ],
+  "use_cases": [
+    "Automated incident response for infrastructure operations",
+    "Intelligent observability and monitoring automation",
+    "Support ticket triaging using agentic workflows",
+    "MCP servers connecting disparate infrastructure systems",
+    "AI-powered platform automation eliminating operational toil",
+    "Internal developer tooling to accelerate engineering velocity"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "ArgoCD",
+    "Chef",
+    "Datadog",
+    "Docker",
+    "ELK Stack",
+    "Grafana",
+    "Helm",
+    "Jenkins",
+    "Kafka",
+    "Kubernetes (EKS)",
+    "Kustomize",
+    "MariaDB",
+    "Nginx",
+    "PostgreSQL",
+    "Prometheus",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Agentic workflows",
+    "Claude API",
+    "LLM APIs",
+    "MCP (Model Context Protocol)"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "Ruby",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role explicitly involves building agentic workflows,\nMCP servers, and AI-powered automation for infrastructure\noperations. The engineer designs and ships agentic systems\n(incident response, observability, ticket triaging) using\nLLM APIs and agentic patterns — not just supporting AI work\ndone by others, but directly building and deploying AI-\ndriven solutions.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP (Model Context Protocol)",
+      "Claude API",
+      "Agentic workflows",
+      "LLM APIs"
+    ],
+    "ml": [],
+    "web": [
+      "Nginx"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MariaDB"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Kubernetes (EKS)",
+      "Terraform",
+      "Chef",
+      "Docker",
+      "Jenkins",
+      "ArgoCD",
+      "Helm",
+      "Kustomize",
+      "ELK Stack",
+      "Prometheus",
+      "Grafana",
+      "Datadog"
+    ],
+    "languages": [
+      "Python",
+      "Ruby",
+      "Go",
+      "SQL"
+    ],
+    "domains": [
+      "Video streaming"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

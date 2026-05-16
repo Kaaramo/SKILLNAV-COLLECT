@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-0162",
+  "source": "intl-ai-corpus",
+  "source_ref": "7281085",
+  "source_url": "https://builtin.com/job/software-engineer-iii-senior-ai-gateway/7281085",
+  "title": "Software Engineer III/Senior, AI Gateway",
+  "title_normalized": "AI_ENGINEER",
+  "company": "ngrok",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-11",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": null,
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "5000 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Cloud networking platform for secure traffic routing and AI\ngateway",
+  "industries": [
+    "Cloud",
+    "Internet of Things"
+  ],
+  "description": "About ngrok Inc.\n\nngrok is an all-in-one cloud networking platform that\nsecures, transforms, and routes traffic to services running\nanywhere. Instead of cobbling together nginx, NLBs, VPNs,\nmodel routers, and oodles other tools, developers solve\nevery networking problem with one gateway. Doesn’t matter if\nthey’re sharing localhost or running AI workloads in\nproduction.\n\nWe're trusted by more than 9 million developers at companies\nlike GitHub, Okta, HashiCorp, and Twilio. What started as a\nway to put your local app on a public URL has grown into a\nuniversal gateway for API delivery, AI inference, device\nfleets, and site-to-site connectivity. It’s the same ngrok\nthat millions of developers have loved and leaned on every\nday for years, now with the power to run production traffic\nat scale.\n\nA few things you should know:\n\n- Our mascot is a rock\n- We are obsessed with our pets, Viper sunglasses and Bufo\n  (yes, the toad)\n- We have a designated Chief Emoji Officer - they are vital to\n  our success!\n- We like software that’s serious and culture that’s not\n\nMost people skim to 'requirements' and bounce. You're\nactually reading this. That's the kind of thoroughness we\nrespect, or you're just procrastinating. Either way, same\nsame and you should keep reading.\n\nAbout the AI Gateway Team\n\nOur AI Gateway team builds the systems that define how AI\ntraffic is identified, controlled, and understood as it\npasses through ngrok.\n\nWe own the AI-specific control plane at the gateway layer:\npolicies, usage tracking, and enforcement that sit directly\non live customer traffic. Our systems must behave correctly\nunder real-world conditions—traffic spikes, unexpected model\nbehavior, misconfigured policies, and customers asking, “Why\nwas this blocked?” or “Where did my tokens go?”\n\nWhat You’ll Actually Do\n\n- Build and evolve the AI Gateway: You’ll work on the AI-aware\n  gateway components that classify and handle AI traffic in\n  real time. This code runs directly in the request path and\n  must be fast, safe, and predictable.\n- Own AI traffic policy enforcement: You’ll design and\n  implement AI Gateway Traffic Policy Objects—rate limits,\n  usage caps, and access rules specific to AI workloads.\n  These policies exist to prevent runaway costs, misuse, and\n  accidental exposure without breaking legitimate traffic.\n- Track AI usage and token consumption: You’ll build and\n  maintain systems that accurately measure AI\n  usage—requests, tokens, and related metadata—so customers\n  can understand how their AI systems behave and what\n  they’re consuming.\n- Make AI behavior observable and explainable: You’ll expose\n  clear, trustworthy signals around AI traffic: what was\n  allowed or blocked, which policies applied, and how usage\n  accumulated. When customers ask “what happened?”, the\n  gateway should already know.\n- Design abstractions that hide complexity: You’ll work with\n  product and design to build AI-specific gateway primitives\n  that feel intentional and safe, without leaking provider\n  quirks or infrastructure details into customer workflows.\n- Ship systems customers trust in production: You’ll\n  collaborate closely with Gateway, Customer Data, and\n  Platform teams to ensure AI usage data, policy\n  enforcement, and billing signals line up—so customers can\n  turn these features on with confidence.\n\nYou Might Be a Great Fit If…\n\n- You’re comfortable in a statically typed, compiled language\n  such as Go, Rust, C++, or Java (with bonus points for Go)\n- You’ve worked with AI/LLMs and can appreciate their unique\n  brand of edge-cases\n- You care about developer experience and thoughtful\n  abstractions\n- You enjoy defining system behavior, not just plumbing\n- You’ve thought about retries, limits, and costs before being\n  asked\n- You like systems that move complexity from the user to the\n  system\n\nExtra credit if you’ve worked on:\n\n- AI platforms or inference infrastructure\n- API gateways with product-level opinions\n- Usage limits, quotas, or billing-adjacent systems\n- Customer-facing observability tools\n\nTech Stack\n\nngrok runs entirely on AWS. Engineers develop by using\nremote development tools and/or ssh to connect to remote EC2\nenvironments that run a full Kubernetes cluster of the ngrok\nstack, closely mirroring production. The codebase is\nprimarily Go and TypeScript. We use Postgres for\npersistence, Kafka for streaming, Protobuf for service\nboundaries, and Kubernetes, Terraform, Helm, and Buildkite\nto operate and ship reliably. React is used for user\ninterfaces, and GitHub supports our development workflows\nand remembers everything.\n\nLocation\n\nThis is a remote position for candidates outside of the Bay\nArea and a hybrid role for candidates within commuting\ndistance to San Francisco. Our Bay Area employees commute to\nthe office on Tuesdays and Wednesdays.\n\nSponsorship\n\nAll candidates must be US-based, and legally authorized to\nwork in the United States.\n\nAt this time, ngrok is unable to provide visa sponsorship\nfor this position. Applicants must be authorized to work in\nthe United States on a permanent, ongoing basis without the\nneed for current or future sponsorship.\n\nCompensation\n\nSenior Software Engineer\n\n- Tier 1 (SF, LA, Seattle, NYC): $180,000 – $225,000\n- Tier 2 (rest of US): $165,600 – $207,000\n\nSoftware Engineer III\n\n- Tier 1 (SF, LA, Seattle, NYC): $160,000 – $200,000\n- Tier 2 (rest of US): $147,200 – $184,000\n\nJob level and actual compensation will be evaluated based on\nfactors including, but not limited to, qualifications\nobjectively assessed during the interview process (including\nskills and prior relevant experience, potential impact, and\nscope of role), internal equity with other team members,\nmarket data, and specific work location. We provide an\nattractive mix of salary and equity.\n\n#LI-Remote\n\nFull Time Employee Benefits\n\nCompensation for this role depends on level, but we provide\na competitive mix of salary and equity.\n\nWe provide a 401(k) with a 100% match up to 3% of your\nsalary and a 50% match up to another 2%.\n\nWe provide healthcare, dental, and vision with premiums\nfully covered on the base plan for employees. Half of\npremiums are covered for dependents.\n\nWe offer unlimited PTO and a culture in which the\noverwhelming majority of employees take more than four\nweeks. Your manager is also on the hook for encouraging you\nto do the same.\n",
+  "skills_required": [
+    "Rate limiting",
+    "Usage tracking"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and evolve AI-aware gateway components that classify and handle AI traffic in real-time in the request path",
+    "Design and implement AI Gateway Traffic Policy Objects including rate limits, usage caps, and access rules specific to AI workloads",
+    "Build and maintain systems that accurately measure AI usage including requests, tokens, and related metadata for customer visibility",
+    "Expose clear, trustworthy signals around AI traffic behavior showing what was allowed or blocked and which policies were applied",
+    "Design AI-specific gateway primitives and abstractions that feel intentional and safe without exposing provider quirks or infrastructure details",
+    "Collaborate with Gateway, Customer Data, and Platform teams to ensure AI usage data, policy enforcement, and billing signals are properly aligned"
+  ],
+  "use_cases": [
+    "AI traffic identification and control at the gateway layer with real-time policy enforcement",
+    "Preventing runaway AI costs and misuse through rate limits, usage caps, and access rules",
+    "Tracking and measuring AI token consumption and usage patterns for cost observability",
+    "Explaining AI traffic behavior by showing which policies were applied and why requests were allowed or blocked",
+    "Providing secure routing and transformation for AI inference workloads in production environments"
+  ],
+  "tools_mentioned": [
+    "API gateway",
+    "AWS",
+    "Buildkite",
+    "Docker",
+    "Helm",
+    "Kafka",
+    "Kubernetes",
+    "Observability",
+    "Postgres",
+    "Protobuf",
+    "React",
+    "Terraform",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Go",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role involves building gateway infrastructure and\npolicy enforcement systems that sit in front of AI\nworkloads, rather than building, training, or deploying\nAI/ML models themselves. The engineer works on traffic\nclassification, usage tracking, rate limiting, and\nobservability for AI traffic - all of which are\ninfrastructure/support systems that enable AI workloads but\ndon't involve direct model work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "Protobuf",
+      "gRPC",
+      "React",
+      "API gateway"
+    ],
+    "databases": [
+      "Postgres"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Terraform",
+      "Helm",
+      "Docker",
+      "Buildkite",
+      "Observability"
+    ],
+    "languages": [
+      "Go",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "Rate limiting",
+      "Usage tracking"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

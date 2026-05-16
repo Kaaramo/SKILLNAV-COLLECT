@@ -1,0 +1,166 @@
+{
+  "job_id": "intl-ai-corpus-2708",
+  "source": "intl-ai-corpus",
+  "source_ref": "8977832",
+  "source_url": "https://www.builtinla.com/job/senior-ai-engineer-usa-remote/8977832",
+  "title": "Senior AI Engineer (USA - Remote)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Gurobi Optimization",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Mathematical optimization software and solver platform",
+  "industries": [
+    "Software",
+    "Analytics"
+  ],
+  "description": "At Gurobi Optimization, we're on a mission!\n\n\n\nA mission that focuses on mathematical optimization. We\nempower our customers to expand their use of mathematical\noptimization technology in order to make smarter decisions\nand solve some of the world's toughest and most impactful\nbusiness problems. We're looking for passionate, dedicated,\ninnovative game-changers to join our team and drive the\nfuture of Gurobi.\n\n\n\nAs a Senior AI Engineer at Gurobi Optimization, you will\nhave the technical depth, rigor and initiative to enhance\nour platform's diverse components and services with AI\nAgents and Machine Learning. In this role, you will become\nan integral part of the Gurobi Platform Team, a team\nresponsible for overseeing critical elements including the\nGurobi SaaS Instant Cloud, the Gurobi Compute Server, the\nGurobi User Portal, and the Gurobot Expert Agent. Your\nexpertise and contributions will play a pivotal role in\nshaping the future AI capabilities of the Gurobi\nIntelligence framework.\n\nWhat will you be doing?\n\n- Design and implement AI agents facilitating the full\n  development cycle of optimization applications with a\n  focus on leveraging Gurobi optimization expertise and best\n  practices.\n- Architect and maintain the integration of optimization\n  components, including Gurobi's solver and related\n  libraries, into AI features of existing and new products.\n- Partner with cross-functional teams (AI Innovation Lab,\n  Optimizer team, Experts, Product Management, Marketing) to\n  align on AI feature requirements, gather domain knowledge,\n  and ensure best practices are reflected across AI systems\n  and products.\n- Develop and refine prompt and context engineering strategies\n  for production AI systems.\n- Participate in the quality testing of AI features by\n  designing test cases and evaluations.\n- Troubleshoot AI feature quality and performance issues. Be\n  an escalation contact for service incidents related to AI\n  features to help our support team when necessary.\n- Serve as an internal AI subject matter expert, evaluating\n  use cases across teams and providing technical guidance\n  and recommendations on AI applicability and approach.\n- Collaborate with a team of software developers and QA\n  engineers of the Platform team following our agile\n  methodology. The role involves a substantial amount of\n  teamwork and individual contribution.\n\nWhat experience and qualifications should you have?\n\n- 5+ years of experience as a software engineer.\n- 2+ years of hands-on experience with prompt engineering,\n  knowledge base management, or machine learning application\n  development.\n- 2+ years of hands-on experience developing mathematical\n  optimization applications.\n- Bachelor’s in Computer Science or related technical field or\n  equivalent professional experience.\n- Fluent in English.\n\nWhat skills, abilities, and behaviors should you have?\n\n- Proficient with at least one programming language such as\n  Python, Node.js or Go.\n- Good understanding of generative AI agents including prompt\n  and context engineering, orchestration, vector databases,\n  and RAG architecture.\n- Prior experience with one or more AI platforms (Anthropic,\n  AWS Bedrock, OpenAI, Agentforce), AI protocols (MCP, A2A),\n  and AI orchestration frameworks (LangChain, LangGraph,\n  Strands or custom).\n- Solid understanding of machine learning concepts and\n  applications, including reinforcement learning techniques.\n- Strong understanding of mathematical optimization concepts\n  and experience modeling or solving optimization problems.\n\nWhat other requirements should you have?\n\n- Awareness of responsible AI practices, including output\n  safety, guardrails, and AI governance, with familiarity\n  with the OWASP Top 10 for LLMs would be beneficial.\n- Prior experience with CI/CD pipelines development would be\n  advantageous.\n- Prior experience with ML frameworks (MetaFlow, MLFlow, DVC,\n  Kuberflow, LakeFS) would be advantageous.\n- Good understanding of container technology (Docker) would be\n  beneficial.\n- Prior engagement with agile methodologies, such as Scrum,\n  would be advantageous.\n\nYour Alignment with our Gurobi Core Values:\n\n- Customer Focus: Verbal & written communication skills that\n  bring clarity and build trust.\n- Power of the Team: Motivated with a team-oriented mindset\n  that aims to both inspire and be inspired by others.\n- Innovation: The courage to bring ideas forward and see\n  yourself as an integral part of our global team.\n- Dedication: Organized and agile, focusing on meeting\n  professional objectives while promoting a healthy\n  work/life balance.\n- Integrity: Promise to uphold honesty as your compass and\n  conduct all business practices with an ethical mindset and\n  fiscal responsibility.\n",
+  "skills_required": [
+    "A2A",
+    "AI Agents",
+    "Agentforce",
+    "Anthropic API",
+    "Context Engineering",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "Machine Learning",
+    "OWASP Top 10 for LLMs",
+    "OpenAI API",
+    "Prompt Engineering",
+    "RAG Architecture",
+    "Reinforcement Learning",
+    "Responsible AI / AI Guardrails",
+    "Scrum / Agile",
+    "Strands"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement AI agents facilitating the full development cycle of optimization applications leveraging Gurobi optimization expertise",
+    "Architect and maintain integration of optimization components into AI features of existing and new products",
+    "Develop and refine prompt and context engineering strategies for production AI systems",
+    "Partner with cross-functional teams to align on AI feature requirements and ensure best practices across AI systems",
+    "Participate in quality testing of AI features by designing test cases and evaluations",
+    "Troubleshoot AI feature quality and performance issues and serve as escalation contact for AI-related incidents",
+    "Serve as internal AI subject matter expert evaluating use cases and providing technical guidance across teams",
+    "Collaborate with software developers and QA engineers following agile methodology"
+  ],
+  "use_cases": [
+    "AI agents for optimization application development lifecycle",
+    "Expert agent (Gurobot) for mathematical optimization guidance and best practices",
+    "AI-powered features within the Gurobi SaaS platform and user portal",
+    "Production AI systems with RAG and prompt engineering for optimization domain",
+    "Integration of optimization solver components into AI-driven product features"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "CI/CD",
+    "DVC",
+    "Docker",
+    "Kubeflow",
+    "LakeFS",
+    "MLflow",
+    "MetaFlow",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "A2A",
+    "AI Agents",
+    "Agentforce",
+    "Anthropic API",
+    "Context Engineering",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "Machine Learning",
+    "OpenAI API",
+    "Prompt Engineering",
+    "RAG Architecture",
+    "Reinforcement Learning",
+    "Strands"
+  ],
+  "languages_programming": [
+    "Go",
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and implementing AI agents,\nprompt/context engineering strategies, and RAG architectures\nfor production AI systems (including the Gurobot Expert\nAgent and Gurobi Intelligence framework). The engineer is\nhands-on with designing, developing, and maintaining AI\nfeatures — not just supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt Engineering",
+      "Context Engineering",
+      "RAG Architecture",
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "A2A",
+      "AI Agents",
+      "OpenAI API",
+      "Anthropic API",
+      "Agentforce",
+      "Strands"
+    ],
+    "ml": [
+      "Reinforcement Learning",
+      "Machine Learning"
+    ],
+    "web": [],
+    "databases": [
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Bedrock"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "MLflow",
+      "Kubeflow",
+      "MetaFlow",
+      "DVC",
+      "LakeFS"
+    ],
+    "languages": [
+      "Python",
+      "Node.js",
+      "Go"
+    ],
+    "domains": [
+      "Mathematical Optimization"
+    ],
+    "other": [
+      "Responsible AI / AI Guardrails",
+      "OWASP Top 10 for LLMs",
+      "Scrum / Agile"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

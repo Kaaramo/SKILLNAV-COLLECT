@@ -1,0 +1,104 @@
+{
+  "job_id": "intl-ai-corpus-1095",
+  "source": "intl-ai-corpus",
+  "source_ref": "8122876",
+  "source_url": "https://builtin.com/job/sr-data-ai-engineer/8122876",
+  "title": "Sr. Data AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Sutherland",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-27",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "39,547 Employees",
+  "company_stage": null,
+  "company_focus": "AI, automation, cloud engineering, and advanced analytics\nfor business transformation",
+  "industries": [
+    "Artificial Intelligence",
+    "Analytics"
+  ],
+  "description": "Company Description\n\nAbout Sutherland Artificial Intelligence. Automation. Cloud\nengineering. Advanced analytics. For business leaders, these\nare key factors of success. For us, they’re our core\nexpertise.\n\nWe work with iconic brands worldwide. We bring them a unique\nvalue proposition through market-leading technology and\nbusiness process excellence. We’ve created over 200 unique\ninventions under several patents across AI and other\ncritical technologies. Leveraging our advanced products and\nplatforms, we drive digital transformation, optimise\ncritical business operations, reinvent experiences, and\npioneer new solutions, all provided through a seamless “as a\nservice” model.\n\nFor each company, we provide new keys for their businesses,\nthe people they work with, and the customers they serve. We\ntailor proven and rapid formulas to fit their unique DNA. We\nbring together human expertise and artificial intelligence\nto develop digital chemistry. This unlocks new\npossibilities, transformative outcomes and enduring\nrelationships. Sutherland Unlocking digital performance.\nDelivering measurable results.\n\nJob Description\n\nCore Responsibilities\n\n- Develop and optimize SQL pipelines, data models, and\n  transformations within Snowflake.\n- Build Python-based data processing and automation workflows.\n- Contribute to Agile ceremonies and deliverables, ensuring\n  timely and high-quality outputs.\n- Implement CI/CD workflows and maintain version-controlled\n  code repositories.\n- Build and manage orchestration pipelines using Airflow,\n  Dagster, or similar tools.\n- Support data governance, quality checks, and secure data\n  practices.\n- Troubleshoot pipeline issues and proactively improve\n  performance and reliability.\n\nQualifications\n\nRequired Skills\n\n- Strong SQL expertise (5+ years), preferably with Snowflake,\n  but other Database Management systems are acceptable.\n- Data modelling experience.\n- Proficient Python programming skills for pipeline and\n  automation tasks.\n- Experience working in Agile environments and delivering\n  iterative outcomes.\n- Understanding of cloud data warehouses, especially\n  Snowflake.\n- Familiarity with CI/CD processes and tools (e.g., GitHub,\n  GitLab, Azure DevOps).\n- Exposure to workflow orchestration frameworks like Airflow\n  or Dagster.\n\nAdditional Information\n\nAll your information will be kept confidential according to\nEEO guidelines.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and optimize SQL pipelines, data models, and transformations within Snowflake",
+    "Build Python-based data processing and automation workflows",
+    "Build and manage orchestration pipelines using Airflow, Dagster, or similar tools",
+    "Implement CI/CD workflows and maintain version-controlled code repositories",
+    "Support data governance, quality checks, and secure data practices",
+    "Troubleshoot pipeline issues and proactively improve performance and reliability"
+  ],
+  "use_cases": [
+    "Data pipeline development and optimization for AI initiatives",
+    "Cloud data warehouse operations and data modeling",
+    "Automated data processing and ETL workflows",
+    "Data governance and quality management"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "Azure DevOps",
+    "CI/CD",
+    "Dagster",
+    "Data modeling",
+    "GitHub",
+    "GitLab",
+    "Snowflake"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a data engineering role focused on building data\npipelines, SQL transformations, and orchestration workflows\nusing Snowflake, Python, and Airflow. The role supports\nAI/ML initiatives by providing data infrastructure and\nprocessing capabilities, but does not involve building,\ntraining, or deploying AI/ML models directly.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Snowflake"
+    ],
+    "data": [
+      "Data modeling",
+      "Airflow",
+      "Dagster"
+    ],
+    "cloud": [
+      "Azure DevOps"
+    ],
+    "ops": [
+      "CI/CD",
+      "GitHub",
+      "GitLab"
+    ],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

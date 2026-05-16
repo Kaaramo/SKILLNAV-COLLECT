@@ -1,0 +1,105 @@
+{
+  "job_id": "intl-ai-corpus-0720",
+  "source": "intl-ai-corpus",
+  "source_ref": "4365236",
+  "source_url": "https://builtin.com/job/senior-software-engineer-data-ai-observability/4365236",
+  "title": "Senior Software Engineer - Data + AI Observability",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Databricks",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,200 Employees",
+  "company_stage": "Public",
+  "company_focus": "Data and AI infrastructure platform",
+  "industries": [
+    "Big Data",
+    "Machine Learning",
+    "Software",
+    "Analytics",
+    "Big Data Analytics"
+  ],
+  "description": "P-1385\n\nCompanies are investing billions of dollars into developing\nand deploying AI and the data platforms that enable it. But\ndo they know what is happening?\n\nAt Databricks, we are passionate about enabling data teams\nto solve the world’s toughest problems — from making the\nnext mode of transportation a reality to accelerating the\ndevelopment of medical breakthroughs. We do this by building\nand running the world’s best data and AI infrastructure\nplatform so our customers can use deep data insights to\nimprove their business. Founded by engineers — and customer\nobsessed — we leap at every opportunity to tackle technical\nchallenges, from designing next-gen UI/UX for interfacing\nwith data to scaling our services and infrastructure across\nmillions of virtual machines. And we're only getting\nstarted.\n\nAs a Senior Software Engineer on the Customer Foresight\nTeam, you'll lead the development of products that customers\nuse to get insights on their AI and data workloads, optimize\ntheir performance, and lower costs. You will build data\ninfrastructure that processes billions of entries daily,\ndeploy to over 65 cloud regions worldwide, and enable some\nof the world's biggest companies to conduct their DevOps,\nFinOps, SecOps and AIOps jobs.\n\nThis role requires leading the technical development of\nproduct milestones from refinement of requirements, through\nexecution, operation, and iterating with the broader product\ndevelopment team and partner teams to ensure product\nsuccess.\n\nThe impact you will have:\n\n- Develop systems that make it simple for customers to answer\n  questions about their Databricks environment by providing\n  a reliable and timely interface for observability\n- Make it easy for frameworks teams across Databricks to\n  publish their data to customers\n- Effectively lead large milestones from the observability\n  roadmap, contribute to the long-term vision and\n  requirements development for Databricks products\n- Mentor other engineers towards contributing to the product\n  and their career growth\n- Optimize the scalability and cost of large data pipelines\n  towards reducing costs for customers and opening up new\n  product opportunities\n- Drive integration with popular tools and services in the\n  broader data warehousing ecosystem\n\nWhat we look for:\n\n- 6+ years of production level experience in one of: Java,\n  Scala, Python, C++, or similar language\n- Experience with cloud technologies, e.g. AWS, Azure, GCP,\n  Docker, Kubernetes\n- Proven track record in architecting, developing, deploying,\n  and operating components of large scale distributed\n  systems\n- Strong software engineering maturity: security, correctness,\n  engineering excellence, operational excellence\n- Platform mindset: effective building platforms for other\n  software teams, iterating quickly to reduce friction to\n  adoption, advocating for platform use\n- Cross-functional skills: we have platform customers internal\n  at Databricks as well as external customers, which\n  requires strong cross-functional skills\n\nAbout Databricks\n\nDatabricks is the data and AI company. More than 10,000\norganizations worldwide — including Comcast, Condé Nast,\nGrammarly, and over 50% of the Fortune 500 — rely on the\nDatabricks Data Intelligence Platform to unify and\ndemocratize data, analytics and AI. Databricks is\nheadquartered in San Francisco, with offices around the\nglobe and was founded by the original creators of Lakehouse,\nApache Spark™, Delta Lake and MLflow. To learn more, follow\nDatabricks on Twitter, LinkedIn and Facebook. Benefits At\nDatabricks, we strive to provide comprehensive benefits and\nperks that meet the needs of all of our employees. For\nspecific details on the benefits offered in your region,\nplease visit https://www.mybenefitsnow.com/databricks.\n\nOur Commitment to Diversity and Inclusion\n\nAt Databricks, we are committed to fostering a diverse and\ninclusive culture where everyone can excel. We take great\ncare to ensure that our hiring practices are inclusive and\nmeet equal employment opportunity standards. Individuals\nlooking for employment at Databricks are considered without\nregard to age, color, disability, ethnicity, family or\nmarital status, gender identity or expression, language,\nnational origin, physical and mental ability, political\naffiliation, race, religion, sexual orientation, socio-\neconomic status, veteran status, and other protected\ncharacteristics.\n\nCompliance\n\nIf access to export-controlled technology or source code is\nrequired for performance of job duties, it is within\nEmployer's discretion whether to apply for a U.S. government\nlicense for such positions, and Employer may decline to\nproceed with an applicant on this basis alone.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop systems that provide reliable and timely observability interfaces for customers to answer questions about their Databricks environment",
+    "Make it easy for internal framework teams to publish their data to customers through data infrastructure",
+    "Lead large milestones from the observability roadmap and contribute to long-term product vision and requirements",
+    "Mentor other engineers on product contributions and career growth",
+    "Optimize scalability and cost of large data pipelines to reduce customer costs and enable new product opportunities",
+    "Drive integration with popular tools and services in the broader data warehousing ecosystem"
+  ],
+  "use_cases": [
+    "AI and data workload observability and monitoring",
+    "Performance optimization and cost reduction for DevOps, FinOps, SecOps, and AIOps jobs",
+    "Customer insights on Databricks environment usage and metrics",
+    "Cross-cloud deployment across 65+ regions worldwide",
+    "Large-scale data pipeline processing handling billions of entries daily"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "distributed systems"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "C++",
+    "Java",
+    "Python",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role builds observability infrastructure and data\npipelines that process billions of entries daily for AI and\ndata workloads. The focus is on enabling visibility and\noptimization for customers' AI systems, not on building,\ntraining, or deploying models directly.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "distributed systems"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "Scala",
+      "C++"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

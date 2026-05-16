@@ -1,0 +1,134 @@
+{
+  "job_id": "intl-ai-corpus-0713",
+  "source": "intl-ai-corpus",
+  "source_ref": "8369199",
+  "source_url": "https://builtin.com/job/ai-platform-engineer/8369199",
+  "title": "AI Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Light (light.inc)",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-31",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "56 Employees",
+  "company_stage": "Seed/Series A",
+  "company_focus": "Smart Financial Platform replacing factory-era ERPs",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About Light. Light exists to replace factory-era ERPs with\nsoftware that feels alive. Our Smart Financial Platform\ngives modern, global companies superpowers—automated\naccounting, real-time reporting, and financial flows that\nmove at the speed of the business. We build with our\ncustomers, ship fast, and obsess over craft. In a short\ntime, Light has gone from idea to the operating core for\nleading companies like Lovable, Legora, and Keyshot. People\ndon’t just use Light—they enjoy it. We’re an early team\ndefining a new software category. Think engineers who love\ndebits and credits, designers who care about reconciliation\nstates, and operators who treat finance as a product. If\nyou’re excited to modernize how the world runs money—one\nworkflow at a time—you’re in the right place. Backed by\nworld-class investors and advised by industry titans, we’re\nbuilding category-defining products with the freedom to ship\nambitiously and own outcomes. Come help us make Light the\nglobal default for next-gen finance.\n\nThe AI Platform Engineer Role\n\nYou will join the Foundation Team, the force multiplier for\nour entire engineering organization. Our mandate is to\n\"build the factory that builds the product.\" As a Senior AI\nPlatform Engineer, you will not just be tuning prompts, you\nwill be architecting the internal \"AI Engine\" that powers\nevery AI feature at Light.\n\nWe are looking for a systems thinker who is obsessed with\nthe bleeding edge of AI but grounded in the reality of\nproduction engineering. You will help us move beyond simple\nAPI wrappers to build a robust Agent Runtime, define our\ninternal standards for AI reliability, and ensure our\nproduct teams can ship deterministic, high-quality AI\nfeatures in days rather than weeks.\n\nWhat you will do\n\n- Architect the Engine: Design and build a production-grade\n  Agent Runtime that handles tool registration, permissions,\n  timeouts, and retry semantics for autonomous agents.\n- Define the Standard: Evolve our internal GenAI Client and\n  SDKs to create a \"paved road\" for product engineers,\n  standardizing how every team at Light interacts with LLMs.\n- Solve for Trust: Build the \"CI/CD for AI\", implementing\n  reliability frameworks, golden datasets, and regression\n  testing pipelines that allow us to deploy prompts and\n  agents with confidence.\n- Expand the Ecosystem: Lead the integration of Light with\n  external platforms via the Model Context Protocol (MCP)\n  and automation tools like n8n.\n- Governance & Scale: Design the guardrails, rate limits, and\n  caching strategies that ensure our AI infrastructure\n  scales predictably and cost-effectively.\n\nWhat you will need\n\n- Strong Systems Engineering Background: You have significant\n  experience building scalable backend systems or internal\n  developer platforms. You care deeply about latency,\n  observability, and clean APIs.\n- AI Native Mindset: You live on the bleeding edge of the AI\n  landscape. You understand the difference between an Agent\n  and a Chain, you have experimented with MCP, and you keep\n  up with the latest releases from OpenAI, Anthropic, and\n  DeepSeek.\n- Polyglot Capabilities: You are proficient in Kotlin (our\n  core backend language) or have a strong willingness to\n  learn it.\n- Focus on Determinism: You hate flaky software. You\n  understand that trust is the biggest bottleneck to AI\n  adoption, and you know how to build the evaluations and\n  logging necessary to generate that trust.\n- Force Multiplier Attitude: You get more satisfaction from\n  unblocking 10 other engineers with a great tool than from\n  shipping a single feature yourself.\n\nThe good stuff\n\nIn addition to being part of a great team and working in a\nreally fun and innovative environment, we offer:\n\n💸 Competitive salary + potential stock options 🏝 25 days of\nannual leave + public holidays (in your country) 🥳 Regular\nsocials and company off-sites. 🚀 A huge opportunity to shape\na market-defining product and engineering culture\n\nThe famous last words\n\nAt Light, we’re building the most trusted financial platform\nin the world — and trust starts with security. As our\nSecurity Lead, you’ll help us earn that trust every day.\n\nJoin the rocket ship while it’s taking off 🚀\n",
+  "skills_required": [
+    "Agent Runtime",
+    "Anthropic API",
+    "LLM integration",
+    "MCP",
+    "Model Context Protocol",
+    "OpenAI API",
+    "agents",
+    "determinism",
+    "n8n",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build production-grade Agent Runtime handling tool registration, permissions, timeouts, and retry semantics for autonomous agents",
+    "Evolve internal GenAI Client and SDKs to create standardized paved road for product engineers interacting with LLMs",
+    "Build reliability frameworks, golden datasets, and regression testing pipelines as CI/CD for AI deployment",
+    "Lead integration with external platforms via Model Context Protocol (MCP) and automation tools like n8n",
+    "Design guardrails, rate limits, and caching strategies for predictable and cost-effective AI infrastructure scaling",
+    "Establish internal standards for AI reliability and deterministic, high-quality AI feature delivery"
+  ],
+  "use_cases": [
+    "Automated accounting and financial flows that move at business speed",
+    "Real-time financial reporting and reconciliation",
+    "AI-powered finance operations with autonomous agent automation",
+    "Integration with external platforms via MCP for extended workflow automation",
+    "Deterministic AI features for financial platform users"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "REST APIs",
+    "backend systems",
+    "caching strategies",
+    "evaluation frameworks",
+    "logging",
+    "observability",
+    "rate limiting",
+    "regression testing"
+  ],
+  "frameworks_mentioned": [
+    "Agent Runtime",
+    "Anthropic API",
+    "LLM integration",
+    "MCP",
+    "Model Context Protocol",
+    "OpenAI API",
+    "agents",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Kotlin"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an ai-first role because the engineer will directly\narchitect and build an Agent Runtime, internal GenAI\nClient/SDKs, and AI reliability frameworks. The role\ninvolves implementing autonomous agents, prompt testing\npipelines, and AI infrastructure - all hands-on work with AI\nsystems rather than just supporting infrastructure for\nothers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP",
+      "Model Context Protocol",
+      "agents",
+      "Agent Runtime",
+      "prompt engineering",
+      "LLM integration",
+      "OpenAI API",
+      "Anthropic API"
+    ],
+    "ml": [],
+    "web": [
+      "backend systems",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "observability",
+      "rate limiting",
+      "caching strategies",
+      "CI/CD",
+      "regression testing",
+      "evaluation frameworks",
+      "logging"
+    ],
+    "languages": [
+      "Kotlin"
+    ],
+    "domains": [],
+    "other": [
+      "n8n",
+      "determinism"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

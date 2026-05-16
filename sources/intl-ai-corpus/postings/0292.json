@@ -1,0 +1,155 @@
+{
+  "job_id": "intl-ai-corpus-0292",
+  "source": "intl-ai-corpus",
+  "source_ref": "7648944",
+  "source_url": "https://builtin.com/job/senior-software-engineer-data-ai-engineering-us/7648944",
+  "title": "Senior Software Engineer, Data & AI Engineering (US)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Scrunch AI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI search optimization for marketing brands",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Marketing Tech",
+    "Software",
+    "SEO"
+  ],
+  "description": "About Scrunch\n\nScrunch, a venture-backed startup, is on a mission to bring\nbrands to an AI-first future—where people increasingly rely\non LLMs to discover, understand, and act on information that\nmatters to them.\n\nAs AI search and conversational agents replace traditional\nweb search and browsing, Scrunch helps marketing teams\nrethink how their products and services are discovered and\nsurfaced on AI platforms like ChatGPT, Claude, Gemini, and\nmore—working with AI platforms, not against them. This shift\nrepresents the biggest change to marketing since the dawn of\nthe internet.\n\nWith $26M in backing from Mayfield Fund, Decibel, Homebrew,\nGTM Capital, and leading Silicon Valley founders and\noperators, Scrunch has scaled rapidly since commercial\nlaunch. Today, more than 500 paying brands—including Fortune\n500 companies like Lenovo, category-defining brands like\nSkims, and breakout startups like Clerk—use the platform.\n\nAbout the Role\n\nThe Scrunch product involves acquiring and processing a lot\nof data, both using LLMs and more traditional analytics\nmethods. In this role you will play a huge part in\nsuccessfully delivering our roadmap and ultimately in giving\nour customers the tools they need to succeed in the AI era.\n\nBecause we are a small organization, this is a full stack\nrole. While most of your work will be focused on building\nfeatures related to our data pipelines, usage of LLMs,\nanalytics APIs, etc., you'll need to do whatever is\nnecessary to deliver value to our customers. This can\ninclude some light React work but also work creating\nnotifications, alert emails, scheduled reports, connectors\ninto third party systems, etc.\n\nThis role is open to candidates located in and legally\nauthorized to work in the US. Scrunch is a remote\norganization, but in-office or hybrid work is possible for\ncandidates based in the NYC or Salt Lake City metro areas\n(and we love to jam in person from time to time!)\n\nFor this role, we'd like to see candidates that:\n\n- Have extensive experience building & using web APIs,\n  including handling authentication, authorization, caching,\n  rate limiting, etc.\n  - Experience building API for external customers is a big\n    plus.\n- Experience with relational (transactional) databases,\n  particularly PostgreSQL.\n- Experience with analytics tools and technologies, such as:\n  - Analytical SQL, maybe with a modern analytical data platform\n    like Snowflake, Google BigQuery, DuckDB, Spark SQL, etc.\n  - Experience with analytics packages like Pandas or Polars is\n    a plus.\n  - Experience with streaming analytics is a plus.\n- Experience writing batch and streaming/interactive data\n  processing pipelines. This could mean any of:\n  - Big data tools like Flink, Beam (GCP Dataflow), Spark, etc.\n  - Job queues and task processing frameworks (Celery, Resque,\n    or cloud-based options like Google Cloud Tasks)\n  - Multi-step durable execution frameworks like Temporal or\n    Inngest\n  - In-house or home-rolled versions of any of the above you've\n    used at previous companies.\n- The ability to quickly understand source data and validate\n  output data quality\n- Experience using LLMs and/or traditional ML techniques to\n  build classifiers, data extractors, summarizers, etc.\n  - Not required but a big plus: experience building evals for\n    LLM-based tools to assess and improve accuracy at these\n    kinds of tasks\n\nScrunch is an equal opportunity employer. We welcome people\nof all backgrounds, experiences, perspectives, and\nidentities. We do not discriminate on the basis of race,\nreligion, color, national origin, gender, sexual\norientation, age, marital status, veteran status, or\ndisability status.\n",
+  "skills_required": [
+    "LLMs",
+    "classifiers",
+    "data extractors",
+    "summarizers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain data pipelines including batch and streaming/interactive processing",
+    "Develop web APIs with proper authentication, authorization, caching, and rate limiting",
+    "Work with relational databases like PostgreSQL and analytical platforms like Snowflake/BigQuery",
+    "Implement LLM-based and traditional ML tools for classification, data extraction, and summarization",
+    "Create full-stack features including data connectors, notifications, alert emails, and scheduled reports",
+    "Ensure data quality by validating source data and output data throughout processing pipelines"
+  ],
+  "use_cases": [
+    "Help brands optimize their presence on AI search and conversational agent platforms like ChatGPT, Claude, and Gemini",
+    "Enable marketing teams to discover how their products and services are surfaced on AI platforms",
+    "Process and analyze large datasets using LLMs and traditional analytics methods",
+    "Build tools to assess and improve accuracy of AI-based classification and summarization tasks",
+    "Provide analytics APIs and scheduled reporting for customer insights in the AI era"
+  ],
+  "tools_mentioned": [
+    "Apache Beam",
+    "BigQuery",
+    "Celery",
+    "DuckDB",
+    "ETL",
+    "Flink",
+    "GCP Dataflow",
+    "Google Cloud Tasks",
+    "Inngest",
+    "Pandas",
+    "Polars",
+    "PostgreSQL",
+    "REST APIs",
+    "React",
+    "Resque",
+    "Snowflake",
+    "Spark",
+    "Spark SQL",
+    "Temporal",
+    "authentication",
+    "authorization",
+    "caching",
+    "data pipelines",
+    "evals",
+    "rate limiting",
+    "streaming analytics"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "classifiers",
+    "data extractors",
+    "summarizers"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a full stack data engineering role focused on\nbuilding data pipelines, analytics APIs, and infrastructure\nthat processes data for LLM-based products, not directly\nbuilding, training, or fine-tuning models. The role involves\nusing LLMs as tools for classifiers, extractors, and\nsummarizers, but the primary work is on data infrastructure\nand pipelines supporting AI applications.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs"
+    ],
+    "ml": [
+      "classifiers",
+      "data extractors",
+      "summarizers"
+    ],
+    "web": [
+      "REST APIs",
+      "authentication",
+      "authorization",
+      "caching",
+      "rate limiting",
+      "React"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Snowflake",
+      "BigQuery",
+      "DuckDB",
+      "Spark SQL"
+    ],
+    "data": [
+      "Pandas",
+      "Polars",
+      "streaming analytics",
+      "Flink",
+      "Apache Beam",
+      "GCP Dataflow",
+      "Spark",
+      "Celery",
+      "Resque",
+      "Google Cloud Tasks",
+      "Temporal",
+      "Inngest",
+      "ETL",
+      "data pipelines"
+    ],
+    "cloud": [],
+    "ops": [
+      "evals"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

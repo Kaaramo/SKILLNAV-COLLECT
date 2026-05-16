@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-2784",
+  "source": "intl-ai-corpus",
+  "source_ref": "9010677",
+  "source_url": "https://builtin.com/job/senior-ai-backend-engineer/9010677",
+  "title": "Senior AI Backend Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "SumUp",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "Berlin",
+  "country": "DE",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-10",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,750 Employees",
+  "company_stage": "Late-stage / Pre-IPO (implied by 4M+ merchants, 3000+ employees, virtual stock options)",
+  "company_focus": "Fintech payments and financial tools for small businesses",
+  "industries": [
+    "Fintech",
+    "Payments"
+  ],
+  "description": "Team description\n\nSumUp Edge is our most ambitious product bet right now — an\nAI-powered co-pilot that transforms raw merchant data into\nproactive, real-time business insights. We're moving from\nbeing a payments processor to becoming an intelligent\noperating system for small businesses, and the backend\ninfrastructure powering that shift needs to be world-class.\nThis role sits at the very centre of that build: you'll\narchitect the systems that connect our data platform, LLM\norchestration layer, and merchant-facing APIs — and the work\nyou do here will directly shape how millions of small\nbusinesses understand and grow their business.\n\nWe are seeking a skilled and passionate Senior Backend\nEngineer to help lay the foundations of this vision. In this\nrole, you will design, architect, and develop infrastructure\nand systems that enables AI products to be successful, and\nthat turn complex, real-world merchant data into scalable,\nproduction-grade information for AI solutions. Your\nexpertise in backend and infrastructure combined with AI\nwill be instrumental in shaping the intelligence layer and\nbuilding sustainable infrastructure that powers our next\ngeneration of products.\n\nYou will collaborate closely with machine learning\nengineers, data scientists, product managers, and business\nstakeholders to translate business challenges into robust,\nhigh-impact AI capabilities. Your work will directly\ninfluence how small businesses operate, compete, and grow,\npositioning SumUp at the forefront of applied AI in fintech.\n\nWhat you’ll do\n\n- Architect, design, develop and deploy our AI solutions and\n  systems in production environments, ensuring reliability,\n  high performance and scalability.\n- Design and build the orchestrator service that coordinates\n  AI components, data flows, and external services to\n  deliver reliable, real-time insights to merchants\n- Develop and maintain scalable ETL pipelines or MCPs that\n  process and sync heterogeneous data (text, images, audio)\n  from various sources into the AI system\n- Build and optimise the LLM Gateway infrastructure, including\n  authentication, rate limiting, load balancing, and vector\n  database management for the RAG system\n- Create robust, high-performance APIs capable of handling\n  multimodal data structures and high-volume requests,\n  ensuring low-latency and production-grade reliability\n- Implement observability tooling — including telemetry,\n  logging, and tracing — to support auditing, evaluation,\n  and continuous improvement of AI interactions\n- Mentor backend engineers on the team, contributing to\n  engineering standards, code reviews, and a culture of\n  technical excellence\n- Collaborate and communicate closely with data scientists,\n  product managers, developers and other business\n  stakeholders to bring state-of-the-art AI solutions to\n  Customer Support, enhancing customer experience and\n  improving operational efficiency.\n\nYou’ll be great for this position if you have\n\n- Bachelor's or master's degree in Computer Science,\n  Engineering, or a related field.\n- +6 years of experience developing software products (if they\n  are ML or AI related is a plus)\n- Advanced proficiency in Python, with hands-on experience\n  building and scaling backend systems in production\n  environments using tools like Kubernetes, Docker, Airflow,\n  and Spark.\n- Strong knowledge of cloud infrastructure (AWS, S3) and CI/CD\n  practices, with a track record of shipping reliable,\n  maintainable systems.\n- Experience designing APIs and working with distributed data\n  systems and message brokers such as Kafka or RabbitMQ.\n- Comfort working at the intersection of backend engineering\n  and AI — including familiarity with LLMs, GenAI tooling,\n  and machine learning concepts.\n- Experience with status monitoring using cloud-native tools\n  or 3rd party (e.g. Prometheus, Cloudwatch, ...) and LLM\n  traceability\n- Excellent communication and collaboration skills to work\n  effectively in cross-functional teams.\n- Ability to adapt to a fast-paced, dynamic work environment\n  and quickly learn new technologies and techniques.\n- Strong team player (m/f/d) with the ability to work with\n  diverse groups of people in a productive and agile manner\n\nWhy you should join SumUp\n\n- 🌎 Opportunity to work with SumUppers globally on large-scale\n  fintech products used by millions of businesses worldwide,\n  from our Berlin office. This involves an office-first\n  setup\n- 🌈 Commitment to Diversity and Inclusion: be part of a\n  workplace that values and promotes diversity, fostering an\n  inclusive environment where everyone's perspectives are\n  respected and embraced\n- 🚀 Enrolment onto our Virtual Stock Option programme: you\n  will own a stake in SumUp's future success\n- 📚 A dedicated annual L&D budget of €2000 for your individual\n  development, which you can use to attend conferences\n  and/or advancing your career through further education\n- 💶 A corporate pension scheme where we match up to 20% of\n  your contributions\n- 🏖️ Generous time off: enjoy 28 days of paid leave plus\n  public holidays and special leave days\n- 🏋️ Numerous other benefits such as Urban Sports Club\n  subsidy, Kita placement assistance, and subsidised office\n  lunches\n- 🌴 Break4me: 1-month sabbatical after 3 years of service\n- 🔗 Referral Bonus: earn additional rewards by referring\n  talented individuals to join the SumUp team\n\nAbout SumUp\n\nBe empowered to do more that matters.\n\nAt SumUp, we're on a mission to empower small businesses\nacross the globe by providing simple and affordable tools\nthat allow them to thrive. Today, over 4 million businesses\nin 37 markets rely on SumUp as their financial partner to\nmanage payments, finance and customer relationships.\n\nOur commitment to small businesses is reflected in our\ndiverse team of over 3,000 SumUppers from over 90\nnationalities, united by global collaboration and an\ninnovative mindset. Our core values lay the foundation for\nwho we are and what we stand for, shaping our work culture\nand driving our success. We foster inclusivity and a\ncontinuous learning culture, providing a safe space for\npersonal and professional growth. Our differences make us\nunique and strong as we strive to create an environment\nwhere everyone belongs and feels supported, no matter how\nthey identify.\n\nSumUp is proud to be an Equal Employment Opportunity\nemployer, actively seeking and embracing diversity in our\nworkforce. We don't make hiring or employment decisions\nbased on race, colour, religion or religious belief, ethnic\nor national origin, nationality, sex, gender, gender\nidentity, sexual orientation, disability, age or any other\nbasis protected by applicable laws or prohibited by company\npolicy. Our commitment extends beyond recruitment to\ncreating a safe and respectful workplace where harassment of\nany form is strictly prohibited. Discover more about our\nculture and opportunities on our careers website, and follow\nour journey on LinkedIn, Instagram, and TikTok.\n\nJob Application Tip\n\nWe recognise that candidates feel they need to meet 100% of\nthe job criteria in order to apply for a job. Please note\nthat this is only a guide. If you don’t tick every box, it’s\nok too because it means you have room to learn and develop\nyour career at SumUp.\n",
+  "skills_required": [
+    "Distributed systems",
+    "GenAI tooling",
+    "LLM Gateway",
+    "LLM orchestration",
+    "LLM traceability",
+    "MCP (Model Context Protocol)",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect, design, develop and deploy AI solutions and systems in production environments ensuring reliability, high performance and scalability",
+    "Design and build the orchestrator service that coordinates AI components, data flows, and external services for real-time merchant insights",
+    "Develop and maintain scalable ETL pipelines or MCPs that process and sync heterogeneous data (text, images, audio) into the AI system",
+    "Build and optimise the LLM Gateway infrastructure including authentication, rate limiting, load balancing, and vector database management for the RAG system",
+    "Create robust, high-performance APIs handling multimodal data structures and high-volume requests with low-latency reliability",
+    "Implement observability tooling including telemetry, logging, and tracing for auditing and continuous improvement of AI interactions",
+    "Mentor backend engineers on the team, contributing to engineering standards and code reviews",
+    "Collaborate with data scientists, product managers, and stakeholders to bring AI solutions to Customer Support"
+  ],
+  "use_cases": [
+    "AI-powered co-pilot transforming raw merchant data into proactive, real-time business insights for small businesses",
+    "Intelligent operating system for small businesses replacing traditional payments processing",
+    "RAG-based system delivering real-time insights from heterogeneous merchant data",
+    "AI-driven customer support enhancing customer experience and operational efficiency",
+    "Multimodal data processing (text, images, audio) from merchant sources for AI-powered analytics"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "AWS",
+    "Airflow",
+    "CI/CD",
+    "CloudWatch",
+    "Docker",
+    "ETL pipelines",
+    "Kafka",
+    "Kubernetes",
+    "Prometheus",
+    "RabbitMQ",
+    "S3",
+    "Spark",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "GenAI tooling",
+    "LLM Gateway",
+    "LLM orchestration",
+    "LLM traceability",
+    "MCP (Model Context Protocol)",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves building AI systems including\ndesigning an LLM orchestration layer, building an LLM\nGateway with vector database management for RAG, and\ndeploying AI solutions to production. While it's a backend\nengineering role, the core focus is on architecting and\nbuilding the infrastructure that powers LLM-based AI\nproducts (SumUp Edge co-pilot), making it ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM orchestration",
+      "RAG",
+      "LLM Gateway",
+      "MCP (Model Context Protocol)",
+      "GenAI tooling",
+      "LLM traceability"
+    ],
+    "ml": [],
+    "web": [
+      "API design"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Airflow",
+      "Spark",
+      "ETL pipelines",
+      "Kafka",
+      "RabbitMQ"
+    ],
+    "cloud": [
+      "AWS",
+      "S3",
+      "CloudWatch"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Prometheus"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

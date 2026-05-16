@@ -1,0 +1,64 @@
+company:
+  name: Leyton
+  stage: null
+  focus: null
+position:
+  title: Data Scientist
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities:
+  - '_Data Analysis_ : Analyze raw data to assess quality, perform cleansing, and structure it for downstream processing,
+    ensuring data integrity and reliability.'
+  - _Algorithm Development:_ Design accurate and scalable prediction algorithms using advanced machine learning techniques
+    to address complex business challenges and opportunities.
+  - '_Collaboration_: Work closely with cross-functional teams, including engineering and business stakeholders, to bring
+    analytical prototypes to production and drive impactful business outcomes.'
+  - _Insight Generation:_ Generate actionable insights from data analysis to inform business improvements, optimize processes,
+    and maximize return on investment.
+  - _Machine Learning Enablement:_ Collaborate with various stakeholders to understand their needs and provide machine learning
+    solutions that meet their requirements, driving innovation and efficiency across the organization.
+  - _Design Challenge:_ Review and assess proposed designs by teams, providing feedback and proposing optimal solutions to
+    enhance project outcomes and achieve business objectives.
+  - _Roadmap Development:_ Realize the roadmap for new topics and dedicated proof-of-concepts (POCs), overseeing their successful
+    execution and implementation within the organization.
+  - _Quality Assurance:_ Ensure the high quality of design proposed by all teams on DataLab projects, providing guidance and
+    expertise to drive consistency and excellence in project deliverables.
+  - '_Automation_: Automate data collection, aggregation, and visualization processes to produce actionable metrics that drive
+    informed decision-making and operational efficiencies.'
+  - _Team Collaboration:_ Work collaboratively with a diverse team of brilliant collaborators, from interns to lead data scientists,
+    to leverage collective expertise and drive innovation.
+  - Bachelor's degree or equivalent experience in a quantitative field such as Statistics, Mathematics, Computer Science,
+    or Engineering.
+  - 5+ years of experience in Data Science, quantitative analytics, or data modeling, with a proven track record of delivering
+    impactful solutions.
+  - Deep understanding of predictive modeling, machine learning, clustering, and classification techniques, as well as algorithms.
+  - Proficiency in programming languages such as Python, JAVA, Or R, SQL with experience working with Big Data frameworks
+    and visualization tools.
+  - Excellent communication skills and the ability to effectively collaborate with cross-functional teams to drive projects
+    forward and achieve business objectives.
+  use_cases:
+  - Predictive modeling
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - java
+    - python
+    - R
+    domains: []
+    other:
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010097039402'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

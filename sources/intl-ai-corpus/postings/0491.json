@@ -1,0 +1,142 @@
+{
+  "job_id": "intl-ai-corpus-0491",
+  "source": "intl-ai-corpus",
+  "source_ref": "8147545",
+  "source_url": "https://builtin.com/job/principal-software-engineer-ai/8147545",
+  "title": "Principal Software Engineer-AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Thomson Reuters",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-15",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "33,822 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI-powered tax and accounting software",
+  "industries": [],
+  "description": "This posting is for proactive recruitment purposes and may\nbe used to fill current openings or future vacancies within\nour organization.\n\nPrincipal Software Engineer-AI\n\nThomson Reuters is building the AI platform that will power\nthe next decade of tax and accounting products, including\nCoCounsel for Tax and Accounting – a suite of AI‑native\nproducts used by accountants on real client work every day.\nAs a Principal Software Engineer, you will own core backend\nand AI orchestration systems that turn frontier models into\nreliable, production‑grade workflows at scale.\n\nThis role is for the CoCounsel for Tax and Accounting team,\nformed from the recent acquisition of the startup Materia.\n\nWhy this role is different:\n\n- Own the AI backbone: You will be the principal engineer\n  responsible for the backend and orchestration layer\n  powering AI agents, conversations, workspaces, and\n  knowledge base across CoCounsel for Tax and Accounting.\n- Shape the company's AI platform and patterns: Define\n  patterns for building MCP servers, designing agents, novel\n  uses of LLMs, experimentation, and scalable\n  infrastructure. Your decisions will influence multiple\n  product lines, not just a single feature.\n- Work at real production scale: Build and evolve systems that\n  operate over millions of documents, highly structured tax\n  data, ever changing laws, and thousands of concurrent AI\n  interactions from accountants doing time‑sensitive work.\n- Small team, big surface area: Join a tight group of senior\n  engineers and researchers shipping quickly, with direct\n  access to product leadership and customers. Think\n  ownership of a startup with the runway of a public\n  company.\n- Great fit for managers who miss building: This role is\n  intentionally designed for senior engineers and\n  engineering managers who want to move back into a\n  high‑impact IC track. You keep the scope and influence of\n  an EM – driving multi‑team initiatives, setting technical\n  direction, mentoring senior engineers – but spend most of\n  your time in the code and architecture of AI systems\n  instead of in 1:1s and status meetings.\n\nAbout the Role  In this role as a Principal Software\nEngineer-AI you will:\n\nTechnical leadership and cross‑functional influence\n\n- Lead multi‑quarter initiatives that cut across AI, product,\n  and infra (e.g., a new orchestration layer, a low-latency\n  retrieval system, or a unified knowledge base).\n- Mentor staff and senior engineers, raising the bar on system\n  design, code quality, and AI integration practices across\n  the org.\n- Be the expert in new model capabilities, collaborating\n  closely with AI/ML engineers, researchers, designers, and\n  PMs to translate industry improvements into reliable,\n  user‑facing workflows that accountants trust.\n- Help shape the team’s roadmap, technical strategy, and\n  engineering culture – from experimentation practices to\n  testing, rollout, and postmortems.\n\nDesign and own AI‑first backend systems\n\n- Architect and implement backend services (Python, FastAPI,\n  PostgreSQL, AWS, Vercel) that power generative AI agents,\n  complex workflows (e.g., tax filing, advisory, audit), and\n  document‑centric experiences.\n- Build and evolve AI orchestration: routing, tool calling,\n  MCP servers, multi‑step workflows, safety and guardrails,\n  and robust error handling around third‑party LLMs (OpenAI,\n  Anthropic, and others).\n\nScale, reliability, and performance\n\n- Design for high‑throughput, low‑latency AI workloads:\n  caching, queuing, rate‑limiting, model failover, and\n  cost/performance tradeoffs.\n- Work with large‑scale data: millions of documents, retrieval\n  and search, vector stores, and indexing strategies\n  tailored to tax and accounting use cases.\n- Establish and refine SLOs, observability, and incident\n  response for AI systems that must be correct, auditable,\n  and trustworthy in professional workflows.\n\nAbout You:\n\nYou are a fit for the position of Principal Software\nEngineer,AI if your background includes:\n\n- Bachelors Degree in Computer Science, Computer Engineering,\n  Related Field, or Equivalent Experience\n- 8-10+ years of experience in backend development, building\n  scalable web services and APIs.\n- Deep Python expertise and experience with production systems\n  using frameworks like FastAPI (or similar), relational\n  databases (PostgreSQL or equivalent), and a major cloud\n  provider (AWS preferred).\n- Strong background in distributed systems: data modeling, API\n  contracts, observability, resilience patterns, and\n  performance tuning under load.\n- Proven track record owning large, complex projects\n  end‑to‑end: architecture, execution, rollout, and\n  long‑term operation.\n- Excellent communication skills and the ability to partner\n  with product, design, and ML teams in a fast‑moving\n  environment.\n- Demonstrated interest in AI systems and new engineering\n  paradigms: LLMs, agents, retrieval, or similar – you care\n  about what “AI‑native” software should look like.\n\nPreferred Skills & Experience\n\n- Hands‑on experience integrating LLM APIs (e.g., OpenAI,\n  Anthropic) into production applications, including\n  prompt/response management, cost controls, and safety\n  considerations.\n- Experience with AI‑adjacent infrastructure: vector\n  databases, embeddings, semantic search, or custom\n  retrieval pipelines.\n- Opinions and experience around automated testing,\n  reliability, and release practices for systems with\n  nondeterministic model behavior.\n- Prior experience in domains where correctness, auditability,\n  and compliance matter (fintech, tax, legal, or similar),\n  or strong interest in applying AI in those contexts.\n- Many of our strongest candidates have bounced between EM and\n  senior IC roles. If you’ve been managing for the last few\n  years and want to get closer to the hard technical\n  problems again – without giving up scope or career\n  progression – this principal IC role is built for that\n  pivot.\n\nNote if you are looking for roles at other levels, we are\nalso hiring Staff and Senior engineers. Search for \"Materia\nAI\" within all open roles at Thomson Reuters.\n\n#LI-SM2\n\nWhat’s in it For You?\n\n- Hybrid Work Model: We’ve adopted a flexible hybrid working\n  environment (2-3 days a week in the office depending on\n  the role) for our office-based roles while delivering a\n  seamless experience that is digitally and physically\n  connected.\n- Flexibility & Work-Life Balance: Flex My Way is a set of\n  supportive workplace policies designed to help manage\n  personal and professional responsibilities, whether caring\n  for family, giving back to the community, or finding time\n  to refresh and reset. This builds upon our flexible work\n  arrangements, including work from anywhere for up to 8\n  weeks per year, empowering employees to achieve a better\n  work-life balance.\n- Career Development and Growth: By fostering a culture of\n  continuous learning and skill development, we prepare our\n  talent to tackle tomorrow’s challenges and deliver real-\n  world solutions. Our Grow My Way programming and skills-\n  first approach ensures you have the tools and knowledge to\n  grow, lead, and thrive in an AI-enabled future.\n- Industry Competitive Benefits: We offer comprehensive\n  benefit plans to include flexible vacation, two company-\n  wide Mental Health Days off, access to the Headspace app,\n  retirement savings, tuition reimbursement, employee\n  incentive programs, and resources for mental, physical,\n  and financial wellbeing.\n- Culture: Globally recognized, award-winning reputation for\n  inclusion and belonging, flexibility, work-life balance,\n  and more. We live by our values: Obsess over our\n  Customers, Compete to Win, Challenge (Y)our Thinking, Act\n  Fast / Learn Fast, and Stronger Together.\n- Social Impact: Make an impact in your community with our\n  Social Impact Institute. We offer employees two paid\n  volunteer days off annually and opportunities to get\n  involved with pro-bono consulting projects and\n  Environmental, Social, and Governance (ESG) initiatives.\n- Making a Real-World Impact: We are one of the few companies\n  globally that helps its customers pursue justice, truth,\n  and transparency. Together, with the professionals and\n  institutions we serve, we help uphold the rule of law,\n  turn the wheels of commerce, catch bad actors, report the\n  facts, and provide trusted, unbiased information to people\n  all over the world.\n\nOur use of AI within the recruitment process Thomson Reuters\nutilizes Artificial Intelligence (AI) to support parts of\nour global recruitment process. Unless you opt-out, our AI\nsystem will assess the information provided by you and\ncompare it to the requirements listed for the role, and\npresent the result to our recruitment personnel for further\nreview. The AI system acts as a supporting tool, but there\nis always a human making the decision if you will be\nconsidered for the role.\n\nIn the United States, Thomson Reuters offers a comprehensive\nbenefits package to our employees. Our benefit package\nincludes market competitive health, dental, vision,\ndisability, and life insurance programs, as well as a\ncompetitive 401k plan with company match. In addition,\nThomson Reuters offers market leading work life benefits\nwith competitive vacation, sick and safe paid time off, paid\nholidays (including two company mental health days off),\nparental leave, sabbatical leave. These benefits meet or\nexceeds the requirements of paid time off in accordance with\nany applicable state or municipal laws. Finally, Thomson\nReuters offers the following additional benefits: optional\nhospital, accident and sickness insurance paid 100% by the\nemployee; optional life and AD&D insurance paid 100% by the\nemployee; Flexible Spending and Health Savings Accounts;\nfitness reimbursement; access to Employee Assistance\nProgram; Group Legal Identity Theft Protection benefit paid\n100% by employee; access to 529 Plan; commuter benefits;\nAdoption & Surrogacy Assistance; Tuition Reimbursement; and\naccess to Employee Stock Purchase Plan.\n\nThomson Reuters complies with local laws that require\nupfront disclosure of the expected pay range for a position.\nThe base compensation range varies across locations.\n\nEligible office location(s) for this role include one or\nmore of the following: New York City, San Francisco, Los\nAngeles, and/or Irvine, CA; McLean, VA; Washington, DC. The\nbase compensation range for the role in any of those\nlocations is $183,100 USD - $340,000 USD. For any eligible\nUS locations, unless otherwise noted, the base compensation\nrange for this role is $158,900 USD - $295,100 USD.\n\nBase pay is positioned within the range based on several\nfactors including an individual’s knowledge, skills and\nexperience with consideration given to internal equity. Base\npay is one part of a comprehensive Total Reward program\nwhich also includes flexible and supportive benefits and\nother wellbeing programs. This role may also be eligible for\nan Annual Bonus based on a combination of enterprise and\nindividual performance.\n\nAbout Us\n\nThomson Reuters informs the way forward by bringing together\nthe trusted content and technology that people and\norganizations need to make the right decisions. We serve\nprofessionals across legal, tax, accounting, compliance,\ngovernment, and media. Our products combine highly\nspecialized software and insights to empower professionals\nwith the data, intelligence, and solutions needed to make\ninformed decisions, and to help institutions in their\npursuit of justice, truth, and transparency. Reuters, part\nof Thomson Reuters, is a world leading provider of trusted\njournalism and news.\n\nWe are powered by the talents of 26,000 employees across\nmore than 70 countries, where everyone has a chance to\ncontribute and grow professionally in flexible work\nenvironments. At a time when objectivity, accuracy,\nfairness, and transparency are under attack, we consider it\nour duty to pursue them. Sound exciting? Join us and help\nshape the industries that move society forward.\n\nAs a global business, we rely on the unique backgrounds,\nperspectives, and experiences of all employees to deliver on\nour business goals. To ensure we can do that, we seek\ntalented, qualified employees in all our operations around\nthe world regardless of race, color, sex/gender, including\npregnancy, gender identity and expression, national origin,\nreligion, sexual orientation, disability, age, marital\nstatus, citizen status, veteran status, or any other\nprotected classification under applicable law. Thomson\nReuters is proud to be an Equal Employment Opportunity\nEmployer providing a drug-free workplace.\n\nThomson Reuters makes reasonable accommodations for\napplicants with disabilities, including veterans with\ndisabilities, and for sincerely held religious beliefs in\naccordance with applicable law. If you reside in the United\nStates and require an accommodation in the recruiting\nprocess, you may contact our Human Resources Department at\nHR.Leave-Expert@thomsonreuters.com. Disability\naccommodations in the recruiting process may include things\nlike a sign language interpreter, making interview rooms\naccessible, providing assistive technology, or other\nrelevant accommodations. Please note this email is not\nintended for general recruitment questions and we will\npromptly respond to inquiries regarding accommodations. More\ninformation on requesting an accommodation here.\n\nLearn more on how to protect yourself from fraudulent job\npostings here.\n\nMore information about Thomson Reuters can be found on\nthomsonreuters.com\n",
+  "skills_required": [
+    "Anthropic API",
+    "LLMs",
+    "MCP (Model Context Protocol)",
+    "OpenAI API",
+    "RAG (Retrieval Augmented Generation)",
+    "agents",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead multi-quarter initiatives across AI, product, and infrastructure including orchestration layers, retrieval systems, and unified knowledge bases",
+    "Architect and implement backend services powering generative AI agents and complex workflows like tax filing, advisory, and audit",
+    "Build and evolve AI orchestration including routing, tool calling, MCP servers, multi-step workflows, and safety guardrails around LLMs",
+    "Design high-throughput, low-latency AI workloads with caching, queuing, rate-limiting, and model failover strategies",
+    "Work with large-scale data including millions of documents, retrieval systems, vector stores, and indexing strategies",
+    "Establish SLOs, observability, and incident response for AI systems requiring correctness, auditability, and trustworthiness"
+  ],
+  "use_cases": [
+    "AI-native tax and accounting products used by accountants on real client work",
+    "Tax filing assistance through AI agents and workflows",
+    "Advisory and audit support using generative AI and document analysis",
+    "Document-centric experiences for tax professionals analyzing millions of documents",
+    "AI agents and conversational interfaces for accounting workflows",
+    "Knowledge base and retrieval systems for tax laws and regulations"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "AWS",
+    "CI/CD",
+    "Distributed systems",
+    "Docker",
+    "FastAPI",
+    "Kubernetes",
+    "Monitoring",
+    "Observability",
+    "PostgreSQL",
+    "SLOs",
+    "Vercel",
+    "semantic search",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LLMs",
+    "MCP (Model Context Protocol)",
+    "OpenAI API",
+    "RAG (Retrieval Augmented Generation)",
+    "agents",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves building and owning AI orchestration\nsystems, agents, and workflows using LLMs. The engineer is\ndirectly responsible for turning frontier models into\nproduction-grade systems through routing, tool calling, and\nMCP servers - hands-on work with AI models, not just\nsupporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "LLMs",
+      "MCP (Model Context Protocol)",
+      "RAG (Retrieval Augmented Generation)",
+      "agents",
+      "prompt engineering"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [
+      "FastAPI",
+      "Vercel",
+      "APIs"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "vector databases"
+    ],
+    "data": [
+      "semantic search",
+      "Distributed systems"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Monitoring",
+      "Observability",
+      "SLOs"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-0492",
+  "source": "intl-ai-corpus",
+  "source_ref": "8161793",
+  "source_url": "https://builtin.com/job/senior-backend-engineer-employee-ai/8161793",
+  "title": "Senior Backend Engineer - Employee AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Staffbase",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-09",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "315 Employees",
+  "company_stage": "Unicorn",
+  "company_focus": "AI-native employee experience platform",
+  "industries": [],
+  "description": "About Staffbase\n\nWe inspire people to achieve great things together. Our\nmission is to help organizations unlock the power of\ninspirational communication with the first AI-native\nEmployee Experience Platform. Our industry-leading and\naward-winning agentic AI communications channels - intranet,\nemployee app and email solutions - create engaging\nexperiences that connect and empower employees.\n\nHeadquartered in Chemnitz, Germany and New York City, with\noffices in Berlin, London, Sydney, Tokyo, Prague, and\nMinneapolis–St. Paul, our diverse team of 750+ employees\nsupports 2,000+ customers—reaching over 16.4 million\nemployees—in transforming their employee experience. We are\nproud to be a Unicorn company—privately valued at over $1\nbillion—demonstrating strong growth, innovation, and lasting\nimpact in our industry. Together, we’re shaping the future\nof workplace communication.\n\nJoin our dedicated, fast-paced experimentation and\ninnovation unit, where you'll leverage cutting-edge AI and\nLLM technologies. This is an exciting opportunity to develop\nsolutions that genuinely empower communicators and support\nfrontline workers, driving strategic impact and exploring\nthe full potential of new technologies.\n\nOur environment\n\n- Working with skilled and similar-minded professionals in a\n  team that values diversity and inclusivity\n- We aim to create a flexible and agile work environment that\n  promotes the well-being and work-life balance of our\n  employees\n- We believe that team events during working hours play a\n  vital role in building an exceptionally effective team,\n  and we encourage them\n- We are enthusiastic about technology and committed to using\n  it to improve the world\n- We follow the \"You build it, you run it\" approach and take\n  pride in it\n\nWhat you’ll be doing\n\nAI System Development\n\n- Design, develop, and maintain scalable and fault-tolerant\n  backend services that power our AI applications\n- Apply advanced prompt engineering techniques to optimize\n  model performance, manage context windows, and ensure\n  reliable, high-quality responses\n- Implement model integration patterns to connect and\n  orchestrate various external and internal services\n- Develop Agent-to-Agent (A2A) protocol communication\n  strategies for complex multi-agent architectures\n- Implement systems for Managing Conversational Protocols (MCP\n  servers) and Agent-to-Agent (A2A) protocol to handle and\n  maintain long-running, stateful interactions\n\nEngineering & Infrastructure\n\n- Define and implement observability standards for AI\n  applications, including metrics for latency, cost, token\n  usage, drift, and user-perceived quality\n- Implement logging, tracing, and monitoring tools to quickly\n  diagnose and troubleshoot issues in the end-to-end AI\n  pipeline\n- Collaborate with ML Scientists and Data Scientists to\n  transition prototypes and models into production-ready,\n  high-availability services\n- Ensure the security, reliability, and performance of all\n  production systems\n\nCollaboration & Leadership\n\n- Participate in code reviews, architectural discussions, and\n  technical strategy planning\n- Mentor junior engineers and champion best practices in\n  backend development and MLOps\n\nWhat you need to be successful\n\n- 6+ years of professional experience in backend software\n  development.\n- Strong proficiency in Golang and preferably Java/Kotlin\n- Experience with cloud platforms (AWS, GCP, or Azure) and\n  containerization technologies (Docker, Kubernetes)\n\nPreferred experience\n\n- Experience building backend systems designed for complex\n  agentic workflows or long-running conversational states\n- Familiarity with foundational LLM concepts such as\n  retrieval-augmented generation (RAG)\n- Practical experience developing or managing MCP servers\n  (Managing Conversational Protocols). Familiarity with\n  Agent-to-Agent (A2A) communication protocols and multi-\n  agent system design\n- Experience with event-driven architecture and message queues\n  (e.g. Kafka)\n\nWhat you'll get\n\n- Competitive Compensation - we offer attractive salary\n  packages including LTIP (Long Term Incentive Plan)\n- Flexibility - we offer flexible working time models and the\n  option of hybrid work, and support this with a yearly flex\n  work allowance of €1560\n- Recharge - with 31 vacation days annually (incl. one\n  floating holiday), plus pro rata fully paid Fridays off\n  during August\n- Support - we’re offering a company pension scheme\n- Volunteers Day - you’ll get one day off per year for\n  supporting a social project\n",
+  "skills_required": [
+    "Agent-to-Agent protocols",
+    "MCP",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and maintain scalable and fault-tolerant backend services that power AI applications",
+    "Apply advanced prompt engineering techniques to optimize model performance, manage context windows, and ensure high-quality responses",
+    "Implement model integration patterns to connect and orchestrate various external and internal services",
+    "Develop Agent-to-Agent (A2A) protocol communication strategies for complex multi-agent architectures",
+    "Implement systems for Managing Conversational Protocols (MCP servers) and A2A protocol for long-running, stateful interactions",
+    "Define and implement observability standards for AI applications including metrics for latency, cost, token usage, drift, and user-perceived quality",
+    "Collaborate with ML Scientists and Data Scientists to transition prototypes and models into production-ready, high-availability services",
+    "Mentor junior engineers and champion best practices in backend development and MLOps"
+  ],
+  "use_cases": [
+    "Agentic AI communications channels including intranet, employee app, and email solutions",
+    "Multi-agent architectures for complex conversational workflows",
+    "Employee experience platform using AI-native communication tools",
+    "Long-running, stateful conversational interactions for workplace communication",
+    "AI-powered solutions empowering communicators and frontline workers",
+    "Employee engagement and communication through inspirational AI-driven experiences"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Event-driven architecture",
+    "GCP",
+    "Kafka",
+    "Kubernetes",
+    "Logging",
+    "MLOps",
+    "Monitoring",
+    "Observability",
+    "Tracing"
+  ],
+  "frameworks_mentioned": [
+    "Agent-to-Agent protocols",
+    "MCP",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Golang",
+    "Java",
+    "Kotlin"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a backend engineering role focused on building\ninfrastructure and services that power AI applications. The\nengineer works ON prompt engineering, model integration, and\nimplementing multi-agent architectures (A2A protocols, MCP\nservers) rather than training or fine-tuning models\nthemselves. While hands-on with AI systems, the work centers\non orchestration, observability, and production deployment\nof AI capabilities built by others.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "Prompt engineering",
+      "RAG",
+      "MCP",
+      "Agent-to-Agent protocols",
+      "Multi-agent systems"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Kafka",
+      "Event-driven architecture"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Observability",
+      "MLOps",
+      "Logging",
+      "Tracing",
+      "Monitoring"
+    ],
+    "languages": [
+      "Golang",
+      "Java",
+      "Kotlin"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

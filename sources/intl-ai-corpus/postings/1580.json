@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-1580",
+  "source": "intl-ai-corpus",
+  "source_ref": "8530120",
+  "source_url": "https://builtin.com/job/ai-engineer-contract/8530120",
+  "title": "AI Engineer (Contract)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "10a Labs",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-18",
+  "publication_month": "2026-02",
+  "contract_type": null,
+  "work_type_raw": "CONTRACTOR",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "28 Employees",
+  "company_stage": null,
+  "company_focus": "AI safety and threat intelligence platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Analytics",
+    "Consulting",
+    "Cybersecurity"
+  ],
+  "description": "About 10a Labs: 10a Labs is the safety and threat-\nintelligence layer trusted by frontier AI labs, AI unicorns,\nFortune 10 companies, and leading global technology\nplatforms. Our adversarial red teaming, model evaluations,\nand intelligence collection enable engineering, safety, and\nsecurity teams to stay ahead of evolving threats and deploy\nAI systems safely.\n\nAbout the role: 10a Labs is seeking an AI Engineer for a\nfour-month contract (potential to extend) to partner closely\nwith engineers and internal teams to design and implement\ncutting-edge AI solutions. You’ll build practical systems\nthat leverage modern language models that will be applied to\nreal-world problems.\n\nThis role blends applied AI expertise, strong engineering\nfundamentals, and creative problem-solving. You’ll prototype\nquickly, iterate rapidly, and translate emerging model\ncapabilities into reliable, production-ready systems.\n\nIn this role, you will:\n\n- Design and implement AI-driven systems using AI APIs in\n  creative and smart ways.\n- Build prototypes and production workflows that leverage\n  language models for tasks such as classification,\n  evaluation, and synthetic data generation.\n- Integrate AI APIs, vector stores, and supporting\n  infrastructure to enable scalable applications.\n- Experiment with and evaluate both hosted and open-source\n  models where appropriate.\n- Partner with product managers, analysts, and technical\n  writers to translate complex systems into well-defined\n  requirements and clear external materials.\n- Provide technical feedback to product and engineering teams\n  to improve system quality and performance.\n\nWe’re looking for someone who:\n\n- Has experience in AI engineering, software engineering, or\n  applied ML roles.\n- Is highly comfortable using modern coding copilots and\n  model-assisted development tools (e.g., Claude Code,\n  Codex, or similar).\n- Has hands-on experience working with model provider APIs.\n- Is scrappy, creative, and able to iterate quickly in\n  ambiguous problem spaces.\n- Operates with autonomy and strong problem-solving skills,\n  managing multiple projects simultaneously.\n- Is collaborative, detail-oriented, and thrives in fast-\n  moving, high-impact environments.\n- Has experience with end-to-end ownership of complex\n  technical challenges.\n\nRequirements:\n\n- At least 1+ year experience in AI engineering or research,\n  or 3-5 years of experience in software engineering or\n  similar roles.\n- Strong applied AI experience, including working knowledge of\n  AI systems and AI APIs or open-source models.\n- Experience with vector databases (e.g., Pinecone, Weaviate,\n  FAISS, Milvus) and retrieval-augmented generation (RAG)\n  architectures.\n",
+  "skills_required": [
+    "Claude Code",
+    "Codex",
+    "LLM APIs",
+    "OpenAI/Anthropic APIs",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement AI-driven systems using AI APIs in creative and smart ways",
+    "Build prototypes and production workflows that leverage language models for tasks such as classification, evaluation, and synthetic data generation",
+    "Integrate AI APIs, vector stores, and supporting infrastructure to enable scalable applications",
+    "Experiment with and evaluate both hosted and open-source models where appropriate",
+    "Partner with product managers, analysts, and technical writers to translate complex systems into well-defined requirements and clear external materials",
+    "Provide technical feedback to product and engineering teams to improve system quality and performance"
+  ],
+  "use_cases": [
+    "AI system safety evaluations and red teaming",
+    "Threat intelligence collection and analysis",
+    "Model evaluation and classification systems",
+    "Synthetic data generation for AI testing",
+    "Adversarial testing and vulnerability assessment"
+  ],
+  "tools_mentioned": [
+    "FAISS",
+    "Milvus",
+    "Pinecone",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "Claude Code",
+    "Codex",
+    "LLM APIs",
+    "OpenAI/Anthropic APIs",
+    "RAG"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on building of AI-driven systems\nusing language models, implementing RAG architectures, and\nintegrating AI APIs for real-world applications. The\nengineer will work directly on prototyping and production\nworkflows that leverage LLMs for classification, evaluation,\nand synthetic data generation.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI/Anthropic APIs",
+      "RAG",
+      "LLM APIs",
+      "Claude Code",
+      "Codex"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "FAISS",
+      "Milvus"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

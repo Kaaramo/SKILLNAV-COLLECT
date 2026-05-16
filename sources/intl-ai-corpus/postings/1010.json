@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-1010",
+  "source": "intl-ai-corpus",
+  "source_ref": "7957789",
+  "source_url": "https://builtin.com/job/junior-ai-platform-engineer-supernal/7957789",
+  "title": "Junior AI Platform Engineer - Supernal",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Infinity Constellation",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-01",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "17 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI employees for SMBs with agentic workflows",
+  "industries": [
+    "Artificial Intelligence",
+    "Financial Services"
+  ],
+  "description": "Location: Remote (Global)\n\nCompany: Supernal\n\nType: Contractor\n\nRate: $30/h\n\nAbout Supernal\n\nAt Supernal, we help SMBs hire their first AI employee. Our\nAI teammates are built with intelligent, agentic workflows\nand deployed on our proprietary platform, with orchestration\npowered by N8n. We don’t build tools—we deliver working,\nvalue-generating AI Employees.\n\nOur AI Platform Engineers, known internally as Masons, are\nthe builders behind these systems. Now, we’re looking for a\nSenior Mason to help lead this craft.\n\nThe Role\n\nAs a Junior AI Platform Engineer, you’ll be on the\nfrontlines of our most critical client implementations.\nYou’ll design and build intelligent agentic workflows that\npower real business outcomes. But your role goes far beyond\nindividual contribution.\n\nThis is a hands-on role. You’re not just reviewing PRs or\nsitting in meetings—you’re in the weeds, building systems,\nsolving gnarly edge cases, and showing others how it’s done.\n\nResponsibilities\n\n- Build advanced AI agent workflows on N8n and Supernal’s\n  proprietary platform\n- Lead engineering delivery for our highest-priority customers\n- Own technical architecture decisions for agentic systems,\n  including tool usage, RAG design, API orchestration, and\n  task decomposition\n- Define, document, and evolve our engineering best practices\n- Review technical work for quality, scalability, and\n  maintainability\n- Contribute to internal tooling and system improvements that\n  accelerate agent deployment\n\nYou Might Be a Fit If You…\n\n- Have 4+ years of experience as a software engineer,\n  automation engineer, or technical systems builder\n- Have deep experience with agentic architectures, workflow\n  automation platforms (N8n, Zapier, Make), and APIs\n- Understand prompt engineering, function-calling, retrieval-\n  augmented generation (RAG), and LLM orchestration\n- Are passionate about systems thinking and designing\n  workflows that can scale\n- Are an elite debugger and systems optimizer—you can reason\n  through edge cases, flakey agents, and API chaos\n- Can balance hands-on work with technical leadership\n- Are comfortable in a fast-paced, ambiguous startup\n  environment and thrive under autonomy\n- Have a low-ego, high-integrity approach to team\n  collaboration\n\nWhat Success Looks Like\n\n- Supernal’s AI Employees are consistently high-performing,\n  robust, and scalable\n- Our technical best practices are living, documented, and\n  widely adopted\n- Engineering quality improves even as the team rapidly scales\n",
+  "skills_required": [
+    "LLM orchestration",
+    "RAG",
+    "agentic architectures",
+    "function-calling",
+    "prompt engineering",
+    "workflow automation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build advanced AI agent workflows on N8n and Supernal's proprietary platform",
+    "Lead engineering delivery for highest-priority customers",
+    "Own technical architecture decisions for agentic systems including tool usage, RAG design, API orchestration, and task decomposition",
+    "Define, document, and evolve engineering best practices",
+    "Review technical work for quality, scalability, and maintainability",
+    "Contribute to internal tooling and system improvements that accelerate agent deployment"
+  ],
+  "use_cases": [
+    "AI employees for SMBs to automate business operations",
+    "Agentic workflows powered by LLM orchestration",
+    "RAG-based systems for knowledge retrieval and task completion",
+    "Function-calling and API orchestration for business process automation",
+    "Scalable agent systems for real business outcomes"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "N8n",
+    "REST"
+  ],
+  "frameworks_mentioned": [
+    "LLM orchestration",
+    "RAG",
+    "agentic architectures",
+    "function-calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves building advanced AI agent workflows using\nN8n and designing agentic systems with RAG, function-\ncalling, and LLM orchestration. This is hands-on work\ndirectly implementing AI systems, not supporting\ninfrastructure for others.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "agentic architectures",
+      "prompt engineering",
+      "function-calling",
+      "RAG",
+      "LLM orchestration"
+    ],
+    "ml": [],
+    "web": [
+      "APIs",
+      "REST"
+    ],
+    "databases": [],
+    "data": [
+      "N8n"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "workflow automation"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

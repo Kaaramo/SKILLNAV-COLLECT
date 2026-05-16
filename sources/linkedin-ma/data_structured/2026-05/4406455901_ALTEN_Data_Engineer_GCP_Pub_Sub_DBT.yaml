@@ -1,0 +1,41 @@
+company:
+  name: ALTEN
+  stage: null
+  focus: null
+position:
+  title: Data Engineer GCP (Pub/Sub, DBT)
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - bigquery
+    - postgresql
+    data:
+    - dbt
+    - sql
+    cloud:
+    - gcp
+    ops:
+    - ci/cd
+    - docker
+    - gitlab ci
+    languages:
+    - R
+    domains: []
+    other:
+    - agile
+    - Git
+    - Linux
+    - scrum
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4406455901'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

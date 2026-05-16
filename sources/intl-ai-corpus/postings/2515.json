@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-2515",
+  "source": "intl-ai-corpus",
+  "source_ref": "8563664",
+  "source_url": "https://builtin.com/job/applied-ai-engineer-z-rich/8563664",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "blp",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "74 Employees",
+  "company_stage": "Scaleup",
+  "company_focus": "Agentic AI for ERP automation serving global enterprises",
+  "industries": [
+    "Artificial Intelligence",
+    "Logistics",
+    "Software",
+    "Automation"
+  ],
+  "description": "Join BLP Digital — The #1 Solution for ERP Automation\n\nBLP Digital is redefining ERP automation with agentic AI.\nSpun out of ETH Zurich and HSG, we build AI agents that\nautomate finance, procurement, logistics, sales, and more\nfor some of the world's largest enterprises. We solve real\nenterprise problems with cutting-edge technology and a\nstrong sense of ownership.\n\nOur solution is live in 40+ countries, used by 20,000+ daily\nactive users, and automates 70,000+ processes every day,\nincluding for Fortune 500 companies. As one of Switzerland's\nfastest growing SaaS scaleups, our success stems from deep\nexpertise in technology and business processes, delivering a\nproduct with outstanding product to market fit, proven by a\ngrowing global customer base.\n\nWe are just getting started. Ready to build the future? Join\nBLP Digital today.\n\nAbout the position\n\nWe're giving you the keys to the machine. As our Applied AI\nEngineer, you'll have a founder-level mandate to build and\nship AI-powered internal tools that make our hiring, finance\nand ops workflows 10x faster — not 10% faster. You'll work\nat the frontier of what's possible with LLMs, AI agents, and\nemerging AI tooling, and apply it where it matters most:\ninside our own company.\n\nKey Responsibilities\n\n- Build and ship AI-powered internal tools fast — we're\n  talking days and weeks, not quarters\n- Evaluate, integrate, and chain the latest AI models, APIs,\n  and frameworks (LLMs, agent frameworks, embedding\n  pipelines, AI coding tools) into production-ready internal\n  solutions\n- Create compounding leverage — every tool you build should\n  free up hours across the entire company\n- Write clean, maintainable code that integrates with our\n  existing systems — APIs, databases, third-party services —\n  and doesn't break at scale\n- Own your deployments end-to-end: build it, test it, ship it,\n  monitor it — and build it well enough that it runs\n  reliably without babysitting\n\nRequirements\n\n- Technical background with real building experience — CS\n  degree, bootcamp, self-taught, we don't care as long as\n  you've shipped things that work\n- You've built with modern AI tooling (LLMs, AI coding\n  assistants, workflow automation) and you're obsessed with\n  what's coming next\n- Startup or entrepreneurial DNA — you've either founded\n  something, built an internal tool that became critical\n  infra, or hacked together solutions that people actually\n  used\n- You move fast, communicate clearly, and love collaborating\n  with non-technical teams to understand their pain points\n  and turn them into elegant, automated solutionsFluency in\n  English, German is a plus\n- Bonus: experience with tools like Make, n8n, Retool,\n  Supabase, or similar — but honestly, we care more about\n  your ability to learn any tool in a weekend\n\nBenefits\n\n- Solve real problems, fast. Join a high-growth deep-tech\n  startup tackling real-world challenges for global industry\n  leaders.\n- Build from zero to one. Take ownership of our internal\n  tooling landscape — shaping its foundations and direction\n  from the ground up.\n- Opportunities to grow. You're controlling your personal\n  development and career trajectory in a rapidly growing,\n  internationally expanding startup\n- Exceptional colleagues. You'll be growing alongside\n  individuals from exceptional academic backgrounds and\n  careers\n",
+  "skills_required": [
+    "AI agents",
+    "AI coding tools",
+    "Agent frameworks",
+    "Embedding pipelines",
+    "LLMs",
+    "Make (automation)",
+    "Retool",
+    "Workflow automation",
+    "n8n"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and ship AI-powered internal tools rapidly (days/weeks, not quarters)",
+    "Evaluate, integrate, and chain the latest AI models, APIs, and frameworks into production-ready internal solutions",
+    "Create internal tools that generate compounding leverage across hiring, finance, and ops workflows",
+    "Write clean, maintainable code integrating with existing APIs, databases, and third-party services",
+    "Own deployments end-to-end: build, test, ship, and monitor for reliable autonomous operation",
+    "Collaborate with non-technical teams to identify pain points and deliver automated solutions"
+  ],
+  "use_cases": [
+    "Automating internal hiring workflows with AI agents",
+    "Automating internal finance and ops workflows",
+    "Building AI-powered internal productivity tools",
+    "Chaining LLMs and agent frameworks for internal process automation",
+    "ERP automation via agentic AI for enterprise customers"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "Docker",
+    "REST APIs",
+    "Supabase"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "AI coding tools",
+    "Agent frameworks",
+    "Embedding pipelines",
+    "LLMs"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and shipping AI-powered\ninternal tools using LLMs, AI agents, and AI frameworks. The\nengineer will evaluate, integrate, and chain AI models,\nAPIs, and agent frameworks into production solutions —\nhands-on work with AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "AI agents",
+      "Agent frameworks",
+      "Embedding pipelines",
+      "AI coding tools"
+    ],
+    "ml": [],
+    "web": [
+      "APIs",
+      "REST APIs"
+    ],
+    "databases": [
+      "Supabase"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Make (automation)",
+      "n8n",
+      "Retool",
+      "Workflow automation"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

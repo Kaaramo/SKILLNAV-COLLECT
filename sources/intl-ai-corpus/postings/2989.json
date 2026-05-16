@@ -1,0 +1,160 @@
+{
+  "job_id": "intl-ai-corpus-2989",
+  "source": "intl-ai-corpus",
+  "source_ref": "9096373",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/9096373",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ecolab",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-20",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "29,154 Employees",
+  "company_stage": "Public",
+  "company_focus": "Water, hygiene, and infection prevention solutions for\nenterprises",
+  "industries": [],
+  "description": "Role Summary\n\nAs a Senior AI Engineer, you will design, build, deploy, and\nsupport production-grade GenAI and agentic AI solutions that\nintegrate large language models (LLMs), retrieval-based\npatterns, APIs, and enterprise workflows. You will play a\nhands-on engineering role in delivering scalable, reliable,\nand maintainable AI-powered product capabilities, while\npartnering closely with Lead AI Engineers, Team Leads,\narchitects, and cross-functional product teams.\n\nThis role is ideal for an engineer with strong technical\ndepth in LLM-powered application development, RAG, and\ncloud-native AI delivery, who can independently implement\nsolution components, contribute to engineering standards,\nand help operationalize AI systems in real business\nenvironments.\n\nKey Responsibilities\n\n- Design, develop, test, and deploy LLM-powered application\n  components and AI-enabled services for enterprise use\n  cases\n- Build and optimize retrieval-augmented generation (RAG)\n  pipelines, including document ingestion, chunking,\n  embeddings, retrieval strategies, and response grounding\n- Implement agentic AI workflows using orchestration\n  frameworks and reusable design patterns for task\n  execution, tool usage, and context handling\n- Develop AI-enabled APIs and backend services using\n  technologies such as Python, FastAPI, Azure Functions,\n  containerized services, and REST-based integration\n  patterns (or equivalent platforms and frameworks)\n- Work with Azure OpenAI, Azure AI Studio, Semantic Kernel,\n  LangChain, AutoGen, Azure AI Search, or equivalent tools\n  to build scalable GenAI solutions\n- Collaborate with Lead AI Engineers and architects to\n  translate solution designs into robust technical\n  implementations\n- Integrate AI services with enterprise systems, APIs,\n  workflow platforms, and downstream applications\n- Implement logging, tracing, monitoring, and basic\n  operational controls using tools such as Application\n  Insights, OpenTelemetry, Azure Monitor, Datadog, New\n  Relic, or equivalent observability platforms\n- Participate in design reviews, code reviews, testing, and\n  release activities to maintain quality and engineering\n  discipline\n- Contribute to reusable assets such as prompt patterns,\n  orchestration templates, shared components, developer\n  utilities, and engineering accelerators\n- Troubleshoot production issues, improve reliability, and\n  support continuous improvement of deployed AI capabilities\n- Stay current with advancements in LLM tooling, agent\n  frameworks, prompt engineering, retrieval approaches, and\n  applied AI engineering practices\n\nRequired Qualifications\n\n- 5 to 8+ years of experience in software engineering, AI/ML\n  engineering, or AI solution delivery, including hands-on\n  work in building and deploying intelligent applications\n- Practical experience delivering GenAI, LLM-powered, or AI-\n  enabled solutions in development, pilot, or production\n  environments\n- Strong technical foundation in Python and modern backend\n  engineering patterns, with experience building APIs,\n  services, and application components\n- Hands-on experience with LLM platforms and AI development\n  tools such as Azure OpenAI, Azure AI Studio, OpenAI API,\n  AWS Bedrock, Google Vertex AI, or equivalent\n- Experience working with orchestration frameworks such as\n  Semantic Kernel, LangChain, AutoGen, or equivalent\n  approaches for prompt workflows, tool calling, and agent\n  coordination\n- Strong working knowledge of retrieval-augmented generation\n  (RAG), embeddings, vector search, and grounding patterns\n  using platforms such as Azure AI Search, Pinecone,\n  Weaviate, FAISS, or equivalent\n- Experience building and deploying cloud-native AI services\n  using tools such as Azure Functions, Azure Container Apps,\n  FastAPI, Docker, GitHub, Azure DevOps, or equivalent\n  engineering and deployment platforms\n- Solid understanding of CI/CD, containerization, automated\n  testing, and secure deployment practices for modern AI-\n  enabled applications\n- Familiarity with observability and operational tooling such\n  as Application Insights, OpenTelemetry, Azure Monitor,\n  Datadog, or New Relic, or equivalent monitoring platforms\n- Experience integrating AI services with REST APIs,\n  enterprise workflows, backend systems, or downstream\n  business applications\n- Strong problem-solving skills and ability to translate\n  solution requirements into well-structured technical\n  implementations\n- Strong ownership mindset across the SDLC, including design,\n  build, testing, deployment, support, and continuous\n  improvement\n- Good collaboration and communication skills, with the\n  ability to work effectively with engineers, architects,\n  product owners, and platform teams\n\nPreferred Qualifications\n\n- Experience implementing agentic AI workflows involving\n  multi-step reasoning, tool orchestration, structured\n  prompting, or reusable workflow patterns\n- Exposure to Model Context Protocol (MCP), agent-to-agent\n  (A2A) interaction patterns, or similar approaches to\n  context exchange and distributed agent communication\n- Familiarity with Microsoft AI Foundry, Azure Machine\n  Learning, Azure AI / Copilot Studio, or equivalent\n  enterprise AI experimentation and solution development\n  platforms\n- Experience with enterprise integrations, including workflow\n  tools, API management layers, business systems, or event-\n  driven architectures\n- Experience contributing to reusable GenAI accelerators,\n  prompt libraries, orchestration templates, internal\n  developer tooling, or shared engineering utilities\n- Familiarity with AI governance, safety, evaluation, and\n  cost-management practices, including token usage\n  awareness, prompt safety, and quality monitoring\n- Working knowledge of TypeScript or C#, in addition to\n  Python, for integration into broader enterprise technology\n  stacks\n- Experience operating in a build-own-operate product\n  environment with expectations around supportability,\n  reliability, and iterative enhancement\n- Ability to clearly communicate technical decisions,\n  implementation trade-offs, and design considerations to\n  both technical and non-technical stakeholders\n",
+  "skills_required": [
+    "Agentic AI workflows",
+    "AutoGen",
+    "Azure OpenAI",
+    "LangChain",
+    "MCP (Model Context Protocol)",
+    "OpenAI API",
+    "Prompt Engineering",
+    "RAG",
+    "Semantic Kernel"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, test, and deploy LLM-powered application components and AI-enabled services for enterprise use cases",
+    "Build and optimize RAG pipelines including document ingestion, chunking, embeddings, retrieval strategies, and response grounding",
+    "Implement agentic AI workflows using orchestration frameworks for task execution, tool usage, and context handling",
+    "Develop AI-enabled APIs and backend services using Python, FastAPI, Azure Functions, and containerized services",
+    "Integrate AI services with enterprise systems, APIs, workflow platforms, and downstream applications",
+    "Implement logging, tracing, monitoring, and operational controls using observability platforms",
+    "Contribute to reusable assets such as prompt patterns, orchestration templates, and engineering accelerators",
+    "Troubleshoot production issues, improve reliability, and support continuous improvement of deployed AI capabilities"
+  ],
+  "use_cases": [
+    "Enterprise GenAI-powered product capabilities and intelligent applications",
+    "Retrieval-augmented generation for document search and grounded response generation",
+    "Agentic AI workflows for automated task execution and tool orchestration",
+    "AI-enabled API and backend services integrated with enterprise workflows",
+    "Enterprise system integration connecting AI services to business applications"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "Application Insights",
+    "Azure",
+    "Azure AI Search",
+    "Azure AI Studio",
+    "Azure Container Apps",
+    "Azure DevOps",
+    "Azure Functions",
+    "Azure Machine Learning",
+    "Azure Monitor",
+    "CI/CD",
+    "Datadog",
+    "Docker",
+    "FAISS",
+    "FastAPI",
+    "Google Vertex AI",
+    "OpenTelemetry",
+    "Pinecone",
+    "REST APIs",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI workflows",
+    "AutoGen",
+    "Azure OpenAI",
+    "LangChain",
+    "MCP (Model Context Protocol)",
+    "OpenAI API",
+    "Prompt Engineering",
+    "RAG",
+    "Semantic Kernel"
+  ],
+  "languages_programming": [
+    "C#",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building, deploying, and\noptimizing GenAI and agentic AI systems including LLM-\npowered applications, RAG pipelines, and agentic workflows.\nThe engineer will hands-on implement solution components\nusing LLM orchestration frameworks, retrieval patterns, and\ncloud-native AI delivery — clearly working ON AI systems\nrather than just supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "AutoGen",
+      "Semantic Kernel",
+      "RAG",
+      "Prompt Engineering",
+      "Agentic AI workflows",
+      "MCP (Model Context Protocol)",
+      "Azure OpenAI",
+      "OpenAI API"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [
+      "Azure AI Search",
+      "Pinecone",
+      "Weaviate",
+      "FAISS"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure",
+      "AWS Bedrock",
+      "Google Vertex AI",
+      "Azure AI Studio",
+      "Azure Machine Learning"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "OpenTelemetry",
+      "Datadog",
+      "Azure Monitor",
+      "Application Insights",
+      "Azure DevOps",
+      "Azure Functions",
+      "Azure Container Apps"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "C#"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

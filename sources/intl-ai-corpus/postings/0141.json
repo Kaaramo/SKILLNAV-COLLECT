@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-0141",
+  "source": "intl-ai-corpus",
+  "source_ref": "7149858",
+  "source_url": "https://builtin.com/job/ai-ml-engineer/7149858",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Standard Template Labs",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-24",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "15 Employees",
+  "company_stage": "stealth-mode",
+  "company_focus": "AI-native IT Service and Configuration Management",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "Standard Template Labs is a stealth-mode, AI-native startup\nreimagining the future of IT Service and Configuration\nManagement. Backed by leading investors, we're leveraging\nAI, graph-based architecture, and exceptional design to\ntransform how enterprises manage and engage with their\ntechnology ecosystems.\n\nAbout the Role\n\nOur team is currently seeking AI Engineers that will design,\nbuild, and deploy machine learning systems that form the\nintelligence layer of our ITSM platform. You will work on\nproblems such as natural language understanding of IT\ntickets, dynamic knowledge extraction, intelligent workflow\nautomation, and predictive insights from complex IT\ninfrastructure data. This is a hands-on engineering role\nwith the opportunity to define the AI foundation of a\ncompany from day one.\n\nResponsibilities\n\n- Research, prototype, and productionize machine learning\n  models for ITSM use cases (ticket triage, incident\n  prediction, workflow recommendations, CMDB inference).\n- Build scalable training and inference pipelines that\n  integrate seamlessly into the core platform.\n- Experiment with LLMs, embeddings, and retrieval-augmented\n  generation (RAG) for IT knowledge and workflow automation.\n- Partner with engineers and product managers to define AI-\n  first features that differentiate our platform.\n- Evaluate performance, optimize models, and ensure\n  reliability, scalability, and cost-efficiency of AI\n  systems.\n- Stay current with advances in machine learning, LLMs, and AI\n  infrastructure, and apply them pragmatically.\n\nQualifications\n\n- Bachelor’s or Master’s in Computer Science, AI/ML, or\n  related field; PhD is a plus.\n- Strong software engineering fundamentals (Python preferred)\n  and experience with ML frameworks such as PyTorch or\n  TensorFlow.\n- Experience with one or more of: natural language processing\n  (NLP), large language models (LLMs), information\n  retrieval, graph ML, or time-series forecasting.\n- Understanding of modern MLOps practices: model versioning,\n  deployment, monitoring, and lifecycle management.\n- Comfort working in a fast-paced startup environment with\n  end-to-end ownership.\n- Bonus: experience applying AI in enterprise software or ITSM\n  contexts.\n\nWhat We Offer\n\n- Build foundational product features for an AI-first\n  enterprise platform\n- The opportunity to take ownership of critical systems that\n  scale to millions of users\n- A culture that values craftsmanship, autonomy, and technical\n  excellence\n- Competitive compensation, equity, and benefits package\n- Work from our Flatiron District, Manhattan office, where\n  you’ll be side-by-side with the founding team in a\n  supportive, collaborative setting. Our team works on-site\n  five days a week, growing and building together, and the\n  location is easy to reach with plenty of public\n  transportation options.\n\nAs an equal opportunity employer, we don’t tolerate\ndiscrimination or harassment of any kind. Whether that’s\nbased on race, ethnicity, age, gender identity, citizenship,\nreligion, sexual orientation, disability, pregnancy, veteran\nstatus or any other protected characteristic as outlined by\nfederal, state or local laws. The reasonably estimated\nyearly salary for this role at is: $160,000—$230,000 USD.\n",
+  "skills_required": [
+    "LLMs",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "embeddings",
+    "time-series forecasting"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Research, prototype, and productionize machine learning models for ITSM use cases including ticket triage, incident prediction, workflow recommendations, and CMDB inference",
+    "Build scalable training and inference pipelines that integrate seamlessly into the core platform",
+    "Experiment with LLMs, embeddings, and retrieval-augmented generation (RAG) for IT knowledge and workflow automation",
+    "Partner with engineers and product managers to define AI-first features that differentiate the platform",
+    "Evaluate performance, optimize models, and ensure reliability, scalability, and cost-efficiency of AI systems",
+    "Stay current with advances in machine learning, LLMs, and AI infrastructure and apply them pragmatically"
+  ],
+  "use_cases": [
+    "Natural language understanding and processing of IT support tickets for automated triage and routing",
+    "Dynamic knowledge extraction from IT infrastructure data to build and maintain configuration management databases",
+    "Intelligent workflow automation that recommends and executes IT service management processes based on historical patterns",
+    "Predictive insights from complex IT infrastructure data for incident forecasting and proactive issue resolution",
+    "IT ticket classification and prioritization using machine learning models to improve service desk efficiency"
+  ],
+  "tools_mentioned": [
+    "MLOps",
+    "model deployment",
+    "model monitoring",
+    "model versioning"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "embeddings",
+    "time-series forecasting"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building and deploying AI systems -\nthe responsibilities explicitly include \"research,\nprototype, and productionize machine learning models\" and\n\"experiment with LLMs, embeddings, and retrieval-augmented\ngeneration (RAG).\" The engineer is directly working on\nmodels, training/inference pipelines, and optimization, not\njust supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "embeddings",
+      "RAG"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "time-series forecasting"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "MLOps",
+      "model versioning",
+      "model deployment",
+      "model monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP",
+      "information retrieval",
+      "graph ML"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

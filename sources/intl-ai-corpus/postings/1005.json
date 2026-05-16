@@ -1,0 +1,131 @@
+{
+  "job_id": "intl-ai-corpus-1005",
+  "source": "intl-ai-corpus",
+  "source_ref": "7952112",
+  "source_url": "https://builtin.com/job/staff-sre-agentic-ai/7952112",
+  "title": "Staff SRE, Agentic AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Netskope",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-01",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,479 Employees",
+  "company_stage": null,
+  "company_focus": "Cloud, network, and data security platform",
+  "industries": [
+    "Cloud",
+    "Security",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "About Netskope\n\nToday, there's more data and users outside the enterprise\nthan inside, causing the network perimeter as we know it to\ndissolve. We realized a new perimeter was needed, one that\nis built in the cloud and follows and protects data wherever\nit goes, so we started Netskope to redefine Cloud, Network\nand Data Security.\n\nSince 2012, we have built the market-leading cloud security\ncompany and an award-winning culture powered by hundreds of\nemployees spread across offices in Santa Clara, St. Louis,\nBangalore, London, Paris, Melbourne, Taipei, and Tokyo. Our\ncore values are openness, honesty, and transparency, and we\npurposely developed our open desk layouts and large meeting\nspaces to support and promote partnerships, collaboration,\nand teamwork. From catered lunches and office celebrations\nto employee recognition events and social professional\ngroups such as the Awesome Women of Netskope (AWON), we\nstrive to keep work fun, supportive and interactive.  Visit\nus at Netskope Careers. Please follow us on LinkedIn and\nTwitter@Netskope.\n\nAbout the role:\n\nPlease note, this team is hiring across all levels and\ncandidates are individually assessed and appropriately\nleveled based upon their skills and experience.\n\nAs a SRE MLOps, you will be critical to deploying and\nmanaging cutting-edge infrastructure crucial for AI/ML\noperations, and you will collaborate with AI/ML engineers\nand researchers to develop a robust CI/CD pipeline that\nsupports safe and reproducible experiments. Your expertise\nwill also extend to setting up and maintaining monitoring,\nlogging, and alerting systems to oversee extensive training\nruns and client-facing APIs. You will ensure that training\nenvironments are optimally available and efficiently managed\nacross multiple clusters, enhancing our containerization and\norchestration systems with advanced tools like Docker and\nKubernetes.\n\nWhat’s in it for you\n\nYou will be critical to deploying and managing cutting-edge\ninfrastructure for AI/ML operations. This means you won't\njust maintain existing systems; you will be building the\nfoundational technology that powers our next generation of\nintelligent products.Your role is crucial to bridging the\ngap between research and production. If you thrive on\nsolving complex distributed systems challenges and\nmaximizing the efficiency of high-stakes AI workloads, this\nis the environment for you.\n\nWhat you will be doing\n\n- Work closely with AI/ML engineers and researchers to\n  participate in the designing and architecture of AI ML\n  Applications for scale and reliability. Design and deploy\n  a CI/CD pipeline that ensures safe and reproducible\n  experiments.\n- Involve in production troubleshooting of AI ML Application\n  code as well as infrastructure configurations.\n- Set up and manage monitoring, logging, and alerting systems\n  for extensive training runs and client-facing APIs.\n- Ensure training environments are consistently available and\n  prepared across multiple clusters.\n- Develop and manage containerization and orchestration\n  systems utilizing tools such as Docker and Kubernetes.\n- Operate and oversee large Kubernetes clusters with GPU\n  workloads.\n- Improve reliability, quality, and time-to-market of our\n  suite of software solutions\n- Measure and optimize system performance, with an eye toward\n  pushing our capabilities forward, getting ahead of\n  customer needs, and innovating for continual improvement\n- Provide primary operational support and engineering for\n  multiple large-scale distributed software applications\n\nRequired skills and experience\n\n- 8+ years of professional experience building core\n  infrastructure systems.\n- Hands-on experience with core model training principles and\n  major frameworks like PyTorch and Hugging Face\n  Transformers\n- Familiarity with LLM development, deployment, and\n  optimization techniques (e.g., TensorRT).\n- Familiarity with high-performance, large-scale ML systems\n  and their unique infrastructure needs.\n- Experience with major cloud providers (Google Cloud, AWS, or\n  Azure).\n- Proficiency with Infrastructure as Code (IaC) tools like\n  Terraform.\n- Strong scripting skills using languages like Python or Bash,\n  and experience with Git and GitHub workflows.\n- Expert experience operating orchestration systems such as\n  Kubernetes at scale.\n- Strong scripting skills using languages like Python or Bash,\n  and experience with Git and GitHub workflows.\n- Experience setting up and using monitoring tools such as\n  Prometheus, Grafana, or similar for comprehensive tracing\n  and monitoring.\n- Proven track record of building and operating scalable,\n  reliable, and secure systems.\n- A natural knack for troubleshooting complex systems and\n  solving challenging technical problems.\n- Proactive attitude in identifying problems, performance\n  bottlenecks, and areas for improvement.\n- Comfortable working with ambiguity and rapid change in a\n  dynamic environment.\n\nEducation\n\n- BSCS or equivalent required, MSCS or equivalent strongly\n  preferred\n\n#LI-DB1\n\nNetskope is committed to implementing equal employment\nopportunities for all employees and applicants for\nemployment. Netskope does not discriminate in employment\nopportunities or practices based on religion, race, color,\nsex, marital or veteran statues, age, national origin,\nancestry, physical or mental disability, medical condition,\nsexual orientation, gender identity/expression, genetic\ninformation, pregnancy (including childbirth, lactation and\nrelated medical conditions), or any other characteristic\nprotected by the laws or regulations of any jurisdiction in\nwhich we operate.\n\nNetskope respects your privacy and is committed to\nprotecting the personal information you share with us,\nplease refer to Netskope's Privacy Policy for more details.\n\nThe application window for this position is expected to\nclose within 50 days. You may apply by filling out the below\ninformation, or visiting our Netskope Careers site.\n",
+  "skills_required": [
+    "Hugging Face Transformers",
+    "PyTorch",
+    "TensorRT"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Work closely with AI/ML engineers and researchers to design and architect AI/ML applications for scale and reliability, and deploy CI/CD pipelines for safe reproducible experiments",
+    "Troubleshoot production issues across AI/ML application code and infrastructure configurations",
+    "Set up and manage monitoring, logging, and alerting systems for extensive training runs and client-facing APIs",
+    "Ensure training environments are consistently available and prepared across multiple clusters",
+    "Develop and manage containerization and orchestration systems using Docker and Kubernetes",
+    "Operate and oversee large Kubernetes clusters with GPU workloads"
+  ],
+  "use_cases": [
+    "Cloud security platform following and protecting data wherever it goes",
+    "ML model training infrastructure supporting PyTorch and Hugging Face Transformers",
+    "LLM deployment and optimization using TensorRT",
+    "Large-scale distributed AI/ML applications requiring high-performance infrastructure"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Alerting",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "GPU workloads",
+    "Git",
+    "GitHub",
+    "Google Cloud",
+    "Grafana",
+    "Kubernetes",
+    "Logging",
+    "Monitoring",
+    "Prometheus",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Hugging Face Transformers",
+    "PyTorch",
+    "TensorRT"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Site Reliability Engineer (SRE) MLOps role focused\non infrastructure, platform, and operations support for\nAI/ML teams. The responsibilities include building CI/CD\npipelines, managing Kubernetes clusters, setting up\nmonitoring/logging, and maintaining infrastructure - all\nsupporting AI workloads rather than directly building,\ntraining, or deploying models themselves. The role bridges\nresearch and production but operates the infrastructure\nplatform rather than the AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "Hugging Face Transformers",
+      "TensorRT"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Google Cloud",
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Prometheus",
+      "Grafana",
+      "CI/CD",
+      "Monitoring",
+      "Logging",
+      "Alerting",
+      "Git",
+      "GitHub",
+      "GPU workloads"
+    ],
+    "languages": [
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

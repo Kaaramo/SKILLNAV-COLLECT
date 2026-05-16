@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-2756",
+  "source": "intl-ai-corpus",
+  "source_ref": "8998829",
+  "source_url": "https://builtin.com/job/ai-platform-engineer/8998829",
+  "title": "AI Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "eBay",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-10",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "26,035 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global ecommerce marketplace connecting buyers and sellers",
+  "industries": [
+    "eCommerce",
+    "Retail"
+  ],
+  "description": "At eBay, we're more than a global ecommerce leader — we’re\nchanging the way the world shops and sells. Our platform\nempowers millions of buyers and sellers in more than 190\nmarkets around the world. We’re committed to pushing\nboundaries and leaving our mark as we reinvent the future of\necommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold\nideas are welcome, and everyone can bring their unique\nselves to work — every day. We're in this together,\nsustaining the future of our customers, our company, and our\nplanet.\n\nJoin a team of passionate thinkers, innovators, and dreamers\n— and help us connect people and build communities to create\neconomic opportunity for all.\n\nAs an LLM Inference Engineer on our AI Platform team, you’ll\nremove the compute-scaling bottleneck for production LLMs.\nYour job is to make frontier-model inference fast,\nefficient, reliable, and observable—the “last mile” from\nGPUs to APIs that products depend on. This role sits at the\nintersection of HPC, GPU systems, and MLOps, and requires\nstrong intuition for how model architecture, runtimes, and\nhardware interact. What You’ll Do\n\n- Own production inference: Take models from handoff to\n  production-grade serving, including release engineering,\n  capacity planning, cost optimization, and incident\n  response.\n- Tune inference performance: reduce end-to-end latency and\n  increase throughput across real production traffic\n  patterns.\n- Optimize runtimes and servers: Scale inference across\n  heterogeneous GPU fleets; optimize stacks such as vLLM,\n  Triton, and related components (e.g., schedulers, KV\n  cache, batching, memory).\n- Benchmark and measure: Build benchmarking suites, metrics,\n  and tooling to quantify latency, throughput, GPU\n  utilization, memory, and cost.\n- Reliability and observability: Improve monitoring, tracing,\n  and alerting; participate in incident response and\n  postmortems to harden systems.\n- Apply and ship new optimizations: Evaluate research and\n  implement pragmatic inference optimizations (e.g.,\n  quantization, paging, kernel/runtimes improvements).\n- Partner cross-functionally: Work with data science and\n  product teams to translate business requirements into\n  performance and availability SLOs.\n\nWhat We’re Looking For\n\n- 5+ years of strong development experience\n- Experience deploying and operating LLM inference services in\n  production.\n- Strong production coding skills in Python plus Go or Rust\n  (systems-level implementation and debugging).\n- Experience with ML frameworks and runtimes: PyTorch, vLLM,\n  SGLang  (and/or TensorRT).\n- Knowledge of GPU architecture and performance (profiling,\n  memory bandwidth/latency tradeoffs); CUDA/kernel\n  programming is a strong plus.\n- Solid understanding of LLM inference and optimization\n  techniques: continuous batching, KV cache management,\n  quantization, speculative decoding (nice-to-have), etc.\n- 3+ years hands-on experience in performance optimization and\n  systems programming for AI/ML workloads.\n- Demonstrated ability to deliver measurable production\n  improvements (e.g., 2X throughput, lower p95/p99 latency,\n  reduced GPU cost).\n- Proven skill in root-cause analysis: finding bottlenecks\n  across model, runtime, networking, and infrastructure.\n\nAdditional Details\n\neBay is an equal opportunity employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, national origin, sex,\nsexual orientation, gender identity, veteran status, and\ndisability, or other legally protected status. If you have a\nneed that requires accommodation, please contact us at\ntalent@ebay.com. We will make every effort to respond to\nyour request for accommodation as soon as possible. View our\naccessibility statement to learn more about eBay's\ncommitment to ensuring digital accessibility for people with\ndisabilities.\n\nWe use cookies to enhance your experience and may use AI\ntools for administrative tasks in the hiring process. To\nlearn how we handle your personal data and use AI\nresponsibly, please visit our Talent Privacy Notice, Privacy\nCenter, and AI Hiring Guidelines.\n",
+  "skills_required": [
+    "CUDA",
+    "Continuous batching",
+    "GPU architecture",
+    "GPU profiling",
+    "KV cache management",
+    "Kernel programming",
+    "LLM inference optimization",
+    "PyTorch",
+    "Quantization",
+    "Speculative decoding"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own production LLM inference from model handoff to production-grade serving, including release engineering, capacity planning, and cost optimization",
+    "Tune inference performance to reduce end-to-end latency and increase throughput across real production traffic patterns",
+    "Optimize inference runtimes and servers (vLLM, Triton) across heterogeneous GPU fleets, including schedulers, KV cache, batching, and memory management",
+    "Build benchmarking suites, metrics, and tooling to quantify latency, throughput, GPU utilization, memory, and cost",
+    "Improve monitoring, tracing, and alerting for reliability and observability; participate in incident response and postmortems",
+    "Evaluate research and implement pragmatic inference optimizations such as quantization, paging, and kernel/runtime improvements",
+    "Partner cross-functionally with data science and product teams to translate business requirements into performance and availability SLOs"
+  ],
+  "use_cases": [
+    "Production LLM inference serving for eBay product teams",
+    "High-throughput, low-latency AI model serving at ecommerce scale",
+    "GPU fleet optimization and cost reduction for AI workloads",
+    "Reliable and observable AI infrastructure powering eBay's marketplace features"
+  ],
+  "tools_mentioned": [
+    "Benchmarking",
+    "Capacity planning",
+    "Monitoring and observability",
+    "SGLang",
+    "TensorRT",
+    "Triton",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "Continuous batching",
+    "GPU architecture",
+    "GPU profiling",
+    "KV cache management",
+    "Kernel programming",
+    "LLM inference optimization",
+    "PyTorch",
+    "Quantization",
+    "Speculative decoding"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building and operating\nproduction LLM inference systems — optimizing runtimes like\nvLLM and Triton, implementing quantization, managing KV\ncache, and deploying frontier models at scale. The engineer\nworks hands-on with model inference infrastructure, making\nthis clearly an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "CUDA",
+      "LLM inference optimization",
+      "Continuous batching",
+      "KV cache management",
+      "Quantization",
+      "Speculative decoding",
+      "GPU profiling",
+      "Kernel programming",
+      "GPU architecture"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "vLLM",
+      "Triton",
+      "SGLang",
+      "TensorRT",
+      "Monitoring and observability",
+      "Capacity planning",
+      "Benchmarking"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "Rust"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

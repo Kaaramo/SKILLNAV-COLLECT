@@ -1,0 +1,108 @@
+{
+  "job_id": "intl-ai-corpus-2465",
+  "source": "intl-ai-corpus",
+  "source_ref": "8903249",
+  "source_url": "https://www.builtinla.com/job/ai-engineer/8903249",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Analytica",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Growth stage (recognized by Inc. 250 fastest-growing)",
+  "company_focus": "Consulting and IT solutions for U.S. government public\nsector clients",
+  "industries": [
+    "Information Technology",
+    "Database",
+    "Consulting"
+  ],
+  "description": "Analytica is seeking an AI Engineer to support an\nenterprise-wide modernization of AI capabilities for a high-\nprofile financial regulatory client. This role centers on\nsustaining and enhancing AI systems deployed within\nMicrosoft Azure-based data management and analytics\nplatforms. Analytica has been recognized by Inc. Magazine as\none of the fastest-growing 250 businesses in the US for 3\nyears. We work with U.S. government clients in health,\ncivilian, and national security missions to build better\ntechnology products that impact our day-to-day lives. The\ncompany offers competitive compensation with opportunities\nfor bonuses, employer-paid health care, training and\ndevelopment funds, and 401k match. Key Responsibilities:\n\n- Provide operational support for enterprise AI capabilities,\n  including onboarding users, managing access controls,\n  triaging issues, and monitoring performance.\n- Maintain AI solution configurations in Azure, including role\n  based access, usage tracking, and troubleshooting.\n- Support AI Innovation team's solutions, including AI systems\n  deployed across multi cloud environments (Azure, Appian,\n  Salesforce, ServiceNow, etc.).\n- Participate in CI/CD workflows using GitHub Enterprise;\n  manage PBIs, bugs, and change requests.\n- Support continuous validation, security compliance, and\n  Authority to Operate (ATO) requirements for AI systems.\n- Assist in implementing responsible AI monitoring, model\n  evaluation, and improving AI user experience per agency\n  governance guidance.\n\nRequired Qualifications\n\n- Master's degree in Statistics, Mathematics, Computer\n  Science, or related field.\n- 3+ years of experience in data and AI engineering roles,\n  including operational support.\n- Experience with CI/CD and Agile work management tools such\n  as GitHub Enterprise.\n- Experience with Infrastructure as Code, especially Terraform\n- Familiarity with Azure AI services, Azure Machine Learning,\n  or cloud native AI operations.\n- Must be a US citizen\n- Must be able to obtain and maintain a Public trust security\n  clearance.\n\nAbout ANALYTICA: Analytica is a leading consulting and\ninformation technology solutions provider to public sector\norganizations supporting health, civilian, and national\nsecurity missions. Founded in 2009 and headquartered in\nBethesda, MD, the company is an established SBA small\nbusiness that has been recognized by Inc. Magazine each of\nthe past three years as one of the 250 fastest-\ngrowing companies in the U.S.  Analytica specializes in\nproviding software and systems engineering, information\nmanagement, analytics & visualization, agile project\nmanagement, and management consulting services. The\ncompany is appraised by the Software Engineering Institute\n(SEI) at CMMI® Maturity Level 3 and is an ISO 9001:2008\ncertified provider.\n",
+  "skills_required": [
+    "Agile",
+    "Appian",
+    "Salesforce",
+    "ServiceNow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Provide operational support for enterprise AI capabilities including onboarding users, managing access controls, triaging issues, and monitoring performance",
+    "Maintain AI solution configurations in Azure including role-based access, usage tracking, and troubleshooting",
+    "Support AI Innovation team's solutions deployed across multi-cloud environments (Azure, Appian, Salesforce, ServiceNow)",
+    "Participate in CI/CD workflows using GitHub Enterprise and manage PBIs, bugs, and change requests",
+    "Support continuous validation, security compliance, and Authority to Operate (ATO) requirements for AI systems",
+    "Assist in implementing responsible AI monitoring, model evaluation, and improving AI user experience per agency governance guidance"
+  ],
+  "use_cases": [
+    "Enterprise AI capability modernization for financial regulatory client",
+    "AI operations and monitoring within Azure-based data management and analytics platforms",
+    "Responsible AI governance and compliance monitoring for government agency",
+    "Multi-cloud AI solution support across Azure, Appian, Salesforce, and ServiceNow environments"
+  ],
+  "tools_mentioned": [
+    "Azure AI Services",
+    "Azure Machine Learning",
+    "CI/CD",
+    "GitHub Enterprise",
+    "Infrastructure as Code",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is primarily about operational support and\nmaintenance of existing AI systems rather than building,\ntraining, or fine-tuning models. The responsibilities focus\non user onboarding, access management, troubleshooting,\nCI/CD workflows, and compliance — all enabling/support\nfunctions for AI systems that others have built.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Azure AI Services",
+      "Azure Machine Learning"
+    ],
+    "ops": [
+      "Terraform",
+      "GitHub Enterprise",
+      "CI/CD",
+      "Infrastructure as Code"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Appian",
+      "Salesforce",
+      "ServiceNow",
+      "Agile"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

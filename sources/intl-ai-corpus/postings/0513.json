@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-0513",
+  "source": "intl-ai-corpus",
+  "source_ref": "8192153",
+  "source_url": "https://builtin.com/job/software-engineer-applied-ai-focus/8192153",
+  "title": "Software Engineer (Applied AI Focus)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "FirmPilot",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-13",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "42 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered business automation systems using LLMs",
+  "industries": [
+    "Artificial Intelligence",
+    "Legal Tech",
+    "Marketing Tech",
+    "SEO"
+  ],
+  "description": "About FirmPilot\n\nFirmPilot builds AI-powered systems that automate and scale\nreal-world business outcomes. We focus on applied AI, using\nbest-in-class large language models and tooling to deliver\nreliable, production-grade automation.\n\nWe are not building bespoke foundation models. We are\nbuilding systems that use AI effectively, which requires\nboth AI expertise and strong software engineering.\n\nThe Role\n\nWe are hiring a Software Engineer with applied AI expertise\nto design and optimize the integration of LLMs into\nproduction systems.\n\nThis role is for engineers who understand how LLMs behave in\npractice and can build repeatable, testable, API-driven\nworkflows around them. This is not a role for casual AI\nexperimentation or “prompt tinkering.”\n\nWhat You’ll Do\n\n- Design, implement, and evolve RAG pipelines combining\n  structured data, embeddings, and LLMs.\n- Develop and maintain prompt strategies used across multi-\n  step agent workflows.\n- Integrate LLMs into production systems with attention to\n  reliability, cost, and latency.\n- Orchestrate AI-driven workflows across internal services and\n  third-party APIs.\n- Define and improve practices for prompt versioning,\n  evaluation, and iteration.\n- Work closely with platform engineers to ensure AI systems\n  are maintainable and observable.\n- Help the team reason about when deeper customization or\n  model-level work may be warranted in the future.\n\nWhat We’re Looking For\n\n- 5+ years of professional software engineering experience.\n- Strong backend experience with modern .NET and Python.\n- Demonstrated, hands-on experience with:\n- Experience integrating AI systems into real products, not\n  just prototypes.\n- Ability to reason about trade-offs: determinism, accuracy,\n  cost, and performance.\n- Strong communication skills and the ability to explain AI\n  behavior clearly.\n\nOur Engineering Environment\n\n- Modern .NET (8 & 9), Python, TypeScript\n- GraphQL and REST APIs\n- LLMs, embeddings, and vector databases\n- Event-driven, agent-oriented architecture\n- AWS as our primary cloud provider\n- Terraform for infrastructure as code\n- CI/CD with automated testing and observability\n\nHow We Work\n\n- AI systems are treated as production software, not\n  experiments.\n- We move quickly by setting clear standards and iterating\n  frequently.\n- Communication is frequent and expected, especially when\n  behavior is unclear.\n- Engineers are expected to challenge assumptions and improve\n  systems collaboratively.\n\nNot a Good Fit If…\n\n- You are looking for pure AI research or model training work.\n- You primarily use AI tools without understanding how they\n  work internally.\n- You are uncomfortable debugging non-deterministic systems.\n- You prefer slow iteration or minimal ownership.\n\nPursuant to applicable pay transparency requirements, the\nCompany discloses in good faith that the anticipated salary\nrange for this role is $135,000 to $162,000.\n",
+  "skills_required": [
+    "LLMs",
+    "RAG",
+    "agents",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and evolve RAG pipelines combining structured data, embeddings, and LLMs",
+    "Develop and maintain prompt strategies used across multi-step agent workflows",
+    "Integrate LLMs into production systems with attention to reliability, cost, and latency",
+    "Orchestrate AI-driven workflows across internal services and third-party APIs",
+    "Define and improve practices for prompt versioning, evaluation, and iteration",
+    "Work closely with platform engineers to ensure AI systems are maintainable and observable"
+  ],
+  "use_cases": [
+    "Automating and scaling real-world business outcomes using AI",
+    "Production-grade automation using large language models",
+    "AI-driven workflow orchestration across services and APIs",
+    "Reliable, cost-effective, and low-latency LLM integration in production",
+    "Applied AI systems combining structured data with embeddings and LLMs"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "GraphQL",
+    "REST",
+    "Terraform",
+    "observability",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "RAG",
+    "agents",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    ".NET",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work designing and implementing\nRAG pipelines, developing prompt strategies for multi-step\nagent workflows, and directly integrating LLMs into\nproduction systems. The engineer works directly ON AI\nsystems (RAG, agents, prompt engineering) rather than just\nsupporting infrastructure or general SWE for an AI company.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "prompt engineering",
+      "agents",
+      "embeddings",
+      "LLMs"
+    ],
+    "ml": [],
+    "web": [
+      "GraphQL",
+      "REST"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform",
+      "CI/CD",
+      "observability"
+    ],
+    "languages": [
+      ".NET",
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,159 @@
+{
+  "job_id": "intl-ai-corpus-0082",
+  "source": "intl-ai-corpus",
+  "source_ref": "6934349",
+  "source_url": "https://builtin.com/job/forward-deployed-engineer/6934349",
+  "title": "Forward Deployed AI Engineer, Enterprise",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Scale AI",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-19",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "523 Employees",
+  "company_stage": "Public",
+  "company_focus": "Data foundation for AI, enterprise AI solutions, data\nannotation platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Machine Learning"
+  ],
+  "description": "About Scale AI\n\nScale AI is the data foundation for AI, helping\norganizations build and deploy reliable production AI\napplications. We partner with leading enterprises and\ngovernment organizations to accelerate their AI initiatives\nthrough our data annotation platform, generative AI\nsolutions, and enterprise AI capabilities.\n\nRole Overview\n\nAs a Forward Deployed AI Engineer on our Enterprise team,\nyou'll be the technical bridge between Scale AI's cutting-\nedge AI capabilities and our most strategic customers.\nYou'll work with enterprise clients to understand their\nunique challenges, architect custom AI solutions, and ensure\nsuccessful deployment and adoption of AI systems in\nproduction environments.\n\nThis is a hands-on technical role that combines deep\nengineering expertise with customer-facing problem solving.\nYou'll work directly with customer engineering teams to\nintegrate AI into their critical workflows.\n\nKey ResponsibilitiesCustomer Integration & Deployment\n\n- Partner directly with enterprise customers to understand\n  their technical infrastructure, data pipelines, and\n  business requirements\n- Design and implement custom integrations between Scale AI's\n  platform and customer data environments (cloud platforms,\n  data warehouses, internal APIs)\n- Build robust data connectors and ETL pipelines to ingest,\n  process, and prepare customer data for AI workflows\n- Deploy and configure AI models and agents within customer\n  security and compliance boundaries\n\nAI Agent Development\n\n- Develop production-grade AI agents tailored to customer use\n  cases across domains like customer support, data analysis,\n  content generation, and workflow automation\n- Architect multi-agent systems that orchestrate between\n  different models, tools, and data sources\n- Implement evaluation frameworks to measure agent performance\n  and iterate toward business objectives\n- Design human-in-the-loop workflows and feedback mechanisms\n  for continuous agent improvement\n\nPrompt Engineering & Optimization\n\n- Create sophisticated prompt engineering strategies optimized\n  for customer-specific domains and data\n- Build and maintain prompt libraries, templates, and best\n  practices for customer use cases\n- Conduct systematic prompt experimentation and A/B testing to\n  improve model outputs\n- Implement RAG (Retrieval Augmented Generation) systems and\n  fine-tuning pipelines where appropriate\n\nTechnical Leadership & Collaboration\n\n- Serve as the primary technical point of contact for\n  strategic enterprise accounts\n- Collaborate with customer data scientists, ML engineers, and\n  software developers to ensure smooth integration\n- Provide technical training and knowledge transfer to\n  customer teams\n- Work closely with Scale's product and engineering teams to\n  translate customer needs into product improvements\n- Document technical architectures, integration patterns, and\n  best practices\n\nProblem Solving & Innovation\n\n- Debug complex technical issues across the entire stack, from\n  data pipelines to model outputs\n- Rapidly prototype solutions to unblock customers and prove\n  out new use cases\n- Stay current on the latest AI/ML research and tools,\n  bringing innovative approaches to customer problems\n- Identify opportunities for productization based on common\n  customer patterns\n\nRequired Qualifications\n\n- 4+ years of software engineering experience with strong\n  fundamentals in data structures, algorithms, and system\n  design\n- Production Python expertise with experience in modern ML/AI\n  frameworks (e.g., LangChain, LlamaIndex, HuggingFace,\n  OpenAI API)\n- Experience with cloud platforms (AWS, GCP, or Azure) and\n  modern data infrastructure\n- Strong problem-solving skills with the ability to navigate\n  ambiguous requirements and rapidly iterate toward\n  solutions\n- Excellent communication skills with the ability to explain\n  complex technical concepts to both technical and non-\n  technical audiences\n\nPreferred Qualifications\n\nAgent Development Wiz\n\n- Deep understanding of LLMs including prompting techniques,\n  embeddings, and RAG architectures\n- Experience building and deploying AI agents or autonomous\n  systems in production\n- Knowledge of vector databases and semantic search systems\n- Contributions to open-source AI/ML projects\n\nInfrastructure Guru\n\n- Experience with containerization (Docker, Kubernetes) and\n  CI/CD pipelines\n- Experience using Terraform, Bicep, or other Infrastructure\n  as Code (IaC) tools\n- Previous work in a devops, platform, or infra role\n- Familiarity with enterprise security, compliance, and\n  governance requirements (SOC 2, GDPR, HIPAA)\n\nCustomer Product Whisperer\n\n- Proven ability to work with customers in a technical\n  consulting, solutions engineering, or product engineering\n  role\n- Domain expertise in verticals like finance, healthcare,\n  government, or manufacturing\n- Experience with technical enablement or teaching programs\n\nSample Projects\n\nThe following are some examples of the types of projects\nwe’ve worked on with customers. All of these projects\nleverage customer data, integrate directly into customers’\nexisting systems, and are deployed on their infrastructure.\n\nDeep Research for Due Diligence\n\nFor a global professional services firm, we developed a\nsophisticated deep research agent to assist in due\ndiligence. This agent employs a multi-agent architecture for\nrobust fact-checking, integrates several internal MCP tools,\nand processes complex, unstructured data sources. This\nsolution reliably saves employees hundreds of hours weekly.\n\nChurn Prediction\n\nWorking with a TelCo organization, we built a model\nutilizing customer data to predict churn likelihood. The\nsystem then curates personalized offers based on this\nprediction. This model was integrated into a \"next best\naction\" copilot, enabling call center agents to proactively\nsurface relevant offers to customers, leading to a\nsignificant reduction in churn.\n\nData Extraction Voice Agent\n\nWe partnered with a healthcare organization to create a\nlifelike voice agent and avatar designed to gather\nunstructured health information from patients. Engineered\nfor low latency, the agent adeptly manages conversational\nflow, adheres to safety guardrails, and efficiently handles\ndata extraction. This automation saves the organization's\nnurses hundreds of hours each week.\n\nCompensation packages at Scale for eligible roles include\nbase salary, equity, and benefits. The range displayed on\neach job posting reflects the minimum and maximum target for\nnew hire salaries for the position, determined by work\nlocation and additional factors, including job-related\nskills, experience, interview performance, and relevant\neducation or training. Scale employees in eligible roles are\nalso granted equity based compensation, subject to Board of\nDirector approval. Your recruiter can share more about the\nspecific salary range for your preferred location during the\nhiring process, and confirm whether the hired role will be\neligible for equity grant. You’ll also receive benefits\nincluding, but not limited to: Comprehensive health, dental\nand vision coverage, retirement benefits, a learning and\ndevelopment stipend, and generous PTO. Additionally, this\nrole may be eligible for additional benefits such as a\ncommuter stipend.\n\nPlease reference the job posting's subtitle for where this\nposition will be located. For pay transparency purposes, the\nbase salary range for this full-time position in the\nlocations of San Francisco, New York, Seattle is:\n\n$179,400—$224,250 USD\n\nPLEASE NOTE: Our policy requires a 90-day waiting period\nbefore reconsidering candidates for the same role. This\nallows us to ensure a fair and thorough evaluation of all\napplicants.\n\nAbout Us:\n\nAt Scale, our mission is to develop reliable AI systems for\nthe world's most important decisions. Our products provide\nthe high-quality data and full-stack technologies that power\nthe world's leading models, and help enterprises and\ngovernments build, deploy, and oversee AI applications that\ndeliver real impact. We work closely with industry leaders\nlike Meta, Cisco, DLA Piper, Mayo Clinic, Time Inc., the\nGovernment of Qatar, and U.S. government agencies including\nthe Army and Air Force. We are expanding our team to\naccelerate the development of AI applications.\n\nWe believe that everyone should be able to bring their whole\nselves to work, which is why we are proud to be an inclusive\nand equal opportunity workplace. We are committed to equal\nemployment opportunity regardless of race, color, ancestry,\nreligion, sex, national origin, sexual orientation, age,\ncitizenship, marital status, disability status, gender\nidentity or Veteran status.\n\nWe are committed to working with and providing reasonable\naccommodations to applicants with physical and mental\ndisabilities. If you need assistance and/or a reasonable\naccommodation in the application or recruiting process due\nto a disability, please contact us at\naccommodations@scale.com. Please see the United States\nDepartment of Labor's Know Your Rights poster for additional\ninformation.\n\nWe comply with the United States Department of Labor's Pay\nTransparency provision.\n\nPLEASE NOTE: We collect, retain and use personal data for\nour professional business purposes, including notifying you\nof job opportunities that may be of interest and sharing\nwith our affiliates. We limit the personal data we collect\nto that which we believe is appropriate and necessary to\nmanage applicants’ needs, provide our services, and comply\nwith applicable laws. Any information we collect in\nconnection with your application will be treated in\naccordance with our internal policies and programs designed\nto protect personal data. Please see our privacy policy for\nadditional information.\n",
+  "skills_required": [
+    "AI agents",
+    "HuggingFace",
+    "LangChain",
+    "LlamaIndex",
+    "MCP tools",
+    "OpenAI API",
+    "RAG",
+    "embeddings",
+    "fine-tuning",
+    "multi-agent systems",
+    "prompt engineering",
+    "system design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Partner directly with enterprise customers to understand their technical infrastructure, data pipelines, and business requirements",
+    "Design and implement custom integrations between Scale AI's platform and customer data environments",
+    "Develop production-grade AI agents tailored to customer use cases across various domains",
+    "Architect multi-agent systems that orchestrate between different models, tools, and data sources",
+    "Implement RAG systems and fine-tuning pipelines for customer-specific domains",
+    "Create and maintain prompt engineering strategies, libraries, and best practices",
+    "Build evaluation frameworks to measure agent performance and iterate toward business objectives",
+    "Serve as the primary technical point of contact for strategic enterprise accounts"
+  ],
+  "use_cases": [
+    "Deep research agents for due diligence that perform multi-agent fact-checking and process complex unstructured data",
+    "Churn prediction models with personalized offer curation integrated into copilot systems for call centers",
+    "Voice agents with avatars for gathering unstructured health information in healthcare settings",
+    "Customer support automation using AI agents to handle routine inquiries and workflow automation",
+    "Data analysis and content generation agents tailored to specific enterprise domains",
+    "Human-in-the-loop workflows for continuous agent improvement and feedback collection"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "ETL pipelines",
+    "GCP",
+    "Infrastructure as Code",
+    "Kubernetes",
+    "REST APIs",
+    "Terraform",
+    "data pipelines",
+    "semantic search",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "HuggingFace",
+    "LangChain",
+    "LlamaIndex",
+    "MCP tools",
+    "OpenAI API",
+    "RAG",
+    "embeddings",
+    "fine-tuning",
+    "multi-agent systems",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a Forward Deployed AI Engineer who builds, deploys,\nand optimizes AI agents and LLM-based solutions for\nenterprise customers. The role involves hands-on development\nof multi-agent systems, RAG implementations, prompt\nengineering, and fine-tuning pipelines - directly working ON\nAI models and agents rather than just supporting\ninfrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "OpenAI API",
+      "RAG",
+      "prompt engineering",
+      "AI agents",
+      "multi-agent systems",
+      "MCP tools"
+    ],
+    "ml": [
+      "HuggingFace",
+      "fine-tuning",
+      "embeddings"
+    ],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "vector databases",
+      "semantic search"
+    ],
+    "data": [
+      "ETL pipelines",
+      "data pipelines"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "Infrastructure as Code"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "system design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,150 @@
+{
+  "job_id": "intl-ai-corpus-2676",
+  "source": "intl-ai-corpus",
+  "source_ref": "8962380",
+  "source_url": "https://builtin.com/job/staff-ai-engineer-director/8962380",
+  "title": "Staff AI Engineer Director",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Dentsu Creative",
+  "company_type": "entité morale privée",
+  "location": "Jaya Mahal, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "6,507 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global advertising and media agency network",
+  "industries": [
+    "AdTech",
+    "Marketing Tech",
+    "Software"
+  ],
+  "description": "Job Description:\n\nRole Summary\n\nServe as the technical anchor for Dentsu's agentic AI\nengineering team in DGS. You will lead architecture\ndecisions for multi-agent systems, set engineering\nstandards, and mentor a growing team of agentic engineers.\nThis is a hands-on leadership role: you write code, review\ncode, and set the technical direction while the Senior\nDirector handles the VP-level strategy and stakeholder\nmanagement.\n\nKey Responsibilities\n\n- Lead technical architecture for multi-agent systems, LLM\n  orchestration, and AI automation workflows\n- Set up and maintain the agentic engineering stack:\n  frameworks, CI/CD, testing, monitoring, and deployment\n  patterns\n- Own the technical design for AI orchestration use cases\n  across 4+ client implementations\n- Build and maintain reusable agent components, tool-use\n  libraries, and prompt templates\n- Lead Genie space setup and configuration for client data\n  exploration\n- Mentor and technically lead 3 Senior Agentic Engineers,\n  conducting code reviews and architecture discussions\n- Evaluate LLM providers (model selection, cost optimization,\n  latency tradeoffs) and recommend choices\n- Bridge the gap between Data Science model outputs and\n  agentic deployment, ensuring models are served efficiently\n- Collaborate with the onshore Senior AI Engineer on shared\n  architecture decisions and technical standards\n- Contribute to technical documentation, runbooks, and\n  operational playbooks for the agentic platform\n\nRequired Qualifications\n\n- 7+ years of software engineering experience with at least 2\n  years in AI/ML engineering\n- Deep expertise in Python and production-grade software\n  architecture\n- Hands-on experience building and deploying LLM-powered\n  applications at scale\n- Strong knowledge of agent orchestration patterns (LangChain,\n  LangGraph, AutoGen, or custom frameworks)\n- Experience with cloud infrastructure (Azure preferred)\n  including container orchestration and serverless patterns\n- Track record of mentoring engineers and raising team\n  engineering standards\n- Experience with MLOps: model serving, monitoring,\n  versioning, and cost management\n- Strong system design skills with experience in distributed\n  systems and API architecture\n- Excellent written communication for technical documentation\n  and cross-timezone collaboration\n\nPreferred Qualifications\n\n- Experience with Databricks, Unity Catalog, and/or Genie\n- Background in media technology, adtech, or marketing\n  analytics platforms\n- Experience with RAG architectures, vector databases, and\n  semantic search at scale\n- Contributions to open-source AI/ML projects\n- Experience leading technical teams in a DGS/offshore\n  delivery model\n\nLocation:\n\nDGS India - Bengaluru - Manyata N1 Block\n\nBrand:\n\nMerkle\n\nTime Type:\n\nFull time\n\nContract Type:\n\nPermanent\n",
+  "skills_required": [
+    "Agent orchestration",
+    "AutoGen",
+    "Distributed systems",
+    "LLM evaluation and selection",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "RAG architectures"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead technical architecture for multi-agent systems, LLM orchestration, and AI automation workflows",
+    "Set up and maintain the agentic engineering stack including frameworks, CI/CD, testing, monitoring, and deployment patterns",
+    "Own technical design for AI orchestration use cases across 4+ client implementations",
+    "Build and maintain reusable agent components, tool-use libraries, and prompt templates",
+    "Mentor and technically lead 3 Senior Agentic Engineers through code reviews and architecture discussions",
+    "Evaluate LLM providers for model selection, cost optimization, and latency tradeoffs",
+    "Bridge Data Science model outputs and agentic deployment, ensuring efficient model serving",
+    "Contribute to technical documentation, runbooks, and operational playbooks for the agentic platform"
+  ],
+  "use_cases": [
+    "Multi-agent AI automation workflows for advertising and media clients",
+    "LLM orchestration across multiple client implementations in marketing analytics",
+    "Client data exploration and analytics via Genie/semantic search",
+    "Adtech and marketing analytics AI-powered solutions",
+    "RAG-based architectures for enterprise knowledge retrieval",
+    "Reusable agent components for scalable AI deployment across Dentsu clients"
+  ],
+  "tools_mentioned": [
+    "API architecture",
+    "Azure",
+    "CI/CD",
+    "Container orchestration",
+    "Databricks",
+    "Docker",
+    "Kubernetes",
+    "MLOps",
+    "Model serving",
+    "Monitoring",
+    "REST APIs",
+    "Serverless patterns",
+    "Terraform",
+    "Unity Catalog",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent orchestration",
+    "AutoGen",
+    "LLM evaluation and selection",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "RAG architectures"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building, deploying, and\narchitecting multi-agent systems and LLM-powered\napplications. The candidate writes code, designs agent\norchestration frameworks, builds reusable agent components,\nand evaluates LLM providers — all hands-on work ON AI\nsystems. It also has a management/leadership component\n(mentoring 3 Senior Agentic Engineers).",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "AutoGen",
+      "RAG architectures",
+      "Prompt engineering",
+      "Agent orchestration",
+      "LLM evaluation and selection"
+    ],
+    "ml": [],
+    "web": [
+      "API architecture",
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Databricks",
+      "Unity Catalog"
+    ],
+    "cloud": [
+      "Azure",
+      "Serverless patterns"
+    ],
+    "ops": [
+      "Container orchestration",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "MLOps",
+      "Model serving",
+      "Monitoring",
+      "Terraform"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

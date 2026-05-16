@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2834",
+  "source": "intl-ai-corpus",
+  "source_ref": "9031021",
+  "source_url": "https://www.builtinla.com/job/senior-backend-engineer-ai/9031021",
+  "title": "Senior Backend Engineer, AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Slate",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-20",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Creative workspace for brand social teams — content creation\nand social media management",
+  "industries": [],
+  "description": "The Pitch\n\nSlate’s product already uses AI across the stack —\nbackground removal, active speaker detection, auto-\ncaptioning, content suggestions, and image generation — but\neach of these is its own independent integration. We need a\nSenior Backend Engineer focused on AI to bring this\ntogether: unifying how we integrate models, building the\ninfrastructure that makes AI features reliable at scale, and\nhelping us move faster on the next wave of AI-powered\ncapabilities.\n\nWhat You’ll Actually DoBuild the AI platform layer\n\n- Design and build the shared infrastructure for AI\n  integrations across Slate’s backend: model routing, prompt\n  management, response caching, fallback handling, and cost\n  observability\n- Refactor existing one-off AI integrations (background\n  removal, captioning, etc.) onto a unified platform\n- Own the reliability, performance, and cost-efficiency of\n  Slate’s AI systems\n\nEnable new AI features\n\n- Work closely with the AI Product Engineer and product team\n  to bring new AI capabilities to production\n- Build the backend systems that power real-time AI features —\n  handling streaming, async processing, and latency\n  constraints\n- Evaluate and integrate new models and APIs as they become\n  available\n\nRaise the quality bar\n\n- Define evaluation frameworks and monitoring to track AI\n  feature quality over time\n- Build systems to detect and alert on model regressions or\n  degraded outputs\n- Ensure AI features meet the same reliability bar as the rest\n  of Slate’s infrastructure\n\nYou’d Be a Great Fit IfYou have the experience:\n\n- 5+ years of backend engineering experience, with a track\n  record of shipping production systems\n- Hands-on experience integrating and operating LLMs or ML\n  models at scale\n- Strong systems thinking — you design for reliability,\n  observability, and cost from the start\n\nYou’ve done work like this before:\n\n- Built shared AI infrastructure used by multiple teams or\n  features\n- Designed async processing pipelines for ML workloads\n- Worked with OpenAI, Anthropic, Replicate, or similar APIs in\n  production\n\nYou work the way we work:\n\n- You own the outcomes, not just the tasks\n- You communicate clearly and raise issues early\n- You use AI tools in your own workflow and think about how to\n  apply them to hard engineering problems\n\nTech Stack\n\nNode.js, TypeScript, PostgreSQL, Redis, AWS, OpenAI /\nAnthropic APIs, Replicate\n\nThe Details\n\n- Location: Remote, anywhere from EST (UTC-5) to UTC+2\n- Reporting to: Maciej Kucharek, Head of Engineering\n- Compensation: US $170k–200k | Rest of World $95k–140k USD +\n  equity\n\nBenefits\n\n- Equity options\n- Unlimited PTO (we actually take it)\n- $200/month wellness stipend\n- Health insurance stipend\n- Home office budget\n\nAbout Slate\n\nSlate is the creative workspace for brand social teams. We\nhelp teams create and ship on-brand content fast with an\nall-in-one editor, built-in asset management, and seamless\ncreative file workflows, backed by hands-on support from\npeople who have done the job. Teams across top sports\nleagues and global brands like Amazon and Hoka use Slate\nevery day to elevate their social presence.\n\nNote: We do not sponsor work visas.\n\nSlate is an equal opportunity employer. We celebrate\ndiversity and are committed to creating an inclusive\nenvironment for all employees, regardless of background,\nidentity, or experience.\n",
+  "skills_required": [
+    "Anthropic API",
+    "LLM integration and operation",
+    "Model routing",
+    "OpenAI API",
+    "Prompt management",
+    "Replicate"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build shared AI infrastructure including model routing, prompt management, response caching, fallback handling, and cost observability",
+    "Refactor existing one-off AI integrations onto a unified platform",
+    "Own the reliability, performance, and cost-efficiency of Slate's AI systems",
+    "Collaborate with AI Product Engineer and product team to bring new AI capabilities to production",
+    "Build backend systems powering real-time AI features with streaming, async processing, and latency constraints",
+    "Evaluate and integrate new models and APIs as they become available",
+    "Define evaluation frameworks and monitoring to track AI feature quality over time",
+    "Build systems to detect and alert on model regressions or degraded outputs"
+  ],
+  "use_cases": [
+    "Background removal for images and video",
+    "Active speaker detection in video content",
+    "Auto-captioning for media content",
+    "Content suggestions for brand social teams",
+    "Image generation for social media content",
+    "Unified AI platform layer supporting multiple AI-powered creative features"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Async processing pipelines",
+    "Evaluation frameworks for AI models",
+    "Observability and monitoring",
+    "PostgreSQL",
+    "Redis",
+    "Streaming"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LLM integration and operation",
+    "Model routing",
+    "OpenAI API",
+    "Prompt management",
+    "Replicate"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building AI platform\ninfrastructure, integrating LLM/ML models, designing model\nrouting, prompt management, and evaluating new models. While\nit's infrastructure-focused, the engineer is hands-on with\nmodel integrations (OpenAI, Anthropic, Replicate APIs),\nbuilding the systems that deploy and operate AI features in\nproduction — making this ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "Replicate",
+      "LLM integration and operation",
+      "Prompt management",
+      "Model routing"
+    ],
+    "ml": [],
+    "web": [
+      "Streaming"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Redis"
+    ],
+    "data": [
+      "Async processing pipelines"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Observability and monitoring",
+      "Evaluation frameworks for AI models"
+    ],
+    "languages": [
+      "Node.js",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

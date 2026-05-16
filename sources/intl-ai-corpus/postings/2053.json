@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-2053",
+  "source": "intl-ai-corpus",
+  "source_ref": "8721863",
+  "source_url": "https://www.builtinla.com/job/lead-engineer-game-ai/8721863",
+  "title": "Lead Engineer, Game AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Absurd Ventures",
+  "company_type": "entité morale privée",
+  "location": "Santa Monica, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-11",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Unknown",
+  "company_focus": "Game development studio",
+  "industries": [],
+  "description": "We are seeking a highly skilled and experienced Lead\nEngineer, Game AI to join our dynamic team. As the Lead AI\nEngineer, you will be responsible for overseeing the design,\ndevelopment, and optimization of game artificial\nintelligence systems- from NPC behavior and navigation to\ncombat tactics and ambient life. You will guide a team of\nengineers in close collaboration with design, animation, and\ngameplay teams to deliver intelligent, immersive, and\nbelievable game experiences and characters.\n\nCore Responsibilities\n\n- Oversee the development and implementation of character\n  control AI systems, including pathfinding, state trees,\n  decision-making systems, sensory perception, group\n  coordination models, design control interface, and large\n  scale NPC behavior models in an open world environment.\n- Collaborate closely with game designers and content creators\n  to define the needs and constraints for AI systems.\n- Architect and maintain scalable, reusable AI code systems\n  that support a wide range of NPC behaviors (combat and\n  noncombat), traversal mechanics, and game scenarios.\n- Create and maintain thorough documentation for AI systems\n  and architecture.\n- Guide and mentor a team of AI engineers; provide code\n  reviews, technical feedback, and career development\n  support.\n- Ensure performance and memory efficiency across multiple\n  platforms, using profiling tools and optimization\n  techniques.\n- Work with QA and production to identify, debug, and resolve\n  AI-related issues throughout development.\n- Stay current on AI trends in game development and other\n  industries to bring innovative ideas and techniques to the\n  project.\n\nCore Qualifications\n\n- 7+ years of professional experience in game development,\n  with significant focus on AI programming.\n- Shipped at least one console title in a senior or lead AI\n  engineering role.\n- Expertise in C++ and strong knowledge of modern software\n  engineering practices.\n- Deep understanding of AI techniques including state\n  machines, behavior trees, utility systems, navigation, and\n  spatial reasoning.\n- Strong debugging, profiling, and optimization skills.\n- Experience leading technical teams and managing cross-\n  disciplinary collaboration.\n- Excellent communication and organizational skills.\n\nPlus If...\n\n- Experience developing AI systems in Unreal Engine (UE4 or\n  UE5), including familiarity with EQS, Blackboard, and\n  Behavior Trees.\n- Experience with Open World games\n- Background in machine learning, procedural content\n  generation, or large-scale crowd simulations.\n- Familiarity with scripting languages such as Python or Lua.\n- Passion for systemic design and emergent gameplay.\n- Interest in creating AI that supports narrative, ambient,\n  and sandbox-driven game worlds.\n\nDescription\n\n- Full-time job with benefits.\n- Role is on-site in Santa Monica, CA.\n- Office is located near downtown Santa Monica – near metro\n  and freeways.\n\nThe base pay range for this position is $170,000 to $210,000\nper year. Actual compensation is based on market location\nand may vary depending on job-related knowledge, skills, and\nexperience. We also offer a competitive package of benefits\nincluding vacation time, sick time, company holidays,\nparental leave, medical/dental/vision insurance, life\ninsurance, disability insurance, and 401(k) matching to\nregular full-time employees. Certain roles may also be\neligible for bonus and equity.\n",
+  "skills_required": [
+    "Behavior Trees",
+    "Blackboard",
+    "Crowd Simulations",
+    "EQS (Environment Query System)",
+    "Machine Learning",
+    "Navigation Systems",
+    "Pathfinding",
+    "Procedural Content Generation",
+    "State Machines",
+    "Unreal Engine",
+    "Utility Systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Oversee development and implementation of character control AI systems including pathfinding, state trees, decision-making, and NPC behavior models",
+    "Collaborate with game designers and content creators to define AI system requirements and constraints",
+    "Architect and maintain scalable, reusable AI code systems for NPC behaviors and traversal mechanics",
+    "Create and maintain thorough documentation for AI systems and architecture",
+    "Guide and mentor a team of AI engineers with code reviews and career development",
+    "Ensure performance and memory efficiency across platforms using profiling and optimization",
+    "Work with QA and production to debug and resolve AI-related issues",
+    "Stay current on AI trends in game development to bring innovative techniques"
+  ],
+  "use_cases": [
+    "NPC behavior and navigation in open world games",
+    "Combat tactics and decision-making systems",
+    "Ambient life and crowd simulations",
+    "Character pathfinding and spatial reasoning",
+    "Group coordination and sensory perception for game characters"
+  ],
+  "tools_mentioned": [
+    "Debugging",
+    "Profiling Tools"
+  ],
+  "frameworks_mentioned": [
+    "Behavior Trees",
+    "Crowd Simulations",
+    "Machine Learning",
+    "Navigation Systems",
+    "Pathfinding",
+    "Procedural Content Generation",
+    "State Machines",
+    "Utility Systems"
+  ],
+  "languages_programming": [
+    "C++",
+    "Lua",
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a game AI engineering role focused on building and\ndeploying AI systems for NPCs (behavior trees, state\nmachines, navigation, decision-making systems). While it's\ntraditional game AI rather than ML/LLM-based AI, the role\ninvolves hands-on development and implementation of\nintelligent systems directly.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "Behavior Trees",
+      "State Machines",
+      "Utility Systems",
+      "Navigation Systems",
+      "Pathfinding",
+      "Machine Learning",
+      "Procedural Content Generation",
+      "Crowd Simulations"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Profiling Tools",
+      "Debugging"
+    ],
+    "languages": [
+      "C++",
+      "Python",
+      "Lua"
+    ],
+    "domains": [],
+    "other": [
+      "Unreal Engine",
+      "EQS (Environment Query System)",
+      "Blackboard"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0175",
+  "source": "intl-ai-corpus",
+  "source_ref": "7309810",
+  "source_url": "https://builtin.com/job/full-stack-ai-engineer/7309810",
+  "title": "Full Stack AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Infinity Constellation",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-18",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "17 Employees",
+  "company_stage": "Seed",
+  "company_focus": "Holding company building AI-native businesses",
+  "industries": [
+    "Artificial Intelligence",
+    "Financial Services"
+  ],
+  "description": "AI Engineer (Contract-to-Hire)\n\nLocation: Remote (Global) Start Date: Rolling Compensation:\n$75/hour for first 4 weeks (contract-to-hire trial)\n\nPlease apply using the provided form, candidates who\ndirectly email will not be considered.\n\nAbout The Project\n\nWe're building AI-native engineering team within Infinity, a\nholding company building full-stack AI businesses. We\nsupport portfolio companies by:\n\n- Rapidly prototyping new product ideas to validate markets\n- Providing flex capacity during high-growth phases\n- Maintaining and evolving the Infinity Commons, our shared\n  library of frameworks, prompts, and reusable tools\n\nWe’re not a dev shop. We’re a surgical team of builders who\nmove fast, reduce ambiguity, and create leverage across a\nnetwork of founders building with AI at the core.\n\nThe Role\n\nWe’re looking for scrappy, sharp, execution-focused\nengineers who thrive in high-context, high-autonomy\nenvironments. You'll be deployed on fast-moving\nprojects—from validating ideas in one-week sprints to\nhelping scale production tools inside early-stage companies.\n\nThis is a contract-to-hire role. The first month is a paid\ntrial at $75/hour. If there’s mutual fit, you’ll transition\nto a full-time or retainer-based role within the core team.\n\nWhat You’ll Do\n\n- Build working prototypes of agentic AI applications, LLM\n  workflows, and full-stack products\n- Experiment quickly across frameworks (e.g. LangChain,\n  CrewAI, AutoGen), open source tools, and low-code stacks\n- Interface directly with product thinkers and founders to\n  distill ambiguous ideas into testable code\n- Contribute to shared internal libraries and the Infinity\n  Commons\n- Occasionally embed with portfolio companies to support\n  launches or unblock execution\n\nWhat We’re Looking For\n\nRequired:\n\n- Fluency in Python and experience using AI toolkits and APIs\n- Experience rapidly building and iterating on proof-of-\n  concept or MVPs\n- Comfort using a blend of commercial APIs, open source, and\n  low-code tooling to get things done\n- Strong problem-solving skills and analytical intuition\n\nBonus Points:\n\n- Prior work with AI agents, vector databases, or retrieval-\n  augmented generation (RAG)\n- Experience with frontend development (React, Next.js, etc.)\n- A background in a STEM discipline, data science, or quant-\n  heavy engineering\n- Previous experience in a venture-backed startup or technical\n  founder role\n\nHow We Work\n\n- Asynchronous by default, with tight feedback loops and clear\n  ownership\n- High-trust, high-autonomy culture that values shipping,\n  learning, and iterating\n- Small, elite team of senior builders with experience across\n  AI, product, and infrastructure\n\nHow to Apply\n\nSend us:\n\n- A short note in the application form on why this role fits\n  you Links to past work, projects, or GitHub.\n- Availability to start the contract phase\n\nWe’ll move quickly. If it feels like a fit, you’ll be coding\nreal things with us within a week.\n",
+  "skills_required": [
+    "AI agents",
+    "Anthropic APIs",
+    "AutoGen",
+    "CrewAI",
+    "LangChain",
+    "OpenAI APIs",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build working prototypes of agentic AI applications, LLM workflows, and full-stack products",
+    "Experiment quickly across frameworks including LangChain, CrewAI, and AutoGen",
+    "Interface directly with product thinkers and founders to distill ambiguous ideas into testable code",
+    "Contribute to shared internal libraries and the Infinity Commons framework",
+    "Embed with portfolio companies to support launches or unblock execution",
+    "Rapidly prototype new product ideas to validate markets"
+  ],
+  "use_cases": [
+    "Agentic AI applications that can autonomously execute tasks",
+    "LLLM-powered workflows for various business use cases",
+    "Retrieval-augmented generation systems for knowledge management",
+    "Full-stack AI products validated through rapid prototyping",
+    "Reusable AI frameworks and prompt libraries across portfolio companies",
+    "AI-native tools that scale within early-stage companies"
+  ],
+  "tools_mentioned": [
+    "Chroma",
+    "Next.js",
+    "Pinecone",
+    "Qdrant",
+    "REST",
+    "React",
+    "Weaviate",
+    "pgvector",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Anthropic APIs",
+    "AutoGen",
+    "CrewAI",
+    "LangChain",
+    "OpenAI APIs",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves building agentic AI applications, LLM\nworkflows, and working directly with frameworks like\nLangChain, CrewAI, and AutoGen. The engineer is responsible\nfor hands-on development and deployment of AI systems\nincluding RAG and vector databases, not just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "CrewAI",
+      "AutoGen",
+      "OpenAI APIs",
+      "Anthropic APIs",
+      "RAG",
+      "AI agents"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "Next.js",
+      "REST"
+    ],
+    "databases": [
+      "vector databases",
+      "Pinecone",
+      "Weaviate",
+      "Chroma",
+      "Qdrant",
+      "pgvector"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

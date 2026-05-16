@@ -1,0 +1,114 @@
+{
+  "job_id": "intl-ai-corpus-3025",
+  "source": "intl-ai-corpus",
+  "source_ref": "9110023",
+  "source_url": "https://builtin.com/job/senior-backend-engineer-go-studio-ai/9110023",
+  "title": "Senior Backend Engineer (Go) | Studio AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Creative Fabrica",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam, NLD",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-21",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "339 Employees",
+  "company_stage": "unknown",
+  "company_focus": "Subscription platform for creators with AI-powered creative\ntools and a large content library",
+  "industries": [
+    "eCommerce",
+    "Design"
+  ],
+  "description": "About Creative Fabrica\n\nCreative Fabrica is a subscription platform serving millions\nof creators, designers, and crafters worldwide. We're built\non the principle that everyone can be creative. We remove\nwhat stands in the way: expensive software, technical\nexpertise, and time-consuming production.\n\nOur Studio AI suite offers more than 26 specialized AI tools\nthat automate technical work: generate custom images, remove\nbackgrounds, create fonts, and produce publication-ready\ndesigns in minutes instead of hours.\n\nOur content library contains 15+ million commercially-\nlicensed fonts, graphics, SVGs, and templates, giving you\nprofessional-quality building blocks without the expense or\ntime of creating assets from scratch.\n\nAbout the team: Studio AI\n\nStudio AI is Creative Fabrica's bet on what creative\nsoftware looks like when AI is the default, not a feature.\n\nWe built a single platform where anyone can generate and\nedit images, video, audio, 3D models, and vector graphics\nusing state-of-the-art generative AI. Our tools serve\nhundreds of thousands of creators every day, from hobbyist\ncrafters to professional designers and everything in\nbetween, all in one place.\n\nWe move fast, integrate frontier models into production-\nready workflows, and build the infrastructure that gives\ncreators every tool they need to turn any idea into\nprofessional-grade media, at scale.\n\nAbout the role\n\nAs a Senior Backend Engineer (Go), you will be the architect\nof our multimodal generation pipeline. You won't just be\nbuilding APIs; you’ll be designing the high-concurrency\nsystems that orchestrate \"heavy\" AI workloads across any\nmedia domains. Your goal is to make complex, multi step AI\ngeneration feel instantaneous and reliable for a global\naudience of creators.\n\nWhat you will do:\n\n- Orchestrate Multimodal Workflows: Design and scale Go-based\n  microservices that manage the lifecycle of AI generations.\n- Performance Engineering: Optimize our ConnectRPC services\n  and async processing pipelines (Kafka + SQS) to handle\n  long-running, resource-intensive inference tasks without\n  compromising platform stability.\n- Build the Creative Engine: Develop the backend logic for\n  advanced features like multimodal orchestration.\n- Data & Infrastructure: Work with AWS to manage massive data\n  throughput and integrate with high-performance storage and\n  compute clusters.\n- Collaborate with AI Researchers: Bridge the gap between raw\n  model outputs and a polished \"One Person Studio\" user\n  experience.\n\nWhat you will need:\n\n- Advanced Go Engineering: Extensive experience building and\n  scaling Go services in high-traffic, high-volume SaaS\n  environments.\n- Distributed Systems Mastery: Proven ability to design\n  microservices that utilize asynchronous processing (Kafka\n  & SQS) and low-latency communication\n  (gRPC/ConnectRPC/GraphQL).\n- Cloud Architecture: Deep knowledge of AWS (EKS, S3, Lambda)\n  and experience managing complex compute environments.\n- Product Rigor: A background in building professional-grade\n  creative tools or media-heavy applications.\n- Software Best Practices: A quality-first mindset regarding\n  code reviews, testing strategies, and observability.\n\nNice to have:\n\n- Media Processing Experience: Familiarity with handling\n  varied media types (video transcoding, audio synthesis,\n  vector manipulation).\n- AI Infrastructure: Experience with model serving at scale or\n  managing GPU-accelerated workloads.\n- Entrepreneurial Mindset: Experience in a fast-paced\n  environment where you help define the product vision and\n  iterate quickly.\n\nIs this you?\n\nGet in touch! We'd love to speak to you.\n\nYou can apply by clicking the \"Apply now\" button.\n\nCreative Fabrica is an equal opportunity employer. We\ncelebrate diversity and are committed to creating an\ninclusive environment for all employees.\n",
+  "skills_required": [
+    "Audio Synthesis",
+    "Distributed Systems",
+    "Video Transcoding"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and scale Go-based microservices that manage the lifecycle of AI generations across multimodal domains",
+    "Optimize ConnectRPC services and async processing pipelines (Kafka + SQS) to handle long-running, resource-intensive inference tasks",
+    "Develop backend logic for advanced multimodal orchestration features",
+    "Manage massive data throughput on AWS, integrating with high-performance storage and compute clusters",
+    "Collaborate with AI researchers to bridge raw model outputs and polished user-facing experiences",
+    "Ensure platform stability and reliability for high-concurrency AI generation workloads at global scale"
+  ],
+  "use_cases": [
+    "Multimodal AI content generation (images, video, audio, 3D models, vector graphics)",
+    "Background removal and image editing automation",
+    "Custom font generation and creative asset production",
+    "Publication-ready design generation in minutes",
+    "One-stop creative studio platform for hobbyist and professional creators"
+  ],
+  "tools_mentioned": [
+    "AWS (EKS, S3, Lambda)",
+    "ConnectRPC",
+    "GPU Workloads",
+    "GraphQL",
+    "Kafka",
+    "Microservices",
+    "Model Serving",
+    "SQS",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Go"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is a backend engineering position focused on\nbuilding the infrastructure and orchestration layer around\nAI model inference, not directly building, training, or\nfine-tuning models. The engineer designs Go microservices,\nmanages async pipelines, and bridges raw model outputs to\nuser-facing experiences — enabling AI work but not working\non the models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "ConnectRPC",
+      "gRPC",
+      "GraphQL",
+      "Microservices"
+    ],
+    "databases": [],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "SQS",
+      "AWS (EKS, S3, Lambda)"
+    ],
+    "ops": [
+      "Model Serving",
+      "GPU Workloads"
+    ],
+    "languages": [
+      "Go"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed Systems",
+      "Video Transcoding",
+      "Audio Synthesis"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

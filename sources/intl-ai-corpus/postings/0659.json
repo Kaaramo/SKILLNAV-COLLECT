@@ -1,0 +1,161 @@
+{
+  "job_id": "intl-ai-corpus-0659",
+  "source": "intl-ai-corpus",
+  "source_ref": "8316490",
+  "source_url": "https://builtin.com/job/senior-azure-cloud-security-ai-operations-engineer/8316490",
+  "title": "Senior Azure Cloud, Security & AI Operations Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AI Technology Partners",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-27",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "17 Employees",
+  "company_stage": null,
+  "company_focus": "Generative AI solutions and managed services",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "AI Technology Partners (AITP) is a leader in delivering\ncutting-edge generative AI solutions and managed services,\nspecializing in secure, customizable AI deployments for\nenterprises. Our offerings are designed to help\norganizations unlock the full value of AI while maintaining\nrobust security and compliance across their infrastructures.\n\nAbout the role\n\nAt AI Technology Partners (AITP), we empower enterprises to\nscale revenue & profit —with secure, compliant generative AI\nsolutions.\n\nThis role is a force-multiplier on a small, high-trust team:\nyou’ll design and run production-grade Azure platforms,\nembed security into every step, and use AI to accelerate\ndelivery. If you like shipping, automating, and owning\noutcomes with real customer impact, you’ll fit right in.\n\nWhat you'll do\n\nPlatform & DevOps\n\n·      Own and evolve Azure foundations: subscription\nstrategy, landing zones, networking (VNets, Private Link,\nFirewall), identity (Entra ID), secrets (Key Vault/Managed\nHSM), and data services (e.g., Cosmos DB, MongoDB Atlas,\nStorage).\n\n·      Design, implement, and harden CI/CD (GitHub Actions\nand/or Azure DevOps) for apps, infra, and policies; champion\nInfrastructure as Code (Terraform and/or Bicep).\n\n·      Build golden images/base containers, artifact\npipelines, and automated drift detection.\n\nSecurity & Compliance (DevSecOps)\n\n·      Operate and automate threat detection/response (e.g.,\nMicrosoft Sentinel, Defender for Cloud) and\ncontainer/dependency scanning (e.g., Snyk, Trivy).\n\n·      Enforce least-privilege IAM, certificate rotation,\nand secrets hygiene across environments.\n\n·      Map controls to frameworks (e.g., ISO 27001, SOC 2,\nNIST, HIPAA, GDPR, FedRAMP contexts) and produce practical\nevidence via policy-as-code and reporting for our clients\nand certification processes.\n\nReliability & Operations (SRE)\n\n·      Establish SLOs/SLIs, error budgets, and proactive\ncapacity/perf management.\n\n·      Stand up end-to-end observability (e.g., Azure\nMonitor, Log Analytics, Application Insights, etc.) and\nactionable alerting; reduce MTTR with auto-remediation.\n\n·      Lead incident response, post-incident reviews, and\nsystemic hardening.\n\nAI-enabled automation\n\n·      Use LLMs/code-gen to boost infra and ops workflows:\npipeline scaffolding, policy generation, runbook creation,\nand knowledge capture.\n\n·      Partner with our product/solutions teams to run AI\nworkloads securely in production.\n\nClient-facing impact\n\n·      Work directly with enterprise client teams; translate\nrequirements into secure, reliable designs; present trade-\noffs; guide adoption and handover.\n\nQualifications\n\nMust-have\n\n·      Senior-level experience operating and securing Azure\nat scale (multi-subscription/tenant patterns, landing zones,\nnetwork isolation, identity, and data).\n\n·      Deep hands-on with Terraform (or Bicep), GitHub\nActions/Azure DevOps, containers, and modern artifact\nworkflows.\n\n·      Practical Security: SIEM/SOAR (Sentinel or similar),\nimage/dependency scanning, vulnerability management, and\npolicy-as-code.\n\n·      Strong observability chops (Azure Monitor/Log\nAnalytics/App Insights, OpenTelemetry) and an SRE mindset.\n\n·      Clear communicator who’s comfortable with client\ninteraction and crisp written docs.\n\n·      Azure Container Registry (ACR) including scaling,\ningress, networking, and security.\n\n·      GitHub Actions pipelines, workflows, and deployments.\n\n·      Core Stack Experience & Summary:\n\no   Infra as Code: Terraform\n\no   Cloud & Containers: ACA, ACR, Key Vault, Storage, Cosmos\nDB, Monitor, App Insights, Application Gateway, Private\nEndpoints, Bastion\n\no   Databases: MongoDB Atlas, Cosmos DB, MeiliSearch, Vector\nSearch\n\no   AI/ML: Azure OpenAI (GPT-4.1), LibreChat RAG pipelines,\nMeiliSearch, multi-cloud AI providers (OpenAI, Google\nGemini, Cohere)\n\no   CI/CD & DevOps: GitHub + GitHub Actions, Terraform\nautomation, Docker workflows\n\no   Security & Identity: Azure AD/Entra ID, OIDC/JWT,\nDefender/Sentinel, Key Vault, policy-as-code\n\no   Observability: Azure Monitor, Log Analytics, Application\nInsights\n\nNice to Have\n\n·      Cross-cloud exposure (AWS/GCP), private connectivity\n(ExpressRoute), and hybrid/on-prem integrations.\n\n·      Background in secure enterprise environments; audit\nevidence automation and compliance reporting.\n\nLocation\n\nRemote, US-based candidates preferred. The role may involve\nworking across multiple time zones.\n\nHow we work\n\n·      Ownership & autonomy: You'll make architecture\ndecisions and see them through production.\n\n·      Small team, big leverage: Low ceremony, high impact;\nwe value judgement and momentum.\n\n·      Security by design: Controls are built-in, not bolted\non.\n\n·      AI in the loop: We use AI where it creates real\nleverage-never as theater.\n\nWhat we offer\n\n·      Challenging work with modern AI workloads and\ndemanding enterprise environments.\n\n·      Learning & sharing culture with deep dives, brown\nbags, and support for certifications/publication.\n\n·      Inclusive, flexible workplace—bring your whole self;\nwork where you do your best thinking.\n\nHow to Apply\n\nInterested candidates are encouraged to submit their resumes\nand a brief cover letter outlining relevant experience and\nwhy they are a good fit for this role.\n\nEqual Opportunity Statement\n\nAI Technology Partners is committed to equal employment\nopportunity in all practices and reaffirms that there shall\nbe no unlawful discrimination against any employee or\napplicant for employment on the grounds of race, color,\nreligion, sex, sexual orientation, gender identity, national\norigin, age, disability, or veteran status.\n",
+  "skills_required": [
+    "Azure OpenAI (GPT-4.1)",
+    "Cohere",
+    "Google Gemini",
+    "LLMs",
+    "OpenAI API",
+    "RAG",
+    "code-gen"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and evolve Azure foundations including subscription strategy, landing zones, networking, identity, secrets management, and data services",
+    "Design and implement CI/CD pipelines using GitHub Actions or Azure DevOps with Infrastructure as Code (Terraform/Bicep)",
+    "Operate and automate security monitoring, threat detection, vulnerability scanning, and compliance frameworks",
+    "Establish SRE practices including SLOs/SLIs, observability, incident response, and auto-remediation workflows",
+    "Use LLMs and code generation to accelerate infrastructure and operations workflows like pipeline scaffolding and runbook creation",
+    "Work directly with enterprise clients to translate requirements into secure, reliable designs and guide adoption"
+  ],
+  "use_cases": [
+    "Deploying and managing secure generative AI solutions for enterprise clients",
+    "Running Azure OpenAI (GPT-4.1) workloads in production with robust security controls",
+    "Implementing RAG pipelines with LibreChat and MeiliSearch for enterprise AI applications",
+    "Managing vector search and multi-cloud AI provider integrations (OpenAI, Google Gemini, Cohere)",
+    "Supporting secure, compliant AI infrastructure that meets enterprise regulatory requirements"
+  ],
+  "tools_mentioned": [
+    "Application Insights",
+    "Azure",
+    "Azure Application Gateway",
+    "Azure Container Registry",
+    "Azure Defender",
+    "Azure DevOps",
+    "Azure Key Vault",
+    "Azure Monitor",
+    "Azure OpenAI",
+    "Bicep",
+    "Cosmos DB",
+    "Docker",
+    "Entra ID",
+    "GitHub Actions",
+    "Log Analytics",
+    "MeiliSearch",
+    "Microsoft Sentinel",
+    "MongoDB Atlas",
+    "OpenTelemetry",
+    "Policy-as-code",
+    "Private Endpoints",
+    "Snyk",
+    "Terraform",
+    "Trivy",
+    "Vector Search"
+  ],
+  "frameworks_mentioned": [
+    "Azure OpenAI (GPT-4.1)",
+    "Cohere",
+    "Google Gemini",
+    "LLMs",
+    "OpenAI API",
+    "RAG",
+    "code-gen"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role is an Azure Cloud, Security & AI Operations\nEngineer focused on infrastructure, security, and DevOps.\nWhile the company delivers generative AI solutions and the\nengineer uses LLMs to accelerate workflows, the primary\nresponsibilities involve building and maintaining Azure\nplatforms, security operations, and observability - not\nbuilding, training, or deploying AI models directly. This is\nan infrastructure/platform role that supports AI workloads\nrather than developing them.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "code-gen",
+      "RAG",
+      "Azure OpenAI (GPT-4.1)",
+      "OpenAI API",
+      "Google Gemini",
+      "Cohere"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Cosmos DB",
+      "MongoDB Atlas",
+      "MeiliSearch",
+      "Vector Search"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure",
+      "Azure OpenAI",
+      "Entra ID",
+      "Azure Application Gateway",
+      "Private Endpoints"
+    ],
+    "ops": [
+      "Azure DevOps",
+      "GitHub Actions",
+      "Terraform",
+      "Bicep",
+      "Docker",
+      "Azure Container Registry",
+      "Azure Monitor",
+      "Log Analytics",
+      "Application Insights",
+      "Microsoft Sentinel",
+      "Azure Defender",
+      "OpenTelemetry",
+      "Azure Key Vault",
+      "Snyk",
+      "Trivy",
+      "Policy-as-code"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

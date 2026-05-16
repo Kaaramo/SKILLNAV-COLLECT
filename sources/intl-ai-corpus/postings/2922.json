@@ -1,0 +1,165 @@
+{
+  "job_id": "intl-ai-corpus-2922",
+  "source": "intl-ai-corpus",
+  "source_ref": "9064868",
+  "source_url": "https://www.builtinla.com/job/senior-ai-engineer-core-supernal/9064868",
+  "title": "Senior AI Engineer (Core) - Supernal",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Infinity Constellation",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "unknown",
+  "company_focus": "AI employees for small-to-medium businesses via agentic\nworkflows",
+  "industries": [
+    "Artificial Intelligence",
+    "Financial Services"
+  ],
+  "description": "Senior AI Engineer About Supernal\n\nSupernal helps small-to-medium businesses hire their first\nAI employee. Our AI teammates are built using intelligent,\nagentic workflows deployed on a proprietary platform. We\ndeliver working, value-generating AI Employees—not\ntools—that handle real business processes alongside human\nteams.\n\nThe Role\n\nWe’re hiring a Senior AI Engineer to build and ship the\nfirst generation of personalized, self-improving agentic\nworkflows that users rely on daily. This is an “end-to-end”\nrole: you’ll design the agent runtime, memory + retrieval\nsystems, evaluation harnesses, and the product-facing\nsurfaces that put agents in front of real users at scale.\n\nYou should be equally comfortable reasoning about\ndistributed systems and data (latency, caching, queues,\nfailure modes, cost) as you are with modern agent stacks\n(tool use, memory, RAG, multi-step planning, guardrails, and\nevaluation).\n\nThis role will partner closely with platform engineering to\nleverage and extend our core services (Django backend,\nevent-driven systems, Kubernetes, observability) while\nowning critical parts of the AI application layer.\n\nWhat You’ll Build\n\n- Personalized agent runtime: Agentic workflows that adapt to\n  a user’s preferences, data, and ongoing behavior over\n  time.\n- Memory & retrieval systems: Short/long-term memory, durable\n  state, and retrieval pipelines across vector DBs and\n  relational data.\n- Voice experiences (real-time + async): Speech-to-\n  speech/voice agents, streaming audio pipelines, turn-\n  taking, interruption handling, latency tuning, and QA for\n  natural conversations.\n- Agent evaluation + reliability: Offline/online evals,\n  regression suites, red-teaming, monitoring, and rollout\n  controls so agents are trustworthy in production.\n- Production agent infrastructure: Scalable orchestration\n  patterns for multi-step jobs, background tasks, and user-\n  facing interactions (sync + async), with clear SLAs/SLOs.\n- Tooling + developer experience: Libraries and primitives\n  that make it easy for the team to build new agent\n  capabilities quickly and safely.\n\nWhat You’ll Own (Responsibilities)\n\n- Ship user-facing agent experiences end-to-end: prototype →\n  production → iteration based on real usage.\n- Architect and implement stateful agent systems (workflows,\n  tool calling, memory, retrieval, and human-in-the-loop\n  where needed).\n- Build voice features end-to-end where they unlock value:\n  realtime speech agents, voice UI/UX, prompt/audio routing,\n  and guardrails for safe tool execution.\n- Build/own an evaluation harness:\n  - curated test sets + scenario suites\n  - automated scoring / rubric-based graders\n  - prompt/model/version tracking\n  - canary + A/B experimentation and safe rollout patterns\n- Design data + retrieval pipelines:\n  - chunking, enrichment, metadata strategy\n  - hybrid retrieval (vector + keyword + structured filters)\n  - re-ranking, caching, and latency optimization\n  - multi-tenant safety and data isolation\n- Integrate with and extend our platform primitives:\n  - Django/DRF/ASGI services\n  - async execution + queues + workflow orchestration\n  - PostgreSQL + pgvector\n  - Kubernetes deployments, autoscaling, and cost controls\n- Establish engineering rigor for agents:\n  - observability (traces, spans, structured logs)\n  - reliability patterns (timeouts, retries, circuit breakers,\n    graceful degradation)\n  - security/privacy controls for data access and tool execution\n\nWhat We’re Looking ForRequired\n\n- Strong software engineering fundamentals (design, testing,\n  code quality, performance, security).\n- Production experience deploying AI systems in front of users\n  (not just notebooks/demos).\n- Experience building agentic or LLM-powered systems with\n  memory and tool use.\n- Comfort working across application + infrastructure layers:\n  APIs, background jobs, data stores, and deployment.\n- Hands-on experience with at least one agent framework (or\n  equivalent custom implementation), such as:\n  - LangChain / LangGraph\n  - LlamaIndex\n  - AutoGen / CrewAI-style multi-agent patterns\n- Strong understanding of retrieval and vector search\n  concepts: embeddings, indexing, filtering, evaluation.\n\nPreferred\n\n- Experience with vector databases and/or search stacks (e.g.,\n  Pinecone, Chroma, Weaviate, Qdrant, pgvector).\n- Experience designing evaluation systems (offline eval, human\n  eval loops, production monitoring, prompt/model\n  regression).\n- Experience building voice/real-time systems (streaming,\n  WebRTC or similar), and/or integrating speech (STT/TTS)\n  into production applications.\n- Experience building durable, long-running workflows\n  (Temporal or similar orchestration engines).\n- Familiarity with observability tooling (OpenTelemetry,\n  Datadog, or similar).\n- Experience shipping multi-tenant SaaS systems with strong\n  privacy boundaries.\n\nInterview Focus Areas\n\n- System design for agentic applications (state, memory,\n  evaluation, failure modes).\n- Practical retrieval/RAG design (data modeling, indexing,\n  relevance, latency).\n- Production engineering practices (testing strategy,\n  observability, rollouts).\n- Ability to communicate tradeoffs and make good technical\n  decisions under uncertainty.\n\nCompensation & Logistics\n\n- Compensation: Competitive salary commensurate with\n  experience (Senior level)\n- Location: Remote\n- Type: Full-time\n- Requirements: Overlap with Americas timezones for\n  collaboration; reliable high-speed internet\n",
+  "skills_required": [
+    "Agent frameworks",
+    "AutoGen",
+    "CrewAI",
+    "Guardrails",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "Multi-agent patterns",
+    "Prompt engineering",
+    "RAG",
+    "STT/TTS integration",
+    "Tool use / function calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Ship user-facing agent experiences end-to-end from prototype to production iteration based on real usage",
+    "Architect and implement stateful agent systems including workflows, tool calling, memory, retrieval, and human-in-the-loop patterns",
+    "Build voice features end-to-end including realtime speech agents, voice UI/UX, prompt/audio routing, and guardrails for safe tool execution",
+    "Build and own an evaluation harness with curated test sets, automated scoring, prompt/model/version tracking, and canary/A/B experimentation",
+    "Design data and retrieval pipelines including chunking, hybrid retrieval, re-ranking, caching, latency optimization, and multi-tenant data isolation",
+    "Integrate with and extend platform primitives including Django services, async execution, PostgreSQL/pgvector, and Kubernetes deployments",
+    "Establish engineering rigor for agents including observability, reliability patterns, and security/privacy controls"
+  ],
+  "use_cases": [
+    "Personalized AI employees for small-to-medium businesses that handle real business processes",
+    "Agentic workflows that adapt to user preferences, data, and behavior over time",
+    "Voice-based AI agents with real-time speech-to-speech conversations for business use",
+    "Self-improving agent systems with memory and retrieval capabilities",
+    "Multi-tenant SaaS platform for deploying AI teammates at scale"
+  ],
+  "tools_mentioned": [
+    "ASGI",
+    "AWS",
+    "CI/CD",
+    "Chroma",
+    "Datadog",
+    "Django",
+    "Django REST Framework",
+    "Docker",
+    "Kubernetes",
+    "OpenTelemetry",
+    "Pinecone",
+    "PostgreSQL",
+    "Qdrant",
+    "Temporal",
+    "Vector search / embeddings",
+    "Weaviate",
+    "WebRTC",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "AutoGen",
+    "CrewAI",
+    "Guardrails",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "Multi-agent patterns",
+    "Prompt engineering",
+    "RAG",
+    "STT/TTS integration",
+    "Tool use / function calling"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and deploying agentic AI\nsystems end-to-end, including agent runtimes,\nmemory/retrieval systems, RAG pipelines, voice agents, and\nevaluation harnesses. The engineer works hands-on with LLM-\npowered agents, tool use, and multi-step planning — all core\nAI/ML system building activities.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "AutoGen",
+      "CrewAI",
+      "RAG",
+      "Agent frameworks",
+      "Prompt engineering",
+      "Tool use / function calling",
+      "Multi-agent patterns",
+      "Guardrails",
+      "STT/TTS integration"
+    ],
+    "ml": [],
+    "web": [
+      "Django",
+      "Django REST Framework",
+      "ASGI",
+      "WebRTC"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "pgvector",
+      "Pinecone",
+      "Chroma",
+      "Weaviate",
+      "Qdrant",
+      "Vector search / embeddings"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "OpenTelemetry",
+      "Datadog",
+      "CI/CD",
+      "Temporal"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

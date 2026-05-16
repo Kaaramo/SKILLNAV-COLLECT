@@ -1,0 +1,153 @@
+{
+  "job_id": "intl-ai-corpus-2440",
+  "source": "intl-ai-corpus",
+  "source_ref": "8883724",
+  "source_url": "https://www.builtinla.com/job/full-stack-ai-engineer/8883724",
+  "title": "Full Stack AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Create Music Group",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-27",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Growth stage (Inc 5000 #2 in 2020, 400 employees)",
+  "company_focus": "Music and entertainment company with technology platform for\nrecord labels",
+  "industries": [],
+  "description": "Established in 2015, Create Music Group is a leading music\nand entertainment company. The company operates as a record\nlabel, distribution company, and entertainment network which\ngenerates over 15 billion music streams each month on DSP’s.\nNamed #2 on the Inc 5000 Fastest Growth Companies in America\nin 2020, the company has grown exponentially by leveraging\nits owned IP with its media and technology platform. The\ncompany works with superstar artists, major and independent\nrecord labels, and global media brands. It operates a number\nof companies including Label Engine, one of the largest\nindependent music distribution platforms in the world, with\nover 75,000 artists and 5,000 label clients; and\nFlighthouse, a digital entertainment brand focused on Gen Z,\nwhich has more than 300 million followers across social\nmedia. Create Music Group is based in Hollywood, CA and has\n400 employees worldwide.\n\nJob Summary\n\nWe are building CreateOS — a next-generation operating\nsystem for modern record labels — and AI is at the center of\nit. As a Full Stack AI Engineer, you will own the end-to-end\ndesign and delivery of AI-powered features that make\nCreateOS intelligent. This means building the agentic\nworkflows, APIs, and interfaces through which users interact\nwith AI copilots, predictive tools, and automated pipelines\n— from first concept to production deployment.\n\nThis is a high-ownership role for someone who thinks in full\nsystems. You won't hand work off at the API boundary —\nyou'll own the experience from the data layer to the UI. You\nwill work directly with the VP of AI & ML Engineering and\nsit at the intersection of product, engineering, and applied\nAI. Your immediate impact will be on three of CMG's highest-\npriority AI initiatives: M&A catalog valuation tooling, AI-\ndriven A&R discovery surfaces, and marketing automation\nagents — each directly tied to revenue growth and\ncompetitive differentiation.\n\nYou'll work in close collaboration with the ML Engineer, who\nowns the intelligence layer (models, features, evaluation).\nYou own the application and orchestration layer that brings\nthat intelligence to users.\n\nResponsibilities\n\nAgentic AI & LLM Systems (Primary Ownership)\n\n- Design, build, and maintain modular AI agents that automate\n  multi-step workflows across CreateOS (contracts,\n  accounting, distribution, metadata)\n- Own RAG pipelines, retrieval architectures, and semantic\n  search systems grounded in CreateOS's structured business\n  data (contracts, royalty statements, catalog metadata,\n  etc.)\n- Implement guardrails, evaluation frameworks, and human-in-\n  the-loop controls for agentic systems\n- Integrate LLMs (OpenAI, Anthropic, or open-source models)\n  into user-facing features across CreateOS modules\n\nFull Stack Development\n\n- Design, build, and maintain scalable, production-grade\n  applications across the frontend and backend\n- Build intuitive, AI-native user experiences including chat\n  interfaces, copilot-style tools, and workflow automation\n  surfaces within CreateOS\n- Own features end-to-end — from data modeling and API design\n  to UI implementation and deployment\n\nPlatform & Infrastructure\n\n- Deploy and maintain services using containerization and\n  cloud platforms\n- Ensure AI-powered features are reliable, observable, and\n  performant in production\n- Collaborate with the ML Engineer to integrate model outputs\n  and feature pipelines cleanly into product surfaces\n- Maintain high code quality standards through unit and\n  integration testing, code reviews, and CI/CD pipeline\n  ownership\n- Partner with Data Engineering (who owns pipeline\n  infrastructure) to consume and integrate internal data\n  pipelines (dbt, Airflow), third-party API feeds (DSPs,\n  distributors), webhook and event-driven data flows, and\n  ETL outputs into CreateOS product surfaces\n\nIteration & Product Thinking\n\n- Rapidly prototype and evaluate new AI-powered features based\n  on internal user feedback\n- Contribute to technical architecture decisions with a bias\n  toward shipping and learning\n- Communicate tradeoffs clearly across engineering, product,\n  and business stakeholders\n- Other duties as assigned\n\nQualifications\n\n- 5+ years of software engineering experience with a track\n  record of shipping production applications\n- Hands-on experience building and owning agentic or multi-\n  step AI workflows in production\n- Strong proficiency in a modern frontend framework (React,\n  Next.js) and a backend language (Python or Node.js)\n- Hands-on experience integrating LLMs or AI APIs into user-\n  facing products\n- Familiarity with RAG systems, vector databases, and\n  embedding-based retrieval\n- Experience designing and documenting RESTful APIs\n- Proficiency in relational databases (PostgreSQL or similar);\n  comfortable writing and optimizing SQL queries\n- Solid understanding of Kubernetes, containerization\n  (Docker), and DevOps practices — including CI/CD\n  pipelines, observability, and deployment workflows\n- Experience with AI evaluation practices — LLM output quality\n  assessment, hallucination detection, and building eval\n  frameworks for agentic systems\n- Proficiency with AI-native development tools (Cursor, Claude\n  Code, or similar)\n- Ability to work independently and own features from concept\n  to deployment\n\nPreferred Qualifications\n\n- Previous experience at a startup or as an early/founding\n  engineer\n- Portfolio of personal or professional AI projects — RAG\n  systems, LLM agents, copilot-style tools (GitHub links\n  welcome)\n- Familiarity with the music industry, rights management, or\n  royalties workflows\n- Experience with AI-native development tools (Cursor, Claude\n  Code, or similar)\n- Knowledge of data privacy, compliance, and responsible AI\n  deployment considerations\n\nTech Stack\n\n- Frontend: React, Next.js, TypeScript, Tailwind CSS\n- Backend: Python (FastAPI), Node.js\n- AI & Agent Frameworks: LangChain, LangGraph, DeepEval, MCP\n- Vector & Retrieval: Pinecone, Weaviate, or similar\n- Databases & APIs: PostgreSQL, Snowflake, RESTful API design\n- Infrastructure: Docker, Kubernetes, GCP or AWS, Supabase\n- Collaboration & Dev Tools: GitHub, Linear, Cursor / Claude\n  Code\n\nPay Scale\n\n- US Remote - $140,000 - $170,000 USD\n- The final compensation within this range will be determined\n  based on the candidate’s location, experience, skills, and\n  overall fit for the role.\n\nFair Chance Policy\n\nIn accordance with the Los Angeles County Fair Chance\nOrdinance, we will consider employment for qualified\napplicants with criminal histories. We evaluate candidates\nbased on their qualifications and the nature of the offense\nin relation to the job for which they are applying.\n",
+  "skills_required": [
+    "AI agents",
+    "Anthropic API",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "OpenAI API",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain modular AI agents that automate multi-step workflows across CreateOS (contracts, accounting, distribution, metadata)",
+    "Own RAG pipelines, retrieval architectures, and semantic search systems grounded in CreateOS's structured business data",
+    "Implement guardrails, evaluation frameworks, and human-in-the-loop controls for agentic systems",
+    "Integrate LLMs (OpenAI, Anthropic, or open-source models) into user-facing features across CreateOS modules",
+    "Build intuitive, AI-native user experiences including chat interfaces, copilot-style tools, and workflow automation surfaces",
+    "Design, build, and maintain scalable, production-grade applications across frontend and backend",
+    "Deploy and maintain services using containerization and cloud platforms",
+    "Collaborate with ML Engineer to integrate model outputs and feature pipelines cleanly into product surfaces"
+  ],
+  "use_cases": [
+    "M&A catalog valuation tooling for music catalogs",
+    "AI-driven A&R discovery surfaces for artist and repertoire identification",
+    "Marketing automation agents for music promotion",
+    "Contract analysis and automation workflows",
+    "Royalty statement processing and metadata management",
+    "Automated distribution and accounting workflows"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "CI/CD",
+    "DeepEval",
+    "Docker",
+    "FastAPI",
+    "GCP",
+    "Kubernetes",
+    "Next.js",
+    "Node.js",
+    "Pinecone",
+    "PostgreSQL",
+    "RESTful APIs",
+    "React",
+    "Snowflake",
+    "Supabase",
+    "Tailwind CSS",
+    "Weaviate",
+    "dbt"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Anthropic API",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "OpenAI API",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building and deploying AI\nsystems - specifically agentic workflows, RAG pipelines, and\nLLM integrations. The engineer owns the application layer\nthat brings AI intelligence to users, including building AI\nagents that automate workflows and implementing RAG\narchitectures. This is direct work ON AI systems, not just\nsupporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "AI agents",
+      "OpenAI API",
+      "Anthropic API",
+      "MCP"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "Next.js",
+      "FastAPI",
+      "Node.js",
+      "RESTful APIs",
+      "Tailwind CSS"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "PostgreSQL",
+      "Snowflake"
+    ],
+    "data": [
+      "dbt",
+      "Airflow"
+    ],
+    "cloud": [
+      "GCP",
+      "AWS",
+      "Supabase"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "DeepEval"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

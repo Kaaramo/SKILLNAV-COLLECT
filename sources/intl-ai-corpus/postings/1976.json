@@ -1,0 +1,160 @@
+{
+  "job_id": "intl-ai-corpus-1976",
+  "source": "intl-ai-corpus",
+  "source_ref": "8676512",
+  "source_url": "https://builtin.com/job/lead-ai-engineer/8676512",
+  "title": "Lead AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Enable Data Incorporated",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-06",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "19 Employees",
+  "company_stage": "unknown",
+  "company_focus": "Data and AI solutions on Azure cloud infrastructure",
+  "industries": [
+    "Cloud",
+    "Database"
+  ],
+  "description": "Primary Responsibilities:\n\n\n\nThis role focuses on building production-ready AI\napplications and deploying them on Azure Databricks and\nAzure cloud infrastructure. You will work end-to-end: from\ndata ingestion and model integration to scalable deployment,\nmonitoring, and ongoing optimization.\n\nThe expectation is to convert AI ideas into reliable,\ngoverned, and cost-efficient applications that run in\nproduction. You will design data and AI pipelines, integrate\nmodels (including ML and Generative AI), and deploy them\nusing Databricks workflows and Azure-native services.\n\nSuccess in this role requires strong hands-on experience\nwith Azure Databricks, Python, SQL, and Azure services,\nalong with a clear understanding of how AI systems fail in\nproduction—and how to prevent it. You will collaborate\nclosely with data scientists, platform engineers, and\nbusiness stakeholders to ensure AI applications are usable,\nscalable, and maintainable beyond the first release.\n\nKey Responsibilities\n\n- Design and build end-to-end data and AI pipelines using\n  Azure Databricks.\n- Develop robust ETL/ELT workflows using Python (PySpark) and\n  SQL.\n- Implement CI/CD pipelines for Databricks deployments (jobs,\n  notebooks, workflows).\n- Integrate Databricks with Azure services (Data Lake, Blob\n  Storage, Key Vault, Azure OpenAI, Azure Functions, etc.).\n- Optimize jobs for performance, cost, and reliability.\n- Build reusable, modular code.\n- Collaborate with data scientists and platform teams to move\n  models from experimentation to production.\n- Implement logging, monitoring, and error handling for\n  production pipelines.\n- Develop and deploy ML and Generative AI models (LLMs,\n  embeddings, RAG pipelines) for NLP, computer vision, and\n  predictive analytics.\n- Fine-tune LLMs using LoRA/QLoRA and integrate with Azure\n  OpenAI or Hugging Face models.\n- Implement vector search and retrieval pipelines using FAISS\n  or Azure Cognitive Search.\n- Ensure responsible AI practices, including bias detection\n  and model governance.\n\nGood to Have (Strong Advantage)\n\n- Experience with ML and Generative AI workloads on\n  Databricks.\n- RAG, embeddings, or inference pipelines.\n- Terraform / ARM / Bicep for infrastructure.\n- Databricks Asset Bundles.\n- Airflow or ADF orchestration.\n- Production monitoring and cost optimization experience.\n- Knowledge of LangChain or similar frameworks for AI\n  application development.\n- Experience with Azure AI services (Azure Machine Learning,\n  Azure Cognitive Services).\n\n\n\n\n\n\n\n\n\nRequirements\n\n- Azure Databricks (jobs, workflows, clusters, Unity Catalog\n  preferred).\n- Python (PySpark-heavy, not just pandas).\n- SQL (complex joins, window functions, analytical queries).\n- Azure Cloud (ADLS Gen2, ADF, Key Vault, IAM concepts).\n- Pipeline orchestration & deployment (CI/CD, environment\n  promotion).\n- Azure DevOps.\n- Strong understanding of ML lifecycle and MLOps best\n  practices.\n- Experience with model deployment using MLflow or similar\n  frameworks.\n\n📩 Interested? Please share your resume at:\nPavithra.tr@enabledata.com\n",
+  "skills_required": [
+    "Azure OpenAI",
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "LoRA",
+    "QLoRA",
+    "RAG",
+    "embeddings",
+    "vector search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build end-to-end data and AI pipelines using Azure Databricks",
+    "Develop robust ETL/ELT workflows using Python (PySpark) and SQL",
+    "Implement CI/CD pipelines for Databricks deployments including jobs, notebooks, and workflows",
+    "Integrate Databricks with Azure services including Data Lake, Blob Storage, Key Vault, and Azure OpenAI",
+    "Develop and deploy ML and Generative AI models including LLMs, embeddings, and RAG pipelines",
+    "Fine-tune LLMs using LoRA/QLoRA and integrate with Azure OpenAI or Hugging Face models",
+    "Implement vector search and retrieval pipelines using FAISS or Azure Cognitive Search",
+    "Collaborate with data scientists and platform teams to move models from experimentation to production"
+  ],
+  "use_cases": [
+    "NLP applications",
+    "Computer vision solutions",
+    "Predictive analytics",
+    "RAG-based retrieval and search systems",
+    "Enterprise AI application deployment"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "Azure Blob Storage",
+    "Azure Cognitive Search",
+    "Azure Cognitive Services",
+    "Azure Data Lake",
+    "Azure Databricks",
+    "Azure DevOps",
+    "Azure Functions",
+    "Azure Key Vault",
+    "Azure Machine Learning",
+    "CI/CD",
+    "ETL/ELT",
+    "FAISS",
+    "MLflow",
+    "PySpark",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Azure OpenAI",
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "LoRA",
+    "QLoRA",
+    "RAG",
+    "embeddings",
+    "vector search"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, deploying, and fine-\ntuning AI models including LLMs, implementing RAG pipelines,\nand developing ML/Generative AI applications. The position\nrequires hands-on work with model training, fine-tuning\n(LoRA/QLoRA), vector search, and production deployment of AI\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Azure OpenAI",
+      "LLMs",
+      "RAG",
+      "LangChain",
+      "embeddings",
+      "vector search"
+    ],
+    "ml": [
+      "LoRA",
+      "QLoRA",
+      "Hugging Face"
+    ],
+    "web": [],
+    "databases": [
+      "FAISS",
+      "Azure Cognitive Search"
+    ],
+    "data": [
+      "PySpark",
+      "Airflow",
+      "ETL/ELT"
+    ],
+    "cloud": [
+      "Azure Databricks",
+      "Azure Data Lake",
+      "Azure Blob Storage",
+      "Azure Key Vault",
+      "Azure Functions",
+      "Azure Machine Learning",
+      "Azure Cognitive Services"
+    ],
+    "ops": [
+      "MLflow",
+      "CI/CD",
+      "Azure DevOps",
+      "Terraform"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "NLP",
+      "Computer Vision"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

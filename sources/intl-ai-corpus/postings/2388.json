@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-2388",
+  "source": "intl-ai-corpus",
+  "source_ref": "8869147",
+  "source_url": "https://builtin.com/job/engineer-ai-seg/8869147",
+  "title": "Engineer AI - SEG",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Presidio",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,150 Employees",
+  "company_stage": null,
+  "company_focus": "Digital solutions and managed services provider specializing\nin AI, cloud, cybersecurity, and IT infrastructure",
+  "industries": [],
+  "description": "Presidio, Where Teamwork and Innovation Shape the Future\nAt Presidio, we’re at the forefront of a global technology\nrevolution, transforming industries through cutting-edge\ndigital solutions and next-generation AI. We empower\nbusinesses—and their customers—to achieve more through\ninnovation, automation, and intelligent insights.\n\nThe Role Presidio’s Solution Engineering Team is building\nthe next generation of solutions that enhance business\noutcomes for our clients and internal teams. We are seeking\nan Engineer with strong technical fundamentals, curiosity\nfor emerging technologies, and a passion for solving real-\nworld challenges using cloud and Generative AI.\n\nKey skills:\n\n- Platform and solution engineering\n- AI Studio core development and extensibility\n- CI/CD, IaC, reliability, observability\n- LLMOps / MLOps, evaluations, cost and performance tuning\n- Security, governance, operational support\n\nLanguages:\n\n- JavaScript/TypeScript (connectors, UI/backends where needed)\n- Python (LLM workflows, utilities, evaluation)\n- Traditional SQL + NoSQL & GraphDB understanding\n- Containers & orchestration (Docker, Kubernetes)\n\nResponsibilities:\n\n- Maintain and enhance the AI Studio platform\n- Working with Core team to align the priorities and roadmap\n- Support core stability, scalability, and operational\n  excellence\n- Implement incremental AI-native capabilities while platform\n  strategy matures\n- Enable internal teams to build safely and efficiently on the\n  platform\n- Build AI-native capabilities into the core platform\n- Manage upgrades, scalability, and operational reliability\n- Enable internal and external teams to build on the platform\n\nYour future at Presidio Joining Presidio means stepping into\na culture of trailblazers—thinkers, builders, and\ncollaborators—who push the boundaries of what’s possible.\nWith our expertise in AI-driven analytics, cloud solutions,\ncybersecurity, and next-gen infrastructure, we enable\nbusinesses to stay ahead in an ever-evolving digital world.\n\nHere, your impact is real. Whether you're harnessing the\npower of Generative AI, architecting resilient digital\necosystems, or driving data-driven transformation, you’ll be\npart of a team that is shaping the future.\n\nReady to innovate? Let’s redefine what’s next—together.\n\nAbout Presidio  At Presidio, speed and quality meet\ntechnology and innovation. Presidio is a trusted ally for\norganizations across industries with a decades-long history\nof building traditional IT foundations and deep expertise in\nAI and automation, security, networking, digital\ntransformation, and cloud computing. Presidio fills gaps,\nremoves hurdles, optimizes costs, and reduces risk.\nPresidio’s expert technical team develops custom\napplications, provides managed services, enables actionable\ndata insights and builds forward-thinking solutions that\ndrive strategic outcomes for clients globally. For more\ninformation, visit www.presidio.com.\n\nPresidio is committed to hiring the most qualified\ncandidates to join our amazing culture. We aim to attract\nand hire top talent from all backgrounds, including\nunderrepresented and marginalized communities. We encourage\nwomen, people of color, people with disabilities, and\nveterans to apply for open roles at Presidio. Diversity of\nskills and thought is a key component to our business\nsuccess.\n\nRecruitment Agencies, Please Note: Presidio does not accept\nunsolicited agency resumes/CVs. Do not forward resumes/CVs\nto our careers email address, Presidio employees or any\nother means. Presidio is not responsible for any fees\nrelated to unsolicited resumes/CVs.\n",
+  "skills_required": [
+    "Generative AI",
+    "LLM workflows",
+    "Platform engineering",
+    "Security and governance",
+    "Solution engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Maintain and enhance the AI Studio platform",
+    "Build AI-native capabilities into the core platform",
+    "Implement LLMOps practices including evaluations, cost and performance tuning",
+    "Manage platform upgrades, scalability, and operational reliability",
+    "Enable internal and external teams to build safely and efficiently on the platform",
+    "Support core stability, scalability, and operational excellence",
+    "Work with Core team to align priorities and roadmap",
+    "Implement incremental AI-native capabilities while platform strategy matures"
+  ],
+  "use_cases": [
+    "Enterprise AI platform enabling teams to build AI solutions",
+    "Generative AI workflows and automation",
+    "AI-driven analytics and intelligent insights",
+    "Business process automation and optimization",
+    "Client digital transformation initiatives"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "GraphDB",
+    "Infrastructure as Code (IaC)",
+    "Kubernetes",
+    "LLMOps",
+    "MLOps",
+    "NoSQL databases",
+    "Observability"
+  ],
+  "frameworks_mentioned": [
+    "Generative AI",
+    "LLM workflows"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building AI-native capabilities directly\ninto the AI Studio platform, implementing LLM workflows, and\nworking with LLMOps/MLOps including evaluations and\nperformance tuning. The engineer is hands-on with GenAI\nsystems, not just supporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM workflows",
+      "Generative AI"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "NoSQL databases",
+      "GraphDB"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "LLMOps",
+      "MLOps",
+      "CI/CD",
+      "Infrastructure as Code (IaC)",
+      "Docker",
+      "Kubernetes",
+      "Observability"
+    ],
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Platform engineering",
+      "Solution engineering",
+      "Security and governance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

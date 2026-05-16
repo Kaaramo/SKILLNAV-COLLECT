@@ -1,0 +1,173 @@
+{
+  "job_id": "intl-ai-corpus-3027",
+  "source": "intl-ai-corpus",
+  "source_ref": "9111098",
+  "source_url": "https://builtin.com/job/senior-enterprise-software-engineer-ai-operations/9111098",
+  "title": "Senior Enterprise Software Engineer -AI Operations",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Wolters Kluwer",
+  "company_type": "entité morale privée",
+  "location": "Chennai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "on-site",
+  "posted_date": "2026-04-21",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "18,996 Employees",
+  "company_stage": "Public",
+  "company_focus": "Enterprise information services, software, and solutions for\nprofessional sectors",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About the Role\n\nWe are seeking an exceptional Senior AI Engineer with 6-8\nyears of experience to architect and deliver enterprise-\ngrade AI systems at scale, with primary focus on Amazon\nBedrock and Microsoft Azure AI Foundry -- the two leading\nmanaged cloud AI platforms. This is a staff-level individual\ncontributor position for engineers who can drive technical\nstrategy, mentor cross-functional teams, and translate the\nlatest advances in generative AI into high-impact production\nsystems.\n\nYou will operate as a principal builder and technical\nauthority across our most ambitious AI initiatives: multi-\nagent orchestration pipelines, RAG-powered knowledge\nsystems, LLM fine-tuning workflows, and cloud-native AI\ninfrastructure. You will own decisions that reach millions\nof users and set the engineering benchmark for AI excellence\nacross the organization.\n\nThis role intentionally avoids SageMaker-centric workflows\nin favor of the latest serverless and managed AI services --\nAmazon Bedrock AgentCore, Amazon Nova, Amazon S3 Vectors,\nMicrosoft Foundry, and Azure AI Agent Service -- enabling\nfaster iteration, lower infrastructure overhead, and access\nto frontier models.\n\nKey Responsibilities\n\nTechnical Leadership & AI Architecture\n\n- Own end-to-end architecture of cloud-native AI systems on\n  AWS and Azure, from raw data ingestion through LLM\n  serving, evaluation, and continuous monitoring.\n- Establish AI engineering standards, model governance\n  frameworks, and cloud design patterns adopted across\n  multiple product teams.\n- Lead critical cross-platform design decisions: when to use\n  AWS Bedrock vs. Azure AI Foundry, which foundation model\n  best fits performance and cost constraints, and when to\n  fine-tune vs. prompt-engineer.\n- Evaluate and rapidly prototype with emerging AWS and Azure\n  AI capabilities (Amazon Nova 2, Bedrock Reinforcement\n  Fine-Tuning, Azure GPT-5-Codex, Foundry Agent Service) to\n  keep the organization at the frontier.\n- Drive technical design reviews, architecture critiques, and\n  risk assessments for high-stakes AI deployments.\n\nAWS  Amazon Bedrock & Generative AI Engineering\n\n- Architect enterprise applications using Amazon Bedrock as\n  the primary LLM serving and orchestration platform --\n  leveraging the full model catalog including Amazon Nova 2\n  (Lite, Pro, Sonic, Omni), Anthropic Claude, Mistral Large\n  3, and Amazon Bedrock Marketplace models.\n- Build production multi-agent systems using Amazon Bedrock\n  AgentCore: design agent boundaries with Policy controls,\n  implement episodic Memory for long-horizon reasoning, and\n  configure AgentCore Gateway for secure tool integrations\n  with Salesforce, Slack, and internal APIs.\n- Implement browser-based workflow automation agents with\n  Amazon Nova Act, achieving 90%+ task reliability for form\n  filling, data extraction, QA testing, and enterprise UI\n  automation workflows.\n- Design and deploy RAG pipelines using Amazon Bedrock\n  Knowledge Bases with Amazon S3 Vectors as the primary\n  vector store -- supporting up to 2 billion vectors per\n  index with 100ms query latencies at up to 90% lower cost\n  than specialized vector databases.\n- Apply Amazon Bedrock Reinforcement Fine-Tuning for domain-\n  specific model customization, achieving up to 66% accuracy\n  gains over base models without requiring labeled datasets\n  or deep ML expertise.\n- Leverage Amazon Bedrock Model Distillation to create task-\n  specific models that run up to 500% faster and cost 75%\n  less, with minimal accuracy trade-off.\n- Implement Amazon Bedrock Intelligent Prompt Routing and\n  Prompt Caching to reduce inference costs by up to 30%\n  while maintaining response quality.\n- Apply Amazon Bedrock Guardrails for responsible AI\n  enforcement: content filtering, hallucination prevention,\n  PII redaction, and compliance controls across all\n  production LLM endpoints.\n- Develop and manage Kiro-based agentic development workflows:\n  context-aware, session-persistent autonomous agents for\n  coding and operational task automation.\n\nAZURE  Microsoft Foundry & Azure AI Engineering\n\n- Build and deploy intelligent applications on Microsoft\n  Foundry (formerly Azure AI Studio), the unified platform\n  for model access, fine-tuning, evaluation, and agent\n  deployment at enterprise scale.\n- Integrate and orchestrate frontier models through Foundry\n  Models: Azure OpenAI GPT-4.1 (1M token context), o3 /\n  o4-mini reasoning models, GPT-5-Codex for multimodal code\n  reasoning, Anthropic Claude (Sonnet 4.5, Opus 4.1), and\n  Mistral Large 3.\n- Design and operate multi-agent systems using Microsoft Agent\n  Framework (Semantic Kernel + AutoGen runtime), building\n  stateful long-running agents deployed via Hosted Agents\n  and published to Microsoft 365 Copilot with one-click.\n- Build agentic workflows with Azure AI Agent Service,\n  connecting agents to enterprise data via Azure AI Search\n  (RAG), line-of-business APIs through Azure API Management,\n  and real-time data through Azure Event Hubs.\n- Leverage Microsoft Foundry Control Plane for fleet-wide\n  agent observability, governance, policy enforcement, and\n  compliance auditing across all deployed AI agents.\n- Implement Deep Research agents in Microsoft Foundry Agent\n  Service as composable, programmable research engines\n  embedded in multi-agent workflows and enterprise\n  applications.\n- Use Foundry Tools (unified suite of prebuilt AI capabilities\n  for audio, video, image, document, and text) to accelerate\n  development of intelligent agents without rebuilding\n  common AI tasks.\n- Apply Azure AI Foundry Model Router to dynamically route\n  prompts to the optimal model (GPT-4.1, o4-mini, Phi-4) at\n  runtime, minimizing costs while preserving quality SLAs.\n- Configure NSP-protected private deployments using VNETs,\n  private endpoints, and BYO Key Vault connections for\n  regulated-industry AI workloads on Foundry.\n\nCross-Platform Infrastructure & MLOps\n\n- Architect AWS-native training infrastructure using EC2\n  Trainium3 UltraServers (Trn3) -- AWS's 3nm AI chip\n  delivering 4x performance over Trn2 -- for large-scale\n  model training and inference at lower cost.\n- Build and manage containerized model serving on Amazon EKS\n  with Karpenter autoscaling, integrated with Triton\n  Inference Server for multi-model, multi-framework\n  inference optimization.\n- Implement fully serverless inference using AWS Lambda\n  Managed Instances for on-demand LLM endpoint invocations\n  without infrastructure provisioning.\n- Establish IaC-driven ML platform provisioning using AWS CDK\n  (Python) and Azure Bicep/Terraform, ensuring all AI\n  environments are version-controlled, reproducible, and\n  auditable.\n- Design cross-cloud observability stacks: Amazon CloudWatch +\n  AWS X-Ray on AWS; Azure Monitor + Application Insights on\n  Azure -- with unified dashboards for model drift\n  detection, latency SLOs, and cost alerting.\n- Implement MLflow (serverless via SageMaker AI integration or\n  self-hosted on EKS) for experiment tracking, model\n  versioning, and lifecycle management across both AWS and\n  Azure workloads.\n- Champion cloud cost optimization: AWS Spot instance\n  strategies and Bedrock Intelligent Prompt Routing for AWS\n  workloads; Azure Developer Training tier and Serverless\n  API pay-as-you-go for Azure workloads.\n\nEvaluation, Safety & Responsible AI\n\n- Define and own the organization's AI evaluation framework --\n  automated pipelines measuring model accuracy, fairness,\n  bias, toxicity, hallucination rate, and safety across both\n  AWS Bedrock and Azure Foundry deployments.\n- Lead red-teaming, adversarial robustness testing, and\n  jailbreak analysis using Amazon Bedrock Guardrails and\n  Azure AI Content Safety before every production launch.\n- Establish model risk management: model cards, prompt audit\n  trails, production monitoring dashboards, and incident\n  response runbooks for AI systems.\n- Collaborate with Legal, Compliance, and the AI Ethics board\n  to meet regulatory requirements (EU AI Act, NIST AI RMF,\n  ISO 42001, SOC 2 Type II).\n\nMentorship & Organizational Influence\n\n- Serve as principal technical mentor for mid and junior AI\n  engineers: conducting code reviews, architecture design\n  sessions, and cloud platform enablement workshops.\n- Represent the team at executive forums, customer briefings,\n  and external AI conferences.\n- Partner with Product, Research, Data Science, and Platform\n  Engineering to align AI roadmap with business objectives\n  and cloud investment strategy.\n- Drive org-wide knowledge sharing via internal tech talks,\n  open-source contributions, technical blog posts, and\n  AWS/Azure certification mentorship programs.\n- Lead technical hiring: define role requirements, design AI\n  cloud-focused interview loops, and make recommendations\n  for senior and staff-level candidates.\n\nOur Interview Practices\n\nTo maintain a fair and genuine hiring process, we kindly ask\nthat all candidates participate in interviews without the\nassistance of AI tools or external prompts. Our interview\nprocess is designed to assess your individual skills,\nexperiences, and communication style. We value authenticity\nand want to ensure we’re getting to know you—not a digital\nassistant. To help maintain this integrity, we ask to remove\nvirtual backgrounds and include in-person interviews in our\nhiring process. Please note that use of AI-generated\nresponses or third-party support during interviews will be\ngrounds for disqualification from the recruitment process.\n\nApplicants may be required to appear onsite at a Wolters\nKluwer office as part of the recruitment process.\n",
+  "skills_required": [
+    "Amazon Bedrock AgentCore",
+    "AutoGen",
+    "Bedrock Guardrails",
+    "LLM fine-tuning",
+    "Microsoft 365 Copilot",
+    "Model distillation",
+    "Multi-agent orchestration",
+    "Prompt caching",
+    "Prompt engineering",
+    "RAG",
+    "Responsible AI / AI governance",
+    "Semantic Kernel"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect end-to-end cloud-native AI systems on AWS and Azure, from data ingestion through LLM serving, evaluation, and monitoring",
+    "Build production multi-agent systems using Amazon Bedrock AgentCore and Microsoft Agent Framework (Semantic Kernel + AutoGen)",
+    "Design and deploy RAG pipelines using Amazon Bedrock Knowledge Bases and Azure AI Search with vector stores",
+    "Implement LLM fine-tuning workflows including Amazon Bedrock Reinforcement Fine-Tuning and model distillation",
+    "Build containerized model serving infrastructure on EKS with Triton Inference Server and serverless inference endpoints",
+    "Establish AI evaluation frameworks measuring accuracy, fairness, bias, toxicity, and safety across deployments",
+    "Lead red-teaming, adversarial testing, and responsible AI enforcement with Bedrock Guardrails and Azure Content Safety",
+    "Mentor cross-functional AI engineering teams and drive org-wide AI engineering standards and best practices"
+  ],
+  "use_cases": [
+    "Multi-agent orchestration pipelines for enterprise workflow automation",
+    "RAG-powered knowledge systems for enterprise search and retrieval",
+    "Browser-based workflow automation agents for form filling, data extraction, and QA testing",
+    "Enterprise document processing and intelligent content understanding across text, audio, video, and images",
+    "Deep research agents for composable, programmable enterprise research workflows",
+    "Domain-specific model customization for regulated industries (legal, compliance, healthcare)"
+  ],
+  "tools_mentioned": [
+    "AWS CDK",
+    "AWS Lambda",
+    "AWS X-Ray",
+    "Amazon Bedrock",
+    "Amazon CloudWatch",
+    "Amazon EKS",
+    "Amazon Nova",
+    "Amazon S3 Vectors",
+    "Azure AI Content Safety",
+    "Azure AI Foundry",
+    "Azure AI Search",
+    "Azure API Management",
+    "Azure Bicep",
+    "Azure Event Hubs",
+    "Azure Monitor",
+    "Azure OpenAI",
+    "Docker",
+    "EC2 Trainium",
+    "Karpenter",
+    "MLflow",
+    "Terraform",
+    "Triton Inference Server"
+  ],
+  "frameworks_mentioned": [
+    "Amazon Bedrock AgentCore",
+    "AutoGen",
+    "Bedrock Guardrails",
+    "LLM fine-tuning",
+    "Microsoft 365 Copilot",
+    "Model distillation",
+    "Multi-agent orchestration",
+    "Prompt caching",
+    "Prompt engineering",
+    "RAG",
+    "Semantic Kernel"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely focused on building, deploying, fine-\ntuning, and orchestrating AI/LLM systems at enterprise\nscale. The engineer directly architects multi-agent\npipelines, RAG systems, LLM fine-tuning workflows, and model\nserving infrastructure on AWS Bedrock and Azure AI Foundry.\nThis is hands-on AI system construction, not support work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Amazon Bedrock AgentCore",
+      "RAG",
+      "Multi-agent orchestration",
+      "Semantic Kernel",
+      "AutoGen",
+      "LLM fine-tuning",
+      "Prompt engineering",
+      "Bedrock Guardrails",
+      "Model distillation",
+      "Microsoft 365 Copilot",
+      "Prompt caching"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Amazon S3 Vectors",
+      "Azure AI Search"
+    ],
+    "data": [
+      "Azure Event Hubs"
+    ],
+    "cloud": [
+      "Amazon Bedrock",
+      "Azure AI Foundry",
+      "Amazon Nova",
+      "Azure OpenAI",
+      "Amazon EKS",
+      "Karpenter",
+      "AWS Lambda",
+      "AWS CDK",
+      "Azure Bicep",
+      "Azure AI Content Safety",
+      "EC2 Trainium",
+      "Azure API Management"
+    ],
+    "ops": [
+      "Triton Inference Server",
+      "Terraform",
+      "MLflow",
+      "Amazon CloudWatch",
+      "AWS X-Ray",
+      "Azure Monitor",
+      "Docker"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Responsible AI / AI governance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

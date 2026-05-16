@@ -1,0 +1,163 @@
+{
+  "job_id": "intl-ai-corpus-2025",
+  "source": "intl-ai-corpus",
+  "source_ref": "8706373",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/8706373",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Octus",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-10",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "808 Employees",
+  "company_stage": null,
+  "company_focus": "Credit intelligence, data, and analytics for financial\nprofessionals",
+  "industries": [
+    "Fintech",
+    "News + Entertainment",
+    "Software",
+    "Database",
+    "Financial Services"
+  ],
+  "description": "Octus\n\nOctus is a leading global provider of credit intelligence,\ndata, and analytics. Since 2013, tens of thousands of\nprofessionals across hedge fund, investment banking,\nmanagement consulting, and law firm verticals have come to\nrely on Octus to make better, faster, and more confident\ndecisions in pace with the fast-moving credit markets.  For\nmore information, visit: https://octus.com/\n\nWorking at Octus\n\nOctus hires growth-minded innovators and trailblazers across\nthe globe to drive our business and culture. Our core values\n– Action Oriented, Customer First Mindset, Effective Team\nPlayers, and Driven to Excel – define an organizational\nethos that’s as high-performing as it is human. Among other\nperks, Octus employees enjoy competitive health benefits,\nmatched 401k and pension plans, PTO, generous parental\nleave, gym subsidies, educational reimbursements for career\ndevelopment, recognition programs, pet-friendly offices (US\nonly), and much more.  Role\n\nAs a Senior AI Engineer focused on CreditAI, our flagship\nGenAI product, you will own complex technical problems\nacross the full AI stack — designing distributed systems,\norchestrating multi-agent workflows, and ensuring production\nreliability at scale.\n\nResponsibilities\n\n- Design and implement multi-agent and agentic orchestration\n  frameworks using agent SDKs such as the Claude Agent SDK,\n  Google ADK, or AWS AgentCore, incorporating tools,\n  external data sources, memory, and state management\n- Build and maintain MCP servers and integrations to extend AI\n  system capabilities with structured tool use and external\n  context\n- Build and optimize RAG pipelines including embedding\n  strategies, vector database, retrieval quality tuning, and\n  cost-aware ingestion design\n- Integrate with managed LLM services across cloud providers\n  to support diverse deployment and cost optimization\n  strategies.\n- Fine-tune, optimize, and deploy open-source deep learning\n  models for production use cases, leveraging GPU\n  infrastructure for training and inference\n- Apply systems thinking to design and optimize AI and LLM\n  systems, balancing quality, scalability, latency, cost,\n  and operational complexity, while implementing efficiency\n  improvements using model selection, prompt design,\n  batching, caching, and retrieval strategies.\n- Design and implement automated evaluation frameworks to\n  assess LLM system quality, accuracy, and performance\n  across production workloads\n- Apply reinforcement learning techniques (e.g., RLHF, RLAIF)\n  to improve model alignment and task-specific performance\n- Architect and manage high-throughput, real-time data\n  pipelines using Kafka\n- Design, deploy, and scale production AI services on AWS\n  (Batch, Lambda, ECS, S3, etc), applying modern\n  containerization, CI/CD, and infrastructure-as-code\n  practices\n- Implement comprehensive observability frameworks using\n  Datadog — tracking token usage, pipeline latency, error\n  rates, consumer lag, and model performance with actionable\n  alerting\n- Identify and resolve production bottlenecks across\n  distributed systems, including database query\n  optimization, consumer scaling, and LLM throughput tuning\n- Apply strong problem-solving and critical thinking skills to\n  break down complex, ambiguous requirements into clear,\n  implementable technical components and system designs.\n- Conduct code reviews; contribute to team standards around\n  reliability, testing, and operational excellence\n- Communicate progress, trade-offs, and outcomes to relevant\n  stakeholders.\n- Continuously learn and adapt to advancements in NLP and\n  Generative AI to ensure solutions remain innovative and\n  effective.\n\nRequirements\n\n- Bachelor's or Master's degree in Computer Science,\n  Engineering, or a related technical field (or equivalent\n  practical experience).\n- 5+ years of experience as an AI Engineer, Machine Learning\n  Engineer, or applied AI practitioner, with a strong\n  foundation in computer science and algorithms.\n- Deep Python expertise with a track record of shipping\n  production systems at scale; strong software engineering\n  practices including clean code, testing, code review, and\n  CI/CD.\n- Hands-on experience designing, building, and deploying LLM-\n  driven or GenAI applications, including multi-agent\n  architectures and agentic workflows, with familiarity with\n  vector databases, embeddings pipelines, or semantic search\n  systems.\n- Hands-on experience designing and implementing automated\n  evaluation frameworks for LLM systems\n- Solid understanding of machine learning and applied AI\n  concepts, with the ability to take solutions from\n  prototype to production and translate research ideas into\n  scalable, real-world systems.\n- Experience with GPUs for model training or inference,\n  including tuning and deploying open-source deep learning\n  models in production; proficiency with PyTorch or\n  TensorFlow for model development and fine-tuning.\n- Practical experience with cloud-based deployments and\n  infrastructure tools (e.g., AWS, Docker, GitHub) and an\n  understanding of modern DevOps practices,\n  containerization, orchestration, and caching strategies.\n- Strong problem-solving and systems thinking, with the\n  ability to balance trade-offs across model quality,\n  scalability, inference latency, and cost.\n- Excellent communication and collaboration skills, with\n  experience working closely with product managers,\n  engineers, and domain experts to deliver actionable\n  technical solutions.\n- Strong ownership and initiative, with the ability to\n  independently drive projects from problem definition to\n  delivery; a passion for learning and staying current with\n  the rapidly evolving AI/ML landscape.\n\nAt Octus, we consider a range of factors in connection with\ncompensation decisions, including experience, skills,\nlocation, and our business needs and limitations. As a\nresult, compensation may vary within and across similar\nroles and positions. Please note that the salary range\ninformation below is a good faith estimate for this position\nand actual compensation for any individual may fall outside\nthis range if warranted by the circumstances applicable to\nthat individual. If we identify a role that would be\nsuitable for a broader range of skills and experience such\nthat we would consider hiring at multiple levels then the\nrange listed below may reflect that breadth.\n\nThe salary range estimate for this position is $160,000 -\n$180,000.\n\nThe actual compensation will be at Octus' sole discretion\nand will be determined by the aforementioned and other\nrelevant factors.\n\nEqual Employment Opportunity\n\nOctus is committed to providing equal employment\nopportunities to all employees and applicants for employment\nwithout regard to race, colour, religion, sex, sexual\norientation, gender identity, national origin, age,\ndisability, genetic information, marital status, pregnancy,\nveteran status, or any other legally protected status. We\nstrive to create an inclusive and diverse work environment\nwhere all individuals are valued, respected, and treated\nfairly. We believe that diversity enriches our workplace and\nenhances our ability to innovate and succeed.\n",
+  "skills_required": [
+    "AWS AgentCore",
+    "Claude Agent SDK",
+    "GPU training and inference",
+    "Google ADK",
+    "LLM services",
+    "MCP (Model Context Protocol)",
+    "Model fine-tuning",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "RLAIF",
+    "RLHF",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement multi-agent and agentic orchestration frameworks using agent SDKs, incorporating tools, external data sources, memory, and state management",
+    "Build and maintain MCP servers and integrations to extend AI system capabilities with structured tool use and external context",
+    "Build and optimize RAG pipelines including embedding strategies, vector database, retrieval quality tuning, and cost-aware ingestion design",
+    "Fine-tune, optimize, and deploy open-source deep learning models for production use cases, leveraging GPU infrastructure",
+    "Apply reinforcement learning techniques (RLHF, RLAIF) to improve model alignment and task-specific performance",
+    "Architect and manage high-throughput real-time data pipelines using Kafka",
+    "Design, deploy, and scale production AI services on AWS with containerization, CI/CD, and infrastructure-as-code practices",
+    "Implement comprehensive observability frameworks using Datadog for monitoring AI system performance"
+  ],
+  "use_cases": [
+    "Credit intelligence and analytics for financial markets",
+    "GenAI-powered credit analysis and decision support",
+    "Enterprise knowledge retrieval and search",
+    "Automated financial document analysis",
+    "Real-time market intelligence processing"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Batch",
+    "AWS ECS",
+    "AWS Lambda",
+    "AWS S3",
+    "CI/CD",
+    "Datadog",
+    "Docker",
+    "Infrastructure-as-code",
+    "Kafka",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AWS AgentCore",
+    "Claude Agent SDK",
+    "GPU training and inference",
+    "Google ADK",
+    "LLM services",
+    "MCP (Model Context Protocol)",
+    "Model fine-tuning",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "RLAIF",
+    "RLHF",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying AI/ML\nsystems including multi-agent orchestration, RAG pipelines,\nmodel fine-tuning, and LLM services. The position requires\nhands-on work with GenAI/LLM technologies from design\nthrough production deployment.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude Agent SDK",
+      "Google ADK",
+      "AWS AgentCore",
+      "MCP (Model Context Protocol)",
+      "RAG",
+      "LLM services",
+      "Prompt engineering"
+    ],
+    "ml": [
+      "RLHF",
+      "RLAIF",
+      "PyTorch",
+      "TensorFlow",
+      "GPU training and inference",
+      "Model fine-tuning"
+    ],
+    "web": [],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS",
+      "AWS Batch",
+      "AWS Lambda",
+      "AWS ECS",
+      "AWS S3"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "Infrastructure-as-code",
+      "Datadog"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

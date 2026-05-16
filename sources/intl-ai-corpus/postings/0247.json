@@ -1,0 +1,130 @@
+{
+  "job_id": "intl-ai-corpus-0247",
+  "source": "intl-ai-corpus",
+  "source_ref": "7571845",
+  "source_url": "https://builtin.com/job/clojure-clojurescript-engineer-fashion-ai-automation/7571845",
+  "title": "Clojure/ClojureScript Engineer - Fashion AI Automation",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Stylitics",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "135 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "AI-powered visual outfitting and styling for retail",
+  "industries": [
+    "Artificial Intelligence",
+    "eCommerce",
+    "Machine Learning",
+    "Marketing Tech"
+  ],
+  "description": "Who We Are\n\nStylitics is the leading visual outfitting and styling\nsolution for the world’s top retailers and brands. Our\nclients include Nike, Macy’s, Revolve, Puma, Crate & Barrel,\nBloomingdale’s, and dozens of others. Founded in 2011,\nStylitics uses a powerful combination of algorithms, trend\ndata, and stylist expertise to deliver millions of on-brand\noutfit recommendations daily across multiple channels such\nas e-commerce, email, advertising, stores, and social media.\nAbout 100 million shoppers use Stylitics content and\ntechnology on retail sites each month to find inspiration,\ndiscover new products and brands, and gain confidence in how\nto style their purchases.\n\nThe Role\n\nWe're building the future of AI-powered fashion & retail\nautomation, and we need a craftsperson who lives and\nbreathes Clojure. This isn't just about managing pipelines\nor writing glue code, this is about shipping intelligent\nsystems that matter.\n\nHere's what we're actually building: AI workflows that\ngenerate outfit images at scale. Systems that write product\ncopy and attribution automatically. Intelligent review flows\nwhere humans and AI collaborate to produce millions of\nstyled recommendations. Vector search architectures that\npower semantic discovery across our catalog. Temporal-\norchestrated workflows that coordinate LLMs, image\ngeneration, data pipelines, and human review loops. All of\nit needs to be fast, reliable, and integrated into our\nexisting platform serving 100M+ shoppers monthly.\n\nYou'll work in Clojure and ClojureScript across the stack,\nbut this is backend-heavy. You'll design data models in\nPostgreSQL, build Temporal workflows that orchestrate\ncomplex AI operations, integrate with Qdrant for vector\nsearch and RAG, and create ClojureScript interfaces for\nhuman audits. You'll own features end-to-end: from schema\ndesign to API implementation to the review UI that your\ncolleagues use daily.\n\nWe're a team of 12+ Clojure engineers who move fast and care\nabout craft. We value ownership deeply. You'll have autonomy\nto architect solutions, make technical decisions, and ship\nproduction code quickly. If you're curious, opinionated\nabout good code, and excited to build AI systems that\nactually work at scale, keep reading.\n\nWhat You'll Build\n\n- Temporal workflows that orchestrate multi-step AI\n  operations: product attribution, copy generation, image\n  generation, outfit creation.\n- Backend services in Clojure that integrate with LLM APIs\n  (GPT, Gemini, etc.), manage context and prompts, handle\n  streaming responses, and process structured outputs\n- Data models and PostgreSQL schemas that support complex AI\n  workflows, vector embeddings, and integration with our\n  existing product catalog\n- RAG pipelines using Qdrant for semantic search, similarity\n  matching, and context retrieval that powers smarter AI\n  recommendations\n- MCP (Model Context Protocol) integrations and tool-calling\n  architectures that let LLMs interact with our systems,\n  query data, and trigger actions\n- ClojureScript UIs for review workflows where humans\n  validate, edit, and improve AI-generated content\n- APIs and data pipelines that connect everything together,\n  monitoring systems that track AI quality, and the\n  infrastructure that lets us ship fast\n\nWhat You Bring\n\n- Strong Clojure and ClojureScript experience. You've built\n  production systems, you understand functional programming\n  deeply, and you're comfortable with the ecosystem (shadow-\n  cljs, re-frame, reagent etc.)\n- Solid SQL skills and database design experience. You can\n  model complex domains in PostgreSQL, write efficient\n  queries, design schemas, and handle migrations. This is\n  important.\n- Experience integrating LLMs into production systems. You\n  understand prompt engineering, managing context windows,\n  handling non-deterministic outputs, and the practical\n  challenges of building reliable AI features\n- Backend engineering fundamentals. You know how to build\n  APIs, design data flows, handle errors gracefully, and\n  architect systems that scale\n- High velocity. You ship often. You balance speed with\n  quality, you know when to refactor and when to iterate,\n  and you don't let perfect be the enemy of good\n- Ownership mindset. You take responsibility for features from\n  conception to production. You care about the outcome, not\n  just writing code\n- Curiosity. You're interested in AI, workflow orchestration,\n  vector search, frontend UIs, data modeling, and figuring\n  out how all the pieces fit together\n\nGreat to Have\n\n- Experience with Java and the JVM ecosystem\n- Experience with Temporal or similar workflow orchestration\n  systems (Airflow, Dagster, Step Functions)\n- Familiarity with vector databases like Qdrant, Pinecone, or\n  Weaviate, and RAG architectures\n- Experience with MCP (Model Context Protocol) or building\n  tool-calling systems where LLMs interact with external\n  services\n- Understanding of image generation models, multimodal AI, or\n  working with vision APIs\n- Contributions to open-source Clojure projects\n- Background in other functional programming languages\n  (Haskell, OCaml, Elixir, Scala)\n- Experience building developer tools, automation systems, or\n  human-in-the-loop workflows\n\nWhy Join Us\n\n- Modern stack: Clojure/ClojureScript, Temporal, PostgreSQL,\n  Qdrant, LLM APIs, cloud infrastructure\n- Lots of greenfield opportunities. You'll build new systems\n  while also integrating into our existing platform\n- Ownership and autonomy. You'll make architectural decisions,\n  influence product direction, and see your work in\n  production quickly\n- Team of 12+ Clojure engineers who value craft, velocity, and\n  learning from each other\n- Flexible remote-first culture with optional NYC office\n  collaboration\n- Be part of defining how AI transforms fashion and e-commerce\n\nSalary\n\nWhen we find the right person, we try to put our best foot\nforward with an offer that excites you and is fair on our\nend. We consider the skills and experience you bring, what\nsimilar jobs pay, and make sure there's equal pay for equal\nwork among those you'll be working with. The compensation\namount for this role is targeted at $135,000 - $155,000 USD\nannually. The final offer also takes into account other\nfactors of a total compensation package, including what is\nmarket-based on the region. Please note that the range is\nbeing shared in good faith and is subject to modification\nbased on changing market and business conditions.\n\nOur Values\n\nOur values reflect what is important to us at Stylitics and\nserve as the foundation in which we do business. Each core\nvalue is best illustrated by actions and attitudes that each\nStylitics team member practices. They define what working at\nStylitics means and what our teams embody through their time\nhere.\n\n- We care deeply about delivering high quality work\n- We work to be the best partners possible\n- We get things done\n- We believe the right team matters most\n- We think like customers and act like owners\n- We relish being pioneers\n\nJoin Us\n\nWe strive to create a place where all feel safe, empowered,\nengaged, championed, and inspired. Equal Employment\nOpportunity has been and will continue to be, a fundamental\nprinciple at Stylitics where employment is based upon\npersonal capabilities and qualifications without\ndiscrimination because of race, religion, color, gender,\nnational origin, age, citizenship, ancestry, marital status,\nsexual orientation, gender identity and expression,\npregnancy and related medical conditions, veteran status,\ngenetic information, disability or any other reason\nprohibited by federal, state or local law. This applies to\nall policies and employment practices relating to\nrecruitment and hiring, compensation, benefits, termination\nand all other terms and conditions of employment.\n",
+  "skills_required": [
+    "LLM APIs",
+    "MCP",
+    "RAG",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build Temporal workflows that orchestrate multi-step AI operations including product attribution, copy generation, image generation, and outfit creation",
+    "Develop backend services in Clojure that integrate with LLM APIs, manage context and prompts, handle streaming responses, and process structured outputs",
+    "Design data models and PostgreSQL schemas supporting complex AI workflows, vector embeddings, and integration with the product catalog",
+    "Implement RAG pipelines using Qdrant for semantic search, similarity matching, and context retrieval for smarter AI recommendations",
+    "Create MCP (Model Context Protocol) integrations and tool-calling architectures enabling LLMs to query data and trigger system actions",
+    "Build ClojureScript UIs for review workflows where humans validate, edit, and improve AI-generated content",
+    "Develop APIs and data pipelines that connect systems, monitor AI quality, and support fast iteration"
+  ],
+  "use_cases": [
+    "Generate outfit images at scale using AI workflows that coordinate LLMs, image generation, and human review loops",
+    "Automatically write product copy and product attribution for retail catalogs",
+    "Enable semantic discovery across fashion catalogs using vector search architectures",
+    "Coordinate intelligent review flows where humans and AI collaborate to produce millions of styled recommendations",
+    "Power visual outfitting and styling recommendations across e-commerce, email, advertising, stores, and social media channels"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "Airflow",
+    "Dagster",
+    "PostgreSQL",
+    "Qdrant",
+    "SQL",
+    "Temporal",
+    "re-frame",
+    "reagent",
+    "shadow-cljs"
+  ],
+  "frameworks_mentioned": [
+    "LLM APIs",
+    "MCP",
+    "RAG",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Clojure",
+    "ClojureScript",
+    "Java"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role as the engineer builds, deploys,\nand orchestrates AI systems directly: integrating LLM APIs,\nmanaging prompts and context windows, implementing RAG\npipelines with Qdrant, building MCP/tool-calling\narchitectures, and coordinating multi-step AI workflows for\nimage generation, product attribution, and copy writing. The\nhands-on work with models, vector search, and AI workflow\norchestration clearly places this in the ai-first category.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "MCP",
+      "prompt engineering",
+      "LLM APIs",
+      "function calling"
+    ],
+    "ml": [],
+    "web": [
+      "shadow-cljs",
+      "re-frame",
+      "reagent",
+      "APIs"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "SQL",
+      "Qdrant"
+    ],
+    "data": [
+      "Temporal",
+      "Airflow",
+      "Dagster"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Clojure",
+      "ClojureScript",
+      "Java"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

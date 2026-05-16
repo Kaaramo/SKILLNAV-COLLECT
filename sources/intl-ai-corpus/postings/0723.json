@@ -1,0 +1,105 @@
+{
+  "job_id": "intl-ai-corpus-0723",
+  "source": "intl-ai-corpus",
+  "source_ref": "4454323",
+  "source_url": "https://builtin.com/job/ai-applications-engineer/4454323",
+  "title": "Software Engineer, AI Applications",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ema Unlimited",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-09",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "78 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Agentic AI operating system for enterprises",
+  "industries": [],
+  "description": "Ema is building the agentic AI operating system for\nenterprises. We help some of the world’s largest\norganizations transform deeply manual, brittle business\nprocesses into reliable, measurable, production-grade\nautomated systems using AI agents, integrations, and human-\nin-the-loop UX. At Ema, success means real workflows running\nin production, used daily by business teams, with measurable\noutcomes.\n\nWe’re founded by leaders from Google, Coinbase, and Okta,\nbacked by top-tier investors, and scaling rapidly. As we\ngrow, we’re building a team of engineers who don’t just ship\ncode — they own outcomes.\n\nCustomer Value Engineering is Ema’s forward-deployed,\nproduction-focused engineering group. CVE engineers sit at\nthe intersection of Applied AI systems, real customer\nbusiness processes and enterprise-grade reliability,\nsecurity, and integrations.\n\nIn this role you will work directly with customers and\ninternal product/engineering teams to design, build, deploy,\nand improve agentic systems that actually move business\nmetrics. If you want to move beyond demos and prototypes and\nlearn how real AI systems behave in production this role is\nideal for you.\n\nWhat You’ll Work On\n\n- Design agentic workflows that map customer business\n  processes to multi-agent systems with clear success\n  criteria\n- Build and deploy AI applications using Ema’s platform:\n  agents, tools, integrations, human-in-the-loop workflows\n- Implement integrations with enterprise systems (CRM,\n  ticketing, data stores, internal APIs)\n- Debug production issues across the stack — model behavior,\n  orchestration logic, permissions, data quality, UX\n- Run evaluations using golden datasets- test data generation,\n  offline tests, regression checks, and real user feedback\n- Collaborate closely with customers (Ops, IT, business users)\n  to deliver measurable value post launch\n- Partner with Product & Core Engineering to feed learnings\n  back into the platform and improve reusability\n\nWho you are\n\n- 3+ years of production software engineering experience\n- At least one real production deployment of a GenAI/LLM-\n  powered system (not just POCs)\n- Strong programming skills in Python and/or TypeScript\n- Practical experience with prompt and instruction design\n  beyond basics , Tool/function calling and structured\n  outputs\n- Practical experience with Retrieval and grounding (RAG,\n  embeddings, chunking strategies)\n- Practical experience with Human-in-the-loop workflows and\n  safe rollout patterns\n- Practical experience with validation techniques (golden\n  sets, offline evals, error analysis)\n- Experience integrating with enterprise systems via APIs\n  (REST/JSON), auth (OAuth, service accounts)\n- Comfort working with real customer data and operational\n  constraints\n- Clear written and verbal communication with technical and\n  non-technical stakeholders\n",
+  "skills_required": [
+    "RAG",
+    "agents",
+    "embeddings",
+    "function calling",
+    "prompt engineering",
+    "structured outputs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design agentic workflows that map customer business processes to multi-agent systems with clear success criteria",
+    "Build and deploy AI applications using Ema's platform including agents, tools, integrations, and human-in-the-loop workflows",
+    "Implement integrations with enterprise systems including CRM, ticketing, data stores, and internal APIs",
+    "Debug production issues across the stack including model behavior, orchestration logic, permissions, data quality, and UX",
+    "Run evaluations using golden datasets including test data generation, offline tests, regression checks, and real user feedback",
+    "Collaborate closely with customers and partner with Product & Core Engineering to feed learnings back into the platform"
+  ],
+  "use_cases": [
+    "Automating manual, brittle business processes into reliable production-grade systems",
+    "Enterprise workflow automation using AI agents",
+    "Multi-agent systems for business process transformation",
+    "Human-in-the-loop AI workflows with measurable outcomes"
+  ],
+  "tools_mentioned": [
+    "OAuth",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "RAG",
+    "agents",
+    "embeddings",
+    "function calling",
+    "prompt engineering",
+    "structured outputs"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a forward-deployed engineering role that involves\ndirectly building and deploying multi-agent systems using\nEma's AI platform. The engineer designs agentic workflows,\nimplements RAG and grounding techniques, handles prompt\nengineering, and deploys production AI applications - all\nhands-on work with AI systems.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "function calling",
+      "structured outputs",
+      "RAG",
+      "embeddings",
+      "agents"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "OAuth"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

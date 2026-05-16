@@ -1,0 +1,117 @@
+{
+  "job_id": "intl-ai-corpus-2825",
+  "source": "intl-ai-corpus",
+  "source_ref": "9028910",
+  "source_url": "https://www.builtinla.com/job/senior-it-engineer-ai-enablement/9028910",
+  "title": "Senior IT Engineer, AI Enablement",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Omada Health",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-13",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Late-stage / Pre-IPO",
+  "company_focus": "Digital chronic condition management and behavioral health\nplatform",
+  "industries": [],
+  "description": "Omada Health is on a mission to inspire and engage people in\nlifelong health, one step at a time. The Omada IT department\nbuilds and operates resilient, scalable services that\nempower everyone at Omada. Increasingly, that means putting\nthe right AI capabilities in the right people's hands.\n\nJob Overview:\n\nThe Senior IT Engineer, AI Enablement is a senior individual\ncontributor who builds and expands Omada's MCP ecosystem,\nconnecting SaaS tools and internal systems via MCP servers,\nwriting skills, composing tool bundles for different teams,\nand deploying them to the right people. You are the bridge\nbetween what AI can do and what Omada's teams actually need\nit to do.\n\nYou will work directly with department champions across the\ncompany to understand their workflows, surface opportunities\nfor AI-driven automation, and turn those opportunities into\nreal, working integrations. Your daily question is: what new\ncapability did I unlock for the company today?\n\nThis role sits on a small, high-impact team within IT that\nowns business process automation and agentic/AI-driven\nautomation. You'll partner with Senior IT Engineers,\nAutomation and work under the Senior Manager, IT Automation.\nWe're hiring two people for this role.\n\nYou'll use Omada's MCP control plane, not as a system to\nbabysit, but as the platform that lets you move fast and\nship integrations safely. You build with security and\ngovernance in mind from the start because it's the right way\nto build, not because someone else is watching the\ndashboards.\n\nAnd you’ll document and socialize as you go, so the entire\nIT org understands this emergent technology and can multiply\nyour impact throughout the organization.\n\nResponsibilities:AI Enablement & Adoption\n\n- Serve as the primary point of contact for department\n  champions across Omada, working with them to understand\n  their day-to-day workflows and identify where AI-assisted\n  automation creates real leverage.\n- Drive AI adoption across the company by deploying tool\n  bundles that are actually useful, making sure integrations\n  fit how teams work rather than asking teams to adapt to\n  what's technically convenient.\n- Run a continuous feedback loop: gather usage signals and\n  qualitative input from champions, identify what's working\n  and what's falling flat, and iterate accordingly.\n- Build lightweight documentation, reference examples, and\n  enablement materials that help non-technical stakeholders\n  understand what's possible and how to request new\n  capabilities.\n- Represent the needs of end users and champions when making\n  integration decisions; you are their voice in the build\n  process.\n\nMCP Integration & Build\n\n- Integrate SaaS and internal applications with Omada's MCP\n  ecosystem by building and configuring MCP servers, adding\n  tools, and handling authentication patterns including\n  OAuth and webhooks.\n- Write skills that expose the right actions and data to AI\n  agents in a clear, composable way.\n- Compose skills and tools into role-appropriate bundles,\n  scoped to what each team and function actually needs, not\n  everything at once.\n- Deploy tool bundles to ABAC groups, managing access so the\n  right people get the right capabilities without\n  overprovisioning.\n- Partner with the Senior IT Engineers, Automation on\n  integrations that span MCP and workflow automation,\n  ensuring handoffs and shared patterns are consistent.\n- Participate in design reviews for new MCP integrations to\n  catch potential issues early and keep the ecosystem\n  coherent.\n- Teach and mentor IT team members as you go. Be the SMEs that\n  help us understand and internalize this tech.\n\nGovernance & Responsible Building\n\n- Build MCP servers and skills that follow least-privilege\n  principles from day one, scoping access to what an\n  integration actually needs, and nothing more.\n- Contribute to Omada's standards and policies for MCP server\n  onboarding, skill review, and access governance, as a\n  practitioner who cares about getting it right, not as a\n  compliance gatekeeper.\n- Ensure integrations handle data appropriately given Omada's\n  health data environment. Understand what data flows where,\n  flag concerns early, and work with Security and Compliance\n  when review is warranted.\n- Maintain audit-friendly integration configurations so that\n  security and compliance teams have the visibility they\n  need without heroic effort on their part.\n- Collaborate with Security on risk assessment for high-\n  sensitivity integrations, and translate security\n  requirements into practical implementation decisions.\n\nPlatform Craft\n\n- Maintain a working knowledge of the MCP control plane\n  configuration and capabilities so you can ship\n  integrations efficiently and troubleshoot confidently.\n- Identify gaps in the current integration library and propose\n  a prioritized roadmap for new MCP servers and skills,\n  informed by champion feedback and team-level demand.\n- Contribute to reusable patterns, shared templates, and\n  internal documentation that raise the quality bar for\n  everyone building on the platform.\n- Stay current on the MCP ecosystem, agentic frameworks, and\n  adjacent tooling. Bring relevant innovations back to the\n  team.\n\nWhat Great Looks Like:\n\n- Ships new MCP integrations and skill bundles regularly,\n  moves from \"teams want this capability\" to \"teams are\n  using this capability\" with speed and confidence.\n- Earns trust with department champions by listening\n  carefully, delivering on commitments, and iterating when\n  something isn't quite right.\n- Builds integrations that hold up over time: well-scoped\n  permissions, thoughtful data handling, clear\n  documentation. Don’t just build POCs that work on day one.\n- Operates autonomously but communicates proactively:\n  stakeholders always know what's in progress, what's\n  blocked, and what's coming next.\n- Thinks about the whole adoption curve, not just the\n  technical implementation. Considers onboarding, training,\n  and feedback from the start.\n- Demonstrates strong judgment about when to move fast and\n  when to slow down and involve Security or Compliance.\n- Influences how the team builds by contributing ideas,\n  patterns, and standards that make the MCP ecosystem better\n  for everyone who relies on it.\n- Measures their own success by whether teams are actually\n  using what was built, and digs in when adoption isn't\n  happening.\n\nCandidate Requirements:\n\n- Hands-on experience building with MCP; configuring or\n  authoring MCP servers, connecting tools, writing skills,\n  and working with agentic frameworks.\n- Strong SaaS API integration experience: REST, webhooks,\n  OAuth, and the practical realities of connecting\n  enterprise applications reliably.\n- Understanding of ABAC, access control, and governance\n  principles for AI/LLM deployments, including how to apply\n  least-privilege in practice.\n- Expertise working directly with non-technical stakeholders,\n  understanding their needs, translating them into technical\n  solutions, and maintaining the relationship through\n  iteration.\n- Demonstrated track record of driving tool adoption,\n  developer enablement, or similar change; not just building\n  things, but getting people to use them.\n- Ability to write and maintain integration code (Python or\n  similar). Comfortable authoring and debugging scripts, not\n  just configuring UIs.\n- 7+ years of experience in a systems integration, developer\n  enablement, internal tooling, or closely related role.\n- Strong communication skills; able to explain technical\n  decisions and trade-offs clearly to audiences ranging from\n  engineers to business leaders.\n- Strong ability to get abstract or specific with\n  stakeholders. Can whiteboard data flows, think creatively\n  on the fly.\n- Comfortable operating with high autonomy in a fast-paced\n  environment while managing multiple concurrent integration\n  projects.\n\nNice‑to‑Haves:\n\n- Experience working in healthcare or another HIPAA-regulated\n  environment and familiarity with the data handling\n  expectations that come with it.\n- Experience running AI adoption programs, internal developer\n  advocacy, or technology change management initiatives.\n- Familiarity with AI governance and MCP management platforms.\n- Experience with adjacent automation tools such as Tines,\n  n8n, or iPaaS platforms, especially building workflows\n  that complement MCP-based integrations.\n- Familiarity with identity and access management concepts\n  (SSO, SAML/OIDC, SCIM) as they apply to enterprise SaaS\n  integrations.\n\nBenefits:\n\n- Competitive salary with generous annual cash bonus\n- Equity grants\n- Remote first work from home culture\n- Flexible Time Off to help you rest, recharge, and connect\n  with loved ones\n- Generous parental leave\n- Health, dental, and vision insurance (and above market\n  employer contributions)\n- 401k retirement savings plan\n- Lifestyle Spending Account (LSA)\n- Mental Health Support Solutions\n- ...and more!\n\nIt takes a village to change health care. As we build\ntogether toward our mission, we strive to embody the\nfollowing values in our day-to-day work. We hope these hold\nmeaning for you as well as you consider Omada!\n\n- Cultivate Trust. We listen closely and we operate with\n  kindness. We provide respectful and candid feedback to\n  each other.\n- Seek Context. We ask to understand and we build connections.\n  We do our research up front to move faster down the road.\n- Act Boldly. We innovate daily to solve problems, improve\n  processes, and find new opportunities for our members and\n  customers.\n- Deliver Results. We reward impact above output. We set a\n  high bar, we’re not afraid to fail, and we take pride in\n  our work.\n- Succeed Together. We prioritize Omada’s progress above team\n  or individual. We have fun as we get stuff done, and we\n  celebrate together.\n- Remember Why We’re Here. We push through the challenges of\n  changing health care because we know the destination is\n  worth it.\n\nAbout Omada Health: Omada Health is a between-visit\nhealthcare provider that addresses lifestyle and behavior\nchange elements for individuals managing chronic conditions.\nOmada’s multi-condition platform treats diabetes,\nhypertension, prediabetes, musculoskeletal, and GLP-1\nmanagement. With insights from connected devices and AI-\nsupported tools, Omada care teams deliver care that is\nrooted in evidence and unique to every member, unlocking\nresults at scale. With more than a decade of experience and\ndata, and 29 peer-reviewed publications showcasing clinical\nand economic proof points, Omada’s approach is designed to\nimprove health outcomes and contain costs. Our customers\ninclude health plans, pharmacy benefit managers, health\nsystems, and employers ranging from small businesses to\nFortune 500s. At Omada, we aim to inspire and empower people\nto make lasting health changes on their own terms. For more\ninformation, visit: https://www.omadahealth.com/\n\nOmada is thrilled to share that we’ve been certified as a\nGreat Place to Work! Please click here for more information.\n\nWe carefully hire the best talent we can find, which means\nactively seeking diversity of beliefs, backgrounds,\neducation, and ways of thinking. We strive to build an\ninclusive culture where differences are celebrated and\nleveraged to inform better design and business decisions.\nOmada is proud to be an equal opportunity workplace and\naffirmative action employer. We are committed to equal\nopportunity regardless of race, color, religion, sex, gender\nidentity, national origin, ancestry, citizenship, age,\nphysical or mental disability, legally protected medical\ncondition, family care status, military or veteran status,\nmarital status, domestic partner status, sexual orientation,\nor any other basis protected by local, state, or federal\nlaws.\n\nBelow is a summary of salary ranges for this role in the\nfollowing geographies:\n\nCalifornia, New York State and Washington State Base\nCompensation Ranges: $142,600 - $178,300*, Colorado Base\nCompensation Ranges: $136,400 - $170,500*. Other states may\nvary.\n\nThis role is also eligible for participation in annual cash\nbonus and equity grants.\n\n*The actual offer, including the compensation package, is\ndetermined based on multiple factors, such as the\ncandidate's skills and experience, and other business\nconsiderations.\n\nPlease click here for more information on our Candidate\nPrivacy Notice.\n",
+  "skills_required": [
+    "ABAC (Attribute-Based Access Control)",
+    "AI agents",
+    "AI governance",
+    "Agentic frameworks",
+    "MCP (Model Context Protocol)",
+    "SSO/SAML/OIDC/SCIM",
+    "SaaS integration",
+    "Tines",
+    "iPaaS platforms",
+    "n8n"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and configure MCP servers integrating SaaS and internal applications into Omada's MCP ecosystem",
+    "Write skills and compose tool bundles that expose actions and data to AI agents in a composable way",
+    "Deploy role-appropriate tool bundles to ABAC groups, managing access and least-privilege permissions",
+    "Partner with department champions across the company to identify AI-driven automation opportunities in their workflows",
+    "Drive AI adoption across the company by shipping integrations that fit how teams actually work",
+    "Maintain security, governance, and compliance standards for MCP integrations in a HIPAA-regulated health data environment",
+    "Create reusable patterns, shared templates, and documentation to scale the MCP ecosystem",
+    "Gather usage signals and feedback from champions to iterate on integrations and measure adoption"
+  ],
+  "use_cases": [
+    "AI-assisted workflow automation across enterprise departments",
+    "Connecting SaaS tools and internal systems to AI agents via MCP servers",
+    "Agentic automation for business processes like HR, finance, and operations",
+    "Role-scoped AI tool bundles that give teams contextually relevant AI capabilities",
+    "Enterprise AI governance and secure access control for LLM-based agent deployments",
+    "Internal developer enablement and AI adoption across a healthcare organization"
+  ],
+  "tools_mentioned": [
+    "OAuth",
+    "REST APIs",
+    "Webhooks"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Agentic frameworks",
+    "MCP (Model Context Protocol)"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building MCP servers, writing AI\nskills, composing tool bundles for AI agents, and deploying\nagentic integrations. The engineer is hands-on with MCP\n(Model Context Protocol) ecosystem development, connecting\nSaaS tools to AI agents, and building AI-driven automation\ncapabilities — not merely supporting infrastructure for\nothers who build AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP (Model Context Protocol)",
+      "AI agents",
+      "Agentic frameworks"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "OAuth",
+      "Webhooks"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "HIPAA compliance"
+    ],
+    "other": [
+      "ABAC (Attribute-Based Access Control)",
+      "SSO/SAML/OIDC/SCIM",
+      "Tines",
+      "n8n",
+      "iPaaS platforms",
+      "AI governance",
+      "SaaS integration"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

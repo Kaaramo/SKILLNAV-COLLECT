@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-2066",
+  "source": "intl-ai-corpus",
+  "source_ref": "8730815",
+  "source_url": "https://builtin.com/job/staff-ai-engineer/8730815",
+  "title": "Staff AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "GE Healthcare",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-12",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "50,282 Employees",
+  "company_stage": "Public",
+  "company_focus": "Healthcare technology and medical devices",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Analytics",
+    "Biotech"
+  ],
+  "description": "Job Description SummaryWe are looking for an AI Engineer\nwith strong software engineering and system design\nfundamentals to build and deploy production‑grade Generative\nAI systems in a MedTech environment. In this role you will\nwork closely with product, clinical, service, and operations\nstakeholders to translate real‑world workflows into\nscalable, reliable AI‑powered applications. You will design,\nbuild, integrate, and operate LLM‑based systems, including\nRAG, Knowledge Graphs, Graph RAG, and Agentic AI workflows,\nand deploy them on AWS using SageMaker and Bedrock.\n\nJob Description\n\nRoles and Responsibilities\n\n- Apply strong software engineering principles to design,\n  build, test, deploy, and operate AI‑powered systems\n  end‑to‑end.\n- Design clean, scalable system architectures, including APIs,\n  services, and data pipelines, with a focus on reliability,\n  observability, and security.\n- Make sound engineering trade‑offs across latency,\n  scalability, cost, fault tolerance, and maintainability.\n- Design and implement LLM‑based solutions for real‑world,\n  production use cases.\n- Build Retrieval‑Augmented Generation (RAG) pipelines,\n  including:\n  - Document ingestion and chunking strategies\n  - Embeddings and vector search\n  - Retrieval, reranking, grounding, and response synthesis\n- Implement Knowledge Graph and Graph RAG approaches to enable\n  reasoning over structured and unstructured enterprise\n  data.\n- Build Agentic AI systems capable of planning, reasoning, and\n  executing multi‑step workflows.\n- Implement agentic workflows using tool/function calling,\n  memory, context management, and guarded execution.\n- Design systems where agents orchestrate workflows and LLMs\n  act as the reasoning and decision layer.\n- Work embedded with stakeholders to understand workflows,\n  validate AI outputs, and iterate quickly from prototype to\n  production.\n- Integrate AI capabilities into real applications (backend\n  services, user‑facing tools, copilots, operational\n  systems).\n- Own solutions in production, including monitoring,\n  debugging, and continuous improvement.\n- Build and deploy AI services on AWS, leveraging:\n  - AWS SageMaker for model training, hosting, and pipelines\n  - AWS Bedrock for foundation models, agents, and knowledge\n    bases\n- Implement CI/CD, containerization, and MLOps practices for\n  AI systems.\n- Ensure secure access, governance, logging, and monitoring\n  aligned with enterprise and healthcare requirements.\n\n\n\nEducation Qualification\n\n- Bachelor's Degree in Computer Science or “STEM” Majors\n  (Science, Technology, Engineering and Math) with basic\n  experience.\n- Desired Characteristics\n- Strong foundation in software engineering and system design.\n- Proficiency in Python and experience building backend\n  services and APIs.\n- Hands‑on experience with Generative AI / LLMs, including\n  RAG‑based systems.\n- Experience deploying and operating systems on AWS.\n- Ability to work effectively in ambiguous, customer‑facing,\n  forward‑deployed environments.\n\nBusiness Acumen:\n\n- Strong problem solving abilities and capable of articulating\n  specific technical topics or assignments.\n- Experience in building scalable and highly available\n  distributed systems.\n- Expert in breaking down problems and estimate time for\n  development tasks.\n- Evangelizes how our technology solves customer problems from\n  a technology and business perspective\n\nLeadership:\n\n- Demonstrates clarity of thinking to work through limited\n  information and vague problem definitions.\n- Influences through others; builds direct and \"behind the\n  scenes\" support for ideas.\n- Proactively identifies and removes project obstacles or\n  barriers on behalf of the team.\n- Shares knowledge, power, and credit, establishing trust,\n  credibility, and goodwill.\n\nPersonal Attributes:\n\n- Able to work under minimal supervision.\n- Excellent communication skills and the ability to interface\n  with senior leadership with confidence and clarity.\n- Able to work well with global teams, including time-zone\n  flexibility.\n- Skilled in providing oversight and mentoring team members.\n  Shows ability to effectively delegate work\n\nInclusion and Diversity\n\nGE Healthcare is an Equal Opportunity Employer where\ninclusion matters. Employment decisions are made without\nregard to race, color, religion, national or ethnic origin,\nsex, sexual orientation, gender identity or expression, age,\ndisability, protected veteran status or other\ncharacteristics protected by law.\n\nWe expect all employees to live and breathe our behaviors:\nto act with humility and build trust; lead with\ntransparency; deliver with focus, and drive ownership –\nalways with unyielding integrity.\n\nOur total rewards are designed to unlock your ambition by\ngiving you the boost and flexibility you need to turn your\nideas into world-changing realities. Our salary and benefits\nare everything you’d expect from an organization with global\nstrength and scale, and you’ll be surrounded by career\nopportunities in a culture that fosters care, collaboration\nand support.\n\n#LI-Hybrid #LI-MP2\n\nAdditional Information\n\nRelocation Assistance Provided: Yes\n",
+  "skills_required": [
+    "Agentic AI",
+    "Embeddings",
+    "Graph RAG",
+    "Knowledge Graphs",
+    "LLMs",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, test, deploy, and operate AI-powered systems end-to-end with strong software engineering principles",
+    "Design and implement LLM-based solutions including RAG pipelines with document ingestion, embeddings, vector search, retrieval, reranking, and response synthesis",
+    "Implement Knowledge Graph and Graph RAG approaches for reasoning over structured and unstructured enterprise data",
+    "Build Agentic AI systems with planning, reasoning, tool/function calling, memory, context management, and multi-step workflow execution",
+    "Work embedded with stakeholders to understand workflows, validate AI outputs, and iterate from prototype to production",
+    "Integrate AI capabilities into backend services, user-facing tools, copilots, and operational systems",
+    "Build and deploy AI services on AWS using SageMaker and Bedrock for model training, hosting, and foundation models",
+    "Implement CI/CD, containerization, and MLOps practices while ensuring secure access, governance, and monitoring for healthcare requirements"
+  ],
+  "use_cases": [
+    "Healthcare workflow automation and optimization",
+    "Clinical decision support and documentation assistance",
+    "Medical knowledge retrieval and reasoning systems",
+    "Enterprise search over structured and unstructured healthcare data",
+    "Operational systems for healthcare service delivery"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "AWS Bedrock",
+    "AWS SageMaker",
+    "Backend services",
+    "CI/CD",
+    "Containerization",
+    "MLOps",
+    "Vector search"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI",
+    "Embeddings",
+    "Graph RAG",
+    "Knowledge Graphs",
+    "LLMs",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is clearly ai-first as it involves hands-on work\nbuilding, deploying, and operating LLM-based systems\nincluding RAG pipelines, Knowledge Graphs, Graph RAG, and\nAgentic AI workflows. The position requires direct\nimplementation of generative AI technologies on AWS\nSageMaker and Bedrock, not just supporting infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLMs",
+      "Knowledge Graphs",
+      "Graph RAG",
+      "Agentic AI",
+      "Embeddings"
+    ],
+    "ml": [],
+    "web": [
+      "APIs",
+      "Backend services"
+    ],
+    "databases": [
+      "Vector search"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS SageMaker",
+      "AWS Bedrock"
+    ],
+    "ops": [
+      "CI/CD",
+      "Containerization",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

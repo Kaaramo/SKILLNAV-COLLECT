@@ -1,0 +1,192 @@
+{
+  "job_id": "intl-ai-corpus-0127",
+  "source": "intl-ai-corpus",
+  "source_ref": "7119550",
+  "source_url": "https://builtin.com/job/ai-engineer/7119550",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Metropolitan Commercial Bank",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "306 Employees",
+  "company_stage": "Public",
+  "company_focus": "Full-service commercial banking",
+  "industries": [
+    "Fintech",
+    "Payments",
+    "Financial Services"
+  ],
+  "description": "Come work with us:\n\nMetropolitan Commercial Bank (the “Bank”) is a full-service\ncommercial bank based in New York City. The Bank provides a\nbroad range of business, commercial, and personal banking\nproducts and services to individuals, small businesses,\nprivate and public middle-market and corporate enterprises\nand institutions, municipalities, and local government\nentities.\n\nMetropolitan Commercial Bank was named one of Newsweek’s\nBest Regional Banks and Credit Unions 2024. The Bank was\nranked by Independent Community Bankers of America among the\ntop ten successful loan producers for 2023 by loan category\nand asset size for commercial banks with more than $1\nbillion in assets. Kroll affirmed a BBB+ (investment grade)\ndeposit rating on January 25, 2024. For the fourth time, MCB\nhas earned a place in the Piper Sandler Bank Sm-All Stars\nClass of 2024.\n\nMetropolitan Commercial Bank operates banking centers and\nprivate client offices in Manhattan, Boro Park, Brooklyn and\nGreat Neck on Long Island in New York State.\n\nThe Bank is a New York State chartered commercial bank, a\nmember of the Federal Reserve System and the Federal Deposit\nInsurance Corporation, and an equal housing lender. The\nparent company of Metropolitan Commercial Bank is\nMetropolitan Bank Holding Corp. (NYSE: MCB).\n\nPosition Summary:\n\nMetropolitan Commercial Bank (the “Bank”) is seeking a VP-\nlevel AI/ML Engineer to deploy AI solutions at enterprise\nscale, with a strong emphasis on Large Language Model (LLM)\napplications and modern MLOps & AIOps practices. This role\nsits at the intersection of data science and software\nengineering, reporting to the manager of the IT Application\nDevelopment and Support team and working closely with the\nChief Artificial Intelligence Officer, transforming\ninnovative AI prototypes into robust, scalable production\nsystems. The AI/ML Engineer will lead the deployment of\nhigh-impact AI capabilities (e.g., generative AI systems,\npersonalization engines, automation tools) and ensure\nscalable AI platforms that deliver real-world value. The\nrole also includes designing, constructing, and maintaining\nthe Bank’s AIOps solution, with Snowflake as the primary ML\nplatform (e.g., Snowpark Python, UDFs/UDTFs, Tasks/Streams,\nand Snowflake-native ML).\n\nWe have a flexible work schedule where employees can work\nfrom home one day a week.\n\nEssential duties and responsibilities:\n\n Production Architecture & AIOps:\n\n- Establish and enforce architecture standards for production\n  AI systems, including data pipelines, model serving\n  infrastructure, and real-time inference services.\n- Implement AIOps/MLOps pipelines for CI/CD of ML models,\n  model governance, monitoring, and lifecycle management.\n- Design and maintain scalable software applications with\n  integrated AI/ML capabilities.\n- Develop software architecture and design patterns to ensure\n  performance and scalability.\n- Write clean, maintainable code in general-purpose\n  programming languages (Python, Java, C, C++, Go).\n- Implement and manage data pipelines for preprocessing and\n  transforming data for AI/ML models.\n- Integrate AI/ML models into production environments and\n  optimize for reliability and scalability.\n- Apply Site Reliability Engineering (SRE) principles and\n  implement monitoring and alerting solutions.\n- Conduct code reviews and provide technical guidance to\n  junior developers.\n- Stay current with advancements in software engineering and\n  AI/ML technologies.\n- Adhere to agile and lean software development best\n  practices.\n- Thoroughly document all developed models and processes\n  according to relevant policies and standards.\n- Support the production environment by either resolving\n  technical or functional issues, in line with the\n  procedures defined by the Bank.\n\nCross-Functional Collaboration:\n\n- Partner with data scientists, AI scientists, product\n  managers, data engineers, DevOps, and business\n  stakeholders to operationalize AI algorithms.\n- Mentor or train teams and coordinate between research-\n  oriented AI scientists and engineering teams to\n  continuously improve models with production feedback.\n\nScaling & Performance:\n\n- Ensure AI solutions perform at scale, handling thousands of\n  daily inferences with low latency and high reliability.\n- Optimize model serving using techniques like model\n  compression, caching, and hardware acceleration.\n- Implement robust monitoring and alerting for model\n  performance to detect and address degradation (e.g.,\n  drift, latency issues).\n\nScaling & Performance:\n\n- Ensure AI solutions perform at scale, handling thousands of\n  daily inferences with low latency and high reliability.\n- Optimize model serving using techniques like model\n  compression, caching, and hardware acceleration.\n- Implement robust monitoring and alerting for model\n  performance to detect and address degradation (e.g.,\n  drift, latency issues).\n\nRequired knowledge, skills and experience:\n\n- LLM & GenAI Mastery: Expert in building and deploying LLM-\n  based applications using RAG, prompt engineering, and\n  vector databases. Skilled in LLMOps tools (LangChain,\n  LlamaIndex) and fine-tuning models for enterprise use,\n  including agent-based architectures.\n- MLOps & Cloud Infrastructure: Proficient in cloud ML\n  platforms (AWS, GCP, Azure) and MLOps workflows. Uses\n  Docker, Kubernetes, and IaC tools (Terraform,\n  CloudFormation) for scalable deployments. Experienced in\n  CI/CD, real-time inference, GPU optimization, and ML\n  observability (Prometheus, Grafana, MLflow).\n- Full-Stack Development: Capable of building end-to-end AI\n  solutions, from front-end (React) to back-end APIs (Flask,\n  FastAPI, Node.js). Skilled in integrating ML models with\n  databases (SQL, NoSQL) and delivering seamless user\n  experiences through robust software engineering.\n- Proficient in Python (pandas, scikit-learn), deep learning\n  (PyTorch/TensorFlow/Keras), NLP/LLMs, LangChain,\n  embeddings/vector search, and classic ML.\n- Experienced with Snowflake-native ML (Snowpark Python,\n  UDFs/UDTFs, Tasks/Streams).\n- Competent in data engineering (SQL, ETL/pipelines,\n  Spark/PySpark) and handling large structured/unstructured\n  datasets.\n- Strong understanding of AI/ML algorithms, application\n  architecture, and design patterns.\n- Excellent problem-solving, analytical, communication, and\n  collaboration skills.\n\nPreferred knowledge, skills and experience:\n\n- Financial services domain experience (fraud risk, AML,\n  underwriting, or commercial/treasury analytics).\n- Hands-on experience with Snowflake ML/Snowpark (Python),\n  Tasks/Streams, secure external functions, and feature\n  management/registry tooling.\n- Familiarity with fairness toolkits, XAI frameworks, and\n  preparing models for validation, audit, or regulatory\n  exams.\n- Knowledge of SR 23‑4 (third‑party risk), NYC Local Law 144\n  (AEDT), NYDFS Part 500 (cyber).\n- Ability to work in a constantly evolving environment.\n- Excellent written and verbal communication skills.\n- Strong listening and teaching abilities.\n- Demonstrated analytical, troubleshooting, and problem-\n  solving skills.\n- Quick learner of new technologies.\n- Self-directed with strong technology and communication\n  skills.\n- Ability to synthesize multiple sources of information and\n  understand the broader operational context of the Bank.\n- Collaborative team player with a practical and creative\n  approach in a dynamic work environment.\n- Ability to handle ambiguity, multitask, and adapt quickly to\n  changing priorities.\n\nPotential Salary: $130,000 - $200,000 annually\n\nThis salary range reflects base wages and does not include\nbenefits, bonus, or incentive pay. Salary bands are\npurposefully wide ranging to encompass the different factors\nconsidered in determining where a candidate falls in the\nrange, including but not limited to, seniority, performance,\nexperience, education, and any other legitimate, non-\ndiscriminatory factor permitted by law. Final offer amounts\nare determined by multiple factors including candidate\nexperience and expertise and may vary from the amounts\nlisted here.\n\nMetropolitan Commercial Bank provides equal employment\nopportunities to all employees and applicants for employment\nand prohibits discrimination and harassment of any type\nwithout regard to race, color, religion, age, sex, national\norigin, disability status, genetics, protected veteran\nstatus, sexual orientation, gender identity or expression,\nor any other characteristic protected by federal, state, or\nlocal laws.\n\nThis applies to all terms and conditions of employment,\nincluding recruiting, hiring, placement, promotion,\ntermination, layoff, recall, transfer, leaves of absence,\ncompensation, and training.\n",
+  "skills_required": [
+    "Keras",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agent-based architectures",
+    "embeddings",
+    "fine-tuning",
+    "prompt engineering",
+    "scikit-learn",
+    "vector search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Establish and enforce architecture standards for production AI systems, including data pipelines, model serving infrastructure, and real-time inference services",
+    "Implement AIOps/MLOps pipelines for CI/CD of ML models, model governance, monitoring, and lifecycle management",
+    "Build and deploy LLM-based applications using RAG, prompt engineering, vector databases, and agent-based architectures",
+    "Design and maintain scalable software applications with integrated AI/ML capabilities using Snowflake as the primary ML platform",
+    "Partner with cross-functional teams to operationalize AI algorithms and coordinate between research and engineering teams",
+    "Optimize model serving for performance and scale using techniques like model compression, caching, and hardware acceleration",
+    "Build end-to-end AI solutions from front-end (React) to back-end APIs (Flask, FastAPI, Node.js)",
+    "Implement monitoring, alerting, and SRE principles to ensure AI system reliability and detect model degradation"
+  ],
+  "use_cases": [
+    "Generative AI systems for banking operations and customer services",
+    "Personalization engines for tailored banking experiences and recommendations",
+    "Automation tools for streamlining banking processes and workflows",
+    "Fraud detection and risk assessment using AI/ML models",
+    "AML (Anti-Money Laundering) compliance and monitoring systems",
+    "Commercial/treasury analytics for business banking decisions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "CloudFormation",
+    "Docker",
+    "ETL",
+    "FastAPI",
+    "Flask",
+    "GCP",
+    "Grafana",
+    "Kubernetes",
+    "LLMOps",
+    "MLflow",
+    "Node.js",
+    "Prometheus",
+    "PySpark",
+    "React",
+    "SRE",
+    "Snowflake",
+    "Snowpark Python",
+    "Spark",
+    "Terraform",
+    "model monitoring",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Keras",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agent-based architectures",
+    "embeddings",
+    "fine-tuning",
+    "prompt engineering",
+    "scikit-learn",
+    "vector search"
+  ],
+  "languages_programming": [
+    "C",
+    "C++",
+    "Go",
+    "Java",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires hands-on work building and deploying LLM-\nbased applications using RAG, prompt engineering, vector\ndatabases, and fine-tuning models. The engineer directly\nconstructs production AI systems including generative AI\nsystems, agent-based architectures, and model serving\ninfrastructure, not just supporting infrastructure for\nothers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "RAG",
+      "prompt engineering",
+      "agent-based architectures",
+      "embeddings",
+      "vector search"
+    ],
+    "ml": [
+      "fine-tuning",
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "scikit-learn"
+    ],
+    "web": [
+      "React",
+      "Flask",
+      "FastAPI",
+      "Node.js"
+    ],
+    "databases": [
+      "vector databases",
+      "Snowflake"
+    ],
+    "data": [
+      "Snowpark Python",
+      "Spark",
+      "PySpark",
+      "ETL"
+    ],
+    "cloud": [
+      "CloudFormation",
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "LLMOps",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Prometheus",
+      "Grafana",
+      "MLflow",
+      "SRE",
+      "model monitoring"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "Go",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

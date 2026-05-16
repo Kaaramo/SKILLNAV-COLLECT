@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-1182",
+  "source": "intl-ai-corpus",
+  "source_ref": "8256201",
+  "source_url": "https://builtin.com/job/senior-backend-engineer-together-cloud/8256201",
+  "title": "Senior AI Infrastructure Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Together AI",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam, NLD",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-15",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "84 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI Acceleration Cloud platform for generative AI lifecycle\nwith fast LLM inference",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology"
+  ],
+  "description": "About the Role\n\nTogether AI is building the AI Acceleration Cloud, an end-\nto-end platform for the full generative AI lifecycle,\ncombining the fastest LLM inference engine with state-of-\nthe-art AI cloud infrastructure.\n\nAs a Senior AI Infrastructure Engineer, you will play a key\nrole in building the next generation AI cloud platform – a\nhighly available, global, blazing-fast cloud infrastructure\nthat virtualizes cutting-edge ML hardware (GB200s/GB300s,\nBlueField DPUs) and enables state-of-the-art ML\npractitioners with self-serve AI cloud services, such as on-\ndemand + managed Kubernetes and Slurm clusters. This\nplatform serves both our internal SaaS products (inference,\nfine-tuning) and our external cloud customers, spanning\ndozens of data centers across the world.\n\nHybrid working two days a week in the Amsterdam office.\n\nResponsibilities\n\n- Design, build, and maintain performant, secure, and highly-\n  available backend services/operators that run in our data\n  centers and automate hardware management, such as\n  Infiniband partitioning, in-DC parallel storage\n  provisioning, and VM provisioning.\n- Design and build out the IaaS software layer for a new GB200\n  data center with thousands of GPUs.\n- Work on a global multi-exabyte high-performance object\n  store, serving massive datasets for pretraining.\n- Build advanced observability stacks for our customers with\n  automated node lifecycle management for fault-tolerant\n  distributed pretraining.\n- Perform architecture and research work for decentralized AI\n  workloads\n- Work on the core, open-source Together AI platform\n- Create services, tools, and developer documentation\n- Create testing frameworks for robustness and fault-tolerance\n\nTo be successful, you’ll need to be deeply technical and\npossess excellent communication, collaboration, and\ndiplomacy skills. You have strong fundamental software\ndevelopment skills. In addition, you have strong systems\nknowledge and troubleshooting abilities.\n\nRequirements\n\n- 5+ years of professional software development experience and\n  proficiency in at least one backend programming language\n  (Golang desired)\n- 5+ years experience writing high-performance, well-tested,\n  production quality code\n- Demonstrated experience with building and operating high-\n  performance and/or globally distributed micro-service\n  architectures across one or more cloud providers (AWS,\n  Azure, GCP)\n- Excellent communication skills – able to write clear design\n  docs and work effectively with both technical and non-\n  technical team members\n- Deep experience with Kubernetes internals a big plus, such\n  as implementing non-trivial Kubernetes operators,\n  device/storage/network plugins, custom schedulers, or\n  patches thereon or Kubernetes itself\n- Deep experience with VMs/hypervisors a big plus, such as\n  QEMU/KVM, cloud-hypervisor, VFIO, virtio, PCIE\n  passthrough, Kubevirt, SR-IOV\n- Deep experience with DC networking tech + solutions a big\n  plus, such as VLAN, VXLAN, VPN, VPC, OVS/OVN\n- Experience with Cluster API or similar a big plus\n- Experience working on high-performance compute, networking,\n  and/or storage a big plus\n- Experience virtualizing GPUs and/or Infiniband a big plus\n- Strong systems knowledge across compute, networking, and\n  storage, including concurrency, memory management,\n  performant I/O, and scale\n- Experience with infrastructure automation tools (Terraform,\n  Ansible), monitoring/observability stacks (Prometheus,\n  Grafana), and CI/CD pipelines (GitHub Actions, ArgoCD)\n- Experience building IaaS or PaaS systems at scale a plus\n- Experience with DPUs/SmartNICs a plus\n- GPU programming, NCCL, CUDA knowledge a plus\n\nAbout Together AI\n\nTogether AI is a research-driven artificial intelligence\ncompany. We believe open and transparent AI systems will\ndrive innovation and create the best outcomes for society,\nand together we are on a mission to significantly lower the\ncost of modern AI systems by co-designing software,\nhardware, algorithms, and models. We have contributed to\nleading open-source research, models, and datasets to\nadvance the frontier of AI, and our team has been behind\ntechnological advancement such as FlashAttention, Hyena,\nFlexGen, and RedPajama. We invite you to join a passionate\ngroup of researchers in our journey in building the next\ngeneration AI infrastructure.\n\nEqual Opportunity\n\nTogether AI is an Equal Opportunity Employer and is proud to\noffer equal employment opportunity to everyone regardless of\nrace, color, ancestry, religion, sex, national origin,\nsexual orientation, age, citizenship, marital status,\ndisability, gender identity, veteran status, and more.\n\nPlease see our privacy policy at\nhttps://www.together.ai/privacy\n",
+  "skills_required": [
+    "CUDA",
+    "NCCL"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain backend services and operators for data center hardware automation including Infiniband partitioning, storage provisioning, and VM provisioning",
+    "Design and build IaaS software layer for GB200 data centers with thousands of GPUs",
+    "Work on global multi-exabyte high-performance object store serving massive datasets for pretraining",
+    "Build advanced observability stacks with automated node lifecycle management for fault-tolerant distributed pretraining",
+    "Perform architecture and research work for decentralized AI workloads",
+    "Work on the core open-source Together AI platform",
+    "Create services, tools, and developer documentation",
+    "Create testing frameworks for robustness and fault-tolerance"
+  ],
+  "use_cases": [
+    "AI Acceleration Cloud platform for generative AI lifecycle",
+    "LLM inference services",
+    "Model fine-tuning services",
+    "On-demand and managed Kubernetes clusters for ML practitioners",
+    "On-demand and managed Slurm clusters for ML practitioners",
+    "Distributed pretraining infrastructure"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ansible",
+    "ArgoCD",
+    "Azure",
+    "Cluster API",
+    "Docker",
+    "GCP",
+    "GitHub Actions",
+    "Grafana",
+    "Infiniband",
+    "Kubernetes",
+    "Kubernetes operators",
+    "Prometheus",
+    "QEMU/KVM",
+    "Terraform",
+    "VLAN",
+    "VPC",
+    "VXLAN"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "NCCL"
+  ],
+  "languages_programming": [
+    "Golang",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role builds infrastructure that supports AI workloads\n(IaaS, Kubernetes, storage, networking), but does not\ndirectly build, train, fine-tune, or deploy AI models. The\nwork is on virtualization, hardware management, and platform\nservices that enable ML practitioners, similar to building\nAWS/GCP infrastructure rather than the AI systems\nthemselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "CUDA",
+      "NCCL"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "VPC"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Kubernetes operators",
+      "Terraform",
+      "Ansible",
+      "Prometheus",
+      "Grafana",
+      "GitHub Actions",
+      "ArgoCD",
+      "QEMU/KVM",
+      "Docker",
+      "Infiniband",
+      "VLAN",
+      "VXLAN",
+      "Cluster API"
+    ],
+    "languages": [
+      "Golang",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

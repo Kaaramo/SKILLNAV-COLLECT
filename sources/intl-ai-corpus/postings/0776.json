@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-0776",
+  "source": "intl-ai-corpus",
+  "source_ref": "6937833",
+  "source_url": "https://builtin.com/job/ai-engineer-intern/6937833",
+  "title": "AI Engineer Intern",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Brainwonders",
+  "company_type": "entité morale privée",
+  "location": "Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-19",
+  "publication_month": "2026-02",
+  "contract_type": "Stage",
+  "work_type_raw": "INTERN",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "66 Employees",
+  "company_stage": null,
+  "company_focus": "Career counseling and guidance company for students and\nprofessionals",
+  "industries": [
+    "Edtech",
+    "Professional Services"
+  ],
+  "description": "Company Description\n\nBRAINWONDERS\n\nAbout Company: At Brainwonders, we are proud to be India’s\nlargest career counselling and guidance company, recognized\nfor our commitment to transforming students' futures. With\n1223+ educational institutes using our services, 93+\ncorporate connections, and 108+ franchisees, we have built\nan expansive network of support for students, educators, and\nprofessionals.\n\nBrainwonders has earned numerous national and regional\nawards for excellence in career counselling and guidance,\nand is consistently rated as one of the highest-paying\nemployers in the counselling industry by various job\nportals.\n\nJob Description\n\nAI Engineer Intern – LLMs, Agents, AWS Position: AI Engineer\nIntern Experience: 0-1 Year (Final-year students or freshers\nwelcome) Location: Borivali East, Mumbai Type: Internship\n(3–6 months) | Possibility of Full-time Offer\n\n🧠 Focus Areas: Large Language Models (LLMs)\n\nAI Agents / Autonomous Systems\n\nML Fundamentals & Transformers\n\nCloud Deployment & Scaling (AWS)\n\n🎯 Responsibilities: Build and test LLM-based applications\nand workflows.\n\nExperiment with agent frameworks (e.g., LangGraph, CrewAI).\n\nUse and adapt transformer models (e.g., LLaMA, Mistral) for\ndomain tasks.\n\nDeploy models and services on AWS (Lambda, EC2, SageMaker).\n\nWork with vector stores and embeddings for search or RAG-\nbased systems.\n\nCollaborate on prompt engineering, fine-tuning, and pipeline\noptimization.\n\n✅ Requirements: Solid understanding of LLMs, tokenization,\ntransformers.\n\nPython programming (Pandas, NumPy, Hugging Face, LangChain,\netc.).\n\nExposure to AWS services like EC2, Lambda, S3, or SageMaker.\n\nEagerness to explore real-world AI use cases (agents,\ncopilots, RAG).\n\nBasic ML knowledge and hands-on project experience.\n\n💡 Good to know: Experience with serverless deployments on\nAWS.\n\nFamiliarity with monitoring and logging (e.g., CloudWatch,\nOpenTelemetry).\n\nContributions to open-source AI tools or models\n\nAdditional Information\n",
+  "skills_required": [
+    "CrewAI",
+    "Embeddings",
+    "Fine-tuning",
+    "Hugging Face",
+    "LLMs",
+    "LLaMA",
+    "LangChain",
+    "LangGraph",
+    "Mistral",
+    "Prompt engineering",
+    "RAG",
+    "Transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and test LLM-based applications and workflows",
+    "Experiment with agent frameworks like LangGraph and CrewAI",
+    "Use and adapt transformer models such as LLaMA and Mistral for domain tasks",
+    "Deploy models and services on AWS including Lambda, EC2, and SageMaker",
+    "Work with vector stores and embeddings for search or RAG-based systems",
+    "Collaborate on prompt engineering, fine-tuning, and pipeline optimization"
+  ],
+  "use_cases": [
+    "LLM-based applications for career counseling domain",
+    "AI agents and autonomous systems",
+    "Search and RAG-based information retrieval",
+    "Domain-specific AI copilots"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS EC2",
+    "AWS Lambda",
+    "AWS S3",
+    "AWS SageMaker",
+    "CloudWatch",
+    "NumPy",
+    "OpenTelemetry",
+    "Pandas",
+    "Vector stores"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "Embeddings",
+    "Fine-tuning",
+    "Hugging Face",
+    "LLMs",
+    "LLaMA",
+    "LangChain",
+    "LangGraph",
+    "Mistral",
+    "Prompt engineering",
+    "RAG",
+    "Transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on AI engineering role focused on building\nLLM-based applications, working with agent frameworks,\ndeploying models, and implementing RAG systems. The intern\nwill work directly ON AI systems including transformers,\nembeddings, and fine-tuning.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "LangGraph",
+      "CrewAI",
+      "LangChain",
+      "RAG",
+      "Prompt engineering",
+      "Fine-tuning",
+      "LLaMA",
+      "Mistral"
+    ],
+    "ml": [
+      "Transformers",
+      "Hugging Face",
+      "Embeddings"
+    ],
+    "web": [],
+    "databases": [
+      "Vector stores"
+    ],
+    "data": [
+      "Pandas",
+      "NumPy"
+    ],
+    "cloud": [
+      "AWS",
+      "AWS Lambda",
+      "AWS EC2",
+      "AWS S3",
+      "AWS SageMaker"
+    ],
+    "ops": [
+      "CloudWatch",
+      "OpenTelemetry"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-2195",
+  "source": "intl-ai-corpus",
+  "source_ref": "8796926",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai-applications/8796926",
+  "title": "Senior Software Engineer, AI Applications",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nayya",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-19",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "150 Employees",
+  "company_stage": "Series B/C (backed by multiple VC firms including ICONIQ, Felicis Ventures)",
+  "company_focus": "AI-powered health and wealth benefits platform for employees",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Healthtech",
+    "HR Tech",
+    "Insurance",
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "About Nayya\n\nFounded in 2019, Nayya is on a mission to connect people’s\nmost important information, so they can thrive in their\nhealth and wealth. Powered by AI and advanced analytics,\nNayya’s platform transforms complex benefits experiences\ninto intuitive, seamless, and ongoing interactions—meeting\npeople's real world needs. As a trusted platform and partner\nto leading employers, benefits solutions, and HR tech\nproviders, Nayya unlocks long-term value through helping\nemployees live more resilient lives. Backed by strategic\ninvestors like ICONIQ, Felicis Ventures, SemperVirens,\nWorkday Ventures, MetLife Nextgen Ventures, and ADP\nVentures, Nayya is ushering in the future of health and\nwealth for all.\n\n\n\nAbout the Role\n\nNayya is looking for a Senior Software Engineer, AI\nApplications to help design, build, and scale the core\nsystems that power our next generation of AI-native\nproducts. In this role, you will be critical to developing\nNayya’s agentic platform to serve millions of employees\nacross their health and wealth management.  You will act as\na technical leader and AI business partner, translating\nambiguous needs into durable, production-grade AI-native\nworkflows that provide clarity for employees  and hundreds\nof hours of savings for our partners.\n\nWhat You’ll Do\n\n- Develop AI-native features by building and integrating LLM-\n  powered systems for extracting, structuring, and reasoning\n  over complex healthcare and benefits data\n- Build against AI infrastructure, including retrieval\n  pipelines (RAG), embeddings, prompt orchestration, and\n  internal agent frameworks\n- Own end-to-end systems from design, application development,\n  AI integrations and final product delivery.\n- Collaborate cross-functionally with Product, Design and\n  other functions to understand customer workflows and\n  translate them into technical solutions\n- Implement evaluation pipelines and benchmarking strategies\n  to measure LLM performance, and design guardrails that\n  enforce safety, accuracy, and compliance thresholds across\n  AI-powered features\n\nWho You Are\n\n- 5+ years of software engineering experience building and\n  operating complex applications in production\n- Experienced integrating AI/LLM-powered systems (e.g.,\n  OpenAI, Claude) into real products\n- Strong proficiency with modern, object-oriented languages\n  and frameworks (Typescript, Ruby etc)\n- Comfortable completely owning backend systems and APIs and\n  collaborating on frontend experiences\n- Experience with AWS infrastructure or equivalent\n- Experience with CI/CD pipelines, infrastructure as code, and\n  monitoring tools\n- Opinionated,  adaptable, and energized by working in fast-\n  moving, ambiguous environments\n- Have a track record of setting technical direction and\n  influencing engineering standards across a team\n- Strong communication skills and the ability to communicate\n  with technical and non-technical stakeholders\n\nThe salary range for New York based candidates for this role\nis $188,000- $230,000. We use a location factor to adjust\nthis range for candidates that are located outside of\ngeographic region of our New York office. Placement within\nthe salary band is determined based on experience.\n\nNayya is proud to be an Equal Employment Opportunity\nemployer. We do not discriminate based upon race, religion,\ncolor, national origin, gender (including pregnancy,\nchildbirth, or related medical conditions), sexual\norientation, gender identity, gender expression, age, status\nas a protected veteran, status as an individual with a\ndisability, or other applicable legally protected\ncharacteristics\n",
+  "skills_required": [
+    "Claude API",
+    "LLM evaluation pipelines",
+    "OpenAI API",
+    "RAG",
+    "agent frameworks",
+    "embeddings",
+    "prompt orchestration"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop AI-native features by building and integrating LLM-powered systems for extracting, structuring, and reasoning over complex healthcare and benefits data",
+    "Build AI infrastructure including retrieval pipelines (RAG), embeddings, prompt orchestration, and internal agent frameworks",
+    "Own end-to-end systems from design, application development, AI integrations to final product delivery",
+    "Collaborate cross-functionally with Product, Design and other functions to understand customer workflows and translate them into technical solutions",
+    "Implement evaluation pipelines and benchmarking strategies to measure LLM performance",
+    "Design guardrails that enforce safety, accuracy, and compliance thresholds across AI-powered features"
+  ],
+  "use_cases": [
+    "Healthcare and benefits data extraction and structuring",
+    "Employee health and wealth management platform",
+    "AI-powered benefits guidance and recommendations",
+    "Reasoning over complex benefits information"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "REST APIs",
+    "infrastructure as code",
+    "monitoring tools"
+  ],
+  "frameworks_mentioned": [
+    "Claude API",
+    "LLM evaluation pipelines",
+    "OpenAI API",
+    "RAG",
+    "agent frameworks",
+    "embeddings",
+    "prompt orchestration"
+  ],
+  "languages_programming": [
+    "Python",
+    "Ruby",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is AI-first because it involves hands-on work\nbuilding and deploying AI-native products, specifically\ndeveloping LLM-powered systems, implementing RAG pipelines,\nbuilding agent frameworks, and creating prompt orchestration\nsystems. The engineer will directly work on AI/LLM systems\nthat extract, structure, and reason over complex data.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Claude API",
+      "RAG",
+      "embeddings",
+      "prompt orchestration",
+      "agent frameworks",
+      "LLM evaluation pipelines"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "CI/CD",
+      "infrastructure as code",
+      "monitoring tools"
+    ],
+    "languages": [
+      "TypeScript",
+      "Ruby",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,138 @@
+{
+  "job_id": "intl-ai-corpus-2712",
+  "source": "intl-ai-corpus",
+  "source_ref": "8979193",
+  "source_url": "https://builtin.com/job/lead-ai-engineer/8979193",
+  "title": "Lead AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Swap Commerce",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-07",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "215 Employees",
+  "company_stage": "Startup (high-growth)",
+  "company_focus": "AI-native commerce infrastructure platform for global brands",
+  "industries": [
+    "eCommerce",
+    "Automation"
+  ],
+  "description": "Swap is the infrastructure behind modern agentic commerce.\nThe only AI-native platform connecting backend operations\nwith a forward-thinking storefront experience.\n\nBuilt for brands that want to sell anything - anywhere, Swap\ncentralizes global operations, powers intelligent workflows,\nand unlocks margin-protecting decisions with real-time data\nand capability. Our products span cross-border, tax,\nreturns, demand planning, and our next-generation agentic\nstorefront, giving merchants full transparency and the\nability to act with confidence.\n\nAt Swap, we’re building a culture that values clarity,\ncreativity, and shared ownership as we redefine how global\ncommerce works.\n\nAbout the Role\n\nWe are seeking a Lead AI Engineer generalist to build\nrobust, scalable conversational and autonomous AI agents in\ne-commerce. You will own large parts of the architecture and\ntechnical direction of our agent platform, building\nproduction-ready systems that handle high-volume agent\nworkloads using modern JavaScript & Python frameworks. This\nis a lead-level role responsible for setting engineering\nstandards, shaping platform architecture, and mentoring\nother engineers while working closely with product and\ndesign to bring intelligent agent experiences to life.\n\nKey Responsibilities\n\n- Own Agent Platform Architecture: Design and evolve\n  distributed systems for multi-agent orchestration using\n  JavaScript AI frameworks (Node, NestJS), serverless\n  compute platforms, and advanced state management. Define\n  best practices for reliability, scalability, and\n  extensibility.\n- Build Agent Infrastructure: Develop production-grade agent\n  runtimes, orchestration layers, workflow engines, and tool\n  integrations. Ensure systems support high concurrency,\n  real-time interaction, and seamless backend integration.\n- Agent Observability & Quality: Implement comprehensive\n  tracing, monitoring, and structured logging for real-time\n  performance tracking and conversation quality evaluation.\n  Build interactive dashboards and reporting interfaces for\n  stakeholders.\n- Agent Communication & Workflows: Implement multi agent\n  harnesses, cloud endpoints, and real-time communication\n  systems.\n- Performance & Platform Reliability: Implement advanced\n  caching strategies, high-availability patterns (99.9%+\n  uptime), CI/CD pipelines, and infrastructure-as-code. Lead\n  improvements in system performance, cost efficiency, and\n  developer experience.\n- Technical Leadership: Set engineering standards for the\n  agent platform. Conduct architectural reviews, mentor\n  engineers, contribute to hiring, and partner cross-\n  functionally to align technical decisions with product\n  vision.\n\nWhat We’d Like to See\n\n- Experience: 6+ years in software engineering, with 1+ years\n  in AI/ML platform engineering focused on designing and\n  scaling production agent systems or high-traffic\n  conversational AI platforms.\n- AI Frameworks: Expert experience with JavaScript-based AI\n  agent frameworks. Deep understanding of agent\n  orchestration, state management, tool usage patterns,\n  memory systems, and conversational AI design.\n- Full Stack JavaScript/TypeScript: Advanced\n  Node.js/TypeScript with distributed systems, asynchronous\n  programming, event-driven architecture, and multi-agent\n  protocols. Strong experience building modern frontend\n  applications for real-time web interfaces.\n- Observability & Reliability: Production experience with\n  observability frameworks, structured logging, APM\n  solutions, and evaluation pipelines. Experience building\n  internal analytics dashboards and developer tooling.\n- Cloud & Infrastructure: Advanced experience with cloud AI\n  services, vector databases, serverless computing,\n  infrastructure automation, and modern deployment patterns\n  for JavaScript applications.\n- Leadership: Demonstrated experience leading technical\n  initiatives, driving architecture decisions, mentoring\n  engineers, and influencing cross-functional teams.\n\nBenefits:\n\n- Competitive base salary\n- Stock options in a high-growth startup\n- Competitive PTO with public holidays additional\n- Private Health\n- Pension\n- Wellness benefits\n- Breakfast Mondays\n\nDiversity & Equal Opportunities:\n\nWe embrace diversity and equality in a serious way. We are\ncommitted to building a team with a variety of backgrounds,\nskills, and views. The more inclusive we are, the better our\nwork will be. Creating a culture of equality isn't just the\nright thing to do; it's also the smart thing.\n",
+  "skills_required": [
+    "Agent state management & memory systems",
+    "Conversational AI design",
+    "Distributed systems design",
+    "Event-driven architecture",
+    "LangChain / AI Agent Frameworks (JS-based)",
+    "Multi-agent orchestration",
+    "Tool usage patterns for agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and evolve the agent platform architecture including distributed systems for multi-agent orchestration using JavaScript AI frameworks, serverless compute, and advanced state management",
+    "Build production-grade agent runtimes, orchestration layers, workflow engines, and tool integrations supporting high concurrency and real-time interaction",
+    "Implement comprehensive tracing, monitoring, structured logging, and conversation quality evaluation with interactive dashboards for stakeholders",
+    "Develop multi-agent harnesses, cloud endpoints, and real-time communication systems for agent workflows",
+    "Drive platform reliability through advanced caching strategies, high-availability patterns, CI/CD pipelines, and infrastructure-as-code",
+    "Set engineering standards for the agent platform, conduct architectural reviews, mentor engineers, and partner cross-functionally with product and design teams"
+  ],
+  "use_cases": [
+    "Conversational AI agents for e-commerce customer interactions",
+    "Autonomous agents handling cross-border commerce, tax, and returns operations",
+    "Intelligent agentic storefront experiences for merchants",
+    "Demand planning and margin-protecting decision automation",
+    "Real-time multi-agent orchestration for high-volume commerce workloads"
+  ],
+  "tools_mentioned": [
+    "CI/CD pipelines",
+    "Cloud AI services",
+    "Docker / Kubernetes",
+    "Infrastructure-as-code (Terraform)",
+    "NestJS",
+    "Observability & APM (Datadog, Prometheus, etc.)",
+    "REST / Cloud endpoints",
+    "React / Modern frontend frameworks",
+    "Real-time web interfaces (WebSockets)",
+    "Serverless computing",
+    "Structured logging",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent state management & memory systems",
+    "Conversational AI design",
+    "LangChain / AI Agent Frameworks (JS-based)",
+    "Multi-agent orchestration",
+    "Tool usage patterns for agents"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and owning the architecture\nof multi-agent AI systems for e-commerce commerce. The\nengineer will design agent orchestration, build production-\ngrade agent runtimes, and implement conversational AI\nplatforms — all hands-on work creating and deploying AI\nagent systems.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain / AI Agent Frameworks (JS-based)",
+      "Multi-agent orchestration",
+      "Conversational AI design",
+      "Agent state management & memory systems",
+      "Tool usage patterns for agents"
+    ],
+    "ml": [],
+    "web": [
+      "NestJS",
+      "REST / Cloud endpoints",
+      "React / Modern frontend frameworks",
+      "Real-time web interfaces (WebSockets)"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Serverless computing",
+      "Cloud AI services"
+    ],
+    "ops": [
+      "Docker / Kubernetes",
+      "CI/CD pipelines",
+      "Infrastructure-as-code (Terraform)",
+      "Observability & APM (Datadog, Prometheus, etc.)",
+      "Structured logging"
+    ],
+    "languages": [
+      "Node.js",
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems design",
+      "Event-driven architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,43 @@
+company:
+  name: Ads glory
+  stage: null
+  focus: null
+position:
+  title: DATA ENGINEER
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web:
+    - react
+    databases: []
+    data:
+    - etl
+    - hadoop
+    - kafka
+    - spark
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops:
+    - docker
+    - kubernetes
+    languages:
+    - java
+    - python
+    - scala
+    domains: []
+    other:
+    - agile
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 231c1275728a94ec
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

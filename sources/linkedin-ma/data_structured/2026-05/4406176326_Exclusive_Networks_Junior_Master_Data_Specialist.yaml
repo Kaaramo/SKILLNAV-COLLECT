@@ -1,0 +1,32 @@
+company:
+  name: Exclusive Networks
+  stage: null
+  focus: null
+position:
+  title: Junior Master Data Specialist
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases:
+  - Translation
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages: []
+    domains:
+    - cybersecurity
+    - finance
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4406176326'
+  extracted_at: '2026-05-15T15:53:14+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

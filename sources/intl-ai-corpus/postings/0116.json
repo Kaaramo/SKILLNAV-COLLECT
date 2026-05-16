@@ -1,0 +1,138 @@
+{
+  "job_id": "intl-ai-corpus-0116",
+  "source": "intl-ai-corpus",
+  "source_ref": "7095187",
+  "source_url": "https://builtin.com/job/ai-engineer-data-platform/7095187",
+  "title": "AI Engineer - Data Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Traversal",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-17",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered SRE and incident remediation platform",
+  "industries": [],
+  "description": "About Traversal\n\nTraversal is the AI Site Reliability Engineer (SRE) for the\nenterprise—already trusted by some of the largest companies\nin the world to troubleshoot, remediate, and even prevent\nthe most complex production incidents. Our mission is to\nfree engineers from endless firefighting and enable them to\nfocus on creative, high-impact work.\n\nOur roots remain deeply embedded in AI research, and we’re\nchanneling that scientific rigor and creativity into\nbuilding the premier AI agent lab for the enterprise. Hence,\nwhat we’re proudest of is assembling the most talented yet\nnicest group of individuals, including researchers from MIT,\nHarvard, and Berkeley, to world-class engineers from\nindustry: Citadel Securities, Cockroach Labs, Datadog, DE\nShaw, ServiceNow, Glean, Perplexity, Pinecone, and more, to\ntake on one of the hardest problems for AI to solve. Without\nthe entire team, none of this would be possible.\n\nThe Role\n\nAs an Infrastructure Engineer on the Data Platform team at\nTraversal, you’ll design, build, and maintain the backend\nsystems that power our AI-driven observability platform.\nYou’ll work across both cloud and on-prem deployments,\nensuring our systems are highly reliable, performant, and\ncapable of supporting large-scale AI operations. This hands-\non role blends distributed systems engineering, low-level\nsystem design, performance optimization, observability, and\nAI integration—collaborating closely with engineers across\nthe company to deliver resilient infrastructure that enables\nour AI agents to diagnose and remediate production incidents\nin real time.\n\nResponsibilities\n\n- Architecture & Implementation: Contribute to the design and\n  implementation of scalable, resilient infrastructure\n  systems that power AI-driven root cause analysis and\n  observability workflows across diverse on-premises\n  environments.\n- Low-Level System Design: Work on the foundational building\n  blocks of our infrastructure, ensuring efficient use of\n  resources and high performance at scale.Performance\n  Optimization: Profile and tune backend systems to improve\n  throughput, reduce latency, and minimize bottlenecks\n  across the stack.\n- Observability Systems: Help build and maintain the internal\n  observability stack—logs, metrics, and traces—used by our\n  agents to understand and act on production issues.\n- Hybrid Infrastructure: Support architectures for both cloud-\n  hosted (SaaS) and on-prem deployments to serve enterprise\n  customers.\n- Data Infrastructure: Develop and maintain low-latency, high-\n  throughput pipelines using tools like Kafka, Postgres, and\n  S3 for real-time telemetry workflows.\n- Tooling & Automation: Contribute to infrastructure-as-code,\n  CI/CD tooling, and deployment systems to increase platform\n  velocity and stability.\n- Cross-Team Collaboration: Work with AI, platform, and\n  product teams to ensure smooth integration and shared\n  reliability goals.\n- Using Traversal Internally: Help ensure our own\n  observability tooling supports how we debug, monitor, and\n  operate our systems.\n\nRequirements\n\n- Professional experience with Rust (our primary language for\n  infrastructure), or strong systems-level programming\n  experience in OCaml, C++, C or Zig.\n- Experience building distributed systems using a variety of\n  application-appropriate datastores (e.g., Postgres, object\n  storage, etc.).\n- Strength in debugging across cloud infrastructure,\n  networking layers, and production systems\n  (instrumentation, provisioning, bug fixes, reliability\n  improvements).\n- Experience with performance profiling and optimization in\n  backend systems.\n- Exposure to low-level system design concepts (e.g.,\n  concurrency models, storage internals, OS, and DB level\n  tuning).\n\nNice to Have\n\n- Experience making complex software systems observable using\n  logs, metrics, and traces.\n- Familiarity with Python-based ecosystems.\n- Background in large-scale, complex, data-driven\n  applications, and familiarity with event streaming\n  platforms such as Kafka.\n- Experience provisioning and managing infrastructure using\n  Terraform, Pulumi, or other IaC tools.\n- Familiarity with AI or LLM-powered products.\n\nCompensation\n\nWe offer competitive compensation, startup equity, health\ninsurance, and additional benefits. The U.S. base salary\nrange for this full-time, in-person role in New York is\n$150,000–$300,000, plus equity and benefits. Our salary\nranges are based on location, level, and role. Individual\ncompensation is determined by experience, skills, and job-\nrelated knowledge.\n\nWhy You Should Join Us\n\nWe’ll make sure you’re fully supported with health\ninsurance, a great tech setup, flexible time off, and plenty\nof in-office snacks. We offer competitive salary and equity\npackages, and take thoughtful consideration with every hire\non our small, high-impact team.\n\nTraversal is fully in-office, 5 days a week, based in New\nYork near Madison Square Park. We have a collaborative,\nhard-working culture and are energized by building the\nfuture of AI-powered software maintenance.\n\nWorking here means owning meaningful parts of the product,\nhaving the flexibility to move fast, and learning\nconstantly. This is a place to grow your career, make a real\nimpact, and help define a new category of infrastructure\nsoftware.\n",
+  "skills_required": [
+    "Concurrency models"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement scalable, resilient infrastructure systems powering AI-driven root cause analysis and observability workflows across on-premises environments",
+    "Work on low-level system design foundations, ensuring efficient resource use and high performance at scale",
+    "Profile and tune backend systems to improve throughput, reduce latency, and minimize bottlenecks across the stack",
+    "Build and maintain the internal observability stack (logs, metrics, traces) used by AI agents to understand and act on production issues",
+    "Support hybrid infrastructure architectures for both cloud-hosted SaaS and on-prem deployments serving enterprise customers",
+    "Develop and maintain low-latency, high-throughput data pipelines using tools like Kafka, Postgres, and S3 for real-time telemetry workflows",
+    "Contribute to infrastructure-as-code, CI/CD tooling, and deployment systems to increase platform velocity and stability",
+    "Collaborate with AI, platform, and product teams to ensure smooth integration and shared reliability goals"
+  ],
+  "use_cases": [
+    "AI agents diagnose and remediate production incidents in real time",
+    "AI-driven root cause analysis for complex production issues",
+    "Automated troubleshooting and prevention of production incidents",
+    "Real-time observability workflows powered by AI agents",
+    "Enterprise-grade incident management and remediation",
+    "AI-powered software maintenance and SRE automation"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Cloud infrastructure",
+    "Database tuning",
+    "Distributed systems",
+    "Event streaming",
+    "Infrastructure-as-code",
+    "Kafka",
+    "Logs, metrics, and traces",
+    "Low-level system design",
+    "Networking",
+    "OS tuning",
+    "Observability",
+    "Performance profiling",
+    "Postgres",
+    "Pulumi",
+    "S3",
+    "Storage internals",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "C",
+    "C++",
+    "OCaml",
+    "Python",
+    "Rust",
+    "Zig"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role is on the Data Platform/Infrastructure team\nbuilding backend systems, data pipelines, and observability\ninfrastructure that POWER AI agents. The engineer does not\nbuild, train, fine-tune, or deploy AI models themselves -\nthey create the reliable infrastructure and data foundations\n(distributed systems, low-latency pipelines, observability\nstacks) that enable the AI team's agents to function.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Postgres",
+      "Database tuning"
+    ],
+    "data": [
+      "Kafka",
+      "Event streaming"
+    ],
+    "cloud": [
+      "S3",
+      "Cloud infrastructure"
+    ],
+    "ops": [
+      "Distributed systems",
+      "Terraform",
+      "Pulumi",
+      "CI/CD",
+      "Infrastructure-as-code",
+      "Performance profiling",
+      "Observability",
+      "Logs, metrics, and traces",
+      "Networking",
+      "Low-level system design",
+      "Storage internals",
+      "OS tuning"
+    ],
+    "languages": [
+      "Rust",
+      "OCaml",
+      "C++",
+      "C",
+      "Zig",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Concurrency models"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

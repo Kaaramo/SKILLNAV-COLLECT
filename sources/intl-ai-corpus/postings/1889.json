@@ -1,0 +1,146 @@
+{
+  "job_id": "intl-ai-corpus-1889",
+  "source": "intl-ai-corpus",
+  "source_ref": "8616607",
+  "source_url": "https://www.builtinla.com/job/senior-software-engineer-ii-messaging-cloud/8616607",
+  "title": "Senior Software Engineer II (AI-Native), Messaging",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Life360",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Family location tracking and safety services with mobile app\nand GPS devices",
+  "industries": [
+    "Kids + Family",
+    "Mobile"
+  ],
+  "description": "About Life360\n\nLife360’s mission is to keep people close to the ones they\nlove. Our category-leading mobile app,Tile tracking devices,\nand Pet GPS tracker empower members to protect the people,\npets, and things they care about most with a range of\nservices, including location sharing, safe driver reports,\nand crash detection with emergency dispatch. Life360 serves\napproximately 95.8 million monthly active users (MAU), as of\nDecember 31, 2025, across more than 180 countries.\n\nLife360 delivers peace of mind and enhances everyday family\nlife with seamless coordination for all the moments that\nmatter, big and small. By continuing to innovate and deliver\nfor our customers, we have become a household name and the\nmust-have mobile-based membership for families (and those\nfriends that basically are family).\n\nLife360 has more than 500 (and growing!) remote-first\nemployees. For more information, please visit life360.com.\n\nLife360 is a Remote First company, which means a remote work\nenvironment will be the primary experience for all\nemployees. All positions, unless otherwise specified, can be\nperformed remotely (within the US and Canada) regardless of\nany specified location above.\n\nAbout The Team\n\nThe Messaging team owns the backbone of Life360’s real-time\ninfrastructure, powering the event streaming and data\npipelines that keep millions of families connected. We\nprocess billions of events every day, enabling everything\nfrom location updates to safety alerts through reliable,\nhigh-throughput streaming systems.\n\nOur work sits at the center of Life360’s technical\necosystem. We collaborate closely with mobile, backend, and\ndata teams to build scalable, resilient infrastructure while\ntackling complex distributed systems challenges like schema\nevolution, data consistency, zero-downtime migrations, and\nplatform reliability at scale. We are a platform-focused,\nAI-Native team. AI is a core collaborator across the full\nproduct lifecycle: messaging architecture, protocol design,\nperformance at scale, and incident response. We move faster,\nbuild more resiliently, and go deeper on the hard problems\nof distributed messaging because of it.\n\nThe team is currently leading major innovation initiatives,\nincluding migrating from MSK to Confluent Cloud, managing\norganization-wide schema registries and protocol buffer\ndefinitions, and building the next generation of streaming\nservices. Our stack includes Kafka and Kafka Streams, Spring\nBoot microservices, Go-based tooling, and a modern cloud-\nnative platform on AWS.\n\nAbout the Job\n\nYou'll help define and deliver the next generation of Kafka-\nfirst streaming infrastructure, driving the solution to meet\nthe next company goal for high availability on scale.\n\nAs a Senior Software Engineer on the Messaging team, you'll\nbuild and maintain the streaming infrastructure that powers\nLife360's real-time features. This role is hands-on and\ncollaborative - you'll design services, write code,\ntroubleshoot production issues, and help shape the team's\ntechnical direction. We're looking for someone who enjoys\nworking in a distributed systems environment, values clear\ncommunication, and thrives on solving complex problems\nalongside a small, focused team. We work AI-natively -\nyou'll be expected to direct AI agents as a core part of\nyour daily workflow, not as an afterthought.\n\nWhat You'll Do\n\n- Design, build, and maintain streaming services using Kafka,\n  Spring Boot, and Spring Cloud Stream\n- Develop and manage Kafka connectors for data integration\n  (DynamoDB, S3, custom sinks/sources)\n- Own schema management and evolution using Protocol Buffers,\n  Schema Registry, and multi-language code generation\n- Support ongoing platform migrations, including multi-cluster\n  consumption patterns and infrastructure transitions\n- Build monitoring, observability, and operational tooling to\n  ensure system reliability\n- Collaborate with cross-functional teams on API design, data\n  contracts, and integration patterns\n- Write infrastructure as code using Terraform and automate\n  deployments through CI/CD pipelines\n- Participate in on-call rotation and incident response\n- Mentor team members and contribute to team processes,\n  technical standards, and help evolve the team's AI-native\n  engineering practices\n- Work with AI (Claude Code) as a first-class collaborator -\n  orchestrating agents to scaffold services, generate IaC,\n  draft schema definitions, and accelerate code review\n- Apply agentic workflows to reduce overall cycle time and\n  operational overhead\n\nFor candidates based in the US, the salary range for this\nposition is $148,000 to $216,500 USD.\n\nNote: We take into consideration an individual's background\nand experience in determining final salary- therefore, base\npay offered may vary considerably depending on geographic\nlocation, job-related knowledge, skills, and experience. The\ncompensation package includes a wide range of medical,\ndental, vision, financial, and other benefits, as well as\nequity.\n\nWhat We're Looking ForTechnical foundation:\n\n- 6+ years of backend software engineering experience\n- Strong proficiency with Java and Spring Boot (this is our\n  primary stack)\n- Experience with Apache Kafka or similar distributed\n  streaming platforms\n- Solid understanding of distributed systems concepts:\n  consistency, fault tolerance, replication, and data\n  durability\n- Comfortable with cloud infrastructure (AWS preferred) and\n  containerized deployments\n- Familiarity with agentic workflows, prompt/eval engineering\n- Bachelor's Degree in a technical field, or equivalent\n  experience\n\nWhat matters most to us:\n\n- Problem-solving mindset - You structure ambiguous problems\n  precisely before reaching for a tool, AI or otherwise\n- Collaborative approach - You communicate clearly, work well\n  across teams, and value diverse perspectives\n- Ownership mentality - You take responsibility for your work\n  from design through production and beyond\n- AI-native working style - You use AI tooling (Claude Code or\n  equivalent) as a genuine development partner: delegating\n  discrete tasks, reviewing outputs critically, and running\n  parallel workstreams rather than hand-holding one agent at\n  a time\n- Thoughtful communication - You can explain technical\n  tradeoffs and articulate ideas effectively\n\nWe believe culture fit and problem-solving ability matter\nmore than checking every technical box. We're happy to help\nyou grow into areas where you have less experience.\n\nNice-to-Have\n\n- Experience with Go (we use it for CLI tools and some\n  services)\n- Familiarity with gRPC and Protocol Buffers\n- Background in stream processing frameworks (Kafka Streams,\n  Flink)\n- Experience with schema registries and schema evolution\n  strategies\n- Knowledge of Confluent Platform or Confluent Cloud\n- Understanding of CI/CD patterns, GitHub Actions, and\n  artifact management (Maven, Nexus)\n- Experience with observability tooling (Prometheus, Grafana,\n  DataDog)\n- Previous work on large-scale platform migrations or\n  infrastructure modernization projects\n\nOur Benefits\n\n- Competitive pay and benefits.\n- Medical, dental, vision, life and disability insurance plans\n  (100% paid for US employees). We offer supplemental plans\n  for medical and dental for Canadian employees.\n- 401(k) plan with company matching program in the US and RRSP\n  with DPSP plan for Canadian employees.\n- Employee Assistance Program (EAP) for mental wellness.\n- Flexible PTO and 12 company wide days off throughout the\n  year.\n- Learning & Development programs.\n- Equipment, tools, and reimbursement support for a productive\n  remote environment.\n- Free Life360 Platinum Membership for your preferred circle.\n\nLife360 Values\n\nOur company’s mission driven culture is guided by our shared\nvalues to create a trusted work environment where you can\nbring your authentic self to work and make a positive\ndifference\n\n- Be a Good Person - We have a team of high integrity people\n  you can trust.\n- Be Direct With Respect - We communicate directly, even when\n  it’s hard.\n- Members Before Metrics - We focus on building an exceptional\n  experience for families.\n- High Intensity High Impact - We do whatever it takes to get\n  the job done.\n\nOur Commitment to Diversity\n\nWe believe that different ideas, perspectives and\nbackgrounds create a stronger and more creative work\nenvironment that delivers better results. Together, we\ncontinue to build an inclusive culture that encourages,\nsupports, and celebrates the diverse voices of our\nemployees. It fuels our innovation and connects us closer to\nour customers and the communities we serve. We strive to\ncreate a workplace that reflects the communities we serve\nand where everyone feels empowered to bring their authentic\nbest selves to work.\n\nWe are an equal opportunity employer and value diversity at\nLife360. We do not discriminate on the basis of race,\nreligion, color, national origin, gender, sexual\norientation, age, marital status, veteran status, disability\nstatus or any legally protected status.\n\nWe encourage people of all backgrounds to apply. We believe\nthat a diversity of perspectives and experiences create a\nfoundation for the best ideas. Come join us in building\nsomething meaningful. Even if you don’t meet 100% of the\nbelow qualifications, you should still seriously consider\napplying!\n",
+  "skills_required": [
+    "Claude Code",
+    "Distributed Systems",
+    "Protocol Buffers",
+    "Schema Registry",
+    "agentic workflows",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain streaming services using Kafka, Spring Boot, and Spring Cloud Stream",
+    "Develop and manage Kafka connectors for data integration (DynamoDB, S3, custom sinks/sources)",
+    "Own schema management and evolution using Protocol Buffers, Schema Registry, and multi-language code generation",
+    "Support ongoing platform migrations, including multi-cluster consumption patterns and infrastructure transitions",
+    "Build monitoring, observability, and operational tooling to ensure system reliability",
+    "Write infrastructure as code using Terraform and automate deployments through CI/CD pipelines",
+    "Work with AI (Claude Code) as a first-class collaborator for scaffolding services, generating IaC, and accelerating code review",
+    "Apply agentic workflows to reduce overall cycle time and operational overhead"
+  ],
+  "use_cases": [
+    "Real-time location updates for family members",
+    "Safety alerts and emergency notifications",
+    "Event streaming for crash detection and emergency dispatch",
+    "Data pipelines for safe driver reports",
+    "High-throughput messaging infrastructure supporting 95+ million users"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Apache Kafka",
+    "CI/CD",
+    "Confluent Cloud",
+    "Datadog",
+    "Docker",
+    "DynamoDB",
+    "GitHub Actions",
+    "Grafana",
+    "Kafka Streams",
+    "Maven",
+    "Prometheus",
+    "S3",
+    "Spring Boot",
+    "Spring Cloud Stream",
+    "Terraform",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [
+    "Claude Code",
+    "agentic workflows",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building streaming infrastructure\n(Kafka, event pipelines) rather than AI/ML systems. While\nthe team uses AI tools like Claude Code as development\nassistants, the actual work involves distributed systems,\ndata pipelines, and platform infrastructure - not building,\ntraining, or deploying AI/ML models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude Code",
+      "agentic workflows",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "Spring Boot",
+      "Spring Cloud Stream",
+      "gRPC"
+    ],
+    "databases": [
+      "DynamoDB"
+    ],
+    "data": [
+      "Apache Kafka",
+      "Kafka Streams"
+    ],
+    "cloud": [
+      "AWS",
+      "Confluent Cloud",
+      "S3"
+    ],
+    "ops": [
+      "Terraform",
+      "Docker",
+      "CI/CD",
+      "Prometheus",
+      "Grafana",
+      "Datadog",
+      "GitHub Actions",
+      "Maven"
+    ],
+    "languages": [
+      "Java",
+      "Go"
+    ],
+    "domains": [],
+    "other": [
+      "Protocol Buffers",
+      "Schema Registry",
+      "Distributed Systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

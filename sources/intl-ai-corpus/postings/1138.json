@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-1138",
+  "source": "intl-ai-corpus",
+  "source_ref": "8186317",
+  "source_url": "https://builtin.com/job/principal-engineer-ai/8186317",
+  "title": "Principal Engineer - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "SAFE Security",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-08",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "403 Employees",
+  "company_stage": null,
+  "company_focus": "Cybersecurity AI platform for threat prediction, detection,\nand remediation",
+  "industries": [],
+  "description": "At SAFE Security, our mission is bold and ambitious: We Will\nBuild CyberAGI — a super-specialized system of intelligence\nthat autonomously predicts, detects, and remediates threats.\nThis isn’t just a vision—it’s the future we’re building\nevery day, with the best minds in AI, cybersecurity, and\nrisk. At SAFE, we empower individuals and teams with the\nfreedom and responsibility to align their goals, ensuring we\nall move towards this goal together.\n\nWe operate with radical transparency, autonomy, and\naccountability—there’s no room for brilliant jerks. We\nembrace a culture-first approach, offering an unlimited\nvacation policy, a high-trust work environment, and a\ncommitment to continuous learning. For us, Culture is Our\nStrategy—check out our Culture Memo to dive deeper into what\nmakes SAFE unique.\n\nAs a Principal Engineer - AI, you will define and lead the\ntechnical direction of AI systems that power Safe’s CRQ,\nCTEM, and TPRM products, including agentic workflows, RAG\npipelines, LLM orchestration, and AI-native developer\ntooling. You’ll be the hands-on architect behind Safe’s AI\nengineering stack, bridging model intelligence with\nproduction-grade infrastructure.\n\nYou’ll collaborate with product, data, and platform teams to\ndesign scalable, explainable, and enterprise-ready systems.\n\nThis is a high-impact, technical leadership role that will\nshape how AI is built, deployed, and governed across Safe.\n\nCore Responsibilities:\n\n- Architect Safe’s AI Systems: Design and scale AI-driven\n  components — LLM orchestration, retrieval-augmented\n  generation (RAG), vector stores, prompt pipelines, and AI\n  microservices. Drive architecture for AI observability,\n  safety, and evaluation (precision, recall, F1,\n  hallucination detection, cost metrics).\n- Productionize AI Agents: Build multi-turn, goal-oriented\n  agent systems that automate reasoning across TPRM, CTEM,\n  and CRQ domains (e.g., control reviews, issue RCA,\n  automated responses). Ensure reliability, traceability,\n  and deterministic behavior in production.\n- AI Infrastructure & Platform Ownership: Partner with\n  Platform & DevOps teams to operationalize model serving\n  (AWS SageMaker, Bedrock, or self-hosted Llama), build AI\n  APIs, and manage model lifecycle and versioning. Establish\n  feature stores, embedding management, and in-memory\n  retrieval layers.\n- Data Pipeline & Knowledge Graph Integration: Work with Data\n  Engineering to design pipelines for structured and\n  unstructured data ingestion, semantic indexing, and\n  context retrieval (Snowflake + Iceberg + LlamaIndex).\n- AI Evaluation, Monitoring & Governance: Define internal\n  frameworks for golden dataset validation, LLM evaluation\n  (LangFuse/LangSmith), and safety enforcement policies.\n  Implement human-in-the-loop (HITL) mechanisms and\n  continuous feedback loops.\n- Mentor & Multiply: Guide AI and backend engineers on\n  architectural design, experimentation methodologies, and\n  prompt optimization. Collaborate with product leaders to\n  translate abstract AI goals into measurable engineering\n  deliverables.\n\nMinimum Qualifications:\n\n- Experience: 12+ years total experience in software\n  engineering, including 4+ years building AI/ML systems or\n  large-scale data/LLM infrastructure.\n- Core Technical Skills:\n- MLOps & Infra: Familiar with model versioning, CI/CD for ML,\n  and performance optimization for real-time inference.\n- Applied AI Focus: Practical understanding of evaluation\n  metrics, hallucination detection, RAG reliability, and\n  enterprise AI safety.\n\nPreferred Qualifications:\n\n- Experience integrating AI into cybersecurity or risk\n  management products\n- Familiarity with multi-agent systems and autonomous\n  workflows (CrewAI, LangGraph, AutoGen)\n- Experience building AI evaluation dashboards and AI\n  observability stacks\n- Knowledge of knowledge graphs, semantic search, or retrieval\n  pipelines\n- Exposure to data governance, compliance, or SOC2/ISO 27001\n  environments\n- Published research, open-source contributions, or prior\n  leadership of AI teams is a strong plus\n\nIf you’re passionate about cyber risk, thrive in a fast-\npaced environment, and want to be part of a team that’s\nredefining security—we want to hear from you! 🚀\n",
+  "skills_required": [
+    "AutoGen",
+    "CrewAI",
+    "LLM orchestration",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG",
+    "Semantic search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect AI-driven components including LLM orchestration, RAG systems, vector stores, and AI microservices",
+    "Build multi-turn, goal-oriented agent systems for automating reasoning across TPRM, CTEM, and CRQ domains",
+    "Operationalize model serving infrastructure on AWS SageMaker, Bedrock, or self-hosted Llama",
+    "Design data pipelines for structured and unstructured data ingestion, semantic indexing, and context retrieval",
+    "Define frameworks for LLM evaluation, safety enforcement, and human-in-the-loop mechanisms",
+    "Mentor AI and backend engineers on architectural design and experimentation methodologies"
+  ],
+  "use_cases": [
+    "Cyber risk quantification (CRQ)",
+    "Continuous threat exposure management (CTEM)",
+    "Third-party risk management (TPRM)",
+    "Automated control reviews and issue root cause analysis",
+    "Autonomous threat prediction, detection, and remediation"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "AWS SageMaker",
+    "CI/CD for ML",
+    "Feature stores",
+    "Knowledge graphs",
+    "LangFuse",
+    "LangSmith",
+    "MLOps",
+    "Model versioning",
+    "Snowflake",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "LLM orchestration",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG",
+    "Semantic search"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on architecture and development of\nAI systems including LLM orchestration, RAG pipelines,\nmulti-turn agent systems, and AI-native tooling. The\nposition requires building, deploying, and operationalizing\nAI models and agents directly, not just supporting\ninfrastructure for others' AI work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "RAG",
+      "LLM orchestration",
+      "Prompt engineering",
+      "Multi-agent systems",
+      "CrewAI",
+      "AutoGen",
+      "Semantic search"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Vector databases",
+      "Snowflake"
+    ],
+    "data": [
+      "Knowledge graphs"
+    ],
+    "cloud": [
+      "AWS SageMaker",
+      "AWS Bedrock"
+    ],
+    "ops": [
+      "LangFuse",
+      "LangSmith",
+      "Feature stores",
+      "MLOps",
+      "CI/CD for ML",
+      "Model versioning"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

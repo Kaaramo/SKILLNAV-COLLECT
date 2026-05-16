@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0806",
+  "source": "intl-ai-corpus",
+  "source_ref": "7182129",
+  "source_url": "https://builtin.com/job/senior-full-stack-gen-ai-developer-tietoevry-create-m-f-d/7182129",
+  "title": "Senior Full Stack Gen AI Developer- Tietoevry Create (m/f/d)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Tietoevry",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-21",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "15,123 Employees",
+  "company_stage": "Public",
+  "company_focus": "Software and digital engineering services",
+  "industries": [
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Company Description\n\nWe are developers of digital futures!\n\nTietoevry is a leading software and digital engineering\nservices company with global market reach and capabilities.\nWe provide customers across different industries with\nmission-critical solutions through our specialized software\nbusinesses* Tietoevry Care, Tietoevry Banking and Tietoevry\nIndustry, as well as our digital engineering business\nTietoevry Create. Our 16 000* talented vertical software,\ndesign, cloud and AI experts are dedicated to empowering our\ncustomers to succeed and innovate with the latest\ntechnology.\n\nTietoevry’s annual revenue for the continuing businesses* is\napproximately EUR 2 billion. The company’s shares are listed\non the NASDAQ exchange in Helsinki and Stockholm, as well as\non Oslo Børs.\n\n(www.tietoevry.com).\n\nJob Description\n\nBackend Expertise: 10-15 years of hands-on experience\n\nC# (Mandatory)\n\nPython (Mandatory)\n\n•       Develop and maintain server-side logic with several\nyears of hands-on experience in both Python and C#, focusing\non API development, microservices, and seamless integration\nwith Azure components (e.g., Redis Cache, Cosmos DB, Azure\nOpenAI).\n\nREST Applications Development: Proven experience building\nRESTful applications in Python and C# is required.\n\nAzure Proficiency: Extensive experience working with Azure\nservices (API Management, Redis Cache, Cosmos DB, Azure\nFunctions, Azure AI/OpenAI).\n\nGenAI: Experience with minimum one full scale GenAI project\nexecution.\n\nFrontend Skills: Solid experience with React using\nTypeScrip. (Mandatory)\n\nCI/CD & DevOps: Proficient with GitHub, GitHub Actions, and\ngeneral DevOps practices, CI/CD pipelines, and agile\nmethodologies.\n\nContainerization: Proficiency with Docker for\ncontainerization.\n\nBest Practices & Design Patterns: Strong grasp of software\ndevelopment principles, best practices, and the ability to\napply design patterns effectively.\n\nCollaboration & Communication: Excellent interpersonal\nskills to work effectively within cross-functional teams.\n\nKnowledge Graphs: Exposure to or experience with knowledge\ngraph technology is a plus.\n\n\n\n\n\nAdditional Information\n\nAt Tietoevry, we believe in the power of diversity, equity,\nand inclusion. We encourage applicants of all backgrounds,\ngenders (m/f/d), and walks of life to join our team, as we\nbelieve that this fosters an inspiring workplace and fuels\ninnovation. Our commitment to openness, trust, and diversity\nis at the heart of our mission to create digital futures\nthat benefit businesses, societies, and humanity.\n\nDiversity, equity and inclusion (tietoevry.com)\n",
+  "skills_required": [
+    "Azure OpenAI",
+    "Design Patterns"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and maintain server-side logic with Python and C#",
+    "Build RESTful applications and microservices",
+    "Integrate with Azure components including Azure OpenAI and Cosmos DB",
+    "Implement full-scale GenAI projects and solutions",
+    "Develop frontend applications using React with TypeScript",
+    "Set up and maintain CI/CD pipelines using GitHub Actions",
+    "Apply software design patterns and best practices",
+    "Collaborate within cross-functional teams on AI initiatives"
+  ],
+  "use_cases": [
+    "Enterprise AI application development",
+    "RESTful API and microservices architecture",
+    "Knowledge graph integration and management",
+    "Cloud-native AI solutions on Azure",
+    "Full-stack GenAI application deployment"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "Azure API Management",
+    "Azure Functions",
+    "CI/CD",
+    "Cosmos DB",
+    "Docker",
+    "GitHub",
+    "GitHub Actions",
+    "Knowledge Graphs",
+    "Microservices",
+    "REST APIs",
+    "React",
+    "Redis Cache"
+  ],
+  "frameworks_mentioned": [
+    "Azure OpenAI"
+  ],
+  "languages_programming": [
+    "C#",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires hands-on experience with Azure OpenAI\nintegration and full-scale GenAI project execution,\nindicating direct work on AI systems. The developer will\nbuild and maintain server-side logic that integrates with AI\nservices, not just support infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Azure OpenAI"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "Microservices",
+      "React"
+    ],
+    "databases": [
+      "Redis Cache",
+      "Cosmos DB"
+    ],
+    "data": [
+      "Knowledge Graphs"
+    ],
+    "cloud": [
+      "Azure",
+      "Azure API Management",
+      "Azure Functions"
+    ],
+    "ops": [
+      "GitHub",
+      "GitHub Actions",
+      "CI/CD",
+      "Docker"
+    ],
+    "languages": [
+      "C#",
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "Design Patterns"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

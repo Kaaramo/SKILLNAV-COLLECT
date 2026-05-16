@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-1614",
+  "source": "intl-ai-corpus",
+  "source_ref": "8544833",
+  "source_url": "https://builtin.com/job/it-operations-engineer-application-support-ai-data-technology/8544833",
+  "title": "IT Operations Engineer (Application Support) - AI & Data Technology",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Point72",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,691 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global alternative investment firm",
+  "industries": [],
+  "description": "IT Operations Engineer (Application Support) - AI & Data\nTechnology\n\nA Career with Point72’s Technology Team As Point72\nreimagines the future of investing, our Technology group is\nconstantly improving our company’s IT infrastructure,\npositioning us at the forefront of a rapidly evolving\ntechnology landscape. We’re a team of experts experimenting,\ndiscovering new ways to harness the power of open-source\nsolutions, and embracing enterprise agile methodology. We\nencourage professional development to ensure you bring\ninnovative ideas to our products while satisfying your own\nintellectual curiosity.\n\nWhat You’ll Do • Own the day-to-day operational health of\ncompliance approved AI and Data platforms in production,\nensuring high availability, performance, and reliability •\nMonitor AI and Data services, model inference layers, APIs,\nand data dependencies using logs, metrics, dashboards, and\nalerts • Provide production-focused user support for AI\ntools and Data platforms, prioritizing issue resolution •\nLead incident triage, coordination, and resolution for\nplatform outages or service degradations, partnering with\ndevelopment and infrastructure teams. • Perform deep\ntechnical troubleshooting across applications, data, and\nsystem layers. • Enhance observability, alerting, and\noperational runbooks to reduce mean time to detect. (MTTD)\nand mean time to resolve (MTTR) incidents • Conduct post-\nincident root cause analysis and drive corrective and\npreventive improvements • Support production deployments,\nconfiguration changes, and platform upgrades with a strong\nfocus on risk mitigation and stability • Automate repetitive\noperational tasks and support workflows using Python and\nother scripting tools • Collaborate closely with AI and Data\nengineering teams to improve platform resilience,\nscalability, and overall supportability\n\nWhat’s Required • Bachelor’s degree in Computer Science,\nEngineering, Mathematics, Physics, or a related technical\ndiscipline • 3–6 years of experience in application support,\nproduction engineering, SRE, or platform operations roles •\nStrong proficiency in Python for debugging, automation, and\noperational tooling, as well as SQL for data validation,\nissue investigation, and platform troubleshooting. • Working\nknowledge of cloud operations preferably AWS and Azure •\nWindows environments, .NET applications, and SQL Server, as\nwell as Databricks. Prior experience in supporting\nReference/Alternate Data applications will be an added\nadvantage • Good understanding of production systems, APIs,\nand distributed services • Experience supporting or\noperating AI/ML platforms, with knowledge of model serving,\ninference pipelines, and dependency management • Excellent\nanalytical, troubleshooting, and incident management skills\n• Commitment to the highest ethical standards\n\nWe Take Care Of Our People We invest in our people, their\ncareers, their health, and their well-being. When you work\nhere, we provide: • Health care benefits • Maternity,\nAdoption & related leave policies • Generous paternity and\nfamily care leave policies • Employee Assistance Program &\nMental wellness programs • Transportation support • Tuition\nassistance\n\nAbout Point72 Point72 is a leading global alternative\ninvestment firm led by Steven A. Cohen. Building on more\nthan 30 years of investing experience, Point72 seeks to\ndeliver superior returns for its investors through\nfundamental and systematic investing strategies across asset\nclasses and geographies. We aim to attract and retain the\nindustry’s brightest talent by cultivating an investor-led\nculture and committing to our people’s long-term growth. For\nmore information, visit https://point72.com/.\n",
+  "skills_required": [
+    "inference pipelines",
+    "model serving"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own the day-to-day operational health of compliance approved AI and Data platforms in production, ensuring high availability, performance, and reliability",
+    "Monitor AI and Data services, model inference layers, APIs, and data dependencies using logs, metrics, dashboards, and alerts",
+    "Lead incident triage, coordination, and resolution for platform outages or service degradations",
+    "Conduct post-incident root cause analysis and drive corrective and preventive improvements",
+    "Support production deployments, configuration changes, and platform upgrades with a focus on risk mitigation and stability",
+    "Automate repetitive operational tasks and support workflows using Python and other scripting tools"
+  ],
+  "use_cases": [
+    "AI platform operations and monitoring for compliance-approved production environments",
+    "Model inference layer monitoring and troubleshooting in production",
+    "AI tool user support and production issue resolution",
+    "Data platform operations and data pipeline dependency management",
+    "Investment platform infrastructure support for AI/ML applications"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "AWS",
+    "Azure",
+    "Databricks",
+    "SQL Server",
+    "Windows",
+    "automation",
+    "distributed systems",
+    "incident management",
+    "logging",
+    "monitoring",
+    "observability",
+    "root cause analysis"
+  ],
+  "frameworks_mentioned": [
+    "inference pipelines",
+    "model serving"
+  ],
+  "languages_programming": [
+    ".NET",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an IT Operations/Application Support role focused on\nmonitoring, maintaining, and supporting AI and Data\nplatforms in production. The engineer ensures availability,\nperformance, and reliability of AI services and model\ninference layers, but does not build, train, fine-tune, or\ndeploy AI models themselves. They work near AI systems to\nprovide operational support rather than working directly on\nAI/ML development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "model serving",
+      "inference pipelines"
+    ],
+    "web": [
+      "APIs"
+    ],
+    "databases": [
+      "SQL Server"
+    ],
+    "data": [
+      "Databricks"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Windows",
+      "monitoring",
+      "logging",
+      "incident management",
+      "root cause analysis",
+      "distributed systems",
+      "automation",
+      "observability"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      ".NET"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

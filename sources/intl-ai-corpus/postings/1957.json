@@ -1,0 +1,145 @@
+{
+  "job_id": "intl-ai-corpus-1957",
+  "source": "intl-ai-corpus",
+  "source_ref": "8662756",
+  "source_url": "https://builtin.com/job/ai-engineer-ii/8662756",
+  "title": "AI Engineer - II",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Rapid7",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-20",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,400 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cybersecurity and threat detection solutions",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Information Technology",
+    "Sales",
+    "Security",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "About the Team The AI Center of Excellence leverages\nadvanced machine learning, LLMs, and agentic systems to\nenhance threat detection and automate security workflows for\nour global customers. We transform 20+ years of threat\nintelligence into proactive defense features through a\ncollaborative, research-driven engineering environment.\nAbout the Role\n\n- As a Data Scientist (SE-2), your primary responsibility will\n  be to contribute to the end-to-end development,\n  evaluation, and monitoring of ML and LLM-based security\n  features.\n- Execute data acquisition, cleaning, and feature engineering\n  to prepare high-quality datasets for security modeling.\n- Build and evaluate supervised and unsupervised ML models,\n  including classification, clustering, and anomaly\n  detection.\n- Develop and optimize LLM-based workflows, including prompt\n  engineering and the implementation of RAG pipelines.\n- Support the deployment and observability of models on AWS\n  infrastructure using established CI/CD pipelines.\n\nThe skills and qualities you'll bring include:\n\n- A courageous and curious mindset, demonstrating a strong\n  ability to learn new technologies and operate in ambiguous\n  problem spaces.\n- Exceptional collaboration skills with the ability to work\n  cross-functionally with senior scientists and engineers to\n  ship production features.\n- Strong ownership and principled decision-making when\n  evaluating model performance and data quality.\n- 3-5 years of professional experience in Data Science or ML\n  Engineering roles.\n- Proficiency in Python and its scientific ecosystem,\n  specifically Pandas, NumPy, and scikit-learn.\n- Hands-on experience building and tuning supervised and\n  unsupervised machine learning models.\n- Working knowledge of AWS ML services, including SageMaker,\n  S3, Bedrock, and Lambda.\n- Foundational exposure to LLM orchestration frameworks such\n  as LangChain or HuggingFace Transformers.\n- Understanding of deep learning frameworks (PyTorch or\n  TensorFlow) for NLP or sequence-based problems.\n- Familiarity with model evaluation metrics and explainability\n  techniques like SHAP or LIME.\n- Basic understanding of CI/CD pipelines (GitHub\n  Actions/Jenkins) and version control for ML workloads.\n- Experience monitoring model performance and drift using\n  tools like CloudWatch.\n\nWe know that the best ideas and solutions come from multi-\ndimensional teams. That's because these teams reflect a\nvariety of backgrounds and professional experiences. If you\nare excited about this role and feel your experience can\nmake an impact, please don't be shy - apply today. #LI-AK1\nAbout Rapid7 At Rapid7, our vision is to create a secure\ndigital world for our customers, our industry, and our\ncommunities. We do this by harnessing our collective\nexpertise and passion to challenge what's possible and drive\nextraordinary impact. We're building a dynamic and\ncollaborative workplace where new ideas are welcome.\nProtecting 11,000+ customers against bad actors and threats\nmeans we're continuing to push the envelope just like we' ve\nbeen doing for the past 20 years. If you 're ready to solve\nsome of the toughest challenges in cybersecurity, we're\nready to help you take command of your career. Join us.\n",
+  "skills_required": [
+    "HuggingFace Transformers",
+    "LIME",
+    "LangChain",
+    "PyTorch",
+    "RAG",
+    "SHAP",
+    "TensorFlow",
+    "prompt engineering",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Contribute to end-to-end development, evaluation, and monitoring of ML and LLM-based security features",
+    "Execute data acquisition, cleaning, and feature engineering for security modeling datasets",
+    "Build and evaluate supervised and unsupervised ML models including classification, clustering, and anomaly detection",
+    "Develop and optimize LLM-based workflows including prompt engineering and RAG pipeline implementation",
+    "Support deployment and observability of models on AWS infrastructure using CI/CD pipelines"
+  ],
+  "use_cases": [
+    "Threat detection and security analytics",
+    "Automated security workflows",
+    "Anomaly detection for cybersecurity",
+    "Classification of security threats",
+    "Proactive defense features from threat intelligence"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Bedrock",
+    "CI/CD",
+    "CloudWatch",
+    "GitHub Actions",
+    "Jenkins",
+    "Lambda",
+    "NumPy",
+    "Pandas",
+    "S3",
+    "SageMaker"
+  ],
+  "frameworks_mentioned": [
+    "HuggingFace Transformers",
+    "LIME",
+    "LangChain",
+    "PyTorch",
+    "RAG",
+    "SHAP",
+    "TensorFlow",
+    "prompt engineering",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly builds, evaluates, and optimizes both ML\nand LLM-based security features, including developing RAG\npipelines and prompt engineering. The position involves\nhands-on work deploying and monitoring models in production,\nnot just supporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "RAG",
+      "prompt engineering"
+    ],
+    "ml": [
+      "scikit-learn",
+      "HuggingFace Transformers",
+      "PyTorch",
+      "TensorFlow",
+      "SHAP",
+      "LIME"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Pandas",
+      "NumPy"
+    ],
+    "cloud": [
+      "AWS",
+      "SageMaker",
+      "S3",
+      "Bedrock",
+      "Lambda"
+    ],
+    "ops": [
+      "GitHub Actions",
+      "Jenkins",
+      "CloudWatch",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

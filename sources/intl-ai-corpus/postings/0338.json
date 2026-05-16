@@ -1,0 +1,134 @@
+{
+  "job_id": "intl-ai-corpus-0338",
+  "source": "intl-ai-corpus",
+  "source_ref": "7789635",
+  "source_url": "https://builtin.com/job/principal-ai-ml-platform-engineer/7789635",
+  "title": "Principal AI/ML Platform Engineer",
+  "title_normalized": "MLOPS_ENGINEER",
+  "company": "Natera",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-14",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,721 Employees",
+  "company_stage": "Public",
+  "company_focus": "Genetic testing and diagnostics using cell-free DNA",
+  "industries": [],
+  "description": "Role Overview\n\nThe Principal AI/ML Platform Engineer is responsible for\nbuild and delivery of the next generation of Natera’s\nGenerative AI and ML platforms. This is a hands-on technical\nleadership role at the intersection of engineering\nexcellence, platform design, and applied GenAI/ML\ninnovation. This role requires deep expertise in AI\nengineering at scale, with a passion for building robust,\ncompliant, and high-performance systems that directly impact\npatient outcomes and clinical innovation.\n\nYou will design, build, and scale enterprise-grade Gen AI\nand ML platforms and services that power internal workflows\n(R&D, Lab Ops, Clinical Trials, Billing, Patient/Provider\nengagement) and external-facing AI/ML products. As the most\nsenior leader in the AI/ML engineering team, you will also\nset technical standards, mentor engineers, and drive\nadoption of cutting-edge techniques such as retrieval-\naugmented generation (RAG), advanced prompt engineering,\nvector search, GenAI governance, evaluation frameworks,\nML/LLMOps, model experimentation, observability, and\ncompliance-first AI pipelines. You will be responsible for\ndevelopment of a production-ready AI platform with reusable\ncomponents used to deploy multiple AI solutions across\nNatera’s business units in a federated approach. You will\nalso develop clear standards and best practices established\nfor AI/ML development across the organization.\n\nKey Responsibilities AI/ML Platform Architecture & Design\n\n- Define the technical vision and architecture for Natera’s ML\n  and GenAI platforms, ensuring scalability, reliability,\n  and compliance across diverse use cases\n- Build, operate, and evolve core AI platform components for\n  standardized data access, LLM model registries for\n  versioning and lifecycle tracking, evaluation pipelines\n  for model validation and monitoring, vector databases, RAG\n  frameworks, and agent frameworks for GenAI applications,\n  prompt orchestration and guardrails for safe and compliant\n  LLM deployments\n- Design, build, and operate end-to-end ML/DL/FM\n  infrastructure (feature engineering, distributed training,\n  evaluation, deployment, monitoring) that are modular,\n  reproducible, and auditable.\n- Design, build, and operate reusable GenAI services such as\n  unstructured data extraction, classification,\n  summarization, generation, retrieval from knowledge bases,\n  prompt optimization etc.\n\nHands-On Engineering & Solution Delivery\n\n- Implement production-grade Gen AI and ML services and API’s\n  that power critical workflows, from genomics analytics to\n  clinical trial optimization to patient-facing solutions.\n- Lead the deployment and scaling of large models (custom\n  trained LLMs, multimodal, deep learning) using modern\n  MLOps practices (Kubernetes, MLflow, AWS-native services)\n- Deliver retrieval-augmented generation (RAG), agentic\n  runtime, agent orchestration frameworks, and domain-\n  specific copilots in compliance-ready environments.\n- Optimize inference latency, throughput, and cost-efficiency\n  through infrastructure design and algorithmic\n  improvements.\n- Build online and offline evaluation frameworks to ensure\n  performance and real world utility\n\nGovernance, Security & Compliance Integration\n\n- Embed governance and monitoring guardrails into AI and ML\n  pipelines, including bias testing, safety, security,\n  hallucination, explainability, PHI/PII redaction, audit\n  trails\n- Partner with the Head of Data & AI Governance to ensure\n  adherence to HIPAA, CLIA, CAP, FDA, GxP, GDPR, and\n  emerging AI regulations.\n- Establish automated checks and controls in the CI/CD and\n  SDLC processes to maintain compliance-by-design.\n\nTechnical Leadership & Mentorship\n\n- Act as the principal technical authority in AI/ML\n  engineering — set coding standards, review designs, and\n  ensure best practices in reproducibility, monitoring, and\n  observability.\n- Mentor and guide other engineers and data scientists,\n  providing thought leadership on system design,\n  optimization, and responsible AI.\n- Influence cross-functional roadmaps by partnering with\n  Product, Data Governance, and Engineering leadership to\n  align delivery with business needs.\n\nInnovation, Research & Tooling Strategy\n\n- Evaluate and integrate emerging AI/ML technologies\n  (foundation models, multimodal AI, biomedical reasoning\n  agents, federated learning).\n- Lead build vs. buy assessments for AI/ML tooling and\n  platforms; integrate open-source or vendor solutions where\n  appropriate.\n- Prototype and productionize new approaches (e.g., foundation\n  model fine-tuning, GenAI copilots for lab workflows,\n  advanced monitoring frameworks).\n- Represent Natera’s AI/ML technical capabilities externally\n  at conferences, publications, and industry forums.\n\nQualifications Required:\n\n- 12+ years in software/data/ML engineering, with 8+ years in\n  AI/ML engineering at scale.\n- Expertise in building production-grade ML/LLM systems on AWS\n  tech stack (E.g. Python, LangChain/Llamaindex, CrewAI,\n  Vector databases, Agent runtimes, TensorFlow/PyTorch,\n  Spark, MLflow).\n- Proven track record with GenAI/LLMs: fine-tuning, RAG,\n  prompt orchestration, safety guardrails, monitoring, and\n  cost optimization.\n- Deep knowledge of AI/ML intensive systems, distributed\n  architectures, and cloud-native development.\n- Familiarity with AI governance frameworks, LLM safety, drift\n  detection, bias detection, hallucination, explainability,\n  and compliance (e.g., HIPAA, CLIA, FDA).\n- Strong grounding in compliance-first engineering in\n  healthcare, biotech, or diagnostics preferred.\n- Excellent ability to influence across teams, mentor\n  engineers, and set technical standards.\n\nPreferred:\n\n- Advanced degree (MS/PhD) in Computer Science, AI/ML,\n  engineering or related field.\n- Experience in healthcare, pharma, diagnostics, or other\n  regulated industries.\n\nThe pay range is listed and actual compensation packages are\nbased on a wide array of factors unique to each candidate,\nincluding but not limited to skill set, years & depth of\nexperience, certifications and specific office location.\nThis may differ in other locations due to cost of labor\nconsiderations.\n\nRemote USA\n\n$174,400—$218,000 USD\n\nOUR OPPORTUNITY\n\nNatera™ is a global leader in cell-free DNA (cfDNA) testing,\ndedicated to oncology, women’s health, and organ health. Our\naim is to make personalized genetic testing and diagnostics\npart of the standard of care to protect health and enable\nearlier and more targeted interventions that lead to longer,\nhealthier lives.\n\nThe Natera team consists of highly dedicated statisticians,\ngeneticists, doctors, laboratory scientists, business\nprofessionals, software engineers and many other\nprofessionals from world-class institutions, who care deeply\nfor our work and each other. When you join Natera, you’ll\nwork hard and grow quickly. Working alongside the elite of\nthe industry, you’ll be stretched and challenged, and take\npride in being part of a company that is changing the\nlandscape of genetic disease management.\n\nWHAT WE OFFER\n\nCompetitive Benefits - Employee benefits include\ncomprehensive medical, dental, vision, life and disability\nplans for eligible employees and their dependents.\nAdditionally, Natera employees and their immediate families\nreceive free testing in addition to fertility care benefits.\nOther benefits include pregnancy and baby bonding leave,\n401k benefits, commuter benefits and much more. We also\noffer a generous employee referral program!\n\nFor more information, visit www.natera.com.\n\nNatera is proud to be an Equal Opportunity Employer. We are\ncommitted to ensuring a diverse and inclusive workplace\nenvironment, and welcome people of different backgrounds,\nexperiences, abilities and perspectives. Inclusive\ncollaboration benefits our employees, our community and our\npatients, and is critical to our mission of changing the\nmanagement of disease worldwide.\n\nAll qualified applicants are encouraged to apply, and will\nbe considered without regard to race, color, religion,\ngender, gender identity or expression, sexual orientation,\nnational origin, genetics, age, veteran status, disability\nor any other legally protected status. We also consider\nqualified applicants regardless of criminal histories,\nconsistent with applicable laws.\n\nIf you are based in California, we encourage you to read\nthis important information for California residents.\n\nLink: https://www.natera.com/notice-of-data-collection-\ncalifornia-residents/\n\nPlease be advised that Natera will reach out to candidates\nwith a @natera.com email domain ONLY. Email communications\nfrom all other domain names are not from Natera or its\nemployees and are fraudulent. Natera does not request\ninterviews via text messages and does not ask for personal\ninformation until a candidate has engaged with the company\nand has spoken to a recruiter and the hiring team. Natera\ntakes cyber crimes seriously, and will collaborate with law\nenforcement authorities to prosecute any related cyber\ncrimes.\n\nFor more information:\n- BBB announcement on job scams\n- FBI Cyber Crime resource page\n",
+  "skills_required": [
+    "CrewAI",
+    "LLM fine-tuning",
+    "LLMOps",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agent frameworks",
+    "prompt orchestration"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define technical vision and architecture for Natera's ML and GenAI platforms ensuring scalability, reliability, and compliance",
+    "Build, operate, and evolve core AI platform components including data access, LLM model registries, evaluation pipelines, vector databases, RAG frameworks, and agent frameworks",
+    "Design, build, and operate end-to-end ML/DL/FM infrastructure covering feature engineering, distributed training, evaluation, deployment, and monitoring",
+    "Implement production-grade GenAI and ML services and APIs powering critical workflows from genomics analytics to clinical trial optimization",
+    "Lead deployment and scaling of large models using modern MLOps practices including Kubernetes, MLflow, and AWS-native services",
+    "Embed governance and monitoring guardrails into AI/ML pipelines including bias testing, safety, security, hallucination detection, and audit trails",
+    "Set coding standards, review designs, and ensure best practices in reproducibility, monitoring, and observability as principal technical authority",
+    "Evaluate and integrate emerging AI/ML technologies including foundation models, multimodal AI, biomedical reasoning agents, and federated learning"
+  ],
+  "use_cases": [
+    "Genomics analytics and clinical trial optimization for diagnostics",
+    "Patient-facing solutions and provider engagement workflows",
+    "R&D, Lab Ops, Clinical Trials, and Billing workflow automation",
+    "Unstructured data extraction, classification, summarization, and generation from knowledge bases",
+    "Domain-specific copilots for lab workflows and clinical operations",
+    "Personalized genetic testing and earlier targeted interventions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Kubernetes",
+    "MLflow",
+    "Spark",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "LLM fine-tuning",
+    "LLMOps",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agent frameworks",
+    "prompt orchestration"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building platforms and infrastructure\nthat enable AI/ML work for others, rather than directly\nbuilding, training, or deploying models. While the role\ninvolves GenAI and LLM technologies, the primary\nresponsibility is creating the tooling, frameworks, and\nservices that data scientists and engineers use to build and\ndeploy AI solutions. The emphasis is on platform\narchitecture, governance, compliance, and infrastructure -\nclassic AI platform engineering that supports AI development\nrather than hands-on model work.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "CrewAI",
+      "RAG",
+      "agent frameworks",
+      "prompt orchestration",
+      "LLM fine-tuning",
+      "LLMOps"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "Spark"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "MLflow",
+      "Kubernetes",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

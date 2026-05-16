@@ -1,0 +1,137 @@
+{
+  "job_id": "intl-ai-corpus-2751",
+  "source": "intl-ai-corpus",
+  "source_ref": "8995605",
+  "source_url": "https://www.builtinla.com/job/senior-ai-software-engineer/8995605",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Future",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-09",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Growth (merged with Autograph in 2025)",
+  "company_focus": "Digital personal training and fitness coaching platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Fitness",
+    "Healthtech"
+  ],
+  "description": "About Future\n\nAt Future, we believe that personal connection is the key to\nprogress. Our mission is to make world-class coaching\naccessible to everyone, helping people unlock their full\npotential through expert guidance, motivation, and\naccountability. As a digital personal training platform, we\ndeliver highly personalized coaching, tailoring workout\nplans and support to each individual’s goals - all through a\nseamless app experience.\n\nSince launching in 2017, Future has grown from a brainstorm\nin a San Francisco cafe into the nation’s largest provider\nof personal training sessions. In January 2025, Future\nannounced its merger with Autograph, the company founded by\n7x World Champion and entrepreneur Tom Brady. We’re poised\nfor massive growth as we expand our brand, forge new\npartnerships with some of the world’s most iconic athletes,\nand harness AI to enhance and scale our coaching experience.\n\nAs we continue to grow, we’re investing in cutting-edge\ntechnology, deepening our roster of elite coaches, and\nbuilding new partnerships. If you're passionate about\nshaping the future of fitness, come join us - we’re just\ngetting started.\n\nAbout the Role\n\nWe're looking for an Applied AI Engineer to help us build\nand ship AI-powered features that directly improve our\nproduct experience and business outcomes. This is a hands-\non, product-focused role where you'll take ideas from\nconcept to production — designing intelligent systems,\nvalidating them with real users, and turning them into\nreliable, scalable services.\n\nYou'll work at the intersection of AI, product, and\nengineering — partnering closely with cross-functional teams\nto identify high-impact opportunities, prototype quickly,\nand iterate based on data. This isn't a research-only role.\nYou'll own the full lifecycle: experimentation, evaluation,\ndeployment, monitoring, and continuous improvement.\n\nThe ideal candidate is excited about applying LLMs and\nmodern ML tooling to real-world problems. You think in terms\nof systems, tradeoffs, and outcomes — not just models. You\ncare about performance, quality, latency, and cost in\nproduction. Most importantly, you're motivated by shipping\nimpactful AI experiences that customers actually use.\n\nWhat You'll Do\n\n- Build and ship AI agents that serve real users: tool-calling\n  LLM systems with structured output, parallel API\n  orchestration, and streaming responses.\n- Design evaluation harnesses and quality scoring — we use\n  Langfuse, rubrics to measure safety, effectiveness, and\n  personalization.\n- Own the full loop: prototype a new agent capability,\n  validate it with evals, deploy it to staging and\n  production, monitor traces, and iterate.\n- Improve reliability, latency, and cost through prompt\n  caching strategies, token budgets, retry logic, and\n  observability.\n- Write the tools agents use: API integrations with Pydantic\n  validation, exercise search over local databases,\n  structured workout submission.\n\nWhat You Bring\n\n- Strong Python skills: you've built and deployed services on\n  large production systems.\n- Experience with LangChain/LangGraph or similar agent\n  frameworks.\n- Hands-on experience with LLMs in production: prompt\n  engineering, tool/function calling, structured output,\n  evaluation.\n- Comfort with async Python, HTTP APIs, and streaming\n  protocols (SSE, webhooks).\n- Experience with data validation and schema design (Pydantic,\n  JSON Schema).\n- Ability to debug across layers: from a broken LLM tool call\n  to a misconfigured Terraform resource.\n- Clear communication: you'll work directly with product,\n  mobile, and backend engineers.\n\nNice to Have\n\n- Familiarity with AWS (Bedrock, ECR, CloudFront, S3, Cognito)\n  or other cloud agent hosting.\n- Observability and tracing tools (Langfuse, OpenTelemetry,\n  Datadog).\n- Exposure to evaluation frameworks: LLM-as-a-judge, automated\n  scoring, dataset management.\n- Infrastructure-as-code (Terraform, CDK).\n\nCompensation & Benefits\n\nWe believe great people should be well paid and meaningfully\ninvested in what they're building.\n\nBase Salary $ 215,000– $ 250,000/ year + equity. The salary\nrange is set based on multiple considerations including\nbusiness needs, market demands, talent availability,\nexperience, and unique skills and attributes. The base pay\nrange is subject to change and may be modified in the\nfuture.\n\nEquity Equity participation offered alongside base\ncompensation.\n\nHealth Coverage Comprehensive medical, vision, dental, and\ndisability insurance plus tax savings accounts for all\neligible employees.\n\nRetirement 401(k) plan with tax-advantaged savings options.\n\nRemote-First Employment eligible to all employees located\nanywhere in the continental US. No travel required.\n\nWellness & Development Monthly health and fitness stipend\ncontributing to overall wellbeing, access to a mental health\nplatform, reimbursement for medical travel, and an annual\nlearning & development stipend.\n\nFlexible Time Off Flexible PTO so you can rest, recharge,\nand take care of life outside of work.\n\nFuture Membership Enjoy our platform for free!\n",
+  "skills_required": [
+    "AI agents",
+    "LLM tool/function calling",
+    "LLM-as-a-judge evaluation",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "Structured output generation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and ship AI agents with tool-calling LLM systems, structured output, parallel API orchestration, and streaming responses",
+    "Design evaluation harnesses and quality scoring systems using Langfuse to measure safety, effectiveness, and personalization",
+    "Own the full agent lifecycle from prototyping through validation, deployment, monitoring, and iteration",
+    "Improve system reliability, latency, and cost through prompt caching, token budgets, retry logic, and observability",
+    "Build tools and API integrations used by agents, including exercise search and structured workout submission with Pydantic validation",
+    "Partner with cross-functional teams to identify high-impact AI opportunities and iterate based on data"
+  ],
+  "use_cases": [
+    "AI-powered personalized fitness coaching and workout planning",
+    "Intelligent exercise search and recommendation",
+    "Automated workout plan generation and submission",
+    "Personalized motivation and accountability through conversational AI agents",
+    "Scalable digital coaching experience serving the nation's largest personal training provider"
+  ],
+  "tools_mentioned": [
+    "AWS (Bedrock, ECR, CloudFront, S3, Cognito)",
+    "CDK",
+    "Datadog",
+    "Docker (ECR)",
+    "HTTP APIs",
+    "JSON Schema",
+    "Langfuse",
+    "OpenTelemetry",
+    "Prompt caching",
+    "Streaming protocols (SSE)",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "LLM tool/function calling",
+    "LLM-as-a-judge evaluation",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "Structured output generation"
+  ],
+  "languages_programming": [
+    "Async Python",
+    "Pydantic",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and shipping AI-powered\nfeatures, including AI agents with tool-calling LLM systems,\nprompt engineering, evaluation harnesses, and deploying LLM-\nbased services to production. The engineer owns the full\nlifecycle of AI systems from experimentation to deployment,\nmaking this clearly an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "LLM tool/function calling",
+      "Prompt engineering",
+      "Structured output generation",
+      "AI agents",
+      "LLM-as-a-judge evaluation"
+    ],
+    "ml": [],
+    "web": [
+      "JSON Schema",
+      "HTTP APIs",
+      "Streaming protocols (SSE)"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS (Bedrock, ECR, CloudFront, S3, Cognito)"
+    ],
+    "ops": [
+      "Terraform",
+      "CDK",
+      "Langfuse",
+      "OpenTelemetry",
+      "Datadog",
+      "Prompt caching",
+      "Docker (ECR)"
+    ],
+    "languages": [
+      "Python",
+      "Async Python",
+      "Pydantic"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

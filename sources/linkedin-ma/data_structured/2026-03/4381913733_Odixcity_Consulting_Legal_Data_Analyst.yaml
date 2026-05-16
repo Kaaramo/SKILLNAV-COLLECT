@@ -1,0 +1,36 @@
+company:
+  name: Odixcity Consulting
+  stage: null
+  focus: null
+position:
+  title: Legal Data Analyst
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  - Risk management
+  skills:
+    genai:
+    - llm
+    - llms
+    ml: []
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - power bi
+    - tableau
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4381913733'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

@@ -1,0 +1,177 @@
+{
+  "job_id": "intl-ai-corpus-2775",
+  "source": "intl-ai-corpus",
+  "source_ref": "9007020",
+  "source_url": "https://www.builtinla.com/job/senior-ai-ml-engineer/9007020",
+  "title": "Senior AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ford Motor Company",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-09",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Auto financing and credit services for Ford and Lincoln\nvehicles",
+  "industries": [],
+  "description": "We made history and now we work to transform the future –\nfor our customers, our communities and our families. You'll\nsee your work on the road every day, helping people move\nfreely and pursue their dreams. At Ford, you can build more\nthan vehicles. Come build what matters.\n\nThe Ford Motor Credit Company team helps put people behind\nthe wheels of great Ford and Lincoln vehicles. By partnering\nwith dealerships, we provide financing, personalized service\nand professional expertise to thousands of dealers and\nmillions of customers in over one hundred countries around\nthe world.\n\nIn this position...\n\nThe Senior AI/ML Engineer at Ford Credit is a hands-on\ntechnical role responsible for designing, developing, and\noperationalizing advanced analytics and AI solutions that\nmaterially improve customer outcomes, reduce financial risk,\nand increase operational efficiency across Ford Credit. You\nwill deliver across a diverse portfolio of strategic AI\ninitiatives including real-time and batch fraud detection\n(traditional ML and graph/anomaly approaches), hierarchical\nforecasting, and GenAI capabilities such as conversational\nagent-assist, RAG-based knowledge grounding, and tool-using\nAI agents that automate business processes.\n\nYou will partner closely with product, engineering, data\nengineering, risk/compliance, and business stakeholders to\ndefine success criteria, design reproducible data and model\npipelines, prototype and productionize solutions, and\nimplement monitoring, explainability, and governance to meet\nsecurity and regulatory requirements. You will own end-to-\nend delivery for assigned projects, balancing rapid\nexperimentation with production rigor to produce measurable\nbusiness outcomes. This role requires strong technical\njudgment, clear stakeholder communication, and a commitment\nto responsible AI practices for both classic ML and modern\nGenAI/agent workflows.\n\nResponsibilities\n\nWhat you'll do...\n\n- Design, prototype, validate, and productionize traditional\n  ML models and GenAI/LLM-based solutions (including RAG and\n  agentic workflows) to meet business objectives across\n  credit products.\n- Translate business problems into technical solutions: define\n  metrics, success criteria, evaluation strategy, and\n  experimentation plans for both ML models and GenAI\n  experiences.\n- Own end-to-end model/system lifecycle for assigned use\n  cases, including data ingestion and lineage, feature\n  engineering, model development, evaluation, deployment,\n  monitoring, and retraining/re-optimization.\n- Build and operationalize AI agents that automate business\n  processes and augment agent-assist workflows, including:\n  - tool-using agent patterns, multi-step orchestration\n  - memory/state management and safe handoffs to humans\n  - secure connector design to upstream/downstream systems\n  - integration into APIs, microservices, or agent frameworks\n- Ensure explainability, fairness, and regulatory compliance\n  for credit/financial use cases. Produce required\n  documentation and artifacts for model risk and audit.\n- Integrate solutions into production by collaborating with\n  software engineers and MLOps teams (e.g., model/LLM\n  services, RAG services, agent runtimes) and supporting\n  CI/CD for ML/GenAI components.\n- Instrument monitoring and observability across the full\n  lifecycle:\n  - traditional ML: performance, drift, data quality, latency\n  - GenAI/agents: quality/safety metrics, grounding/citation\n    quality, tool-call reliability, latency/cost, and drift\n    in retrieval inputs\n  - define retraining and incident playbooks, and lead\n    mitigation/rollback actions.\n- Build robust evaluation pipelines for both paradigms:\n  - holdout strategies, cross-validation, backtesting\n  - uplift/A-B testing frameworks and business impact estimation\n  - scenario-based and simulation-based testing for agent\n    behavior and GenAI responses.\n- Drive responsible AI and safety for agents/LLMs, including\n  guardrails (authorization/scope limits, confirmation\n  flows, human-in-the-loop escalation), bias mitigation, and\n  privacy-by-design (PII handling).\n- Communicate clearly with non-technical stakeholders and\n  senior leadership—articulating model/system behavior,\n  limitations, risks, and measurable outcomes.\n- Mentor and raise team capability in reproducible ML\n  engineering and agent/GenAI development practices.\n- Coordinate with data engineering to ensure reliable,\n  documented data sources and lineage.\n- Keep abreast of emerging AI safety practices and recommend\n  improvements to guardrails and SDLC processes.\n\nQualifications\n\nYou'll have...\n\n- Bachelor's degree in Computer Science or a related field\n  (e.g., Machine Learning, Statistics, Data Science,\n  Electrical/Computer Engineering) or equivalent practical\n  experience\n- 5+ years of applied ML/AI experience (or equivalent) with\n  demonstrated hands-on delivery in production environments.\n- Strong software engineering skills in Python and modern\n  engineering practices (testing, modular design, reliable\n  pipelines, maintainability).\n- Production ML and MLOps experience: Docker, CI/CD, model\n  serving, monitoring/observability, and experience working\n  with orchestrated pipelines (e.g., Kubernetes and/or\n  equivalent).\n- Strong data skills: advanced SQL and experience with big\n  data platforms (e.g., BigQuery, Spark, Databricks,\n  Snowflake) and/or streaming/event-driven systems.\n- Traditional ML expertise: practical experience building and\n  productionizing models for credit use cases (e.g.,\n  classification, regression, time-series forecasting,\n  anomaly detection, graph-based fraud approaches).\n- GenAI/LLM expertise: hands-on experience building and\n  evaluating LLM-based systems, including RAG, prompt\n  engineering, evaluation of response quality/grounding, and\n  conversational AI/agent-assist applications.\n\nEven better, you may have...\n\n- Master’s degree or higher in Computer Science or a related\n  field (e.g., Machine Learning, Statistics, Data Science,\n  Electrical/Computer Engineering) or equivalent practical\n  experience\n\n- AI agent engineering: hands-on experience designing and\n  deploying tool-using AI agents with safe orchestration,\n  memory/state handling, evaluation, and operational\n  guardrails. Experience with popular agent frameworks is a\n  plus.\n- Evaluation & experimentation: experience with holdouts,\n  cross-validation/backtesting, A/B testing, uplift\n  modeling, and business impact estimation; ability to\n  design robust evaluation for both ML and GenAI/agents.\n- Model explainability & fairness: familiarity with SHAP/LIME\n  (or equivalent) and ability to incorporate explainability\n  and fairness into validation and documentation.\n- Regulated environment experience: familiarity with\n  governance needs for credit/financial models and producing\n  audit-ready artifacts (model/system cards, validation\n  reports, documentation).\n- Cloud familiarity (AWS/Azure/GCP) and ML services is\n  preferred.\n- Excellent communication and collaboration with product,\n  engineering, legal, and risk teams; ability to explain\n  technical trade-offs and risk posture to stakeholders.\n\nYou may not check every box, or your experience may look a\nlittle different from what we've outlined, but if you think\nyou can bring value to Ford Motor Company, we encourage you\nto apply!\n\nAs an established global company, we offer the benefit of\nchoice. You can choose what your Ford future will look like:\nwill your story span the globe, or keep you close to home?\nWill your career be a deep dive into what you love, or a\nseries of new teams and new skills? Will you be a leader, a\nchangemaker, a technical expert, a culture builder…or all of\nthe above? No matter what you choose, we offer a work life\nthat works for you, including:\n\n- Immediate medical, dental, vision and prescription drug\n  coverage\n- Flexible family care days, paid parental leave, new parent\n  ramp-up programs, subsidized back-up child care and more\n- Family building benefits including adoption and surrogacy\n  expense reimbursement, fertility treatments, and more\n- Vehicle discount program for employees and family members\n  and management leases\n- Tuition assistance\n- Established and active employee resource groups\n- Paid time off for individual and team community service\n- A generous schedule of paid holidays, including the week\n  between Christmas and New Year’s Day\n- Paid time off and the option to purchase additional vacation\n  time.\n\nThis position is a salary grade 7 and ranges from\n$99,600-$166,600., This position is a salary grade 8 and\nranges from $115,000-$192,900.\n\nFinal determination of salary grade will be based on\ncandidate's skills and experience, and base salary will be\nset within the applicable range according to job scope,\nresponsibility and competitive market value.\n\nFor more information on salary and benefits, click here:\nhttps://fordcareers.co/GSR\n\nVisa sponsorship is not available for this position.\n\nCandidates for positions with Ford Motor Company must be\nlegally authorized to work in the United States.\nVerification of employment eligibility will be required at\nthe time of hire.\n\nWe are an Equal Opportunity Employer. All qualified\napplicants will receive consideration for employment without\nregard to race, religion, color, age, sex, national origin,\nsexual orientation, gender identity, disability status or\nprotected veteran status. In the United States, if you need\na reasonable accommodation for the online application\nprocess due to a disability, please call 1-888-336-0660.\n\nThis position is hybrid. Candidates who are in commuting\ndistance to a Ford hub location may be required to be onsite\nfour or more days per week. #LI-Hybrid\n\n#LI-FordCredit  #LI-SL2\n",
+  "skills_required": [
+    "Anomaly detection",
+    "Classification",
+    "Conversational AI",
+    "Graph-based fraud detection",
+    "LIME",
+    "LLM-based agents",
+    "Model risk management",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "Regression",
+    "Responsible AI",
+    "SHAP",
+    "Time-series forecasting",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, prototype, validate, and productionize traditional ML models and GenAI/LLM-based solutions (including RAG and agentic workflows) for credit products",
+    "Own end-to-end model/system lifecycle including data ingestion, feature engineering, model development, evaluation, deployment, monitoring, and retraining",
+    "Build and operationalize AI agents that automate business processes with tool-using patterns, multi-step orchestration, memory/state management, and safe human handoffs",
+    "Ensure explainability, fairness, and regulatory compliance for credit/financial use cases, producing audit-ready documentation and artifacts",
+    "Integrate solutions into production by collaborating with software engineers and MLOps teams, supporting CI/CD for ML/GenAI components",
+    "Instrument monitoring and observability across the full lifecycle for both traditional ML and GenAI/agent systems",
+    "Build robust evaluation pipelines including holdout strategies, A/B testing frameworks, and simulation-based testing for agent behavior",
+    "Drive responsible AI and safety practices including guardrails, bias mitigation, and privacy-by-design for agents and LLMs"
+  ],
+  "use_cases": [
+    "Real-time and batch fraud detection using traditional ML and graph/anomaly approaches",
+    "Hierarchical forecasting for credit and financial products",
+    "Conversational agent-assist for customer service and support",
+    "RAG-based knowledge grounding for internal knowledge retrieval",
+    "AI agents that automate business processes with tool-using and multi-step orchestration",
+    "Credit risk modeling and classification"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "AWS",
+    "Azure",
+    "BigQuery",
+    "CI/CD",
+    "Databricks",
+    "Docker",
+    "FastAPI",
+    "Feature engineering",
+    "GCP",
+    "Kubernetes",
+    "ML monitoring/observability",
+    "Microservices",
+    "Model serving",
+    "REST APIs",
+    "Snowflake",
+    "Spark",
+    "Streaming/event-driven systems"
+  ],
+  "frameworks_mentioned": [
+    "Anomaly detection",
+    "Classification",
+    "Conversational AI",
+    "Graph-based fraud detection",
+    "LIME",
+    "LLM-based agents",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "Regression",
+    "SHAP",
+    "Time-series forecasting",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on in designing, building, deploying, and\noperationalizing both traditional ML models and GenAI/LLM-\nbased systems including RAG and agentic workflows. The\nengineer owns end-to-end model/system lifecycle from data\ningestion through deployment and monitoring, directly\nworking with models and AI agents.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "Prompt Engineering",
+      "LLM-based agents",
+      "Conversational AI"
+    ],
+    "ml": [
+      "PyTorch",
+      "scikit-learn",
+      "Classification",
+      "Regression",
+      "Time-series forecasting",
+      "Anomaly detection",
+      "Graph-based fraud detection",
+      "SHAP",
+      "LIME"
+    ],
+    "web": [
+      "FastAPI",
+      "REST APIs",
+      "Microservices"
+    ],
+    "databases": [
+      "BigQuery",
+      "Snowflake"
+    ],
+    "data": [
+      "Spark",
+      "Databricks",
+      "Streaming/event-driven systems",
+      "Feature engineering"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Model serving",
+      "ML monitoring/observability",
+      "A/B testing"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Model risk management",
+      "Responsible AI"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

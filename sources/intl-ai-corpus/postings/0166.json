@@ -1,0 +1,146 @@
+{
+  "job_id": "intl-ai-corpus-0166",
+  "source": "intl-ai-corpus",
+  "source_ref": "7298636",
+  "source_url": "https://builtin.com/job/ai-engineer-ai-platform/7298636",
+  "title": "AI Engineer - AI Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Traversal",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-14",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI-powered site reliability and incident management",
+  "industries": [],
+  "description": "About Traversal\n\nTraversal is the AI Site Reliability Engineer (SRE) for the\nenterprise—already trusted by some of the largest companies\nin the world to troubleshoot, remediate, and even prevent\nthe most complex production incidents. Our mission is to\nfree engineers from endless firefighting and enable them to\nfocus on creative, high-impact work.\n\nOur roots remain deeply embedded in AI research, and we’re\nchanneling that scientific rigor and creativity into\nbuilding the premier AI agent lab for the enterprise. Hence,\nwhat we’re proudest of is assembling the most talented yet\nnicest group of individuals, including researchers from MIT,\nHarvard, and Berkeley, to world-class engineers from\nindustry: Citadel Securities, Cockroach Labs, Datadog, DE\nShaw, Meta, Hebbia, Perplexity, Glean, Pinecone, and more,\nto take on one of the hardest problems for AI to solve.\nWithout the entire team, none of this would be possible.\n\nThe Role\n\nAs an AI Platform Engineer at Traversal, you’ll work on the\ncore foundations that make Traversal’s AI possible, spanning\nboth agent infrastructure and evaluation systems.\n\n- Agent Infrastructure — Build the frameworks, orchestration\n  layers, and developer tooling that power Traversal’s AI\n  agents for root cause analysis, alert triage, and “chat\n  with your infrastructure/telemetry.” This involves\n  designing scalable distributed systems and abstractions\n  (e.g., MCP servers, multi-agent orchestration, toolkits)\n  that balance research flexibility with production\n  reliability.\n- Evaluation — Define what “good” looks like for AI\n  performance in the incident management domain. You’ll\n  build live evaluation pipelines, automated scoring\n  systems, and benchmarks; integrate evaluation into the\n  developer lifecycle; and surface these insights to\n  customers as a value-add.\n\nThis work combines research (agentic architectures,\nbenchmarking, calibration, finetuning) with engineering\n(production-scale infra, APIs, distributed systems) to\naccelerate the entire AI loop: build → evaluate → improve →\nship.\n\nResponsibilities\n\n- Design and build agent frameworks, orchestration layers, and\n  developer tooling for Traversal’s AI agents.\n- Architect scalable distributed systems to support real-time\n  workloads over petabytes of heterogeneous telemetry data.\n- Build live evaluation pipelines, automated scoring systems,\n  and benchmarks to measure and drive AI performance.\n- Integrate evaluation systems into the developer lifecycle to\n  create a fast research-to-production loop.\n- Surface evaluation signals and benchmarks to customers as a\n  core product capability.\n- Partner with research scientists to prototype and\n  productionize agentic architectures.\n- Own observability, latency, and reliability for agents in\n  production.\n- Evolve and scale the agent + evaluation platform as the\n  backbone of Traversal’s AI systems.\n\nRequirements\n\n- Strong system design skills for distributed systems.\n- Proven production-scale software engineering experience.\n- Experience with LLM-based applications and/or multi-agent\n  systems.\n- Strong data modeling skills and a track record of writing\n  clean, maintainable code.\n- Collaborative, impact-driven mindset and ability to work\n  across research and engineering teams.\n\nNice to Have\n\n- Knowledge of software incidents and production SRE\n  workflows.\n- Prior experience with AI benchmarking or evaluation systems.\n- Experience creating quantitative scoring systems or\n  benchmarks in new problem domains.\n- Familiarity with observability stacks (logs, metrics,\n  traces) and telemetry systems.\n- Background in agentic architectures, orchestration\n  frameworks, or applied AI research.\n\nCompensation\n\nWe offer competitive compensation, startup equity, health\ninsurance, and additional benefits. The U.S. base salary\nrange for this full-time, in-person role in New York is\n$150,000–$300,000, plus equity and benefits. Our salary\nranges are based on location, level, and role. Individual\ncompensation is determined by experience, skills, and job-\nrelated knowledge.\n\nWhy You Should Join Us\n\nWe’ll make sure you’re fully supported with health\ninsurance, a great tech setup, flexible time off, and plenty\nof in-office snacks. We offer competitive salary and equity\npackages, and take thoughtful consideration with every hire\non our small, high-impact team.\n\nTraversal is fully in-office, 5 days a week, based in New\nYork near Madison Square Park. We have a collaborative,\nhard-working culture and are energized by building the\nfuture of AI-powered software maintenance.\n\nWorking here means owning meaningful parts of the product,\nhaving the flexibility to move fast, and learning\nconstantly. This is a place to grow your career, make a real\nimpact, and help define a new category of infrastructure\nsoftware.\n",
+  "skills_required": [
+    "LLM-based applications",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "agent orchestration",
+    "benchmarking",
+    "fine-tuning",
+    "function calling",
+    "model evaluation",
+    "multi-agent systems",
+    "prompt engineering",
+    "site reliability engineering",
+    "system design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build agent frameworks, orchestration layers, and developer tooling for Traversal's AI agents",
+    "Architect scalable distributed systems to support real-time workloads over petabytes of heterogeneous telemetry data",
+    "Build live evaluation pipelines, automated scoring systems, and benchmarks to measure and drive AI performance",
+    "Integrate evaluation systems into the developer lifecycle to create a fast research-to-production loop",
+    "Surface evaluation signals and benchmarks to customers as a core product capability",
+    "Partner with research scientists to prototype and productionize agentic architectures",
+    "Own observability, latency, and reliability for agents in production",
+    "Evolve and scale the agent and evaluation platform as the backbone of Traversal's AI systems"
+  ],
+  "use_cases": [
+    "AI-powered root cause analysis for production incidents",
+    "Automated alert triage and incident remediation",
+    "Chat interface for infrastructure and telemetry data interaction",
+    "Prevention of complex production incidents through proactive AI analysis",
+    "Evaluation and benchmarking of AI agent performance in incident management",
+    "Real-time analysis of petabytes of telemetry data for operational insights"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "REST",
+    "data modeling",
+    "data pipelines",
+    "distributed systems",
+    "observability",
+    "telemetry systems"
+  ],
+  "frameworks_mentioned": [
+    "LLM-based applications",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "agent orchestration",
+    "fine-tuning",
+    "function calling",
+    "model evaluation",
+    "multi-agent systems",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building agent infrastructure,\norchestration layers, and evaluation systems for AI agents,\nincluding multi-agent orchestration and toolkits. The work\ndirectly impacts AI system performance through building,\nevaluating, and deploying agentic architectures, not just\nsupporting others who work on AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "multi-agent systems",
+      "agent orchestration",
+      "RAG",
+      "function calling",
+      "prompt engineering"
+    ],
+    "ml": [
+      "fine-tuning",
+      "LLM-based applications",
+      "model evaluation"
+    ],
+    "web": [
+      "APIs",
+      "REST"
+    ],
+    "databases": [],
+    "data": [
+      "data modeling",
+      "data pipelines"
+    ],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "distributed systems",
+      "CI/CD",
+      "observability",
+      "telemetry systems"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "benchmarking",
+      "system design",
+      "site reliability engineering"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

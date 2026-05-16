@@ -1,0 +1,145 @@
+{
+  "job_id": "intl-ai-corpus-0778",
+  "source": "intl-ai-corpus",
+  "source_ref": "6943298",
+  "source_url": "https://builtin.com/job/ai-research-engineer-datadog-ai-research-dair/6943298",
+  "title": "AI Research Engineer – Datadog AI Research (DAIR)",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Datadog",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-01",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "6,500 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud observability and security monitoring",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Security",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "As a research engineer on our team, you will partner with\nresearch scientists to turn research ideas into working\nsystems; building the data, tooling, and infrastructure that\nenable rapid iteration, trustworthy evaluation, and a smooth\npath from prototype to production.\n\nBuilding on our proven track record of AI-powered solutions\n(e.g., Bits AI, Watchdog, and Toto), Datadog AI Research is\ntackling high-risk, high-reward projects grounded in real-\nworld challenges in cloud observability and security.\n\nWe are currently focused on three key research areas:\n\n- Observability Foundation Models – Building state-of-the-art\n  models for advanced forecasting, anomaly detection, and\n  multi-modal telemetry analysis (logs, metrics, traces,\n  etc.). These models will also provide the foundation for\n  our agents (described below) to natively analyze telemetry\n  data.\n- Site Reliability Engineering (SRE) Autonomous Agents –\n  Creating AI agents to automatically detect, diagnose, and\n  resolve incidents in production environments, pushing the\n  boundaries of multi-step planning, reasoning, and domain-\n  specific knowledge.\n- Production Code Repair Agents – Developing agents and models\n  that leverage code, logs, runtime data, and other signals\n  to identify, fix, and even preempt performance issues and\n  security vulnerabilities in production code.\n\n\n\nWhat You’ll Do:\n\n- Build and operate datasets, training and evaluation\n  pipelines, benchmarks, and internal tooling\n- Implement models, run experiments at scale, and profile for\n  reliability, performance, and cost\n- Orchestrate distributed training and distributed RL with\n  Ray, including scheduling, scaling, and failure recovery\n- Make the research stack observable, reproducible, and easier\n  to use\n- Establish rigorous automated benchmarks and regression tests\n  for forecasting, anomaly detection, multi-modal analysis,\n  agents, and code repair tasks\n- Collaborate with Research Scientists, Product, and\n  Engineering to integrate advanced AI capabilities into\n  Datadog’s product ecosystem and to harden prototypes into\n  reliable services\n- Contribute high-quality code, documentation, and open-source\n  artifacts that enable the community and internal teams to\n  reproduce, extend, and evaluate results\n\n\n\nWho You Are:\n\n- You have strong software engineering skills with experience\n  in domains such as observability, SRE, or security\n- You have depth in distributed computing and ML systems for\n  training and inference at scale; experience with Ray,\n  Slurm, or similar frameworks is a plus\n- You are proficient in Python, familiar with a systems\n  language (e.g., Rust, C++, or Go), and you are comfortable\n  with modern cloud and data infrastructure\n- You have practical experience implementing and operating ML\n  training and inference systems (e.g., PyTorch or JAX),\n  including containerization, orchestration, and GPU\n  acceleration\n- You are familiar with efficient training, fine-tuning, and\n  inference techniques for large foundation models\n- You can explain design and performance trade-offs clearly to\n  both technical and non-technical audiences\n- You have a strong interest in open-science and open-source\n  contributions, including establishing rigorous benchmarks\n  and sharing artifacts with the community\n\n\n\nBonus Points:\n\n- You have a demonstrated ability to bridge cutting-edge\n  research prototypes and real-world product applications,\n  ideally with large foundation models, generative AI\n  agents, or domain-specific LLM deployments\n- You are passionate about pushing the boundaries of AI while\n  maintaining a strong focus on customer impact,\n  scalability, and responsible deployment of new\n  technologies\n- You have hands-on experience with GPU programming and\n  optimization, including experience in CUDA\n- You have experience writing production data pipelines and\n  applications\n- You have experience supporting or contributing to research\n  publications\n\nDatadog values people from all walks of life. We understand\nnot everyone will meet all the above qualifications on day\none. That's okay. If you’re passionate about AI Research and\nwant to grow your skills, we encourage you to apply.\n\n\n\nBenefits and Growth:\n\n- Competitive global benefits\n- New hire stock equity (RSUs) and employee stock purchase\n  plan (ESPP)\n- Opportunity to collaborate closely with colleagues across\n  the Datadog offices in New York City and Paris\n- Opportunity to attend and present at conferences and meetups\n- Intra-departmental mentor and buddy program for in-house\n  networking\n- An inclusive company culture, ability to join our Community\n  Guilds (Datadog employee resource groups)\n\nBenefits and Growth listed above may vary based on the\ncountry of your employment and the nature of your employment\nwith Datadog.\n\n\n\nDatadog offers a competitive salary and equity package, and\nmay include variable compensation. Actual compensation is\nbased on factors such as the candidate's skills,\nqualifications, and experience. In addition, Datadog offers\na wide range of best in class, comprehensive and inclusive\nemployee benefits for this role including healthcare,\ndental, parental planning, and mental health benefits, a\n401(k) plan and match, paid time off, fitness\nreimbursements, and a discounted employee stock purchase\nplan.\n\nThe reasonably estimated yearly salary for this role at\nDatadog is:\n\n$140,000—$400,000 USD\n\nAbout Datadog:\n\nDatadog (NASDAQ: DDOG) is a global SaaS business, delivering\na rare combination of growth and profitability. We are on a\nmission to break down silos and solve complexity in the\ncloud age by enabling digital transformation, cloud\nmigration, and infrastructure monitoring of our customers’\nentire technology stacks. Built by engineers, for engineers,\nDatadog is used by organizations of all sizes across a wide\nrange of industries. Together, we champion professional\ndevelopment, diversity of thought, innovation, and work\nexcellence to empower continuous growth. Join the pack and\nbecome part of a collaborative, pragmatic, and thoughtful\npeople-first community where we solve tough problems, take\nsmart risks, and celebrate one another. Learn more about\n#DatadogLife on Instagram, LinkedIn, and Datadog Learning\nCenter.\n\nEqual Opportunity at Datadog:\n\nDatadog is proud to offer equal employment opportunity to\neveryone regardless of race, color, ancestry, religion, sex,\nnational origin, sexual orientation, age, citizenship,\nmarital status, disability, gender identity, veteran status,\nand other characteristics protected by law. We also consider\nqualified applicants regardless of criminal histories,\nconsistent with legal requirements. Here are our Candidate\nLegal Notices for your reference.\n\nDatadog endeavors to make our Careers Page accessible to all\nusers. If you would like to contact us regarding the\naccessibility of our website or need assistance completing\nthe application process, please complete this form. This\nform is for accommodation requests only and cannot be used\nto inquire about the status of applications.\n\nPrivacy and AI Guidelines:\n\nAny information you submit to Datadog as part of your\napplication will be processed in accordance with Datadog’s\nApplicant and Candidate Privacy Notice. For information on\nour AI policy, please visit Interviewing at Datadog AI\nGuidelines.\n",
+  "skills_required": [
+    "CUDA",
+    "GPU acceleration",
+    "JAX",
+    "ML inference systems",
+    "ML training systems",
+    "PyTorch",
+    "distributed RL",
+    "distributed training",
+    "domain-specific LLMs",
+    "fine-tuning",
+    "foundation models",
+    "generative AI agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and operate datasets, training and evaluation pipelines, benchmarks, and internal tooling",
+    "Implement models, run experiments at scale, and profile for reliability, performance, and cost",
+    "Orchestrate distributed training and distributed RL with Ray, including scheduling, scaling, and failure recovery",
+    "Make the research stack observable, reproducible, and easier to use",
+    "Establish rigorous automated benchmarks and regression tests for forecasting, anomaly detection, multi-modal analysis, agents, and code repair tasks",
+    "Collaborate with Research Scientists, Product, and Engineering to integrate advanced AI capabilities into Datadog's product ecosystem and to harden prototypes into reliable services",
+    "Contribute high-quality code, documentation, and open-source artifacts that enable the community and internal teams to reproduce, extend, and evaluate results"
+  ],
+  "use_cases": [
+    "Advanced forecasting and anomaly detection for cloud observability using foundation models",
+    "Multi-modal telemetry analysis of logs, metrics, and traces",
+    "Autonomous SRE agents that automatically detect, diagnose, and resolve production incidents",
+    "Production code repair agents that identify and fix performance issues and security vulnerabilities",
+    "Multi-step planning and reasoning for incident resolution in production environments"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "Ray",
+    "Slurm"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "GPU acceleration",
+    "JAX",
+    "ML inference systems",
+    "ML training systems",
+    "PyTorch",
+    "distributed RL",
+    "distributed training",
+    "domain-specific LLMs",
+    "fine-tuning",
+    "foundation models",
+    "generative AI agents"
+  ],
+  "languages_programming": [
+    "C++",
+    "Go",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "RESEARCH",
+    "TIME_SERIES"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves directly building observability foundation\nmodels, autonomous agents for SRE, and production code\nrepair agents. Responsibilities include implementing models,\nrunning distributed training with Ray, and deploying ML\ninference systems at scale - all hands-on work with AI/ML\nsystems rather than just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "generative AI agents",
+      "domain-specific LLMs"
+    ],
+    "ml": [
+      "PyTorch",
+      "JAX",
+      "CUDA",
+      "ML training systems",
+      "ML inference systems",
+      "distributed training",
+      "distributed RL",
+      "foundation models",
+      "fine-tuning",
+      "GPU acceleration"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Ray",
+      "Slurm"
+    ],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "Rust",
+      "C++",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

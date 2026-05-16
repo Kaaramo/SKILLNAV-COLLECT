@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-2497",
+  "source": "intl-ai-corpus",
+  "source_ref": "7559850",
+  "source_url": "https://www.builtinla.com/job/software-engineer-ai-agents/7559850",
+  "title": "Software Engineer, AI Agents",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Hightouch",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-02",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B+",
+  "company_focus": "AI-powered marketing and growth platform",
+  "industries": [
+    "Big Data",
+    "Information Technology",
+    "Software",
+    "Database",
+    "Analytics"
+  ],
+  "description": "About Hightouch\n\nHightouch is the modern AI platform for marketing and growth\nteams. Our AI agents reimagine marketing workflows, allowing\nmarketers to create content, plan campaigns, and execute\nstrategies with transformational velocity and performance.\n\nHightouch is a rare company built on the intersection of two\nfundamental technological shifts: advances in LLMs and\nagentic AI, and the creation and rapid adoption of cloud\ndata warehouses like Snowflake and Databricks. Building on\nthese tailwinds, we’ve become a leader in AI marketing and\npartner with industry leaders like Domino’s, Chime, Spotify,\nRamp, Whoop, Grammarly, and over 1000 others.\n\nOur team focuses on making a meaningful impact for our\ncustomers. We approach challenges with first-principles\nthinking, move quickly and efficiently, and treat each other\nwith compassion and kindness. We look for team members who\nare strong communicators, have a growth mindset, and are\nmotivated and persistent in achieving our goals.\n\nAbout the Role\n\nWe’re looking to add a product-minded AI engineer to the\nteam. The ideal candidate will have strong customer and\nproduct thinking, and the ability to be highly creative with\nLLM applications. We are looking for someone who can both\nrapidly prototype and architect production LLM pipelines.\n\nExample workstreams include:\n\n- Quickly iterating and developing proofs of concept (POCs) to\n  explore the maximum potential of integrating AI into data\n  and marketing workflows\n- Making key decisions about the choice of AI architecture and\n  frameworks\n- Building production data agents that can make use of a\n  company’s data to seamlessly answer analytics and data\n  science questions about their users and marketing efforts\n- Developing a deep understanding of user workflows to create\n  seamless AI-assisted user experiences\n\nWe're seeking talented, intellectually curious, and\nmotivated individuals interested in exploring the forefront\nof AI. While no prior experience with LLMs and AI is\nrequired, strong technical skills, particularly in backend\narchitecture, and product intuition are essential for\nunderstanding and executing these projects from start to\nfinish.\n\nThis is a senior role, but we focus on impact and potential\nfor growth more than years of experience. The salary range\nfor this position is $180,000 - $320,000 USD per year, which\nis location independent in accordance with our remote-first\npolicy.\n\nInterview Process\n\nOur interview process focuses on evaluating fit for the most\nimportant dimensions of the role: product sense and\ncreativity with LLMs, ability to architect backend systems,\nand alignment with Hightouch’s values. Notably, we don’t do\nany programming interviews as we believe they are low signal\nto noise and aren’t a good evaluation mechanism.\n\n- Recruiter Screen [30m]: Introductory call with our\n  recruiting team to get to know each other and see if the\n  role could be a good mutual fit.\n- System Design Screen [60m]: Designing a data processing\n  feature end-to-end.\n- Hiring Manager Interview [30m]: Chat with hiring manager\n  about past experiences and future operating preferences to\n  assess fit on company values and operating principles.\n- Agent Building Systems Interview [75m]: Work with the\n  interviewer to architect an agentic system at a conceptual\n  level. The problem will be at a pretty high level - and\n  have both product and customer requirements as well as\n  technical.\n\nWe have limited inbound applications to one application per\ncandidate. You will be auto-rejected if you apply to\nmultiple roles. Please only apply to the position you are\nmost qualified for.\n\nE-Verify Statement\n\nHightouch participates in E-Verify. We will provide the\nSocial Security Administration, and if necessary, the\nDepartment of Homeland Security, with information from each\nnew employee’s Form I-9 to confirm work authorization.\nPlease note that we do not use this information to pre-\nscreen job applicants.\n\nE-Verify Notice E-Verify Notice (Spanish) Right to Work\nNotice Right to Work Notice (Spanish)\n",
+  "skills_required": [
+    "AI agents",
+    "LLM application development",
+    "LangChain",
+    "Product thinking",
+    "Prompt engineering",
+    "RAG",
+    "System design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Rapidly prototype and develop proofs of concept exploring AI integration into data and marketing workflows",
+    "Make key architectural decisions about AI frameworks and system design",
+    "Build production data agents that leverage company data to answer analytics and data science questions",
+    "Develop deep understanding of user workflows to create seamless AI-assisted user experiences",
+    "Architect and implement production LLM pipelines from end to end",
+    "Iterate quickly on LLM-powered features to explore maximum potential of AI in marketing"
+  ],
+  "use_cases": [
+    "AI-powered marketing content creation and campaign planning",
+    "Data agents for answering analytics and data science questions about users and marketing efforts",
+    "AI-assisted marketing workflow automation",
+    "LLM-driven campaign strategy execution"
+  ],
+  "tools_mentioned": [
+    "Backend architecture",
+    "Databricks",
+    "REST APIs",
+    "Snowflake"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "LLM application development",
+    "LangChain",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building AI agents and LLM\npipelines for production use. The engineer will architect\nagentic systems, develop proofs of concept with LLMs, build\nproduction data agents, and make key decisions about AI\narchitecture and frameworks. This is hands-on work building\nand deploying AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM application development",
+      "AI agents",
+      "Prompt engineering",
+      "LangChain",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "Backend architecture",
+      "REST APIs"
+    ],
+    "databases": [
+      "Snowflake"
+    ],
+    "data": [
+      "Databricks"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "System design",
+      "Product thinking"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

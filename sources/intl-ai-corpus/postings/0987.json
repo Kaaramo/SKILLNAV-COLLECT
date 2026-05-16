@@ -1,0 +1,174 @@
+{
+  "job_id": "intl-ai-corpus-0987",
+  "source": "intl-ai-corpus",
+  "source_ref": "7908858",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/7908858",
+  "title": "Senior Software Engineer AI Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Kong",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "800 Employees",
+  "company_stage": "Series D",
+  "company_focus": "API and AI connectivity platform for enterprises",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Information Technology",
+    "Software",
+    "Big Data Analytics"
+  ],
+  "description": "Are you ready to power the World's connections?\n\nIf you don’t think you meet all of the criteria below but\nare still interested in the job, please apply. Nobody checks\nevery box - we’re looking for candidates that are\nparticularly strong in a few areas, and have some interest\nand capabilities in others.\n\nAbout the role:\n\nThe Senior AI/ML Engineer will be a key contributor to\nKong's AI Platform team, focusing on data pipelines,\nknowledge systems, and vector search infrastructure. You'll\nbuild the data foundation that powers our AI capabilities,\nincluding documentation ingestion, semantic search,\nembedding pipelines, and knowledge base management. This\nrole requires expertise in vector databases, embedding\nmodels, document processing, and MLOps practices. You'll\nensure our AI systems have access to high-quality, privacy-\ncompliant data that enables accurate and relevant responses.\n\nWhat you'll do:\n\n- Design and implement documentation ingestion pipelines for\n  AWS Bedrock Knowledge Base and other vector stores.\n- Build semantic chunking and document processing systems\n  optimized for retrieval quality and context preservation.\n- Develop vector embedding pipelines with hybrid search\n  strategies combining semantic and keyword search.\n- Create real-time telemetry collection systems for model\n  monitoring, performance tracking, and quality assurance.\n- Implement data anonymization and PII detection systems to\n  ensure privacy-compliant AI operations.\n- Build automated knowledge base refresh and quality\n  monitoring systems for maintaining data freshness.\n- Design and implement feature stores for model inputs, prompt\n  variables, and contextual information.\n- Develop training data curation pipelines for future fine-\n  tuning and model improvement initiatives.\n- Optimize vector indexes and database performance for low-\n  latency retrieval at scale.\n- Create metadata enrichment and entity extraction pipelines\n  to enhance search relevance.\n- Build streaming data pipelines for real-time data ingestion\n  and processing.\n- Collaborate with AI engineers to optimize retrieval\n  strategies and improve RAG system performance.\n- Establish best practices for data quality, privacy\n  compliance, and GDPR-compliant data handling.\n- Work with platform engineers to deploy and scale data\n  infrastructure on AWS.\n\nWhat you'll bring:\n\n- 5+ years of professional software engineering experience\n  with 4+ years focused on ML/AI engineering and data\n  pipelines.\n- Strong experience with vector databases such as Pinecone,\n  Weaviate, Qdrant, OpenSearch, or similar technologies.\n- Deep knowledge of embedding models including OpenAI Ada-3,\n  Cohere, BGE, E5, and understanding of when to use each.\n- Expertise in document processing, chunking strategies, and\n  optimizing retrieval quality.\n- Proficiency in both Python (for ML workflows) and Go (for\n  production systems).\n- Experience with MLOps tools and platforms such as Weights &\n  Biases, MLflow, Kubeflow, or similar.\n- Strong knowledge of streaming data systems like Kafka,\n  Kinesis, or similar technologies.\n- Understanding of GDPR, privacy regulations, and privacy-\n  compliant data handling practices.\n- Experience with knowledge graphs, semantic technologies, or\n  ontology management.\n- Background in information retrieval, search relevance, and\n  ranking algorithms.\n- Experience with data transformation and ETL/ELT pipelines at\n  scale.\n- Strong understanding of SQL and NoSQL databases for data\n  storage and retrieval.\n- Knowledge of AWS data services (S3, DynamoDB, RDS, Kinesis,\n  Glue).\n- Experience with experiment tracking and feature engineering\n  for ML models.\n\nBonus Points:\n\n- Experience with AWS Bedrock Knowledge Base or similar\n  managed vector search services.\n- Knowledge of hybrid search algorithms combining dense and\n  sparse retrieval.\n- Experience with reranking models and cross-encoders for\n  retrieval optimization.\n- Familiarity with prompt compression and context window\n  optimization techniques.\n- Experience with synthetic data generation for training and\n  evaluation.\n- Knowledge of named entity recognition (NER) and information\n  extraction systems.\n- Experience with graph databases (Neo4j, Amazon Neptune) or\n  knowledge graph construction.\n- Background in natural language processing (NLP) or\n  computational linguistics.\n- Experience with data versioning tools (DVC, Pachyderm) and\n  reproducible ML pipelines.\n- Knowledge of model serving infrastructure (Seldon, KServe,\n  BentoML).\n- Experience with distributed computing frameworks (Spark,\n  Ray, Dask).\n- Understanding of semantic similarity metrics and evaluation\n  frameworks.\n- Experience with A/B testing frameworks and causal inference\n  methods.\n- Familiarity with data governance and lineage tracking tools.\n- Contributions to open-source ML/data engineering projects.\n- Experience with Kubernetes and containerized data pipelines.\n\n#LI-AP1\n\nAbout Kong:\n\nKong Inc., a leading developer of API and AI connectivity\ntechnologies, is building the infrastructure that powers the\nagentic era. trusted by the Fortune 500 and startups alike,\nKong's unified API and AI platform, Kong Konnect, enables\norganizations to secure, manage, accelerate, govern, and\nmonetize the flow of intelligence across APIs and AI models.\nFor more information, visit www.konghq.com.\n",
+  "skills_required": [
+    "BGE embeddings",
+    "Cohere embeddings",
+    "E5 embeddings",
+    "Embedding models",
+    "OpenAI Ada-3",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement documentation ingestion pipelines for AWS Bedrock Knowledge Base and other vector stores",
+    "Build semantic chunking and document processing systems optimized for retrieval quality and context preservation",
+    "Develop vector embedding pipelines with hybrid search strategies combining semantic and keyword search",
+    "Create real-time telemetry collection systems for model monitoring, performance tracking, and quality assurance",
+    "Implement data anonymization and PII detection systems to ensure privacy-compliant AI operations",
+    "Build automated knowledge base refresh and quality monitoring systems for maintaining data freshness",
+    "Design and implement feature stores for model inputs, prompt variables, and contextual information",
+    "Develop training data curation pipelines for future fine-tuning and model improvement initiatives",
+    "Optimize vector indexes and database performance for low-latency retrieval at scale",
+    "Collaborate with AI engineers to optimize retrieval strategies and improve RAG system performance"
+  ],
+  "use_cases": [
+    "Documentation ingestion and semantic search for AI systems",
+    "Vector search infrastructure for RAG applications",
+    "Knowledge base management for AI-powered responses",
+    "Privacy-compliant data handling for AI operations",
+    "Training data curation for model fine-tuning",
+    "Real-time data streaming and processing for AI platforms"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock Knowledge Base",
+    "AWS Glue",
+    "Amazon Neptune",
+    "Dask",
+    "Docker",
+    "Document processing",
+    "DynamoDB",
+    "ETL pipelines",
+    "Kafka",
+    "Kinesis",
+    "Knowledge graphs",
+    "Kubeflow",
+    "Kubernetes",
+    "MLflow",
+    "Neo4j",
+    "NoSQL databases",
+    "OpenSearch",
+    "Pinecone",
+    "Qdrant",
+    "RDS",
+    "Ray",
+    "S3",
+    "Spark",
+    "Vector search",
+    "Weaviate",
+    "Weights & Biases"
+  ],
+  "frameworks_mentioned": [
+    "BGE embeddings",
+    "Cohere embeddings",
+    "E5 embeddings",
+    "Embedding models",
+    "OpenAI Ada-3",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building data infrastructure and\npipelines that support AI systems rather than directly\nbuilding, training, or deploying AI models. The engineer\nwill work on ingestion pipelines, vector search\ninfrastructure, and data quality systems that enable AI\nengineers to build RAG applications, but won't be hands-on\nwith model development, fine-tuning, or deployment\nthemselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI Ada-3",
+      "Cohere embeddings",
+      "RAG"
+    ],
+    "ml": [
+      "BGE embeddings",
+      "E5 embeddings",
+      "Embedding models"
+    ],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "OpenSearch",
+      "DynamoDB",
+      "RDS",
+      "NoSQL databases",
+      "Neo4j",
+      "Amazon Neptune",
+      "Vector search"
+    ],
+    "data": [
+      "Kafka",
+      "Kinesis",
+      "Spark",
+      "Ray",
+      "Dask",
+      "Document processing",
+      "ETL pipelines",
+      "Knowledge graphs"
+    ],
+    "cloud": [
+      "AWS Bedrock Knowledge Base",
+      "S3",
+      "AWS Glue"
+    ],
+    "ops": [
+      "Weights & Biases",
+      "MLflow",
+      "Kubeflow",
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

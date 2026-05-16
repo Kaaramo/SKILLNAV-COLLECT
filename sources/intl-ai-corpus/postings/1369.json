@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-1369",
+  "source": "intl-ai-corpus",
+  "source_ref": "8419075",
+  "source_url": "https://builtin.com/job/staff-applied-ai-engineer/8419075",
+  "title": "Staff Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Genius Sports",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-05",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,800 Employees",
+  "company_stage": "Public",
+  "company_focus": "Sports data and fan engagement platform",
+  "industries": [
+    "AdTech",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Marketing Tech",
+    "Software",
+    "Sports",
+    "Big Data Analytics"
+  ],
+  "description": "By bringing together next-gen technology and the finest live\ndata available, Genius Sports is enabling a new era of\nsports for fans worldwide, delivering experiences that are\nmore immersive, interactive and personalized than ever\nbefore. Learn more at geniussports.com. \n\nAbout the Role\n\nWe are looking for a Staff Applied AI Engineer to own the\narchitecture of our multi-agent LLM reasoning layer that\nturns multimodal evidence (audio + video context +\ntranscripts + rules) into validated outputs across our\nproducts. You will define how agents are decomposed,\norchestrated, evaluated, and safely promoted into real-time\nproduction while balancing accuracy, latency, and cost.\n\nYou will be trusted to take on complex, ambiguous problems\nand drive them to successful outcomes, applying best\npractices in Agile software development along the way. We\nvalue engineers who can adapt quickly, learn new\ntechnologies as needed, and focus on delivering meaningful\nimpact rather than being constrained by specific languages\nor frameworks.\n\nWe will lean on your technical leadership, pragmatic\ndecision-making, and ability to balance short-term delivery\nwith long-term system health. You will work in an\nenvironment that prioritizes Agile principles, continuous\nimprovement, and data-driven decision-making. You are\ncomfortable forming and testing hypotheses, validating\nassumptions through experimentation, and using evidence to\nguide architectural and product decisions.\n\nKey Responsibilities\n\n- Own the end-to-end technical direction for the multi-agent,\n  multimodal platform that converts broadcast/radio inputs\n  into validated, structured outputs from prototype to\n  production.\n- Design and evolve the agent architecture (agent boundaries,\n  interfaces, and orchestration patterns), including\n  evidence fusion, traceability/provenance, and schema-first\n  outputs with versioning and backward compatibility.\n- Define reliability standards for probabilistic systems:\n  confidence scoring and gating, escalation paths for low-\n  confidence segments (including optional human-in-the-\n  loop), and safe correction/overwrite semantics for live\n  outputs.\n- Drive performance and cost optimization, selecting routing\n  strategies (lightweight vs heavy models), and implementing\n  batching/caching/retries that keep quality stable under\n  real-time constraints.\n- Partner across product, platform, and domain experts to\n  translate ambiguous sport scenarios into system logic.\n- Champion continuous improvement by evaluating new\n  technologies, tools, and approaches where they provide\n  clear value.\n- Mentor and coach engineers across teams, supporting\n  technical growth and raising the overall engineering bar.\n\nQualifications \n\n- 10+ years of software engineering experience, including\n  owning architecture for complex distributed or data-\n  intensive systems.\n- Proven ability to lead through influence: align\n  stakeholders, set technical direction, and drive ambiguous\n  projects to outcomes.\n- Deep experience with agentic/LLM application architecture\n  (tool use, structured outputs, routing)\n- Proven experience with different LLM platforms, including\n  but not limited to ChatGPT, Gemini and Claude.\n- Strong understanding of MCP and RAG with production\n  implementation experience.\n- Extensive experience designing and working with RESTful APIs\n  and distributed services.\n- Experience using version control systems (e.g. Git) in\n  collaborative, multi-team environments.\n- Proven ability to solve complex problems and make sound\n  technical decisions in ambiguous situations.\n- Ability to work independently while also leading and\n  influencing teams without formal authority.\n- Excellent communication skills, with the ability to explain\n  complex technical concepts to diverse audiences.\n\nPreferred Qualifications \n\n- Hands-on experience with multimodal systems\n  (audio/video/text).\n- Background in reliability engineering / test engineering\n  applied to ML/LLM systems.\n- Experience with multiple architectural and software\n  frameworks.\n- Experience working in container based environments (e.g.\n  Docker, Kubernetes)\n- Knowledge of modern build pipelines and tools.\n- Familiarity with Agile development methodologies.\n- Experience with testing frameworks.\n\nThe salary for this role is based on an annualized range of\n$230,000 - $270,000 USD. This role will also be eligible to\ntake part in Genius Sports Group's benefits plan.\n\nWe enjoy an ‘office-first’ culture and maximize\nopportunities to collaborate, connect and learn together.\nOur hybrid working models differ depending on your role and\nlocation. Occasional travel may be required.\n\nAs well as a competitive salary and range of benefits, we’re\ncommitted to supporting employee wellbeing and helping you\ngrow your skills, experience and career. Learn more about\nhow rewarding life at Genius can be at Reward | Genius\nSports. One team, being brave, driving change \n\nWe strive to create an inclusive working environment, where\neveryone feels a sense of belonging and the ability to make\na difference. Learn more about our values and culture at\nCulture | Genius Sports.\n\nLet us know when you apply if you need any assistance during\nthe recruiting process due to a disability.\n",
+  "skills_required": [
+    "LLM application architecture",
+    "MCP (Model Context Protocol)",
+    "Multi-agent systems",
+    "Multimodal AI",
+    "Prompt engineering",
+    "RAG (Retrieval-Augmented Generation)",
+    "Structured outputs",
+    "Tool use/function calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own the end-to-end technical direction for the multi-agent, multimodal platform that converts broadcast/radio inputs into validated, structured outputs from prototype to production",
+    "Design and evolve the agent architecture including agent boundaries, interfaces, orchestration patterns, evidence fusion, traceability/provenance, and schema-first outputs",
+    "Define reliability standards for probabilistic systems including confidence scoring, gating, escalation paths, and safe correction semantics",
+    "Drive performance and cost optimization through model routing strategies, batching, caching, and retries under real-time constraints",
+    "Partner across product, platform, and domain experts to translate ambiguous sport scenarios into system logic",
+    "Champion continuous improvement by evaluating new technologies, tools, and approaches where they provide clear value",
+    "Mentor and coach engineers across teams, supporting technical growth and raising the overall engineering bar"
+  ],
+  "use_cases": [
+    "Convert broadcast and radio inputs into validated structured outputs in real-time",
+    "Analyze multimodal sports data including audio, video, transcripts, and rules",
+    "Generate structured, schema-first outputs with versioning for sports analytics",
+    "Apply multi-agent reasoning to complex sports scenarios and decisions",
+    "Provide confidence scoring and human-in-the-loop escalation for uncertain outputs"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Distributed systems",
+    "Docker",
+    "Git",
+    "Kubernetes",
+    "RESTful APIs"
+  ],
+  "frameworks_mentioned": [
+    "LLM application architecture",
+    "MCP (Model Context Protocol)",
+    "Multi-agent systems",
+    "Multimodal AI",
+    "Prompt engineering",
+    "RAG (Retrieval-Augmented Generation)",
+    "Structured outputs",
+    "Tool use/function calling"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, deploying, and\narchitecting a multi-agent LLM system. The engineer owns the\nmulti-agent LLM reasoning layer, designs agent orchestration\npatterns, implements RAG and tool use, and deploys these\nsystems to production with real-time constraints. This is\nhands-on work with models and agents, not just support\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM application architecture",
+      "Multi-agent systems",
+      "RAG (Retrieval-Augmented Generation)",
+      "MCP (Model Context Protocol)",
+      "Structured outputs",
+      "Tool use/function calling",
+      "Multimodal AI",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "RESTful APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Distributed systems",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "CI/CD"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

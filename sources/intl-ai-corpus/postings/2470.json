@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-2470",
+  "source": "intl-ai-corpus",
+  "source_ref": "8904868",
+  "source_url": "https://builtin.com/job/ai-infrastructure-specialist/8904868",
+  "title": "AI Infrastructure Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "vCluster",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "77 Employees",
+  "company_stage": "Venture-backed startup (raised $30M+, likely Series A)",
+  "company_focus": "Kubernetes virtualization platform for GPU infrastructure in\nthe AI era",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "As vCluster’s AI Infrastructure Specialist, you will work\ndirectly with customers at the earliest and most critical\nstage of their journey: from bare metal GPU nodes through to\na production-ready deployment. This is not a traditional\nprofessional services role; you operate pre-sale as part of\na proof of value engagement scoped to reach production. You\nwill be one of the first team members a neocloud or AI\nFactory engages with at a technical depth, and the playbooks\nyou develop will scale the motion for the next hire and\ncustomer.\n\nvCluster is gaining rapid traction with GPU AI Clouds and\nenterprises building AI Factories: organizations that need\nto offer Kubernetes as a managed service on bare metal GPU\ninfrastructure, and need to do it fast. This role exists to\nmake that happen.\n\nAs an AI Infrastructure Engineer, your role will include:\n\n- Lead Technical Deployments: Drive end-to-end technical\n  deployments for GPU neocloud and AI Factory customers,\n  from initial bare metal configuration to a validated\n  vCluster environment.\n- Infrastructure Optimization: Configure and troubleshoot bare\n  metal GPU node infrastructure, including CNI\n  configuration, GPU Operator setup, distributed storage\n  backends, and RDMA/InfiniBand.\n- Validation: Deploy and validate Kubernetes and vCluster to\n  provide GPU-powered managed K8s.\n- Knowledge Transfer: Work alongside customer teams to build\n  self-sufficiency, ensuring they can operate and grow the\n  platform independently.\n- Scaling through Documentation: Document reusable playbooks\n  and deployment architectures so your learnings become the\n  next customer's head start.\n- Feedback Loop: Collaborate with Engineering and Product to\n  surface recurring infrastructure challenges, acting as a\n  direct feedback loop from the field into the roadmap.\n- Strategic Partnering: Join Sales in the pre-sales process\n  where deep infrastructure work is required to achieve a\n  meaningful proof of value.\n\nThis role could be a fit for you if you bring:\n\n- Production K8s Mastery: 5+ years of experience deploying and\n  operating Kubernetes in production, ideally on bare metal\n  or in high-complexity environments.\n- GPU Fluency: Practical knowledge of NVIDIA GPU Operators,\n  CUDA tooling, and systems-level configuration for GPU\n  nodes.\n- Networking Fundamentals: Deep understanding of CNI plugins,\n  overlay networks, load balancing, and connectivity\n  diagnosis in layered environments.\n- Storage Expertise: Experience with persistent volume\n  configuration, CSI drivers, and distributed systems like\n  Ceph, Rook, Weka, or Longhorn.\n- Operational Agility: Comfort operating in ambiguous, fast-\n  moving environments where you are often writing the\n  playbook in real time.\n- Modern Tech Mindset: You thrive in environments that reject\n  legacy tech and prefer a modern stack where you can solve\n  a variety of problems from pipelines to internal services.\n\nBonus points for:\n\n- Automation Skills: Experience writing automation scripts\n  with Bash, Python, or Go.\n- Kubernetes Depth: Relevant certifications such as CKA\n  (Certified Kubernetes Administrator) or experience writing\n  Kubernetes Operators.\n- AI/ML Familiarity: Experience with inference serving, GPU\n  scheduling, and the tooling around LLM deployment.\n- Documentation: Experience building AI Automation in\n  documentation to contribute to a shared knowledge base.\n\nAbout vCluster Labs\n\nWe are a venture-backed tech startup and the company\npioneering Kubernetes virtualization for the AI era. We\nraised +$30M from top-tier VCs such as Khosla Ventures\n(first investor in OpenAI, GitLab, Stripe, Doordash) and are\nin a hyper-growth phase looking for motivated people to\ncomplement our team. Our headquarters are in San Francisco\n(Salesforce Tower), but our team is distributed around the\nglobe and we have a remote-first work culture.\n\nWe are the leading platform for operating GPU\ninfrastructure, enabling AI Cloud providers to deliver a\nhyperscaler-like experience to their customers and AI\nfactories that need to build that same experience for their\ninternal teams. Our platform delivers the full operational\nstack operators need to run their GPU data centers — managed\nKubernetes, fast isolated tenant provisioning, and automated\nnode provisioning and lifecycle management — enabling them\nto accelerate time to value, reduce operational burden, and\nmaximize the ROI of every GPU.\n\nWe're the company behind vCluster, an open-source technology\nfor virtualizing Kubernetes (10k+ GitHub stars, 40M+ virtual\nclusters created since 2021). Open source is part of our\nDNA. At KubeCon North America 2025, we launched our\nInfrastructure Tenancy Platform for AI — a Kubernetes-native\nframework purpose-built for running AI, ML, and GPU-\nintensive workloads anywhere, with an NVIDIA-validated\nreference architecture for DGX systems.\n\nBenefits\n\nWe offer the following benefits:\n\n- Competitive Salary: We offer a competitive compensation\n  package, including equity.\n- Platinum-Level Insurance: Health, dental, vision, and life\n  Insurance, including plans for you and eligible dependents\n  (benefits vary depending on country).\n- Flexible Working Schedule:  You have a doctor’s appointment\n  or need to head to the supermarket to get groceries at\n  2pm? We won’t have an issue with that. To us, results\n  matter more than clocking in and out at the same time\n  every day.\n- Workplace Flexibility:  We’re very flexible about where you\n  work. We know things can change in life and we’re happy to\n  adjust the work environment for you along the way.\n\nCulture & Values\n\nAt vCluster Labs, we value and stand for:\n\n- Make it Happen: We have a relentless bias for action and the\n  grit to push through obstacles. We do whatever it takes to\n  figure it out, put in the work, and ruthlessly prioritize\n  the actions that drive measurable impact for the business.\n- Own the Outcome: We understand that our responsibility\n  doesn't end when a task is checked off; it ends when the\n  value is delivered. We connect our daily individual\n  actions to the broader success of the company and our\n  customers.\n- Create Wow: We measure success by the experience we\n  generate, both inside and outside the company. For our\n  customers, this means impressive speed and intuitive\n  experiences. For our team, this means going the extra mile\n  to support one another and to continuously drive each\n  other to new heights.\n- Open Source, Open Mind: We are actively contributing to and\n  maintaining open-source projects. Internally, we foster\n  meritocracy — the strongest ideas win, no matter who or\n  where they come from.\n- Build Tomorrow’s Standards, Intentionally: We don't just\n  ship software; we define the state-of-the-art of tomorrow.\n  We are fearless in tearing down old approaches to build\n  something better, but we are disciplined in how we do it\n  because we know our users rely on our technology to run\n  mission-critical infrastructure platforms.\n",
+  "skills_required": [
+    "CUDA",
+    "LLM deployment tooling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead end-to-end technical deployments for GPU neocloud and AI Factory customers from bare metal to validated vCluster environments",
+    "Configure and troubleshoot bare metal GPU node infrastructure including CNI, GPU Operator, distributed storage, and RDMA/InfiniBand",
+    "Deploy and validate Kubernetes and vCluster to deliver GPU-powered managed Kubernetes services",
+    "Conduct knowledge transfer with customer teams to build operational self-sufficiency",
+    "Document reusable playbooks and deployment architectures for scalable customer onboarding",
+    "Collaborate with Engineering and Product teams to relay field insights into the product roadmap",
+    "Support pre-sales technical engagements requiring deep infrastructure expertise for proof of value"
+  ],
+  "use_cases": [
+    "GPU cloud provider managed Kubernetes services on bare metal infrastructure",
+    "AI Factory internal platform operations for GPU-intensive workloads",
+    "Bare metal GPU node provisioning and lifecycle management",
+    "Tenant isolation and fast provisioning for multi-tenant GPU data centers",
+    "Kubernetes-native infrastructure for running AI/ML and GPU workloads"
+  ],
+  "tools_mentioned": [
+    "CKA",
+    "CNI plugins",
+    "CSI drivers",
+    "Ceph",
+    "Docker",
+    "GPU scheduling",
+    "Inference serving",
+    "Kubernetes",
+    "Kubernetes Operators",
+    "Load balancing",
+    "NVIDIA GPU Operator",
+    "Overlay networks",
+    "RDMA/InfiniBand",
+    "Rook",
+    "vCluster"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "LLM deployment tooling"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on deploying and configuring GPU\ninfrastructure (bare metal, Kubernetes, networking, storage)\nfor AI cloud providers and AI factories. The engineer works\nON the infrastructure layer that supports AI workloads, not\ndirectly on building, training, or deploying AI/ML models.\nWhile GPU fluency and AI/ML familiarity are valued, the core\nwork is infrastructure operations and customer deployments —\nenabling others to run AI workloads.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM deployment tooling"
+    ],
+    "ml": [
+      "CUDA"
+    ],
+    "web": [],
+    "databases": [
+      "Ceph",
+      "Rook"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "NVIDIA GPU Operator",
+      "CNI plugins",
+      "RDMA/InfiniBand",
+      "CSI drivers",
+      "Docker",
+      "CKA",
+      "GPU scheduling",
+      "Inference serving",
+      "vCluster",
+      "Kubernetes Operators",
+      "Load balancing",
+      "Overlay networks"
+    ],
+    "languages": [
+      "Bash",
+      "Python",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

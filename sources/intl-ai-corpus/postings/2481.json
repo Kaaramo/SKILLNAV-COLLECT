@@ -1,0 +1,137 @@
+{
+  "job_id": "intl-ai-corpus-2481",
+  "source": "intl-ai-corpus",
+  "source_ref": "8916754",
+  "source_url": "https://www.builtinla.com/job/artificial-intelligence-engineer/8916754",
+  "title": "Artificial Intelligence Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "InsightNext",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-31",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "AI consulting firm delivering enterprise AI solutions on GCP",
+  "industries": [
+    "Cloud",
+    "Consulting",
+    "Conversational AI",
+    "Generative AI",
+    "Big Data Analytics"
+  ],
+  "description": "The Opportunity\n\nWe are looking for an AI/ML Engineer who is eager to build\nreal-world AI solutions and grow within a fast-moving,\nclient-focused environment. In this role, you will work\nalongside senior engineers and data scientists to design,\ndevelop, and deploy AI applications powered by Google's\nGemini Enterprise ecosystem. You will gain hands-on\nexperience across the full delivery lifecycle — from data\npreparation and model development to deployment and ongoing\noptimization — while contributing directly to client\noutcomes.\n\nThis is an ideal role for someone who has a solid foundation\nin machine learning and wants to deepen their expertise in\nenterprise-grade generative AI on Google Cloud Platform\n(GCP).\n\n\n\nWhat You Will Do\n\n- Build and integrate AI solutions using Gemini Enterprise,\n  including Gemini for Workspace, Vertex AI Agent Builder,\n  and the Gemini API, to address real client business needs.\n- Develop, fine-tune, and evaluate machine learning models\n  using frameworks such as PyTorch and Scikit-Learn, under\n  the guidance of senior team members.\n- Support the design and implementation of data pipelines and\n  preprocessing workflows to ensure high-quality inputs for\n  model training and inference.\n- Assist in deploying and monitoring models on GCP using\n  Vertex AI, maintaining performance standards and flagging\n  issues such as data drift or degradation.\n- Work with structured and unstructured data - including text,\n  documents, and multimodal inputs — to build Gemini-powered\n  applications such as search, summarization, and Q&A\n  systems.\n- Collaborate with client-facing team members to understand\n  requirements, document technical approaches, and\n  contribute to solution design discussions.\n- Stay current with developments in the Gemini ecosystem and\n  broader generative AI landscape, bringing new ideas and\n  approaches to the team.\n",
+  "skills_required": [
+    "Gemini API",
+    "Model Evaluation",
+    "Model Fine-Tuning",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "Scikit-Learn",
+    "Vertex AI Agent Builder"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and integrate AI solutions using Gemini Enterprise, Vertex AI Agent Builder, and Gemini API to address client business needs",
+    "Develop, fine-tune, and evaluate machine learning models using PyTorch and Scikit-Learn",
+    "Design and implement data pipelines and preprocessing workflows for model training and inference",
+    "Deploy and monitor models on GCP using Vertex AI, tracking performance and flagging data drift or degradation",
+    "Build Gemini-powered applications including search, summarization, and Q&A systems using structured and unstructured data",
+    "Collaborate with client-facing team members on requirements gathering and solution design",
+    "Stay current with Gemini ecosystem and generative AI developments to bring new ideas to the team"
+  ],
+  "use_cases": [
+    "Enterprise search powered by Gemini",
+    "Document summarization systems",
+    "Q&A systems over enterprise data",
+    "Multimodal AI applications processing text, documents, and other inputs",
+    "Client-specific AI solutions addressing real business needs"
+  ],
+  "tools_mentioned": [
+    "Data Pipelines",
+    "Docker",
+    "ETL",
+    "Google Cloud Platform (GCP)",
+    "Model Monitoring",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "Gemini API",
+    "Model Evaluation",
+    "Model Fine-Tuning",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "Scikit-Learn",
+    "Vertex AI Agent Builder"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, fine-tuning, and\ndeploying AI/ML models and generative AI solutions using\nGemini Enterprise, Vertex AI, and frameworks like PyTorch.\nThe engineer works hands-on across the full AI delivery\nlifecycle including model development, fine-tuning, and\ninference — clearly placing it in the ai-first category.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Gemini API",
+      "Vertex AI Agent Builder",
+      "Prompt Engineering",
+      "RAG"
+    ],
+    "ml": [
+      "PyTorch",
+      "Scikit-Learn",
+      "Model Fine-Tuning",
+      "Model Evaluation"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Data Pipelines",
+      "ETL"
+    ],
+    "cloud": [
+      "Google Cloud Platform (GCP)",
+      "Vertex AI"
+    ],
+    "ops": [
+      "Docker",
+      "Model Monitoring"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

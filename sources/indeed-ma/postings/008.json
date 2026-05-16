@@ -1,0 +1,48 @@
+{
+  "job_id": "indeed-ma-2026-008",
+  "source": "indeed-ma",
+  "source_url": "https://ma.indeed.com/viewjob?jk=a8beff1a550a90c4",
+  "source_ref": "a8beff1a550a90c4",
+  "title": "Data Scientist / ML Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Coface",
+  "company_type": "entité morale privée",
+  "location": "Casablanca",
+  "country": "MA",
+  "remote_policy": "on-site",
+  "posted_date": "2026-05-14",
+  "deadline_date": null,
+  "contract_type": "CDI",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "description": "Titre: Data Scientist / ML Engineer\nEntreprise: Coface (note: doublon Rekrute 181033, jk Indeed = a8beff1a550a90c4)\nLieu: Casablanca - Maroc\nType: Temps plein\nURL: https://ma.indeed.com/viewjob?jk=a8beff1a550a90c4\nNote: même contenu que Rekrute 181033 — Data Lab Coface Paris/Toronto/Casablanca, ~30 personnes, Python+React+Java, Docker/Kubernetes, Apache Airflow, Cloud. Use cases : scoring défaillance, extraction info docs/images, knowledge graphs, moteur recherche entreprises, simulations financières.\n",
+  "skills_required": [
+    "Python",
+    "Java",
+    "Docker",
+    "Kubernetes",
+    "Airflow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "Airflow"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "Java"
+  ],
+  "domains_iaml": [],
+  "job_family": "ML_ENGINEER",
+  "scraped_at": "2026-05-14T21:30:00Z",
+  "scraper": "skillnav-playwright-mcp-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.92,
+  "extraction_method": "playwright + detail extraction",
+  "query_used": "data scientist"
+}

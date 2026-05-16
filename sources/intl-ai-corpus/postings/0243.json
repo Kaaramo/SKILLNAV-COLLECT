@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0243",
+  "source": "intl-ai-corpus",
+  "source_ref": "7569470",
+  "source_url": "https://builtin.com/job/ai-engineer-london/7569470",
+  "title": "AI Engineer, London",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Eloquent AI",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "11 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Multimodal AI operators for enterprise automation",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Analytics",
+    "Financial Services"
+  ],
+  "description": "Meet Eloquent AI\n\nAt Eloquent AI, we’re building the next generation of AI\nOperators—multimodal, autonomous systems that execute\ncomplex workflows across fragmented tools with human-level\nprecision. Our technology goes far beyond chat: it sees,\nreads, clicks, types, and makes decisions—transforming how\nwork gets done in regulated, high-stakes environments.\n\nWe’re already powering some of the world’s leading financial\ninstitutions and insurers, fundamentally changing how\nmillions of people manage their finances every day. From\nautomating compliance reviews to handling customer\noperations, our Operators are quietly replacing repetitive,\nmanual tasks with intelligent, end-to-end execution.\n\nHeadquartered in San Francisco with a global footprint,\nEloquent AI is a fast-growing company backed by top-tier\ninvestors. Join us to work alongside world-class talent in\nAI, engineering, and product as we redefine the future of\nfinancial services.\n\nAs an AI Engineer at Eloquent AI, you will be at the\nforefront of building and scaling AI-powered applications,\ntransforming how enterprises interact with intelligent\nagents. You’ll work across the entire stack, developing\nhigh-performance front-end experiences and scalable back-end\nsystems that power real-time AI-driven workflows.\n\nThis role requires strong software engineering skills, a\ndeep understanding of full-stack development, and the\nability to work in a fast-paced, AI-first environment.\nYou’ll collaborate with engineers, AI researchers, and\nproduct teams to build enterprise-grade solutions that\nenable seamless AI-human interactions.\n\nYou will:\n\n- Design and build full-stack applications that power AI-\n  driven workflows for enterprise users.\n- Develop high-performance front-end interfaces for AI agent\n  control, monitoring, and visualization.\n- Build scalable backend services that support real-time AI\n  interactions, knowledge retrieval, and automation.\n- Optimize AI-powered UIs to ensure seamless and intuitive\n  user experiences.\n- Work closely with AI researchers and ML engineers to\n  integrate LLMs, Retrieval-Augmented Generation (RAG), and\n  automation into production-ready applications.\n- Ship robust, minimal-dependency code that performs\n  efficiently in enterprise environments.\n- Continuously iterate and refine AI-driven products,\n  balancing user needs with technical feasibility.\n\nRequirements\n\n- 2-5 years of hands-on experience building full-stack\n  production applications.\n- Proficiency in modern web technologies, including React,\n  TypeScript, and Node.js.\n- Experience with backend development using Python, Go, or\n  similar languages.\n- Strong knowledge of cloud infrastructure (AWS, GCP, or\n  Azure) and scalable architectures.\n- Understanding of AI-powered applications, including LLMs,\n  chat interfaces, and agentic workflows.\n- Ability to work in a fast-paced, high-autonomy environment,\n  solving complex problems and delivering impact.\n- Strong collaboration skills, with experience working in\n  cross-functional teams with engineers, designers, and AI\n  researchers.\n\nBonus Points If…\n\n- You have experience building AI-powered applications with\n  LLM integrations.\n- You’ve worked in high-performance startups or enterprise AI\n  environments.\n- You have a sharp eye for UI/UX design and have built\n  intuitive, AI-driven interfaces.\n- You have experience with GraphQL, WebSockets, or real-time\n  data streaming.\n- You’ve contributed to open-source projects or have built\n  developer tools for AI.\n",
+  "skills_required": [
+    "LLMs",
+    "RAG",
+    "agentic workflows"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build full-stack applications that power AI-driven workflows for enterprise users",
+    "Develop high-performance front-end interfaces for AI agent control, monitoring, and visualization",
+    "Build scalable backend services that support real-time AI interactions, knowledge retrieval, and automation",
+    "Optimize AI-powered UIs to ensure seamless and intuitive user experiences",
+    "Work closely with AI researchers and ML engineers to integrate LLMs, RAG, and automation into production-ready applications",
+    "Ship robust, minimal-dependency code that performs efficiently in enterprise environments",
+    "Continuously iterate and refine AI-driven products, balancing user needs with technical feasibility"
+  ],
+  "use_cases": [
+    "Automating compliance reviews for financial institutions and insurers",
+    "Handling customer operations with intelligent, end-to-end execution",
+    "Replacing repetitive manual tasks with AI-powered automation in regulated environments",
+    "Executing complex workflows across fragmented tools with human-level precision",
+    "Transforming how millions of people manage their finances through AI-driven automation"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "GraphQL",
+    "Node.js",
+    "React",
+    "TypeScript",
+    "WebSockets",
+    "cloud infrastructure",
+    "full-stack development",
+    "real-time data streaming",
+    "scalable architectures"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "RAG",
+    "agentic workflows"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is primarily a full-stack software engineering role\nbuilding the applications and infrastructure that power AI\nworkflows, not directly working on models, agents, or AI\nsystems themselves. The engineer collaborates with AI\nresearchers/ML engineers to integrate LLMs and RAG into\nproduction applications, but the core work involves front-\nend interfaces, backend services, and cloud infrastructure\nthat support AI interactions rather than building, training,\nor deploying models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "agentic workflows"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "GraphQL",
+      "WebSockets",
+      "full-stack development"
+    ],
+    "databases": [],
+    "data": [
+      "real-time data streaming"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "cloud infrastructure",
+      "scalable architectures"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

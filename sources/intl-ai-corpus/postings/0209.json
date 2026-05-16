@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-0209",
+  "source": "intl-ai-corpus",
+  "source_ref": "7422988",
+  "source_url": "https://builtin.com/job/senior-backend-application-engineer-ai/7422988",
+  "title": "Senior Backend Application Engineer - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Manifest",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "36 Employees",
+  "company_stage": "early stage startup",
+  "company_focus": "AI-driven platform for software visibility and security",
+  "industries": [
+    "Artificial Intelligence",
+    "Cybersecurity"
+  ],
+  "description": "Manifest is seeking an experienced Senior Backend Engineer -\nAI with a passion for building high-performance, intelligent\nsystems that power modern AI-driven platforms. In this role,\nyou’ll lead the design and scaling of backend services and\ndata pipelines to support advanced analytics, machine\nlearning workflows, and intelligent automation across the\nplatform. You’ll work in a fast-paced, data-intensive\nenvironment where your contributions will have immediate and\nsignificant impact. The impact you will have:\n\n- Architect and implement AI-native backend infrastructure,\n  including scalable data pipelines and intelligent services\n- Partner with AI/ML teams to bring machine learning models\n  and LLMs into production at scale\n- Design resilient, high-throughput systems that enable\n  intelligent workflows and automated decision-making\n- Influence product direction and system design with a strong\n  backend perspective on AI capabilities\n- Contribute to a culture of innovation, performance, and\n  reliability across the engineering team\n\nAs a Senior Backend Engineer - AI, you will:\n\n- Build infrastructure that powers real-time AI applications\n  and intelligent APIs\n- Develop high-throughput systems that support AI/ML workloads\n  and model inference pipelines\n- Collaborate with cross-functional teams (ML engineers,\n  product, business development) to bring intelligent\n  features to production\n- Design modular, scalable architectures that support AI\n  system evolution over time\n- Contribute to performance monitoring, testing, and\n  reliability best practices in AI systems\n- Help maintain a culture of engineering excellence,\n  mentorship, and technical ownership\n\nWhat it is essential that you will bring to the team:\n\n- 8+ years of backend software engineering experience,\n  preferably with AI/ML or data-intensive systems\n- Proven success scaling distributed systems that support\n  large-scale inference, data processing, or intelligent\n  services\n- Deep understanding of data pipelines, API design, and\n  backend architecture for AI applications\n- Experience collaborating with machine learning or data\n  science teams to productize models\n- Ability to learn new technologies quickly, with a focus on\n  building systems that enable AI innovation\n- Strong communication and cross-team collaboration skills\n\nBonus but not required:\n\n- Experience deploying or scaling LLMs, fine-tuning models, or\n  integrating generative AI into products\n- Awareness of modern tooling and platforms supporting AI/ML\n  (e.g., LangChain, Hugging Face, Ray, etc.)\n- Experience with Typescript, Python, and Go\n- Experience with SQL and NoSQL databases\n\nThe benefits of working at Manifest include:\n\n- 🔍 Help organizations get new-found visibility into their\n  software, and be more secure!\n- 🌎 Fully remote work (with potential for hybrid co-working)\n- 🌴 Unlimited PTO (which we take seriously)\n- 🏥 Medical/dental/vision insurance coverage for you and your\n  dependents paid at 100%!\n- 💵 Competitive salary & meaningful stock options\n- 🏦 401(k) and retirement options\n- ⚒️ Help get in at the ground floor of a well-funded, early\n  stage startup!\n- 🦄 Additional benefits to come (retirement, holiday gifts,\n  etc.)\n",
+  "skills_required": [
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "fine-tuning",
+    "generative AI"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and implement AI-native backend infrastructure including scalable data pipelines and intelligent services",
+    "Partner with AI/ML teams to bring machine learning models and LLMs into production at scale",
+    "Build infrastructure that powers real-time AI applications and intelligent APIs",
+    "Develop high-throughput systems that support AI/ML workloads and model inference pipelines",
+    "Design modular, scalable architectures that support AI system evolution over time",
+    "Contribute to performance monitoring, testing, and reliability best practices in AI systems"
+  ],
+  "use_cases": [
+    "Real-time AI applications and intelligent APIs",
+    "Large-scale model inference pipelines",
+    "Automated decision-making workflows",
+    "Advanced analytics and machine learning workflows",
+    "Software visibility and security insights"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "NoSQL databases",
+    "Ray",
+    "backend architecture",
+    "data pipelines",
+    "distributed systems",
+    "model inference",
+    "performance monitoring"
+  ],
+  "frameworks_mentioned": [
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "fine-tuning",
+    "generative AI"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a backend engineering role focused on building\ninfrastructure and data pipelines that support AI/ML\nworkloads, not on building, training, or deploying models\ndirectly. The role partners with AI/ML teams to bring models\ninto production, but the hands-on work is on backend\nsystems, APIs, and data processing that enable AI\ncapabilities.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "generative AI",
+      "LangChain"
+    ],
+    "ml": [
+      "Hugging Face",
+      "fine-tuning"
+    ],
+    "web": [
+      "API design",
+      "backend architecture"
+    ],
+    "databases": [
+      "NoSQL databases"
+    ],
+    "data": [
+      "distributed systems",
+      "data pipelines",
+      "Ray"
+    ],
+    "cloud": [],
+    "ops": [
+      "model inference",
+      "performance monitoring"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Go",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

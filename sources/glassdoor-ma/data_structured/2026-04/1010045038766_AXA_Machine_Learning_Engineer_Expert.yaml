@@ -1,0 +1,48 @@
+company:
+  name: AXA
+  stage: null
+  focus: null
+position:
+  title: Machine Learning Engineer Expert
+  ai_type:
+    type: ai-first
+    reasoning: Title explicitly indicates AI/ML engineering role
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - deep learning
+    - machine learning
+    - ml
+    - pytorch
+    - scikit-learn
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - data lake
+    - databricks
+    - sql
+    cloud:
+    - azure
+    ops:
+    - ci/cd
+    - docker
+    - github actions
+    - kubeflow
+    - mlflow
+    - terraform
+    languages:
+    - python
+    domains: []
+    other:
+    - Ability to work in agile, multicultural environments, taking ownership of projects
+    - agile
+    - Delivery-oriented with a focus on ownership and results
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010045038766'
+  extracted_at: '2026-05-16T01:27:45+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

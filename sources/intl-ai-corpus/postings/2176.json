@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-2176",
+  "source": "intl-ai-corpus",
+  "source_ref": "8788882",
+  "source_url": "https://builtin.com/job/senior-backend-engineer-ai-enablement/8788882",
+  "title": "Senior Backend Engineer - AI Enablement",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Experian",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-18",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "16,292 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global data and technology company providing credit\nreporting, analytics, fraud prevention, and marketing\nsolutions",
+  "industries": [
+    "Big Data",
+    "Marketing Tech",
+    "Analytics"
+  ],
+  "description": "Company Description\n\nExperian is a global data and technology company, powering\nopportunities for people and businesses around the world. We\nhelp to redefine lending practices, uncover and prevent\nfraud, simplify healthcare, create marketing solutions, and\ngain deeper insights into the automotive market, all using\nour unique combination of data, analytics and software. We\nalso assist millions of people to realize their financial\ngoals and help them save time and money.\n\nWe operate across a range of markets, from financial\nservices to healthcare, automotive, agribusiness, insurance,\nand many more industry segments.\n\nWe invest in people and new advanced technologies to unlock\nthe power of data. As a FTSE 100 Index company listed on the\nLondon Stock Exchange (EXPN), we have a team of 22,500\npeople across 32 countries. Our corporate headquarters are\nin Dublin, Ireland. Learn more at experianplc.com.\n\nJob Description\n\nJob Description: Senior Backend Engineer – AI Enablement\n(MCP Infrastructure & Channel Adapters)\n\nAbout the Role\n\nWe are building an AI Enablement team focused on delivering\na robust platform that empowers product and engineering\nteams to integrate AI capabilities rapidly, safely, and at\nscale. As a Senior Backend Engineer, you will be responsible\nfor designing and implementing core components of our Model\nContext Protocol (MCP) infrastructure, building channel\nadapters, and enabling seamless integration with Large\nLanguage Model (LLM) tools and workflows.\n\nThis role requires a strong engineering foundation, a\nplatform-team mindset, and the ability to build\nhigh‑quality, test‑first systems that other teams can depend\non.\n\nKey Responsibilities\n\nPlatform Engineering & MCP Infrastructure\n\n- Design, develop, and maintain backend services powering the\n  MCP platform including tool registries, adapters,\n  execution runtimes, and orchestration layers.\n- Build and evolve channel adapters that connect AI systems to\n  external data sources, APIs, and enterprise services.\n- Ensure reliability, observability, and operational\n  excellence across all components.\n\nTest-First Engineering\n\n- Practice strict test-first development: TDD by default, with\n  high-quality unit, integration, and contract tests.\n- Drive engineering rigor and promote test-first culture\n  within the team.\n\nLLM & Tooling Integration\n\n- Apply practical understanding of LLM fundamentals—tokens,\n  context windows, tool descriptions, prompt structures—to\n  build effective and efficient integrations.\n- Implement and optimize MCP tool designs that allow other\n  teams to create and consume AI functionality safely.\n\nPlatform Mindset & Collaboration\n\n- Work closely with cross-functional engineering groups,\n  understanding their needs and enabling them to deliver\n  faster.\n- Measure success by what other teams ship through the\n  platform, not just what the AI Enablement team builds.\n- Contribute to documentation, platform SDKs, and examples\n  that lower adoption friction.\n\nRequired Qualifications\n\n- Strong expertise in .NET (C#), with deep knowledge of\n  backend development patterns, async programming,\n  networking, and distributed systems.\n- Proven experience delivering production-grade platforms,\n  APIs, or high-scale services.\n- Test-First mindset: TDD, contract testing, mocking\n  strategies, and CI-driven quality gates.\n- Working knowledge of LLMs including:\n  - Tokens & context window limits\n  - Tool descriptions & invocation patterns\n  - Prompt and response schema design\n- Ability to build quickly and iterate without requiring deep\n  theoretical AI expertise.\n- Excellent collaboration skills with a service-oriented\n  mindset.\n\n\n\nWhat Success Looks Like\n\n- Other teams ship AI-powered features faster and more safely\n  because of the infrastructure you build.\n- AI tools are easy to integrate, observable, testable, and\n  reliable.\n- MCP-based components scale seamlessly across multiple teams\n  and use cases.\n- Engineering quality remains consistently high because of\n  your test-first approach.\n\n\n\nQualifications\n\nPreferred Qualifications\n\n- Experience with Model Context Protocol (MCP) or similar\n  tool/agent frameworks.\n- Familiarity with event-driven architectures, streaming\n  platforms, or asynchronous pipelines.\n- Exposure to AI ecosystems: vector stores, embeddings, RAG,\n  or agent frameworks.\n- Experience building internal developer platforms or\n  enablement tooling.\n\nAdditional Information\n\nOur uniqueness is that we celebrate yours. Experian's\nculture and people are important differentiators. We take\nour people agenda very seriously and focus on what matters;\nDEI, work/life balance, development, authenticity,\ncollaboration, wellness, reward & recognition,\nvolunteering... the list goes on. Experian's people first\napproach is award-winning; World's Best Workplaces™ 2024\n(Fortune Top 25), Great Place To Work™ in 24 countries, and\nGlassdoor Best Places to Work 2024 to name a few. Check out\nExperian Life on social or our Careers Site to understand\nwhy.\n\nExperian is proud to be an Equal Opportunity and Affirmative\nAction employer. Innovation is an important part of\nExperian's DNA and practices, and our diverse workforce\ndrives our success. Everyone can succeed at Experian and\nbring their whole self to work, irrespective of their\ngender, ethnicity, religion, colour, sexuality, physical\nability or age. If you have a disability or special need\nthat requires accommodation, please let us know at the\nearliest opportunity.\n\nExperian Careers - Creating a better tomorrow together\n\nFind out what its like to work for Experian by clicking here\n",
+  "skills_required": [
+    "LLM integration",
+    "Model Context Protocol (MCP)",
+    "RAG",
+    "agent frameworks",
+    "async programming",
+    "distributed systems",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and maintain backend services powering the MCP platform including tool registries, adapters, execution runtimes, and orchestration layers",
+    "Build and evolve channel adapters that connect AI systems to external data sources, APIs, and enterprise services",
+    "Ensure reliability, observability, and operational excellence across all platform components",
+    "Practice strict test-first development with high-quality unit, integration, and contract tests",
+    "Implement and optimize MCP tool designs that allow other teams to create and consume AI functionality safely",
+    "Work closely with cross-functional engineering groups to understand their needs and enable faster delivery",
+    "Contribute to documentation, platform SDKs, and examples that lower adoption friction"
+  ],
+  "use_cases": [
+    "Enable product and engineering teams to integrate AI capabilities rapidly and at scale",
+    "Connect AI systems to external data sources and enterprise services via channel adapters",
+    "Provide tool registries and execution runtimes for LLM workflows",
+    "Support multiple teams across financial services, healthcare, automotive, and other industries"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "CI/CD",
+    "TDD",
+    "event-driven architectures",
+    "streaming platforms",
+    "vector stores"
+  ],
+  "frameworks_mentioned": [
+    "LLM integration",
+    "Model Context Protocol (MCP)",
+    "RAG",
+    "agent frameworks",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    ".NET",
+    "C#"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role builds infrastructure and platforms (MCP, channel\nadapters) that enable OTHER teams to integrate AI\ncapabilities. The role requires understanding LLM\nfundamentals but focuses on platform engineering and\nenablement tooling rather than building, training, or\ndeploying models directly. Success is measured by what other\nteams ship through the platform, not by AI systems built by\nthis role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Model Context Protocol (MCP)",
+      "LLM integration",
+      "prompt engineering",
+      "RAG",
+      "agent frameworks"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [
+      "APIs"
+    ],
+    "databases": [
+      "vector stores"
+    ],
+    "data": [
+      "event-driven architectures",
+      "streaming platforms"
+    ],
+    "cloud": [],
+    "ops": [
+      "TDD",
+      "CI/CD"
+    ],
+    "languages": [
+      ".NET",
+      "C#"
+    ],
+    "domains": [],
+    "other": [
+      "distributed systems",
+      "async programming"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

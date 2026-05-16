@@ -1,0 +1,110 @@
+{
+  "job_id": "intl-ai-corpus-1381",
+  "source": "intl-ai-corpus",
+  "source_ref": "8426076",
+  "source_url": "https://builtin.com/job/principal-ai-engineer/8426076",
+  "title": "Principal AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ecolab",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-06",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "29,154 Employees",
+  "company_stage": "Public",
+  "company_focus": "Water treatment and sustainability solutions",
+  "industries": [],
+  "description": "• Architect GenAI platforms and systems with modular design,\nscalable pipelines, and secure LLM integrations • Define AI\nsecurity, privacy, and governance standards — including\nmodel context management, output safety, and explainability\nframeworks • Drive the adoption of agent orchestration\nframeworks and protocols for multi-agent collaboration and\nautomation • Evaluate emerging tools and abstract them into\ncapability-driven design patterns — e.g., orchestration,\nvectorization, summarization, or autonomous reasoning •\nPartner with platform, security, and product leads to shape\nlong-term AI direction across Ecolab Digital Center • Build\nreusable components (SDKs, prompt libraries, orchestration\ntemplates) to accelerate solution delivery • Provide\ntechnical mentorship to Lead and Senior Engineers; elevate\nengineering craft through code quality reviews, architecture\nwalkthroughs, and tech talks • Champion responsible AI\npractices and ensure model deployments align with enterprise\nrisk, compliance, and ethical standards\n\nRequired Qualifications:\n\n• 8+ years of experience in AI/ML/GenAI systems, with 3+\nyears in technical architecture or staff-level engineering\nroles • Demonstrated expertise in building LLM-integrated\nsystems, embedding pipelines, and agentic workflows in\nproduction environments • Deep understanding of prompt\noptimization, vector search, context management, and multi-\nstep task orchestration • Experience with cloud-native\ndelivery (Azure preferred), containerized workloads, and\nscalable microservices • Strong grasp of model safety, cost\noptimization, and observability in GenAI applications\n",
+  "skills_required": [
+    "Agent orchestration",
+    "LLM integration",
+    "Multi-agent systems",
+    "Prompt optimization",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect GenAI platforms and systems with modular design, scalable pipelines, and secure LLM integrations",
+    "Define AI security, privacy, and governance standards including model context management, output safety, and explainability frameworks",
+    "Drive adoption of agent orchestration frameworks and protocols for multi-agent collaboration and automation",
+    "Evaluate emerging tools and abstract them into capability-driven design patterns for orchestration, vectorization, summarization, and autonomous reasoning",
+    "Build reusable components including SDKs, prompt libraries, and orchestration templates to accelerate solution delivery",
+    "Provide technical mentorship to Lead and Senior Engineers through code reviews, architecture walkthroughs, and tech talks"
+  ],
+  "use_cases": [
+    "Enterprise GenAI platform for scalable AI solutions",
+    "Multi-agent collaboration and automation systems",
+    "Enterprise AI governance and compliance framework",
+    "LLM-powered applications with vector search and retrieval",
+    "Responsible AI deployment with safety and observability"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "Docker",
+    "Microservices",
+    "Vector search"
+  ],
+  "frameworks_mentioned": [
+    "Agent orchestration",
+    "LLM integration",
+    "Multi-agent systems",
+    "Prompt optimization",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and architecting GenAI\nplatforms and systems with LLM integrations, agent\norchestration frameworks, and multi-agent collaboration. The\nresponsibilities involve hands-on work with prompt\noptimization, vector search, context management, and\ndeploying LLM-integrated systems in production environments,\nwhich aligns with ai-first classification.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM integration",
+      "Agent orchestration",
+      "Multi-agent systems",
+      "Prompt optimization",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "Microservices"
+    ],
+    "databases": [
+      "Vector search"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure"
+    ],
+    "ops": [
+      "Docker"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

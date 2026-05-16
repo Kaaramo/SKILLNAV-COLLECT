@@ -1,0 +1,110 @@
+{
+  "job_id": "intl-ai-corpus-2267",
+  "source": "intl-ai-corpus",
+  "source_ref": "8833121",
+  "source_url": "https://www.builtinla.com/job/software-engineer-ai-employee/8833121",
+  "title": "Software Engineer - AI Employee",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Central",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-21",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Early-stage",
+  "company_focus": "AI agents and human experts for back-office automation\n(payroll, benefits, compliance, accounting, taxes)",
+  "industries": [
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "About Central\n\nWhat is Central?\n\nCentral eliminates back-office work for startups.\n\nWhile HR/payroll platforms give you software to figure it\nout, Central actually does all the work using AI agents and\nhuman experts: payroll, benefits, compliance, accounting,\ntaxes, and more.\n\nThat's 10+ hours back every month. Thousands of founders\ntrust Central, including high-growth companies like Magic\nPatterns, Wordware, and Bitesight.\n\nLearn more and start for free at centralhq.com.\n\nWhy Central?\n\nFounders start companies to solve problems and build\nsomething that matters. Not to become HR managers.\n\nYet here we are in 2025. Despite countless $10B+\n'solutions', founders are still drowning in back-office\nbullshit.\n\nWhy? Because every platform was built for HR professionals,\nnot founders.\n\nToday, every founder still has to: Register in multiple\nstates. Set up workers' comp. Categorize expenses. Decipher\ngovernment letters. Pay invoices. Update addresses. Manage\nequity. Troubleshoot insurance. Answer PTO questions. The\nlist never ends.\n\nWhat a waste of time. But what's worse is the constant\nanxiety: What am I missing? Did I do this right? Will I get\nfined?\n\nWhat founders need isn't another tool they have to learn and\nmanage, but something that actually does the work. All of\nit.\n\nAs an early member, you'll have a seat at the table and help\nCentral scale to serve thousands of companies and founders.\n\nOur culture\n\nCentral is a high-performance sports team with an extremely\nhigh bar and 3 core values:\n\n- Think clearly\n- Show high agency\n- Craft magic\n\n---------\n\nWhat you’ll do\n\n- Architect mission-critical workflows: Design, build, and\n  maintain stateful, end-to-end systems that ensure data\n  integrity (idempotency, reconciliation, audit trails) and\n  meet stringent compliance and reliability requirements.\n- Iterate rapidly: Ship incremental, production-ready features\n  in days—prototype, gather real user feedback, and refine\n  relentlessly.\n- Own your domain: Act as the technical product lead for core\n  platform areas—setting standards for code quality,\n  observability, testing, and operational excellence.\n- Delight and empower customers: Partner with Product and\n  Support to translate user pain points into clean,\n  intuitive solutions that scale from a single startup to\n  enterprise.\n- Push the limits with AI: AI is part of the DNA at Central.\n  We believe we can leverage it in a variety of ways to\n  automate things that were previously impossible and create\n  completely new user experiences.\n\nWho you are\n\n- Experienced systems architect: You’ve designed and delivered\n  large-scale, stateful architectures—modeling complex\n  domains, defining clear data schemas, and ensuring end-to-\n  end reliability.\n- Distributed-transaction specialist: You’ve implemented\n  robust patterns for coordinating multi-step workflows\n  across disparate services and third-party APIs—handling\n  two-phase commits, sagas, idempotency, and compensating\n  actions to keep data consistent.\n- Deep transactional-pipeline expertise: Comfort building\n  reconciled workflows with audit trails and automated\n  recovery, especially when orchestrating financial or\n  compliance-related operations.\n- Reliability-first mindset: You bake in observability\n  (metrics, logs, alerts), fault tolerance, and graceful\n  degradation from day one.\n- Scalability & performance focus: You understand caching,\n  queueing, rate-limiting, and have tuned systems to handle\n  rapid growth without sacrificing latency or correctness.\n- Strategic thinker & communicator: You break down complex\n  trade-offs into clear plans, document your designs, and\n  keep cross-functional stakeholders aligned.\n- Bias toward action & high standards: You ship prototypes\n  quickly, iterate based on real feedback, and insist on\n  production-ready quality in every release.\n\nWhat we offer\n\n- Competitive salary and equity\n- Comprehensive benefits: Medical, dental, vision, 401k (US\n  employees only)\n- Unlimited PTO and sick leave\n- Remote work\n- 2-4 off-sites per year\n\nNote for US Roles: We do not provide visa sponsorship. You\nmust be authorized to work in the U.S.\n",
+  "skills_required": [
+    "AI agents",
+    "Distributed systems",
+    "LLM integration"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect mission-critical workflows designing and maintaining stateful, end-to-end systems with data integrity and compliance requirements",
+    "Ship incremental, production-ready features rapidly with real user feedback iteration",
+    "Own core platform areas as technical product lead setting standards for code quality, observability, testing, and operations",
+    "Partner with Product and Support to translate user pain points into scalable solutions",
+    "Leverage AI to automate previously impossible tasks and create new user experiences",
+    "Design large-scale stateful architectures with complex domain modeling and data schemas"
+  ],
+  "use_cases": [
+    "Automating back-office work for startups including payroll, benefits, compliance, accounting, and taxes",
+    "AI agents that perform actual work rather than just providing software tools",
+    "State management for multi-step financial and compliance workflows",
+    "Data reconciliation and audit trails for regulatory compliance"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "Docker",
+    "Kubernetes",
+    "Observability tools",
+    "Postgres",
+    "Workflow orchestration"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "LLM integration"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role explicitly states \"AI is part of the DNA at\nCentral\" and involves \"leverage[ing] it in a variety of ways\nto automate things that were previously impossible.\" As an\nearly engineer at an AI agent company, this role involves\nbuilding and architecting the AI systems that power\nCentral's back-office automation platform.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI agents",
+      "LLM integration"
+    ],
+    "ml": [],
+    "web": [
+      "API design"
+    ],
+    "databases": [
+      "Postgres"
+    ],
+    "data": [
+      "Workflow orchestration"
+    ],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Observability tools"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

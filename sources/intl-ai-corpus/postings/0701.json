@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-0701",
+  "source": "intl-ai-corpus",
+  "source_ref": "8352703",
+  "source_url": "https://builtin.com/job/staff-applied-ai-product-engineer/8352703",
+  "title": "Staff Applied AI Product Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Carrum Health",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "200 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Digital health platform transforming healthcare payment and\ndelivery through Centers of Excellence",
+  "industries": [],
+  "description": "At Carrum, we are transforming how we pay for, deliver and\nexperience healthcare. If you are passionate about changing\nhealthcare and want to finally get rid of surprise bills,\npoor quality, and high prices, while thriving in an\nentrepreneurial, cutting-edge environment, we would love to\nconnect with you.\n\nIn 2014 Carrum reinvented the Centers of Excellence (COE)\ncategory in digital health. Today, 95% of the US population\nlives within 50 miles of a Carrum COE and our providers rank\nin the top 10% nationally. Our team’s execution has been\nrecognized by the venture community and we’ve raised more\nthan $96M in aggregate from investors like OMERS, Tiger\nGlobal Management and Wildcat Ventures. Our impact has been\nexternally proven in a 2021 RAND Corporation study and\nfeatured as a Harvard Business School (HBS) case study.\n\nAs a Staff Applied AI Product Engineer, you will bridge the\ngap between cutting-edge AI capabilities and real-world\npatient needs. You will take a hands-on leadership role in\narchitecting and integrating LLM-driven features into our\ncore platform. While our foundation is built on Ruby on\nRails (SOA) and React, you will lead the evolution of our\nstack to support AI-native workflows and build agents to\nsupport key business initiatives such as improving care\nnavigation quality and efficiency.\n\nYou will work closely with Data and Product teams (including\na dedicated Applied AI PM) to determine use cases that\nrequire LLMs rather than ML, build robust RAG (Retrieval-\nAugmented Generation) pipelines, select appropriate\nfoundation models, iterate on prompts, and design the \"glue\"\nthat turns raw model intelligence into reliable product\nfeatures. You will partner with our DevOps team to leverage\nAWS/Azure for simple and cost-effective cloud infrastructure\ndeployment, ensuring that systems are both performant and\nresilient. A key responsibility will be implementing\ncomprehensive monitoring and observability practices to\nguarantee the high availability, security, and scalability\nof our new AI services. Additionally, you will collaborate\ndirectly with our internal clinical experts to validate\nmodel outputs, ensuring your AI agents are safe, accurate,\nand truly helpful in a healthcare setting.\n\nAs a senior technical leader, you will own the AI\nengineering strategy, moving us beyond \"demos\" into\nscalable, production-ready systems. You will establish\npatterns for building “smart products,” model evaluation,\nlatency optimization, and cost management, while ensuring we\nmaintain strict data privacy and HIPAA compliance. You will\nchampion Responsible AI by operationalizing the internal\nguidelines set by our AI Council, ensuring that fairness\nchecks, bias detection, and safety guardrails are strictly\nimplemented to serve all patient demographics equitably. You\nwill mentor the wider engineering team on AI-native\ndevelopment practices (such as prompt engineering and\ncontext management) and collaborate with product managers to\nidentify high-leverage opportunities where AI can radically\nsimplify the healthcare experience. You will partner with\nthe VP of Engineering and Chief Product Officer to staff and\nalign delivery teams on your initiatives, while working with\nproduct teams to define project timelines and milestones\nfrom inception to go-live.\n\nThis is a full time position, the salary range for this role\nis $190,000 - $260,000 depending on level of experience and\ngeographic location.\n\nYou’re excited about this opportunity because you will...\n\n- Define the Gen AI technical roadmap: You will build the\n  foundation of Applied AI function at Carrum and have a\n  direct impact on how Carrum leverages Generative AI to\n  automate complex healthcare coordination and improve\n  patient outcomes.\n- Build \"magic\" features: Move fast to prototype, iterate and\n  ship AI-powered experiences that feel magical to users,\n  such as instant answer bots or automated appointment\n  logistics.\n- Architect for the future: Be the sole  expert on integrating\n  vector databases, orchestration frameworks (like\n  LangChain), and LLM APIs into a mature Service-Oriented\n  Architecture.\n- Bridge the gap: Act as the translator between the\n  \"stochastic\" world of AI models and the \"deterministic\"\n  world of software engineering, ensuring reliability and\n  trust.\n- Lead without ego: Mentor talented full-stack engineers on\n  how to incorporate AI tools into their workflows, lifting\n  the technical ceiling of the entire team.\n- Own the outcome: Take ownership of the full lifecycle of AI\n  features—from prompt iteration and evaluation to\n  production monitoring and user feedback loops.\n- Solve meaningful problems: Relish working with a diverse\n  cross-functional group to solve actual pain points for\n  patients, rather than just building tech for tech’s sake.\n- Prioritize quality: Hold yourself and others accountable to\n  spending that extra 10% on a project to deliver great\n  documentation in addition to the functionality itself.\n\nWe’re excited about you because…\n\n- You have strong engineering roots: You have 10+ years of\n  software development experience and have been the most\n  senior engineer on a team. You know how to build robust,\n  scalable, high availability systems, not just Jupyter\n  notebooks.\n- You are an expert AI practitioner: You have 2+ years of\n  dedicated professional experience architecting production-\n  grade applications with LLMs (OpenAI, Anthropic, Llama).\n  You haven't just built demos; you have gone deep into the\n  complexities of RAG pipelines and vector databases (e.g.,\n  pgvector, Pinecone), solving for latency, hallucination,\n  and retrieval accuracy at scale in customer facing\n  products.\n- You go beyond AI/API basics: You know when to leverage\n  prebuilt solutions versus custom LLM integrations and can\n  apply fine-tuning and model optimization techniques when\n  needed\n- You know the stack (or can learn it fast): You have\n  experience working in a web application environment (Ruby\n  on Rails, Python), have designed systems and know how to\n  expose AI logic via performant APIs to frontend clients\n  (React).\n- You include infrastructure in your designs: You are\n  comfortable working with DevOps to design and configure\n  Terraform for AI infrastructure, ensuring your services\n  are deployable, reproducible, and scalable.\n- You act as a Tech Lead: You don't just write code; you drive\n  execution and elevate the team. You enjoy technical\n  leadership through code reviews, architectural design docs\n  (RFCs), and teaching others, while also project managing\n  cross-functional initiatives—breaking down ambiguous\n  requirements, managing dependencies, and coordinating\n  across teams to deliver on time.\n- You are AI-native: You use AI developer productivity tools\n  (e.g., Cursor, GitHub Copilot) daily to accelerate your\n  workflow and mentor the team on effective AI-assisted\n  development.\n- You care about \"The Last Mile\": You understand that a model\n  is only as good as the product wrapping it. You care about\n  latency, error handling, monitoring/alerting and the user\n  experience when the model hallucinates.\n- You are data-pragmatic: You are comfortable with SQL and\n  data modeling, understanding that good AI requires good\n  data infrastructure.\n- You are entrepreneurial: As a member of a startup, you excel\n  at going from 0 to 1, finding creative ways to use AI to\n  launch new products quickly and make a big impact with\n  limited resources.\n- You manage complexity well: You have experience handling\n  deadlines, keeping many balls in the air, and prioritizing\n  work in a fast-paced, dynamic environment.\n- You value distinct human skills: You have interpersonal\n  skills and don't have a hard time being empathetic,\n  courteous, and friendly.\n\nWhy you’ll love working with us...\n\n- We’re a hard-working, humble, and compassionate group\n  motivated to solve the hard problems in healthcare today.\n  You’ll work with talented, experienced co-workers from\n  companies like Booz & Company, Livongo, 98point6, Google,\n  and Optum. We believe in using data to inform decisions,\n  technology to make our jobs easier, and creative thinking\n  to pave the future.\n- We are working with some of the most recognized and esteemed\n  names in the country. Top hospitals like Johns Hopkins,\n  Mayo Clinic, Stanford Health Care, Scripps Health, and\n  Rush Health have joined our platform. Employers who use\n  our benefit include US Foods, United Airlines, and large\n  public sector organizations like the self-insured schools\n  of California, and the State of Maine.\n- We empower team members to be autonomous and provide a\n  collaborative environment where you get support and\n  healthy feedback. You can bring your authentic self to\n  work every day and are encouraged to help others do the\n  same.\n- We carve out time to let go of work to celebrate our\n  successes and have fun. We’re a remote-first company with\n  employees all over the United States and two office\n  locations in San Francisco and Chicago. We support our\n  employees during the work day and beyond with flexible\n  working hours, generous time off, paid parental leave, and\n  opportunities to connect with coworkers both virtually and\n  in-person.\n- We embrace our team’s diversity of thought, experience, and\n  interests and know that doing so makes us stronger as a\n  company. Carrum has an active employee-led Diversity,\n  Equity, Inclusion, and Justice (DEIJ) committee and\n  several employee resource groups (ERGs). Our ERGS help\n  employees build stronger connections through social,\n  educational, and community activities.\n- You’ll feel proud that the work you do each day directly\n  impacts people’s lives in big and meaningful ways.\n\nOther benefits:\n\n- Stock option plan\n- Flexible schedules and remote work\n- Chicago and San Francisco offices available\n- Self-managed vacation days, within reason\n- Paid parental leave\n- Health, vision, and dental insurance\n- 401K retirement plan\n\nAbout Carrum\n\nWe’re a health tech company that brings value-based care to\nthe masses. We help employers deliver a memorable patient\nexperience, immediately lower healthcare costs, and drive\nbetter outcomes and achieve this through the power of\ntechnology and human-centered design. Since launching in\n2014, we’ve partnered with Fortune 500 employers and top\nhospitals across the nation. We’ve been recognized by\nHarvard Business School and featured in TechCrunch, The Los\nAngeles Times, Washington Post, and Modern Healthcare. We\nbelieve we’re only scratching the surface of our opportunity\nand we’re looking for incredible people like you to help us\nrealize our full impact.\n\nCarrum Health is an equal opportunity employer and\nencourages all applicants from every background and life\nexperience.\n",
+  "skills_required": [
+    "Anthropic API",
+    "LangChain",
+    "Llama",
+    "OpenAI API",
+    "RAG",
+    "agents",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and integrate LLM-driven features into the core healthcare platform, building agents to support business initiatives",
+    "Design and build robust RAG (Retrieval-Augmented Generation) pipelines, select foundation models, and iterate on prompts",
+    "Collaborate with DevOps to leverage AWS/Azure for cloud infrastructure deployment and implement comprehensive monitoring and observability",
+    "Partner with clinical experts to validate model outputs, ensuring AI agents are safe, accurate, and helpful in healthcare settings",
+    "Own AI engineering strategy including model evaluation, latency optimization, cost management, and HIPAA compliance",
+    "Champion Responsible AI by operationalizing guidelines for fairness checks, bias detection, and safety guardrails",
+    "Mentor the engineering team on AI-native development practices including prompt engineering and context management"
+  ],
+  "use_cases": [
+    "Care navigation quality and efficiency improvements through AI-powered agents",
+    "Instant answer bots for patient inquiries and healthcare information",
+    "Automated appointment logistics and scheduling assistance",
+    "Healthcare coordination automation to reduce manual workflows",
+    "Patient support systems that provide accurate clinical guidance",
+    "AI-powered features that simplify the healthcare experience for patients"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Pinecone",
+    "REST APIs",
+    "React",
+    "Ruby on Rails",
+    "Terraform",
+    "monitoring",
+    "observability",
+    "pgvector",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LangChain",
+    "Llama",
+    "OpenAI API",
+    "RAG",
+    "agents",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on with LLMs, RAG pipelines, and agent\ndevelopment. The engineer will directly build, deploy, and\noptimize AI systems including vector database integration,\nprompt engineering, and model evaluation - moving from demos\nto production-ready AI features.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "OpenAI API",
+      "Anthropic API",
+      "Llama",
+      "prompt engineering",
+      "RAG",
+      "agents"
+    ],
+    "ml": [
+      "fine-tuning"
+    ],
+    "web": [
+      "React",
+      "Ruby on Rails",
+      "REST APIs"
+    ],
+    "databases": [
+      "vector databases",
+      "Pinecone",
+      "pgvector"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Terraform",
+      "monitoring",
+      "observability",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

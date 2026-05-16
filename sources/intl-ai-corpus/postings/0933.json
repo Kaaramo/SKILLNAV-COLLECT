@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-0933",
+  "source": "intl-ai-corpus",
+  "source_ref": "7729834",
+  "source_url": "https://builtin.com/job/generative-ai-inference-engineer/7729834",
+  "title": "Generative AI Inference Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Stability AI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "149 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Generative AI models and inference platforms",
+  "industries": [],
+  "description": "Generative AI Inference Engineer\n\n\n\nAbout the role:\n\nWe are seeking passionate Machine Learning Engineers to join\nour Inference team, focusing on the creative applications of\ngenerative AI models. The ideal candidate will have\nsubstantial experience developing and running inference for\nmulti-modal models. A deep understanding of diffusion model\narchitectures and familiarity with workflow tools like\nComfyUI are a big plus. You will be expected to leverage and\npush the boundaries of state-of-the-art inference\noptimization techniques for multi-modal generative models.\nThis role offers the opportunity to work alongside top\nresearchers and engineers, utilizing cutting-edge high-\nperformance computing resources to make a significant impact\nin the rapidly evolving field of generative AI.\n\nResponsibilities:\n\n- Lead efforts to drive the design, development of customer-\n  facing multi modal ML inference systems.\n- Work with the Platform and Inference teams on building\n  inference systems for the next generation of models, where\n  you will work on areas such as optimization, model tuning\n  and deployment.\n- Partner with leading cloud providers to deliver hosted\n  Stability AI inference solutions.\n- Be a strategic thought partner for leaders across the\n  organization on driving business impact through machine\n  learning\n- Be part of the team to bring new Stability models and\n  pipelines into existence\n- Prototype and productionize inference platform improvements\n  and new features\n\nQualifications:\n\n- 7+ years working on productionizing machine learning\n  systems, including inference pipeline development\n- Expert level knowledge on writing and running python\n  services at scale\n- 5+ years working on python scientific stack, pyTorch and at\n  least one high-performance inference framework (e.g.\n  Triton and TensorRT)\n- Deep understanding of Diffusion Architecture\n- Experience profiling and optimizing deep neural networks on\n  Nvidia GPUs, using profiling tools such as NVIDIA Nsight\n- Experience with python-based image\n  manipulation/encoding/decoding frameworks, such as OpenCV\n- Experience deploying to cloud orchestration systems such as\n  Kubernetes and cloud providers such as AWS, GCP, and Azure\n- Experience with Docker\n- Ability to rapidly prototype solutions and iterate on them\n  with tight product deadlines\n- Strong communication, collaboration, and documentation\n  skills\n- Experience with the open-source ML ecosystem (HuggingFace,\n  W&B, etc.)\n\nEqual Employment Opportunity:\n\nWe are an equal opportunity employer and do not discriminate\non the basis of race, religion, national origin, gender,\nsexual orientation, age, veteran status, disability or other\nlegally protected statuses.\n",
+  "skills_required": [
+    "CUDA",
+    "ComfyUI",
+    "HuggingFace",
+    "OpenCV",
+    "PyTorch"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead efforts to drive the design, development of customer-facing multi-modal ML inference systems",
+    "Work with Platform and Inference teams on building inference systems for next-generation models including optimization, model tuning and deployment",
+    "Partner with leading cloud providers to deliver hosted Stability AI inference solutions",
+    "Be a strategic thought partner for leaders on driving business impact through machine learning",
+    "Bring new Stability models and pipelines into existence",
+    "Prototype and productionize inference platform improvements and new features"
+  ],
+  "use_cases": [
+    "Multi-modal generative AI inference for creative applications",
+    "Diffusion model-based content generation",
+    "High-performance inference optimization for generative models",
+    "Cloud-hosted inference solutions for Stability AI models",
+    "Production ML systems for image and multi-modal content creation"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "NVIDIA Nsight",
+    "TensorRT",
+    "Triton",
+    "Weights & Biases"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "HuggingFace",
+    "OpenCV",
+    "PyTorch"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on with generative AI models,\nspecifically working on inference systems, optimization, and\ndeployment of multi-modal models including diffusion\narchitectures. The engineer directly works on model tuning,\ninference pipeline development, and deploying state-of-the-\nart generative models to production.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "CUDA",
+      "OpenCV",
+      "HuggingFace"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Triton",
+      "TensorRT",
+      "NVIDIA Nsight",
+      "Weights & Biases",
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Diffusion models"
+    ],
+    "other": [
+      "ComfyUI"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

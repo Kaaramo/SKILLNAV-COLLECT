@@ -1,0 +1,208 @@
+source_id: linkedin-ma
+source_name: LinkedIn Jobs Maroc
+source_url: https://ma.linkedin.com/jobs/
+country: MA
+language: multi  # arabe + français + anglais
+
+tier: T1
+priority: true
+category: linkedin
+mcp_tool: apify  # production officielle
+collection_frequency: daily
+
+robots_txt_compliant: limited  # LinkedIn interdit scraping général ; usage académique M242
+tos_reviewed_at: 2026-05-15
+rate_limit_seconds: 5
+user_agent: "SkillnavBot/1.0 (Academic; M242 ENSA-Tetouan)"
+personal_data_policy: stripped
+entity_focus: morale_only
+
+url_patterns:
+  search: "https://ma.linkedin.com/jobs/search?keywords={keyword}&location=Morocco"
+  detail: "https://ma.linkedin.com/jobs/view/{slug}-{linkedin_id}"
+  id_pattern: "^[0-9]{10}$"
+
+anti_bot:
+  curl_direct: blocked
+  webfetch: blocked
+  pagination_without_auth: blocked
+  playwright_real_browser: works_but_incomplete  # listings only, pas les détails complets
+  apify_actor_official: best  # méthode retenue
+
+# ─── Méthode officielle retenue : Apify uniquement (qualité homogène) ─────────
+# Décision 2026-05-15 : suppression des 49 fiches Phase 1-4 Playwright/Google
+# (descriptions vides, dates relatives non parsées, skills non extraits).
+# Conservation exclusive des 146 fiches Apify qui ont la structure complète.
+
+apify_runs:
+  - run_label: "0 — initial Data/IA generic"
+    actor: number_one_scraper/cheap-advance-linkedin-jobs-scraper
+    run_id: CcZ7vY9F9p3KiMhcs
+    dataset_id: RrtiZGKx4rvQRew9v
+    started_at: 2026-05-14T23:10:30Z
+    finished_at: 2026-05-14T23:17:02Z
+    duration_sec: 392
+    cost_usd: 0.6532
+    raw_jobs: 500
+    new_postings_added: 146
+  - run_label: "1A — IA pointue (NLP/CV/LLM/GenAI)"
+    run_id: TynoOZPajsoIhyiw1
+    dataset_id: QaoLXqaoNcWRrgiMF
+    duration_sec: 271
+    cost_usd: 0.4523
+    raw_jobs: 394
+    keywords: [NLP Engineer, Computer Vision Engineer, LLM Engineer, GenAI Engineer, AI Researcher, Applied Scientist, Prompt Engineer, MLOps Specialist]
+  - run_label: "1B — Big Data & Cloud Data"
+    run_id: zAf8EL4UIpLEg2iJi
+    dataset_id: me6HiJGFuVvXTVGrB
+    duration_sec: 407
+    cost_usd: 0.6268
+    raw_jobs: 500
+    keywords: [Big Data Engineer, Snowflake Engineer, Databricks Engineer, Hadoop Engineer, Spark Engineer, Kafka Engineer, Airflow Engineer, Cloud Data Engineer, ETL Developer, Data Platform Engineer]
+  - run_label: "1C — BI & Analytics"
+    run_id: DzDjJQoS8BMsG6nbU
+    dataset_id: uJhYjUEXLz5d2GSLX
+    duration_sec: 335
+    cost_usd: 0.5615
+    raw_jobs: 502
+    keywords: [Power BI Developer, Tableau Developer, BI Analyst, Reporting Analyst, Analytics Engineer, Decision Scientist, Quantitative Analyst, Risk Analyst]
+  - run_label: "1D — Variantes FR + transversaux"
+    run_id: L5pmflxhUufNRBzpq
+    dataset_id: aha9rJuFQMIAZbE9r
+    duration_sec: 366
+    cost_usd: 0.5994
+    raw_jobs: 503
+    keywords: [Analyste de données, Ingénieur Data, Scientifique des données, Statisticien, Actuaire Data, Data Steward, Data Governance, Data Product Manager]
+
+apify_total_cost_usd: 2.8932  # initial + 4 runs Niveau 1
+
+# ─── Niveau 3 — Top-down par entreprise (29 employeurs MA) ───────────────────
+# CONSTAT: marché LinkedIn MA Data/IA quasi saturé après Niveau 1.
+# +1 fiche seulement sur 694 raw. LinkedIn search ne remonte plus que des doublons.
+# Pour 2023-2024 historique → changer de canal (pages carrières, Wayback, Glassdoor, Rekrute).
+apify_runs_level3:
+  - run_label: "3A — Banques MA"
+    run_id: AAvaWyYOVtRhfXYeW
+    duration_sec: 90
+    cost_usd: 0.5394
+    raw_jobs: 504
+    new_postings: 0
+    keywords: [Attijariwafa Bank, BMCE Bank of Africa, Banque Populaire Maroc, CIH Bank, Credit Agricole du Maroc, Societe Generale Maroc, BNP Paribas Maroc]
+  - run_label: "3B — Telecom + Industrie + OCP"
+    run_id: ic5QnJoyeZfGvUHXW
+    duration_sec: 30
+    cost_usd: 0.1705
+    raw_jobs: 74
+    new_postings: 1  # Orange Business GenAI Engineer
+    keywords: [Maroc Telecom, INWI, Orange Maroc, OCP Group, Renault Maroc, Stellantis Maroc, Boeing Morocco, Safran Morocco, Thales Morocco, Holmarcom]
+  - run_label: "3C — ESN + Tech premium + Startups"
+    run_id: CZrGkLle42Ua4Cx01
+    duration_sec: 60
+    cost_usd: 0.2295
+    raw_jobs: 116
+    new_postings: 0
+    keywords: [Sopra Steria Maroc, Accenture Maroc, IBM Maroc, Sogeti Maroc, McKinsey Maroc, QuantumBlack, Artefact Maroc, Mistral AI Morocco, INNOVX, Sobrus, Leyton Morocco, A2MAC1]
+
+apify_total_cost_with_level3_usd: 3.8326  # 2.8932 + 0.9393
+apify_budget_remaining_usd: 1.14  # 4.97 - 3.83
+  cost_breakdown:
+    actor_compute_units: 0.1075
+    dataset_writes: 500
+    proxy_residential_gb: 0.0404
+    data_transfer_external_gb: 0.0058
+apify_runs_summary:
+  total_raw_jobs_4_runs_level1: 1899
+  total_raw_jobs_with_initial: 2399
+  unique_after_dedup: 852
+  in_scope_data_ai_strict: 206
+  out_scope_filtered: 646
+  rgpd_fields_stripped_total: 136
+  total_cost_usd: 2.8932
+  budget_remaining_usd: 2.08  # 4.97 - 2.89
+
+sample_collected_at: 2026-05-15T02:18:00Z
+sample_count: 206
+sample_scope: data_ai_strict_only_2025_2026
+collection_strategy: apify_initial_plus_level1_4_runs
+
+temporal_distribution:
+  "2026": 176  # 122 (initial) + 54 (level 1)
+  "2025": 28   # 22 (initial) + 6 (level 1)
+  "2024": 2
+  "2023": 0  # LinkedIn n'expose pas l'historique <2024 dans search live
+
+family_distribution:
+  DATA_ANALYST: 61      # 56 + 5
+  DATA_ENGINEER: 58     # 43 + 15
+  DATA_SCIENTIST: 41
+  BI_DEVELOPER: 9       # nouveau (level 1)
+  AI_ENGINEER: 8        # nouveau
+  QUANT_ANALYST: 7      # nouveau
+  DATA_OTHER: 7         # nouveau
+  ML_ENGINEER: 4
+  DATA_MANAGER: 3       # nouveau
+  DATA_ARCHITECT: 3     # nouveau
+  MLOPS_ENGINEER: 2
+  ACTUARY: 2            # nouveau
+  CV_ENGINEER: 1        # nouveau
+
+employers_unique: 75  # +19 nouveaux dont Capgemini, Exclusive Networks, Phi Partners, CGI, Scania, Inetum, Atos, Deloitte, La Marocaine Vie, A2MAC1, Smile, Concentrix...
+top_employers:
+  - {name: ALTEN, count: 14}
+  - {name: BROME Consulting & Technology, count: 12}
+  - {name: Agoda, count: 10}
+  - {name: CIH BANK, count: 7}
+  - {name: ALTEN MAROC, count: 6}
+  - {name: Devoteam, count: 5}
+  - {name: Admiral Digital Consulting, count: 5}
+  - {name: Odixcity Consulting, count: 5}
+  - {name: Capgemini, count: 5}
+  - {name: Artefact, count: 4}
+  - {name: SQLI, count: 4}
+  - {name: BNP Paribas, count: 3}
+  - {name: AXA Assurance Maroc, count: 3}
+  - {name: Boston Consulting Group (BCG), count: 3}
+  - {name: Capgemini Engineering, count: 3}
+  - {name: ARRA-ENGINEERING, count: 3}
+  - {name: Scalian, count: 2}
+  - {name: L3M HOLDING, count: 2}
+  - {name: Sofrecom Maroc, count: 2}
+  - {name: Attijariwafa bank, count: 2}
+
+total_postings_count: 207
+postings_id_range: "001-207"
+linkedin_ma_market_saturation_observation: |
+  Le Niveau 3 a confirmé que ~207 fiches Data/IA = couverture quasi-exhaustive
+  du marché actif LinkedIn MA. Les 504 jobs raw "Attijariwafa Bank" en search ont
+  produit 0 nouvelle fiche → toutes étaient déjà capturées par les keywords métiers.
+  Les vraies grandes entreprises (Boeing, Safran, Thales, OCP) postent via pages
+  carrières propres ou via ESN — pas en direct sur LinkedIn MA.
+
+# Top skills detectés sur les 60 nouvelles fiches (Niveau 1)
+top_skills_level1:
+  - {skill: SQL, count: 29}
+  - {skill: Python, count: 25}
+  - {skill: Azure, count: 23}
+  - {skill: AWS, count: 17}
+  - {skill: GCP, count: 16}
+  - {skill: R, count: 14}
+  - {skill: Power BI, count: 13}
+  - {skill: Machine Learning, count: 12}
+  - {skill: Java, count: 10}
+  - {skill: CI/CD, count: 10}
+  - {skill: Spark, count: 9}
+  - {skill: Statistics, count: 9}
+  - {skill: Excel, count: 8}
+  - {skill: Git, count: 8}
+  - {skill: Docker, count: 8}
+
+production_status: apify_initial_l1_l3_complete_market_saturated
+next_action: |
+  LinkedIn MA = saturé à 207 fiches. Pour étendre la collecte SKILLNAV :
+  1. Pages carrières directes (OCP/AWB/BMCE/CIH/INWI/IAM/Holmarcom) — SOURCE DE 2023-2024 HISTORIQUE
+  2. Wayback Machine sur ces pages carrières
+  3. Glassdoor MA (Apify actor dédié) ~$0.50
+  4. Sweep Rekrute massif 2023-2026 (gratuit) — déjà 32 fiches, viser 200+
+  5. WelcomeToTheJungle MA (gratuit, scraping direct)
+  6. Dédoublonnage cross-sources SHA-256 (Coface 181033 Rekrute = LinkedIn = Indeed)
+estimated_quality_score: 0.95

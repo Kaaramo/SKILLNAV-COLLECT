@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-2623",
+  "source": "intl-ai-corpus",
+  "source_ref": "8936191",
+  "source_url": "https://www.builtinla.com/job/agentic-ai-engineer/8936191",
+  "title": "Agentic AI Engineer",
+  "title_normalized": "GENAI_LLM_ENGINEER",
+  "company": "Eigen Labs",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-02",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B+ (well-funded crypto infrastructure company)",
+  "company_focus": "Building verifiable trust and coordination infrastructure\nfor AI agents using crypto/blockchain",
+  "industries": [],
+  "description": "Eigen Labs is building the coordination engine for a world\nrun by humans and AI agents alike.\n\nWe’re at an inflection point.\n\nAI agents are no longer just tools - they’re becoming\neconomic actors. They can write code, coordinate work,\ngenerate revenue, and increasingly operate with autonomy.\n\nThe problem is, none of this works in production today.\n\nThere’s no reliable way to verify what an agent actually\ndid, what data it used, or who should get paid. The moment\nagents touch anything high-stakes - money, coordination,\nownership—the system breaks.\n\nWhat’s missing isn’t more intelligence. It’s trust.\n\nIf agents are going to behave like companies, they need the\nsame primitives:\n\n- identity\n- execution guarantees\n- attribution\n- ownership and capital\n\nThis is where crypto becomes necessary- not optional.\n\nBlockchains are the only systems where software can own\nassets, transact, be held accountable, and raise capital.\nThis unlocks a new category: agentic companies - software\nentities that operate, earn, and coordinate onchain.\n\nOur journey has been building toward this moment.\n\nEigenLayer introduced restaking - programmable, shared\ncryptoeconomic security. EigenCloud turns that foundation\ninto a developer platform for verifiable compute, data, and\nexecution.\n\nTogether, they form the trust layer for the age of AI.\n\nEigenCloud is where agents become reliable:\n\n- where execution is verifiable\n- where contributions are attributable\n- where outcomes can be trusted and rewarded\n\nIn 2026, we’re shifting from infrastructure to opinionated,\nuser-facing systems that make this real. We’re building\nquickly, working closely with top builders, and shaping how\nthis category emerges.\n\nIf you believe agents won’t just assist - but act, earn, and\ncoordinate as independent entities - we’re building the\nlayer that makes that possible.\n\nThe Role\n\nAs a Senior Agentic AI Engineer at Eigen, You’ll work on the\ncore systems that make AI agents actually usable in\nproduction.  You’ve built real things - distributed systems,\nAPIs, developer tools - and you’ve gone deep on agents, LLM\npipelines, or autonomous workflows. You’re not just using AI\ntools - you have opinions on where this is going.\n\nYou will own large parts of the system and move quickly from\nidea → working product.\n\nYou will spend most of your time building. Not managing. Not\ntalking about roadmaps. Building.\n\nThis is a full-time role, remote-friendly, with a preference\nfor U.S. time zones and close collaboration with the\nSeattle-based team.\n\nWhat You Will Do\n\n- Build agent runtimes and orchestration systems (planning,\n  tool use, memory, coordination)\n- Make agents reliable (retries, failure handling, state\n  management)\n- Make agents observable (tracing, debugging, evaluation)\n- Make agents cheap (cost-aware execution, performance\n  optimization)\n- Make agents useful in production (not demos - real systems\n  people depend on)\n- Integrate LLMs, APIs, and external data into coherent,\n  working systems\n- Define how developers build, debug, and extend agent\n  behavior\n\nWhat You’ll Bring\n\nWe care more about evidence than years of experience.\n\nShow us you’ve built hard things that work.\n\nStrong Signals\n\n- You’ve shipped real systems that people depend on\n- You’ve taken ambiguous problems and turned them into working\n  products\n- You’ve built or deeply explored agent systems, LLM\n  pipelines, or automation beyond simple demos\n- You understand system behavior in production - failure\n  modes, tradeoffs, reliability\n- You move fast and iterate - you don’t wait for perfect specs\n\nTechnical Foundation\n\n- Strong backend / systems experience (distributed systems,\n  APIs, infrastructure)\n- Proficiency in at least one core language (Python, Go,\n  TypeScript, Rust, etc.)\n- Experience with reliability patterns (state, retries,\n  observability)\n- Comfort working across the stack when needed\n\nNice To Have\n\n- Experience with agent frameworks (LangChain, AutoGen,\n  CrewAI, or custom systems)\n- Experience building multi-agent or orchestration systems\n- Familiarity with LLM evaluation, prompting, or performance\n  tuning\n- Experience with workflow engines (Temporal, Airflow,\n  Dagster)\n- Experience building developer platforms, SDKs, or internal\n  tools\n- Exposure to retrieval systems, vector databases, or memory\n  architectures\n- Interest in crypto, distributed systems, or verifiable\n  compute\n\nThe target salary range for this role is $187,000 -\n$253,000. This is determined by a few factors including your\nskillset, prior relevant experience, quality of interviews\nand market factors at the point in time of offer. Other\nrewards may include short- and long-term incentives, and\nprogram-specific awards. In addition, Eigen Labs provides\nvarious employee benefits, including:\n\nUS Benefits\n\n- Competitive salary and non-cash compensation (tokens and\n  equity)\n- World class benefits package (medical/dental/vision)\n- Remote work set up stipend\n- Flexible hours and a supportive remote environment\n- Flexible time off\n- 401(k) retirement plan + company match\n- Monthly wellness benefit\n- Yearly off-sites\n- Paid parental leave\n\nIf hired outside of the US through an EOR, benefits will be\noffered based on specific country requirements and EOR\nofferings.\n\nEqual Opportunity Employment\n\nThere's one more, very important thing. We are an equal\nopportunity employer. We search for amazing people of\ndiverse backgrounds, experiences, abilities, and\nperspectives. We take care of each other to create an\ninclusive work environment where we love to come to work\nevery day. We hope you can join us.\n",
+  "skills_required": [
+    "AutoGen",
+    "Blockchain/crypto",
+    "CrewAI",
+    "LLM pipelines",
+    "LangChain",
+    "Multi-agent orchestration",
+    "Prompt engineering",
+    "RAG",
+    "SDK development"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build agent runtimes and orchestration systems including planning, tool use, memory, and coordination",
+    "Implement reliability patterns for agents including retries, failure handling, and state management",
+    "Build observability infrastructure for agents including tracing, debugging, and evaluation",
+    "Optimize agent execution for cost-aware performance and production-grade reliability",
+    "Integrate LLMs, APIs, and external data into coherent working systems",
+    "Define and build developer-facing tools and SDKs for building, debugging, and extending agent behavior"
+  ],
+  "use_cases": [
+    "Autonomous AI agents acting as economic actors on-chain",
+    "Verifiable agent execution for trust and attribution in high-stakes scenarios",
+    "Multi-agent coordination and orchestration in production environments",
+    "Agent-based developer platform (EigenCloud) for verifiable compute and execution",
+    "Agentic companies — software entities that operate, earn, and coordinate on blockchain"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "Dagster",
+    "Distributed systems",
+    "Observability and tracing",
+    "REST APIs",
+    "Temporal",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "LLM pipelines",
+    "LangChain",
+    "Multi-agent orchestration",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "Rust",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "GENAI_LLM_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely focused on building AI agent systems —\nruntimes, orchestration, LLM pipelines, and autonomous\nworkflows. The engineer will directly design, build, and\noptimize agent behavior, tool use, memory, and coordination\nsystems, making this an ai-first role centered on\nconstructing production agentic AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "AutoGen",
+      "CrewAI",
+      "LLM pipelines",
+      "Prompt engineering",
+      "RAG",
+      "Multi-agent orchestration"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Temporal",
+      "Airflow",
+      "Dagster"
+    ],
+    "cloud": [],
+    "ops": [
+      "Distributed systems",
+      "Observability and tracing"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "TypeScript",
+      "Rust"
+    ],
+    "domains": [],
+    "other": [
+      "Blockchain/crypto",
+      "SDK development"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

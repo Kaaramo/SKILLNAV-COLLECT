@@ -1,0 +1,161 @@
+{
+  "job_id": "intl-ai-corpus-1198",
+  "source": "intl-ai-corpus",
+  "source_ref": "8273468",
+  "source_url": "https://builtin.com/job/ai-ml-engineer/8273468",
+  "title": "AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Uvation",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "35 Employees",
+  "company_stage": null,
+  "company_focus": "IT Services and AI/ML solutions",
+  "industries": [
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Job Title: AI/ML Engineer Department: IT Services Reports\nTo: IT Project Manager\n\nJob Overview:\n\nThe AI/ML Engineer plays a critical role in designing,\ndeveloping, and deploying machine learning models and AI-\ndriven solutions to support strategic business initiatives.\nThe role involves collaborating with cross-functional teams,\nincluding software engineering, data analytics, product\ndevelopment, and business stakeholders, to drive intelligent\nautomation, data-driven decision-making, and advanced\nanalytics capabilities.\n\nThe ideal candidate will have 3 to 5 years of experience in\nAI/ML model development, with a strong foundation in machine\nlearning algorithms, data preprocessing, and deployment\npipelines. Experience with Python, TensorFlow/PyTorch, and\ncloud-based ML services is essential.\n\nResponsibilities:\n\n1. Model Development and Optimization\n\n- Design, build, and deploy ML models for classification,\n  regression, NLP, computer vision, or time-series\n  forecasting.\n- Select appropriate algorithms and techniques based on\n  business needs and data characteristics.\n- Continuously monitor and improve model performance using\n  metrics and feedback loops.\n\n2. Data Preparation and Feature Engineering\n\n- Clean, preprocess, and transform structured and unstructured\n  datasets for training and inference.\n- Engineer and select relevant features to improve model\n  accuracy and generalizability.\n- Collaborate with data engineers to ensure data quality and\n  accessibility.\n\n3. Model Deployment and MLOps\n\n- Package and deploy models using tools like Docker,\n  Flask/FastAPI, and Kubernetes.\n- Implement CI/CD pipelines for ML using platforms like\n  MLflow, Airflow, or Kubeflow.\n- Monitor deployed models for drift, latency, and performance\n  in production environments.\n\n4. AI Solutions and Use Case Implementation\n\n- Work with business stakeholders to translate real-world\n  problems into AI/ML use cases.\n- Prototype and test AI-driven solutions (e.g., recommendation\n  engines, chatbots, fraud detection).\n- Contribute to proof-of-concept projects and assist in\n  scaling successful models to production.\n\n5. Research and Innovation\n\n- Stay updated with the latest research, frameworks, and tools\n  in machine learning and AI.\n- Experiment with cutting-edge models (e.g., LLMs,\n  transformers, generative AI) and assess their viability.\n- Promote innovation by recommending and implementing modern\n  AI strategies.\n\n6. Cross-functional Collaboration\n\n- Collaborate with software developers, DevOps, data analysts,\n  and domain experts for end-to-end solution delivery.\n- Translate technical insights into business value through\n  clear documentation and presentations.\n\n7. Documentation and Best Practices\n\n- Maintain comprehensive documentation for models,\n  experiments, and pipelines.\n- Ensure reproducibility, scalability, and compliance with\n  data governance policies.\n\nRequirements:\n\nExperience:\n\n- 3–5 years of hands-on experience in machine learning model\n  development and deployment.\n- Proven track record of solving real-world problems using\n  supervised, unsupervised, or deep learning methods.\n\nTechnical Skills:\n\nStrong knowledge of:\n\n- Python and ML libraries (scikit-learn, pandas, NumPy,\n  TensorFlow/PyTorch)\n- Model evaluation, hyperparameter tuning, and pipeline\n  automation\n- REST APIs for model serving and integration\n\nFamiliarity with:\n\n- MLOps tools (MLflow, Airflow, DVC, Docker, Kubernetes)\n- Cloud ML services (AWS SageMaker, Azure ML, GCP AI Platform)\n- NLP or computer vision frameworks (e.g., Hugging Face,\n  OpenCV)\n\nSoft Skills:\n\n- Strong analytical and problem-solving abilities.\n- Excellent communication skills, both verbal and written.\n- Ability to work independently and within cross-functional\n  teams.\n- Curiosity, adaptability, and willingness to learn\n  continuously.\n",
+  "skills_required": [
+    "Hugging Face",
+    "LLMs",
+    "PyTorch",
+    "TensorFlow",
+    "generative AI",
+    "hyperparameter tuning",
+    "model evaluation",
+    "scikit-learn",
+    "transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and deploy ML models for classification, regression, NLP, computer vision, and time-series forecasting",
+    "Clean, preprocess, and transform structured and unstructured datasets while engineering relevant features",
+    "Package and deploy models using Docker, Flask/FastAPI, and Kubernetes with CI/CD pipelines",
+    "Implement MLOps practices using MLflow, Airflow, or Kubeflow for monitoring model drift and performance",
+    "Translate real-world business problems into AI/ML use cases and prototype AI-driven solutions",
+    "Experiment with cutting-edge models including LLMs, transformers, and generative AI technologies",
+    "Collaborate cross-functionally with software developers, DevOps, data analysts, and domain experts"
+  ],
+  "use_cases": [
+    "Recommendation engines",
+    "Chatbots and conversational AI",
+    "Fraud detection systems",
+    "Classification and regression predictive analytics",
+    "Natural language processing applications",
+    "Computer vision solutions"
+  ],
+  "tools_mentioned": [
+    "AWS SageMaker",
+    "Airflow",
+    "Azure ML",
+    "CI/CD",
+    "DVC",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "GCP AI Platform",
+    "Kubeflow",
+    "Kubernetes",
+    "MLflow",
+    "NumPy",
+    "REST APIs",
+    "pandas",
+    "pipeline automation"
+  ],
+  "frameworks_mentioned": [
+    "Hugging Face",
+    "LLMs",
+    "PyTorch",
+    "TensorFlow",
+    "generative AI",
+    "hyperparameter tuning",
+    "model evaluation",
+    "scikit-learn",
+    "transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work designing, building,\ndeploying, and optimizing machine learning models and AI-\ndriven solutions. The engineer works directly on models for\nclassification, regression, NLP, computer vision, and\nexperiments with LLMs and generative AI technologies.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "transformers",
+      "generative AI"
+    ],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "Hugging Face",
+      "model evaluation",
+      "hyperparameter tuning"
+    ],
+    "web": [
+      "Flask",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "pandas",
+      "NumPy",
+      "Airflow"
+    ],
+    "cloud": [
+      "AWS SageMaker",
+      "Azure ML",
+      "GCP AI Platform"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "Kubeflow",
+      "DVC",
+      "pipeline automation",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "OpenCV",
+      "NLP",
+      "Computer Vision"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

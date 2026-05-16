@@ -1,0 +1,148 @@
+{
+  "job_id": "intl-ai-corpus-2718",
+  "source": "intl-ai-corpus",
+  "source_ref": "8981900",
+  "source_url": "https://builtin.com/job/junior-ai-engineer/8981900",
+  "title": "Junior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "eClerx LLC",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-07",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "12,544 Employees",
+  "company_stage": "Public",
+  "company_focus": "Business process management, automation, and analytics\nservices for enterprises",
+  "industries": [],
+  "description": "Junior AI Engineer\n\nLocation: New York, US\n\nType: Full-time\n\nDepartment: Financial Markets\n\nJob Summary\n\neClerx supports global financial institutions across trade\nsupport, financial crime compliance, client lifecycle, asset\nservicing, settlements & clearing, and data/document\noperations—often at large scale and under strict accuracy\nand compliance expectations.\n\nYou’ll join a team building AI-powered tools (agentic\nworkflows + GenAI capabilities) that help streamline\noperations, improve control effectiveness, and reduce manual\neffort—while remaining audit-ready and secure.\n\nResponsibilities\n\n- Build agentic & GenAI tools for Financial Markets use cases\n  - Develop agentic AI workflows that can plan, execute, and\n    validate steps across operational processes (e.g.,\n    exception triage, document checks, workflow routing, and\n    knowledge-assisted decisioning).\n  - Build GenAI features such as summarization, classification,\n    extraction, drafting, and Q&A for financial operations,\n    with a focus on reliability and traceability.\n  - Create RAG pipelines to ground LLM outputs in approved\n    knowledge sources (policies, SOPs, regulatory artifacts,\n    client documentation, historical cases).\n- Engineer production-grade integrations\n  - Implement tool-calling / function-calling patterns so agents\n    can safely interact with internal systems (case\n    management, CRMs/ERPs, data services, document\n    repositories) and produce structured outputs.\n  - Build backend services and APIs that package AI capabilities\n    into reusable components (internal tools and/or client-\n    facing solutions).\n  - Write clean, maintainable code with strong engineering\n    hygiene: unit tests, integration tests, code review\n    participation, CI/CD readiness, and documentation.\n- Quality, evaluation, and responsible deployment\n  - Design lightweight evaluation harnesses and test suites\n    (golden datasets, regression tests, prompt/version\n    tracking, and error analysis) to continuously improve\n    accuracy and consistency.\n  - Implement guardrails and human-in-the-loop checkpoints where\n    appropriate (especially for compliance-sensitive\n    decisions).\n  - Collaborate with domain SMEs (ops, compliance, risk) to\n    translate requirements into measurable system behavior\n    and acceptance criteria.\n\nEligibility Requirements\n\n- 2+ years’ experience building production software with\n  strong hands-on coding ownership.\n- Strong Python programming skills with comfort working in a\n  shared professional codebase; familiarity with Java or\n  TypeScript/JavaScript is a plus\n- Foundational understanding of LLMs: attention mechanisms,\n  tokenization, context windows, and inference trade-offs\n- Practical experience with LLM/GenAI development: prompt and\n  context design, structured outputs, tool calling, and\n  agentic workflows\n- Familiarity with common engineering practices: Git, REST\n  APIs, logging basics, and data handling (JSON, SQL)\n- Ability to work in ambiguous problem spaces and iterate\n  quickly with feedback from product and ops stakeholders\n- Preferred Qualifications\n  - Personal projects, open-source contributions, or research on\n    ML or applied ML\n  - Experience building RAG systems: chunking strategies,\n    embedding models, vector stores (e.g. FAISS), and\n    retrieval evaluation\n  - Hands-on experience with agentic orchestration frameworks\n    such as LangGraph or LangChain-style state machines,\n    deployed into real APIs or services\n  - Exposure to financial services operations (capital markets\n    ops, KYC/ client lifecycle, AML/compliance,\n    reconciliations, exceptions processing).\n  - Experience with intelligent document processing pipelines:\n    PDF parsing, schema mapping, and field validation\n  - Familiarity with deep learning frameworks (PyTorch,\n    TensorFlow, or JAX) and strong applied ML fundamentals\n  - Knowledge of responsible AI concepts: privacy,\n    explainability, and evaluation discipline\n  - Full-stack development experience (e.g. React, Next.js,\n    FastAPI) is a meaningful bonus.\n\nIn the US, the target base salary for this role is\n$100,000-$120,000. Compensation is based on a range of\nfactors that include relevant experience, knowledge, skills,\nother job-related qualifications, and geography. We expect\nthe majority of candidates who are offered roles at our\ncompany to fall throughout the range based on these factors\n\nHow to Apply\n\n- Click \"Apply Now\" to submit your resume through our career\n  site\n- Be sure to include any relevant experience that aligns with\n  the role.\n- Qualified candidates will be contacted by a member of our\n  recruitment team for next steps\n- Please include your github and LinkedIn profile\n\nAbout eClerx\n\neClerx is a leading provider of productized services,\nbringing together people, technology and domain expertise to\namplify business results. The firm provides business process\nmanagement, automation, and analytics services to a number\nof Fortune 2000 enterprises, including some of the world’s\nleading financial services, communications, retail, fashion,\nmedia & entertainment, manufacturing, travel & leisure, and\ntechnology companies. Incorporated in 2000, eClerx is traded\non both the Bombay and National Stock Exchanges of India.\nThe firm employs more than 19,000 people across Australia,\nCanada, France, Germany, Switzerland, Egypt. India, Italy,\nNetherlands, Peru, Philippines, Singapore, Thailand, the UK,\nand the USA.\n\nFor more information, visit www.eclerx.com\n\nYou can also find us on:\n\nhttps://www.linkedin.com/company/eclerx/\n\nhttps://www.indeed.com/cmp/Eclerx/about\n\nhttps://www.glassdoor.com/eClerx\n\neClerx is an Equal Opportunity Employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, sex, national origin,\ndisability or protected veteran status, or any other legally\nprotected basis, in accordance with applicable law. We are\nalso committed to protecting and safeguarding your personal\ndata. Please find our policy here\n",
+  "skills_required": [
+    "Agentic workflows",
+    "Function calling / Tool calling",
+    "JAX",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "Structured outputs",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build agentic AI workflows for exception triage, document checks, workflow routing, and knowledge-assisted decisioning in financial operations",
+    "Build GenAI features including summarization, classification, extraction, drafting, and Q&A with focus on reliability and traceability",
+    "Create RAG pipelines to ground LLM outputs in approved knowledge sources such as policies, SOPs, and regulatory artifacts",
+    "Implement tool-calling and function-calling patterns for agents to interact with internal systems and produce structured outputs",
+    "Build backend services and APIs that package AI capabilities into reusable components",
+    "Design evaluation harnesses and test suites including golden datasets, regression tests, and prompt/version tracking",
+    "Implement guardrails and human-in-the-loop checkpoints for compliance-sensitive decisions",
+    "Collaborate with domain SMEs in ops, compliance, and risk to translate requirements into measurable system behavior"
+  ],
+  "use_cases": [
+    "Exception triage and document checking for financial operations",
+    "Workflow routing and knowledge-assisted decisioning",
+    "Summarization, classification, and extraction for financial documents",
+    "Q&A and drafting for financial operations",
+    "Intelligent document processing with PDF parsing and field validation",
+    "Financial crime compliance (KYC/AML) support"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "FAISS",
+    "FastAPI",
+    "Git",
+    "JSON",
+    "Next.js",
+    "REST APIs",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "Agentic workflows",
+    "Function calling / Tool calling",
+    "JAX",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "Structured outputs",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Java",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building agentic AI workflows and\nGenAI tools (RAG pipelines, agentic orchestration, prompt\nengineering, tool calling) for financial markets operations.\nThe engineer is hands-on with LLMs, agents, and production\nGenAI systems, making this clearly an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "Prompt engineering",
+      "Agentic workflows",
+      "Function calling / Tool calling",
+      "Structured outputs"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "JAX"
+    ],
+    "web": [
+      "REST APIs",
+      "FastAPI",
+      "React",
+      "Next.js"
+    ],
+    "databases": [
+      "FAISS"
+    ],
+    "data": [
+      "JSON"
+    ],
+    "cloud": [],
+    "ops": [
+      "Git",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "TypeScript",
+      "JavaScript",
+      "SQL"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

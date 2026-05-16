@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-1302",
+  "source": "intl-ai-corpus",
+  "source_ref": "8386011",
+  "source_url": "https://builtin.com/job/ai-engineer/8386011",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Milliman",
+  "company_type": "entité morale privée",
+  "location": "Navi Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,644 Employees",
+  "company_stage": "Mature",
+  "company_focus": "Actuarial consulting and financial services",
+  "industries": [
+    "Healthtech",
+    "HR Tech",
+    "Insurance",
+    "Consulting"
+  ],
+  "description": "About Milliman:\n\nMilliman is among the world's largest providers of actuarial\nand related products and services. Our mission is to serve\nour clients to protect the health and financial well-being\nof people everywhere. Founded in 1947, Milliman is an\nindependent firm with offices in major cities around the\nglobe. We are owned and managed by our principals—senior\nconsultants whose selection is based on their technical,\nprofessional, and business achievements. Milliman serves the\nfull spectrum of business, financial, government, union,\neducation, and nonprofit organizations. In addition to our\nconsulting actuaries, Milliman's body of professionals\nincludes numerous other specialists, ranging from clinicians\nto economists.\n\nPosition Overview:\n\nWe are seeking a skilled and motivated AI Engineer with a\nstrong focus on advanced language model technologies,\nspecifically with 2 to 3 years of experience working with\nLlama 3 or Mistral 7B using spaCy or Haystack. Additionally,\nthe ideal candidate will have some experience with the .NET\ntech stack. This role involves integrating these\ntechnologies into our software solutions to enhance\nfunctionality and meet the needs of our organization and\nclients.\n\nKey Responsibilities:\n\n- Integrate language models like Llama 3 or Mistral 7B using\n  spaCy or Haystack to augment software capabilities.\n- Design and develop solutions leveraging language\n  technologies for improved data processing and user\n  interaction.\n- Collaborate with cross-functional teams to identify\n  requirements and deliver solutions with advanced language\n  processing capabilities.\n- Develop and maintain applications using elements of the .NET\n  tech stack as needed.\n- Work with XML for data manipulation and exchange.\n- Implement JavaScript and Ajax to enhance user interface and\n  experience.\n- Troubleshoot and resolve application issues and optimize\n  language model integration.\n- Participate in code reviews and contribute to the continuous\n  improvement of development processes.\n\nQualifications:\n\n- Bachelor's degree in computer science, Information\n  Technology, or related field.\n- 2 to 3 years of experience with Llama 3 or Mistral 7B using\n  spaCy or Haystack.\n- Some experience with the .NET tech stack, including ASP.NET\n  or MVC.\n- Strong understanding of language model integration and\n  optimization.\n- Proficient in JavaScript, Ajax, and CSS for front-end\n  development.\n- Experience with data manipulation and exchange using XML.\n- Ability to work independently and as part of a team.\n- Excellent problem-solving skills and attention to detail.\n- Good communication skills, both written and verbal.\n\nPreferred Skills:\n\n- Experience with Agile development methodologies.\n- Knowledge of modern front-end frameworks and libraries.\n- Familiarity with version control systems like Git.\n- Understanding of software development lifecycle (SDLC)\n  processes.\n",
+  "skills_required": [
+    "Haystack",
+    "Llama 3",
+    "Mistral 7B",
+    "spaCy"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Integrate language models like Llama 3 or Mistral 7B using spaCy or Haystack to augment software capabilities",
+    "Design and develop solutions leveraging language technologies for improved data processing and user interaction",
+    "Collaborate with cross-functional teams to identify requirements and deliver solutions with advanced language processing capabilities",
+    "Develop and maintain applications using elements of the .NET tech stack as needed",
+    "Work with XML for data manipulation and exchange",
+    "Implement JavaScript and Ajax to enhance user interface and experience",
+    "Troubleshoot and resolve application issues and optimize language model integration",
+    "Participate in code reviews and contribute to the continuous improvement of development processes"
+  ],
+  "use_cases": [
+    "Enhance actuarial and financial software with language model capabilities",
+    "Improve data processing workflows using NLP technologies",
+    "Augment user interaction capabilities in client-facing applications",
+    "Support financial well-being and health protection services through AI-powered solutions"
+  ],
+  "tools_mentioned": [
+    ".NET",
+    "ASP.NET",
+    "Agile",
+    "Ajax",
+    "CSS",
+    "Git",
+    "MVC",
+    "XML"
+  ],
+  "frameworks_mentioned": [
+    "Haystack",
+    "Llama 3",
+    "Mistral 7B",
+    "spaCy"
+  ],
+  "languages_programming": [
+    "JavaScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves direct hands-on integration of language\nmodels (Llama 3, Mistral 7B) using spaCy or Haystack to\naugment software capabilities. The engineer will be\ndesigning, developing, and optimizing language model\nintegrations, which is core work building and deploying AI\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Llama 3",
+      "Mistral 7B",
+      "spaCy",
+      "Haystack"
+    ],
+    "ml": [],
+    "web": [
+      ".NET",
+      "ASP.NET",
+      "MVC",
+      "Ajax",
+      "CSS"
+    ],
+    "databases": [],
+    "data": [
+      "XML"
+    ],
+    "cloud": [],
+    "ops": [
+      "Git",
+      "Agile"
+    ],
+    "languages": [
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

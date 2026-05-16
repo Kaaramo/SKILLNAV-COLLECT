@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-0482",
+  "source": "intl-ai-corpus",
+  "source_ref": "8093646",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer/8093646",
+  "title": "Senior AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Natera",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,721 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cell-free DNA testing for oncology, women's health, and\norgan health diagnostics",
+  "industries": [],
+  "description": "Role Overview\n\nThe Senior AI/ML Engineer is responsible for designing,\nbuilding, and deploying Natera’s Generative AI and Machine\nLearning platforms. The role needs excellent hands-on\nengineering excellence to build robust, compliant, and\nefficient Generative AI and ML platform components. This\nrole requires deep expertise in Generative AI and machine\nlearning engineering at scale, with a passion for building\nrobust, compliant, and high-performance systems that\ndirectly impact patient outcomes and clinical innovation.\n\nYou will design, build, and scale enterprise-grade AI/ML\nsystems that power internal workflows (R&D, Lab Ops,\nClinical Trials, Billing, Patient/Provider engagement) and\nexternal-facing AI/ML platforms. You will design and build\ncutting-edge AI solutions leveraging agentic architecture,\nretrieval-augmented generation (RAG), vector search, feature\nstores, LLMOps, experimentation, observability, and\ncompliance-first AI pipelines. You will be responsible for\ndevelopment of a production-ready Generative AI and MLOps\nplatform with reusable components used to deploy multiple AI\nsolutions across Natera’s business units. You will also\ndevelop clear standards and best practices established for\nAI/ML development across the organization.\n\nKey ResponsibilitiesPlatform Development\n\n- Design and implement foundational GenAI services: vector\n  search, prompt tuning, agent orchestration, document\n  extraction, context/memory services, model/endpoint\n  registry, feature/embedding stores, guardrails, and\n  evaluation pipelines\n- Build the underlying infrastructure for autonomous and semi-\n  autonomous AI agents including support for agent\n  collaboration, reasoning, and memory persistence, enabling\n  continuous context-aware execution\n- Build standardized APIs/SDKs that make it easy for product\n  teams to compose, deploy, and monitor Generative AI\n  workloads.\n- Ensure platform components meet enterprise-grade\n  requirements for scalability, latency, multi-region\n  resilience, and cost efficiency\n\nGenerative AI Enablement\n\n- Stand up LLM runtimes with token/rate governance, caching,\n  and safe tool-use\n- Implement RAG at scale: ingestion pipelines,\n  chunking/embedding policies, hybrid search, relevance/risk\n  scoring, and feedback loops\n- Build agent orchestration (single & multi-agent) with\n  planning, tool routing, shared/persistent memory, and\n  inter-agent communication\n- Integrate tooling and APIs that allow agents to interact\n  with internal systems, retrieve data securely, and take\n  action under strict controls\n- Collaborate with research teams to prototype and\n  productionize multi-agent architectures for workflow\n  automation, report generation, and data synthesis.\n\nInfrastructure & Automation\n\n- Implement cloud-native infrastructure for large-scale model\n  training and serving using Kubernetes, MLflow, Terraform,\n  and AWS-native services\n- Automate data and model pipelines for RAG, LLM fine-tuning,\n  and agent orchestration\n- Integrate observability tools (Datadog or equivalent) for\n  real-time performance, drift detection and safety\n  monitoring of AI outputs\n- Optimize compute and storage architecture to ensure cost-\n  effective scaling of large models and multi-agent\n  workloads\n- Partner with security, data governance, SRE, and application\n  teams to productize platform capabilities\n\nSafety, Security & Compliance Integration\n\n- Embed compliance-by-design (HIPAA/CLIA/CAP/FDA/GDPR):\n  PHI/PII handling, encryption, access controls, audit\n  trails\n- Implement guardrails: input/output filters, prompt\n  hardening, allow/deny policies for tool execution, policy-\n  as-code in CI/CD\n- Bias/explainability hooks and automated evaluations for\n  RAG/LLM/agents; drift and regression detection\n\nTechnical Leadership & Mentorship\n\n- Establish golden paths (templates, examples, docs) and lead\n  platform architecture reviews, code reviews, and design\n  discussions\n- Partner with data scientists, AI researchers, and product\n  engineers to deliver reliable and maintainable AI services\n- Mentor junior engineers in platform development, distributed\n  systems, and agentic AI infrastructure concepts\n- Influence cross-functional roadmaps by partnering with\n  Product and Engineering leadership to align delivery with\n  business needs\n\nQualificationsRequired:\n\n- 8+ years in software/ML engineering, with 5+ years in ML\n  engineering at scale\n- Expertise in building production-grade ML/LLM systems on AWS\n  tech stack (Python, TensorFlow/PyTorch, Spark,\n  MLflow/Kubeflow, vector DBs)\n- Proven track record with GenAI/LLMs: fine-tuning, RAG,\n  prompt orchestration, agentic systems, safety guardrails,\n  monitoring, and cost optimization\n- Hands-on with RAG systems (embeddings, vector DBs, retrieval\n  policies) and LLM runtime operations (caching, quotas,\n  multi-model routing)\n- Experience building agentic AI platforms (LangChain,\n  LlamaIndex, CrewAI, Semantic Kernel, or custom)\n- Deep knowledge of data-intensive systems, distributed\n  architectures, and cloud-native development\n- Strong grounding in compliance-first engineering in\n  healthcare, biotech, or diagnostics preferred\n- Track record building secure, compliant data/AI systems and\n  automating policy checks.\n- Excellent ability to influence across teams, mentor\n  engineers, and set technical standards\n\nPreferred:\n\n- Masters degree in Computer Science, AI/ML, engineering or\n  related field\n- Experience in healthcare, pharma, diagnostics, or other\n  regulated industries\n- Familiarity with AI governance frameworks, bias detection,\n  explainability, and compliance (e.g., HIPAA, CLIA, FDA)\n\nThe pay range is listed and actual compensation packages are\nbased on a wide array of factors unique to each candidate,\nincluding but not limited to skill set, years & depth of\nexperience, certifications and specific office location.\nThis may differ in other locations due to cost of labor\nconsiderations.\n\nRemote USA\n\n$125,600—$157,000 USD\n\nOUR OPPORTUNITY\n\nNatera™ is a global leader in cell-free DNA (cfDNA) testing,\ndedicated to oncology, women’s health, and organ health. Our\naim is to make personalized genetic testing and diagnostics\npart of the standard of care to protect health and enable\nearlier and more targeted interventions that lead to longer,\nhealthier lives.\n\nThe Natera team consists of highly dedicated statisticians,\ngeneticists, doctors, laboratory scientists, business\nprofessionals, software engineers and many other\nprofessionals from world-class institutions, who care deeply\nfor our work and each other. When you join Natera, you’ll\nwork hard and grow quickly. Working alongside the elite of\nthe industry, you’ll be stretched and challenged, and take\npride in being part of a company that is changing the\nlandscape of genetic disease management.\n\nWHAT WE OFFER\n\nCompetitive Benefits - Employee benefits include\ncomprehensive medical, dental, vision, life and disability\nplans for eligible employees and their dependents.\nAdditionally, Natera employees and their immediate families\nreceive free testing in addition to fertility care benefits.\nOther benefits include pregnancy and baby bonding leave,\n401k benefits, commuter benefits and much more. We also\noffer a generous employee referral program!\n\nFor more information, visit www.natera.com.\n\nNatera is proud to be an Equal Opportunity Employer. We are\ncommitted to ensuring a diverse and inclusive workplace\nenvironment, and welcome people of different backgrounds,\nexperiences, abilities and perspectives. Inclusive\ncollaboration benefits our employees, our community and our\npatients, and is critical to our mission of changing the\nmanagement of disease worldwide.\n\nAll qualified applicants are encouraged to apply, and will\nbe considered without regard to race, color, religion,\ngender, gender identity or expression, sexual orientation,\nnational origin, genetics, age, veteran status, disability\nor any other legally protected status. We also consider\nqualified applicants regardless of criminal histories,\nconsistent with applicable laws.\n\nIf you are based in California, we encourage you to read\nthis important information for California residents.\n\nLink: https://www.natera.com/notice-of-data-collection-\ncalifornia-residents/\n\nPlease be advised that Natera will reach out to candidates\nwith a @natera.com email domain ONLY. Email communications\nfrom all other domain names are not from Natera or its\nemployees and are fraudulent. Natera does not request\ninterviews via text messages and does not ask for personal\ninformation until a candidate has engaged with the company\nand has spoken to a recruiter and the hiring team. Natera\ntakes cyber crimes seriously, and will collaborate with law\nenforcement authorities to prosecute any related cyber\ncrimes.\n\nFor more information:\n- BBB announcement on job scams\n- FBI Cyber Crime resource page\n",
+  "skills_required": [
+    "CLIA",
+    "CrewAI",
+    "FDA regulations",
+    "GDPR",
+    "HIPAA",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "Semantic Kernel",
+    "TensorFlow",
+    "agents",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement foundational GenAI services including vector search, prompt tuning, agent orchestration, document extraction, context/memory services, model/endpoint registry, feature/embedding stores, guardrails, and evaluation pipelines",
+    "Build infrastructure for autonomous and semi-autonomous AI agents with support for agent collaboration, reasoning, memory persistence, and continuous context-aware execution",
+    "Build standardized APIs/SDKs for composing, deploying, and monitoring Generative AI workloads across enterprise systems",
+    "Implement RAG at scale with ingestion pipelines, chunking/embedding policies, hybrid search, relevance/risk scoring, and feedback loops",
+    "Build agent orchestration systems for single and multi-agent workflows with planning, tool routing, shared memory, and inter-agent communication",
+    "Implement cloud-native infrastructure for large-scale model training and serving using Kubernetes, MLflow, Terraform, and AWS services",
+    "Embed compliance-by-design controls for HIPAA/CLIA/CAP/FDA/GDPR with PHI/PII handling, encryption, access controls, and audit trails"
+  ],
+  "use_cases": [
+    "Power internal workflows across R&D, Lab Ops, Clinical Trials, Billing, and Patient/Provider engagement using AI/ML platforms",
+    "Enable workflow automation through multi-agent architectures that can interact with internal systems and take action under strict controls",
+    "Generate automated reports and data synthesis for clinical and research applications",
+    "Support clinical innovation and patient outcomes through AI-powered decision support and engagement tools",
+    "Provide secure, compliant AI solutions for healthcare diagnostics and genetic testing workflows"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Datadog",
+    "Docker",
+    "Kubeflow",
+    "Kubernetes",
+    "MLflow",
+    "Spark",
+    "Terraform",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "Semantic Kernel",
+    "TensorFlow",
+    "agents",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building, deploying, and scaling\nGenerative AI systems including RAG pipelines, agent\norchestration, LLM fine-tuning, and vector search\ninfrastructure. The engineer is directly implementing model\ncapabilities (agents, RAG, prompt orchestration, guardrails)\nrather than just supporting AI workflows for other teams.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "CrewAI",
+      "Semantic Kernel",
+      "RAG",
+      "agents",
+      "prompt engineering"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "Spark"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "MLflow",
+      "Kubeflow",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Datadog",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "HIPAA",
+      "CLIA",
+      "FDA regulations",
+      "GDPR"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

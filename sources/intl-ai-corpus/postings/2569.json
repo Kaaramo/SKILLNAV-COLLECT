@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-2569",
+  "source": "intl-ai-corpus",
+  "source_ref": "8890812",
+  "source_url": "https://builtin.com/job/ai-backend-python-engineer-software-engineer-ii-evergreen-req/8890812",
+  "title": "AI Backend Python Engineer (Software Engineer II) - Evergreen REQ",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pfizer",
+  "company_type": "entité morale privée",
+  "location": "Chennai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "121,990 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global pharmaceutical and biotechnology corporation",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Biotech",
+    "Pharmaceutical"
+  ],
+  "description": "Job Description The AI Backend Python Engineer (SE II) will\ndevelop and maintain backend systems that power generative\nAI applications and large language model (LLM) integrations.\nThis role focuses on implementing features for scalable,\nsecure, and high-performance services using Python and AWS\ncloud infrastructure, with guidance from senior engineers.\nThis is an individual contributor role. KEY RESPONSIBILITIES\n\n- Implement Python-based backend services (on FastAPI) for AI\n  workloads, including LLM integration and generative AI\n  pipelines\n- Develop APIs and microservices for model serving and\n  inference with guidance from senior team members\n- Build and maintain AWS-based infrastructure components for\n  AI workloads (e.g., Lambda, EKS)\n- Write clean, well-tested, and maintainable code following\n  established patterns and best practices\n- Integrate LLMs and generative AI models into production\n  systems using frameworks like LangChain, Langfuse, and\n  litellm\n- Implement monitoring, logging, and observability features\n  for assigned backend services\n- Participate in code reviews and contribute to team knowledge\n  sharing\n- Debug and resolve production issues with support from senior\n  engineers\n- Collaborate with cross-functional teams to understand\n  requirements and deliver features\n\nBASIC QUALIFICATIONS\n\n- 2-4 years of professional software engineering experience or\n  equivalent\n- Strong proficiency in Python for backend development in\n  production environments\n- Understanding of LLMs, generative AI concepts, and modern AI\n  frameworks (e.g., litellm, LangChain)\n- Experience with AWS services (Lambda, API Gateway, EKS)\n- Knowledge of RESTful API design and microservices\n  architecture\n- Familiarity with containerization (Docker) and version\n  control (Git)\n- Bachelor's degree in Computer Science, Engineering, or\n  related field, or equivalent practical experience\n- Strong problem-solving skills and attention to detail\n\nPREFERRED QUALIFICATIONS\n\n- Hands-on experience building APIs for AI/ML workloads in\n  production\n- Experience with FastAPI or similar Python web frameworks\n- Familiarity with Langfuse for LLM observability\n- Knowledge of CI/CD practices and automated testing\n- Understanding of database systems (SQL and NoSQL)\n- Experience with event-driven architectures\n- Strong communication skills and ability to work\n  collaboratively in a team environment\n\nWork location assignment : Remote Pfizer is an equal\nopportunity employer and complies with all applicable equal\nemployment opportunity legislation in each jurisdiction in\nwhich it operates. Information & Business Tech\n",
+  "skills_required": [
+    "Generative AI pipelines",
+    "LLM integration",
+    "LangChain",
+    "Langfuse",
+    "litellm"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement Python-based backend services (on FastAPI) for AI workloads, including LLM integration and generative AI pipelines",
+    "Develop APIs and microservices for model serving and inference with guidance from senior team members",
+    "Build and maintain AWS-based infrastructure components for AI workloads (e.g., Lambda, EKS)",
+    "Integrate LLMs and generative AI models into production systems using frameworks like LangChain, Langfuse, and litellm",
+    "Implement monitoring, logging, and observability features for assigned backend services",
+    "Write clean, well-tested, and maintainable code following established patterns and best practices",
+    "Participate in code reviews and contribute to team knowledge sharing",
+    "Debug and resolve production issues with support from senior engineers"
+  ],
+  "use_cases": [
+    "LLM integration and generative AI pipelines for pharmaceutical applications",
+    "Model serving and inference APIs for production AI workloads",
+    "Scalable backend services powering generative AI applications",
+    "AWS-hosted AI infrastructure for enterprise workloads",
+    "LLM observability and monitoring for production systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS API Gateway",
+    "AWS EKS",
+    "AWS Lambda",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Git",
+    "Microservices architecture",
+    "NoSQL",
+    "RESTful API design",
+    "SQL"
+  ],
+  "frameworks_mentioned": [
+    "Generative AI pipelines",
+    "LLM integration",
+    "LangChain",
+    "Langfuse",
+    "litellm"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly implementing LLM integrations,\nbuilding generative AI pipelines, and developing APIs for\nmodel serving and inference using frameworks like LangChain,\nLangfuse, and litellm. The engineer is hands-on with AI/LLM\nsystems, making this an ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Langfuse",
+      "litellm",
+      "LLM integration",
+      "Generative AI pipelines"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "RESTful API design",
+      "Microservices architecture"
+    ],
+    "databases": [
+      "SQL",
+      "NoSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Lambda",
+      "AWS EKS",
+      "AWS API Gateway",
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "Git",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

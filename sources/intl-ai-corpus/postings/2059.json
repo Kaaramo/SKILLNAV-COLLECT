@@ -1,0 +1,117 @@
+{
+  "job_id": "intl-ai-corpus-2059",
+  "source": "intl-ai-corpus",
+  "source_ref": "8725547",
+  "source_url": "https://builtin.com/job/software-engineer-ai-platform/8725547",
+  "title": "Software Engineer, AI Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Harvey",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-12",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "373 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "AI-powered legal and professional services platform using\nagentic AI",
+  "industries": [
+    "Artificial Intelligence",
+    "Legal Tech",
+    "Professional Services",
+    "Software"
+  ],
+  "description": "Why Harvey\n\nAt Harvey, we’re transforming how legal and professional\nservices operate — not incrementally, but end-to-end. By\ncombining frontier agentic AI, an enterprise-grade platform,\nand deep domain expertise, we’re reshaping how critical\nknowledge work gets done for decades to come.\n\nThis is a rare chance to help build a generational company\nat a true inflection point. With 1000+ customers in 60+\ncountries, strong product-market fit, and world-class\ninvestor support, we’re scaling fast and defining a new\ncategory in real time. The work is ambitious, the bar is\nhigh, and the opportunity for growth — personal,\nprofessional, and financial — is unmatched.\n\nOur team is sharp, motivated, and deeply committed to the\nmission. We move fast, operate with intensity, and take real\nownership of the problems we tackle — from early thinking to\nlong-term outcomes. We stay close to our customers — from\nleadership to engineers — and work together to solve real\nproblems with urgency and care. If you thrive in ambiguity,\npush for excellence, and want to help shape the future of\nwork alongside others who raise the bar, we invite you to\nbuild with us.\n\nAt Harvey, the future of professional services is being\nwritten today — and we’re just getting started.\n\nRole Overview\n\nHarvey’s products all depend on a shared AI foundation: the\nmodel layer and agent infrastructure that determine the\nquality of work our agents deliver. Legal is one of the\nhardest domains for AI: documents run to hundreds of pages,\nmatters can span millions of files, and there is zero margin\nfor error on accuracy.\n\nThe AI Platform team builds the foundation that every\nproduct and agent team at Harvey builds upon. This team is\nearly and there’s a lot to build: model routing, agent\narchitecture, context management, evals. Your work here sets\nthe ceiling for what Harvey’s AI can do.\n\nRepresentative Projects\n\n- Context Engineering & Agent Infrastructure. Build the\n  platform-level systems for context management, session\n  state, and memory that all of Harvey’s agents and products\n  rely on.\n- Model Integration & Routing. Own the infrastructure that\n  lets Harvey onboard new foundation models fast and route\n  to the right one for every task - a capability every\n  product team depends on.\n- Evaluation Infrastructure. Build the shared eval tooling and\n  frameworks that let every team across Harvey measure and\n  improve AI quality systematically.\n- Shared Abstractions. Create the SDKs, platform primitives,\n  and developer tooling that make it dramatically easier for\n  product teams to ship AI-powered features.\n\nWhat You’ll Do\n\n- Design and build abstractions and platform-level systems\n  that improve all of Harvey’s agentic products.\n- Own infrastructure for model integration, routing, and\n  evaluation that helps Harvey choose and deploy the right\n  foundation model for any given context.\n- Build evaluation frameworks and tooling that let every team\n  across Harvey iterate on AI quality effectively.\n- Partner closely with product engineering teams, PMs, and\n  design to launch cutting-edge AI products.\n- Evaluate, prototype, and integrate the latest advancements\n  in AI and agentic systems as they emerge.\n\nWhat You Have\n\n- 5+ years of experience building backend systems, with at\n  least 1+ year focused on AI/ML engineering. Staff\n  candidates will typically have 8+ years and a track record\n  of technical leadership across teams.\n- Experience building and shipping multi-model or multi-\n  provider AI systems in production.\n- Familiarity with context management, session state, or\n  memory systems in AI or distributed systems. You’ve\n  thought about what the model sees and why it matters.\n- A track record of building internal platforms, SDKs, or\n  shared infrastructure that other engineering teams\n  actually adopted - and an understanding of why developer\n  experience matters as much as raw capability.\n- Strong judgment about abstractions. Opinionated about good\n  design but pragmatic about shipping incrementally.\n- Excitement about agentic AI and the infrastructure\n  challenges of making autonomous systems reliable when the\n  stakes are real.\n- A bias toward full ownership: you navigate ambiguity well\n  and don’t wait for a roadmap to start solving problems.\n- Bonus: experience building evaluation frameworks, working\n  with agent/function-calling architectures, familiarity\n  with legal or other high-stakes professional services\n  domains, or time at early-stage or hyper-growth startups\n  where the underlying technology changes regularly.\n\nCompensation\n\n$220,000 - $300,000\n\nHarvey is an equal opportunity employer and does not\ndiscriminate on the basis of race, gender, sexual\norientation, gender identity/expression, national origin,\ndisability, age, genetic information, veteran status,\nmarital status, pregnancy or related condition, or any other\nbasis protected by law.\n\nWe are committed to providing reasonable accommodations to\napplicants with disabilities, and requests can be made by\nemailing accommodations@harvey.ai\n",
+  "skills_required": [
+    "SDKs",
+    "agent infrastructure",
+    "agentic AI",
+    "context management",
+    "distributed systems",
+    "foundation models",
+    "function calling",
+    "model routing",
+    "multi-model systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build platform-level abstractions and systems that improve Harvey's agentic AI products",
+    "Own infrastructure for multi-provider model integration, routing, and evaluation to deploy the right foundation models",
+    "Build evaluation frameworks and tooling that enable teams across Harvey to iterate on AI quality",
+    "Partner with product engineering teams, PMs, and design to launch cutting-edge AI products",
+    "Evaluate, prototype, and integrate the latest advancements in AI and agentic systems",
+    "Create SDKs, platform primitives, and developer tooling for AI-powered features",
+    "Build context management, session state, and memory systems for agent infrastructure"
+  ],
+  "use_cases": [
+    "Legal document analysis and processing across hundreds of pages",
+    "Managing legal matters spanning millions of files with zero tolerance for accuracy errors",
+    "Agent-based automation of professional knowledge work",
+    "Multi-model AI routing for optimal task-specific model selection",
+    "Enterprise-grade AI platform for legal and professional services"
+  ],
+  "tools_mentioned": [
+    "backend systems",
+    "evaluation frameworks"
+  ],
+  "frameworks_mentioned": [
+    "agent infrastructure",
+    "agentic AI",
+    "context management",
+    "foundation models",
+    "function calling",
+    "model routing",
+    "multi-model systems"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building foundational AI systems\nincluding model routing, agent infrastructure, context\nmanagement, and evaluation frameworks for LLM-based agents.\nThe engineer will directly work on multi-model AI systems,\nagent architectures, and deploy foundation models - all core\nAI/ML work on the systems themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "context management",
+      "agent infrastructure",
+      "multi-model systems",
+      "model routing",
+      "function calling",
+      "agentic AI"
+    ],
+    "ml": [
+      "foundation models"
+    ],
+    "web": [
+      "backend systems"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "evaluation frameworks"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": [
+      "SDKs",
+      "distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

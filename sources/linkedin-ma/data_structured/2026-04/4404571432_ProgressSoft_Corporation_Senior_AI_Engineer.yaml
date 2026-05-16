@@ -1,0 +1,71 @@
+company:
+  name: ProgressSoft Corporation
+  stage: null
+  focus: null
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases:
+  - Forecasting
+  - Dashboarding & reporting
+  skills:
+    genai:
+    - agents
+    - fine-tune
+    - genai
+    - generative ai
+    - langchain
+    - llm
+    - llmops
+    - llms
+    - rag
+    - retrieval-augmented
+    ml:
+    - deep learning
+    - hugging face
+    - ml
+    - opencv
+    - pytorch
+    - scikit-learn
+    - tensorflow
+    - transformers
+    web: []
+    databases: []
+    data:
+    - airflow
+    - data lake
+    - databricks
+    - numpy
+    - pandas
+    - prefect
+    - spark
+    - sql
+    cloud:
+    - aws
+    - gcp
+    ops:
+    - ci/cd
+    - docker
+    - kubernetes
+    - mlflow
+    - weights & biases
+    languages:
+    - python
+    domains:
+    - forecasting
+    other:
+    - dashboard
+    - Git
+    - MLOps
+    - power bi
+    - PySpark
+    - tableau
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4404571432'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

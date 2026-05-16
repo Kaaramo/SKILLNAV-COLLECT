@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0739",
+  "source": "intl-ai-corpus",
+  "source_ref": "6363394",
+  "source_url": "https://builtin.com/job/senior-aiml-research-and-development-engineer/6363394",
+  "title": "AI/ML R&D Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "WeLocalize",
+  "company_type": "entité morale privée",
+  "location": "Noida, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,331 Employees",
+  "company_stage": null,
+  "company_focus": "Multilingual content transformation, translation, and NLP\ntraining data services",
+  "industries": [
+    "Machine Learning",
+    "Natural Language Processing"
+  ],
+  "description": "As a trusted global transformation partner, Welocalize\naccelerates the global business journey by enabling brands\nand companies to reach, engage, and grow international\naudiences. Welocalize delivers multilingual content\ntransformation services in translation, localization, and\nadaptation for over 250 languages with a growing network of\nover 400,000 in-country linguistic resources. Driving\ninnovation in language services, Welocalize delivers high-\nquality training data transformation solutions for NLP-\nenabled machine learning by blending technology and human\nintelligence to collect, annotate, and evaluate all content\ntypes. Our team works across locations in North America,\nEurope, and Asia serving our global clients in the markets\nthat matter to them. www.welocalize.com\n\nTo perform this job successfully, an individual must be able\nto perform each essential duty satisfactorily. The\nrequirements listed below are representative of the\nknowledge, skill, and/or ability required. Reasonable\naccommodations may be made to enable individuals with\ndisabilities to perform the essential functions.\n\nJob Reference: #LI-JC1\n\nRole Summary:\n\nThe AIML R&D Engineer role is responsible for the design,\ndevelopment and implementation of machine learning solutions\nto serve our organization. This includes ownership or\noversight of projects from conception to deployment with\nappropriate cloud services. The role also includes\nresponsibility for following best practices with which to\noptimize and measure the performance of our models and\nalgorithms against business goals.\n\nTasks and Responsibilities:\n\n- Machine learning model research and development: design,\n  develop and deploy machine learning models for\n  localization and business workflow processes, including\n  machine translation and quality assurance. Utilize\n  appropriate metrics to evaluate model performance and\n  iterate accordingly.\n- Ensure code quality, write robust, well-documented, and\n  structured Python code.\n- Define and design solutions to machine learning problems.\n- Work closely with cross-functional teams to understand\n  business requirements and design solutions that meet those\n  needs.\n- Explain complex technical concepts clearly to non-technical\n  stakeholders.\n- Mentorship: Guide junior team members and contribute to a\n  collaborative team environment.\n\nSuccess indicators of a Machine Learning R&D Engineer:\n\n- Effective Model Development: success is evident when the\n  models developed are accurate, efficient, and align with\n  project requirements.\n- Positive Team Collaboration: demonstrated ability to\n  collaborate effectively with various teams and\n  stakeholders, contributing positively to project outcomes.\n- Continuous Learning and Improvement: a commitment to\n  continuous learning and applying new techniques to improve\n  existing models and processes.\n- Clear Communication: ability to articulate findings,\n  challenges, and insights to a range of stakeholders,\n  ensuring understanding and appropriate.\n\nSkills and Knowledge\n\n- Excellent, in depth understanding of machine learning\n  concepts and methodologies, including supervised and\n  unsupervised learning, deep learning, classification.\n- Hands-on experience with natural language processing (NLP)\n  techniques and tools.\n- Ability to write robust, production-grade code in Python.\n- Excellent communication and documentation skills. Able to\n  explain complex technical concepts to non-technical\n  stakeholders.\n- Experience taking ownership of projects from conception to\n  deployment. Ability to transform business needs to\n  solutions.\n\nNice to have:\n\n- Experience using Large Language Models in production.\n- High proficiency with machine learning frameworks such as\n  TensorFlow, PyTorch, and Scikit-learn.\n- Hands-on experience with AWS technologies including EC2, S3,\n  and other deployment strategies. Experience with SNS,\n  Sagemaker a plus.\n- Experience with ML management technologies and deployment\n  techniques, such as AWS ML offerings, Docker, GPU\n  deployments, etc.\n\nEducation and Experience\n\n- Master degree in Computer Science, Data Science,\n  Engineering, Mathematics or similar field; PhD is a plus\n- 6+ years of experience in AI/ML research and development.\n",
+  "skills_required": [
+    "Deep Learning",
+    "Large Language Models",
+    "Machine Translation",
+    "PyTorch",
+    "Supervised Learning",
+    "TensorFlow",
+    "Unsupervised Learning",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop and deploy machine learning models for localization and business workflow processes",
+    "Build and optimize machine translation and quality assurance models using appropriate evaluation metrics",
+    "Write robust, well-documented, and structured production-grade Python code",
+    "Define and design solutions to machine learning problems from business requirements",
+    "Collaborate with cross-functional teams to understand business needs and design ML solutions",
+    "Explain complex technical concepts to non-technical stakeholders",
+    "Mentor junior team members and contribute to collaborative team environment"
+  ],
+  "use_cases": [
+    "Machine translation for localization services",
+    "Quality assurance automation for translated content",
+    "Business workflow process optimization",
+    "NLP-enabled solutions for multilingual content transformation"
+  ],
+  "tools_mentioned": [
+    "AWS EC2",
+    "AWS S3",
+    "AWS SNS",
+    "AWS SageMaker",
+    "Docker",
+    "GPU deployments"
+  ],
+  "frameworks_mentioned": [
+    "Deep Learning",
+    "Large Language Models",
+    "Machine Translation",
+    "PyTorch",
+    "Supervised Learning",
+    "TensorFlow",
+    "Unsupervised Learning",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on traditional ML/NLP development for\nlocalization services, including machine translation and\nquality assurance models. While LLMs are mentioned as \"nice\nto have,\" the core work involves ML frameworks (TensorFlow,\nPyTorch) and NLP techniques for machine translation, not\nLLM/agent development as the primary focus.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Large Language Models"
+    ],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "Machine Translation",
+      "Deep Learning",
+      "Supervised Learning",
+      "Unsupervised Learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS EC2",
+      "AWS S3",
+      "AWS SageMaker",
+      "AWS SNS"
+    ],
+    "ops": [
+      "Docker",
+      "GPU deployments"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

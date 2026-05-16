@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-1690",
+  "source": "intl-ai-corpus",
+  "source_ref": "8577284",
+  "source_url": "https://www.builtinla.com/job/lead-ai-engineer/8577284",
+  "title": "Lead AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Zeta Global",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "AI-powered marketing cloud platform",
+  "industries": [
+    "AdTech",
+    "Artificial Intelligence",
+    "Marketing Tech",
+    "Software",
+    "Analytics"
+  ],
+  "description": "WHO WE ARE\n\nZeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud\nthat leverages advanced artificial intelligence (AI) and\ntrillions of consumer signals to make it easier for\nmarketers to acquire, grow, and retain customers more\nefficiently. Through the Zeta Marketing Platform (ZMP), our\nvision is to make sophisticated marketing simple by unifying\nidentity, intelligence, and omnichannel activation into a\nsingle platform – powered by one of the industry’s largest\nproprietary databases and AI. Our enterprise customers\nacross multiple verticals are empowered to personalize\nexperiences with consumers at an individual level across\nevery channel, delivering better results for marketing\nprograms. Zeta was founded in 2007 by David A. Steinberg and\nJohn Sculley and is headquartered in New York City with\noffices around the world. To learn more, go to\nwww.zetaglobal.com.\n\nThe Role\n\nThe Zeta AI R&D team sits at the heart of our technology and\ndelivers on Zeta Global’s core brand promise: state-of-the-\nart marketing technology innovation.\n\nWhat You Will Do\n\nZeta Global’s technology platform supports a real-time\nbidding system handling over 100 billion events per day, a\nreporting system aggregating and analyzing terabytes of data\nin real time, and a learning system applying machine\nlearning and AI techniques to more than 40 petabytes of\ndata. Together, these systems ensure Zeta serves the right\nadvertisement to the right user at the right time.\n\nAt the core of this platform is our Artificial Intelligence\nand Machine Learning team, which builds the models and\ndecision-making systems that power Zeta’s products. This\nrole is focused on post-training and alignment of large\nlanguage models, with an emphasis on Supervised Fine-Tuning\n(SFT), preference optimization, and production operation of\nagentic LLM systems.\n\nAs a Lead AI Engineer, you will own the end-to-end post-\ntraining lifecycle of LLMs—from SFT data curation and\ntraining strategy through evaluation, deployment,\nmonitoring, and iteration—using platforms such as OpenAI and\nAWS Bedrock.\n\nSpecifically, you will:\n\n- Lead Supervised Fine-Tuning (SFT) of large language models\n  in production, shaping instruction-following, reasoning\n  quality, tone, and domain-specific behavior\n\n- Extend SFT pipelines with instruction tuning and preference-\n  based optimization (e.g., RLHF-style approaches or direct\n  preference optimization)\n\n- Design, curate, and maintain high-quality SFT and preference\n  datasets, combining human-labeled and synthetic data\n  tailored to real-world marketing and decisioning use cases\n\n- Own model evaluation and benchmarking, including:\n\n- Offline behavioral evals (instruction adherence, reasoning\n  depth, hallucination rates)\n\n- Online experiments and A/B tests\n\n- Continuous regression detection and performance monitoring\n\n- Develop and operate agentic LLM systems, enabling multi-step\n  reasoning, tool use, workflow orchestration, and decision\n  execution\n\n- Implement and optimize prompting, retrieval-augmented\n  generation (RAG), memory, and tool-calling strategies,\n  with a clear understanding of when to solve problems via\n  SFT versus prompting\n\n- Partner closely with data engineering, platform, and product\n  teams to integrate fine-tuned models into high-throughput,\n  low-latency systems\n\n- Establish best practices for LLM versioning,\n  experimentation, deployment, rollback, governance, and\n  safety\n- Provide technical leadership and mentorship to engineers\n  working on applied AI and LLM systems\n\nWho You Are\n\nYou are deeply interested in how LLM behavior changes\nthrough SFT and post-training, especially in real production\nenvironments. You enjoy improving models through data,\nevaluation, and iteration—not just prompt engineering. You\ntake ownership of outcomes, from model quality and alignment\nto reliability, latency, and cost.\n\nRequired Experience and Skills\n\n- Significant hands-on experience with Supervised Fine-Tuning\n  (SFT) of LLMs in production, beyond prompt-only approaches\n\n- Direct experience using OpenAI APIs and/or AWS Bedrock for\n  SFT, post-training, and deployment\n\n- Strong understanding of LLM post-training workflows,\n  including data preparation, instruction tuning, evaluation\n  methodologies, and common failure modes\n\n- Experience building and operating agentic LLM systems (tool\n  use, multi-step reasoning, workflow orchestration)\n\n- Proficiency in Python and modern ML frameworks (e.g.,\n  PyTorch)\n\n- Experience operating ML systems in distributed, production\n  environments\n\n- Strong intuition for trade-offs between model quality,\n  latency, cost, safety, and scalability\n\nBENEFITS & PERKS\n\n- Unlimited PTO\n- Excellent medical, dental, and vision coverage\n- Employee Equity\n- Employee Discounts, Virtual Wellness Classes, and Pet\n  Insurance And more!!\n\nSALARY RANGE\n\nThe salary range for this role is $200,000 - $215,000,\ndepending on location and experience.\n\nPEOPLE & CULTURE AT ZETA\n\nZeta considers applicants for employment without regard to,\nand does not discriminate on the basis of an individual’s\nsex, race, color, religion, age, disability, status as a\nveteran, or national or ethnic origin; nor does Zeta\ndiscriminate on the basis of sexual orientation, gender\nidentity or expression.\n\nWe’re committed to building a workplace culture of trust and\nbelonging, so everyone feels invited to bring their whole\nselves to work. We provide a forum for employees to\ncelebrate, support and advocate for one another. Learn more\nabout our commitment to diversity, equity and inclusion\nhere:  https://zetaglobal.com/blog/a-look-into-zetas-ergs/\n\nZETA IN THE NEWS!\n\nhttps://zetaglobal.com/press/?cat=press-releases\n\n#LI-YW1\n",
+  "skills_required": [
+    "Agentic systems",
+    "Direct Preference Optimization",
+    "Instruction tuning",
+    "OpenAI APIs",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "RLHF",
+    "Supervised Fine-Tuning (SFT)",
+    "Tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead Supervised Fine-Tuning (SFT) of large language models in production, shaping instruction-following, reasoning quality, tone, and domain-specific behavior",
+    "Extend SFT pipelines with instruction tuning and preference-based optimization using RLHF-style approaches or direct preference optimization",
+    "Design, curate, and maintain high-quality SFT and preference datasets combining human-labeled and synthetic data for marketing use cases",
+    "Own model evaluation and benchmarking including offline behavioral evals, online A/B tests, and continuous regression detection",
+    "Develop and operate agentic LLM systems enabling multi-step reasoning, tool use, workflow orchestration, and decision execution",
+    "Implement and optimize RAG, memory, and tool-calling strategies with clear understanding of when to solve problems via SFT versus prompting",
+    "Partner with cross-functional teams to integrate fine-tuned models into high-throughput, low-latency systems",
+    "Establish best practices for LLM versioning, experimentation, deployment, rollback, governance, and safety"
+  ],
+  "use_cases": [
+    "Marketing personalization at individual consumer level across multiple channels",
+    "Real-time bidding system handling over 100 billion events per day",
+    "Intelligent ad targeting to deliver the right advertisement to the right user at the right time",
+    "Agentic decision-making systems for marketing optimization",
+    "Real-time reporting and analytics on terabytes of marketing data"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock"
+  ],
+  "frameworks_mentioned": [
+    "Agentic systems",
+    "Direct Preference Optimization",
+    "Instruction tuning",
+    "OpenAI APIs",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "RLHF",
+    "Supervised Fine-Tuning (SFT)",
+    "Tool calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and fine-tuning LLMs through\nSupervised Fine-Tuning (SFT), preference optimization, and\ndeploying agentic LLM systems. The engineer owns the end-to-\nend post-training lifecycle from data curation and training\nthrough deployment and monitoring, which is core AI model\ndevelopment work rather than supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI APIs",
+      "Supervised Fine-Tuning (SFT)",
+      "RLHF",
+      "Direct Preference Optimization",
+      "RAG",
+      "Agentic systems",
+      "Tool calling",
+      "Prompt engineering",
+      "Instruction tuning"
+    ],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS Bedrock"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

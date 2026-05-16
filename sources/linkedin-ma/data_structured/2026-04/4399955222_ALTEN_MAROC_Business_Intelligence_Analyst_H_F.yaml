@@ -1,0 +1,43 @@
+company:
+  name: ALTEN MAROC
+  stage: null
+  focus: null
+position:
+  title: Business Intelligence Analyst (H/F)
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml:
+    - ml
+    web: []
+    databases: []
+    data:
+    - pandas
+    - sql
+    cloud:
+    - azure
+    ops: []
+    languages:
+    - python
+    - R
+    domains:
+    - automotive
+    other:
+    - consulting
+    - data visualization
+    - Excel
+    - Power Apps
+    - Power Automate
+    - power bi
+    - stakeholder
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4399955222'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

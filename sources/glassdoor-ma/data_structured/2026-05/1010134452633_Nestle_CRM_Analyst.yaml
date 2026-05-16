@@ -1,0 +1,38 @@
+company:
+  name: Nestlé
+  stage: null
+  focus: null
+position:
+  title: CRM Analyst
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases:
+  - Forecasting
+  - Predictive modeling
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web:
+    - next
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages: []
+    domains:
+    - forecasting
+    other:
+    - dashboard
+    - data visualization
+    - power bi
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010134452633'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

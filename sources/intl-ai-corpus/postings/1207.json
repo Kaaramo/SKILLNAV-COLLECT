@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-1207",
+  "source": "intl-ai-corpus",
+  "source_ref": "8277363",
+  "source_url": "https://www.builtinla.com/job/ai-devops-platform-engineer/8277363",
+  "title": "AI DevOps / Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Hermeus",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-05",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B",
+  "company_focus": "High-speed hypersonic aircraft manufacturing for defense",
+  "industries": [
+    "Aerospace",
+    "Hardware",
+    "Manufacturing"
+  ],
+  "description": "Hermeus is a high-speed aircraft manufacturer focused on the\nrapid design, build, and test of high-Mach and hypersonic\naircraft for the national interest. Working directly with\nthe Department of Defense, Hermeus delivers capabilities\nthat will ensure that our nation, and our allies, maintain\nan asymmetric advantage over any and all potential\nadversaries.\n\nWe are seeking a highly motivated and experienced AI DevOps\n/ Platform Engineer to join our team. In this role, you will\ndesign, implement, and scale infrastructure and automation\nthat integrates AI into our engineering workflows — enabling\nfaster iteration, stronger reliability, and smarter\noperations across the organization. We are open to\nconsidering mid-level, senior, or principal candidates\ndepending on experience.\n\nResponsibilities\n\n- Design, implement, and maintain CI/CD pipelines for\n  aerospace software and simulation environments\n- Integrate AI-driven tools into engineering workflows (e.g.,\n  intelligent code assistance, anomaly detection, automated\n  testing frameworks)\n- Build and manage scalable cloud infrastructure (AWS or\n  equivalent) to support R&D, simulation, and production\n  environments\n- Develop monitoring, logging, and alerting systems enhanced\n  by AI for predictive insights\n- Collaborate with aerospace, flight software, and test\n  engineers to ensure seamless integration between software,\n  hardware, and operations\n- Write efficient, maintainable, and well-documented\n  infrastructure code (Python, Bash, IaC)\n- Conduct system reviews and implement best practices for\n  secure and reliable operations\n- Stay up-to-date with emerging AI/ML and DevOps technologies,\n  applying them to improve speed, safety, and scalability\n\nMinimum Requirements\n\n- Bachelor’s or Master’s degree in Computer Science, Software\n  Engineering, or a related field\n- 5+ years of professional experience in DevOps, platform\n  engineering, or MLOps\n- Proficiency with CI/CD tools (GitHub Actions, GitLab,\n  Jenkins, etc.)\n- Hands-on experience with AWS or equivalent cloud platforms\n- Strong scripting and automation skills (Python, Bash)\n- Experience with containers and orchestration (Docker,\n  Kubernetes)\n- Demonstrated ability to integrate AI/ML or intelligent\n  automation into engineering workflows\n\nPreferred Skills and Experience\n\n- Experience with AIOps, anomaly detection, or ML-based\n  testing frameworks\n- Familiarity with infrastructure-as-code tools (Terraform,\n  CloudFormation)\n- Knowledge of secure DevOps / DevSecOps practices,\n  particularly in regulated industries\n- Exposure to aerospace or defense systems and simulation\n  environments\n- Strong problem-solving skills and ability to work in fast-\n  paced, high-iteration environments\n- Excellent communication skills and ability to collaborate\n  across hardware, software, and systems teams\n- Startup or early-stage company experience\n\nU.S. EXPORT CONTROL COMPLIANCE STATUS\n\nThe person hired will have access to information and items\nsubject to U.S. export controls, and therefore, must either\nbe a “U.S. person” as defined by 22 C.F.R. § 120.62 or\notherwise eligible for deemed export licensing. US persons\ninclude U.S. citizens, U.S. nationals, lawful permanent\nresidents (green card holders), and asylees and refugees\nwith such status granted, not pending.\n\nEQUAL OPPORTUNITY\n\nHermeus is an Equal Opportunity Employer. Employment\ndecisions at Hermeus are based solely on merit, competence,\nand qualifications, without regard to race, color, religion,\ngender, national origin/ethnicity, veteran status,\ndisability status, age, sexual orientation, gender identity,\nmarital status, mental or physical disability, or any other\nlegally protected status.\n",
+  "skills_required": [
+    "ML-based testing frameworks",
+    "anomaly detection"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and maintain CI/CD pipelines for aerospace software and simulation environments",
+    "Integrate AI-driven tools into engineering workflows including intelligent code assistance, anomaly detection, and automated testing frameworks",
+    "Build and manage scalable cloud infrastructure (AWS) to support R&D, simulation, and production environments",
+    "Develop monitoring, logging, and alerting systems enhanced by AI for predictive insights",
+    "Collaborate with aerospace, flight software, and test engineers to ensure seamless integration between software, hardware, and operations",
+    "Write efficient, maintainable, and well-documented infrastructure code (Python, Bash, IaC)",
+    "Conduct system reviews and implement best practices for secure and reliable operations"
+  ],
+  "use_cases": [
+    "AI-enhanced infrastructure monitoring and predictive alerting",
+    "Intelligent code assistance for engineering workflows",
+    "Anomaly detection in aerospace systems",
+    "AI-driven automated testing frameworks",
+    "DevOps automation and optimization for aerospace R&D"
+  ],
+  "tools_mentioned": [
+    "AIOps",
+    "AWS",
+    "CI/CD",
+    "CloudFormation",
+    "DevSecOps",
+    "Docker",
+    "GitHub Actions",
+    "GitLab CI",
+    "Jenkins",
+    "Kubernetes",
+    "Terraform",
+    "infrastructure-as-code"
+  ],
+  "frameworks_mentioned": [
+    "ML-based testing frameworks",
+    "anomaly detection"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building and managing DevOps\ninfrastructure, CI/CD pipelines, and cloud platforms that\nSUPPORT AI integration into engineering workflows. While the\nrole involves integrating AI-driven tools and developing AI-\nenhanced monitoring systems, the primary responsibility is\nplatform/infrastructure engineering rather than building,\ntraining, fine-tuning, or deploying AI/ML models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "anomaly detection",
+      "ML-based testing frameworks"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "GitHub Actions",
+      "GitLab CI",
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CloudFormation",
+      "AIOps",
+      "DevSecOps",
+      "CI/CD",
+      "infrastructure-as-code"
+    ],
+    "languages": [
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,43 @@
+company:
+  name: Anonyme (recruteur via ANAPEC — secteur Services aux entreprises)
+  stage: null
+  focus: null
+position:
+  title: Data Analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities:
+  - Recueil et extraction des sources de données
+  - Traduction en données statistiques
+  - Traitement, exploitation, intégration en data warehouse
+  - Création de dashboards + KPIs + reporting
+  - Process / requêtes / automatisation
+  - Production d'analyses métiers et recommandations
+  - Gestion outils d'analyse
+  - Veille technologique
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - data warehouse
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - Création de dashboards
+    - KPIs
+    - Process automation
+    - Reporting
+    - Veille technologique
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: ET1303261098335
+  extracted_at: '2026-05-15T15:53:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

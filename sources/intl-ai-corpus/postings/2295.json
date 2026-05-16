@@ -1,0 +1,149 @@
+{
+  "job_id": "intl-ai-corpus-2295",
+  "source": "intl-ai-corpus",
+  "source_ref": "8846855",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai/8846855",
+  "title": "Senior Software Engineer- AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Guidewire Software",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,400 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud-based SaaS platform for P&C insurance industry",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Insurance",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Summary\n\nWithin Guidewire’s Business Technology (BizTech)\norganization, you’ll join a global team that powers our\ninternal systems and employee experience through secure,\nscalable platforms and data-driven solutions. BizTech’s\nmission is to enable Guidewire’s growth and transformation\nwith innovative, resilient technology, strong governance,\nand a focus on AI fluency and operational excellence. You’ll\ncollaborate across engineering, security, and business teams\nin a culture that values speed, agility, and continuous\nimprovement. As a Senior Software Engineer – AI, you will\ndesign, build, and operate our next-generation AI/ML agent\nplatform and RAG capabilities that support internal teams\nand, ultimately, the P&C insurers we serve. You will combine\ndeep backend engineering skills with hands-on experience in\nGenAI, LLM orchestration, and enterprise data integration to\ndeliver secure, production-grade AI services. This is a\nhighly visible role that advances BizTech’s Agentic Platform\nand GenAI enablement priorities while contributing to\nGuidewire’s broader mission of transforming the way the\nworld’s P&C insurers do business through cloud, analytics,\nand AI-powered innovation.\n\nJob Description\n\nWhat you’ll do\n\n- Design, develop, and operate scalable microservices that\n  power the runtime and serving layer for AI/ML agents and\n  RAG components, with an emphasis on reliability, security,\n  and performance.\n- Implement and maintain LLM orchestration frameworks (e.g.,\n  LangChain, LangGraph, AWS Strands, Google ADK) and\n  integrate them with Guidewire’s core and internal\n  applications to enable robust agent workflows.\n- Build and optimize secure data ingestion and indexing\n  pipelines for RAG, leveraging vector databases (such as\n  Pinecone, Weaviate) and graph databases (such as Neo4j) to\n  support complex enterprise use cases.\n- Develop secure, scalable data connectors and tool interfaces\n  for systems like Oracle, Salesforce, Workday, and\n  Snowflake, ensuring compliance with data governance and\n  Responsible AI principles.\n- Collaborate closely with Security and other stakeholders to\n  embed strong access controls, auditability, and privacy\n  into AI/ML services, balancing innovation with risk\n  management.\n- Design and implement automated evaluation frameworks (evals)\n  to measure LLM performance, reliability, and accuracy, and\n  integrate these into CI/CD pipelines for continuous\n  improvement.\n- Contribute to BizTech’s Agentic Platform and GenAI\n  enablement roadmap by optimizing engineering workflows\n  (e.g., via coding assistants such as Claude, Cursor,\n  Gemini Code) and championing AI fluency across the team.\n- At Guidewire, we foster a culture of curiosity, innovation,\n  and responsible use of AI—empowering our teams to\n  continuously leverage emerging technologies and data-\n  driven insights to enhance productivity and outcomes.\n\nWhat you’ll bring\n\nRequired\n\nDemonstrated ability to embrace AI and apply it to your\ncurrent role as well as data-driven insights to drive\ninnovation, productivity, and continuous improvement.\n\n- 5+ years of professional software engineering experience\n  building backend services or internal platforms, ideally\n  in a cloud-native environment.\n- Strong programming skills in Python and/or\n  TypeScript/Node.js for building automation, orchestration,\n  and backend services supporting AI/ML workloads.\n- At least 2 years of hands-on experience designing,\n  implementing, and deploying solutions using Generative\n  AI/LLM technologies (e.g., via AWS Bedrock, Google Vertex,\n  or similar).\n- Practical experience with LLM orchestration and RAG/agent\n  frameworks (e.g., LangChain, LangGraph, AWS Strands,\n  Google ADK), including tool calling and multi-step\n  workflows.\n- Hands-on work with vector databases (such as Pinecone,\n  Weaviate) and graph databases (such as Neo4j), including\n  schema design, indexing strategies, and query\n  optimization.\n- Experience integrating LLM-based applications with large-\n  scale, complex enterprise data sources and APIs (e.g.,\n  Oracle, Salesforce, Workday, Snowflake).\n- Solid understanding of AWS services relevant to AI\n  platforms, including EC2, S3, IAM, and container\n  orchestration (Docker, Kubernetes), plus CI/CD practices\n  for automated deployment of AI/ML services.\n- Strong collaboration, communication, and problem-solving\n  skills, with the ability to work across security, data,\n  and business teams in a fast-moving, outcome-oriented\n  environment.\n\nPreferred\n\n- Experience designing MCP (Model Context Protocol) or similar\n  servers for secure tool invocation, data access, and API\n  integration in agentic architectures.\n- Prior work implementing or extending automated LLM\n  evaluation frameworks (evals), including test design,\n  metrics selection, and integration into pipelines.\n- Familiarity with data governance, Responsible AI practices,\n  and security-by-design approaches for AI/ML systems,\n  especially in regulated or enterprise settings.\n- Exposure to observability tooling (logs, metrics, traces)\n  for AI workloads and experience debugging issues across\n  data pipelines, models, and orchestration layers.\n- Experience contributing to internal platforms or “citizen\n  developer” tooling that enables broader teams to safely\n  build on AI capabilities, aligned with BizTech’s GenAI\n  enablement goals.\n\nYour Impact\n\nWe believe in clarity and setting you up for success. In\nyour first 6 months, you will take ownership of key\ncomponents of BizTech’s Agentic Platform, stand up or\nenhance microservices and RAG pipelines in production, and\npartner with Security to ensure robust controls around\nenterprise data and AI tools.\n\nYou’ll define and implement evals that make LLM performance\nmeasurable and trustworthy, while improving engineering\nworkflows through automated tooling and coding assistants.\nAs your work scales, you will help Guidewire become the most\nefficient, trusted vertical SaaS company by enabling secure,\nreliable AI agents that enhance employee experiences and\naccelerate the transformation of how P&C insurers operate.\n\nAbout Guidewire\n\nGuidewire is the platform P&C insurers trust to engage,\ninnovate, and grow efficiently. We combine digital, core,\nanalytics, and AI to deliver our platform as a cloud\nservice. More than 540+ insurers in 40 countries, from new\nventures to the largest and most complex in the world, run\non Guidewire.\n\nAs a partner to our customers, we continually evolve to\nenable their success. We are proud of our unparalleled\nimplementation track record with 1600+ successful projects,\nsupported by the largest R&D team and partner ecosystem in\nthe industry. Our Marketplace provides hundreds of\napplications that accelerate integration, localization, and\ninnovation.\n\nFor more information, please visit www.guidewire.com and\nfollow us on Twitter: @Guidewire_PandC.\n\nGuidewire Software, Inc. is proud to be an equal opportunity\nand affirmative action employer. We are committed to an\ninclusive workplace, and believe that a diversity of\nperspectives, abilities, and cultures is a key to our\nsuccess. Qualified applicants will receive consideration\nwithout regard to race, color, ancestry, religion, sex,\nnational origin, citizenship, marital status, age, sexual\norientation, gender identity, gender expression, veteran\nstatus, or disability. All offers are contingent upon\npassing a criminal history and other background checks where\nit's applicable to the position.\n",
+  "skills_required": [
+    "AWS Strands",
+    "Google ADK",
+    "LLM orchestration",
+    "LangChain",
+    "LangGraph",
+    "MCP (Model Context Protocol)",
+    "RAG",
+    "Salesforce",
+    "Workday"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and operate scalable microservices for AI/ML agents and RAG components runtime and serving layer",
+    "Implement and maintain LLM orchestration frameworks (LangChain, LangGraph, AWS Strands, Google ADK) and integrate with enterprise applications",
+    "Build and optimize secure data ingestion and indexing pipelines for RAG using vector and graph databases",
+    "Develop secure, scalable data connectors for enterprise systems like Oracle, Salesforce, Workday, and Snowflake",
+    "Collaborate with Security teams to embed access controls, auditability, and privacy into AI/ML services",
+    "Design and implement automated evaluation frameworks to measure LLM performance and integrate into CI/CD pipelines",
+    "Contribute to Agentic Platform and GenAI enablement roadmap by optimizing engineering workflows and championing AI fluency"
+  ],
+  "use_cases": [
+    "AI agent platform for internal business teams",
+    "RAG-based enterprise search and knowledge retrieval",
+    "Automated workflows for P&C insurance operations",
+    "Employee experience enhancement through AI-powered tools",
+    "Citizen developer enablement for safe AI capability building"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "CI/CD",
+    "Docker",
+    "Google Vertex AI",
+    "Kubernetes",
+    "Microservices",
+    "Neo4j",
+    "Oracle",
+    "Pinecone",
+    "Snowflake",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "AWS Strands",
+    "Google ADK",
+    "LLM orchestration",
+    "LangChain",
+    "LangGraph",
+    "MCP (Model Context Protocol)",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing, building, and operating an\nAI/ML agent platform with RAG capabilities, LLM\norchestration frameworks, and vector databases. The engineer\nwill directly implement and deploy GenAI/LLM solutions,\nbuild agentic workflows, and create production-grade AI\nservices - all hands-on work building and deploying AI\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "AWS Strands",
+      "Google ADK",
+      "RAG",
+      "LLM orchestration",
+      "MCP (Model Context Protocol)"
+    ],
+    "ml": [],
+    "web": [
+      "Microservices"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Neo4j",
+      "Oracle",
+      "Snowflake"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Bedrock",
+      "Google Vertex AI",
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": [
+      "Salesforce",
+      "Workday"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

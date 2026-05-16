@@ -1,0 +1,164 @@
+{
+  "job_id": "intl-ai-corpus-1131",
+  "source": "intl-ai-corpus",
+  "source_ref": "8172676",
+  "source_url": "https://builtin.com/job/ai-engineer/8172676",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "ShyftLabs",
+  "company_type": "entité morale privée",
+  "location": "Noida, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-07",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "110 Employees",
+  "company_stage": "Growth stage (founded early 2020)",
+  "company_focus": "Data product company for Fortune 500",
+  "industries": [
+    "Blockchain",
+    "Database",
+    "Analytics"
+  ],
+  "description": "Position Overview\n\nWe are hiring an AI Engineer to build, fine-tune, deploy,\nand scale large language model–based systems. The role\nfocuses on LLM optimization, backend API development, and\nMLOps, including RAG pipelines, efficient model serving, and\nautomated evaluation. You’ll work on taking LLMs from\nexperimentation to production-ready, scalable AI solutions.\n\n\n\nShyftLabs is a growing data product company that was founded\nin early 2020 and works primarily with Fortune 500\ncompanies. We deliver digital solutions built to help\naccelerate the growth of businesses in various industries,\nby focusing on creating value through innovation.\n\nJob Responsibilties:\n\n- Design and implement traditional ML and LLM-based systems\n  and applications\n- Optimize model inference performance and cost efficiency\n- Fine-tune foundation models for specific use cases and\n  domains\n- Implement diverse prompt engineering strategies\n- Build robust backend infrastructure for AI-powered\n  applications\n- Implement and maintain MLOps pipelines for AI lifecycle\n  management\n- Design and implement comprehensive traditional ML and LLM\n  monitoring and evaluation systems\n- Develop automated testing frameworks for model quality and\n  performance tracking\n\nBasic Qualifications:\n\n- 4–8 years of relevant experience in LLMs, Backend\n  Engineering, and MLOps.\n- LLM Expertise\n- Model Fine-tuning: Experience with parameter-efficient fine-\n  tuning methods (LoRA, QLoRA, adapter layers)\n- Inference Optimization: Knowledge of quantization, pruning,\n  caching strategies, and serving optimizations\n- Prompt Engineering: Prompt design, few-shot learning, chain-\n  of-thought prompting, and retrieval-augmented generation\n  (RAG)\n- Model Evaluation: Experience with AI evaluation frameworks\n  and metrics for different use cases\n- Monitoring & Testing: Design of automated evaluation\n  pipelines, A/B testing for models, and continuous\n  monitoring systems\n- Backend Engineering\n- Languages: Proficiency in Python, with experience in\n  FastAPI, Flask, or similar frameworks\n- APIs: Design and implementation of RESTful APIs and real-\n  time systems\n- Databases: Experience with vector databases and traditional\n  databases\n- Cloud Platforms: AWS, GCP, or Azure with focus on ML\n  services\n- MLOps & Infrastructure\n- Deployment: Experience with model serving frameworks (vLLM,\n  SGLang, TensorRT)\n- Containerization: Docker and Kubernetes for ML workloads\n- Monitoring: ML model monitoring, performance tracking, and\n  alerting systems\n- Evaluation Systems: Building automated evaluation pipelines\n  with custom metrics and benchmarks\n- CI/CD: MLOps pipelines for automated testing, and deployment\n- Orchestration: Experience with workflow tools like Airflow.\n\nPreferred Qualifications:\n\n- LLM Frameworks: Hands-on experience with Transformers,\n  LangChain, LlamaIndex, or similar\n- Monitoring Platforms: Knowledge of LLM-specific monitoring\n  tools and general ML monitoring\n- Distributed Training and Inference: Experience with multi-\n  GPU and distributed training and inference setups\n- Model Compression: Knowledge of techniques like\n  distillation, quantization, and efficient architectures\n- Production Scale: Experience deploying models handling high-\n  throughput, low-latency requirements\n- Research Background: Familiarity with recent LLM research\n  and ability to implement novel techniques\n- Tools & Technologies We Use\n- Frameworks: PyTorch, Transformers, TensorFlow\n- Serving: vLLM, TensorRT-LLM, SGlang,  OpenAI API,\n- Infrastructure: Kubernetes, Docker, AWS/GCP\n- Databases: PostgreSQL, Redis, Vector DBs\n\nWe are proud to offer a competitive salary alongside a\nstrong insurance package. We pride ourselves on the growth\nof our employees, offering extensive learning and\ndevelopment resources.\n",
+  "skills_required": [
+    "LangChain",
+    "LlamaIndex",
+    "LoRA",
+    "OpenAI API",
+    "PyTorch",
+    "QLoRA",
+    "RAG",
+    "TensorFlow",
+    "Transformers",
+    "model fine-tuning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement traditional ML and LLM-based systems and applications",
+    "Optimize model inference performance and cost efficiency",
+    "Fine-tune foundation models for specific use cases and domains",
+    "Implement diverse prompt engineering strategies",
+    "Build robust backend infrastructure for AI-powered applications",
+    "Implement and maintain MLOps pipelines for AI lifecycle management",
+    "Design and implement comprehensive traditional ML and LLM monitoring and evaluation systems",
+    "Develop automated testing frameworks for model quality and performance tracking"
+  ],
+  "use_cases": [
+    "Enterprise data solutions for Fortune 500 companies",
+    "RAG-powered knowledge retrieval systems",
+    "Fine-tuned LLMs for domain-specific applications",
+    "Production-scale AI model deployment",
+    "Automated model evaluation and monitoring",
+    "Real-time AI-powered backend APIs"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "GCP",
+    "Kubernetes",
+    "ML monitoring",
+    "PostgreSQL",
+    "RESTful APIs",
+    "Redis",
+    "SGLang",
+    "TensorRT-LLM",
+    "Vector DBs",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LlamaIndex",
+    "LoRA",
+    "OpenAI API",
+    "PyTorch",
+    "QLoRA",
+    "RAG",
+    "TensorFlow",
+    "Transformers",
+    "model fine-tuning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role focused on building, fine-tuning,\ndeploying, and optimizing LLM-based systems. The role\ndirectly involves model training with parameter-efficient\nfine-tuning methods (LoRA, QLoRA), RAG pipelines, prompt\nengineering, and model serving - all hands-on work with AI\nmodels rather than support infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "OpenAI API",
+      "RAG",
+      "prompt engineering",
+      "LoRA",
+      "QLoRA"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Transformers",
+      "model fine-tuning"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "RESTful APIs"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Redis",
+      "Vector DBs"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "vLLM",
+      "TensorRT-LLM",
+      "SGLang",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Airflow",
+      "ML monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

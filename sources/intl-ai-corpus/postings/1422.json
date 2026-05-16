@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-1422",
+  "source": "intl-ai-corpus",
+  "source_ref": "8453916",
+  "source_url": "https://builtin.com/job/ai-research-engineer-ml-engineering/8453916",
+  "title": "AI Research Engineer - ML Engineering",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Helsing",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-10",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "237 Employees",
+  "company_stage": null,
+  "company_focus": "Defence AI company protecting democracies through autonomous\ndecision-making systems",
+  "industries": [
+    "Artificial Intelligence",
+    "Security"
+  ],
+  "description": "Who we are\n\nHelsing is a defence AI company. Our mission is to protect\nour democracies. We aim to achieve technological leadership,\nso that open societies can continue to make sovereign\ndecisions and control their ethical standards. As\ndemocracies, we believe we have a special responsibility to\nbe thoughtful about the development and deployment of\npowerful technologies like AI. We take this responsibility\nseriously. We are an ambitious and committed team of\nengineers, AI specialists and customer-facing programme\nmanagers. We are looking for mission-driven people to join\nour European teams – and apply their skills to solve the\nmost complex and impactful problems. We embrace an open and\ntransparent culture that welcomes healthy debates on the use\nof technology in defence, its benefits, and its ethical\nimplications.\n\nThe role\n\nAt Helsing, we are pioneering the future of autonomous\ndecision-making for defence. Our work spans the full AI\nlandscape, including high-volume data processing, RL agent\ntraining, and large-scale foundation models. As a member of\na cross-functional team, you will architect and implement\nthe tools and platforms that enable these breakthroughs.\nYour focus will be on abstracting complex distributed\nsystems to maximise training throughput and developer\nvelocity. We are looking for engineers who can navigate the\nconvergence of machine learning and systems engineering to\nbuild robust, scalable platforms.\n\nWhat you will do:\n\n- Extend our highly integrated deep learning frameworks (built\n  on top of PyTorch), making them efficient and easy to use\n  for a wide range of use cases.\n- Scale our current infrastructure and tooling stack to\n  support faster and larger distributed training.\n- Design data strategy to support large scale datasets and\n  efficient storage, ensuring GPUs stay warm.\n\nYou should apply if you:\n\n- Hold an MSc or PhD in Computer Science or STEM field, with a\n  focus on Machine Learning and Deep Learning.\n- Have strong software engineering skills in Python and\n  fluency with modern DL frameworks\n  (PyTorch/JAX/TensorFlow). You don’t just import libraries;\n  you are comfortable writing custom layers, loss functions,\n  and distributed training loops.\n- Are a clear communicator who can build from complex\n  theoretical concepts and contribute to the company's\n  internal engineering culture.\n- Have a \"first-principles\" mindset: you enjoy reading the\n  latest AI optimisation blog posts and integrating them\n  into codebases rapidly.\n- You have debugged production ML pipelines and can tell a\n  good war story about finding a subtle numerical or\n  performance issue.\n\nNote: We operate at an intersection where women, as well as\nother minority groups, are systematically under-represented.\nWe encourage you to apply even if you don’t meet all the\nlisted qualifications; ability and impact cannot be\nsummarised in a few bullet points.\n\nNice to have\n\n- You have hands-on experience training models on large-scale\n  GPU clusters, implementing advanced parallelism\n  strategies, and understanding the underlying cross-node\n  communication patterns (NCCL, MPI).\n- You have worked with large-scale datasets made of different\n  modalities. Understanding the tradeoffs in locality,\n  encoding, formats, and streaming strategies.\n- You are proficient with workload orchestrators like Slurm,\n  Kubernetes, or Ray, having used them to schedule and\n  manage complex, concurrent training jobs at scale.\n- You understand GPU architecture at a low level: memory\n  hierarchies, warp execution, and what makes a GPU suited\n  for training versus inference workloads.\n\nJoin Helsing and work with world-leading experts in their\nfields\n\n- Helsing’s work is important. You’ll be directly contributing\n  to the protection of democratic countries while balancing\n  both ethical and geopolitical concerns.\n- The work is unique. We operate in a domain that has highly\n  unusual technical requirements and constraints, and where\n  robustness, safety, and ethical considerations are vital.\n  You will face unique Engineering and AI challenges that\n  make a meaningful impact in the world.\n- Our work frequently takes us right up to the state of the\n  art in technical innovation, be it reinforcement learning,\n  distributed systems, generative AI, or deployment\n  infrastructure. The defence industry is entering the most\n  exciting phase of the technological development curve.\n  Advances in our field of world are not incremental:\n  Helsing is part of, and often leading, historic leaps\n  forward.\n- In our domain, success is a matter of order-of-magnitude\n  improvements and novel capabilities. This means we take\n  bets, aim high, and focus on big opportunities. Despite\n  being a relatively young company, Helsing has already been\n  selected for multiple significant government contracts.\n- We actively encourage healthy, proactive, and diverse debate\n  internally about what we do and how we choose to do it.\n  Teams and individual engineers are trusted (and\n  encouraged) to practise responsible autonomy and critical\n  thinking, and to focus on outcomes, not conformity. At\n  Helsing you will have a say in how we (and you!) work, the\n  opportunity to engage on what does and doesn’t work, and\n  to take ownership of aspects of our culture that you care\n  deeply about.\n\nWhat we offer\n\n- A focus on outcomes, not time-tracking\n- Competitive compensation and stock options\n- Relocation support\n- Social and education allowances\n- Regular company events and all-hands to bring together\n  employees as one team across Europe\n- A hands-on onboarding program (affectionately labelled “AI-\n  duction”), in which you will be familiarising yourself\n  with our tools and ML pipelines used across the company.\n  This is your opportunity to learn our tech stack, explore\n  the company, and learn how we get things done - all whilst\n  working with other AI and engineering teams from day one\n\nHelsing is an equal opportunities employer. We are committed\nto equal employment opportunity regardless of race,\nreligion, sexual orientation, age, marital status,\ndisability or gender identity. Please do not submit personal\ndata revealing racial or ethnic origin, political opinions,\nreligious or philosophical beliefs, trade union membership,\ndata concerning your health, or data concerning your sexual\norientation.\n\n#LI-FH1\n\n\n\nHelsing's Candidate Privacy and Confidentiality Regime can\nbe found here.\n",
+  "skills_required": [
+    "CUDA",
+    "Deep learning",
+    "Distributed training",
+    "Foundation models",
+    "GPU optimization",
+    "JAX",
+    "PyTorch",
+    "Reinforcement learning",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Extend deep learning frameworks built on PyTorch to make them efficient and easy to use across various use cases",
+    "Scale infrastructure and tooling stack to support faster and larger distributed training",
+    "Design data strategy for large-scale datasets and efficient storage to maximize GPU utilization",
+    "Architect and implement tools and platforms for autonomous decision-making systems",
+    "Abstract complex distributed systems to maximize training throughput and developer velocity",
+    "Build robust, scalable ML platforms at the convergence of machine learning and systems engineering"
+  ],
+  "use_cases": [
+    "Autonomous decision-making for defence applications",
+    "Reinforcement learning agent training",
+    "Large-scale foundation models",
+    "High-volume data processing for defence systems",
+    "Distributed training on GPU clusters"
+  ],
+  "tools_mentioned": [
+    "Kubernetes",
+    "MPI",
+    "NCCL",
+    "Ray",
+    "Slurm"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "Deep learning",
+    "Distributed training",
+    "Foundation models",
+    "GPU optimization",
+    "JAX",
+    "PyTorch",
+    "Reinforcement learning",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves extending deep learning\nframeworks, scaling distributed training infrastructure, and\nimplementing custom ML components (layers, loss functions,\ntraining loops). The position requires hands-on work\nbuilding and optimizing ML training systems, making it ai-\nfirst rather than support.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "JAX",
+      "TensorFlow",
+      "CUDA",
+      "Distributed training",
+      "GPU optimization",
+      "Deep learning",
+      "Reinforcement learning",
+      "Foundation models"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Ray"
+    ],
+    "cloud": [],
+    "ops": [
+      "NCCL",
+      "MPI",
+      "Kubernetes",
+      "Slurm"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

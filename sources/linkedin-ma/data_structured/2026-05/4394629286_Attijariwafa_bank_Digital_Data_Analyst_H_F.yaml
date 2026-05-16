@@ -1,0 +1,31 @@
+company:
+  name: Attijariwafa bank
+  stage: null
+  focus: null
+position:
+  title: Digital Data Analyst  (H/F)
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - Excel
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4394629286'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

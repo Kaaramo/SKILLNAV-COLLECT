@@ -1,0 +1,139 @@
+{
+  "job_id": "intl-ai-corpus-1118",
+  "source": "intl-ai-corpus",
+  "source_ref": "8159252",
+  "source_url": "https://builtin.com/job/senior-devops-engineer-i/8159252",
+  "title": "Senior DevOps Engineer I - AI/ML",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Curriculum Associates",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,220 Employees",
+  "company_stage": "Public",
+  "company_focus": "Educational technology and K-12 learning programs",
+  "industries": [
+    "Edtech",
+    "Software"
+  ],
+  "description": "At Curriculum Associates, we believe in the potential of\nevery child and are changing the face of education\ntechnology with award-winning learning programs like i-Ready\nthat serve a third of the nation’s K–8 students. For more\nthan 50 years, our commitment to making classrooms better\nplaces, serving educators, and supporting accessible\nlearning experiences for all students has driven the\ncontinuous improvement of our innovative programs. Our team\nof more than 2,500 employees is composed of lifelong\nlearners who stand behind this mission, working tirelessly\nto serve the educational community with world-class programs\nand support every day.\n\nSummary: This position is part of the expanding DevOps group\nthat combines teamwork, innovation, work/life balance, and\nautonomy. You will contribute to the evolution of our AWS\ncloud infrastructure that supports Curriculum Associates’\ni-Ready SaaS application as well as internal systems. In a\nsingle program, i-Ready integrates powerful assessments and\nrich insights with effective and engaging instruction in\nreading and mathematics to address students’ individual\nneeds. i-Ready empowers teachers every day to make more\ninformed instructional decisions and motivates students with\naccess to their own personalized path to growth. Want to be\npart of our impact? Join us! Essential\nduties/responsibilities: You will develop and advance our\n(“shift left”) capabilities in Continuous Integration /\nContinuous Deployment. You will build, operate, scale, and\ntroubleshoot the Curriculum Associates SaaS infrastructure.\nYou will operate in an Agile environment, where priorities\ncan shift quickly, and there is a need to be adaptable. You\nwill have an interest in and focus on AI and ML, as well as\ntraditional Dev Ops. You will enhance our monitoring tools,\nbuild infrastructure, and source code management. In\ncollaboration with other teams. You’ll make sure our\ninfrastructure and applications that depend on it work\ntogether seamlessly. You will support other teams’ build and\ninfrastructure needs on an as needed basis. You will write\ntools for systems and infrastructure automation. Required\nJob Skills and Abilities: Comfort with working in a fast-\npaced environment with the ability to multi-task. Skill in\nestablishing clear requirements and direction from\ncollaboration with dev & product teams. General\nanalysis/problem solving and ability to develop creative\nsolutions. Experience with AWS (experience with other cloud\nproviders is a bonus) Knowledgeable in the latest AI & ML\ntrends and technologies. Have an understanding of the AI &\nML lifecycle. Required Education and Experience: 7+ years of\nDevOps experience Experience with AI/ML and the ML\nLifecycle. In depth knowledge of the AWS AI & ML suite of\nservices, such as... SageMaker Bedrock & Agentic AI\nExperience with Continuous Integration / Continuous\nDeployment (CI/CD) tools and processes. Knowledge of ML Flow\nGeneral AWS administrative functions, such as working with\nIAM Infrastructure as Code approaches: Terraform or\nCloudFormation experience. AWS Service Catalog etc...\nExperience with languages such as Python. Experience with\nMySQL, Java/Tomcat/Apache, Splunk, and open-source tools for\nsystems monitoring/management. Experience with Git, Jenkins,\nand Nexus Experience using ECS, Kubernetes or other\ncontainer orchestrators. Experience operating a 24/7\nproduction web application. Comfort with working in a fast-\npaced environment with the ability to multi-task. General\nanalysis/problem solving and ability to develop creative\nsolutions. Amazon Web Services experience (SageMaker,\nBedrock, EC2, RDS, CloudFront, CloudWatch, DynamoDB) very\ndesirable Bachelor’s degree in engineering or computer\nscience or equivalent experience in a technical capacity.\n",
+  "skills_required": [
+    "Agentic AI",
+    "Bedrock"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and advance Continuous Integration / Continuous Deployment capabilities with a shift-left approach",
+    "Build, operate, scale, and troubleshoot the Curriculum Associates SaaS infrastructure on AWS",
+    "Enhance monitoring tools, build infrastructure, and manage source code control in collaboration with other teams",
+    "Write tools for systems and infrastructure automation to support build and infrastructure needs"
+  ],
+  "use_cases": [
+    "Educational assessments and personalized learning paths for K-8 students",
+    "Reading and mathematics instruction with individualized student support",
+    "Teacher empowerment through data-driven instructional decisions",
+    "SaaS application delivery for educational institutions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Apache",
+    "CI/CD",
+    "CloudFormation",
+    "CloudFront",
+    "CloudWatch",
+    "Docker",
+    "DynamoDB",
+    "EC2",
+    "ECS",
+    "Git",
+    "IAM",
+    "Infrastructure as Code",
+    "Jenkins",
+    "Kubernetes",
+    "MLflow",
+    "MySQL",
+    "RDS",
+    "SageMaker",
+    "Splunk",
+    "Terraform",
+    "Tomcat"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI",
+    "Bedrock"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a DevOps Engineer role focused on building and\noperating infrastructure, CI/CD pipelines, and automation\nfor AWS environments. While the role requires knowledge of\nAI/ML trends and experience with AWS AI services (SageMaker,\nBedrock), the actual work involves supporting ML systems\nthrough infrastructure and platform capabilities rather than\ndirectly building, training, or deploying models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Bedrock",
+      "Agentic AI"
+    ],
+    "ml": [],
+    "web": [
+      "Tomcat",
+      "Apache"
+    ],
+    "databases": [
+      "MySQL",
+      "DynamoDB",
+      "RDS"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "SageMaker",
+      "EC2",
+      "CloudFront",
+      "IAM"
+    ],
+    "ops": [
+      "CI/CD",
+      "MLflow",
+      "Terraform",
+      "CloudFormation",
+      "Git",
+      "Jenkins",
+      "ECS",
+      "Kubernetes",
+      "Docker",
+      "Splunk",
+      "CloudWatch",
+      "Infrastructure as Code"
+    ],
+    "languages": [
+      "Python",
+      "Java"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,134 @@
+{
+  "job_id": "intl-ai-corpus-2145",
+  "source": "intl-ai-corpus",
+  "source_ref": "8778091",
+  "source_url": "https://builtin.com/job/backend-engineer-applied-ai/8778091",
+  "title": "Backend Engineer, Applied AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "TriEdge Investments",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "26 Employees",
+  "company_stage": "Early-stage",
+  "company_focus": "AI-native asset management platform for healthcare\nfacilities and multifamily real estate",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Real Estate",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "About Hypha\n\nHypha is an AI-native platform transforming asset management\nacross the full lifecycle—acquisition, management, and exit.\nFocused on healthcare facilities and multifamily real\nestate, we're revolutionizing the industry through three key\npillars:\n\n- Observability: Providing real-time visibility into asset\n  performance, deal progress, and market conditions for all\n  stakeholders\n- Intelligence: Enabling AI-driven multidimensional\n  optimization with risk scores, tax strategies, and\n  benchmarking\n- Orchestration: Creating seamless workflows and a single\n  source of truth to eliminate inefficiencies\n\nRole Overview\n\nAs a Backend Engineer, Applied AI at Hypha, you’ll build and\nimprove the AI systems that power the core of the platform.\nThis includes designing and operating document processing\npipelines, building extraction agents, developing entity\nresolution and computed attribute systems, and shaping the\nconversational query interface that allows users to interact\nwith complex data.\n\nYou’ll work hands-on with LLMs and agent frameworks to\ndesign multi-step workflows that transform unstructured\ninformation into structured, actionable insights. A large\npart of the role is building the infrastructure that makes\nthese AI systems reliable, observable, and performant as\nthey operate at scale.\n\nWe’re hiring across multiple experience levels for this\nrole, from engineers early in their careers to more senior\nengineers with deeper systems and architecture experience.\nLevel and compensation will be determined through the\ninterview process.\n\nCore Competencies\n\n- Design and build AI agent workflows — document extraction,\n  entity resolution, and data structuring\n- Build reliable backend infrastructure — queues, pipelines,\n  and orchestration using Inngest and Supabase\n- Work with PostgreSQL at depth — schema design, query\n  optimization, and data modeling for complex financial data\n- Instrument, monitor, and debug AI pipelines — understanding\n  failure modes and building guardrails\n- Develop and optimize prompt chains, tool-use patterns, and\n  retrieval strategies\n- Collaborate with product and frontend engineers to expose AI\n  capabilities through the product\n\nIdeal Candidate\n\n- Strong backend fundamentals — You're experienced with\n  Node.js/TypeScript, PostgreSQL, and building reliable\n  server-side systems. You understand concurrency, queuing,\n  and data pipeline design.\n- Applied AI experience — You've built products with LLMs;\n  whether that's agent architectures, RAG systems,\n  extraction pipelines, or tool-use patterns. You understand\n  the practical challenges of working with non-deterministic\n  systems.\n- Systems thinking — You can reason about how components\n  interact at scale. You think about failure modes, retries,\n  observability, and cost when designing AI workflows.\n- Pragmatic engineering — You ship working systems, not\n  research prototypes. You know when to optimize and when\n  good enough is good enough.\n- AI-fluent — You use AI coding tools daily and know how to\n  wield them effectively as a multiplier on top of strong\n  fundamentals.\n\nWhat Sets You Apart\n\n- Experience with workflow orchestration tools (Inngest,\n  Temporal, Step Functions)\n- Experience with OCR, document processing, or financial data\n  extraction\n- Familiarity with OpenAI and Anthropic APIs, function\n  calling, and structured outputs\n- Early-stage startup experience\n\nWhy Join Hypha\n\n- Be at the cutting edge of applied AI\n- Have a large scope and massive impact on the company\n- Work directly with the leadership team\n- Strong career growth opportunities as we scale\n- Competitive compensation package: $180-$225k base salary and\n  equity\n\nIf you're ready to help build the future of asset management\nand are excited by the challenge of bringing AI-driven\nsolutions to complex financial workflows, we want to hear\nfrom you.\n\nPlease note: We are proud to be an equal opportunity\nemployer, and we are committed to diversity and inclusion.\nAll qualified applicants will receive consideration for\nemployment without regard to race, color, religion,\nethnicity, sex, age, national origin, citizenship status,\ndisability, marital status, partnership status, sexual\norientation, gender identity and expression, military or\nveteran status, or any other characteristic protected by\nfederal, state or local law.\n",
+  "skills_required": [
+    "AI agents",
+    "Anthropic API",
+    "LLMs",
+    "LangChain/LangGraph",
+    "OCR",
+    "OpenAI API",
+    "RAG",
+    "document processing",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build AI agent workflows for document extraction, entity resolution, and data structuring",
+    "Build reliable backend infrastructure including queues, pipelines, and orchestration using Inngest and Supabase",
+    "Design PostgreSQL schemas, optimize queries, and model complex financial data",
+    "Instrument, monitor, and debug AI pipelines with understanding of failure modes and guardrails",
+    "Develop and optimize prompt chains, tool-use patterns, and retrieval strategies",
+    "Collaborate with product and frontend engineers to expose AI capabilities through the product"
+  ],
+  "use_cases": [
+    "Document processing and extraction for asset management workflows",
+    "Entity resolution and computed attribute systems for financial data",
+    "Conversational query interface for complex data interaction",
+    "Real-time visibility into asset performance, deal progress, and market conditions",
+    "AI-driven multidimensional optimization with risk scores and tax strategies"
+  ],
+  "tools_mentioned": [
+    "Inngest",
+    "PostgreSQL",
+    "Supabase",
+    "Temporal",
+    "data pipelines",
+    "workflow orchestration"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Anthropic API",
+    "LLMs",
+    "LangChain/LangGraph",
+    "OpenAI API",
+    "RAG",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and operating AI systems\ndirectly - document processing pipelines, extraction agents,\nentity resolution systems, and conversational query\ninterfaces using LLMs and agent frameworks. The engineer\nwill work hands-on with LLMs, prompt chains, tool-use\npatterns, and retrieval strategies to build production AI\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain/LangGraph",
+      "OpenAI API",
+      "Anthropic API",
+      "prompt engineering",
+      "RAG",
+      "AI agents",
+      "function calling",
+      "LLMs"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "PostgreSQL",
+      "Supabase"
+    ],
+    "data": [
+      "Inngest",
+      "Temporal",
+      "workflow orchestration",
+      "data pipelines"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "Node.js",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "OCR",
+      "document processing"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

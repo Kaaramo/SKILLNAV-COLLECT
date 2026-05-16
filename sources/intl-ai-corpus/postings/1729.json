@@ -1,0 +1,130 @@
+{
+  "job_id": "intl-ai-corpus-1729",
+  "source": "intl-ai-corpus",
+  "source_ref": "8591405",
+  "source_url": "https://www.builtinla.com/job/1027-ai-engineer-backend-focus/8591405",
+  "title": "1027- AI Engineer (Backend focus)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "GoFasti",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Talent-as-a-Service connecting LatAm developers with global\ncompanies",
+  "industries": [
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "We Make Remote Work Remarkable • TopTalent from LatAm\n\nHello! We are GoFasti, a Talent-as-a-Service. GoFasti\nbridges the gap between world-class developers and designers\nfrom LatAm and first-class companies around the globe.\n\nWe need an English-fluent PART-TIME AI Engineer (Backend\nfocus), based in Latin America, available to work remotely.\nWe are looking for someone with exceptional communication\nand relationship-building skills, who embraces changes while\nmaintaining strong attention to detail. An interested and\nproactive person, who's constantly learning and improving\ntheir skills.\n\nAre you the one we are looking for?\n\nResponsibilities:\n\n- Design, develop, and deploy AI-driven features and services\n  for the client’s platform.\n- Integrate LLMs (e.g., Anthropic Claude, OpenAI GPTs, Bedrock\n  models) into production workflows.\n- Build and maintain backend services using Node.js and\n  MongoDB.\n- Collaborate on full-stack development (Vue.js frontend) when\n  needed.\n- Architect, containerize, and deploy applications using AWS\n  (EC2, Fargate, Lambda, SQS, SES, S3, CloudFront) and\n  Docker.\n- Implement data pipelines, web scraping solutions, and\n  AI/data engineering workflows.\n- Optimize system performance, scalability, and reliability in\n  a cloud-native environment.\n- Support ongoing AI experimentation and transition prototypes\n  into production-ready Systems.\n\nRequirements:\n\n- 3+ years of experience as an AI Engineer.\n- Strong experience in backend or full-stack development\n  (Node.js, MongoDB required; Vue.js a plus).\n- Hands-on experience deploying applications on AWS (EC2,\n  Fargate, Lambda, SQS, S3, etc.) with Docker.\n- Experience integrating and operationalizing LLMs (e.g.,\n  OpenAI, Anthropic, AWS Bedrock).\n- Proficiency in Python for AI/ML or data engineering tasks\n  preferred.\n- Solid understanding of AI/ML fundamentals, NLP, and\n  production ML workflows.\n- Experience with data engineering, web scraping, and building\n  scalable data pipelines.\n- Ability to move from AI prototypes to secure, maintainable,\n  production-grade systems.\n\nCompensation:\n\n- The Salary range offered for this part-time (20h/w) position\n  varies from (USD) $1,000 - $2,200 per month, depending on\n  seniority and skillset.\n- This position is for an independent contractor, through a\n  payroll platform.\n- The talent will work REMOTELY allocated at our client.\n\nHere are the steps for this process: Application\nreview/approval > Screening interview with GoFasti's team >\nWe build and send your profile to our client > Profile\nreview/approval by client > Interview with the client >\nHiring and onboarding.\n\nOnce you apply for the job, our team will review your\nresume. If it meets the requirements, we will contact you\nand move forward in the process.\n\nNote for Candidates Approached Directly: If you were\ncontacted directly by a member of our team and are\ninterested in this opportunity, please do not apply through\nthis link. Instead, reach out to the person who contacted\nyou to coordinate a meeting. Thank you!\n",
+  "skills_required": [
+    "AWS Bedrock",
+    "Anthropic Claude",
+    "OpenAI GPTs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and deploy AI-driven features and services for the client's platform",
+    "Integrate LLMs (Anthropic Claude, OpenAI GPTs, Bedrock models) into production workflows",
+    "Build and maintain backend services using Node.js and MongoDB",
+    "Collaborate on full-stack development with Vue.js frontend when needed",
+    "Architect, containerize, and deploy applications using AWS and Docker",
+    "Implement data pipelines, web scraping solutions, and AI/data engineering workflows",
+    "Optimize system performance, scalability, and reliability in cloud-native environments",
+    "Support AI experimentation and transition prototypes into production-ready systems"
+  ],
+  "use_cases": [
+    "AI-driven platform features and services",
+    "LLM-powered production workflows",
+    "Data engineering and web scraping solutions",
+    "AI prototype development and production deployment"
+  ],
+  "tools_mentioned": [
+    "AWS CloudFront",
+    "AWS EC2",
+    "AWS Fargate",
+    "AWS Lambda",
+    "AWS S3",
+    "AWS SES",
+    "AWS SQS",
+    "Data pipelines",
+    "Docker",
+    "MongoDB",
+    "Vue.js",
+    "Web scraping"
+  ],
+  "frameworks_mentioned": [
+    "AWS Bedrock",
+    "Anthropic Claude",
+    "OpenAI GPTs"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves directly integrating LLMs into production\nworkflows, operationalizing AI models, and transitioning AI\nprototypes into production systems. Core responsibilities\ninclude hands-on work with Anthropic Claude, OpenAI GPTs,\nand AWS Bedrock models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Anthropic Claude",
+      "OpenAI GPTs",
+      "AWS Bedrock"
+    ],
+    "ml": [],
+    "web": [
+      "Vue.js"
+    ],
+    "databases": [
+      "MongoDB"
+    ],
+    "data": [
+      "Web scraping",
+      "Data pipelines"
+    ],
+    "cloud": [
+      "AWS EC2",
+      "AWS Fargate",
+      "AWS Lambda",
+      "AWS SQS",
+      "AWS SES",
+      "AWS S3",
+      "AWS CloudFront"
+    ],
+    "ops": [
+      "Docker"
+    ],
+    "languages": [
+      "Node.js",
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

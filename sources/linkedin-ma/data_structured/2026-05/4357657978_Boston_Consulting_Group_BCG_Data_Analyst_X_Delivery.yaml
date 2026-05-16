@@ -1,0 +1,43 @@
+company:
+  name: Boston Consulting Group (BCG)
+  stage: null
+  focus: null
+position:
+  title: Data Analyst - X Delivery
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - postgresql
+    data:
+    - hadoop
+    - spark
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    - R
+    domains: []
+    other:
+    - Big Data
+    - consulting
+    - Excel
+    - Hive
+    - power bi
+    - SAS
+    - statistics
+    - tableau
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4357657978'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

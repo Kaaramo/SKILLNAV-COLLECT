@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-0138",
+  "source": "intl-ai-corpus",
+  "source_ref": "7140475",
+  "source_url": "https://builtin.com/job/full-stack-engineer-ai/7140475",
+  "title": "Full Stack Engineer (AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Chaos Labs",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "25 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Automated on-chain economic security and risk management for\ncrypto protocols",
+  "industries": [],
+  "description": "Chaos Labs is the first automated, on-chain economic\nsecurity system enabling crypto protocols to optimize risk\nmanagement and capital efficiency while safeguarding user\nfunds. We analyze protocol mechanics and scenario\nimplications using world-class custom EVM simulations to\nprovide actionable insights. Our platform is trusted by\nleading protocols, including Aave, GMX, dYdX, Venus, Jupiter\nand others, to manage and secure billions of dollars in\nassets.\n\nWe are seeking a proactive and results-driven Full-Stack\nEngineer to join our AI team. Reporting directly to the Head\nof Product & AI you will play a critical role in working\nclosely with our CEO and AI team to develop our financial AI\nagent.\n\nResponsibilities:\n\n- Design and build full-stack systems for our AI financial\n  agent.\n- Develop scalable APIs and backend services to support agent\n  workflows.\n- Build high-performance, user-facing interfaces to visualize\n  agent reasoning and surface insights, as well as enable\n  real-time interaction.\n- Collaborate with AI researchers to integrate and\n  productionize agent logic.\n- Connect and manage data pipelines from financial sources.\n- Implement testing, monitoring, and performance best\n  practices.\n- Stay up to date with LLM frameworks, full-stack tools, and\n  financial trends.\n\n- 5+ years of full-stack development experience.\n- Strong proficiency in Python (FastAPI),\n  JavaScript/TypeScript, Node.js, and React.\n- Proven experience building scalable APIs and web\n  applications.\n- Solid knowledge of relational and non-relational databases.\n- Hands-on experience with LLMs and frameworks like LangChain\n  or similar.\n- Familiarity with vector databases, RAG pipelines, and async\n  programming.\n- Experience with financial data and APIs.\n- Comfortable working in fast-paced, self-directed\n  environments.\n\n.\n\nPreferred Qualifications:\n\n- Based in NYC with the ability to work from our Brooklyn\n  office, or the ability to work remotely in the USA, with\n  travel up to 30% of the year to collaborate in person with\n  the team.\n- Experience building LLM-based agents in production\n  environments.\n- Familiarity with prompt engineering, tool use orchestration\n  (MCP), and AI agent design.\n- Experience with embedding pipelines, semantic search, and\n  RAG architectures.\n- Proficiency with profiling tools and performance\n  optimization.\n- Track record of contributing to or thriving in\n  collaborative, high-velocity teams.\n- Familiarity with smart contracts, blockchain protocols, and\n  DeFi systems is a plus.\n\nOur Perks:\n\n- Paid Time Off – 21 vacation days + 7 sick days + 8 observed\n  U.S. company holidays\n- Health Coverage – 100% employer-paid options (medical,\n  dental & vision) for you and your dependents\n- FSA / HSA Options – depending on selected health insurance\n  plan\n- Parental Leave – thoughtful policy to support your family\n  needs\n- Wellness Programs – OneMedical, Teladoc, Talkspace, and EAP\n- Career Growth – opportunities in a rapidly expanding, global\n  technology company with personalized professional\n  development\n- Pre-tax Commuter Benefits\n- Compensation & Equity – competitive package aligned with\n  growth and merit\n\nSalary and seniority level commensurate with experience\n(range: $160,000 - $210,000)\n",
+  "skills_required": [
+    "AI agent design",
+    "LLMs",
+    "LangChain",
+    "MCP (tool use orchestration)",
+    "RAG architectures",
+    "RAG pipelines",
+    "async programming",
+    "embedding pipelines",
+    "prompt engineering",
+    "semantic search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build full-stack systems for the AI financial agent",
+    "Develop scalable APIs and backend services to support agent workflows",
+    "Build high-performance, user-facing interfaces to visualize agent reasoning and surface insights, as well as enable real-time interaction",
+    "Collaborate with AI researchers to integrate and productionize agent logic",
+    "Connect and manage data pipelines from financial sources",
+    "Implement testing, monitoring, and performance best practices",
+    "Stay up to date with LLM frameworks, full-stack tools, and financial trends"
+  ],
+  "use_cases": [
+    "Financial AI agent for risk management and capital efficiency analysis",
+    "On-chain economic security system for crypto protocols",
+    "Real-time agent reasoning visualization and insights for DeFi protocols",
+    "Automated analysis of protocol mechanics and scenario implications using EVM simulations",
+    "Integration of AI agents with blockchain protocols and DeFi systems"
+  ],
+  "tools_mentioned": [
+    "FastAPI",
+    "Node.js",
+    "React",
+    "financial data APIs",
+    "non-relational databases",
+    "relational databases",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AI agent design",
+    "LLMs",
+    "LangChain",
+    "MCP (tool use orchestration)",
+    "RAG architectures",
+    "RAG pipelines",
+    "embedding pipelines",
+    "prompt engineering",
+    "semantic search"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on development of a financial AI\nagent with explicit requirements for LLM frameworks\n(LangChain), vector databases, RAG pipelines, and agent\norchestration (MCP). The engineer will integrate and\nproductionize agent logic, build systems for the AI agent,\nand work directly with agent workflows, which qualifies as\nworking directly ON AI systems rather than just supporting\nthem.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LLMs",
+      "RAG pipelines",
+      "prompt engineering",
+      "MCP (tool use orchestration)",
+      "AI agent design",
+      "embedding pipelines",
+      "semantic search",
+      "RAG architectures"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Node.js",
+      "React"
+    ],
+    "databases": [
+      "vector databases",
+      "relational databases",
+      "non-relational databases"
+    ],
+    "data": [
+      "financial data APIs"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "async programming"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

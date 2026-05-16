@@ -1,0 +1,130 @@
+{
+  "job_id": "intl-ai-corpus-2820",
+  "source": "intl-ai-corpus",
+  "source_ref": "9028270",
+  "source_url": "https://builtin.com/job/senior-ai-engineer-m-f-d/9028270",
+  "title": "Senior AI Engineer (m/f/d)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Voyfai",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "Berlin",
+  "country": "DE",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-13",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "32 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered logistics and technology solutions across Europe",
+  "industries": [
+    "Artificial Intelligence",
+    "Logistics",
+    "Transportation"
+  ],
+  "description": "Join Voyfai, a fast-growing Series A startup shaping the\nfuture of logistics and technology across Europe.\n\nHeadquartered in Berlin, we operate at the center of a\nbroader group of companies active across several European\nmarkets.\n\nThis is a unique opportunity to take ownership from day one,\ndrive meaningful impact and grow within a dynamic, fast-\npaced environment. Whether you're shaping processes,\nbuilding strategies or leading initiatives, your\ncontributions will directly influence the success of Voyfai\nand the companies we support. If you're passionate about\nbuilding from scratch and excited to be part of a company on\nthe rise, we'd love to hear from you.\n\nYour Role\n\nAs a Senior AI Engineer at Voyfai, you will play a key role\nin designing, building and scaling LLM-powered and applied\nGenAI systems that power our core products. You will work\nclosely with Product, Engineering and Business stakeholders\nto turn complex, unstructured problems into robust,\nproduction-ready AI solutions.\n\nThis role is hands-on and impact-driven. You will be\nexpected to take end-to-end ownership, from use case\ndiscovery and prompt or model design to deployment,\nmonitoring and continuous improvement in production, with a\nstrong focus on real-world reliability and business impact.\n\nKey Responsibilities:\n\n- Design, develop and deploy LLM-powered and GenAI features\n  for real-world, high-impact use cases\n- Build and own end-to-end GenAI pipelines, including prompt\n  design, model selection or fine-tuning, evaluation and\n  deployment\n- Integrate foundation models into production systems with a\n  strong focus on latency, cost, reliability and quality\n- Collaborate closely with Product Managers and Engineers to\n  translate ambiguous business problems into scalable AI\n  solutions\n- Own production AI systems, including monitoring, evaluation,\n  guardrails and feedback loops\n- Contribute to architectural decisions around AI platforms,\n  retrieval systems, vector databases and LLMOps tooling\n- Raise the technical bar through code quality, documentation\n  and mentoring\n\nWhat You Bring:\n\n- Several years of experience as an AI Engineer, Machine\n  Learning Engineer or similar role, with hands-on focus on\n  LLMs and applied GenAI in production\n- Strong understanding of LLM behavior, prompting techniques,\n  evaluation strategies and common failure modes\n- Solid Python skills and experience with GenAI frameworks or\n  tooling such as PyTorch, LangChain, LlamaIndex or similar\n- Experience building production-grade GenAI systems such as\n  RAG pipelines, agents or tool-using models\n- Experience deploying and operating AI systems in cloud\n  environments, including cost and performance optimization\n- Familiarity with LLMOps or MLOps practices such as\n  observability, testing and lifecycle management\n- Pragmatic, impact-driven mindset with the ability to\n  communicate complex AI concepts clearly\n\nWhat We Offer\n\n- Competitive salary and equity options\n- A dynamic, fast-paced work environment with a mission-driven\n  team\n- Flexible working arrangements (Hybrid)\n- 30 days of PTO\n- Regular team events and offsites\n- Monthly mobility budget via Navit\n",
+  "skills_required": [
+    "Agents",
+    "Fine-tuning",
+    "Guardrails",
+    "LLMs",
+    "LangChain",
+    "LlamaIndex",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop and deploy LLM-powered and GenAI features for real-world, high-impact use cases",
+    "Build and own end-to-end GenAI pipelines, including prompt design, model selection or fine-tuning, evaluation and deployment",
+    "Integrate foundation models into production systems with a focus on latency, cost, reliability and quality",
+    "Collaborate with Product Managers and Engineers to translate ambiguous business problems into scalable AI solutions",
+    "Own production AI systems, including monitoring, evaluation, guardrails and feedback loops",
+    "Contribute to architectural decisions around AI platforms, retrieval systems, vector databases and LLMOps tooling",
+    "Raise the technical bar through code quality, documentation and mentoring"
+  ],
+  "use_cases": [
+    "LLM-powered GenAI features for logistics operations",
+    "RAG pipelines for information retrieval and knowledge access",
+    "AI agents and tool-using models for automated logistics workflows",
+    "Production GenAI systems for real-time business decision support",
+    "Retrieval systems and vector databases for enterprise search in logistics"
+  ],
+  "tools_mentioned": [
+    "Cloud Deployment",
+    "LLMOps",
+    "MLOps",
+    "Model Evaluation",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Agents",
+    "Fine-tuning",
+    "Guardrails",
+    "LLMs",
+    "LangChain",
+    "LlamaIndex",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on designing, building,\ndeploying, and maintaining LLM-powered and GenAI systems.\nThe engineer will work hands-on with foundation models,\nfine-tuning, RAG pipelines, agents, and LLMOps — all core\nAI-first activities. This is not a support role; it involves\nbuilding and owning AI systems end-to-end.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "Prompt Engineering",
+      "RAG",
+      "LangChain",
+      "LlamaIndex",
+      "Agents",
+      "Fine-tuning",
+      "Guardrails"
+    ],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Cloud Deployment"
+    ],
+    "ops": [
+      "LLMOps",
+      "MLOps",
+      "Model Evaluation"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

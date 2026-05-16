@@ -1,0 +1,157 @@
+{
+  "job_id": "intl-ai-corpus-0264",
+  "source": "intl-ai-corpus",
+  "source_ref": "7601466",
+  "source_url": "https://builtin.com/job/staff-ai-context-engineer/7601466",
+  "title": "Staff AI Engineer, Data Systems",
+  "title_normalized": "AI_ENGINEER",
+  "company": "MagicSchool AI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "95 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Generative AI platform for teachers and educators",
+  "industries": [
+    "Artificial Intelligence",
+    "Edtech"
+  ],
+  "description": "WHO WE ARE: MagicSchool is the premier generative AI\nplatform for teachers. We're just over 2 years old, and more\nthan 7 million teachers from all over the world have joined\nour platform. Join a top team at a fast growing company that\nis working towards real social impact. Make an account and\ntry us out at our website and connect with our passionate\ncommunity on our Wall of Love.\n\nThe Role\n\nAs a Staff AI Engineer specializing in RAG, Knowledge\nGraphs, and Memory Systems, you'll architect the information\ninfrastructure that powers MagicSchool's AI agents. You'll\ndesign and build the knowledge organization, retrieval, and\nmemory systems that determine what educational content our\nagents can access, how they navigate complex curriculum\nrelationships, and how they maintain coherent understanding\nacross extended teaching workflows serving millions of\neducators.\n\nThis is a high-impact IC role where you'll define how\neducational knowledge is structured, indexed, embedded, and\nretrieved for AI consumption, mentor engineers on advanced\nretrieval and graph systems, and ensure our agents can\nreason over rich educational content with precision and\nreliability.\n\nWhat You'll Do\n\nKnowledge Graph & Semantic Architecture\n\n- Knowledge Graph Design: Architect and implement graph-based\n  knowledge systems (Neo4j, Neptune, etc) that represent\n  educational content relationships, standards alignments,\n  prerequisite chains, curriculum coherence, learning\n  progressions, and pedagogical connections. Thus enabling\n  agents to reason over structured educational knowledge.\n- Graph Schema & Ontology Development: Design and evolve\n  ontologies and schemas for educational content, defining\n  entity types (standards, concepts, skills, assessments),\n  relationship semantics, and property models that support\n  both human comprehension and AI reasoning.\n- GraphRAG Implementation: Build GraphRAG systems that combine\n  knowledge graph traversal with vector similarity, enabling\n  agents to retrieve not just similar content but\n  contextually connected educational materials through\n  semantic and structural relationships.\n\nRetrieval Pipeline Architecture\n\n- Advanced RAG Systems: Architect and implement sophisticated\n  retrieval-augmented generation pipelines including hybrid\n  search (dense + sparse), multi-stage retrieval, reranking\n  strategies, and query understanding that surface the most\n  relevant educational content for agent reasoning.\n- Embedding & Vectorization Strategy: Design and\n  operationalize embedding pipelines for educational\n  content, selecting and fine-tuning embedding models,\n  implementing chunking strategies appropriate for\n  curriculum materials, and managing vector stores at scale\n  for fast, accurate retrieval.\n- Retrieval Evaluation & Optimization: Design evaluation\n  pipelines that measure retrieval precision, recall, MRR,\n  and NDCG across educational content types. Continuously\n  optimize retrieval quality through experimentation with\n  embedding models, chunking strategies, and ranking\n  algorithms.\n\nDocument Ingestion & Processing\n\n- Content Ingestion Pipelines: Build robust ingestion systems\n  that process structured (standards documents, curriculum\n  frameworks, JSON) and unstructured (PDFs, lesson plans,\n  textbooks) educational content, extracting entities,\n  relationships, and metadata for knowledge base population.\n- Semantic Parsing & Extraction: Implement NLP pipelines for\n  educational content that extract key concepts,\n  prerequisite relationships, learning objectives, and\n  pedagogical metadata, enriching raw content with\n  structured annotations for improved retrieval and\n  reasoning.\n\nMemory & Context Management\n\n- Long-Horizon Memory Systems: Invent and operationalize\n  memory compaction mechanisms, session state management,\n  and cross-conversation memory patterns that allow agents\n  to maintain coherence across extended teaching workflows\n  while respecting token budgets.\n- Context Evaluation & Monitoring: Design evaluation\n  frameworks that measure retrieval precision, token\n  relevance, attention allocation, and reasoning coherence\n  as context evolves across sessions. Work with the\n  evaluations team on detecting context degradation and\n  retrieval failures.\n\nCross-Functional & Educational Domain Collaboration\n\n- Cross-Functional Collaboration: Partner with Product,\n  Research, and Educators to understand content\n  relationships, retrieval requirements, and context needs\n  across different teaching scenarios, translating domain\n  expertise into technical architecture.\n- Model & Platform Integration: Collaborate with ML\n  researchers / evaluations team and context engineers to\n  co-design architectures that integrate knowledge graphs,\n  vector stores, and retrieval systems with agent runtimes\n  and LLM inference pipelines.\n\nMentorship & Standards\n\n- Technical Mentorship: Guide engineers on knowledge graph\n  design, RAG architecture patterns, embedding strategies,\n  and retrieval optimization, elevating the team's\n  capability in building knowledge-intensive AI systems.\n\nWhat We're Looking For\n\n- Deep Knowledge Systems Experience: 5+ years building large-\n  scale information systems with at least 2+ years in\n  staff/senior roles. Extensive hands-on experience with RAG\n  systems, knowledge graphs, or semantic search platforms in\n  production environments.\n- Graph Database Expertise: Deep experience with graph\n  databases (Neo4j, Neptune, or similar), including schema\n  design, query optimization (Cypher, Gremlin), and building\n  graph-based applications. Understanding of when graph\n  structures provide advantages over relational or vector-\n  only approaches.\n- RAG & Retrieval Mastery: Demonstrated expertise building\n  production RAG systems including embedding selection,\n  chunking strategies, hybrid search, reranking, and\n  retrieval evaluation. Familiarity with vector databases\n  (pgvector, Pinecone, Weaviate, Qdrant) and their\n  performance characteristics.\n- Embedding & NLP Background: Strong understanding of\n  embedding models (sentence transformers, domain-specific\n  embeddings), fine-tuning approaches, and semantic\n  similarity. Experience with document processing, entity\n  extraction, and text chunking for optimal retrieval.\n- Technical Stack: Strong coding skills in Python and/or\n  TypeScript/Node.js. Experience with our stack (TypeScript,\n  Node.js, PostgreSQL, NextJS, Supabase) plus graph\n  databases and vector stores. Familiarity with LLM APIs and\n  context management patterns.\n- Information Architecture: Deep understanding of information\n  retrieval theory, semantic search, knowledge\n  representation, and strategies for organizing complex\n  domain knowledge for both human and AI consumption.\n- Leadership & Impact: Track record of architecting complex\n  knowledge systems, making high-leverage technical\n  decisions about information architecture, and mentoring\n  engineers on sophisticated retrieval and graph concepts.\n\nNice to Have\n\n- Educational Context Awareness: Understanding of or interest\n  in how educational content is structured (standards,\n  curricula, learning progressions), curriculum\n  relationships, and how knowledge organization differs\n  across teaching scenarios.\n- Experience with GraphRAG, knowledge graph embeddings\n  (node2vec, TransE), or graph neural networks for link\n  prediction and entity resolution\n- Familiarity with educational knowledge graphs, standards\n  alignment systems (CASE framework), or EdTech content\n  taxonomies\n- Background in semantic web technologies (RDF, OWL, SPARQL),\n  ontology engineering, or knowledge graph construction from\n  unstructured text\n- Experience with model context protocol (MCP) for tool-based\n  retrieval, or building context-aware agent frameworks\n- Knowledge of curriculum standards, learning science, or\n  educational metadata schemas (LOM,\n  schema.org/LearningResource)\n- Experience with fine-tuning embedding models for domain-\n  specific retrieval or building learned sparse retrievers\n\nApplication Notice:\n\nNotice: Priority Deadline and Review Start Date\n\nPlease note that applications for this position will be\naccepted until 2/8/26 - applications received after this\ndate will be reviewed on an intermittent basis. While we\nencourage early submissions, all applications received by\nthe priority deadline will receive equal consideration.\nThank you for your interest, and we look forward to\nreviewing your application.\n\nWhy Join Us?\n\n- Work on cutting-edge AI technology that directly impacts\n  educators and students.\n- Join a mission-driven team passionate about making education\n  more efficient and equitable.\n- Flexibility of working from home, while fostering a unique\n  culture built on relationships, trust, communication, and\n  collaboration with our team - no matter where they live.\n\nFor full time employees:\n\n- Unlimited time off to empower our employees to manage their\n  work-life balance. We work hard for our teachers and\n  users, and encourage our employees to rest and take the\n  time they need.\n- Choice of employer-paid health insurance plans so that you\n  can take care of yourself and your family. Dental and\n  vision are also offered at very low premiums.\n- Every employee is offered generous stock options, vested\n  over 4 years.\n- 401k match & monthly wellness stipend.\n\nOur Values:\n\n- Educators are Magic:  Educators are the most important\n  ingredient in the educational process - they are the\n  magic, not the AI. Trust them, empower them, and put them\n  at the center of leading change in service of students and\n  families.\n- Joy and Magic: Bring joy and magic into every learning\n  experience - push the boundaries of what’s possible with\n  AI.\n- Community:  Foster community that supports one another\n  during a time of rapid technological change. Listen to\n  them and serve their needs.\n- Innovation:  The education system is outdated and in need of\n  innovation and change - AI is an opportunity to bring\n  equity, access, and serve the individual needs of students\n  better than we ever have before.\n- Responsibility: Put responsibility and safety at the\n  forefront of the technological change that AI is bringing\n  to education.\n- Diversity: Diversity of thought, perspectives, and\n  backgrounds helps us serve the wide audience of educators\n  and students around the world.\n- Excellence:  Educators and students deserve the best - and\n  we strive for the highest quality in everything we do.\n",
+  "skills_required": [
+    "GraphRAG",
+    "LLM APIs",
+    "NLP",
+    "RAG",
+    "TransE",
+    "context management",
+    "embedding models",
+    "entity extraction",
+    "fine-tuning",
+    "graph neural networks",
+    "model context protocol",
+    "node2vec",
+    "semantic search",
+    "text chunking"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and implement graph-based knowledge systems using Neo4j, Neptune, or similar to represent educational content relationships, standards alignments, and curriculum coherence",
+    "Build GraphRAG systems combining knowledge graph traversal with vector similarity for contextually connected educational material retrieval",
+    "Design and implement sophisticated RAG pipelines including hybrid search, multi-stage retrieval, reranking strategies, and query understanding",
+    "Operationalize embedding pipelines for educational content, including selecting and fine-tuning embedding models and implementing chunking strategies",
+    "Build robust content ingestion systems processing structured and unstructured educational content with NLP pipelines for entity extraction and semantic parsing",
+    "Invent and operationalize memory compaction mechanisms and session state management for maintaining agent coherence across extended teaching workflows",
+    "Partner with Product, Research, and Educators to translate domain expertise into technical architecture for knowledge graphs and retrieval systems",
+    "Mentor engineers on knowledge graph design, RAG architecture patterns, embedding strategies, and retrieval optimization"
+  ],
+  "use_cases": [
+    "AI-powered educational agents that can reason over structured knowledge to assist teachers with curriculum planning and lesson design",
+    "Intelligent retrieval systems that surface relevant educational standards, lesson plans, and teaching materials based on contextual queries",
+    "Knowledge graph-driven curriculum navigation that helps teachers understand prerequisite relationships and learning progressions",
+    "Memory-aware AI agents that maintain coherent understanding across extended teaching workflows while managing token budgets",
+    "Educational content processing and enrichment systems that extract pedagogical metadata from unstructured documents",
+    "Semantic search over millions of educational resources enabling precise content discovery for diverse teaching scenarios"
+  ],
+  "tools_mentioned": [
+    "Neo4j",
+    "Neptune",
+    "NextJS",
+    "Pinecone",
+    "PostgreSQL",
+    "Qdrant",
+    "Supabase",
+    "Weaviate",
+    "pgvector",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "GraphRAG",
+    "LLM APIs",
+    "NLP",
+    "RAG",
+    "TransE",
+    "context management",
+    "embedding models",
+    "entity extraction",
+    "fine-tuning",
+    "graph neural networks",
+    "model context protocol",
+    "node2vec",
+    "semantic search",
+    "text chunking"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a Staff AI Engineer role that involves hands-on\nimplementation of GraphRAG systems, knowledge graphs,\nretrieval-augmented generation pipelines, and embedding\nstrategies. The engineer directly builds and deploys AI\ninfrastructure that enables agents to reason over\neducational content, including fine-tuning embedding models\nand optimizing retrieval systems for LLM consumption.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "GraphRAG",
+      "LLM APIs",
+      "semantic search",
+      "context management",
+      "model context protocol"
+    ],
+    "ml": [
+      "embedding models",
+      "fine-tuning",
+      "NLP",
+      "entity extraction",
+      "text chunking",
+      "graph neural networks",
+      "node2vec",
+      "TransE"
+    ],
+    "web": [
+      "NextJS"
+    ],
+    "databases": [
+      "Neo4j",
+      "Neptune",
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "pgvector",
+      "vector databases",
+      "PostgreSQL",
+      "Supabase"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

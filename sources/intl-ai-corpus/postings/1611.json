@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-1611",
+  "source": "intl-ai-corpus",
+  "source_ref": "8543870",
+  "source_url": "https://builtin.com/job/ai-prompt-engineer/8543870",
+  "title": "AI Prompt Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Brainscape",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "37 Employees",
+  "company_stage": null,
+  "company_focus": "EdTech study platform for flashcards",
+  "industries": [],
+  "description": "Brainscape, the world's leading web & mobile EdTech study\nplatform, is seeking an AI Prompt Engineer to help us ship\nand maintain high-quality generative AI features that help\nmillions of learners create better flashcards.\n\nYou will be working directly with Brainscape's Knowledge\nManager to iterate on LLM prompts, analyze real user data,\nand ensure our AI output meets a high quality bar - both at\nlaunch and as models evolve. The immediate priority is\nmigrating and testing our existing bulk flashcard creation\nprompts in an updated AI environment with newer GPT models.\nThese prompts power three user-facing features: importing\npasted or uploaded content into flashcards, summarizing\ndocuments into flashcards, and generating flashcards from a\nuser-described topic. From there, the role expands into\nongoing QA, regression testing, and prompt optimization\nacross all of Brainscape's AI features.\n\nThis is a part-time contract role (~5-10 hours/week, remote)\nthrough the end of 2026, with potential to extend or convert\nto a permanent position. Hourly rate is $40-$100 (based on\nexperience and location).\n\nResponsibilities\n\n- Migrate and test existing bulk flashcard creation prompts in\n  an updated AI environment with newer GPT models - and plan\n  future migrations as OpenAI retires older models\n- Run test suites and manually review AI outputs for quality\n  and correctness (fine-tune prompts)\n- Analyze real user data to identify failure patterns and\n  inform prompt improvements\n- Streamline testing and evaluation workflows to make QA\n  faster and more repeatable\n- Monitor production quality post-launch and detect\n  regressions as underlying models shift\n- Build and maintain model evaluation datasets from real user\n  inputs across all AI features\n- Write new test cases for edge cases, multilingual content,\n  and messy real-world inputs\n- Document prompt changes, test results, and lessons learned\n- Work with the Content Team to apply flashcard authoring\n  quality standards\n\nQualifications\n\n- 1+ years hands-on prompt engineering experience with LLMs /\n  OpenAI API (systematic testing and iteration, not just\n  casual ChatGPT usage)\n- Familiarity with Cursor IDE or similar AI-assisted\n  development tools (our work is primarily Python - Cursor\n  experience is more important than raw Python skill)\n- Some experience with Git version control and collaborating\n  via shared repositories (we use GitLab)\n- A habit of documenting what you tried, what worked, and why\n  - you don't need a formal QA background, but you naturally\n  keep track of your process\n- Clear written communication skills\n- Proactive attitude; ability to work independently and manage\n  your own time\n- BONUS: Experience building prompt evals, AI quality\n  assurance, or using GPT to grade GPT outputs\n- BONUS: Experience with regression testing for AI systems or\n  detecting model drift\n- BONUS: Background in education technology (EdTech) or\n  content creation - especially microlearning, flashcards,\n  or other concise Q&A formats\n- BONUS: A degree in Computer Science, Information Science, or\n  a similar field\n\nTo Apply\n\nPlease apply above with a resume and anything you want us to\nknow about why you think you'd be a good fit. If you are a\ntop candidate, we will follow up with a short application\nform to help direct you to the right person for an\ninterview.\n",
+  "skills_required": [
+    "Cursor IDE",
+    "GPT models",
+    "LLMs",
+    "Model evaluation",
+    "OpenAI API",
+    "Prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Migrate and test existing bulk flashcard creation prompts in updated AI environment with newer GPT models",
+    "Run test suites and manually review AI outputs for quality and correctness, fine-tuning prompts as needed",
+    "Analyze real user data to identify failure patterns and inform prompt improvements",
+    "Streamline testing and evaluation workflows to make QA faster and more repeatable",
+    "Monitor production quality post-launch and detect regressions as underlying models shift",
+    "Build and maintain model evaluation datasets from real user inputs across all AI features",
+    "Write new test cases for edge cases, multilingual content, and messy real-world inputs",
+    "Document prompt changes, test results, and lessons learned while working with Content Team on quality standards"
+  ],
+  "use_cases": [
+    "Bulk flashcard creation from pasted or uploaded content",
+    "Document summarization into flashcards",
+    "Generating flashcards from user-described topics",
+    "Multilingual flashcard creation",
+    "Converting messy real-world inputs into structured flashcard content"
+  ],
+  "tools_mentioned": [
+    "AI quality assurance",
+    "Git",
+    "GitLab",
+    "Regression testing"
+  ],
+  "frameworks_mentioned": [
+    "GPT models",
+    "LLMs",
+    "Model evaluation",
+    "OpenAI API",
+    "Prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on prompt engineering, directly working\nwith LLMs, OpenAI API, and GPT models. The engineer will be\nfine-tuning, testing, and optimizing prompts to ensure high-\nquality AI output, which is core AI/ML development work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt engineering",
+      "OpenAI API",
+      "GPT models",
+      "LLMs"
+    ],
+    "ml": [
+      "Model evaluation"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Git",
+      "GitLab",
+      "Regression testing",
+      "AI quality assurance"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Cursor IDE"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

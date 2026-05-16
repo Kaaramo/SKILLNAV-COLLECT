@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-1581",
+  "source": "intl-ai-corpus",
+  "source_ref": "8530773",
+  "source_url": "https://builtin.com/job/software-engineer-ai/8530773",
+  "title": "Software Engineer- AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cloudflare",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-18",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "4,400 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud connectivity, security, and AI platform",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Security",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "Available Location: Bengaluru, India About the Team: As\ncustomer zero, we evangelize our products to drive maximum\nbusiness value while serving as the \"glue\" that aligns\ncross-functional stakeholders with our technical ecosystem.\nWe operate with an automation-first mindset, purposefully\noutgrowing yesterday's processes to create the headspace\nneeded to solve tomorrow's problems. On this team, you won't\njust maintain the status quo-you'll foster the collaboration\nand innovation necessary to ensure our products and people\nwork better together. Enablement: We evangelize and elevate\nawareness around our product offerings and opportunities to\nleverage our own product for business value capabilities Be\nthe glue: Like the many products we have, it only works if\nit all works well together. Finding common ground to\nenhanced cross-functional collaboration and alignment with\nbusiness stakeholders will strengthen customer and product\ncommon ground. Automation First mindset: We can only truly\ndo our best work when we have the space to reimagine how we\nsolve tomorrow's problems today. It's okay that what worked\nwell yesterday may not be what we need for tomorrow. About\nthis Role: We are seeking a highly experienced LLM Developer\nto join our team. In this role, you will lead the\ndevelopment of our internal AI initiatives, starting with\ntaking ownership of the Cloudflare IT support chatbot. You\nwill be responsible for designing and executing new AI use\ncases that directly improve employee experience and\nproductivity across the organization. You will leverage\nCloudflare's own ecosystem, including AI Gateway, to build\nscalable, production-ready AI applications.\nResponsibilities:\n\n- Take ownership of the development and maintenance of the\n  internally built Cloudflare IT support chatbot, ensuring\n  high availability and continuous improvement of response\n  quality.\n- Identify, design, and build new AI-driven use cases and\n  tools to enhance employee productivity and streamline\n  internal workflows.\n- Develop and deploy AI applications at scale, ensuring\n  reliability, performance, and security.\n- Integrate and optimize AI applications using Cloudflare's AI\n  Gateway to manage and monitor model usage effectively.\n- Partner closely with internal teams to understand their pain\n  points and translate them into technical AI solutions.\n- Stay up-to-date with the latest advancements in LLMs and\n  Generative AI to continuously innovate our internal\n  toolset.\n\n\nRequirements:\n\n- 5+ years of experience in software development, with a\n  strong focus on AI, Machine Learning, or Agentic\n  applications.\n- Proven experience in the development and deployment of AI\n  applications at scale in a production environment with\n  focus on strong authorization and data privacy.\n- Familiarity with Cloudflare AI Gateway and experience\n  managing API traffic for LLMs.\n- Strong proficiency in TypeScript and experience with\n  relevant AI/ML libraries and frameworks (e.g., PyTorch,\n  TensorFlow, LangChain).\n- Experience with observability and configuration management,\n  Infrastructure as Code (Terraform), and CI/CD pipelines\n  (GitLab/GitHub), Grafana, OTEL, K8s etc.\n- Experience and expertise in Agile methodology.\n- Excellent interpersonal and communication skills in written\n  and spoken English.\n- Prior experience working on enterprise engineering teams or\n  building internal developer tools is a plus.\n",
+  "skills_required": [
+    "Generative AI",
+    "LLMs",
+    "LangChain",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Take ownership of the development and maintenance of the internally built Cloudflare IT support chatbot, ensuring high availability and continuous improvement of response quality",
+    "Identify, design, and build new AI-driven use cases and tools to enhance employee productivity and streamline internal workflows",
+    "Develop and deploy AI applications at scale, ensuring reliability, performance, and security",
+    "Integrate and optimize AI applications using Cloudflare's AI Gateway to manage and monitor model usage effectively",
+    "Partner closely with internal teams to understand their pain points and translate them into technical AI solutions",
+    "Stay up-to-date with the latest advancements in LLMs and Generative AI to continuously innovate internal toolset"
+  ],
+  "use_cases": [
+    "IT support chatbot for internal employee assistance",
+    "AI-driven tools for employee productivity enhancement",
+    "Workflow automation and streamlining for internal operations",
+    "Enterprise-grade AI applications with authorization and data privacy"
+  ],
+  "tools_mentioned": [
+    "API management",
+    "CI/CD",
+    "Cloudflare AI Gateway",
+    "Grafana",
+    "Infrastructure as Code",
+    "Kubernetes",
+    "OpenTelemetry",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Generative AI",
+    "LLMs",
+    "LangChain",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires hands-on development of LLM applications,\nincluding an IT support chatbot and new AI-driven use cases.\nThe developer will work directly with LLMs, manage model\nusage through AI Gateway, and deploy AI applications - all\ncore ai-first activities rather than supporting\ninfrastructure or general SWE work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LLMs",
+      "Generative AI"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [
+      "API management"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Cloudflare AI Gateway"
+    ],
+    "ops": [
+      "Terraform",
+      "Kubernetes",
+      "CI/CD",
+      "Grafana",
+      "OpenTelemetry",
+      "Infrastructure as Code"
+    ],
+    "languages": [
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,43 @@
+company:
+  name: ADM Value (filiale TESSI)
+  stage: null
+  focus: Filiale du groupe TESSI · 8 pays · 18 sites de production · 8000+ collaborateurs · relation et expérience client
+position:
+  title: Data Engineer
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities:
+  - Concevoir pipelines robustes
+  - Maîtriser environnements data complexes
+  - Transformer besoins métier en flux data fiables et performants
+  - Ingestion, transformation, disponibilité des données
+  - Qualité, performance, maintenabilité des flux
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - bigquery
+    - postgresql
+    - snowflake
+    data:
+    - airflow
+    - dbt
+    - hadoop
+    - spark
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - Talend
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '181513'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

@@ -1,0 +1,37 @@
+company:
+  name: BROME Consulting & Technology
+  stage: null
+  focus: null
+position:
+  title: Techlead Data
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - elasticsearch
+    - mongodb
+    data:
+    - hdfs
+    - kafka
+    - spark
+    cloud: []
+    ops: []
+    languages:
+    - java
+    - python
+    - scala
+    domains: []
+    other:
+    - Hive
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4200184624'
+  extracted_at: '2026-05-15T15:53:14+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

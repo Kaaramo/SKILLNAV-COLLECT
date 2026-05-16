@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-0859",
+  "source": "intl-ai-corpus",
+  "source_ref": "7463674",
+  "source_url": "https://builtin.com/job/senior-engineer-agentic-ai/7463674",
+  "title": "Senior Engineer - Agentic AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Saviynt",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": null,
+  "company_focus": "Enterprise Identity Cloud platform for security and\ncompliance",
+  "industries": [],
+  "description": "Job Specification: Senior Software Engineer – Agentic AI\nSystems\n\n About Saviynt\n\n Saviynt’s Enterprise Identity Cloud helps modern\nenterprises scale cloud\n\n initiatives and solve the toughest security and compliance\nchallenges in\n\n record time. The company brings together identity\ngovernance (IGA),\n\n granular application access, cloud security, and Privileged\nAccess\n\n Management (PAM) to secure the entire business ecosystem\nand provide a\n\n frictionless user experience. The world’s largest brands\ntrust Saviynt to\n\n accelerate digital transformation, empower distributed\nworkforces, and\n\n meet continuous compliance. We are a distributed global R&D\nteam that is\n\n extremely focused on building a platform that solves the\ntoughest security\n\n and compliance challenges while helping Saviynt maintain\nits leadership\n\n position in delivering enterprise identity cloud solutions.\n\n About the Role\n\n We are looking for a highly skilled and motivated Senior\nSoftware Engineer\n\n to join our Agentic AI team within Saviynt’s Enterprise\nIdentity Cloud. You\n\n will work on developing, optimizing, and deploying AI-\ndriven solutions,\n\n focusing on building scalable products that leverage LLMs\nand orchestration\n\n frameworks. The role involves hands-on development, close\ncollaboration\n\n with cross-functional teams, and delivering high-quality,\nsecure, and\n\n observable systems in a multi-cloud environment.\n\nWhat You’ll Do\n\nArchitecture & Development\n\n Contribute to the design and implementation of multi-agent\nAI workflows.\n\n Develop microservices and APIs with strong focus on\nscalability and\n\n resilience using Kubernetes and HPA.\n\n Implement observability (metrics, traces, logs) into all\ndeployed systems.\n\n Collaborate with architects and principal engineers to\nenhance system\n\n reliability and compliance.\n\nLLM Engineering·\n\nWork with foundation models (GPT, Claude, Llama) to build\ndomain-\n\n specific AI features.·\n\nApply RAG and prompt engineering techniques for enterprise\nidentity use\n\n cases.·\n\nContribute to the development of cost-efficient inference\npipelines with\n\n AWS Bedrock and Azure OpenAI.\n\nCloud & Systems·\n\nDevelop and deploy solutions in multi-cloud environments\n(AWS, Azure).\n\nIntegrate with secure messaging and orchestration systems\n(Kafka,\n\n RabbitMQ, Istio).·Ensure systems follow security,\ncompliance, and enterprise audit requirements.\n\nCollaboration & Growth·\n\nWork closely with cross-functional teams to translate\nproduct\n\n requirements into technical solutions.\n\nParticipate in code reviews, knowledge sharing, and team\ndiscussions.\n\nStay updated with emerging AI/ML frameworks and contribute\nto\n\n continuous improvement.\n\nWhat You Bring\n\nRequired\n\n·5–8 years of software engineering experience, with at least\n2 years in\n\n AI/ML or large-scale enterprise systems.\n\n·Strong programming skills in Python and experience with\nAI/ML\n\n frameworks (LangChain, LangGraph, Transformers).\n\n·Hands-on experience in developing containerized\napplications (Docker, Kubernetes).·Exposure to observability\nframeworks (Prometheus, Grafana, ELK).\n\n·Experience working with cloud services such as AWS and/or\nAzure.·Good understanding of scalable systems, HPA, and\nsecure coding practices.\n\nPreferred\n\n·Experience with AWS Bedrock or Azure OpenAI services.\n\n·Knowledge of vector databases and semantic\nsearch.·Familiarity with Kafka, RabbitMQ, or service mesh\n(Istio).·Contributions to open-source AI or cloud projects.\n\n Tech Stack You’ll Work On\n\n·Languages: Python, Java·\n\nAI Frameworks: LangChain, LangGraph, Transformers\n\nloud Providers: AWS, Azure\n\nDatabases: PostgreSQL, Redis\n\nInfra & Observability: Kubernetes, HPA, Grafana, Prometheus\n\nMessaging: Kafka, RabbitMQ\n\n\n\nWhy Join Us?\n\n At Saviynt, you’ll work on cutting-edge Agentic AI\nsolutions that redefine\n\n enterprise identity and access management. You’ll have\nopportunities to\n\ninnovate with advanced AI frameworks, collaborate with\ntalented engineers,\n\n and contribute to scalable, secure systems serving some of\nthe world’s\n\n largest enterprises.\n",
+  "skills_required": [
+    "Claude",
+    "GPT",
+    "LangChain",
+    "LangGraph",
+    "Llama",
+    "Prompt Engineering",
+    "RAG",
+    "Transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement multi-agent AI workflows for enterprise identity use cases",
+    "Develop microservices and APIs with focus on scalability and resilience using Kubernetes and HPA",
+    "Work with foundation models (GPT, Claude, Llama) to build domain-specific AI features",
+    "Apply RAG and prompt engineering techniques for enterprise identity use cases",
+    "Develop cost-efficient inference pipelines with AWS Bedrock and Azure OpenAI",
+    "Implement observability (metrics, traces, logs) into deployed systems",
+    "Develop and deploy solutions in multi-cloud environments (AWS, Azure)",
+    "Integrate with secure messaging and orchestration systems (Kafka, RabbitMQ, Istio)"
+  ],
+  "use_cases": [
+    "Enterprise identity and access management automation",
+    "AI-driven security and compliance solutions",
+    "Multi-agent workflows for identity governance",
+    "Domain-specific AI features for enterprise identity use cases",
+    "RAG-based enterprise search and retrieval"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "Azure",
+    "Azure OpenAI",
+    "Docker",
+    "ELK",
+    "Grafana",
+    "Istio",
+    "Kafka",
+    "Kubernetes",
+    "PostgreSQL",
+    "Prometheus",
+    "RabbitMQ",
+    "Redis",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Claude",
+    "GPT",
+    "LangChain",
+    "LangGraph",
+    "Llama",
+    "Prompt Engineering",
+    "RAG",
+    "Transformers"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building, deploying, and\noptimizing Agentic AI systems using LLMs. The engineer will\nwork hands-on with foundation models (GPT, Claude, Llama),\nimplement RAG and prompt engineering, develop multi-agent AI\nworkflows, and build inference pipelines - all core AI-first\nactivities.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "GPT",
+      "Claude",
+      "Llama",
+      "RAG",
+      "Prompt Engineering"
+    ],
+    "ml": [
+      "Transformers"
+    ],
+    "web": [],
+    "databases": [
+      "PostgreSQL",
+      "Redis",
+      "Vector Databases"
+    ],
+    "data": [
+      "Kafka",
+      "RabbitMQ"
+    ],
+    "cloud": [
+      "AWS Bedrock",
+      "Azure OpenAI",
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Prometheus",
+      "Grafana",
+      "ELK",
+      "Istio"
+    ],
+    "languages": [
+      "Python",
+      "Java"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

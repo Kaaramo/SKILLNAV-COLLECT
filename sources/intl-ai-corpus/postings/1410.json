@@ -1,0 +1,158 @@
+{
+  "job_id": "intl-ai-corpus-1410",
+  "source": "intl-ai-corpus",
+  "source_ref": "8450274",
+  "source_url": "https://builtin.com/job/ai-ml-backend-engineer-core-ai/8450274",
+  "title": "AI/ML - Backend Engineer (Core AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Proximity Works",
+  "company_type": "entité morale privée",
+  "location": "Navi Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-10",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "55 Employees",
+  "company_stage": null,
+  "company_focus": "Builds cutting-edge technology and scalable products at\nscale",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "We are looking for a Senior Backend Engineer to build and\noperate the core AI/ML-backed systems that power large-\nscale, consumer-facing products. You will work on\nproduction-grade AI runtimes, retrieval systems, and ML-\nadjacent backend infrastructure, making pragmatic tradeoffs\nacross quality, latency, reliability, and cost.\n\nWe are hiring applied AI engineers, not engineering-for-ML\nprofiles.\n\nThis role is not an entry point into AI/ML. You are expected\nto already have hands-on experience shipping ML-backed\nbackend systems in production.\n\nAt Proximity, you won’t just build APIs — you’ll own\ncritical backend systems end-to-end, collaborate closely\nwith Applied ML and Product teams, and help define the\nfoundations that power intelligent experiences at scale.\n\nResponsibilities\n\n- Own and deliver end-to-end backend systems for AI product\n  runtime, including orchestration, request lifecycle\n  management, state/session handling, and policy\n  enforcement.\n- Design and implement retrieval and memory primitives end-to-\n  end — document ingestion, chunking strategies, embeddings\n  generation, indexing, vector/hybrid search, re-ranking,\n  caching, freshness, and deletion semantics.\n- Productionize ML workflows and interfaces, including feature\n  and metadata services, online/offline parity, model\n  integration contracts, and evaluation instrumentation.\n- Drive performance, reliability, and cost optimization,\n  owning P50/P95 latency, throughput, cache hit rates, token\n  and inference costs, and infrastructure efficiency.\n- Build observability by default, including structured logs,\n  metrics, distributed tracing, guardrail signals, failure\n  taxonomies, and reliable fallback paths.\n- Collaborate closely with Applied ML teams on model routing,\n  prompt and tool schemas, evaluation datasets, and release\n  safety gates.\n- Write clean, testable, and maintainable backend code,\n  contributing to design reviews, code reviews, and\n  operational best practices.\n- Take systems from design → build → deploy → operate,\n  including on-call ownership and incident response.\n- Continuously identify bottlenecks and failure modes in AI-\n  backed systems and proactively improve system robustness.\n\nRequirements\n\n- Bachelor’s degree in Computer Science, Engineering, or a\n  related field, or equivalent practical experience.\n\n- 6–10 years of experience building backend systems in\n  production, with 2–3+ years working on ML/AI-backed\n  products such as search, recommendations, ranking, RAG\n  pipelines, or AI assistants.\n- Strong practical understanding of ML system fundamentals,\n  including embeddings, vector similarity, reranking,\n  retrieval quality, and evaluation metrics\n  (precision/recall, nDCG, MRR).\n- Proven experience implementing or operating RAG pipelines,\n  covering ingestion, chunking, indexing, query\n  understanding, hybrid retrieval, and rerankers.\n- Solid distributed systems fundamentals, including API\n  design, idempotency, concurrency, retries, circuit\n  breakers, rate limiting, and multi-tenant reliability.\n- Experience with common ML/AI platform components, such as\n  feature stores, metadata systems, streaming or batch\n  pipelines, offline evaluation jobs, and A/B measurement\n  hooks.\n- Strong proficiency in backend programming languages and\n  frameworks and API development.\n\nWhat matters (non-negotiable):\n\n- Has built AI applications end-to-end, not just pipelines\n  (RAG systems, agentic workflows, chatbots, internal AI\n  tools).\n- Deep understanding of retrieval including chunking\n  strategies, Embeddings, indexing & re-ranking, retrieval\n  failures & tuning\n- Has owned full RAG pipelines: ingestion → chunking →\n  indexing → retrieval → generation\n- Experience with agentic frameworks (tool calling, Memory,\n  multi-step reasoning)\n- Thinks in terms of intelligence delivery\n- Production mindset ( evals, guardrails, latency / cost\n  trade-offs)\n- Clear understanding of Managed AI Services (fallback\n  mechanisms, service reliability & failure handling)\n- Clear understanding of MCPs (Model Control / Management\n  Plans)\n\nDesired Skills\n\n- Experience with agentic runtimes, including tool-calling or\n  function-calling patterns, structured outputs, and\n  production guardrails.\n- Hands-on exposure to vector and hybrid retrieval stacks such\n  as FAISS, Milvus, Pinecone, or Elasticsearch.\n- Experience running systems on Kubernetes, with strong\n  knowledge of observability stacks like OpenTelemetry,\n  Prometheus, Grafana, and distributed tracing.\n- Familiarity with privacy, security, and data governance\n  considerations for user and model data.\n- Expected exposure of Python, LangChain / LangGraph, Vector\n  DBs, LLM APIs, GCP tooling (plus, not mandatory)\n- Candidate must\n\nBenefits\n\n- Best in class compensation: We hire only the best, and we\n  pay accordingly.\n- Proximity Talks: Learn from experienced engineers,\n  designers, and product leaders across the organization.\n\n- Work with a world-class team: Build scalable mobile\n  products, push technical boundaries, and learn something\n  new every day.\n\nAbout us\n\nWe are Proximity — a global team of coders, designers,\nproduct managers, geeks, and experts. We solve complex\nproblems and build cutting-edge technology at scale.\n\nOur team of Proxonauts is growing quickly, which means your\nimpact on the company’s success will be significant. You’ll\nwork with experienced leaders who have built and led high-\nperforming tech, product, and design teams.\n\nHere’s a quick guide to getting to know us better:\n\n- Watch our CEO, Hardik Jagda, tell you all about Proximity.\n- Read about Proximity’s values and meet some of our\n  Proxonauts.\n- Explore our website, blog, and design wing — Studio\n  Proximity.\n- Get behind the scenes with us on Instagram — follow\n  @ProxWrks and @H.Jagda.\n",
+  "skills_required": [
+    "Agentic frameworks",
+    "Embeddings",
+    "Evaluation metrics (precision/recall, nDCG, MRR)",
+    "LLM APIs",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "RAG pipelines",
+    "Reranking",
+    "Tool calling / Function calling",
+    "Vector similarity search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and deliver end-to-end backend systems for AI product runtime, including orchestration, request lifecycle management, state/session handling, and policy enforcement",
+    "Design and implement retrieval and memory primitives end-to-end including document ingestion, chunking strategies, embeddings generation, indexing, vector/hybrid search, re-ranking, caching, and deletion semantics",
+    "Productionize ML workflows and interfaces, including feature and metadata services, online/offline parity, model integration contracts, and evaluation instrumentation",
+    "Drive performance, reliability, and cost optimization, owning P50/P95 latency, throughput, cache hit rates, token and inference costs",
+    "Build observability by default including structured logs, metrics, distributed tracing, guardrail signals, and reliable fallback paths",
+    "Collaborate closely with Applied ML teams on model routing, prompt and tool schemas, evaluation datasets, and release safety gates",
+    "Take systems from design through build, deploy, and operate, including on-call ownership and incident response"
+  ],
+  "use_cases": [
+    "RAG pipelines for document retrieval and generation",
+    "Agentic workflows with tool-calling and multi-step reasoning",
+    "AI assistants and chatbots",
+    "Search, recommendations, and ranking systems",
+    "Internal AI tools and intelligent experiences at scale"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "Batch pipelines",
+    "Distributed tracing",
+    "Elasticsearch",
+    "FAISS",
+    "Feature stores",
+    "GCP",
+    "Grafana",
+    "Kubernetes",
+    "Milvus",
+    "OpenTelemetry",
+    "Pinecone",
+    "Prometheus",
+    "REST APIs",
+    "Streaming pipelines",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agentic frameworks",
+    "Embeddings",
+    "Evaluation metrics (precision/recall, nDCG, MRR)",
+    "LLM APIs",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "RAG pipelines",
+    "Reranking",
+    "Tool calling / Function calling",
+    "Vector similarity search"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and operating core AI/ML-backed\nsystems including RAG pipelines end-to-end (ingestion →\nchunking → indexing → retrieval → generation), agentic\nworkflows with tool-calling patterns, and production AI\nruntimes. The engineer works directly on deploying and\noperating AI systems, not just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "LLM APIs",
+      "RAG pipelines",
+      "Agentic frameworks",
+      "Tool calling / Function calling",
+      "Prompt engineering"
+    ],
+    "ml": [
+      "Embeddings",
+      "Vector similarity search",
+      "Reranking",
+      "Evaluation metrics (precision/recall, nDCG, MRR)"
+    ],
+    "web": [
+      "API design",
+      "REST APIs"
+    ],
+    "databases": [
+      "FAISS",
+      "Milvus",
+      "Pinecone",
+      "Elasticsearch",
+      "Vector databases"
+    ],
+    "data": [
+      "Feature stores",
+      "Streaming pipelines",
+      "Batch pipelines"
+    ],
+    "cloud": [
+      "GCP"
+    ],
+    "ops": [
+      "Kubernetes",
+      "OpenTelemetry",
+      "Prometheus",
+      "Grafana",
+      "Distributed tracing"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

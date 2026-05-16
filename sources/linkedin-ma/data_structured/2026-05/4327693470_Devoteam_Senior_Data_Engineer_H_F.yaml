@@ -1,0 +1,43 @@
+company:
+  name: Devoteam
+  stage: null
+  focus: null
+position:
+  title: Senior Data Engineer (H/F)
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - cassandra
+    data:
+    - airflow
+    - hadoop
+    - kafka
+    - prefect
+    - spark
+    - sql
+    cloud: []
+    ops:
+    - ci/cd
+    - gitlab ci
+    languages:
+    - python
+    domains:
+    - cybersecurity
+    other:
+    - Git
+    - MLOps
+    - NoSQL
+    - PySpark
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4327693470'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

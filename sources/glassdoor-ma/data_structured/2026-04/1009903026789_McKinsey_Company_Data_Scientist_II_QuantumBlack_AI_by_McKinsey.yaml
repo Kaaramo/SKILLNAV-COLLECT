@@ -1,0 +1,41 @@
+company:
+  name: McKinsey & Company
+  stage: null
+  focus: null
+position:
+  title: Data Scientist II - QuantumBlack, AI by McKinsey
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web: []
+    databases: []
+    data:
+    - airflow
+    - databricks
+    - sql
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops:
+    - docker
+    - kubernetes
+    languages:
+    - python
+    - R
+    - scala
+    domains: []
+    other:
+    - statistics
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '1009903026789'
+  extracted_at: '2026-05-16T01:27:45+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

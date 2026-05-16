@@ -1,0 +1,160 @@
+{
+  "job_id": "intl-ai-corpus-1014",
+  "source": "intl-ai-corpus",
+  "source_ref": "7977014",
+  "source_url": "https://www.builtinla.com/job/ai-data-engineer/7977014",
+  "title": "AI Data Engineer",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "AbsenceSoft",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-17",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Employee experience and HR technology platform",
+  "industries": [
+    "HR Tech",
+    "Software"
+  ],
+  "description": "At AbsenceSoft, we’re transforming the employee experience.\nOur secure, intuitive technology helps employers bring\nhumanity, certainty, and efficiency to some of the most\ncomplex moments in the workplace. Built by HR professionals\nfor HR professionals, we’re proud of where we’ve been and\neven more excited about where we’re going.\n\nWe’re seeking a Data Engineer to design and manage the data\npipelines, platforms, and tools that power intelligent AI\napplications. You will work closely with data scientists, AI\nsoftware engineers, and product teams to ensure our ML and\nLLM workloads are backed by scalable, secure, and high-\nperformance data infrastructure. This is a hands-on, high-\nimpact role where reliability and flexibility of data\narchitecture is paramount.\n\nWhat you'll do\n\n- Design, build, and maintain data pipelines for structured,\n  unstructured, and semi-structured data sources.\n- Develop and optimize data models, ETL processes, and\n  batch/streaming data infrastructure.\n- Partner with data scientists to support training,\n  evaluation, and deployment of ML and LLM models.\n- Implement scalable architectures for embeddings, vector\n  databases, and retrieval pipelines.\n- Enable real-time and offline analytics workflows using best-\n  in-class data engineering practices.\n- Ensure data quality, lineage, observability, and governance\n  across all data products.\n- Deploy secure, cloud-native data infrastructure (AWS, Azure,\n  GCP) for high-volume AI workloads.\n- Contribute to the design of feature stores and MLOps\n  platforms for continuous learning and model updates.\n- Collaborate on Responsible AI workflows to ensure compliant\n  data usage and access controls.\n- Continuously evaluate new tools and technologies for\n  improving performance, reliability, and agility.\n\nWhat you'll bring\n\n- 5+ years of experience as a Data Engineer building large-\n  scale, production-grade data pipelines.\n- Strong command of SQL, Python, and distributed data\n  processing frameworks (Spark, Flink, Beam).\n- Hands-on experience with ETL/ELT tools and orchestration\n  systems (Airflow, dbt, Prefect, Dagster).\n- Familiarity with cloud-native data platforms (Snowflake,\n  BigQuery, Redshift, Databricks).\n- Experience supporting ML/AI workloads and collaborating with\n  model development teams.\n- Knowledge of vector databases (FAISS, Pinecone, Weaviate)\n  and embeddings management.\n- Understanding of data privacy, access control, and\n  compliance in regulated environments.\n- Proficiency in modern DevOps tooling for data infrastructure\n  (Docker, Terraform, CI/CD).\n- Ability to work autonomously and thrive in a fast-paced,\n  collaborative environment.\n\nNice to Have\n\n- Cloud: AWS (Redshift, S3, Lambda), Azure (Data Lake,\n  Synapse), GCP (BigQuery, Cloud Functions)\n- Streaming: Kafka, Kinesis, Pub/Sub, Spark Streaming, Apache\n  Flink\n- Workflow Tools: dbt, Airflow, Dagster, Prefect\n- Storage & Processing: Snowflake, Databricks, Parquet, Delta\n  Lake\n- Vector Search: FAISS, Pinecone, Weaviate, txtai\n\nWhy join us\n\nAt AbsenceSoft, we LEAD with our values:\n\nLead with Innovation - We create meaningful change through\nintelligence, focus and passion.  We embrace curiosity,\ndata, and insight to shape the future of our industry.\nAlways innovating, learning and evolving.\n\nElevate Every Voice - Every perspective matters. We listen,\nlearn, and build a culture where diversity of thought and\nexperience drives better solutions and smarter decisions.\n\nAchieve Together - The customer fuels everything we do. We\nshare knowledge, collaborate, celebrate wins, and face\nchallenges as one team because success is always a\ncollective achievement.\n\nDrive Outcome - Every action we take delivers measurable\nvalue to our teams, our customers, and the employees they\nsupport. Accountability is non-negotiable. We honor our\ncommitments, take responsibility for results, and see every\nsuccess and setback as a chance to grow stronger.\n\n\n\nWe offer:\n\n- Impact that matters. You’ll do work that shapes the future\n  of the modern workplace\n- Flexibility and trust. We’re remote-first and results\n  driven. You’ll have the freedom and flexibility to do your\n  best work, wherever you do it best.\n- Growth and development. We believe the best work happens\n  when people are growing. You’ll have access to learning\n  resources, leadership programs, and real opportunities to\n  take on new challenges and expand your impact.\n- Competitive rewards. We offer comprehensive benefits, a\n  performance-based bonus program, and equity opportunities\n  – because when we grow, you should too.\n- Time for life. Recharge and reconnect with flexible time\n  off, paid holidays, and flexible leave programs designed\n  to support every season of life.\n- Belonging and balance. We’re building an inclusive culture\n  where every voice is valued, collaboration is celebrated,\n  and success is shared.\n\n\n\nWe’re committed to building a team as diverse as the\ncustomers we serve. If your experience doesn’t align\nperfectly with every qualification, we still encourage you\nto apply you might be exactly what we’re looking for. If\nthis sounds like a fit, apply today, we’d love to meet you!\n\n#LI-DNI\n",
+  "skills_required": [
+    "embeddings",
+    "feature stores",
+    "txtai"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain data pipelines for structured, unstructured, and semi-structured data sources",
+    "Develop and optimize data models, ETL processes, and batch/streaming data infrastructure",
+    "Partner with data scientists to support training, evaluation, and deployment of ML and LLM models",
+    "Implement scalable architectures for embeddings, vector databases, and retrieval pipelines",
+    "Ensure data quality, lineage, observability, and governance across all data products",
+    "Deploy secure, cloud-native data infrastructure for high-volume AI workloads",
+    "Contribute to the design of feature stores and MLOps platforms for continuous learning and model updates"
+  ],
+  "use_cases": [
+    "HR and employee experience management through intelligent AI applications",
+    "ML and LLM model training, evaluation, and deployment for HR workflows",
+    "Vector search and retrieval pipelines for enterprise knowledge management",
+    "Real-time and offline analytics for workplace insights and decision-making",
+    "Compliant data usage with Responsible AI workflows in regulated HR environments"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "Beam",
+    "BigQuery",
+    "CI/CD",
+    "Dagster",
+    "Databricks",
+    "Delta Lake",
+    "Docker",
+    "ETL",
+    "FAISS",
+    "Flink",
+    "GCP",
+    "Kafka",
+    "Kinesis",
+    "MLOps",
+    "Parquet",
+    "Pinecone",
+    "Prefect",
+    "Pub/Sub",
+    "Redshift",
+    "Snowflake",
+    "Spark",
+    "Terraform",
+    "Weaviate",
+    "dbt",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "embeddings",
+    "feature stores",
+    "txtai"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is a Data Engineer focused on building data\npipelines, infrastructure, and platforms that support ML and\nLLM workloads. The engineer enables AI work by providing\nscalable data architecture, vector databases, and feature\nstores, but does not build, train, fine-tune, or deploy\nmodels directly. The role explicitly states they partner\nwith data scientists and AI software engineers to support\nmodel development, which is characteristic of ai-support.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "txtai",
+      "embeddings"
+    ],
+    "ml": [
+      "feature stores"
+    ],
+    "web": [],
+    "databases": [
+      "Snowflake",
+      "BigQuery",
+      "Redshift",
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "vector databases"
+    ],
+    "data": [
+      "Spark",
+      "Flink",
+      "Beam",
+      "Airflow",
+      "dbt",
+      "Prefect",
+      "Dagster",
+      "Databricks",
+      "Kafka",
+      "Parquet",
+      "Delta Lake",
+      "ETL"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Kinesis",
+      "Pub/Sub"
+    ],
+    "ops": [
+      "Docker",
+      "Terraform",
+      "CI/CD",
+      "MLOps"
+    ],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

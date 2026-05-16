@@ -1,0 +1,36 @@
+company:
+  name: Sofrecom
+  stage: null
+  focus: null
+position:
+  title: Data Engineer Fh
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - airflow
+    - hadoop
+    - spark
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - scala
+    domains: []
+    other:
+    - Big Data
+    - Git
+    - Hive
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '181681'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

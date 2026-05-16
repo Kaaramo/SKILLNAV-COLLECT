@@ -1,0 +1,113 @@
+{
+  "job_id": "intl-ai-corpus-1199",
+  "source": "intl-ai-corpus",
+  "source_ref": "8273513",
+  "source_url": "https://builtin.com/job/ai-engineer/8273513",
+  "title": "AI Engineer (Libra - Legal AI Assistant) (m/f/d)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Wolters Kluwer",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "Berlin",
+  "country": "DE",
+  "remote_policy": "on-site",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "18,996 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Legal AI assistant platform for lawyers",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "Why Libra\n\nAt Libra by Wolters Kluwer, we're transforming how legal\nprofessionals work. Our AI platform combines deep legal\nreasoning with cutting-edge generative technology to help\nlawyers research, draft, and deliver legal work faster and\nsmarter.\n\nIn just over a year, we became one of Europe's fastest-\ngrowing legal AI companies—and in late 2025, we joined\nWolters Kluwer, the global leader in legal information\nservices. Together, we're combining Libra's AI capabilities\nwith Wolters Kluwer's authoritative legal content to build\nthe most powerful AI workspace for lawyers in Europe. We've\nalready launched in the Netherlands and are expanding across\nnew markets with full localization and deep local content\nintegrations.\n\nThis is a unique opportunity to shape the next generation of\nlegal AI products—now at true European scale.\n\nRole Overview\n\nAs an AI Engineer at Libra, you'll play a central role in\ndeveloping and improving our core product. You'll build end-\nto-end product features that leverage the most advanced LLMs\navailable via API—from chat-based interfaces to complex\nbehind-the-scenes integrations. You'll work closely with our\nProduct, Legal Engineering, and Design teams to turn user\nneeds into elegant, performant, and secure AI-powered\nexperiences used daily by lawyers across Europe.\n\nThis is a high-ownership, high-impact role for engineers who\nthrive in fast-moving environments and want to shape how AI\nis applied to real-world knowledge work.\n\nWhat You'll Do\n\n- Design, implement, and maintain AI-driven product features\n  end-to-end using LLM APIs.\n- Develop both visible chat-based UX flows and non-visible AI\n  integrations that power Libra's core functionality.\n- Build and optimize RAG systems, including document parsing,\n  semantic chunking, and retrieval pipelines.\n- Build scalable, maintainable backend systems using FastAPI\n  and modern Python tooling.\n- Design and implement agent orchestration systems for\n  complex, multi-step legal workflows.\n- Build infrastructure for evaluations and benchmarking,\n  including continuous monitoring and alerting to ensure\n  quality across all AI-powered features (e.g., using\n  Langfuse).\n- Ensure high security, reliability, and data privacy\n  standards across all systems.\n- Collaborate closely with Product and Legal Engineering to\n  rapidly prototype, test, and refine new AI use cases.\n- Stay ahead of the curve by exploring new models, tools, and\n  techniques—including AI coding agents like Cursor and\n  Claude Code.\n- Contribute to a pragmatic, execution-focused engineering\n  culture where simplicity and speed matter.\n\nWhat You Bring\n\n- Deep experience building products that integrate large\n  language models (LLMs) via APIs.\n- Proficiency with FastAPI, Python, and common data science\n  packages.\n- Strong understanding of software engineering and security\n  best practices.\n- Experience with modern AI developer tools (e.g., Cursor,\n  Claude Code, Copilot, etc.).\n- Bonus: experience with TypeScript and front-end development.\n- Excellent communication skills in English; German fluency is\n  a plus.\n- You have an entrepreneurial mindset and a deep sense of\n  urgency in achieving your goals.\n- You're a self-starter who enjoys autonomy but thrives in a\n  collaborative team.\n- You take a pragmatic approach to problem-solving—focused on\n  impact, not hype.\n- You can balance trade-offs between fast, simple solutions\n  and long-term scalability.\n- You want to build products that make AI truly useful for\n  real professionals.\n\nWhat we offer\n\n- Permanent employment from day one\n- Remote work & flexibility: Work remotely up to 3 days per\n  week (home office) (= 8 days a month in the office) with\n  flexible working hours\n- Work abroad flexibly: Work from anywhere within the EU for\n  up to 20 days within a twelve-month period\n- Rest & time off: 26 vacation days\n- Show your commitment: 1 additional day off per year for your\n  volunteer work (Volunteer Day)\n- Support for development: E-learning via LinkedIn, online\n  language training with goFluent, and other training and\n  development opportunities\n- Modern on-site working: Attractive office in Berlin\n\nOur Interview Practices\n\nTo maintain a fair and genuine hiring process, we kindly ask\nthat all candidates participate in interviews without the\nassistance of AI tools or external prompts. Our interview\nprocess is designed to assess your individual skills,\nexperiences, and communication style. We value authenticity\nand want to ensure we’re getting to know you—not a digital\nassistant. To help maintain this integrity, we ask to remove\nvirtual backgrounds and include in-person interviews in our\nhiring process. Please note that use of AI-generated\nresponses or third-party support during interviews will be\ngrounds for disqualification from the recruitment process.\n\nApplicants may be required to appear onsite at a Wolters\nKluwer office as part of the recruitment process.\n",
+  "skills_required": [
+    "LLM APIs",
+    "RAG",
+    "agent orchestration",
+    "document parsing",
+    "retrieval pipelines",
+    "semantic chunking"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and maintain AI-driven product features end-to-end using LLM APIs",
+    "Develop both visible chat-based UX flows and non-visible AI integrations that power Libra's core functionality",
+    "Build and optimize RAG systems, including document parsing, semantic chunking, and retrieval pipelines",
+    "Build scalable, maintainable backend systems using FastAPI and modern Python tooling",
+    "Design and implement agent orchestration systems for complex, multi-step legal workflows",
+    "Build infrastructure for evaluations and benchmarking, including continuous monitoring and alerting to ensure quality across all AI-powered features"
+  ],
+  "use_cases": [
+    "Legal research and document analysis for lawyers",
+    "AI-powered drafting assistance for legal documents",
+    "Chat-based legal knowledge assistant with retrieval capabilities",
+    "Multi-step legal workflow automation using agent orchestration",
+    "Localized legal AI workspace across European markets"
+  ],
+  "tools_mentioned": [
+    "FastAPI",
+    "Langfuse",
+    "monitoring and alerting"
+  ],
+  "frameworks_mentioned": [
+    "LLM APIs",
+    "RAG",
+    "agent orchestration",
+    "document parsing",
+    "retrieval pipelines",
+    "semantic chunking"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role because the engineer will build\nend-to-end product features using LLM APIs, implement RAG\nsystems, design agent orchestration systems, and directly\nwork with generative AI technology. The role involves hands-\non development of AI-powered features including chat-based\ninterfaces, document parsing, semantic chunking, and multi-\nstep legal workflows.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs",
+      "RAG",
+      "document parsing",
+      "semantic chunking",
+      "agent orchestration",
+      "retrieval pipelines"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Langfuse",
+      "monitoring and alerting"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

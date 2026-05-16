@@ -1,0 +1,40 @@
+company:
+  name: Metaverse
+  stage: null
+  focus: null
+position:
+  title: Full stack intern
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web:
+    - angular
+    - css
+    - html
+    - node.js
+    - react
+    databases:
+    - mongodb
+    - mysql
+    data: []
+    cloud: []
+    ops: []
+    languages:
+    - java
+    - javascript
+    - python
+    domains: []
+    other:
+    - agile
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 50eddf3088236397
+  extracted_at: '2026-05-16T01:30:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

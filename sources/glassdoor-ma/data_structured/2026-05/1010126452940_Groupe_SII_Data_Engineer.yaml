@@ -1,0 +1,44 @@
+company:
+  name: Groupe SII
+  stage: null
+  focus: null
+position:
+  title: Data Engineer
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Data pipeline engineering
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web:
+    - next
+    databases:
+    - bigquery
+    data:
+    - etl
+    - hadoop
+    - redshift
+    - spark
+    - sql
+    cloud:
+    - aws
+    - azure
+    - gcp
+    - s3
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - consulting
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010126452940'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

@@ -1,0 +1,118 @@
+{
+  "job_id": "intl-ai-corpus-1209",
+  "source": "intl-ai-corpus",
+  "source_ref": "8283258",
+  "source_url": "https://www.builtinla.com/job/software-engineer-ai-agents/8283258",
+  "title": "Software Engineer - AI Agents",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Assembled",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-18",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B",
+  "company_focus": "Unified platform orchestrating human agents and AI for\ncustomer support operations",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Automation"
+  ],
+  "description": "About Assembled\n\nGreat customer support requires human agents and AI in\nperfect balance, and Assembled is the only unified platform\nthat orchestrates both at scale. Companies like Canva, Etsy,\nand Robinhood use Assembled to coordinate their entire\nsupport operation — in-house agents, BPOs, and AI — in a\nsingle operating system. With AI Agents that resolve cases\nend-to-end, AI Copilot for agent assistance, and AI-powered\nworkforce management that optimizes both human and AI\ncapacity, Assembled helps teams deliver faster, better\nservice while making smarter decisions about how to staff\nand automate. Backed by $70M from NEA, Emergence Capital,\nand Stripe, we're building the platform that makes AI and\nhuman collaboration actually work.\n\nThe Team\n\nOur AI Products Team is building autonomous AI agents that\nhandle the most challenging aspects of customer support and\nlet human agents focus on high-value interactions. After\nlaunching the product's go-to-market motion, the Assist\nproduct line grew 5x in just 3 months to millions of ARR,\nwith a strong pipeline of deals for even more growth.\n\nWe're already deploying our systems at leading tech\ncompanies like Canva, Patreon, and Babylist, giving us\ncomplex real-world scenarios to solve with rapid feedback\nloops. The engineering challenges are significant: building\nautonomous agents that can reliably handle customer\ninteractions, designing systems that scale across\ncommunication channels, and pushing the boundaries of what's\npossible with current LLM technology.\n\nOperating as an team led by CTO John Wang, we're focused on\neliminating low-leverage support work and helping agents\nsend faster, more accurate replies.\n\nExamples of what you might work on:\n\n- Scaling LLMs with Golang\n- Enhancing RAG results with Reciprocal Rank Fusion and Hybrid\n  Search\n- Pioneering new LLM evaluation techniques\n\nResponsibilities\n\nAs a Software Engineer on the AI Products Team, you will:\n\n- Build foundational new features: Develop product features\n  from the ground up, such as implementing translation\n  capabilities powered by LLMs and intelligent\n  categorization of incoming tickets. You’ll help design and\n  build a workflow builder that distills the complexity of\n  workflows into a simple, intuitive interface, making\n  powerful tools accessible and easy to use for support\n  agents.\n- Improve LLM model results: Enhance our retrieval augmented\n  generation engine using techniques like vector search,\n  document re-ranking, and hypothetical document embeddings.\n  You’ll help us leverage implicit knowledge bases like past\n  tickets and macros to improve model performance.\n- Develop LLM Infrastructure: Architect the abstractions that\n  enable the integration of various types of LLMs tailored\n  for different applications. You’ll design and implement\n  evaluation and logging systems to monitor performance and\n  build interfaces that expand our platform's capabilities.\n- Engage with customers: Collaborate with our customers (both\n  support agents and managers) to understand their needs,\n  how they interact with our product, and how we can improve\n  their lives.\n- Wear many hats: Be versatile in roles — coding, user\n  research, planning, brainstorming, interviewing, and\n  cross-team collaboration.\n- Shape the team culture: Encourage a startup mentality that’s\n  all about staying positive, aiming for top-notch product\n  quality, and taking initiative.\n\nAbout You\n\nYou might be a good fit if you:\n\n- Have 5+ years of experience in software engineering as an\n  individual contributor.\n- Are highly ambitious and driven and set high goals for\n  yourself and others.\n- Put customers first, focusing on real problem-solving and\n  making life easier for support agents.\n- Enjoy fast-paced environments and can quickly adjust when\n  new insights come from customers or prospects.\n- Have a bit of a maverick streak that helps you come up with\n  creative solutions for tough problems.\n- Have made a noticeable impact on small teams and have solid\n  experience contributing in startups or smaller companies.\n- Have worked with LLMs and are excited to dive into them\n  every day.\n- Stay humble and open to feedback, value teamwork, and are\n  always ready to learn and grow.\n\nOur U.S. benefits\n\n- Generous medical, dental, and vision benefits\n- Paid company holidays, sick time, and unlimited time off\n- Monthly credits to spend on each: professional development,\n  general wellness, Assembled customers, and commuting\n- Paid parental leave\n- 401(k) plan enrollment\n\nWe know great candidates don’t always meet every requirement\nlisted in a job description. If the role excites you and you\nbelieve you can make an impact at Assembled, we encourage\nyou to apply. We value diverse perspectives and are\ncommitted to building an inclusive workplace where everyone\nfeels like they belong and has the opportunity to do their\nbest work. We look forward to hearing from you!\n\nFor United States Applicants: Assembled participates in\nE-Verify and will provide the federal government with your\nForm I-9 information to confirm that you are authorized to\nwork in the United States. For United Kingdom Applicants:\nAssembled is required to verify your right to work in the UK\nand will conduct a Right to Work check prior to employment\nin accordance with applicable law.\n",
+  "skills_required": [
+    "LLMs",
+    "RAG",
+    "Reciprocal Rank Fusion",
+    "agents",
+    "document re-ranking",
+    "hybrid search",
+    "prompt engineering",
+    "vector search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build foundational new features like translation capabilities powered by LLMs and intelligent ticket categorization",
+    "Design and build a workflow builder that simplifies complex workflows for support agents",
+    "Enhance RAG engine using vector search, document re-ranking, and hypothetical document embeddings",
+    "Architect abstractions for integrating various LLM types and implement evaluation and logging systems",
+    "Collaborate with customers including support agents and managers to understand needs and improve product interactions",
+    "Contribute to multiple areas including coding, user research, planning, brainstorming, interviewing, and cross-team collaboration"
+  ],
+  "use_cases": [
+    "Autonomous AI agents that resolve customer support cases end-to-end",
+    "AI Copilot for agent assistance to help human agents send faster, more accurate replies",
+    "Translation capabilities powered by LLMs for multilingual support",
+    "Intelligent categorization of incoming customer support tickets",
+    "RAG-based knowledge retrieval using past tickets, macros, and document embeddings",
+    "AI-powered workforce management optimizing both human and AI capacity"
+  ],
+  "tools_mentioned": [
+    "evaluation systems",
+    "logging systems"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "RAG",
+    "Reciprocal Rank Fusion",
+    "agents",
+    "document re-ranking",
+    "hybrid search",
+    "prompt engineering",
+    "vector search"
+  ],
+  "languages_programming": [
+    "Golang",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building autonomous AI agents and\nworking directly with LLMs. The engineer will implement RAG\nsystems, improve model performance with vector search and\nre-ranking, and build infrastructure for LLM integration -\nall core AI development work.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "vector search",
+      "document re-ranking",
+      "Reciprocal Rank Fusion",
+      "hybrid search",
+      "prompt engineering",
+      "agents"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "evaluation systems",
+      "logging systems"
+    ],
+    "languages": [
+      "Golang",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

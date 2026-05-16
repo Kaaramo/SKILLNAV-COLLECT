@@ -1,0 +1,148 @@
+{
+  "job_id": "intl-ai-corpus-2411",
+  "source": "intl-ai-corpus",
+  "source_ref": "8875707",
+  "source_url": "https://builtin.com/job/principal-ai-engineer/8875707",
+  "title": "Principal AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Morningstar",
+  "company_type": "entité morale privée",
+  "location": "Navi Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "11,500 Employees",
+  "company_stage": "Public",
+  "company_focus": "Investment research and ESG performance assessment for\ninvestors",
+  "industries": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Enterprise Web",
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "Job Description - Principal AI Engineer About the Role As a\nPrincipal AI Engineer, you will define and drive the\ntechnical direction for the systems that bring our AI\nproducts to life. You will architect and scale the AI\nplatform and services that enable investors worldwide to\nassess the Environmental, Social, and Governance (ESG)\nperformance of companies. Your focus will be on enterprise-\ngrade AI engineering: LLM and ML inference platforms,\norchestration, retrieval systems, resilient data pipelines,\nand scalable APIs-built with security, reliability, cost,\nand maintainability as first-class concerns.\nResponsibilities\n\n- Own the architecture and technical roadmap for production AI\n  services across the product ecosystem.\n- Design, build, and scale LLM and ML inference platforms,\n  including routing, caching, model lifecycle, and API\n  standards.\n- Drive production patterns for RAG, retrieval systems, vector\n  databases, and knowledge pipelines; set best practices for\n  quality and relevance.\n- Establish platform-level capabilities: orchestration\n  frameworks, event-driven services, and reusable\n  microservice components (Python-first).\n- Define and enforce SLOs, reliability standards,\n  observability practices, and incident response playbooks\n  for AI services.\n- Lead cost governance for AI (token usage, infrastructure\n  scaling, caching, batching, evaluation-driven deployment\n  decisions).\n- Build robust CI/CD and release strategies for AI systems;\n  automate deployments on AWS (e.g., Bedrock, Lambda, EKS,\n  S3, etc.).\n- Partner with research, engineering, security, and product\n  leadership to align on trade-offs, delivery milestones,\n  and risk controls.\n- Provide technical mentorship and influence through design\n  reviews, architecture forums, and by raising the\n  engineering bar across teams.\n- Evaluate new technologies and guide adoption (vector stores,\n  orchestration tools, evaluation frameworks, MCP/server\n  patterns) with a pragmatic lens.\n\nQualifications\n\n- Expert-level programming in Python (services, APIs,\n  pipelines, platform components).\n- 9+ years of experience in AI engineering, MLOps,\n  backend/platform engineering, or related roles with\n  demonstrable architecture leadership.\n- Proven experience deploying and operating LLMs in production\n  at scale, including evaluation, guardrails, and\n  cost/performance optimization.\n- Strong knowledge of AWS (e.g., Bedrock, Lambda, EKS, S3),\n  cloud-native design, and distributed systems.\n- Strong experience with CI/CD, container orchestration\n  (Kubernetes), and infrastructure automation\n  (Terraform/CloudFormation).\n- Deep understanding of microservices, event-driven\n  architecture, queues/streams, and high-availability system\n  design.\n- Strong ML fundamentals and the ability to bridge research\n  and engineering: model metrics, latency/throughput,\n  inference constraints, and practical deployment.\n- Experience with SQL databases (e.g., PostgreSQL) and\n  scalable data access patterns.\n- Excellent communication and stakeholder management skills-\n  able to influence decisions across multiple teams and\n  levels.\n\nNice to Have\n\n- Experience with JavaScript/TypeScript and full-stack\n  integration patterns for AI products.\n- Experience building or operating observability platforms\n  (CloudWatch, Prometheus, Grafana) and defining SLO-based\n  operations.\n\nEqual Opportunity & Work Environment Morningstar is an equal\nopportunity employer. Morningstar's hybrid work environment\ngives you the opportunity to collaborate in person each\nweek. We've found that we're at our best when we're\npurposely together on a regular basis. In most locations,\nthe hybrid work model includes four days in-office each\nweek. A range of other benefits are also available to\nenhance flexibility as needs change. Morningstar's hybrid\nwork environment gives you the opportunity to collaborate\nin-person each week as we've found that we're at our best\nwhen we're purposely together on a regular basis. In most of\nour locations, our hybrid work model is four days in-office\neach week. A range of other benefits are also available to\nenhance flexibility as needs change. No matter where you\nare, you'll have tools and resources to engage meaningfully\nwith your global colleagues. I10_MstarIndiaPvtLtd\nMorningstar India Private Ltd. (Delhi) Legal Entity\n",
+  "skills_required": [
+    "LLM inference platforms",
+    "MCP",
+    "Model evaluation",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own the architecture and technical roadmap for production AI services across the product ecosystem",
+    "Design, build, and scale LLM and ML inference platforms, including routing, caching, model lifecycle, and API standards",
+    "Drive production patterns for RAG, retrieval systems, vector databases, and knowledge pipelines",
+    "Establish platform-level capabilities including orchestration frameworks, event-driven services, and reusable microservice components",
+    "Define and enforce SLOs, reliability standards, observability practices, and incident response playbooks for AI services",
+    "Lead cost governance for AI including token usage, infrastructure scaling, caching, batching, and evaluation-driven deployment decisions",
+    "Build robust CI/CD and release strategies for AI systems with automated deployments on AWS",
+    "Evaluate new technologies and guide adoption including vector stores, orchestration tools, and evaluation frameworks"
+  ],
+  "use_cases": [
+    "ESG (Environmental, Social, and Governance) performance assessment for companies",
+    "Enterprise-grade AI platform for investment analysis",
+    "LLM and ML inference at scale for financial services",
+    "RAG and retrieval systems for investment knowledge base",
+    "Production AI services for investors worldwide"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "AWS EKS",
+    "AWS Lambda",
+    "CI/CD",
+    "CloudWatch",
+    "Docker",
+    "Event-driven architecture",
+    "Grafana",
+    "Kubernetes",
+    "MLOps",
+    "Microservices",
+    "PostgreSQL",
+    "Prometheus",
+    "Terraform",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LLM inference platforms",
+    "MCP",
+    "Model evaluation",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role focused on building and operating\nLLM/ML inference platforms, RAG systems, and production AI\nservices. The engineer will architect AI platforms, design\ninference systems, and drive patterns for retrieval systems\nand vector databases - all hands-on work directly on AI\nsystems.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLM inference platforms",
+      "RAG",
+      "Prompt engineering",
+      "MCP"
+    ],
+    "ml": [
+      "Model evaluation"
+    ],
+    "web": [
+      "Microservices"
+    ],
+    "databases": [
+      "Vector databases",
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS Bedrock",
+      "AWS Lambda",
+      "AWS EKS"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "CI/CD",
+      "MLOps",
+      "Event-driven architecture",
+      "CloudWatch",
+      "Prometheus",
+      "Grafana"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

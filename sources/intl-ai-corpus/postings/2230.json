@@ -1,0 +1,152 @@
+{
+  "job_id": "intl-ai-corpus-2230",
+  "source": "intl-ai-corpus",
+  "source_ref": "8818841",
+  "source_url": "https://builtin.com/job/principal-ai-engineer/8818841",
+  "title": "Principal AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Stryker",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-23",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "51,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Medical devices and healthcare technology with AI-powered\ncommunication systems",
+  "industries": [
+    "Healthtech",
+    "Other",
+    "Robotics",
+    "Biotech",
+    "Manufacturing"
+  ],
+  "description": "Work Flexibility: Hybrid or Onsite\n\nVocera, now part of Stryker, is seeking a visionary and\nhands-on Principal Engineer – AI Test, Evaluation & Data\nArchitecture to define and lead the enterprise-wide strategy\nfor AI validation, model evaluation, and data governance\nacross our speech and GenAI platforms.\n\nThis role serves as the AI Quality Architect for real-time\nspeech systems, NLP pipelines, and LLM-powered applications\ndeployed in mission-critical healthcare environments. You\nwill establish scalable evaluation frameworks, design AI\ntesting platforms, define data governance standards, and\nensure production reliability of AI systems at scale.\n\nThis is a high-impact architectural leadership role\nrequiring deep expertise in LLM validation, RAG evaluation,\nspeech benchmarking, automation, MLOps, and AI lifecycle\ngovernance.\n\nWhat You Will DoEnterprise AI Evaluation Architecture\n\n- Define and own the end-to-end AI evaluation architecture\n  across speech, NLP, and GenAI platforms.\n- Establish standardized evaluation frameworks for:ASR systems\n  (WER, latency, robustness, domain adaptation),NLP systems\n  (intent accuracy, entity F1, confusion analysis),LLM\n  systems (hallucination rate, groundedness, factual\n  accuracy, consistency, safety)\n- Define measurable AI quality SLAs and release gating\n  criteria.\n- Architect benchmarking standards across model versions,\n  prompt changes, and retrieval updates.\n- Institutionalize regression evaluation pipelines for all AI\n  releases.\n\nLLM & RAG Reliability Strategy\n\n- Architect validation frameworks for:RAG-based systems,Prompt\n  orchestration workflows,Multi-agent or multi-model AI\n  pipelines\n- Define groundedness measurement strategies for enterprise\n  RAG.\n- Establish adversarial testing, stress testing, and edge-case\n  validation frameworks.\n- Implement hallucination detection standards and mitigation\n  measurement.\n- Drive responsible AI practices, including bias detection and\n  safety validation.\n\nAI Testing Platform & Automation Architecture\n\n- Design and lead implementation of a scalable AI testing\n  platform that includes:Offline evaluation pipelines,Golden\n  dataset-driven regression systems,Synthetic data\n  generation frameworks,Online A/B testing & shadow\n  deployment strategies\n- Integrate AI validation workflows into CI/CD and MLOps\n  pipelines.\n- Define drift detection and performance degradation\n  monitoring strategies.\n- Establish real-time observability dashboards for AI quality\n  metrics.\n\nAI Data Governance & Lifecycle Management\n\n- Define enterprise-wide data governance strategy for AI\n  systems, including:Data collection and curation\n  standards,Annotation workflows and validation,Dataset\n  versioning and reproducibility,Traceability across model\n  iterations\n- Establish gold datasets for:Speech systems,NLP\n  pipelines,Clinical and conversational workflows\n- Drive continuous learning loops between production telemetry\n  and training data.\n- Ensure compliance with healthcare data privacy and\n  regulatory standards.\n\nSpeech & Domain-Specific AI Validation\n\n- Define evaluation strategies for:Accent variability,Noisy\n  clinical environments,Domain-specific vocabulary\n  adaptation\n- Establish measurable latency and reliability benchmarks for\n  real-time AI systems.\n- Lead failure mode analysis and systemic AI quality\n  improvements.\n\nTechnical Leadership & Organizational Influence\n\n- Serve as the principal authority on AI testing and\n  evaluation strategy.\n- Influence architecture decisions alongside Principal AI\n  Architects and platform leaders.\n- Mentor senior engineers in AI validation, benchmarking, and\n  data governance practices.\n- Drive AI quality maturity across multiple pods and\n  engineering teams.\n- Partner with Product and Executive stakeholders to align AI\n  quality metrics with business outcomes.\n- Shape long-term AI reliability roadmap for the organization.\n\nRequired Qualifications\n\n- Bachelor’s or Master’s degree in Computer Science,\n  Engineering, AI, or related field.\n- 13+ years of experience in software engineering, AI\n  engineering, or AI validation roles.\n- 5+ years of hands-on experience with LLM, RAG, NLP, or\n  speech-based AI platforms.\n- Proven experience designing AI evaluation or testing\n  frameworks at scale.\n- Strong expertise in:Hallucination detection,Golden dataset\n  regression strategies,Adversarial and edge-case\n  testing,Prompt validation and benchmarking\n- Strong proficiency in Python and data analysis for AI\n  evaluation.\n- Experience building automated AI validation pipelines\n  integrated with CI/CD.\n- Strong system design and distributed architecture\n  understanding.\n- Experience leading cross-team technical initiatives.\n\nPreferred / Strongly Desired QualificationsAI & GenAI\n\n- Experience in architecting evaluation frameworks for\n  production RAG systems.\n- Familiarity with semantic search validation and retrieval\n  benchmarking.\n- Experience designing LLM guardrails and structured output\n  validation.\n- Knowledge of Responsible AI, fairness evaluation, and\n  compliance auditing.\n\nSpeech & Voice Systems\n\n- Experience evaluating ASR/TTS systems in production\n  environments.\n- Strong understanding of speech benchmarking metrics and\n  domain adaptation strategies.\n\nCloud & Platform\n\n- Experience with Azure ML, Azure OpenAI, Azure AI Search.\n- Familiarity with MLOps and model lifecycle automation.\n- Experience designing scalable evaluation infrastructure in\n  cloud-native environments.\n\nTravel Percentage: 10%\n",
+  "skills_required": [
+    "ASR",
+    "Distributed architecture",
+    "Hallucination detection",
+    "LLM evaluation",
+    "LLM guardrails",
+    "Multi-agent systems",
+    "NLP",
+    "Prompt validation",
+    "RAG",
+    "RAG evaluation",
+    "Responsible AI",
+    "Speech recognition",
+    "TTS"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define and own end-to-end AI evaluation architecture across speech, NLP, and GenAI platforms",
+    "Architect validation frameworks for RAG-based systems, prompt orchestration, and multi-agent AI pipelines",
+    "Design and implement scalable AI testing platform with offline evaluation pipelines and synthetic data generation",
+    "Define enterprise-wide data governance strategy for AI systems including annotation workflows and dataset versioning",
+    "Establish evaluation strategies for speech systems including accent variability and noisy clinical environments",
+    "Integrate AI validation workflows into CI/CD and MLOps pipelines",
+    "Implement hallucination detection standards, adversarial testing, and responsible AI practices",
+    "Serve as principal authority on AI testing strategy and mentor senior engineers in AI validation practices"
+  ],
+  "use_cases": [
+    "Real-time speech recognition in healthcare environments",
+    "Clinical workflow automation and conversational AI",
+    "Enterprise RAG systems for healthcare information retrieval",
+    "NLP pipelines for clinical intent recognition and entity extraction",
+    "Mission-critical LLM-powered applications in healthcare settings"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "Azure AI Search",
+    "Azure ML",
+    "Azure OpenAI",
+    "CI/CD",
+    "Data governance",
+    "MLOps",
+    "Model lifecycle automation",
+    "Synthetic data generation"
+  ],
+  "frameworks_mentioned": [
+    "ASR",
+    "Hallucination detection",
+    "LLM evaluation",
+    "LLM guardrails",
+    "Multi-agent systems",
+    "NLP",
+    "Prompt validation",
+    "RAG",
+    "RAG evaluation",
+    "Speech recognition",
+    "TTS"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on architectural work directly on\nAI systems - specifically defining evaluation frameworks for\nLLMs, RAG systems, and speech/NLP platforms, implementing\nhallucination detection, and designing AI validation\npipelines. While focused on quality/testing, it requires\ndeep technical expertise in building and deploying AI\nsystems, not just supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM evaluation",
+      "RAG evaluation",
+      "RAG",
+      "Prompt validation",
+      "LLM guardrails",
+      "Multi-agent systems",
+      "Hallucination detection"
+    ],
+    "ml": [
+      "NLP",
+      "ASR",
+      "TTS",
+      "Speech recognition"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Synthetic data generation",
+      "Data governance"
+    ],
+    "cloud": [
+      "Azure ML",
+      "Azure OpenAI",
+      "Azure AI Search"
+    ],
+    "ops": [
+      "MLOps",
+      "CI/CD",
+      "Model lifecycle automation",
+      "A/B testing"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed architecture",
+      "Responsible AI"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

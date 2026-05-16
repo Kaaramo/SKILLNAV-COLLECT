@@ -1,0 +1,149 @@
+{
+  "job_id": "intl-ai-corpus-1633",
+  "source": "intl-ai-corpus",
+  "source_ref": "8550509",
+  "source_url": "https://builtin.com/job/principal-ai-automation-engineer-agentic-gtm-systems/8550509",
+  "title": "Principal AI / Automation Engineer – Agentic GTM Systems",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Multiplier",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "563 Employees",
+  "company_stage": null,
+  "company_focus": "Agentic GTM and revenue automation systems",
+  "industries": [
+    "HR Tech",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About the Role\n\nWe are building agentic workflows that operate directly\ninside our GTM and revenue stack. As a Principal AI /\nAutomation Engineer, you will own the architecture, data and\nintelligence layer, and execution quality of autonomous and\nsemi-autonomous agents that power GTM use cases such as\nevent-based personalized communications, churn prevention,\nexpansion, deal acceleration, and GTM intelligence.\n\nThis role sits at the intersection of LLM-powered agents,\nModel Context Protocols (MCPs), Data warehouse, CRM systems,\nand GTM stack.\n\nYou will work as an execution partner to the Global Head of\nGTM Systems, translating GTM goals into scalable,\nproduction-grade agentic systems with measurable revenue\nimpact.\n\nKey Responsibilities\n\nAgentic Systems Architecture\n\n- Design event-driven, multi-step agent workflows with\n  reasoning, memory, and tools.\n- Define standards for autonomy, guardrails, and human-in-the-\n  loop escalation.\n- Build reusable agent frameworks across churn, expansion,\n  pipeline, and ops etc.\n\nData Architecture & Pipeline Engineering\n\n- Design, build, and maintain scalable ELT/ETL pipelines that\n  centralize data from disparate GTM sources into our data\n  warehouse.\n- Own the \"Reverse ETL\" process to push actionable insights\n  from the warehouse back into frontline tools (e.g.,\n  pushing lead scores into Salesforce or churn alerts into\n  Slack).\n\nModel Context Protocols (MCPs) and Data warehouse\nintegration\n\n- Design and implement reusable MCPs that govern how agents\n  request data, receive structured context, write back\n  actions and outcomes for account & lifecycle context,\n  product usage and adoption, pipeline, deal, and forecast\n  context and customer health and revenue risk etc.\n- Build secure connectors to data warehouses (Snowflake,\n  BigQuery, Redshift, etc.), CRMs (Salesforce, HubSpot),\n  Product, billing, and support systems etc.\n- Design agent-optimized query patterns.\n- Ensure data freshness, correctness, and permission-aware\n  access.\n\nLLM & Intelligence Layer\n\n- Implement prompt strategies, tool calling, and RAG\n  pipelines.\n- Optimize agents for accuracy, latency, and cost.\n- Build feedback loops to continuously improve agent\n  decisions.\n\nReliability, Governance & Trust\n\n- Implement observability across MCP calls, data access, and\n  agent decisions.\n- Enforce role-based access control, PII handling, and\n  auditability.\n- Reduce hallucinations and ensure consistent revenue\n  definitions.\n\nPreferred Experience and Qualifications:\n\n- Bachelor's degree in Computer Science, Software Engineering,\n  Data Science, Mathematics, or a related STEM field.\n- A course providing deeper knowledge in AI/ML is preferred.\n- 5+ years of data/AI engineering experience.\n- Proven ownership of large-scale automation or AI systems.\n- Hands-on with LLMs (OpenAI, Anthropic etc) and experience\n  shipping LLM-powered applications or agents.\n- Strong in Python and/or TypeScript.\n- Experience with agent frameworks (LangGraph, AutoGen,\n  CrewAI, etc.).\n- Deep experience with SQL, data modeling, and warehouses.\n- Familiar with event-driven architectures and workflow\n  orchestration.\n- Comfortable operating with high ambiguity and high\n  ownership.\n",
+  "skills_required": [
+    "Agent frameworks",
+    "Anthropic API",
+    "AutoGen",
+    "CrewAI",
+    "LangGraph",
+    "MCP (Model Context Protocol)",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG",
+    "Tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design event-driven, multi-step agent workflows with reasoning, memory, and tools",
+    "Define standards for autonomy, guardrails, and human-in-the-loop escalation",
+    "Build reusable agent frameworks across churn, expansion, pipeline, and operations",
+    "Design, build, and maintain scalable ELT/ETL pipelines centralizing data from GTM sources",
+    "Own Reverse ETL process to push actionable insights into frontline tools like Salesforce and Slack",
+    "Design and implement reusable Model Context Protocols (MCPs) for agent-data interactions",
+    "Implement prompt strategies, tool calling, and RAG pipelines for LLM intelligence layer",
+    "Implement observability across MCP calls, data access, and agent decisions"
+  ],
+  "use_cases": [
+    "Event-based personalized communications",
+    "Churn prevention and customer retention",
+    "Revenue expansion and upselling opportunities",
+    "Deal acceleration and pipeline velocity",
+    "GTM intelligence and revenue forecasting",
+    "Lead scoring and customer health monitoring"
+  ],
+  "tools_mentioned": [
+    "BigQuery",
+    "Data modeling",
+    "ELT",
+    "ETL",
+    "Event-driven architecture",
+    "Observability",
+    "Redshift",
+    "Reverse ETL",
+    "Role-based access control",
+    "Snowflake",
+    "Workflow orchestration"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "Anthropic API",
+    "AutoGen",
+    "CrewAI",
+    "LangGraph",
+    "MCP (Model Context Protocol)",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG",
+    "Tool calling"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building, deploying, and optimizing\nautonomous AI agents and LLM-powered systems with direct\nhands-on implementation of prompt strategies, tool calling,\nand RAG pipelines. The engineer owns the architecture and\nexecution of agentic systems, not just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "AutoGen",
+      "CrewAI",
+      "OpenAI API",
+      "Anthropic API",
+      "RAG",
+      "Prompt engineering",
+      "Tool calling",
+      "MCP (Model Context Protocol)",
+      "Agent frameworks"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Snowflake",
+      "BigQuery",
+      "Redshift"
+    ],
+    "data": [
+      "ETL",
+      "ELT",
+      "Reverse ETL",
+      "Data modeling",
+      "Event-driven architecture"
+    ],
+    "cloud": [],
+    "ops": [
+      "Workflow orchestration",
+      "Observability",
+      "Role-based access control"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

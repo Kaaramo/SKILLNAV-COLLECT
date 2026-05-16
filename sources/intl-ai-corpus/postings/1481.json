@@ -1,0 +1,153 @@
+{
+  "job_id": "intl-ai-corpus-1481",
+  "source": "intl-ai-corpus",
+  "source_ref": "8490306",
+  "source_url": "https://www.builtinla.com/job/lead-ai-developer-hybrid/8490306",
+  "title": "Lead AI Developer (Hybrid)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Parsec Automation",
+  "company_type": "entité morale privée",
+  "location": "Anaheim, USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-13",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Private",
+  "company_focus": "Manufacturing operations management software (MES platform)",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Internet of Things",
+    "Software",
+    "Analytics",
+    "Automation",
+    "Manufacturing"
+  ],
+  "description": "About Parsec\n\nParsec Automation, LLC is a global leader in manufacturing\noperations management software. Recognized by Gartner, IDC,\nand numerous industry awards, Parsec’s flagship MES\nplatform, TrakSYS™, powers efficiency, quality, and\ncompliance improvements at over 11,000 plants across 140+\ncountries. Manufacturers such as Johnson & Johnson, Merck,\nToyota, Procter & Gamble, Hershey, Siemens, and DuPont rely\non TrakSYS to manage complex operations with clarity and\nprecision.\n\nParsec is backed by BVP Forge, part of the $20B Bessemer\nplatform, known for supporting category-defining companies\nsuch as LinkedIn, Procore, Shopify, and Toast.\n\nAbout the Role\n\nThe Lead AI Developer will architect and implement advanced\nAI capabilities inside our Microsoft-based, customer-network\n(on-prem) platform. A primary focus of this role is building\nproduction-grade agentic AI functionality, including an MCP-\nbased tool ecosystem and secure integrations with hosted LLM\nproviders.\n\nThis role goes beyond experimentation. You will design AI\nsystems that are safe, observable, scalable, and supportable\nin regulated manufacturing environments. You will be hands-\non in architecture and development while also providing\ntechnical leadership, mentorship, and design oversight\nacross AI-related initiatives within the platform.\n\nKey Responsibilities\n\nAI Architecture & Implementation (80%)\n\n- Define the reference architecture for AI capabilities within\n  an on-prem Microsoft stack (ASP.NET, .NET services, SQL\n  Server).\n- Design and implement a production-grade agent runtime\n  integrated into web and service layers with clear\n  boundaries, policy controls, and auditability.\n- Build agent/orchestrator services to manage:\n  - Conversation and task state\n  - Tool routing and execution\n  - Retries, timeouts, and step limits\n- Integrate with hosted LLM providers (Azure OpenAI, OpenAI,\n  others) using function/tool calling patterns and response\n  quality guardrails.\n- Establish patterns for MCP servers/clients, tool contracts\n  (schemas, semantics), versioning, and backward\n  compatibility.\n- Build and maintain locally hosted MCP tool servers to\n  securely access:\n  - SQL Server (stored procedures, parameterized queries, row\n    limiting)\n  - Internal REST APIs and service endpoints\n  - File/report generation subsystems\n- Implement safety boundaries (read-only vs. gated write\n  tools), validation layers, and consistent error handling.\n- Design and implement human-in-the-loop workflows for\n  sensitive actions, including confirmations, approvals, and\n  UI transparency.\n- Ensure secure-by-design principles including:\n  - Least privilege access\n  - Data minimization\n  - Secrets management\n  - Environment configuration standards\n  - Audit logging of tool calls and outputs\n- Build comprehensive observability (structured logging,\n  tracing, metrics, dashboards).\n- Develop and maintain a strong testing strategy (unit,\n  integration, contract testing, simulated tool failures)\n\nTechnical Leadership & Collaboration (20%)\n\n- Provide technical leadership and mentorship across AI\n  development initiatives.\n- Lead architecture discussions, conduct design/code reviews,\n  and drive implementation to completion.\n- Partner with Product Management to translate prioritized use\n  cases into an actionable AI roadmap aligned to platform\n  constraints and release cadence.\n- Create developer documentation and “golden path” templates\n  for building new agents and tools.\n- Support on-prem deployment design (upgrade paths, rollback\n  strategies, diagnostics).\n- Assist implementation and support teams in troubleshooting\n  AI-related issues.\n- Continue expanding expertise in relevant technologies, the\n  TrakSYS™ platform, and manufacturing domain concepts.\n\nRequired Qualifications\n\n- Bachelor’s degree in Computer Science, Engineering,\n  Information Technology, or related field.\n- 7+ years of professional software development experience,\n  including production distributed systems.\n- Strong .NET experience (C#, ASP.NET, Windows Services and/or\n  .NET Worker Services).\n- Microsoft SQL Server experience (schema design, safe query\n  patterns, stored procedures/views, performance\n  fundamentals).\n- Experience integrating with LLM APIs and implementing\n  production-grade tool/function calling patterns.\n- Experience designing API/tool contracts (schemas,\n  versioning, error handling, idempotency,\n  pagination/limits).\n- Solid understanding of security fundamentals\n  (authentication, authorization, least privilege, secrets\n  management, threat modeling).\n- Ability to lead architecture discussions and produce clear\n  technical designs.\n- Familiarity with Windows client/server environments and on-\n  prem deployment considerations.\n\n\n\nPreferred Qualifications\n\n- Experience with MCP (Model Context Protocol) or similar\n  plugin/tool ecosystems.\n- Experience with Semantic Kernel and/or\n  Microsoft.Extensions.AI in .NET applications.\n- Experience deploying enterprise software.\n- Familiarity with manufacturing/MES concepts (ISA-95\n  hierarchies, production events, downtime, quality\n  workflows).\n- Experience with Azure (identity, networking, OpenAI service\n  integration, monitoring).\n- Experience implementing policy and guardrail layers\n  (approval flows, content filtering, RAG constraints).\n\nBenefits\n\n- $150,000 to $165,000 annual salary\n- Flexible schedule\n- Variable Bonus based on company and individual performance\n- 401(k) with company match\n- 100% company-paid health insurance premiums for employees\n- Flexible vacation / PTO\n- Flexible Spending Account (FSA) plan available for eligible\n  healthcare and dependent care expenses\n- Outstanding team environment\n",
+  "skills_required": [
+    "Azure OpenAI",
+    "LangChain",
+    "Microsoft.Extensions.AI",
+    "Model Context Protocol (MCP)",
+    "OpenAI API",
+    "RAG",
+    "Semantic Kernel",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define the reference architecture for AI capabilities within an on-prem Microsoft stack including ASP.NET and SQL Server",
+    "Design and implement production-grade agent runtime integrated into web and service layers with policy controls and auditability",
+    "Build agent/orchestrator services to manage conversation state, tool routing, retries, timeouts, and step limits",
+    "Integrate with hosted LLM providers using function/tool calling patterns and response quality guardrails",
+    "Establish patterns for MCP servers/clients, tool contracts, versioning, and backward compatibility",
+    "Build locally hosted MCP tool servers to securely access SQL Server, REST APIs, and file/report generation subsystems",
+    "Implement safety boundaries, validation layers, human-in-the-loop workflows, and secure-by-design principles",
+    "Build comprehensive observability with structured logging, tracing, metrics, and dashboards"
+  ],
+  "use_cases": [
+    "Manufacturing operations management and MES platform automation",
+    "Agent-based conversational interfaces for manufacturing data access and analysis",
+    "Secure SQL database querying via natural language through agent tools",
+    "Human-in-the-loop approval workflows for sensitive manufacturing operations",
+    "Automated report and document generation from manufacturing systems"
+  ],
+  "tools_mentioned": [
+    "ASP.NET",
+    "Azure",
+    "REST APIs",
+    "SQL Server",
+    "Windows Services",
+    "audit logging",
+    "authentication",
+    "authorization",
+    "observability",
+    "secrets management",
+    "structured logging",
+    "threat modeling"
+  ],
+  "frameworks_mentioned": [
+    "Azure OpenAI",
+    "LangChain",
+    "Microsoft.Extensions.AI",
+    "Model Context Protocol (MCP)",
+    "OpenAI API",
+    "RAG",
+    "Semantic Kernel",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    ".NET Worker Services",
+    "C#"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building production-grade agentic AI\nsystems including MCP-based tool ecosystems, agent runtimes,\nand LLM integrations. The primary work involves directly\nimplementing and deploying AI agents, tool calling, and\norchestration - not just supporting AI infrastructure.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "OpenAI API",
+      "Azure OpenAI",
+      "Model Context Protocol (MCP)",
+      "Semantic Kernel",
+      "Microsoft.Extensions.AI",
+      "prompt engineering",
+      "RAG",
+      "agents",
+      "function calling"
+    ],
+    "ml": [],
+    "web": [
+      "ASP.NET",
+      "REST APIs"
+    ],
+    "databases": [
+      "SQL Server"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure"
+    ],
+    "ops": [
+      "Windows Services",
+      "authentication",
+      "authorization",
+      "secrets management",
+      "audit logging",
+      "structured logging",
+      "observability",
+      "threat modeling"
+    ],
+    "languages": [
+      "C#",
+      ".NET Worker Services"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

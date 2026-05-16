@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-0330",
+  "source": "intl-ai-corpus",
+  "source_ref": "7780278",
+  "source_url": "https://builtin.com/job/founding-ai-engineer/7780278",
+  "title": "Founding AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Coverbase",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "16 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI-driven third-party risk management platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About Coverbase\n\nThe foundation of the modern global economy is built on a\ndense network of counterparty trust and risk. In the past 50\nyears, companies have evolved from relying on a couple of\nwholesalers and vendors, to utilizing 100+ SaaS vendors,\ncontract partners, and cloud providers. Since each\ncounterparty has their own idiosyncratic internal processes\nand risk profiles, businesses end up spending millions of\ndollars and countless man-hours conducting due diligence.\n\nCoverbase’s mission is to streamline this business-to-\nbusiness assessment, reducing human toil, and allowing\norganizations to work together safely and reliably. We\nemploy modern AI techniques to organize vast amounts of\nunstructured data and compare them against policies to\nidentify key risks to the business.\n\nWe already serve customers across Fortune 500 companies in\ninsurance, higher education, and finance — including five of\nthe top 25 banks in the US.\n\nOur proven leadership team brings deep experience:\n\n- Clarence (CEO): Co-founder & former CTO of Unit21, a Series\n  C fraud detection company that has raised ~$92M.\n- Kao (CTO): Previously led the Stripe engineering team that\n  launched Banking-as-a-Service.\n\nWe’ve raised $20M from world-class investors and our team of\n12 have built important products at Google, Mapbox and\nWaymo.\n\nRole Expectations\n\nWe’re seeking an AI Engineer to develop core AI features\nthat power an AI-native product. We’re looking for:\n\n- Impact-driven individuals who take pride in shipping\n  delightful products, not just exploring intellectually\n  interesting problems.\n- Teammates who care deeply about both their work and the\n  people around them — building a culture that’s as kind as\n  it is talented.\n\nResponsibilities\n\nYou’ll take on some subset of the following:\n\n- Build LLM features from ideation to production, including\n  scaling.\n- Develop benchmarks to evaluate LLM performance and mitigate\n  hallucinations.\n- Own the full development lifecycle, including infrastructure\n  and front-end work around AI features.\n- Foster a constructive environment through code reviews,\n  mentoring, and knowledge sharing.\n\nMinimum Requirements\n\n- Experience developing LLM applications.\n- Background in rigorous, quantitative work (e.g., PhD-level\n  research, machine learning modeling, or advanced data\n  science projects).\n- Ability to thrive in a dynamic, early-stage startup\n  environment. While AI is central, this is not a 100% AI\n  role — versatility across the stack is important.\n- High standards for code quality.\n\nWhy Join Us?\n\n- Strong Product, Clear DemandOur AI-driven platform is\n  transforming third-party risk management (TPRM) for top\n  financial institutions. Customers describe it as\n  “revolutionary” and “a joy to work with.” We’re just\n  getting started.\n  - “This is a revolutionary product… Coverbase is the single\n    biggest step forward in TPRM I’ve seen in my career.”\n  - “You’re flipping the entire program upside down, we\n    completed the risk assessment in 1.5 days… would\n    otherwise have taken at least 3 weeks.”\n  - “Love how responsive you are, it’s been a joy to work with\n    you guys.”\n- Early-Stage ImpactRare opportunity to shape the trajectory\n  of a company at the forefront of AI innovation. Your work\n  will directly influence our success and growth.\n- Collaborative TeamJoin a tight-knit, mission-driven group\n  that values kindness, creativity, and curiosity as much as\n  expertise. You’ll work closely with the founders and\n  exceptional engineers.\n\nWhat We Offer\n\n- $140K – $220K base salary (depending on experience and\n  ability)\n- Meaningful founding team equity.\n- Health insurance (100% employee / 80% dependents).\n- 21 days PTO.\n- In-person gatherings within the U.S. (travel covered) every\n  3-5 months. We’ll give plenty of notice for it, and cover\n  flights and accommodation. We expect you to attend!\n- 401(k) with 4% matching.\n\nLocation: Remote from within the Continental US Reports to:\nCTO, Co-Founder\n\nCoverbase Inc. is an equal opportunity employer. We\ncelebrate diversity and are committed to creating an\ninclusive environment for all employees. We do not\ndiscriminate on the basis of race, religion, color, national\norigin, gender, sexual orientation, age, marital status,\nveteran status, or disability status.\n",
+  "skills_required": [
+    "LLM development",
+    "hallucination mitigation",
+    "machine learning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build LLM features from ideation to production, including scaling",
+    "Develop benchmarks to evaluate LLM performance and mitigate hallucinations",
+    "Own the full development lifecycle, including infrastructure and front-end work around AI features",
+    "Foster a constructive environment through code reviews, mentoring, and knowledge sharing"
+  ],
+  "use_cases": [
+    "Organize vast amounts of unstructured counterparty data using modern AI techniques",
+    "Compare vendor data against policies to identify key business risks",
+    "Streamline business-to-business risk assessment and due diligence",
+    "Automate third-party risk management for financial institutions",
+    "Reduce time for risk assessments from weeks to days through AI automation"
+  ],
+  "tools_mentioned": [
+    "REST APIs",
+    "cloud infrastructure",
+    "data pipelines"
+  ],
+  "frameworks_mentioned": [
+    "LLM development",
+    "hallucination mitigation",
+    "machine learning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role focused on building LLM features\nfrom ideation to production, including scaling and\nbenchmarking. The role involves hands-on development of LLM\napplications and mitigating hallucinations, not just\nsupporting AI infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM development",
+      "prompt engineering",
+      "hallucination mitigation"
+    ],
+    "ml": [
+      "machine learning"
+    ],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "data pipelines"
+    ],
+    "cloud": [
+      "cloud infrastructure"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

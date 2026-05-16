@@ -1,0 +1,145 @@
+{
+  "job_id": "intl-ai-corpus-0134",
+  "source": "intl-ai-corpus",
+  "source_ref": "7132625",
+  "source_url": "https://builtin.com/job/ai-engineer/7132625",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Flank",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "Berlin",
+  "country": "DE",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "36 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Autonomous agents for enterprise legal workflows",
+  "industries": [
+    "Artificial Intelligence",
+    "Legal Tech",
+    "Software",
+    "Generative AI"
+  ],
+  "description": "Legal teams are drowning in repetitive work. The rest of the\nbusiness is stuck waiting. Flank is changing that.\n\nWe are operating at the cutting edge of AI development,\nbuilding the future of autonomous agents for the enterprise.\nWe have raised a $10M Series A led by Insight Partners (US),\nwith continued support from Gradient Ventures (Google’s AI\nfund), HV Capital, and Speedinvest (EU).\n\nThis isn't a \"nice-to-have\" tool for small startups. We are\nalready deploying Flank agents to multinational enterprises\nwith 100,000+ employees, completely automating workflows\nthat were previously impossible to solve. Our agents work\n24/7, operating under supervision and within guardrails\ncustomers define, and routing only exceptions to legal for\nreview. Every request and action is transparent & auditable,\nensuring customers have full visibility over their automated\nworkforce.\n\nWe’re seeking an experienced AI Engineer to drive our\napplied AI initiatives.\n\nWe’re a fast-moving start-up where you’ll work closely with\nproduct, design, and commercial teams to ship real AI into\nproduction — not just research experiments.\n\nYou will be tasked with leveraging emerging technologies and\na team of legal experts to improve the intelligence and\nautonomy of our agents.\n\nThis might start with building an evals framework in\ncollaboration with our team of lawyers, it might spawn a\nhypervisor that governs every step of our agentic system and\nthat “knows what good looks like”, and it might end with us\nbuilding the first alignment program for legal AI systems.\n\nWhat you’ll be doing:\n\n- Drive Applied Research: Drive applied research into LLMs and\n  agentic systems, rapidly prototyping, validating, and\n  shipping production-ready capabilities.\n- Stay Ahead of the Curve: Stay hands-on with the latest\n  advances in foundation models, LLM-as-a-judge, agentic\n  frameworks & tools (e.g. MCP), and move fast to bring them\n  into the product.\n\nWho you are:\n\n- Demonstrated Experience: A strong track record of leading\n  and delivering cutting-edge AI initiatives that have\n  driven meaningful product and business impact. Hands-on\n  experience building and deploying ML/AI products is\n  essential.\n- Technical Expertise:\n  - Strong programming skills in Python (and familiarity with\n    TypeScript/Go a plus).\n  - Experience with deep learning frameworks (PyTorch,\n    TensorFlow, Hugging Face).\n  - Hands-on experience deploying ML/LLM models in production\n    environments.\n  - Solid understanding of data pipelines, APIs, and distributed\n    systems.\n  - Knowledge of prompt engineering, RAG, fine-tuning, and\n    embeddings for LLMs.\n  - Experience with cloud platforms (AWS, GCP, or Azure) and\n    containerization (Docker, Kubernetes\n- Thought Leadership: Ph.D. or Master’s in Computer Science,\n  Machine Learning, or a related field from a leading\n  academic institution.\n- Cross-Functional Collaboration: Proven ability to build\n  strong partnerships across product, engineering, and\n  research teams to drive innovation.\n\nWhat’s In It for You\n\n- Innovative Work: Be part of a team making bold bets to\n  create a new paradigm in AI-enhanced legal services.\n- High Standards Culture: Join a team that demands excellence\n  and accountability through direct and candid\n  communication.\n- Empowered Environment: Operate in a high-agency culture\n  where you can lead yourself and make a real impact.\n- Global Team: Remote-first, collaborate with a diverse,\n  talented team across the globe.\n- Competitive, Benchmarked Salary\n",
+  "skills_required": [
+    "Hugging Face",
+    "LLM-as-a-judge",
+    "MCP",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agents",
+    "embeddings",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Drive applied research into LLMs and agentic systems, rapidly prototyping, validating, and shipping production-ready capabilities",
+    "Stay hands-on with the latest advances in foundation models, LLM-as-a-judge, agentic frameworks & tools (e.g. MCP), and move fast to bring them into the product",
+    "Build an evals framework in collaboration with legal experts to assess agent performance",
+    "Develop a hypervisor system that governs every step of the agentic system and validates agent behavior",
+    "Build alignment programs for legal AI systems to ensure agents operate within defined guardrails",
+    "Collaborate cross-functionally with product, design, and commercial teams to ship real AI into production",
+    "Improve the intelligence and autonomy of agents by leveraging emerging technologies and legal expertise"
+  ],
+  "use_cases": [
+    "Automating repetitive legal workflows for enterprise teams with 100,000+ employees",
+    "Deploying autonomous agents that work 24/7 under supervision and within customer-defined guardrails",
+    "Routing only exceptional cases to legal professionals for review while handling routine work automatically",
+    "Providing transparent and auditable logs of all agent requests and actions for full visibility",
+    "Handling legal tasks that were previously impossible to solve through automation"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "AWS",
+    "Azure",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "data pipelines",
+    "distributed systems"
+  ],
+  "frameworks_mentioned": [
+    "Hugging Face",
+    "LLM-as-a-judge",
+    "MCP",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agents",
+    "embeddings",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building, deploying, and\noptimizing autonomous agents and LLM-based systems. The\nengineer will directly work on LLMs, agentic frameworks,\nfine-tuning, RAG, and production deployment of models, which\nclearly qualifies as working directly ON AI systems rather\nthan supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "prompt engineering",
+      "LLM-as-a-judge",
+      "MCP",
+      "agents"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face",
+      "fine-tuning",
+      "embeddings"
+    ],
+    "web": [
+      "APIs"
+    ],
+    "databases": [],
+    "data": [
+      "data pipelines"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "distributed systems"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

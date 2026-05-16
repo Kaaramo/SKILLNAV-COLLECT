@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-1007",
+  "source": "intl-ai-corpus",
+  "source_ref": "7954004",
+  "source_url": "https://builtin.com/job/senior-applied-ai-engineer/7954004",
+  "title": "Senior Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Lawhive",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-01",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "20 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered legal services platform",
+  "industries": [],
+  "description": "About Lawhive\n\nWe're on a mission to make sure everyone has access to the\nlaw. Lawhive is an online platform for consumers and small\nbusinesses to get legal help for a fraction of the cost of a\nlaw firm. Our platform combines regulated human lawyers\ncollaborating alongside the world’s first AI lawyer,\nspecifically built for consumer legal work.\n\nEqual access to the law is one of the biggest and most\npressing unsolved problems in society today. We’re\npassionate about leveling the playing field and believe\naccess to the law should be a basic utility in society.\n\nOur AI lawyer Lawrence is built on top of our own fine tuned\nLLM and recently passed the UK’s bar exam equivalent.\n\nWe’re backed by some of the top US and UK VC funds including\nGoogle Ventures, Balderton Capital and TQ Ventures. We\nrecently secured a $40M Series A funding round to facilitate\ninternational expansion and to grow our team, representing\none of the five largest Series A rounds in Europe for 2024.\nThe Role We’re looking for a Senior Applied AI Engineer to\njoin our AI Engineering & Infrastructure team to bring our\nlatest AI-driven features and services into production.\nDeploying them at scale, improving infrastructure, and\nensuring robustness in production. You’ll work closely with\nAI researchers, software engineers, and product teams to\nbridge the gap between cutting-edge AI research and real-\nworld applications.\n\nResponsibilities\n\n- Developing production-ready APIs and services that expose AI\n  functionality to internal and external applications.\n- Improving reliability & monitoring for AI-driven\n  applications in production.\n- Scaling AI systems to handle real-world legal use cases\n  (e.g., legal document analysis, case predictions,\n  automated legal advice).\n- Collaborating with AI engineers to ensure smooth deployment\n  of AI workflows and models into production.\n- Working with event-driven architectures and async workflows\n  to process large-scale AI workloads efficiently.\n- Ensuring security & compliance in AI-driven legal services.\n\nRequirements\n\n- Strong Python experience in building scalable backend\n  systems.\n- Familiarity with API design & distributed systems\n  architecture.\n- Experience working with event-driven architectures (e.g.\n  Kafka, Pub/Sub, AWS Step Functions, etc.).\n- Experience working with cloud platforms (AWS, GCP etc).\n- Understanding of best practices in observability,\n  monitoring, and debugging.\n\nNice to Have\n\n- LLM Observability & Evaluation – familiarity with tools such\n  as Langfuse for monitoring model generations, managing\n  prompts, and measuring quality in production.\n- Comfortable optimising performance & scaling distributed AI\n  workloads and ML Ops experience.\n- Full-stack Typescript experience.\n- Hands-on work with vector databases, hybrid retrieval\n  methods, and evaluation of retrieval quality.\n- Agentic & Orchestrated Systems – exposure to multi-step\n  reasoning, agent frameworks, or orchestration tools (e.g.\n  LangChain, AutoGen, Inngest, Temporal) where LLMs call\n  tools, plan tasks, or coordinate workflows.\n- Experience working in collaboration with researchers so that\n  new models, pipelines, or research outputs can be\n  integrated and evolved iteratively.\n- Prior Experience in Legal Tech - understanding of the legal\n  industry and experience working with legal technology\n  solutions.\n\nUK Benefits:\n\n💰 Meaningful early-stage equity at one of Europe’s fastest\ngrowing startups\n\n✈️ 33 days’ annual leave (25 + bank holidays) plus your\nbirthday off\n\n💰 Pension contribution via Nest\n\n💷 20% off legal fees through Lawhive\n\n💻 Top-spec equipment - MacBook/Windows\n\n⛳️ Regular team building activities and socials!\n\nDiversity at Lawhive\n\nAt Lawhive, we know that diversity of thought is critical to\ndelivering outlier outcomes. As such, we’re always working\nhard to ensure we build a diverse, inclusive team, and as we\nscale, we’ll only ever increase the focus we apply to this.\n",
+  "skills_required": [
+    "AutoGen",
+    "Hybrid retrieval",
+    "LangChain"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Developing production-ready APIs and services that expose AI functionality to internal and external applications",
+    "Improving reliability and monitoring for AI-driven applications in production",
+    "Scaling AI systems to handle real-world legal use cases including document analysis and legal advice",
+    "Collaborating with AI engineers to ensure smooth deployment of AI workflows and models into production",
+    "Working with event-driven architectures and async workflows to process large-scale AI workloads efficiently",
+    "Ensuring security and compliance in AI-driven legal services"
+  ],
+  "use_cases": [
+    "Legal document analysis and review",
+    "Automated legal advice generation",
+    "Case outcome predictions",
+    "Consumer legal work assistance",
+    "AI lawyer platform deployment and scaling"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "AWS",
+    "AWS Step Functions",
+    "Distributed systems",
+    "GCP",
+    "Inngest",
+    "Kafka",
+    "Langfuse",
+    "ML Ops",
+    "Monitoring",
+    "Observability",
+    "Pub/Sub",
+    "Temporal",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "Hybrid retrieval",
+    "LangChain"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role focuses on production deployment, API development,\ninfrastructure reliability, and scaling of AI systems rather\nthan building, training, or fine-tuning models. The engineer\nworks with existing AI models developed by researchers to\ndeploy them into production environments.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Hybrid retrieval",
+      "LangChain",
+      "AutoGen"
+    ],
+    "ml": [],
+    "web": [
+      "API design"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "Pub/Sub",
+      "AWS Step Functions",
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Distributed systems",
+      "Observability",
+      "Monitoring",
+      "Langfuse",
+      "ML Ops",
+      "Inngest",
+      "Temporal"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

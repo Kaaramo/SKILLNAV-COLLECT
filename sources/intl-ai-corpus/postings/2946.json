@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-2946",
+  "source": "intl-ai-corpus",
+  "source_ref": "9076065",
+  "source_url": "https://builtin.com/job/founding-engineer-applied-ai-ml-ops/9076065",
+  "title": "Founding Engineer (Applied AI & ML Ops)",
+  "title_normalized": "MLOPS_ENGINEER",
+  "company": "Solstice Health",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "20 Employees",
+  "company_stage": "Seed",
+  "company_focus": "Commercial engine for pharmaceutical marketing content\nsupply chain",
+  "industries": [],
+  "description": "Why you should join us\n\nSolstice is redefining how life sciences organizations\ncommercialize their products. We are building a commercial\nengine that allows pharmaceutical marketers to take control\nof their content supply chain. Some reasons for why you\nshould join us are:\n\n- Rapid growth: Over the past year, we have been working with\n  some of the top life sciences manufacturers as well as\n  marketing agencies and are working with over 50+ pharma\n  brands.\n- Frontiers of technology: We’re building applications and\n  rapidly iterating technical approaches at the frontiers of\n  AI, experimenting with LLMs and new frameworks. We have V2\n  of the platform currently deployed to customers but are\n  incorporating new, advanced frameworks to our solution\n  aggressively.\n- Top-tier investors: We’ve raised $3.5mm+ from investors like\n  Twelve Below, Virtue and the founders of Datavant,\n  Commure, and Paradigm to supercharge our growth and build\n  an elite team of engineers and operators.\n\nBuilding anything great requires commitment and dedication.\nWe’re looking for someone who has the fire to prove others\nwrong 🚀\n\nAbout the role\n\nWe are in search of an ML operations engineer who has the\ndrive required to be a part of a founding team looking to\ntackle a difficult but meaningful problem. You’ll be\nresponsible for the end-to-end lifecycle of our AI\nsystems—from experimentation to production deployment and\nongoing optimization.Beyond development, you will be\ncollaborating closely with co-founders Yiwen and Aris on all\nfacets of the startup as we grow Solstice in the coming\nyears. Reach out to aris@solsticehealth.co to learn more.\n\nWhat you’ll be working on:\n\n- Leverage prompt-engineering, retrieval-augmented generation,\n  model experimentation, and benchmarking to optimize\n  performance of Solstice’s platform on real biopharma\n  marketing data.\n- Wrangle proprietary commercial & marketing brand data into\n  complex LLM pipelines to produce high-quality, compliant\n  life sciences marketing content.\n- Implement ML Ops best practices, including CI/CD pipelines\n  for ML, model versioning, automated testing, and\n  monitoring.\n- Developing LLM eval infrastructure to store, analyze and\n  iterate on LLM outputs and the feedback we receive from\n  clients\n- Scope, architect, and build SOTA agents and pipelines while\n  supporting customers directly.\n- Flex across the full stack (frontend, backend, infra) to\n  build whatever is necessary to support our customers.\n\nSome ideal traits we’re looking for\n\n- Engineering chops. Relevant experience building systems &\n  deploying enterprise-grade products\n- Independent thinking. While we believe specific skills can\n  be taught, we need someone who has the ability to make\n  decisions and drive results on their own.\n- Strong proficiency in full-stack web development\n  technologies such as Python, FastAPI, Docker, AWS\n- Experience working with LLMs such as GPT, Claude and Gemini\n  to create LLM-based workflows, RAG Pipelines and agentic\n  solutions. (Either formally or through\n  projects/experimentation)\n- Superb communication and collaboration skills. We believe in\n  direct communication and willingness to provide as well as\n  accept criticism.\n- Unreal work ethic. Diamonds were not made overnight.\n\nBenefits\n\n- Medical insurance\n- Relocation support\n- Opportunity to work at a high-velocity and high-energy\n  startup\n- Visa sponsorship (O-1) for internationals\n",
+  "skills_required": [
+    "Claude",
+    "Full-Stack Development",
+    "GPT",
+    "Gemini",
+    "LLM Agents",
+    "LLM Evaluation",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Leverage prompt engineering, RAG, model experimentation, and benchmarking to optimize platform performance on biopharma marketing data",
+    "Build and maintain complex LLM pipelines that process proprietary commercial and marketing data to produce compliant life sciences content",
+    "Implement ML Ops best practices including CI/CD for ML, model versioning, automated testing, and monitoring",
+    "Develop LLM evaluation infrastructure to store, analyze, and iterate on LLM outputs and client feedback",
+    "Scope, architect, and build state-of-the-art agents and pipelines while supporting customers directly",
+    "Flex across the full stack (frontend, backend, infra) to build whatever is necessary to support customers"
+  ],
+  "use_cases": [
+    "Automated generation of compliant life sciences marketing content using LLMs",
+    "RAG-based retrieval and processing of biopharma commercial and brand data",
+    "LLM-powered content supply chain optimization for pharmaceutical marketers",
+    "Agentic AI pipelines for marketing content production and review",
+    "LLM evaluation and benchmarking for quality assurance in regulated industries"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Automated Testing",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Model Versioning",
+    "Monitoring"
+  ],
+  "frameworks_mentioned": [
+    "Claude",
+    "GPT",
+    "Gemini",
+    "LLM Agents",
+    "LLM Evaluation",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly responsible for building and deploying\nAI/ML systems — specifically LLM pipelines, RAG\narchitectures, agents, and ML Ops infrastructure. The\nengineer will work hands-on with prompt engineering, model\nexperimentation, and production deployment of LLM-based\nsolutions, making this an ai-first role.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt Engineering",
+      "RAG",
+      "LLM Agents",
+      "GPT",
+      "Claude",
+      "Gemini",
+      "LLM Evaluation"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "Model Versioning",
+      "Automated Testing",
+      "Monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Full-Stack Development"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

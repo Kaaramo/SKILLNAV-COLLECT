@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0392",
+  "source": "intl-ai-corpus",
+  "source_ref": "7924450",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ii-ai-ml/7924450",
+  "title": "Senior Software Engineer II - AI/ML",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Aledade",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,500 Employees",
+  "company_stage": null,
+  "company_focus": null,
+  "industries": [],
+  "description": "As a Senior Software Engineer II at Aledade, we maintain,\nimprove, and expand our web application and data pipelines.\nWe're looking for engineers who know that writing new code\nis not always the solution to a problem, but when\ntechnological changes are needed they create secure,\nmaintainable, performant, correct, scalable, and stable\nsolutions to the complex and unique challenges in our corner\nof the healthcare industry.\n\nThey embrace strategies that minimize risk, leaning towards\nobservability, alerting, metrics, high test coverage, and\nfrequent releases that incrementally build value.\n\nPrimary Duties:\n\n- Develop and implement scalable and performant solutions.\n- Partner, as a peer, with Engineering Managers, Product\n  Managers, and stakeholders throughout Aledade to develop\n  and execute technical roadmaps using Agile processes.\n- Mentor and coach more junior engineers including thorough\n  pull request reviews for other developers and be receptive\n  to critical feedback on your own work.\n\nMinimum Qualifications:\n\n- BS/BTech (or higher) in Computer Science, Engineering or a\n  related field.\n- 6+ years experience as an engineer building full-stack web\n  applications as part of a cross-functional team.\n- 3+ years of experience working with SQL or other database\n  querying language on large multi-table data sets.\n- 3+ years of experience acting as a trusted technical\n  decision-maker in a team setting, solving for short-term\n  and long-term business value.\n- 3+ years of experience coaching other engineers.\n\nResponsibilities:\n\n- Improve AI/ML infrastructure for model development,\n  training, and deployment, with a focus on large language\n  models and other generative AI architectures.\n- Design multi-year vision, shaping the direction of crucial\n  generative AI areas - text generation, image synthesis,\n  multimodal models, and personalized content creation.\n- Architect systems to enhance the capabilities and relevance\n  of AI models, making complex data sets more accessible and\n  actionable.\n- Design and implement prompt engineering strategies to\n  effectively guide generative AI models.\n- Work closely with Product Management, Practices, Sales,\n  Customer Success, and other stakeholders to identify and\n  prioritize applied AI use cases within the organization.\n- Analyze product usage patterns and trends to make data-\n  driven decisions and forecasts for generative AI\n  applications.\n- Maintain the security of protected patient health\n  information and ensure compliance with relevant\n  regulations in the context of AI.\n- Contribute to the development of APIs and interfaces for\n  integrating generative AI capabilities into existing\n  healthcare systems and applications.\n",
+  "skills_required": [
+    "Agile",
+    "LLMs",
+    "generative AI",
+    "image synthesis",
+    "model training",
+    "multimodal models",
+    "prompt engineering",
+    "text generation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Improve AI/ML infrastructure for model development, training, and deployment of LLMs and generative AI architectures",
+    "Design multi-year technical vision and direction for generative AI areas including text generation, image synthesis, and multimodal models",
+    "Architect systems to enhance AI model capabilities and make complex healthcare datasets more accessible and actionable",
+    "Design and implement prompt engineering strategies to guide generative AI models",
+    "Develop APIs and interfaces for integrating generative AI capabilities into existing healthcare systems",
+    "Maintain security of protected patient health information and ensure regulatory compliance for AI applications",
+    "Partner with cross-functional stakeholders to identify and prioritize applied AI use cases",
+    "Mentor and coach junior engineers through code reviews and technical guidance"
+  ],
+  "use_cases": [
+    "Text generation for healthcare documentation and communication",
+    "Image synthesis for medical imaging applications",
+    "Multimodal AI models combining text and image data for healthcare insights",
+    "Personalized content creation for patient engagement and care coordination",
+    "Making complex healthcare datasets more accessible through AI-powered interfaces",
+    "Applied AI solutions to improve healthcare operations and patient outcomes"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "CI/CD",
+    "SQL",
+    "model deployment",
+    "monitoring"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "generative AI",
+    "image synthesis",
+    "model training",
+    "multimodal models",
+    "prompt engineering",
+    "text generation"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role involves direct work on AI models including improving\ninfrastructure for model development, training, and\ndeployment of large language models and generative AI\narchitectures. Requires hands-on implementation of prompt\nengineering strategies and systems to enhance AI model\ncapabilities.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "generative AI",
+      "prompt engineering",
+      "text generation",
+      "image synthesis",
+      "multimodal models"
+    ],
+    "ml": [
+      "model training"
+    ],
+    "web": [
+      "APIs"
+    ],
+    "databases": [
+      "SQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "model deployment",
+      "CI/CD",
+      "monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Agile"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

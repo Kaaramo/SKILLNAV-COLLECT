@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-1033",
+  "source": "intl-ai-corpus",
+  "source_ref": "8015535",
+  "source_url": "https://builtin.com/job/integration-engineer-shopify-apis/8015535",
+  "title": "Data Engineer (AI & Analytics Platform)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "VeeFriends",
+  "company_type": "entité morale privée",
+  "location": "Queens, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-07",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "62 Employees",
+  "company_stage": "Series B or later",
+  "company_focus": "Entertainment company combining art, storytelling, and\ninnovative technologies",
+  "industries": [
+    "Information Technology",
+    "News + Entertainment"
+  ],
+  "description": "ABOUT VEEFRIENDS\n\nVeeFriends is a contemporary entertainment company that\ncombines art, storytelling, collecting, events, and\ninnovative technologies to build a community around a\nmovement of kindness and positivity. We scale our characters\nand experiences across digital, physical, and live commerce\nplatforms. Our team is backed by top-tier VC firms led by\nAndreessen Horowitz and works fast across product,\nengineering, data, and creative.\n\nJOB SUMMARY\n\nWe’re looking for a Data Engineer to help level up our\ninternal AI-powered reporting and analytics platform that\npowers order, inventory, and customer insights across\nVeeFriends. This role sits at the intersection of data\nengineering, product engineering, and applied AI.\n\nYou’ll own building and scaling data pipelines, event-driven\nsystems, and reporting infrastructure that feeds our AI\ntooling and internal dashboards. You’ll work closely with\nproduct, commerce, fulfillment, and leadership to turn raw\noperational data into reliable, real-time insights.\nExperience using AI coding tools (like Cursor) to move fast\nand iterate is a big plus.\n\nDUTIES & RESPONSIBILITIES\n\nData Pipelines & Architecture\n\n- Design, build, and maintain scalable data pipelines for\n  orders, inventory, customers, fulfillment, and reporting\n\n- Implement event-driven pipelines and streaming workflows to\n  support near real-time reporting\n\n- Own data modeling and transformations in Postgres to support\n  analytics and AI workflows\n\n- Ensure data reliability, accuracy, and performance across\n  pipelines\n\nAI-Enabled Reporting Platform\n\n- Extend and improve our internal AI-powered reporting tool\n  for analytics, forecasting, and operational insights\n\n- Partner with product and ops teams to define metrics, KPIs,\n  and reporting workflows\n\n- Build data foundations that allow AI agents to reason over\n  business data\n\n- Use modern AI dev tooling (Cursor or similar) to accelerate\n  development\n\nApplication & API Development\n\n- Build and maintain backend services and APIs that power\n  reporting and internal tools\n\n- Work in our Next.js + Postgres stack to support dashboards\n  and internal admin tooling\n\n- Integrate data from commerce platforms, fulfillment systems,\n  and third-party services\n\nReliability, Scale & Quality\n\n- Monitor pipelines for failures, latency, and data quality\n  issues\n\n- Improve system performance as data volume grows\n\n- Write tests and validation checks to ensure correctness\n\n- Participate in code reviews and improve engineering\n  practices\n\nREQUIRED SKILLS & QUALIFICATIONS\n\n- 5+ years of experience in data engineering, backend\n  engineering, or analytics engineering\n\n- Strong SQL skills and hands-on experience with Postgres\n\n- Experience designing and building data pipelines and ETL/ELT\n  workflows\n\n- Experience with event-driven systems or streaming pipelines\n\n- Experience building APIs and backend services\n\n- Comfortable with JavaScript / TypeScript (Next.js backend is\n  a plus)\n\n- Experience with operational data (orders, inventory,\n  fulfillment, customer data)\n\n- Familiarity with cloud platforms (Azure, AWS, or GCP)\n\n- Strong problem-solving and communication skills\n\nNice to Have\n\n- Experience using AI dev tools (Cursor, Copilot, Claude,\n  etc.)\n\n- Experience building internal dashboards or analytics tools\n\n- Experience with Shopify or commerce platforms\n\nPhysical Requirements\n\n- Prolonged periods of sitting at a desk and working on a\n  computer\n\n- Must be able to lift 50 lbs at times\n\nEEOC Statement\n\nVeeFriends is an equal-opportunity employer and does not\ndiscriminate based on any legally protected characteristics.\n",
+  "skills_required": [
+    "Claude",
+    "Cursor",
+    "GitHub Copilot",
+    "Shopify"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain scalable data pipelines for orders, inventory, customers, fulfillment, and reporting",
+    "Implement event-driven pipelines and streaming workflows to support near real-time reporting",
+    "Own data modeling and transformations in Postgres to support analytics and AI workflows",
+    "Extend and improve internal AI-powered reporting tool for analytics, forecasting, and operational insights",
+    "Build data foundations that allow AI agents to reason over business data",
+    "Build and maintain backend services and APIs that power reporting and internal tools",
+    "Monitor pipelines for failures, latency, and data quality issues",
+    "Integrate data from commerce platforms, fulfillment systems, and third-party services"
+  ],
+  "use_cases": [
+    "Order and inventory analytics and reporting",
+    "Customer insights and behavioral analysis",
+    "Fulfillment tracking and operational visibility",
+    "AI-powered forecasting and business intelligence",
+    "Real-time dashboard and internal tooling for teams"
+  ],
+  "tools_mentioned": [
+    "API development",
+    "AWS",
+    "Azure",
+    "ETL/ELT workflows",
+    "Event-driven systems",
+    "GCP",
+    "Next.js",
+    "Postgres",
+    "SQL",
+    "Streaming pipelines"
+  ],
+  "frameworks_mentioned": [
+    "Claude",
+    "Cursor",
+    "GitHub Copilot"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "TIME_SERIES"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a data engineering role focused on building data\npipelines and infrastructure that feed AI tooling, not\nbuilding the AI models themselves. The role supports AI\nsystems by creating data foundations and pipelines, but the\ncore work is traditional data engineering with SQL, ETL, and\nbackend services.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Cursor",
+      "GitHub Copilot",
+      "Claude"
+    ],
+    "ml": [],
+    "web": [
+      "Next.js",
+      "API development"
+    ],
+    "databases": [
+      "Postgres",
+      "SQL"
+    ],
+    "data": [
+      "ETL/ELT workflows",
+      "Event-driven systems",
+      "Streaming pipelines"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": [
+      "Shopify"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

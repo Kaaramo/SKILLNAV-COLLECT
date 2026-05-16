@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-1836",
+  "source": "intl-ai-corpus",
+  "source_ref": "8430812",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/8430812",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Search Discovery",
+  "company_type": "entité morale privée",
+  "location": "GB",
+  "city_inferred": null,
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-04",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "195 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "Data, cloud, and AI consulting helping companies turn raw\ndata into decisions",
+  "industries": [],
+  "description": "WE’RE HIRING! If you love data and are looking for unlimited\ngrowth opportunities, we want to talk with you about joining\nFurther.\n\nFurther is a data, cloud, and AI company whose focus is\nhelping companies turn raw data into the right decisions. We\nhave an award winning culture of extraordinary people. Our\npurpose is to enable people to thrive so that businesses can\nthrive. We believe that the work you do should matter - it\nshould be meaningful to you professionally and personally,\nand it should have a positive impact on both you and our\nclients.  If this sounds exciting to you, let’s chat!\n\nSENIOR AI ENGINEER\n\nWe are hiring a Senior AI Engineer to lead the development\nof our cloud-based (Google Cloud), commercial AI products.\nYou will bridge the gap between experimental data science\nprototypes and production-grade software. You will architect\nthe robust systems and LLMOps workflows necessary to\ntransform AI models into reliable, enterprise-ready\napplications. By designing stable backend architectures and\nseamless integration layers, you will ensure our AI\nsolutions are not just functional, but ethical, efficient,\nand high-value products that meet the rigorous demands of\nour commercial clients.\n\nWhat experience should you have:\n\n- 6+ years of software engineering experience with at least 3\n  years dedicated to AI/ML application development.\n- Expert proficiency in Python AI application development and\n  modern API architecture (REST, GraphQL, gRPC) using\n  enterprise standards like static type checking and data\n  validation.\n- Deep experience building production applications with LLM\n  frameworks such as LangChain, LangGraph or LlamaIndex.\n- Hands-on expertise with vector databases (Pinecone,\n  Weaviate, PostgreSQL) and search algorithms.\n- Strong understanding of LLMOps principles, including model\n  registry, versioning, and serving infrastructure\n  specifically in Google Cloud.\n- Experience in Typescript development for prototyping and\n  integrations\n- Proficiency with git workflows and understanding of standard\n  application development processes\n\nPreferred Qualifications\n\n- Knowledge of advanced prompt engineering and fine-tuning\n  techniques (LoRA, PEFT).\n- Experience optimizing inference costs and latency for large-\n  scale deployments.\n- Previous experience in a client-facing consulting role,\n  managing diverse stakeholders and navigating complex\n  organizational structures.\n- Any Google Cloud Professional Certification\n\nWhat you’ll be doing in this role:\n\n- Lead the implementation of rigorous evaluation frameworks to\n  monitor model performance, drift, and cost in real-time.\n- Architect and develop high-performance backend services and\n  APIs using Python (FastAPI) to serve large language models\n  at scale.\n- Design advanced Retrieval-Augmented Generation (RAG)\n  systems, selecting and managing vector databases and\n  optimizing embedding strategies for accuracy and speed.\n- Establish comprehensive model observability and guardrail\n  systems to monitor real-time performance, detect\n  distribution drift, and implement automated safety filters\n  that mitigate hallucinations, bias, and toxic outputs in\n  production environments.\n- Build robust integration layers that connect AI agents\n  securely to external enterprise systems, CRMs, and legacy\n  databases.\n- Conduct code reviews, provide technical guidance, and foster\n  a culture of continuous learning and innovation within the\n  engineering team.\n- Collaborate with infrastructure teams to define deployment\n  strategies, ensuring solutions scale dynamically under\n  load.\n- Define the end-to-end architecture for AI products on cloud\n  platforms (preferably Google Cloud Platform), ensuring\n  high availability, security, and cost-effectiveness.\n\nWhat you’ll need to accomplish in your first year:\n\n- Develop reusable internal libraries and architectural\n  patterns and standards to accelerate the delivery of AI\n  solutions across multiple client engagements.\n- Mentor engineers on best practices for building\n  deterministic software around probabilistic AI models.\n\nOur total rewards program is designed for your protection,\npeace of mind, and overall well-being. In addition to our\noutstanding basics, we offer a net-zero cost medical option,\ncompany contributions to your HSA, fertility support, fully-\npaid parental leave, a monthly stipend for your lifestyle\nspending account, and much more.\n\nApply today or check out all our opportunities!\n\n#LI-Remote\n\n#LI-Hybrid\n\n#LI-Onsite\n\nBy submitting your application, you consent to our\ncollection, processing and disclosure of the contained\npersonal data in accordance with our data practices. If you\nare a resident of the U.S. state of California, you can read\nabout our data practices and your related privacy rights\nhere. If you are a resident of the European Economic Area,\nSwitzerland or the United Kingdom, you can read about our\ndata practices and your related privacy rights here.\n",
+  "skills_required": [
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "LoRA",
+    "Model fine-tuning",
+    "PEFT",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead implementation of rigorous evaluation frameworks to monitor model performance, drift, and cost in real-time",
+    "Architect and develop high-performance backend services and APIs using Python (FastAPI) to serve large language models at scale",
+    "Design advanced Retrieval-Augmented Generation (RAG) systems, selecting and managing vector databases and optimizing embedding strategies",
+    "Establish comprehensive model observability and guardrail systems to monitor performance, detect drift, and implement safety filters",
+    "Build robust integration layers connecting AI agents securely to external enterprise systems, CRMs, and legacy databases",
+    "Conduct code reviews, provide technical guidance, and foster continuous learning within the engineering team",
+    "Collaborate with infrastructure teams to define deployment strategies ensuring solutions scale dynamically",
+    "Define end-to-end architecture for AI products on Google Cloud Platform ensuring high availability and security"
+  ],
+  "use_cases": [
+    "Enterprise AI product development and deployment",
+    "Retrieval-Augmented Generation (RAG) systems for enterprise clients",
+    "AI agent integration with enterprise systems and CRMs",
+    "Real-time model monitoring and safety guardrails",
+    "Scalable LLM serving infrastructure for commercial applications"
+  ],
+  "tools_mentioned": [
+    "FastAPI",
+    "Git",
+    "Google Cloud Platform",
+    "GraphQL",
+    "Inference optimization",
+    "LLMOps",
+    "Model registry and versioning",
+    "Pinecone",
+    "PostgreSQL",
+    "REST",
+    "Vector databases",
+    "Weaviate",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "LoRA",
+    "Model fine-tuning",
+    "PEFT",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying AI/ML\nsystems, including RAG systems, LLM applications, and AI\nagents. The engineer will architect LLMOps workflows,\ndevelop production LLM services, and implement evaluation\nframeworks for AI models - all hands-on work with AI systems\nthemselves.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "Prompt engineering",
+      "LoRA",
+      "PEFT",
+      "RAG",
+      "Model fine-tuning"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST",
+      "GraphQL",
+      "gRPC"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "PostgreSQL",
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Google Cloud Platform"
+    ],
+    "ops": [
+      "LLMOps",
+      "Model registry and versioning",
+      "Git",
+      "Inference optimization"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

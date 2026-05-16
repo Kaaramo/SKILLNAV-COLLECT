@@ -1,0 +1,39 @@
+company:
+  name: Orange Business
+  stage: null
+  focus: null
+position:
+  title: Technical Leader GenAI & GenBI Platforms
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai:
+    - genai
+    - generative ai
+    ml:
+    - machine learning
+    web: []
+    databases: []
+    data: []
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops:
+    - ci/cd
+    - docker
+    - kubernetes
+    languages: []
+    domains: []
+    other:
+    - agile
+    - Excel
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4382051553'
+  extracted_at: '2026-05-15T15:53:14+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

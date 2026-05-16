@@ -1,0 +1,39 @@
+company:
+  name: L3M HOLDING
+  stage: null
+  focus: null
+position:
+  title: Développeur IA – H/F
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - deep learning
+    - machine learning
+    - pytorch
+    - scikit-learn
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - pandas
+    - sql
+    cloud: []
+    ops:
+    - docker
+    languages:
+    - python
+    domains: []
+    other:
+    - Excel
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4390158356'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

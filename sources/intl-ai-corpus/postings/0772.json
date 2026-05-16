@@ -1,0 +1,104 @@
+{
+  "job_id": "intl-ai-corpus-0772",
+  "source": "intl-ai-corpus",
+  "source_ref": "6872445",
+  "source_url": "https://builtin.com/job/senior-ai-data-engineer/6872445",
+  "title": "Senior AI Data Engineer",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Teamified",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-09",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "146 Employees",
+  "company_stage": "Growth (200+ employees)",
+  "company_focus": "Remote team building and management platform with AI-\nenhanced technology products",
+  "industries": [
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Teamified works with top enterprises and digital native\nbusinesses in Australia helping them build their remote\nteams in India, Philippines and Sri Lanka. We pride\nourselves with hiring great teams to work on exciting game\nchanging technology. Teamified currently has 200+ engineers,\ntesters, product managers etc. working across 20+ partners.\nWe focus on uplifting the way organisations build and manage\ntheir remote teams through great working relationships,\ntrust, integrity, culture and hiring processes. Additional\nto this we are building our own technology product\nofferings. We strive to deliver the best outcomes for our\ncustomers, our partners and our people.\n\nWe are seeking a talented and experienced Senior AI Data\nEngineer to join our dynamic team. As a Senior AI Data\nEngineer, you will be responsible for designing, developing,\nand implementing AI solutions to enhance our products and\nservices. You will work closely with our principal software\nengineer and platform software engineers to create cutting-\nedge AI models and algorithms.\n\nKey Responsibilities:\n\n- Design and develop our Teamified AI data architecture & API\n  using Python (Django Framework) and other relevant python\n  libraries\n\n- Manage our RDBMs [SQL], NoSQL [MongoDb] and Vector\n  [Pinecone] databases and conduct proper data governance &\n  research\n\n- Collaborate with our leadership, product experts and\n  software architect to integrate AI solutions into our\n  Teamified Platform\n\n- Optimize AI augmentation models, context builders and prompt\n  builders for performance, scalability, and efficiency.\n\n- Conduct research and stay up-to-date on the latest\n  advancements in AI and data engineering.\n\nRequirements:\n\n- Bachelor's or Master's degree in Computer Science,\n  Information Technology, or a related field.\n\n- 3+ years of experience in AI data engineering.\n\n- Proficiency in Python and Django Framework and other\n  relevant tools and technologies.\n\n- Good-to-have skills: RAG Orchestration Pipelines, LangChain,\n  Vector Databases, PineCone,\n\n- Strong problem-solving skills and attention to detail.\n\n- Excellent communication and teamwork skills.\n\n- Ability to work independently and collaboratively in a fast-\n  paced environment.\n\nBenefits:\n\n- Flexibility in work hours and location, with a focus on\n  managing energy rather than time.\n- Access to online learning platforms and a budget for\n  professional development\n- A collaborative, no-silos environment, encouraging learning\n  and growth across teams\n- A dynamic social culture with team lunches, social events,\n  and opportunities for creative input\n- Health insurance\n- Leave Benefits\n\nIf you are passionate about AI and data engineering and have\nthe skills and experience we are looking for, we would love\nto hear from you. Join Teamified and be part of a team that\nis dedicated to innovation and excellence. Apply now!\n",
+  "skills_required": [
+    "LangChain",
+    "Prompt Engineering",
+    "RAG Orchestration Pipelines"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop AI data architecture and APIs using Python and Django Framework",
+    "Manage RDBMS, NoSQL (MongoDB), and Vector (Pinecone) databases with proper data governance",
+    "Collaborate with leadership and software architects to integrate AI solutions into the Teamified Platform",
+    "Optimize AI augmentation models, context builders, and prompt builders for performance and scalability",
+    "Conduct research on latest advancements in AI and data engineering",
+    "Implement RAG orchestration pipelines and AI-powered features"
+  ],
+  "use_cases": [
+    "AI-powered remote team management platform",
+    "RAG-based knowledge retrieval and context building",
+    "AI augmentation for team building and hiring processes",
+    "Vector search and semantic data retrieval"
+  ],
+  "tools_mentioned": [
+    "Django",
+    "MongoDB",
+    "Pinecone",
+    "SQL",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "Prompt Engineering",
+    "RAG Orchestration Pipelines"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and implementing AI\nsolutions including optimizing AI augmentation models,\ncontext builders, and prompt builders. The requirements\nexplicitly mention RAG orchestration pipelines, LangChain,\nand vector databases - all core AI/GenAI development\ntechnologies.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG Orchestration Pipelines",
+      "LangChain",
+      "Prompt Engineering"
+    ],
+    "ml": [],
+    "web": [
+      "Django"
+    ],
+    "databases": [
+      "SQL",
+      "MongoDB",
+      "Pinecone",
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

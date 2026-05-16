@@ -1,0 +1,159 @@
+{
+  "job_id": "intl-ai-corpus-0055",
+  "source": "intl-ai-corpus",
+  "source_ref": "6734139",
+  "source_url": "https://builtin.com/job/lead-ai-engineer/6734139",
+  "title": "Lead AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Lyric - Clarity in motion.",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-25",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "315 Employees",
+  "company_stage": "Public",
+  "company_focus": "Healthcare technology for payment accuracy and pre-pay\nediting",
+  "industries": [
+    "Information Technology",
+    "Payments"
+  ],
+  "description": "Lyric is an AI-first, platform-based healthcare technology\ncompany, committed to simplifying the business of care by\npreventing inaccurate payments and reducing overall waste in\nthe healthcare ecosystem, enabling more efficient use of\nresources to reduce the cost of care for payers, providers,\nand patients. Lyric, formerly ClaimsXten, is a market leader\nwith 35 years of pre-pay editing expertise, dedicated teams,\nand top technology. Lyric is proud to be recognized as 2025\nBest in KLAS for Pre-Payment Accuracy and Integrity and is\nHI-TRUST and SOC2 certified, and a recipient of the 2025\nCandE Award for Candidate Experience. . Interested in\nshaping the future of healthcare with AI? Explore\nopportunities at lyric.ai/careers and drive innovation with\n#YouToThePowerOfAI.\n\nThe Lead AI Engineer will drive the development of\nintelligent systems that extract and structure data from\nunstructured documents such as PDFs, scanned forms, and\nfree-text content. This role will lead the design and\ndeployment of advanced machine learning and generative AI\nsolutions, with a particular emphasis on language models\n(SLM/LLMs) and their application to document understanding\nand data extraction at scale.\n\nESSENTIAL JOB RESPONSIBILITIES & KEY PERFORMANCE OUTCOMES\n\n- Lead the architecture, development, and deployment of AI/ML\n  systems for document ingestion, understanding, and data\n  extraction.\n- Build and create good datasets and a system of good\n  validation and verifications of data and ML systems.\n- Build and fine-tune LLMs and generative AI models to\n  interpret, summarize, and extract information from complex\n  unstructured content.\n- Develop NLP pipelines leveraging techniques such as OCR,\n  entity recognition, text classification, summarization,\n  and semantic parsing.\n- Integrate LLMs with retrieval systems (RAG), vector\n  databases, and structured outputs suitable for downstream\n  consumption.\n- Collaborate cross-functionally to align technical solutions\n  with product requirements and compliance needs.\n- Mentor a team of AI/ML engineers, establish best practices\n  in model training, evaluation, and monitoring.\n- Stay abreast of the latest advancements in generative AI and\n  apply cutting-edge techniques to real-world document\n  challenges.\n\nREQUIRED QUALIFICATIONS\n\n- Minimum of seven (7) years of experience in AI/ML\n  engineering, with at least three (3) years in a technical\n  or team leadership role\n- Previous Technical Leadership in the AI/ML leadership space\n- Hands-on experience building and deploying S/LLMs or\n  generative AI applications (e.g., using Llama, Deepseek or\n  similar frameworks)\n- Proven track record of extracting structured data from\n  unstructured document sources, including scanned forms,\n  free-text reports, and complex layouts\n- Strong software engineering skills in Python and ML\n  frameworks (e.g., Kubeflow, PyTorch, multi-agentic\n  frameworks)\n- Experience with OCR technologies (e.g., Tesseract, Amazon\n  Textract), NLP techniques, and model deployment in\n  production environments\n- Deep understanding of NLP methods including embeddings,\n  transformers, named entity recognition (NER), and text\n  classification\n- Familiarity with MLOps, version control, CI/CD, and cloud\n  platforms (AWS, GCP, or Azure)\n\nPREFERRED QUALIFICATIONS\n\n- Experience implementing retrieval-augmented generation\n  (RAG), prompt engineering, or fine-tuning foundation\n  models\n- Familiarity with vector databases (e.g., Postgres-pg-vector,\n  Pinecone, FAISS, Weaviate) and semantic search\n- Strong experience shipping production ML systems with a\n  track record of monitoring and improving the ML systems\n- Experience working in regulated domains such as healthcare,\n  legal, or finance\n\n***The US base salary range for this full-time position is:\n\n$211,551.00 - $317,326.00\n\nThe specific salary offered to a candidate may be influenced\nby a variety of factors including but not limited to the\ncandidate’s relevant experience, education, and work\nlocation. Please note that the compensation details listed\nin US role postings reflect the base salary only, and does\nnot reflect the value of the total rewards compensation. ***\n\nLyric is an Equal Opportunity Employer that strives to\ncreate an inclusive environment, empower employees and\nembrace collaborative success.\n",
+  "skills_required": [
+    "Deepseek",
+    "LLMs",
+    "Llama",
+    "PyTorch",
+    "RAG",
+    "Tesseract",
+    "embeddings",
+    "fine-tuning",
+    "multi-agentic frameworks",
+    "prompt engineering",
+    "transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead the architecture, development, and deployment of AI/ML systems for document ingestion, understanding, and data extraction",
+    "Build and fine-tune LLMs and generative AI models to interpret, summarize, and extract information from complex unstructured content",
+    "Develop NLP pipelines leveraging techniques such as OCR, entity recognition, text classification, summarization, and semantic parsing",
+    "Integrate LLMs with retrieval systems (RAG), vector databases, and structured outputs suitable for downstream consumption",
+    "Build and create good datasets and a system of validation and verification of data and ML systems",
+    "Mentor a team of AI/ML engineers, establish best practices in model training, evaluation, and monitoring",
+    "Collaborate cross-functionally to align technical solutions with product requirements and compliance needs"
+  ],
+  "use_cases": [
+    "Extract and structure data from unstructured documents such as PDFs, scanned forms, and free-text content",
+    "Prevent inaccurate payments and reduce waste in the healthcare ecosystem through intelligent document processing",
+    "Interpret, summarize, and extract information from complex unstructured healthcare documents at scale",
+    "Document understanding and data extraction for healthcare payer and provider workflows",
+    "Pre-payment accuracy and integrity through AI-powered document analysis"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Amazon Textract",
+    "Azure",
+    "CI/CD",
+    "FAISS",
+    "GCP",
+    "Kubeflow",
+    "MLOps",
+    "Pinecone",
+    "Postgres-pg-vector",
+    "Weaviate",
+    "model deployment",
+    "version control"
+  ],
+  "frameworks_mentioned": [
+    "Deepseek",
+    "LLMs",
+    "Llama",
+    "PyTorch",
+    "RAG",
+    "embeddings",
+    "fine-tuning",
+    "multi-agentic frameworks",
+    "prompt engineering",
+    "transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves directly building, fine-tuning, and\ndeploying LLMs and generative AI models for document\nunderstanding. The engineer implements RAG systems, works\nwith vector databases, and develops NLP pipelines - all\nhands-on work with AI models rather than supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "fine-tuning",
+      "RAG",
+      "prompt engineering",
+      "Llama",
+      "Deepseek",
+      "multi-agentic frameworks"
+    ],
+    "ml": [
+      "PyTorch",
+      "embeddings",
+      "transformers"
+    ],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "FAISS",
+      "Postgres-pg-vector"
+    ],
+    "data": [],
+    "cloud": [
+      "Amazon Textract",
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Kubeflow",
+      "MLOps",
+      "CI/CD",
+      "version control",
+      "model deployment"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "OCR",
+      "NLP",
+      "entity recognition",
+      "NER",
+      "text classification",
+      "semantic parsing"
+    ],
+    "other": [
+      "Tesseract"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

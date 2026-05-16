@@ -1,0 +1,173 @@
+{
+  "job_id": "intl-ai-corpus-2987",
+  "source": "intl-ai-corpus",
+  "source_ref": "9096220",
+  "source_url": "https://builtin.com/job/staff-ai-engineer/9096220",
+  "title": "Staff AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pattern",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-20",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "501 Employees",
+  "company_stage": "Growth/E-commerce accelerator",
+  "company_focus": "Ecommerce accelerator helping global brands grow across\nmarketplaces using AI-powered data intelligence and creative\nautomation",
+  "industries": [
+    "eCommerce",
+    "Logistics",
+    "Software",
+    "Analytics"
+  ],
+  "description": "About The Team:\n\n\n\nPattern is an ecommerce accelerator that helps global brands\ngrow across marketplaces. We're the AI Transformation Team\n-- a small R&D group building the connected system of\ntechnologies that powers data collection, intelligence,\ncreative automation, and brand strategy across Pattern's\noperations. We design, build, and operate an ecosystem of\ninterconnected systems that form a closed loop: collecting\nraw web data, normalizing it into structured intelligence,\nanalyzing marketplace behavior, and activating insights\nthrough creative automation and brand strategy. Pattern's\nrich data assets -- marketplace analytics, consumer behavior\nsignals, and product intelligence across thousands of brands\n-- flow directly into this ecosystem. We move fast, ship to\nproduction, and give engineers uncommon autonomy over hard\nproblems. AI is not a feature we bolt on -- it is the core\nof what we build. Every engineer on this team works daily\nwith LLMs, embeddings, agentic workflows, and generative\npipelines -- and builds them into scalable, production-grade\nsystems. We share what works, challenge each other\ntechnically, and raise the bar together.\n\nThe Role\n\n- We're looking for a Staff Software Engineer to own critical\n  systems and shape the technical direction of our\n  intelligence ecosystem.\n- You'll go deep on one or two systems -- designing their\n  internals, scaling their infrastructure, hardening their\n  reliability -- while driving architectural decisions that\n  ripple across the full platform.\n- This is a hands-on role with broad influence. You'll ship\n  code daily -- often in partnership with AI coding tools\n  like Claude Code -- driving them to produce robust, test-\n  driven code at a pace that multiplies your impact.\n- You'll set technical standards through reviews and design\n  docs, and collaborate closely with engineers across the\n  team.\n- We expect you to mentor, uplift, and make the people around\n  you better.\n- You'll operate at the intersection of three pillars: deep\n  business understanding and customer obsession, leveraging\n  generative AI to solve real problems, and designing\n  architecture that is robust and scalable.\n- Your decisions here directly shape products used by global\n  brands. This is a hybrid role based in Pune. Competitive\n  compensation and benefits\n\nSystems You'll Shape\n\n- You won't be limited to a single domain. Our ecosystem spans\n  multiple interconnected systems -- here is where a Staff\n  engineer makes an impact:\n- Agentic Data Collection & Competitive Intelligence -- Know\n  everything about a brand's digital presence before a human\n  asks. Build intelligent agents that discover, collect, and\n  keep product and competitor data fresh across marketplaces\n  at scale.\n- Product Intelligence & Attribute Normalization -- Make every\n  product across Pattern's ecosystem describable,\n  searchable, and comparable. Build the semantic engine that\n  turns messy, unstructured product data into a consistent\n  taxonomy using LLMs, vector search, and hierarchical\n  classification.\n- Marketplace Behavioral Analytics -- Answer the question:\n  what makes a customer buy one product over another?\n  Combine consumer behavior data, competitive analysis, and\n  attention modeling to surface the attributes that actually\n  drive conversion.\n- Creative Automation & Generative Pipelines -- Turn\n  structured product intelligence into marketplace-ready\n  content at scale. Build the systems that connect data to\n  AI-generated imagery, video, and copy -- from model\n  training to quality assurance to final output.\n- Cross-System Architecture -- Make the ecosystem greater than\n  the sum of its parts. Design the shared contracts,\n  communication patterns, and feedback loops that keep these\n  systems connected, observable, and self-improving.\n\nOur Stack\n\n- Languages & Frameworks: Python, FastAPI, SQLAlchemy,\n  React/Next.js, TypeScript\n- Cloud & Infrastructure: AWS (we use a lot of it -- ECS,\n  Lambda, S3, SQS/SNS, Bedrock, Step Functions, and more),\n  Terraform\n- Data: PostgreSQL, Redis, Snowflake, DynamoDB, vector\n  databases\n- ●AI/ML: LLMs, diffusion models, computer vision, NLP,\n  speech-to-text -- deployed across AI infrastructure\n  providers (RunPod, Replicate, Fal, and others) ●\n  Orchestration: Temporal, Apache Airflow (Astronomer),\n  LangGraph, Celery\n\nWhat You'll Do\n\n- Own one or two systems end-to-end: understand the users and\n  stakeholders who depend on them, then drive the\n  architecture, implementation, operational health, and\n  evolution.\n- Drive cross-system technical decisions -- data contracts,\n  API boundaries, shared infrastructure, and integration\n  patterns across the ecosystem.\n- Design and build production AI systems: retrieval pipelines,\n  agentic workflows, generative pipelines, and\n  classification engines with the right cost/latency/quality\n  trade-offs.\n- Set engineering standards through code reviews, design\n  documents, and architectural RFCs. Your work becomes the\n  reference implementation.\n- Partner with product, design, and stakeholders to frame\n  problems worth solving -- then solve them end-to-end.\n- Identify and eliminate systemic bottlenecks -- whether in\n  architecture, tooling, process, or team velocity.\n- Elevate the engineers around you through pairing, review\n  rigor, and raising the bar on what \"production-ready\"\n  means.\n\nYou Should Have\n\n- Deep experience building, operating, and evolving production\n  software systems (typically 8+ years)\n- Track record of owning systems -- not just features -- and\n  making architectural decisions that held up over time.\n- Strong AI/ML engineering skills: you have built production\n  systems that use LLMs, embeddings, classification\n  pipelines, or generative models -- not just prototypes.\n- Excellent systems design instincts: distributed systems,\n  data modeling, API design, event-driven architecture, and\n  the judgment to know when simplicity beats sophistication.\n- Backend depth (Python, SQL, cloud infrastructure) with\n  enough full-stack range to move confidently anywhere in\n  the codebase.\n\nEven Better If You Bring\n\n- Product sense and user empathy -- you care about whether the\n  system actually solves the problem, not just whether it\n  runs.\n- Communication that scales: you write clear design docs, give\n  precise code reviews, and can explain complex trade-offs\n  to both engineers and non-engineers.\n- Comfort with ambiguity and R&D pace. Some of what we build\n  has no precedent -- you find that energizing, not\n  unsettling.\n",
+  "skills_required": [
+    "AWS Bedrock",
+    "Agentic workflows",
+    "Classification pipelines",
+    "Computer vision",
+    "Diffusion models",
+    "Distributed systems design",
+    "Embeddings",
+    "Event-driven architecture",
+    "LLMs",
+    "LangGraph",
+    "NLP",
+    "Prompt engineering",
+    "RAG/retrieval pipelines"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own one or two critical systems end-to-end, driving architecture, implementation, and operational health",
+    "Design and build production AI systems including retrieval pipelines, agentic workflows, generative pipelines, and classification engines",
+    "Drive cross-system technical decisions including data contracts, API boundaries, and shared infrastructure",
+    "Set engineering standards through code reviews, design documents, and architectural RFCs",
+    "Build intelligent agents for data collection, product intelligence normalization, and marketplace analytics",
+    "Partner with product and stakeholders to frame and solve problems end-to-end",
+    "Mentor and elevate engineers through pairing, review rigor, and raising production-ready standards"
+  ],
+  "use_cases": [
+    "Agentic competitive intelligence — automated discovery and monitoring of product and competitor data across marketplaces",
+    "Product attribute normalization — turning messy unstructured product data into consistent taxonomy using LLMs and vector search",
+    "Marketplace behavioral analytics — modeling what drives customer purchase decisions using consumer behavior and competitive data",
+    "Creative automation at scale — generating marketplace-ready imagery, video, and copy from structured product intelligence",
+    "Closed-loop ecosystem connecting data collection, intelligence analysis, creative generation, and brand strategy"
+  ],
+  "tools_mentioned": [
+    "AWS (ECS, Lambda, S3, SQS/SNS, Step Functions)",
+    "Apache Airflow (Astronomer)",
+    "Celery",
+    "Docker",
+    "DynamoDB",
+    "Fal",
+    "FastAPI",
+    "PostgreSQL",
+    "React/Next.js",
+    "Redis",
+    "Replicate",
+    "RunPod",
+    "SQLAlchemy",
+    "Snowflake",
+    "Temporal",
+    "Terraform",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AWS Bedrock",
+    "Agentic workflows",
+    "Classification pipelines",
+    "Computer vision",
+    "Diffusion models",
+    "Embeddings",
+    "LLMs",
+    "LangGraph",
+    "NLP",
+    "Prompt engineering",
+    "RAG/retrieval pipelines"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and operating\nproduction AI systems including agentic workflows, LLM-based\nclassification engines, generative pipelines, and retrieval\nsystems. The engineer works daily with LLMs, embeddings, and\ndiffusion models, designing and deploying them as core\ncomponents of the product — not as supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "LangGraph",
+      "Embeddings",
+      "Agentic workflows",
+      "RAG/retrieval pipelines",
+      "Prompt engineering",
+      "AWS Bedrock"
+    ],
+    "ml": [
+      "Diffusion models",
+      "Computer vision",
+      "NLP",
+      "Classification pipelines"
+    ],
+    "web": [
+      "FastAPI",
+      "React/Next.js",
+      "SQLAlchemy"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Redis",
+      "Snowflake",
+      "DynamoDB",
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS (ECS, Lambda, S3, SQS/SNS, Step Functions)"
+    ],
+    "ops": [
+      "Terraform",
+      "Docker",
+      "Temporal",
+      "Apache Airflow (Astronomer)",
+      "Celery",
+      "RunPod",
+      "Replicate",
+      "Fal"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems design",
+      "Event-driven architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,168 @@
+{
+  "job_id": "intl-ai-corpus-3063",
+  "source": "intl-ai-corpus",
+  "source_ref": "9119928",
+  "source_url": "https://builtin.com/job/ai-engineer/9119928",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Patlytics",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-22",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "31 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-native patent intelligence platform for IP protection and\nmonetization",
+  "industries": [
+    "Artificial Intelligence",
+    "Legal Tech",
+    "Productivity",
+    "Software",
+    "Generative AI"
+  ],
+  "description": "About Patlytics:\n\nPatlytics is the fastest-growing AI-native patent\nintelligence platform, transforming how IP is protected and\nmonetized at scale. Our advanced LLMs and generative AI\nengine—custom-built for intellectual property—power every\nphase of the patent workflow from invention disclosure\nthrough litigation, delivering citation-backed insights with\nunprecedented accuracy and speed.\n\nFresh off our $40M Series B — led by SignalFire, with\nparticipation from N47, Myriad Venture Partners, Liquid 2\nVentures, BAM Corner Point, Alumni Ventures, Antiportfolio\nVentures and Relativity- allows us to triple down on the\nproduct, accelerate growth globally, hire future mission-\naligned colleagues, and to continue redefining what is\npossible for our customers. — we're scaling fast across\nproduct, engineering, and go-to-market. If you want to build\nat the inflection point, this is it.\n\nWith teams across the globe we're building a global company\nfueled by exceptional talent and bold ideas. Our rapid\nexpansion is driven by people who bring entrepreneurial\nenergy, intellectual curiosity, and a shared commitment to\nsetting the global standard for AI-powered IP intelligence.\nWe're creating a culture where diverse perspectives shape\nbreakthrough innovation and every voice contributes to\ntransforming how the world protects ideas.\n\nWe hire for trajectory, not just credentials. If you're 70%\nof this list and hungry to close the gap, apply.\n\nAs an AI Engineer, you’ll:\n\n- Develop and deploy robust, scalable AI/ML algorithms for\n  cutting-edge IP applications\n- Design, implement, and iterate on multi-step LLM pipelines\n  for patent claim analysis, infringement detection, and\n  prior art search, including the model selection, prompt\n  architecture, and structured output contracts that define\n  product quality\n- Build and maintain a rigorous evals framework: define\n  success metrics per pipeline stage, curate golden datasets\n  from real IP cases, and run continuous regression testing\n  to catch degradation before users do\n- Develop retrieval systems (vector search, BM25 hybrids, re-\n  ranking) optimized for patent corpus characteristics, long\n  documents, technical claim language, biological sequence\n  identifiers\n- Architect and ship agentic workflows within our Agent layer,\n  coordinating tool use, memory, and multi-turn reasoning\n  over complex IP research tasks\n- Develop data classification techniques and post-training on\n  the latest LLMs\n- Collaborate with patent attorneys and domain experts to\n  encode expert judgment into prompts, rubrics, and fine-\n  tuning datasets, then measure whether it worked Own cost,\n  latency, and quality tradeoffs for production inference:\n  prompt caching strategies, context window management,\n  batching, and model migration planning on AWS, GCP and\n  other LLM providers.\n- Partner with a highly talented cross functional group of\n  researchers, applied scientists, engineers, and product\n  managers to build and evolve the (your company’s platform,\n  product, solution, etc.)\n- Work with large, complex data sets, solve difficult, non-\n  routine analysis problems, and apply advanced analytical\n  methods as needed\n- Partner with the Leadership Team to align development\n  strategies with key product requirements and long-term\n  technical roadmap\n- Build tools to monitor data pipeline performance, data\n  quality and models in production\n- Perform unit testing, profiling, and parameter tuning\n- Collaborate with data engineers & platform team to implement\n  data pipelines and robust production real-time and batch\n  decisioning solutions\n- Lead ongoing R&D of new technologies, data sources and data\n  science & optimization tools\n- Improve existing machine learning methodologies by\n  developing new sources and testing enhancements, running\n  computational experiments, and fine-tuning parameters\n\nThat said, these responsibilities are just the beginning! As\nwe continue to grow, we encourage you to contribute wherever\nyou observe opportunities in the business that align with\nyour interests.\n\nAbout you:\n\n- You've shipped LLM-powered features that real users depend\n  on, not just demos or side projects. You have a track\n  record of turning prototype prompts into production\n  pipelines with monitoring and fallbacks\n- You think in evals first. Before writing a prompt, you ask\n  'how will we know if this is better?' and you build the\n  scaffolding to answer that question rigorously\n- You're comfortable with ambiguity at the model layer. You\n  know that Claude, GPT, and Gemini make different\n  tradeoffs, and you've developed intuition for when to\n  switch, fine-tune, or route between them\n- You write solid Python and have enough backend instincts to\n  own a service end-to-end: API design, data pipelines,\n  async processing, and observability\n- You can read a patent claim and not immediately give up.\n  You're curious about domain knowledge and willing to\n  become a genuine expert in IP reasoning over time\n- You have a strong technical background building ML & AI\n  pipelines\n- You have great understanding of ML methods and statistics,\n  including ML project lifecycle and associated challenges\n  at each stage of development\n- Experience deploying, monitoring and maintaining data\n  science products in cloud environments such as AWS and\n  GCP.\n- Solid understanding of data transformations and analytics\n  functions using tools/languages like (Pandas, Sklearn,\n  SQL, Spark, etc.)\n- Familiarity with database modeling, data warehousing\n  principles and SQL\n\nIf you don’t meet 100% of the above qualifications, you\nshould still consider applying. Studies show that you can\nstill be considered for a role if you meet just 50% of the\nposition’s requirements.\n\nWe offer:\n\n- Comprehensive health coverage – Medical, dental, vision,\n  plus FSA, commuter benefits, and health advocacy through\n  Rightway\n- Mental health & wellness support – Access to Spring Health\n  and Headspace, plus \"Mental Escape Days\" to recharge when\n  you need it\n- Immediate 401(k) enrollment – No waiting period to start\n  saving for your future\n- Generous time off – Unlimited PTO, 12 paid company holidays,\n  plus a full week off during our Holiday Break\n- Family-first policies – Paid parental leave to support you\n  during life's biggest moments\n- Invest in yourself – Professional development budget, gym\n  membership stipend, and learning opportunities\n- Celebrate what matters – Birthday and work anniversary\n  recognition, plus generous employee referral bonuses\n- Hybrid work environment (open to remote pending location),\n  while staying connected with a passionate and talented\n  team\n",
+  "skills_required": [
+    "Agentic workflows",
+    "Claude API",
+    "Fine-tuning",
+    "Gemini API",
+    "LLM pipelines",
+    "ML pipeline lifecycle",
+    "Model routing",
+    "OpenAI API",
+    "Pandas",
+    "Post-training",
+    "Prompt caching",
+    "Prompt engineering",
+    "RAG",
+    "Re-ranking",
+    "Structured output",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and deploy scalable AI/ML algorithms for IP applications",
+    "Design and iterate on multi-step LLM pipelines for patent claim analysis, infringement detection, and prior art search",
+    "Build and maintain evals frameworks with success metrics, golden datasets, and regression testing",
+    "Develop retrieval systems (vector search, BM25 hybrids, re-ranking) optimized for patent corpus characteristics",
+    "Architect and ship agentic workflows with tool use, memory, and multi-turn reasoning for IP research tasks",
+    "Develop data classification techniques and post-training on latest LLMs",
+    "Manage cost, latency, and quality tradeoffs for production inference including prompt caching and model migration",
+    "Build monitoring tools for data pipeline performance, data quality, and production models"
+  ],
+  "use_cases": [
+    "Patent claim analysis and structured output generation",
+    "Patent infringement detection across large document corpora",
+    "Prior art search using hybrid retrieval over patent databases",
+    "Agentic IP research workflows with multi-turn reasoning and tool use",
+    "Citation-backed patent intelligence for litigation support"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "AWS",
+    "Async processing",
+    "BM25",
+    "Data pipelines",
+    "Evals frameworks",
+    "GCP",
+    "Model monitoring",
+    "Spark",
+    "Vector search"
+  ],
+  "frameworks_mentioned": [
+    "Agentic workflows",
+    "Claude API",
+    "Fine-tuning",
+    "Gemini API",
+    "LLM pipelines",
+    "ML pipeline lifecycle",
+    "Model routing",
+    "OpenAI API",
+    "Pandas",
+    "Post-training",
+    "Prompt caching",
+    "Prompt engineering",
+    "RAG",
+    "Re-ranking",
+    "Structured output",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and deploying LLM pipelines,\nagentic workflows, retrieval systems, and fine-tuning models\nfor patent intelligence applications. The engineer works\nhands-on with model selection, prompt architecture, evals\nframeworks, and production inference optimization — all core\nAI/LLM system building.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM pipelines",
+      "Prompt engineering",
+      "RAG",
+      "Agentic workflows",
+      "Fine-tuning",
+      "Structured output",
+      "Re-ranking",
+      "Claude API",
+      "OpenAI API",
+      "Gemini API",
+      "Prompt caching",
+      "Model routing"
+    ],
+    "ml": [
+      "scikit-learn",
+      "Pandas",
+      "ML pipeline lifecycle",
+      "Post-training"
+    ],
+    "web": [
+      "API design",
+      "Async processing"
+    ],
+    "databases": [
+      "Vector search",
+      "BM25"
+    ],
+    "data": [
+      "Spark",
+      "Data pipelines"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Evals frameworks",
+      "Model monitoring"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

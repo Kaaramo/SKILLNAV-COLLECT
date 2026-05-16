@@ -1,0 +1,139 @@
+{
+  "job_id": "intl-ai-corpus-2406",
+  "source": "intl-ai-corpus",
+  "source_ref": "8874830",
+  "source_url": "https://www.builtinla.com/job/senior-ai-platform-engineer/8874830",
+  "title": "Senior AI Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Firestorm",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "VC-backed (likely Series A or B based on funding stage and salary range)",
+  "company_focus": "Defense technology company building autonomous aerial\nvehicles and mission-adaptable systems",
+  "industries": [
+    "Aerospace",
+    "Defense"
+  ],
+  "description": "Who We Are\n\nAt Firestorm, we’re on a mission to revolutionize how\ndefense solutions are designed and delivered. Our goal is to\nempower U.S. ally nations to effectively deter aggressors —\nregardless of their defense budget — through innovative,\ncost-efficient technologies. We call this vision\n“democratized deterrence.” As a VC-backed company at the\nintersection of defense and Silicon Valley, we’re pioneering\nthe development of mission-adaptable aerial vehicles that\nput power back into the hands of operators. By prioritizing\noperator effectiveness, we’re pioneering a new era of aerial\nvehicle design. We aim to upend the traditional defense\nprocurement model by delivering world-class capabilities at\na fraction of the usual cost. Join us at Firestorm as we\nredefine defense procurement, making cutting-edge technology\naccessible to all at a fraction of the cost.\n\n\n\nAbout the Role\n\n\n\nAt Firestorm, we are building autonomous aerial systems that\noperate where they are needed most, when they are needed\nmost. Our mission requires speed, ingenuity, and a\nrelentless commitment to engineering excellence. We move\nfast, test constantly, and deliver capability that performs\nin the real world, not just in simulation.\n\nWe are looking for a Senior AI Platform Engineer who is\nexcited to build the platform foundations that make AI-\nenabled software reliable, secure, and operable at scale.\nYou will design and implement core services, registries,\nworkflow orchestration primitives, and the integration\npatterns that connect AI-driven workflows to internal\nsystems, without compromising governance, auditability, or\nsafety. This is a hands-on role with significant ownership:\nyou will build the primitives that other engineers depend\non, and you will help set the standard for reliability and\nsoftware quality in a fast-moving environment.\n\nIf you want to build systems that matter, own your work end\nto end, and be part of a team that values bold thinking\ngrounded in rigorous engineering, Firestorm is the place to\ndo it.\n\n\n\nWhat You'll Do\n\n- Build and operate core backend services that power AI-\n  enabled workflows (APIs, orchestration, storage, and\n  internal integrations)\n- Design scalable data models and registries for versioned\n  artifacts and metadata, with strong traceability and\n  auditability\n- Implement secure-by-default service patterns: authN/authZ,\n  audit logs, secrets handling, and least-privilege access\n- Build reliability foundations: observability, metrics,\n  tracing, alerting, SLOs, incident response playbooks\n- Implement idempotent APIs and state-handling patterns for\n  resilient workflows (retries, partial failure,\n  reconciliation)\n- Create integration adapters and event-driven plumbing to\n  safely connect workflows to internal systems\n- Establish release and deployment practices: CI/CD pipelines,\n  environment promotion, rollback strategies, and safe\n  migrations\n- Partner closely with AI and application engineers to define\n  interfaces, validation layers, and operational constraints\n- Identify performance, scalability, and security risks early\n  and ship pragmatic solutions quickly\n\nMinimum Qualifications\n\n\n\n- Bachelor’s degree in Computer Science, Engineering, or\n  related field (or equivalent practical experience)\n- U.S. Citizenship and the ability to obtain and maintain a\n  U.S. Government security clearance\n- 6+ years of experience building and operating\n  backend/platform systems in production\n- 3+ years building platforms that support AI/ML systems in\n  production (e.g., evaluation pipelines, model/app runtime\n  infrastructure, artifact/metadata registries, AI workflow\n  orchestration, MLOps)\n- Experience operating LLM-enabled systems with production\n  constraints (latency, cost, reliability), including\n  monitoring quality/regressions and enforcing safe\n  tool/data access\n- Strong proficiency in one or more backend languages (e.g.,\n  Go, Java, Python, C++) and modern infrastructure practices\n- Experience designing APIs, data models, and distributed\n  systems with reliability and security best practices\n- Experience with workflow/event systems (queues, pub/sub,\n  orchestration, idempotency, state machines) used to run\n  multi-step AI-driven pipelines\n- Experience implementing observability for AI systems\n  (metrics, tracing, logs) including quality/reliability\n  signals beyond uptime (e.g., eval scores, rejection rates,\n  cost/latency budgets)\n- Experience with production security controls: RBAC/ABAC,\n  audit logs, secrets management, data access boundaries\n- Strong communication and documentation skills\n\nPreferred Qualifications\n\n- Experience with AI/ML infrastructure (model serving,\n  inference gateways, feature/data pipelines, experiment\n  tracking, artifact registries)\n- Experience with GPU-aware infrastructure and/or high-\n  throughput inference (capacity planning, batching,\n  caching, rate limiting)\n- Experience building evaluation platforms (offline/online\n  evals, canaries, A/B testing, regression automation,\n  dataset/version management)\n- Familiarity with AI safety/security patterns (prompt\n  injection mitigation, tool sandboxing, policy enforcement,\n  data-loss prevention)\n- Experience building internal platforms used by multiple\n  teams with clear contracts, SLAs/SLOs, and well-managed\n  migrations\n- Experience with multi-tenant or role-based access control\n  systems\n\nWork Environment\n\n- Remote (U.S.) with the option to be based at our\n  Headquarters in San Diego, CA We welcome candidates who\n  are local or open to relocating; relocation assistance is\n  available and may be included in the offer package where\n  appropriate\n- Ability to travel up to 10%; may be required for team\n  collaboration, field testing, or customer support\n\nCompensation\n\nUS Salary Range: $165,000 - $225,000 USD\n\nThe posted salary range reflects an estimate based on a\nvariety of compensation factors, including but not limited\nto relevant experience, education, certifications,\nspecialized skills, geographic location, and business needs.\nActual compensation may vary, and this range is subject to\nchange as our compensation structure or market conditions\nevolve.\n\n\n\nBenefits & Perks\n\n\n\nOur culture fosters collaboration, respect, and trust,\nempowering passionate people to do their best work. We offer\na competitive salary, comprehensive benefits, and\nopportunities for career growth. In addition to an\nopportunity to take part in an innovative, collaborative and\nfast-growing business with a highly motivated and skilled\nteam, we also take pride in taking care of our employees.\nHere are just a few ways that we show our appreciation:\n\n- We offer comprehensive medical, dental, and visions plans\n- 401(k) Retirement Savings Plan to invest in your long-term\n  retirement goals\n- Equity grants for new hires\n- Unlimited PTO\n- Extremely generous company holiday calendar, including a\n  holiday hiatus in November, & December\n- Generous Parental Leave\n- Lifestyle Spending Account\n- FSA\n- DCFSA\n- HSA\n- Hospital Indemnity insurance\n- Critical Illness insurance\n- Accident insurance\n- Basic Life/AD&D, short-term and long-term disability\n  insurance, 100% covered by Firestorm. Plus, the option to\n  purchase additional life insurance for you and your\n  family.\n- Mental Health Resources: We provide free mental health\n  resources 24/7 including therapy and more. Additional\n  work-life services, such as free legal and financial\n  support, are available to you as well\n\nExport Control Compliance\n\n\n\nTo conform to U.S. government export control regulations,\nincluding the International Traffic in Arms Regulations\n(ITAR) and Export Administration Regulations (EAR), you must\nbe a U.S. citizen, lawful permanent resident of the U.S.,\nprotected individual as defined by 8 U.S.C. 1324b(a)(3), or\notherwise eligible to obtain the required authorizations\nfrom the U.S. Department of State or U.S. Department of\nCommerce.\n\n\n\nEqual Opportunity Statement\n\n\n\nFirestorm is an equal opportunity employer, committed to\ncreating a diverse and inclusive workplace, and upholding\nequitable hiring practices. All qualified applicants will\nreceive consideration for employment without regard to race,\ncolor, religion, sex, sexual orientation, gender identity,\nnational origin, disability, protected veteran status, or\nany other characteristic under federal, state, or local law,\nincluding those with a criminal history, in a manner\nconsistent with the requirements of applicable state and\nlocal laws, including the CA Fair Chance Initiative for\nHiring Ordinance. We actively encourage members of\nrecognized minorities, women, Veterans, and those with\ndisabilities to apply, and we work to create a welcoming and\nsupportive environment for all applicants throughout the\ninterview process.\n\n\n\nFirestorm is committed to fostering an inclusive and\naccessible work environment. If you require accommodations\nor assistance during the application process, please don’t\nhesitate to reach out to us at careers@launchfirestorm.com\nso we can provide the support you need.\n",
+  "skills_required": [
+    "AI safety patterns",
+    "Distributed systems",
+    "Event-driven architecture",
+    "LLM systems",
+    "Prompt injection mitigation",
+    "RBAC/ABAC"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and operate core backend services that power AI-enabled workflows including APIs, orchestration, storage, and internal integrations",
+    "Design scalable data models and registries for versioned artifacts and metadata with strong traceability and auditability",
+    "Implement secure-by-default service patterns including authentication, authorization, audit logs, and secrets handling",
+    "Build reliability foundations including observability, metrics, tracing, alerting, SLOs, and incident response playbooks",
+    "Implement idempotent APIs and state-handling patterns for resilient workflows with retries and reconciliation",
+    "Create integration adapters and event-driven plumbing to safely connect AI workflows to internal systems",
+    "Establish CI/CD pipelines, environment promotion, rollback strategies, and safe deployment practices",
+    "Partner with AI and application engineers to define interfaces, validation layers, and operational constraints"
+  ],
+  "use_cases": [
+    "Autonomous aerial systems and vehicles for defense applications",
+    "AI-enabled mission planning and execution for aerial operations",
+    "Democratized deterrence through cost-effective defense technology",
+    "Real-time decision support for aerial system operators in the field"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "Artifact registries",
+    "CI/CD",
+    "Evaluation platforms",
+    "Experiment tracking",
+    "Feature/data pipelines",
+    "GPU infrastructure",
+    "Inference gateways",
+    "Message queues and pub/sub",
+    "Model serving infrastructure",
+    "Observability (metrics, tracing, logs)",
+    "REST APIs",
+    "Secrets management",
+    "Workflow orchestration"
+  ],
+  "frameworks_mentioned": [
+    "AI safety patterns",
+    "LLM systems",
+    "Prompt injection mitigation"
+  ],
+  "languages_programming": [
+    "C++",
+    "Go",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is building platform infrastructure and services\nthat SUPPORT AI/ML systems rather than directly building,\ntraining, or deploying models. The focus is on backend\nservices, orchestration, observability, security, and\nreliability patterns that enable other engineers to run AI\nworkflows safely.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM systems",
+      "AI safety patterns",
+      "Prompt injection mitigation"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Workflow orchestration",
+      "Message queues and pub/sub",
+      "Feature/data pipelines"
+    ],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "Observability (metrics, tracing, logs)",
+      "Model serving infrastructure",
+      "Inference gateways",
+      "GPU infrastructure",
+      "Secrets management",
+      "Experiment tracking",
+      "Artifact registries",
+      "Evaluation platforms",
+      "A/B testing"
+    ],
+    "languages": [
+      "Go",
+      "Java",
+      "Python",
+      "C++"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems",
+      "Event-driven architecture",
+      "RBAC/ABAC"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

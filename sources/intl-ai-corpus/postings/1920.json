@@ -1,0 +1,138 @@
+{
+  "job_id": "intl-ai-corpus-1920",
+  "source": "intl-ai-corpus",
+  "source_ref": "8637051",
+  "source_url": "https://www.builtinla.com/job/founding-ai-engineer-llms-agents/8637051",
+  "title": "Founding AI Engineer (LLMs & Agents)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Skiffra",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-03",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Seed/Early-stage (founding-level role)",
+  "company_focus": "Building AI orchestration systems for physical world\noperations, starting with mining and natural resources",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Business Intelligence",
+    "Financial Services",
+    "Big Data Analytics",
+    "Manufacturing"
+  ],
+  "description": "About Skiffra\n\nSkiffra is building the intelligence layer for the physical\nworld. We translate complex, real-world environments into\nclear, actionable data. While most AI companies focus on\ndigital industries, we design AI native orchestration\nsystems for the sectors that extract, move, and build\necosystems around us. We turn messy, high stakes operations\ninto intelligent, adaptive workflows that improve decisions\nin real time. Our first proving ground is mining and natural\nresources, but the platform is modular by design and built\nto scale into any industry where decisions are expensive and\nthe consequences are real.\n\nThe Role\n\nAs a Founding AI Engineer, you will be the architect of our\ncore intelligence. This is a role for a high-leverage\nbuilder who can move fluidly between prompt engineering,\nbackend systems, and model optimization. You will design the\n\"brain\" of Skiffra, moving agentic workflows from\nwhiteboards to production-grade systems that handle real\nenterprise data at scale. This is a founding-level role for\nbuilders who value shipping over dogma and real-world impact\nover demos.\n\nThis role will be based in the San Francisco Bay Area or Los\nAngeles, CA.\n\nWhat You’ll Do\n\n- Architect & Build Agentic Systems: Design, prototype, and\n  harden production-grade orchestration frameworks that\n  leverage LLMs, persistent memory, and tool-integration to\n  navigate complex, non-linear enterprise tasks\n- Build the Data Flywheel: Implement sophisticated RAG\n  (Retrieval-Augmented Generation) pipelines, ensuring high-\n  fidelity context retrieval from fragmented data sources\n- Evaluate & Iterate: Build internal benchmarking and\n  evaluation suites to measure and improve model\n  reliability, grounding, and latency\n- Strategic Modeling: Architect high-performance intelligence\n  stacks by making pragmatic trade-offs between Frontier\n  Reasoning Models (GPT-5, Claude 4 Opus) for long-horizon\n  agentic planning, Fine-tuned Open-Weight Models (Llama 4,\n  Mistral 3) for data sovereignty and low-latency inference,\n  and Deterministic Heuristics for reliable, cost-efficient\n  guardrails\n- Full-Stack Ownership: Work directly with founders to\n  translate ambiguous operational \"messes\" into clean,\n  scalable, AI-powered software\n- Cross-Collaboration: Partner with product and engineering to\n  turn ambiguity into working software\n\nWhat We’re Looking For\n\n- 7+ years of Systems Engineering: You have a deep background\n  in building production software. You understand that \"AI\"\n  is only as good as the infrastructure surrounding it\n- Modern AI Fluency: Deep practical experience with the\n  transformer-based stack: embeddings, vector databases,\n  tool-calling, and context window management\n- Python Power-User: You are comfortable building entire\n  systems, not just experimenting in notebooks\n- Reliability Mindset: You have strong instincts for failure\n  modes (hallucinations, API timeouts, \"infinite loops\" in\n  agents) and how to build guardrails against them\n- Clear communicator with founder-level ownership mindset\n\nNice to Have\n\n- Experience in building complex, multi-step workflows using\n  LangGraph, LlamaIndex, and CrewAI\n- Hands-on experience with Fine-tuning and PEFT (LoRA/QLoRA)\n  to adapt open-weight models for domain-specific tasks\n- A background in Enterprise Operations (Industrial,\n  Logistics, Fintech, or CRM workflows).\n- Strong opinions on where AI creates value and where it’s\n  just expensive noise\n\nHow We Work\n\nWe value speed, clarity, and technical rigor. We favor\nsimple systems over clever ones, prototypes over over-\nplanning, and ownership over handoffs. You’ll work directly\nwith founders and ship things that matter quickly.\n\nLocation & Work Model\n\nThis is a hybrid role with regular in-person collaboration\nin Los Angeles or the San Francisco Bay Area. We are not a\nremote-only company.\n\nWork Authorization\n\nCandidates must be authorized to work in the United States.\nWe are not able to offer visa sponsorship for this role.\n\nBenefits & Eligibility\n\nThis position is eligible for Skiffra’s standard benefits,\nincluding health insurance and retirement plans, and may\nalso qualify for participation in the Company’s bonus and\nincentive programs.\n\nEqual Opportunity\n\nSkiffra is an equal opportunity employer. We value diversity\nand do not discriminate on the basis of race, color,\nreligion, sex, gender identity or expression, sexual\norientation, age, national origin, disability, veteran\nstatus, or any other protected characteristic.\n",
+  "skills_required": [
+    "Agents",
+    "Claude API",
+    "CrewAI",
+    "Embeddings",
+    "Fine-tuning",
+    "LangGraph",
+    "LlamaIndex",
+    "LoRA",
+    "OpenAI API",
+    "PEFT",
+    "Prompt Engineering",
+    "QLoRA",
+    "RAG",
+    "Tool Calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and build production-grade agentic orchestration frameworks leveraging LLMs, persistent memory, and tool-integration",
+    "Implement sophisticated RAG pipelines for high-fidelity context retrieval from fragmented data sources",
+    "Build internal benchmarking and evaluation suites to measure model reliability, grounding, and latency",
+    "Make strategic trade-offs between frontier reasoning models, fine-tuned open-weight models, and deterministic heuristics",
+    "Work directly with founders to translate ambiguous operational problems into scalable AI-powered software",
+    "Partner with product and engineering teams to deliver working software"
+  ],
+  "use_cases": [
+    "Intelligent orchestration of physical world operations (mining, natural resources)",
+    "Real-time decision support for high-stakes industrial environments",
+    "Context retrieval and synthesis from fragmented enterprise data sources",
+    "Multi-step agentic workflows for complex enterprise tasks",
+    "Operational workflow automation and optimization"
+  ],
+  "tools_mentioned": [
+    "Backend Systems",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Agents",
+    "Claude API",
+    "CrewAI",
+    "Embeddings",
+    "Fine-tuning",
+    "LangGraph",
+    "LlamaIndex",
+    "LoRA",
+    "OpenAI API",
+    "PEFT",
+    "Prompt Engineering",
+    "QLoRA",
+    "RAG",
+    "Tool Calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying AI\nsystems including LLM-powered agents, RAG pipelines, and\nmodel optimization. The engineer will architect agentic\norchestration frameworks, implement RAG systems, work with\nfrontier models and fine-tuned models, and build production-\ngrade AI systems - all hands-on work ON AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LlamaIndex",
+      "CrewAI",
+      "RAG",
+      "Prompt Engineering",
+      "Tool Calling",
+      "Agents",
+      "OpenAI API",
+      "Claude API",
+      "PEFT",
+      "LoRA",
+      "QLoRA"
+    ],
+    "ml": [
+      "Fine-tuning",
+      "Embeddings"
+    ],
+    "web": [
+      "Backend Systems"
+    ],
+    "databases": [
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

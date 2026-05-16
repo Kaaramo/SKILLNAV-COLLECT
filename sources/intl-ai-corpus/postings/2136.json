@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-2136",
+  "source": "intl-ai-corpus",
+  "source_ref": "8774909",
+  "source_url": "https://builtin.com/job/sr-ai-engineer/8774909",
+  "title": "Sr. AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Automation Anywhere",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "6,564 Employees",
+  "company_stage": null,
+  "company_focus": "Agentic Process Automation (APA) with AI-powered automation,\nRPA, and specialized AI agents",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Robotics",
+    "Software"
+  ],
+  "description": "About Us\n\nAutomation Anywhere is the leader in Agentic Process\nAutomation (APA), transforming how work gets done with AI-\npowered automation. Its APA system, built on the industry’s\nfirst Process Reasoning Engine (PRE) and specialized AI\nagents, combines process discovery, RPA, end-to-end\norchestration, document processing, and analytics—all\ndelivered with enterprise-grade security and governance.\nGuided by its vision to fuel the future of work, Automation\nAnywhere helps organizations worldwide boost productivity,\naccelerate growth, and unleash human potential.\n\nJob Role : Senior AI Engineer\n\nExperience – 2-5 Years\n\nFull-Time · Bangalore · Hybrid\n\nEducation:\n\nBachelor's or Master's in CS, AI/ML, Data Science or\nequivalent\n\npractical experience\n\nEXPERIENCE\n\n2-5 years in software engineering; 2+ years building AI-\npowered or automation solutions in production\n\nEvidence of delivering complete, working solutions — not\njust experimental or prototype work\n\nCERTIFICATIONS  (PREFERRED)\n\nCloud AI certifications: AWS, Azure, or GCP\n\nRPA platform certifications: UiPath or Automation Anywhere\n\nSCOPE & GROWTH PATH\n\nImplements designs under Senior Engineer guidance\n\nGrows toward independent architecture ownership\n\nDevelops fine-tuning expertise as a growth area in role\n\nProgresses toward leading stakeholder discovery\nindependently\n\nRESPONSIBILITIES\n\nSKILLS:\n\nAGENTIC AI\n\nHands-on with LangChain/LangGraph, AutoGen, or CrewAICore\nagent patterns: tool use, memory, multi-step reasoning,\noutput validationLLM APIs (OpenAI, Anthropic, Gemini, or\nopen-source); structured prompt engineering\n\nRAG & VECTOR INFRASTRUCTURE\n\nEnd-to-end RAG pipelines: ingestion, chunking,\nembedding,retrieval evaluation\n\nFamiliarity with at least one vector database; ability to\ndiagnose & improve retrieval quality\n\nRPA\n\nHands-on with UiPath, Automation Anywhere, or Power\nAutomateBot workflows with exception handling, logging &\nintegration with agent layersENGINEERING\n\nStrong Python; cloud AI services; APIs, data pipelines &\nevent-driven systems\n\nNICE TO HAVE\n\nExposure to LoRA/QLoRA fine-tuning (growth area); agent\nobservability tooling (LangSmith, Arize)\n\n Responsibilities\n\nAGENT DEVELOPMENT & IMPLEMENTATION\n\nBuild and maintain multi-agent workflows from Solution\ndesigns document into production-ready\nimplementationsImplement tool integrations (APIs, ERP, CRM,\nITSM) with error handling & graceful degradation\n\nRAG & KNOWLEDGE SYSTEMS\n\nBuild end-to-end RAG pipelines: ingestion, chunking,\nembedding, vector store & retrieval evaluationMonitor and\nimprove retrieval quality; integrate RAG as knowledgebackend\nfor agents\n\nRPA & HYBRID AUTOMATION\n\nDevelop and maintain RPA task bots; implement AI agent ↔ RPA\nhandoff logicPRODUCTION & QUALITY\n\nWrite unit & integration tests; contribute to CI/CD\npipelines & prompt versioningMonitor deployed systems;\nparticipate in incident response for agent failure modes\n\nCOLLABORATION & GROWTH\n\nWork closely with Senior Engineers, taking increasing\nownership of components over timeParticipate in stakeholder\nuse-case discovery; document pipelines & agent\nconfigurations clearly\n\nAll unsolicited resumes submitted to any\n@automationanywhere.com email address, whether submitted by\nan individual or by an agency, will not be eligible for an\nagency fee.\n",
+  "skills_required": [
+    "Anthropic API",
+    "AutoGen",
+    "Automation Anywhere",
+    "CrewAI",
+    "Google Gemini API",
+    "LangChain",
+    "LangGraph",
+    "LoRA",
+    "OpenAI API",
+    "Power Automate",
+    "Prompt Engineering",
+    "QLoRA",
+    "RAG",
+    "UiPath"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain multi-agent workflows from solution design documents into production-ready implementations",
+    "Implement tool integrations with APIs, ERP, CRM, and ITSM systems with error handling and graceful degradation",
+    "Build end-to-end RAG pipelines including ingestion, chunking, embedding, vector store setup, and retrieval evaluation",
+    "Monitor and improve retrieval quality and integrate RAG as knowledge backend for agents",
+    "Develop and maintain RPA task bots and implement AI agent to RPA handoff logic",
+    "Write unit and integration tests, contribute to CI/CD pipelines and prompt versioning",
+    "Monitor deployed systems and participate in incident response for agent failure modes",
+    "Participate in stakeholder use-case discovery and document pipelines and agent configurations"
+  ],
+  "use_cases": [
+    "Enterprise process automation using AI agents",
+    "Agentic Process Automation (APA) for workflow orchestration",
+    "Document processing and knowledge retrieval via RAG",
+    "Hybrid RPA and AI agent automation workflows",
+    "Business process discovery and automation"
+  ],
+  "tools_mentioned": [
+    "AWS AI Services",
+    "Arize",
+    "Azure AI Services",
+    "CI/CD",
+    "GCP AI Services",
+    "LangSmith",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "AutoGen",
+    "CrewAI",
+    "Google Gemini API",
+    "LangChain",
+    "LangGraph",
+    "LoRA",
+    "OpenAI API",
+    "Prompt Engineering",
+    "QLoRA",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building and deploying AI\nsystems including multi-agent workflows using\nLangChain/LangGraph, AutoGen, or CrewAI, implementing RAG\npipelines, and working with LLM APIs. The position requires\nbuilding production-ready AI implementations, not just\nsupporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "AutoGen",
+      "CrewAI",
+      "OpenAI API",
+      "Anthropic API",
+      "Google Gemini API",
+      "Prompt Engineering",
+      "RAG",
+      "LoRA",
+      "QLoRA"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS AI Services",
+      "Azure AI Services",
+      "GCP AI Services"
+    ],
+    "ops": [
+      "LangSmith",
+      "Arize",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "UiPath",
+      "Automation Anywhere",
+      "Power Automate"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

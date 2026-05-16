@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-0460",
+  "source": "intl-ai-corpus",
+  "source_ref": "8060180",
+  "source_url": "https://builtin.com/job/senior-software-engineer-backend-ai-platform/8060180",
+  "title": "Staff Software Engineer, Backend (AI Platform)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cresta",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "112 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered contact center intelligence platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Other",
+    "Sales",
+    "Software"
+  ],
+  "description": "Cresta is on a mission to turn every customer conversation\ninto a competitive advantage by unlocking the true potential\nof the contact center. Our platform combines the best of AI\nand human intelligence to help contact centers discover\ncustomer insights and behavioral best practices, automate\nconversations and inefficient processes, and empower every\nteam member to work smarter and faster. Born from the\nprestigious Stanford AI lab, Cresta's co-founder and\nchairman is Sebastian Thrun, the genius behind Google X,\nWaymo, Udacity, and more. Our leadership also includes CEO,\nPing Wu, the co-founder of Google Contact Center AI and\nVertex AI platform, and co-founder, Tim Shi, an early member\nof Open AI.\n\nJoin us on this thrilling journey to revolutionize the\nworkforce with AI. The future of work is here, and it's at\nCresta.\n\nAbout the role:\n\n- Own model serving: Design, build, and maintain low-latency,\n  highly-available serving stacks for in-house ML model\n  serving and integrating with LLM serving partners.\n- Automate training pipelines: Orchestrate data prep,\n  training, evaluation, and registry workflows on Kubernetes\n  with solid MLOps practices.\n- Optimize at scale: Profile and tune throughput, memory, and\n  cost; introduce caching, sharding, batching, and GPU/CPU\n  autoscaling where it pays off.\n- Build platform primitives: Create reusable SDKs, templates,\n  and CLI tools that let research and product teams ship\n  models independently and safely.\n- Raise the bar: Instrument deep observability (tracing,\n  metrics, alerts), drive blameless post-mortems, and mentor\n  engineers on production ML best practices.\n\nWhat we’re looking for\n\n- 5+ years writing production software; 2+ years focused on ML\n  platform or infra.\n- Expert Python (async, typing, packaging, performance).\n- Working Golang knowledge for systems components.\n- Proven experience with one or more serving frameworks (e.g.,\n  vLLM, Triton, TorchServe).\n- Kubernetes and cloud-native ops.\n- Solid grasp of distributed systems, networking, and\n  container security.\n- Culture of rigorous testing, code review, and continuous\n  delivery.\n\nNice-to-haves\n\n- Hands-on with large language models or real-time streaming\n  inference.\n- Terraform, Helm, or similar IaC tooling.\n- Experience in speech or conversational AI domains.\n\nPerks & Benefits:\n\nWe offer a comprehensive and people-first benefits package\nto support you at work and in life:\n\n- Comprehensive medical, dental, and vision coverage with\n  plans to fit you and your family\n- Flexible PTO to take the time you need, when you need it\n- Paid parental leave for all new parents welcoming a new\n  child\n- Retirement savings plan to help you plan for the future\n- Remote work setup budget to help you create a productive\n  home office\n- Monthly wellness and communication stipend to keep you\n  connected and balanced\n- In-office meal program and commuter benefits provided for\n  onsite employees\n\nCompensation at Cresta\n\nCresta’s approach to compensation is simple: recognize\nimpact, reward excellence, and invest in our people. We\noffer competitive, location-based pay that reflects the\nmarket and what each individual brings to the table.\n\nThe posted base salary range represents what we expect to\npay for this role in a given location. Final offers are\nshaped by factors like experience, skills, education, and\ngeography. In addition to base pay, total compensation\nincludes equity and a comprehensive benefits package for you\nand your family.\n\nWe have noticed a rise in recruiting impersonations across\nthe industry, where scammers attempt to access candidates'\npersonal and financial information through fake interviews\nand offers. All Cresta recruiting email communications will\nalways come from the @cresta.ai domain. Any outreach\nclaiming to be from Cresta via other sources should be\nignored.  If you are uncertain whether you have been\ncontacted by an official Cresta employee, reach out to\nrecruiting@cresta.ai\n",
+  "skills_required": [
+    "LLM",
+    "distributed systems",
+    "networking"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain low-latency, highly-available serving stacks for in-house ML model serving and LLM integration",
+    "Orchestrate data prep, training, evaluation, and registry workflows on Kubernetes with MLOps practices",
+    "Profile and tune throughput, memory, and cost; introduce caching, sharding, batching, and GPU/CPU autoscaling",
+    "Create reusable SDKs, templates, and CLI tools enabling research and product teams to ship models independently and safely",
+    "Implement deep observability including tracing, metrics, alerts, and drive blameless post-mortems",
+    "Mentor engineers on production ML best practices and maintain culture of rigorous testing and continuous delivery"
+  ],
+  "use_cases": [
+    "Contact center conversation analysis and customer insights discovery",
+    "Behavioral best practices identification and training for contact center teams",
+    "Automating conversations and inefficient contact center processes",
+    "Real-time AI assistance for contact center agents to improve performance",
+    "Large language model integration for customer conversation understanding and response"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "Helm",
+    "Kubernetes",
+    "MLOps",
+    "MLflow",
+    "Terraform",
+    "TorchServe",
+    "Triton",
+    "container security",
+    "real-time streaming inference",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "LLM"
+  ],
+  "languages_programming": [
+    "Golang",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a platform engineering role that builds and\nmaintains infrastructure (model serving stacks, training\npipelines, Kubernetes orchestration) to enable ML/AI work\nrather than building or fine-tuning models directly. The\nrole focuses on MLOps, observability, and creating platform\nprimitives for research/product teams to ship models\nindependently.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "vLLM",
+      "Triton",
+      "TorchServe",
+      "Terraform",
+      "Helm",
+      "Docker",
+      "MLflow",
+      "real-time streaming inference",
+      "container security",
+      "MLOps",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "Golang"
+    ],
+    "domains": [
+      "conversational AI",
+      "speech AI"
+    ],
+    "other": [
+      "distributed systems",
+      "networking"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,160 @@
+{
+  "job_id": "intl-ai-corpus-1770",
+  "source": "intl-ai-corpus",
+  "source_ref": "4433622",
+  "source_url": "https://www.builtinla.com/job/sr-data-engineer-poland/4433622",
+  "title": "Sr. Data Engineer (AI Platform - Poland)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Craft.co",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-13",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B",
+  "company_focus": "Supplier risk intelligence platform using AI agents and\nproprietary data",
+  "industries": [
+    "Big Data",
+    "Machine Learning",
+    "Software",
+    "Database",
+    "Analytics",
+    "Generative AI",
+    "Big Data Analytics"
+  ],
+  "description": "About Craft:\n\nCraft is the leader in supplier risk intelligence, enabling\nenterprises to discover, evaluate, and continuously monitor\ntheir suppliers at scale. Our AI research and monitoring\nagents deliver real, actionable intelligence, by operating\non top of our unique, proprietary data platform - this helps\nour customers make better, more informed decisions for their\nbusiness, faster and strategically secure critical supply\nchains from risk. Our customers include Fortune 500\ncompanies, government agencies, and global service\nplatforms. We’ve developed distribution partnerships with\nsome of the largest integrators and software platforms\nglobally.\n\nWe are a post-Series B high-growth technology company backed\nby top-tier investors in Silicon Valley and Europe,\nheadquartered in San Francisco. We support remote and hybrid\nwork, with team members across North America and Europe.\n\nWe are looking for innovative and driven people passionate\nabout building the future of Enterprise Intelligence to join\nour growing team!\n\nAbout the Role:\n\nWe’re growing quickly and looking to hire several senior-\nlevel data engineers for multiple teams. Each team is\nresponsible for a key product within the organization. As a\ncore member of the team, you will have great say in how\nsolutions are engineered and delivered. Craft gives\nengineers a lot of responsibility and authority, which is\nmatched by our investment in their growth and development.\n\nOur data engineers carry a lot of software engineering\nresponsibilities, so we're looking for engineers who have\nstrong Python coding experience, Pandas expertise, and solid\nsoftware engineering practices.\n\nWhat You'll Do:\n\n- Integrate large language models into production AI agent\n  workflows - building structured-output pipelines with\n  grounding, reference resolution, and evidence\n  traceability.\n- Design and evolve APIs that serve risk Intelligence data to\n  customers and external integrations.\n- Build and maintain data ingestion pipelines - owning the\n  full lifecycle from extraction through loading and error\n  handling.\n- Own reliability of async task processing systems — health\n  monitoring, autoscaling, alerting, and incident response.\n- Build and maintain shared libraries and internal developer\n  tooling that accelerate the entire engineering team.\n- Manage full service lifecycle — from standing up new\n  services to decommissioning legacy ones.\n\nWho You Are:\n\n- 4+ years of experience in Data Engineering or Backend\n  Engineering with a strong data focus.\n- 4+ years of production Python experience - you write clean,\n  testable, well-structured code.\n- Experience designing and building APIs (preferably GraphQL\n  with Apollo Federation).\n- Experience in developing, maintaining, and ensuring the\n  reliability, scalability, fault tolerance, and\n  observability of data services in a production\n  environment.\n- Have fundamental knowledge of data engineering techniques:\n  ETL/ELT, batch and streaming, DWH, Data Lakes, distributed\n  processing.\n- Comfortable with async Python patterns (asyncio, Celery,\n  task queues).\n- Strong knowledge of SDLC and solid software engineering\n  practices.\n- Familiar with infrastructure-as-code approach.\n- Demonstrated curiosity through asking questions, digging\n  into new technologies, and always trying to grow.\n- Strong problem solving and the ability to communicate ideas\n  effectively.\n- Self-starter, independent, likes to take initiative.\n- Familiarity with at least some of the technologies in our\n  current stack:\n  - Core: Python, Pandas, Polars, Celery, SQL (PostgreSQL),\n    SQLAlchemy, Airflow, Docker, Kafka\n  - AI/ML: OpenAI, Anthropic, Google Vertex AI, Pydantic (v2),\n    Pydantic AI, MLflow\n  - APIs: GraphQL (Strawberry)\n  - AWS: S3, Batch, RDS, DynamoDB, ECS, SQS, DMS, Lambda\n  - Infra & Ops: Terraform, Datadog\n- Experience with or strong interest in AI-native development\n  workflows (we use Claude Code as a core part of how we\n  build software - from building internal tooling skills to\n  debugging production issues.\n\nWhat We Offer:\n\n- Option to work as a B2B contractor or full-time employee\n- Competitive salary at a well-funded, fast-growing startup\n- PTO days so you can take the time you need to refresh!\n  - Full-time employees: 28 PTO days allotted + paid public\n    holidays\n  - B2B contractors: 15 PTO days allotted + paid public holidays\n- 100% remote work (or hybrid if you prefer! We have coworking\n  space in center of Warsaw.)\n\nA Note to Candidates:\n\nWe are an equal opportunity employer who values and\nencourages diversity, equity and belonging at our company.\nWe do not discriminate on the basis of race, religion,\ncolor, national origin, gender, sexual orientation, age,\nmarital status, veteran status, caste, or disability status.\n\nDon’t meet every requirement? Studies have shown that women,\ncommunities of color and historically underrepresented\ntalent are less likely to apply to jobs unless they meet\nevery single qualification. At Craft, we are dedicated to\nbuilding a diverse, inclusive and authentic workplace, so if\nyou’re excited about this role but your past experience\ndoesn’t align perfectly with every qualification in the job\ndescription, we strongly encourage you to apply. You may be\njust the right candidate for this or other roles!\n\n#BI-Remote\n",
+  "skills_required": [
+    "AI agents",
+    "Anthropic API",
+    "Google Vertex AI",
+    "LLM integration",
+    "OpenAI API",
+    "Pydantic AI"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Integrate large language models into production AI agent workflows with structured-output pipelines, grounding, reference resolution, and evidence traceability",
+    "Design and evolve APIs that serve risk intelligence data to customers and external integrations",
+    "Build and maintain data ingestion pipelines owning the full lifecycle from extraction through loading and error handling",
+    "Own reliability of async task processing systems including health monitoring, autoscaling, alerting, and incident response",
+    "Build and maintain shared libraries and internal developer tooling that accelerate the engineering team",
+    "Manage full service lifecycle from standing up new services to decommissioning legacy ones"
+  ],
+  "use_cases": [
+    "Supplier risk intelligence and monitoring for enterprises",
+    "Real-time supplier discovery, evaluation, and continuous monitoring at scale",
+    "AI-powered research and monitoring agents for actionable intelligence",
+    "Supply chain security and risk mitigation for Fortune 500 companies and government agencies"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Batch",
+    "AWS DynamoDB",
+    "AWS ECS",
+    "AWS Lambda",
+    "AWS RDS",
+    "AWS S3",
+    "AWS SQS",
+    "Airflow",
+    "Celery",
+    "Datadog",
+    "Docker",
+    "ETL/ELT",
+    "GraphQL",
+    "Kafka",
+    "MLflow",
+    "Pandas",
+    "Polars",
+    "PostgreSQL",
+    "SQLAlchemy",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Anthropic API",
+    "Google Vertex AI",
+    "LLM integration",
+    "OpenAI API",
+    "Pydantic AI"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "asyncio"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly integrating LLMs into production\nAI agent workflows, building structured-output pipelines\nwith grounding and evidence traceability. The position\nrequires hands-on work with OpenAI, Anthropic, and Vertex AI\nAPIs to build and deploy AI agent systems, which constitutes\nbuilding/deploying AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "Google Vertex AI",
+      "Pydantic AI",
+      "LLM integration",
+      "AI agents"
+    ],
+    "ml": [],
+    "web": [
+      "GraphQL"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "SQLAlchemy"
+    ],
+    "data": [
+      "Pandas",
+      "Polars",
+      "Airflow",
+      "Celery",
+      "Kafka",
+      "ETL/ELT"
+    ],
+    "cloud": [
+      "AWS",
+      "AWS S3",
+      "AWS Batch",
+      "AWS RDS",
+      "AWS DynamoDB",
+      "AWS ECS",
+      "AWS SQS",
+      "AWS Lambda"
+    ],
+    "ops": [
+      "MLflow",
+      "Docker",
+      "Terraform",
+      "Datadog"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "asyncio"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

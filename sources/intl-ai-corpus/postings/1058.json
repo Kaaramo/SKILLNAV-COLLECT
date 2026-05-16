@@ -1,0 +1,162 @@
+{
+  "job_id": "intl-ai-corpus-1058",
+  "source": "intl-ai-corpus",
+  "source_ref": "8082246",
+  "source_url": "https://builtin.com/job/full-stack-ai-engineer-prompt-engineering-agentic-systems-python-azure/8082246",
+  "title": "Full-Stack AI Engineer (Prompt Engineering & Agentic Systems) Python, Azure",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cyderes (cyderes.com)",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-14",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "882 Employees",
+  "company_stage": null,
+  "company_focus": "Cybersecurity IAM, exposure management, and MDR augmented by\nAI",
+  "industries": [
+    "Security",
+    "Cybersecurity"
+  ],
+  "description": "We help the world Be Everyday Ready™\n\nToday’s threatscape is relentless. So are we. At Cyderes, we\nspecialize in building practical IAM, exposure management,\nand risk programs, and stopping active threats fast with MDR\nthat works with your existing security tools — all augmented\nby AI and driven by seasoned operators. Our tireless global\nteam is laser-focused on cybersecurity, arming organizations\nwith the people, platforms, and perspectives they need to\nconquer whatever tomorrow throws their way.\n\nRole Summary\n\nWe are hiring a Full-Stack AI Engineer to design, build, and\noperate production-grade agentic AI systems. The role\nfocuses on prompt engineering, PromptOps, Python backend\nservices, Azure-native cloud architecture, and full-stack\ndelivery of reliable AI workflows at scale.\n\nResponsibilities\n\n- Design, test, and optimize enterprise-grade prompts, system\n  instructions, schemas, and agent workflows.\n- Build multi-step agentic pipelines, self-refining loops, and\n  deterministic fallback logic.\n- Implement PromptOps: versioning, evaluations, regression\n  testing, hallucination mitigation, token optimization, and\n  governance.\n- Build RAG pipelines, vector search, memory layers, and\n  grounding strategies.\n- Build and maintain Python-based microservices (FastAPI,\n  async patterns, REST APIs).\n- Deliver full-stack AI applications (React, TypeScript) used\n  by analysts for multi-turn AI interactions.\n- Manage GitHub, CI/CD, testing, branching, and release\n  automation.\n- Integrate AI services via serverless, containerized, and\n  event-driven architectures.\n- Deploy AI workloads on Azure App Services, Functions, AKS,\n  Logic Apps, Event Grid.\n- Implement IaC using Azure Bicep / ARM.\n- Enforce security, RBAC, Key Vault, secrets management, and\n  runtime policies.\n- Optimize cost, performance, observability, and reliability.\n- Build and maintain embeddings, feature pipelines, telemetry,\n  and drift detection.\n- Perform data analysis and experimentation using KQL and\n  Splunk SPL.\n- Support model selection, fine-tuning strategies, safety\n  constraints, and evaluation frameworks.\n- Translate ambiguous business needs into measurable AI\n  workflows.\n- Partner with security, engineering, and product teams.\n- Produce clear documentation (architecture, prompts,\n  runbooks).\n- Act as an internal SME for agentic systems and modern AI\n  development patterns.\n\nRequired Skills\n\n- Advanced prompt engineering (Gemini, GPT, Claude; multi-\n  model systems).\n- Strong Python, FastAPI, async programming.\n- Deep experience with Azure cloud services and serverless\n  patterns.\n- Hands-on RAG and vector databases (Azure Search, Pinecone,\n  FAISS, etc.).\n- Agent frameworks (LangChain, LlamaIndex, AutoGen, or\n  custom).\n- Frontend experience with React + TypeScript.\n- Strong CI/CD, GitHub Actions, and DevOps practices.\n- Multi-agent or autonomous systems experience.\n- AI in security operations or automation.\n- Azure / ML Ops certifications.\n- SOC2 / ISO / AI governance exposure.\n- Open-source or AI tooling contributions.\n\nCyderes is an Equal Opportunity Employer (EOE). Qualified\napplicants are considered for employment without regard to\nrace, religion, color, sex, age, disability, sexual\norientation, genetic information, national origin, or\nveteran status.\n\nNote: This job posting is intended for direct applicants\nonly. We request that outside recruiters do not contact us\nregarding this position.\n",
+  "skills_required": [
+    "AutoGen",
+    "LangChain",
+    "LlamaIndex",
+    "Multi-agent Systems",
+    "Prompt Engineering",
+    "PromptOps",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, test, and optimize enterprise-grade prompts, system instructions, schemas, and agent workflows",
+    "Build multi-step agentic pipelines, self-refining loops, and deterministic fallback logic",
+    "Implement PromptOps including versioning, evaluations, regression testing, hallucination mitigation, and token optimization",
+    "Build RAG pipelines, vector search, memory layers, and grounding strategies",
+    "Build and maintain Python-based microservices using FastAPI with async patterns and REST APIs",
+    "Deliver full-stack AI applications using React and TypeScript for multi-turn AI interactions",
+    "Deploy AI workloads on Azure App Services, Functions, AKS, Logic Apps, and Event Grid",
+    "Support model selection, fine-tuning strategies, safety constraints, and evaluation frameworks"
+  ],
+  "use_cases": [
+    "Agentic AI systems for cybersecurity operations",
+    "RAG-powered enterprise search and knowledge retrieval",
+    "Multi-turn AI interactions for security analysts",
+    "Automated threat detection and response workflows",
+    "AI-augmented security operations and automation"
+  ],
+  "tools_mentioned": [
+    "AKS",
+    "ARM",
+    "Azure",
+    "Azure App Services",
+    "Azure Bicep",
+    "Azure Functions",
+    "Azure Search",
+    "CI/CD",
+    "Docker",
+    "Event Grid",
+    "FAISS",
+    "FastAPI",
+    "GitHub Actions",
+    "KQL",
+    "Key Vault",
+    "Logic Apps",
+    "Pinecone",
+    "RBAC",
+    "REST APIs",
+    "React",
+    "Splunk SPL",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "LangChain",
+    "LlamaIndex",
+    "Multi-agent Systems",
+    "Prompt Engineering",
+    "PromptOps",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript",
+    "async"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on AI engineering focused on building,\ndeploying, and optimizing agentic AI systems, RAG pipelines,\nand multi-agent workflows. The engineer works directly with\nprompt engineering, agent frameworks, model fine-tuning, and\nAI service integration rather than just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt Engineering",
+      "PromptOps",
+      "RAG",
+      "LangChain",
+      "LlamaIndex",
+      "AutoGen",
+      "Multi-agent Systems"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "React",
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector Databases",
+      "Azure Search",
+      "Pinecone",
+      "FAISS"
+    ],
+    "data": [
+      "KQL",
+      "Splunk SPL"
+    ],
+    "cloud": [
+      "Azure",
+      "Azure App Services",
+      "Azure Functions",
+      "AKS",
+      "Logic Apps",
+      "Event Grid",
+      "Key Vault"
+    ],
+    "ops": [
+      "Azure Bicep",
+      "ARM",
+      "CI/CD",
+      "GitHub Actions",
+      "Docker",
+      "RBAC"
+    ],
+    "languages": [
+      "Python",
+      "async",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

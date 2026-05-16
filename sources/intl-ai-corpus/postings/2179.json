@@ -1,0 +1,149 @@
+{
+  "job_id": "intl-ai-corpus-2179",
+  "source": "intl-ai-corpus",
+  "source_ref": "8789668",
+  "source_url": "https://www.builtinla.com/job/ai-knowledge-data-engineer-europe/8789668",
+  "title": "AI Knowledge Data Engineer (Europe)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "iBusiness Funding",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-18",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Unknown",
+  "company_focus": "Financial technology company providing AI, automation, and\nsoftware infrastructure for banks, credit unions, and\nlenders",
+  "industries": [],
+  "description": "About iBusiness\n\niBusiness is a leading financial technology company\ntransforming the way banks, credit unions, and lenders\ninnovate. As a pioneer in secure AI, automation, and AI\nsoftware development, iBusiness builds infrastructure and\nplatforms that empower financial institutions to modernize\nfaster—without sacrificing compliance or security. Its\ntechnology enables seamless digital transformation across\nlending, banking, and customer experience systems, giving\ninstitutions the tools to compete and innovate at enterprise\nscale.\n\nJoin us and be part of a team that’s transforming the\nfinance industry and empowering businesses to thrive!\n\nPosition Description\n\nWe are seeking an experienced expert AI Knowledge Data\nEngineer to design, implement, and scale state-of-the-art AI\nsystems that combine large language models (LLMs), advanced\nretrieval techniques, cognitive memory architectures,\nincluding knowledge representation, and data fusion. In this\nrole, you will orchestrate robust data pipelines, architect\nscalable training data solutions, and build the foundational\nknowledge bases that power next-generation AI agents. You\nwill collaborate with cross-functional teams to ensure our\nsystems efficiently retrieve, contextualize, and generate\naccurate information for diverse business applications.\n\nMajor Areas of Responsibility\n\n- Architect, implement, and optimize retrieval-augmented\n  generation (RAG) workflows by integrating local LLMs\n  (e.g., Llama) with retrieval mechanisms (vector search,\n  Elasticsearch, FAISS, Weaviate).\n- Design, build, and maintain scalable data pipelines for\n  ingesting, transforming, indexing, and retrieving\n  structured and unstructured data from diverse sources.\n- Design, build, and scale addressable services and tools\n  specifications that can be leveraged by LLMs and Agents to\n  orchestrate workflows.\n- Orchestrate and scale training data operations, including\n  data curation, versioning, and lineage tracking for large-\n  scale LLM training and fine-tuning.\n- Develop and maintain ontologies, knowledge graphs, and\n  semantic data models to structure and integrate domain-\n  specific knowledge for improved retrieval and reasoning.\n- Implement and optimize knowledge retrieval strategies\n  (dense/sparse retrieval, ranking algorithms) to maximize\n  system accuracy and relevance.\n- Aggregate disparate knowledge bases and heterogeneous data\n  into a fused approach for access to relevant contextual\n  information.\n- Design cognitive memory systems for AI agents, enabling\n  persistent knowledge retention and contextual awareness\n  across interactions.\n- Collaborate with AI researchers, data scientists, and\n  engineers to align knowledge architecture with business\n  objectives and ensure data quality.\n- Evaluate and integrate new technologies and research\n  advancements in LLMs, RAG, information retrieval, and\n  knowledge representation.\n- Maintain clear and comprehensive documentation of models,\n  pipelines, and workflows.\n\nRequired Knowledge, Skills, and Abilities\n\n- Bachelor’s or Master’s degree in Computer Science, Data\n  Science, Machine Learning, or a related field.\n- Proven experience designing and scaling data pipelines and\n  training data workflows for LLMs or similar AI systems.\n- Strong background in information retrieval systems, vector\n  search technologies, and RAG frameworks (e.g., FAISS,\n  Pinecone, Elasticsearch, Milvus).\n- Proficiency in programming (Python) and machine learning\n  libraries (TensorFlow, PyTorch).\n- Experience with ontologies, knowledge graphs, and semantic\n  technologies (RDF, OWL, SPARQL).\n- Familiarity with distributed data processing and\n  orchestration tools (e.g., Spark, Airflow, Kubeflow).\n- Excellent analytical, problem-solving, and communication\n  skills.\n- Ability to work collaboratively in a cross-functional, fast-\n  paced environment.\n\nNice To Haves\n\n- Experience with LLM fine-tuning, prompt engineering, and RAG\n  optimization.\n- Familiarity with data-centric AI principles and training\n  data quality assessment.\n- Experience with cloud platforms and scalable storage\n  solutions.\n- Background in cognitive memory architectures or AI agent\n  design.\n\nThe anticipated salary range for this position is $180,000 -\n$240,000 annually, depending on experience and\nqualifications. iBusiness Funding provides a comprehensive\nbenefits package, including medical, dental, and vision\ncoverage; 401(k) with company match, and paid time off.\n\nConclusion:\n\nThis job description is intended to convey information\nessential to understanding the scope of the job and the\ngeneral nature and level of work performed by job holders\nwithin this job. This job description is not intended to be\nan exhaustive list of qualifications, skills, efforts,\nduties, responsibilities, or working conditions associated\nwith the position.\n\n\n\nThe company is an equal opportunity employer and will\nconsider all applications without regard to race, sex, age,\ncolor, religion, national origin, veteran status,\ndisability, genetic information, or any other characteristic\nprotected by law.\n",
+  "skills_required": [
+    "AI agents",
+    "LLM fine-tuning",
+    "LLMs",
+    "Llama",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "Vector search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect, implement, and optimize RAG workflows by integrating local LLMs with retrieval mechanisms",
+    "Design, build, and maintain scalable data pipelines for ingesting, transforming, indexing, and retrieving data",
+    "Design and scale addressable services and tools for LLMs and Agents to orchestrate workflows",
+    "Orchestrate and scale training data operations including data curation, versioning, and lineage tracking for LLM training and fine-tuning",
+    "Develop and maintain ontologies, knowledge graphs, and semantic data models",
+    "Implement and optimize knowledge retrieval strategies including dense/sparse retrieval and ranking algorithms",
+    "Design cognitive memory systems for AI agents enabling persistent knowledge retention",
+    "Evaluate and integrate new technologies in LLMs, RAG, information retrieval, and knowledge representation"
+  ],
+  "use_cases": [
+    "Financial technology infrastructure for banks, credit unions, and lenders",
+    "Enterprise knowledge retrieval and contextual information access",
+    "AI agent systems with persistent memory and contextual awareness",
+    "Retrieval-augmented generation for diverse business applications",
+    "Domain-specific knowledge integration and reasoning"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "Data pipelines",
+    "Distributed data processing",
+    "Elasticsearch",
+    "FAISS",
+    "Information retrieval",
+    "Knowledge graphs",
+    "Kubeflow",
+    "Milvus",
+    "OWL",
+    "Ontologies",
+    "Pinecone",
+    "RDF",
+    "SPARQL",
+    "Spark",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "LLM fine-tuning",
+    "LLMs",
+    "Llama",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "Vector search"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying AI\nsystems, specifically RAG workflows with LLMs, knowledge\ngraphs, cognitive memory architectures, and training data\noperations for LLM fine-tuning. The position requires\ndirectly implementing retrieval mechanisms, optimizing LLM\nsystems, and designing AI agent memory systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLMs",
+      "Llama",
+      "Prompt engineering",
+      "Vector search",
+      "AI agents"
+    ],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "LLM fine-tuning"
+    ],
+    "web": [],
+    "databases": [
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "Elasticsearch"
+    ],
+    "data": [
+      "Knowledge graphs",
+      "Ontologies",
+      "RDF",
+      "OWL",
+      "SPARQL",
+      "Spark",
+      "Airflow",
+      "Data pipelines",
+      "Distributed data processing",
+      "Information retrieval"
+    ],
+    "cloud": [],
+    "ops": [
+      "Kubeflow"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

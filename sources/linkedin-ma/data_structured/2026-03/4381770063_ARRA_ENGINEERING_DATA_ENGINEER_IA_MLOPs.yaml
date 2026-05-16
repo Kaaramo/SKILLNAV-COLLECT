@@ -1,0 +1,38 @@
+company:
+  name: ARRA-ENGINEERING
+  stage: null
+  focus: null
+position:
+  title: DATA ENGINEER – IA / MLOPs
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai:
+    - embeddings
+    - genai
+    - llmops
+    - rag
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud:
+    - aws
+    ops:
+    - ci/cd
+    - kubernetes
+    languages:
+    - python
+    domains:
+    - nlp
+    other:
+    - MLOps
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4381770063'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

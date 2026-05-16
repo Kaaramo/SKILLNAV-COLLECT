@@ -1,0 +1,166 @@
+{
+  "job_id": "intl-ai-corpus-2102",
+  "source": "intl-ai-corpus",
+  "source_ref": "8757216",
+  "source_url": "https://www.builtinla.com/job/ai-automation-engineer/8757216",
+  "title": "AI Automation Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Bestow",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-14",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B+ (backed by Goldman Sachs, NEA, Valar, 8VC)",
+  "company_focus": "Vertical technology platform for life insurance carriers\nwith AI and automation",
+  "industries": [
+    "Big Data",
+    "Fintech",
+    "Information Technology",
+    "Insurance",
+    "Software"
+  ],
+  "description": "ABOUT BESTOW\n\nLife insurance is one of the world's most important\nproducts. It's also one of the hardest to build, distribute,\nand modernize. Bestow exists to change that.\n\nBestow is a leading vertical technology platform serving\nsome of the largest and most innovative life insurers. Our\nplatform unifies the fragmented, legacy value chain,\nenabling carriers to launch products in weeks instead of\nyears. Carriers choose us to scale and operate at\nunprecedented speed, powered by AI and automation.\n\nBestow isn't selling policies. We're building the\ninfrastructure that helps an entire industry move faster,\nreach more people, and deliver on its promise.\n\nBacked by leading investors (Goldman Sachs, Hedosophia, NEA,\nValar, 8VC) and trusted by major carriers, Bestow is powered\nby a team that moves with precision, purpose, and heart. If\nyou want to help reimagine a centuries-old industry with\nlasting impact, join us.\n\nBestow offers flexible remote/hybrid work, meaningful\nbenefits, equity, and substantial growth opportunities.\n\nBestow participates in the E-Verify Program.\n\nABOUT THE TEAM\n\nThe AI Automation team is Bestow's internal function\ndedicated to how the business operates. We embed AI into the\nworkflows of engineering, product, sales, legal, finance,\nand other parts of the business to eliminate process\nfriction and drive measurable efficiency gains. We work\ncross-functionally to identify high-friction processes,\nrapidly prototype LLM-powered solutions, and harden them\ninto production-grade systems that drive measurable business\nimpact. The team partners closely with business operations,\ndata science, data engineering, and product teams to\ntranslate research and operational intelligence into tools\nthat achieve organic adoption. You'll be expected to move\nfast, build pragmatically, and treat AI not just as a\ntechnology but as a lever for redesigning how work gets done\nacross the organization.\n\nWHAT YOU'LL DO\n\nAs an AI Automation Engineer, you will identify, build, and\nscale AI-powered automation across Bestow's internal\noperations, serving as a catalyst for practical innovation\nthat frees teams to focus on strategic and creative work.\n\nBuild & Scale\n\n- Rapidly prototype MVPs using LLM APIs (Gemini, Anthropic),\n  agent frameworks, and workflow orchestration platforms\n  (n8n, Zapier, Make) to address business bottlenecks\n- Develop production-grade internal applications with reliable\n  frontends, robust backends (Python), and proper\n  observability\n- Design and implement RAG architectures, multi-step agent\n  workflows, and structured output pipelines grounded in\n  company data\n- Build automated evaluation frameworks (evals) to ensure the\n  reliability, accuracy, and safety of AI-generated outputs\n- Use AI tooling to accelerate your own development process,\n  supervising AI's architectural choices and debugging where\n  it falls short\n\nScale & Harden\n\n- Evolve successful prototypes into durable production systems\n  with comprehensive error handling, logging, retry logic,\n  and monitoring\n- Research and propose solutions that handle sensitive and\n  business-critical data with appropriate security controls\n  (PII handling, SOC2 awareness, HIPAA considerations,\n  human-in-the-loop safeguards)\n- Optimize for cost, latency, and token efficiency across LLM-\n  powered workflows\n- Design resilient systems with comprehensive monitoring and\n  alerting that contribute to overall automation governance\n\nAdvocate and Influence\n\n- Communicate complex technical concepts to non-technical\n  stakeholders, building alignment and driving informed\n  decision-making\n\n- Host workshops, create playbooks, and train team members\n  across all departments, ensuring they can safely and\n  effectively use, maintain, and get value from the tools\n  you ship.\n- Document automation patterns and best practices to ensure\n  long-term maintainability of processes with increasing\n  criticality.\n\n- Champion responsible AI practices across the organization,\n  ensuring the automations you build include appropriate\n  human oversight, observability, and safeguards, especially\n  for business-critical or sensitive data workflows.\n\nWHO YOU ARE\n\n- You are a hands-on engineer who is highly collaborative\n  across the company, writes production code, owns systems\n  in production, and is accountable for the reliability of\n  what you ship.\n- Proven track record of shipping tools or automations that\n  achieved real adoption, not just demos.\n- Strong cross-functional communicator who is comfortable\n  interviewing a sales rep, ops manager, or legal\n  coordinator about their workflow and translating it into a\n  technical spec. You help bridge the gap between business\n  problems and engineering solutions.\n- High level of ownership and accountability, particularly\n  when building systems that handle sensitive or business-\n  critical data.\n- Ability to connect what you ship to measurable outcomes;\n  you’re comfortable working with business partners to\n  define success metrics and report on results.\n- Adaptability to learn new technologies and products as the\n  job demands\n\nRequirements\n\n- 5+ years of experience in full-stack development or software\n  engineering with strong skills in Python and\n  JavaScript/TypeScript.\n- 1+ years of hands-on experience building LLM-backed tools\n  involving prompt engineering, API integration, and\n  automated evaluations.\n- Demonstrated experience with at least one\n  orchestration/agent framework (LangChain, LangGraph,\n  CrewAI, AutoGen, or similar).\n- Familiarity with RAG architectures, including vector\n  databases (Pinecone, Weaviate, pgvector) and embedding\n  pipelines.\n- Experience with workflow and integration platforms (n8n,\n  Zapier, Make, Temporal, or Airflow).\n- Familiarity with cloud infrastructure on Google Cloud\n  Platform (GCP), including Cloud Run, Cloud Functions,\n  Vertex AI, Cloud Storage, and IAM, or comparable AWS or\n  Azure infrastructure and tooling.\n- Demonstrated experience with AI Coding assistants. AI tools\n  are heavily ingrained in Bestow culture.\n- Strong debugging skills; you can diagnose failures across\n  prompts, integrations, APIs, and business logic.\n- Knowledge of data security practices relevant to AI (PII\n  handling, HIPAA, SOC 2).\n- Experience with BigQuery and advanced SQL for data analysis\n  and pipeline integration\n- Experience building CI/CD pipelines using tools such as\n  Docker, CircleCI, git, etc.\n- Nice to have: Experience with LLM observability tools\n  (LangSmith, Helicone, Braintrust) and MLOps practices.\n- Nice to have: Background in insurance, fintech, or other\n  regulated industries.\n\nWhat Success Looks Like\n\nIn your first 90 days, you'll have shipped at least one\nmeaningful automation that saves a team measurable time.\nWithin six months, you'll have a portfolio of deployed\nsolutions across multiple functions and a reputation as the\nperson who makes things faster and easier.\n\nTOTAL REWARDS\n\nAt Bestow, we’re proud to be awarded for our team members,\ninnovative products, and culture. Our standard benefits\ninclude:\n\n- Competitive salary and equity based on role\n- Policies and managers that support work/life balance, like\n  our flexible paid time off and parental leave programs\n- 100% paid-premium option for medical, dental, and vision\n  insurance\n- Lifestyle stipend to support your physical, emotional, and\n  financial wellbeing\n- Flexible work-from-home policy and open to remote\n- Remote and WFH options, as well as a beautiful, state-of-\n  the-art office in Dallas’ Deep Ellum, for those who prefer\n  an office setting\n- Employee-led diversity, equity, and inclusion initiatives\n\nRecent Employer Awards include:\n\n- Best Place for Working Parents 2023 + 2024 + 2025\n- Great Place to Work Certified, 2022 + 2023 + 2024 + 2025\n- Built In Best Places to Work, 2022 + 2023 + 2025\n- Fortune’s Best Workplaces in Texas 2022 + 2023\n- Fortune’s Best Workplaces in Financial Services and\n  Insurance 2022 + 2023 + 2024\n\nWe value diversity at Bestow. The company will hire,\nrecruit, and promote regardless of race, color, religion,\nsex, sexual orientation, gender identity or expression,\nnational origin, pregnancy or maternity, veteran status, or\nany other status protected by applicable law. We understand\nthe importance of creating a safe and comfortable work\nenvironment and encourage individualism and authenticity in\nevery team member.\n\nThanks for considering a job at Bestow!\n",
+  "skills_required": [
+    "Agent frameworks",
+    "AutoGen",
+    "CrewAI",
+    "Embedding pipelines",
+    "LLM APIs (Gemini, Anthropic, OpenAI)",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "RAG architectures"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Rapidly prototype MVPs using LLM APIs, agent frameworks, and workflow orchestration platforms to address business bottlenecks",
+    "Design and implement RAG architectures, multi-step agent workflows, and structured output pipelines grounded in company data",
+    "Develop production-grade internal applications with reliable frontends, robust Python backends, and proper observability",
+    "Build automated evaluation frameworks (evals) to ensure reliability, accuracy, and safety of AI-generated outputs",
+    "Evolve successful prototypes into durable production systems with comprehensive error handling, logging, and monitoring",
+    "Optimize AI-powered workflows for cost, latency, and token efficiency",
+    "Host workshops and train team members across departments on using AI tools safely and effectively",
+    "Champion responsible AI practices with appropriate human oversight and safeguards for sensitive data workflows"
+  ],
+  "use_cases": [
+    "Internal business process automation across engineering, product, sales, legal, and finance teams",
+    "Workflow friction elimination through AI-powered automation",
+    "RAG-based knowledge retrieval grounded in company data",
+    "Multi-step agent workflows for complex business processes",
+    "Structured output pipelines for business operations"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "BigQuery",
+    "CI/CD",
+    "CircleCI",
+    "Docker",
+    "GCP (Cloud Run, Cloud Functions, Vertex AI)",
+    "Git",
+    "Helicone",
+    "LangSmith",
+    "Make",
+    "Pinecone",
+    "Temporal",
+    "Weaviate",
+    "Zapier",
+    "n8n",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "AutoGen",
+    "CrewAI",
+    "Embedding pipelines",
+    "LLM APIs (Gemini, Anthropic, OpenAI)",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "RAG architectures"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building of LLM-powered systems\nincluding RAG architectures, agent workflows, prompt\nengineering, and deploying AI solutions to production. The\nengineer works directly with LLM APIs, agent frameworks, and\nimplements AI automation - clearly building and deploying AI\nsystems, not just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs (Gemini, Anthropic, OpenAI)",
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "AutoGen",
+      "RAG architectures",
+      "Prompt engineering",
+      "Agent frameworks"
+    ],
+    "ml": [
+      "Embedding pipelines"
+    ],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "pgvector",
+      "BigQuery"
+    ],
+    "data": [
+      "n8n",
+      "Zapier",
+      "Make",
+      "Temporal",
+      "Airflow"
+    ],
+    "cloud": [
+      "GCP (Cloud Run, Cloud Functions, Vertex AI)",
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "CircleCI",
+      "CI/CD",
+      "LangSmith",
+      "Helicone",
+      "Git"
+    ],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

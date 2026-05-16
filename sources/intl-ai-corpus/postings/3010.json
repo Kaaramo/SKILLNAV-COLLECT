@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-3010",
+  "source": "intl-ai-corpus",
+  "source_ref": "9104158",
+  "source_url": "https://www.builtinla.com/job/senior-applied-ai-engineer/9104158",
+  "title": "Senior Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ascent.io",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-20",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Acquired",
+  "company_focus": "Data analytics and digital transformation for regulated\norganisations",
+  "industries": [
+    "Cloud",
+    "Software",
+    "Consulting"
+  ],
+  "description": "Please note: this role requires working in US time zones.\nAbout Us Ascent has recently been acquired by Acuity\nAnalytics.  This is both a significant milestone for us and\na tremendous opportunity for you.  Acuity Analytics is a\nbusiness with a strong global reputation, an impressive\nclient base and ambitious growth plans.  We deliver deep\ninsights and domain-led digital transformation to high-\ngrowth and heavily regulated organisations.  To our\ncustomers, we bring a partnership that provides the talent,\ntechnology and capability to enhance performance and\noperational efficiency. About the role You’ll work at the\nintersection of data science, data engineering, AI\nengineering, and operations, embedded closely with our DaaS\nDelivery Operations team and cross-functional stakeholders.\nYou’ll design and build the technical foundations that power\nour data products—developing data pipelines, quality\nsystems, evaluation frameworks, and ML-assisted solutions\nthat directly improve delivery outcomes and operational\nefficiency. This role is highly execution-focused and ideal\nfor someone who enjoys building end-to-end systems, solving\ncomplex data and ML problems in production environments, and\nworking closely with delivery teams to unblock work through\nstrong technical implementation. You should be comfortable\nowning solutions from design through deployment and\niteration, with minimal reliance on hand-offs. Skills and\nExperience required\n\n- 5+ years in data science, data engineering, or ML\n  engineering roles\n- Strong proficiency in Python and SQL\n- Hands-on experience with data tooling (pandas, Plotly,\n  Streamlit, Dash)\n- Practical experience working with LLMs and deploying ML\n  solutions in production environments\n- Experience integrating and working with APIs and technical\n  systems\n- Strong problem-solving skills with a bias toward\n  implementation and delivery\n- Excellent collaboration and communication skills in cross-\n  functional teams\n\nWhat you will do\n\nData Systems & Delivery Engineering\n\n- Build and maintain scalable data pipelines and\n  transformation workflows\n- Implement data quality checks, validation frameworks, and\n  monitoring systems\n- Design and operationalize evaluation frameworks for datasets\n  and ML outputs\n- Package and deliver production-ready datasets with clear\n  documentation and QA standards\n\nML & AI Enablement\n\n- Develop ML-assisted tools and workflows to improve data\n  processing and delivery efficiency\n- Generate, augment, and validate synthetic datasets to\n  support client and internal use cases\n- Deploy lightweight ML/LLM-powered solutions to solve\n  operational bottlenecks\n- Improve automation and repeatability across data workflows\n\nDelivery Engineering & Technical Operations\n\n- Work directly with delivery teams to implement and maintain\n  production workflows\n- Debug, troubleshoot, and resolve technical issues across\n  data pipelines and systems\n- Continuously improve tooling, processes, and measurement\n  approaches used in delivery\n- Identify and implement practical improvements that increase\n  speed, reliability, and quality of delivery outcomes\n\nWhy join us\n\nPeople are at the Heart of our Business.  By investing in\npeople, we achieve exceptional results for our clients and\ncreate new opportunities for our teams to thrive.  Check out\nthis page for more details.\n",
+  "skills_required": [
+    "LLMs",
+    "Synthetic data generation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain scalable data pipelines and transformation workflows",
+    "Implement data quality checks, validation frameworks, and monitoring systems",
+    "Design and operationalize evaluation frameworks for datasets and ML outputs",
+    "Develop ML-assisted tools and workflows to improve data processing and delivery efficiency",
+    "Generate, augment, and validate synthetic datasets to support client and internal use cases",
+    "Deploy lightweight ML/LLM-powered solutions to solve operational bottlenecks",
+    "Work directly with delivery teams to implement and maintain production workflows",
+    "Debug, troubleshoot, and resolve technical issues across data pipelines and systems"
+  ],
+  "use_cases": [
+    "Data pipeline automation and operational efficiency improvement",
+    "Synthetic data generation and augmentation for client use cases",
+    "ML-assisted data quality validation and processing",
+    "Operational bottleneck resolution through lightweight ML/LLM solutions",
+    "Production dataset packaging and delivery with QA standards"
+  ],
+  "tools_mentioned": [
+    "API integration",
+    "Dash",
+    "Data pipelines",
+    "Data quality frameworks",
+    "ML model deployment",
+    "Plotly",
+    "Streamlit",
+    "pandas"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "Synthetic data generation"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying ML/LLM-\npowered solutions in production, including synthetic dataset\ngeneration, ML-assisted tooling, and lightweight ML/LLM\ndeployments to solve operational bottlenecks. While it also\nincludes data engineering responsibilities, the hands-on\nwork with LLMs and ML models in production clearly places it\nin the ai-first category.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs"
+    ],
+    "ml": [
+      "Synthetic data generation"
+    ],
+    "web": [
+      "Streamlit",
+      "Dash",
+      "API integration"
+    ],
+    "databases": [],
+    "data": [
+      "pandas",
+      "Plotly",
+      "Data pipelines",
+      "Data quality frameworks"
+    ],
+    "cloud": [],
+    "ops": [
+      "ML model deployment"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,142 @@
+{
+  "job_id": "intl-ai-corpus-2410",
+  "source": "intl-ai-corpus",
+  "source_ref": "8875706",
+  "source_url": "https://builtin.com/job/lead-ai-engineer/8875706",
+  "title": "Lead AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Morningstar",
+  "company_type": "entité morale privée",
+  "location": "Navi Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "11,500 Employees",
+  "company_stage": "Public",
+  "company_focus": "Investment research and financial data analytics,\nspecializing in ESG performance assessment",
+  "industries": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Enterprise Web",
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "Job Description - Lead AI Engineer About the Role As a Lead\nAI Engineer, you will be responsible for building and\nscaling the production systems that bring our AI products to\nlife. You will lead the design and implementation of AI-\npowered services that enable investors worldwide to assess\nthe Environmental, Social, and Governance (ESG) performance\nof companies. Your focus will be on production-grade AI\nengineering: model and LLM inference services,\norchestration, retrieval pipelines, scalable APIs, and\nrobust data workflows. Responsibilities\n\n- Lead the development and scaling of inference endpoints and\n  APIs for classic ML models and LLMs.\n- Own end-to-end delivery of AI services from prototype to\n  production: design, build, deploy, and operate.\n- Develop and maintain CI/CD pipelines; automate deployments\n  on AWS (e.g., Bedrock, Lambda, EKS, S3, etc.).\n- Design and maintain data pipelines, queues, and event-driven\n  workflows to support AI products.\n- Integrate vector databases, retrieval pipelines, and RAG\n  patterns into production-grade systems.\n- Build and maintain orchestration layers and microservices in\n  Python; contribute to platform services.\n- Establish and maintain monitoring, observability, alerting,\n  and cost-aware operations for AI services.\n- Implement strong engineering practices: testing strategies,\n  documentation, runbooks, and reliability standards.\n- Collaborate with AI researchers and product engineering\n  teams to productize prototypes and deliver measurable\n  outcomes.\n- Mentor and guide engineers; drive code quality, design\n  reviews, and operational excellence.\n\nQualifications\n\n- Strong programming skills in Python (APIs, services,\n  pipelines).\n- 7+ years of experience in AI engineering, MLOps, backend\n  engineering, or related roles, with significant production\n  ownership.\n- Hands-on experience deploying and operating LLMs in\n  production, with awareness of evaluation, limitations, and\n  cost implications.\n- Solid knowledge of AWS services (Bedrock, Lambda, EKS, S3,\n  etc.).\n- Experience with CI/CD, containerization (Docker/Kubernetes),\n  and infrastructure automation.\n- Understanding of microservices architectures, queues/events,\n  and scalable system design.\n- Working knowledge of ML concepts (precision/recall,\n  latency/throughput trade-offs, inference performance).\n- Experience with SQL databases (e.g., PostgreSQL).\n- Strong communication skills, a product-first mindset, and\n  the ability to translate ambiguity into execution.\n\nNice to Have\n\n- Experience with JavaScript/TypeScript.\n- Experience with Harness.\n- Familiarity with monitoring/observability tools (CloudWatch,\n  Prometheus, Grafana).\n- Infrastructure-as-code experience (Terraform,\n  CloudFormation).\n- Experience with web crawlers or large-scale data ingestion.\n\nEqual Opportunity & Work Environment Morningstar is an equal\nopportunity employer. Morningstar's hybrid work environment\ngives you the opportunity to collaborate in-person each week\nas we've found that we're at our best when we're purposely\ntogether on a regular basis. In most of our locations, our\nhybrid work model is four days in-office each week. A range\nof other benefits are also available to enhance flexibility\nas needs change. No matter where you are, you'll have tools\nand resources to engage meaningfully with your global\ncolleagues. Morningstar's hybrid work environment gives you\nthe opportunity to collaborate in-person each week as we've\nfound that we're at our best when we're purposely together\non a regular basis. In most of our locations, our hybrid\nwork model is four days in-office each week. A range of\nother benefits are also available to enhance flexibility as\nneeds change. No matter where you are, you'll have tools and\nresources to engage meaningfully with your global\ncolleagues. I10_MstarIndiaPvtLtd Morningstar India Private\nLtd. (Delhi) Legal Entity\n",
+  "skills_required": [
+    "LLMs",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead the development and scaling of inference endpoints and APIs for classic ML models and LLMs",
+    "Own end-to-end delivery of AI services from prototype to production: design, build, deploy, and operate",
+    "Develop and maintain CI/CD pipelines; automate deployments on AWS (Bedrock, Lambda, EKS, S3)",
+    "Design and maintain data pipelines, queues, and event-driven workflows to support AI products",
+    "Integrate vector databases, retrieval pipelines, and RAG patterns into production-grade systems",
+    "Build and maintain orchestration layers and microservices in Python; contribute to platform services",
+    "Establish and maintain monitoring, observability, alerting, and cost-aware operations for AI services",
+    "Mentor and guide engineers; drive code quality, design reviews, and operational excellence"
+  ],
+  "use_cases": [
+    "ESG (Environmental, Social, and Governance) performance assessment for companies",
+    "Investment analysis and research powered by AI",
+    "LLM inference and natural language processing for financial insights",
+    "Retrieval-augmented generation for investment data queries",
+    "Scalable AI-powered services for global investor base"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "AWS EKS",
+    "AWS Lambda",
+    "AWS S3",
+    "CI/CD",
+    "CloudFormation",
+    "CloudWatch",
+    "Docker",
+    "Grafana",
+    "Kubernetes",
+    "Microservices",
+    "PostgreSQL",
+    "Prometheus",
+    "REST APIs",
+    "Terraform",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "RAG"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and scaling production inference\nsystems for both classic ML models and LLMs, implementing\nRAG patterns, and owning end-to-end delivery of AI services\nfrom prototype to production. The position requires hands-on\nexperience deploying and operating LLMs in production\nenvironments.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "Microservices",
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector databases",
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS Bedrock",
+      "AWS Lambda",
+      "AWS EKS",
+      "AWS S3"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "CloudFormation",
+      "CloudWatch",
+      "Prometheus",
+      "Grafana"
+    ],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

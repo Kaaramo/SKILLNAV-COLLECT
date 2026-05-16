@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-1502",
+  "source": "intl-ai-corpus",
+  "source_ref": "8496822",
+  "source_url": "https://builtin.com/job/senior-full-stack-engineer-ai-native/8496822",
+  "title": "Senior Full-Stack Engineer (AI-Native)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Toku",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-13",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "44 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Global payroll infrastructure and payment APIs",
+  "industries": [],
+  "description": "About Toku\n\nEvery company in the world runs payroll. But the rails\nunderneath it haven’t changed since the 1970s.\n\nToku is building what comes next - infrastructure that makes\npayroll work the way the internet does: instantly, globally,\nand without unnecessary friction.\n\n‍\n\nWe enable companies to pay teams in stablecoins, fiat, or\ntokens - without switching systems, retraining staff, or\ngiving up compliance. With one API, Toku connects into\nplatforms like ADP, Gusto, or Workday, and upgrades the back\nend to move money in seconds instead of days.\n\nWe're building the future of payroll and we're just getting\nstarted.\n\nTo learn more, check our website.\n\nWe are hiring a Senior Full-Stack Engineer who is deeply AI-\nnative. This is not a traditional coding role. Our\nengineering workflow is agent-first, and we expect engineers\nto use AI as their primary interface for design,\nimplementation, testing, refactoring, and delivery.\n\nToku builds mission-critical software across payroll, token\nadministration, and financial operations. We ship fast,\noperate with high ownership, and expect excellent\nengineering judgment.\n\nIf agents have not significantly transformed the way you\nwork, this role is not a fit.\n\nHow We Build\n\n- Daily use of Claude and Codex across the full SDLC.\n- Agent-first execution; we do not expect handwritten code as\n  the default path.\n- No token budget constraints for engineering workflows.\n- Strong emphasis on throughput, correctness, and review\n  quality with AI-assisted development.\n\nWhat You’ll Do\n\n- Build and ship full-stack features across frontend and\n  backend systems.\n- Own work end-to-end: product requirements, architecture,\n  implementation, testing, rollout, and monitoring.\n- Use AI agents to accelerate delivery while improving\n  reliability and maintainability.\n- Partner closely with product, design, and operations to\n  deliver high-impact outcomes quickly.\n- Improve internal engineering workflows for AI-native\n  development and team leverage.\n\nWhat We’re Looking For\n\n- 5 to 7+ years of software engineering experience in\n  production environments.\n- Strong full-stack skills (TypeScript/JavaScript, modern\n  frontend frameworks, backend APIs, SQL/data modeling).\n- Clear track record of shipping customer-facing features and\n  backend systems.\n- Heavy, practical, and proven daily use of AI coding agents.\n- Excellent prompt-to-production workflow: spec → agent loops\n  → validation → deploy.\n- Strong testing discipline and ability to reason about\n  failure modes.\n\nNon-Negotiables\n\n- You are a rampant user of AI tools for engineering work.\n- You are comfortable in an agent-first environment where\n  handwritten code is not the default.\n- You believe AI agents have fundamentally changed how high-\n  performing engineers work.\n\nNice to Have\n\n- Experience in fintech, payroll, payments, or crypto-enabled\n  systems.\n- Experience with Next.js, Node.js, Prisma, and typed API\n  patterns.\n- Experience improving developer productivity systems and AI-\n  enabled engineering standards.\n\nToku is an equal opportunity employer, and we are committed\nto being a diverse team that reflects a broad range of\nbackground, thought, and experience. We do not discriminate\nbased on race, color, religion, sex, gender identity, sexual\norientation, age, national origin, status as an individual\nwith a disability, status as protected veteran, or any other\nlegally protected characteristics. Women, minorities,\nLGBTQ+, and people from underrepresented backgrounds are\nstrongly encouraged to apply.\n\nWe strongly encourage you use Rezi.ai to vet resume quality\nbefore applying.\n",
+  "skills_required": [
+    "AI coding agents",
+    "Claude",
+    "Codex",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and ship full-stack features across frontend and backend systems",
+    "Own work end-to-end from product requirements to deployment and monitoring",
+    "Use AI agents to accelerate delivery while improving reliability and maintainability",
+    "Partner closely with product, design, and operations to deliver high-impact outcomes",
+    "Improve internal engineering workflows for AI-native development and team leverage"
+  ],
+  "use_cases": [
+    "Global payroll processing and payments infrastructure",
+    "Stablecoin, fiat, and token-based payroll disbursements",
+    "API integration with payroll platforms like ADP, Gusto, and Workday",
+    "Financial operations and token administration systems"
+  ],
+  "tools_mentioned": [
+    "Next.js",
+    "Node.js",
+    "Prisma",
+    "REST APIs",
+    "SQL",
+    "data modeling"
+  ],
+  "frameworks_mentioned": [
+    "AI coding agents",
+    "Claude",
+    "Codex",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an AI-native full-stack engineering role where AI\nagents are used as the primary interface for software\ndevelopment across the SDLC. However, the engineer is\nbuilding traditional financial/payroll infrastructure\nsystems, not AI/ML models or AI products themselves. The\nrole uses AI tools to accelerate development but does not\ninvolve building, deploying, or fine-tuning AI systems.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude",
+      "Codex",
+      "AI coding agents",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "Next.js",
+      "Node.js",
+      "REST APIs"
+    ],
+    "databases": [
+      "Prisma",
+      "SQL",
+      "data modeling"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

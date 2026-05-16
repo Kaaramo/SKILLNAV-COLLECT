@@ -1,0 +1,139 @@
+{
+  "job_id": "intl-ai-corpus-0633",
+  "source": "intl-ai-corpus",
+  "source_ref": "8305169",
+  "source_url": "https://builtin.com/job/staff-ai-platform-engineer/8305169",
+  "title": "Staff AI Engineer (Systems)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Strike (simplistic.com)",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "61 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Bitcoin payments and financial services",
+  "industries": [
+    "Information Technology",
+    "Cryptocurrency"
+  ],
+  "description": "Better Money\n\nStrike is the Bitcoin company. With Strike, you can buy and\nsell bitcoin, pay bills, and borrow against your holdings.\nFrom individuals to businesses, Strike is purpose-built for\nevery step of the Bitcoin journey. Available in more than\n100 countries — including the U.S., Europe, Latin America,\nand Africa — Strike is building a better financial system\npowered by Bitcoin. Bitcoin is better money. Strike is how\nyou use it.\n\nRole:\n\nWe are seeking a Staff AI Engineer (Systems) to join our\nCore Team.\n\nStrike is already a high-velocity, cloud-native engineering\norganization. We run an immutable infrastructure on GKE, we\nenforce \"Shift-Left\" security, and we deploy constantly. We\nare full on integrating frontier AI capabilities directly\ninto our ecosystem - not as a gimmick, but as a force\nmultiplier for our team.\n\nThis is a Systems Engineering role. You will not be fine-\ntuning models or building chatbots for fun. You will be\nbuilding the secure connective tissue that allows agentic\nsystems to interact with our real-world infrastructure. You\nwill define how agents authenticate, how they access tools,\nand - crucially - when they should be trusted.\n\nWhat You Will Do\n\n- Build the Connected Ecosystem: We have already\n  operationalized tools like Copilot Agents, Gemini, Claude,\n  Agentic CLIs, n8n workflows, and local agent runtimes.\n  Your job is to build the unified, secure layer that\n  connects these tools to our core platforms (e.g., building\n  internal MCP servers).\n  - Create IDE Agents: Help us fine-tune and deploy IDE agents\n    that accelerate coding for the entire engineering\n    organization.\n  - Develop Agentic Workflows: Create orchestration layers and\n    secure runtime environments for LLM tool-use.\n  - Bridge Information Silos: Build out the enterprise knowledge\n    base to connect disparate data sources for agentic\n    reasoning.\n- Define Tiered Autonomy: You will design the security\n  patterns for different levels of agent independence - from\n  \"Advisory\" (read-only) to \"Autonomous\" (action-taking).\n  You will implement the \"Verifiable State\" and \"Revert\"\n  mechanisms that make Tier 3 autonomy safe.\n- Secure the Frontier: Design the auth patterns for agentic\n  access. You will solve hard problems around\n  authentication, authorization, and \"human-in-the-loop\"\n  safeguards, ensuring we move fast without breaking our\n  \"Zero Trust\" principles.\n- Pragmatic Building: You will be the voice of reason. You\n  know when to use an LLM, and when to just write a script.\n  You will help teams identify \"Units of Toil\" and target\n  them with the right level of abstraction.\n- Force Multiply the Team: Embed with teams to unblock their\n  workflows. You will serve as the expert on frontier tools,\n  helping engineers and the broader team optimize their\n  setups and adopt \"AI Native\" workflows.\n\nWhat We Are Looking For\n\n- Full Stack Systems DNA: You are a polyglot engineer. You\n  understand the entire stack - from frontend interfaces to\n  backend distributed systems and cloud infrastructure.\n- Frontier AI Proficiency: You are fluent in the current\n  landscape of AI engineering. You have built\n  implementations using patterns like MCP, RAG, function-\n  calling, and evals. You understand techniques like AI as a\n  Judge, Agent Self-Improvement, and how to balance\n  deterministic systems with non-deterministic outputs.\n- Security-First Mindset: You understand the risks of\n  deploying LLMs in a production environment. You are\n  familiar with concepts like Shift-Left security, least-\n  privilege access, and robust secrets management.\n- Organizational Influence: You have excellent communication,\n  collaboration, and influencing skills. You can explain\n  complex AI concepts to non-technical stakeholders and\n  drive consensus on architectural decisions.\n\nOur Environment (Context)\n\n- Infrastructure: Fully Cloud-Native on GCP, Infrastructure as\n  Code\n- Orchestration: Google Kubernetes Engine (GKE) with Helm &\n  ArgoCD.\n- Languages: C#/.NET (Core Services), Python (Data/Scripts),\n  TypeScript (Web).\n- Security: Comprehensive enterprise secrets management and\n  governance tooling.\n- AI Stack: We are actively leveraging many frontier tools and\n  techniques.\n\nThe Culture\n\n- High Agency: We don't do hand-holding. We expect you to\n  solve problems.\n- High Velocity: We ship. If you prefer debating philosophy\n  for weeks over shipping code, this is not the place for\n  you.\n- One Singular Unit: We are a lean, fast-moving team. We move\n  together - everyone has a role, everyone blocks and\n  tackles for each other.\n\nUS-Based Positions\n\n- Salary range: $216,000 - 232,000\n- Equity in a high-growth startup\n- Health, dental, and vision insurance premium contributions;\n  short & long-term disability insurance and basic life\n  insurance\n- Cell phone and internet reimbursement\n- Flexible PTO, sick leave & parental leave\n- Access to a company 401k plan\n\nNon US-Based positions\n\n- Location Dependent\n\nWe do not make hiring decisions based on educational history\nwhatsoever. Our Founder is a college dropout. We employ high\nschool dropouts, PHD candidates and everything in-between.\nWe do not hire credentials. We simply hire talented,\npassionate individuals who are excited to be a part of our\nteam.\n\nBy clicking submit application below, you consent to our use\nand processing of your data as described in our Candidate\nPrivacy Notice.\n",
+  "skills_required": [
+    "AI as a Judge",
+    "Agent Self-Improvement",
+    "MCP (Model Context Protocol)",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build unified, secure layer connecting AI tools like Copilot Agents, Gemini, Claude, and n8n workflows to core platforms through internal MCP servers",
+    "Fine-tune and deploy IDE agents that accelerate coding across the entire engineering organization",
+    "Create orchestration layers and secure runtime environments for LLM tool-use",
+    "Design security patterns for different levels of agent autonomy from Advisory (read-only) to Autonomous (action-taking) with Verifiable State and Revert mechanisms",
+    "Implement authentication, authorization, and human-in-the-loop safeguards for agentic access while maintaining Zero Trust principles",
+    "Build enterprise knowledge base to connect disparate data sources for agentic reasoning",
+    "Identify and target Units of Toil with appropriate AI abstractions, serving as expert on frontier tools to optimize team workflows"
+  ],
+  "use_cases": [
+    "Agentic systems interacting with real-world Bitcoin financial infrastructure and cloud platforms",
+    "IDE agents that accelerate software development workflows for engineering teams",
+    "Autonomous agents with tiered independence levels for read-only advisory to action-taking operations",
+    "Enterprise knowledge base connecting disparate data sources for agentic reasoning across systems",
+    "Internal MCP servers enabling secure agent interactions with core platform services"
+  ],
+  "tools_mentioned": [
+    "ArgoCD",
+    "CI/CD",
+    "Docker",
+    "GCP",
+    "Google Kubernetes Engine",
+    "Helm",
+    "Kubernetes",
+    "Terraform",
+    "Zero Trust security",
+    "least privilege access",
+    "secrets management"
+  ],
+  "frameworks_mentioned": [
+    "AI as a Judge",
+    "Agent Self-Improvement",
+    "MCP (Model Context Protocol)",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "C#/.NET",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on AI engineering role building secure\ninfrastructure for agentic systems. The engineer will\ndirectly implement authentication patterns, build\norchestration layers, deploy IDE agents, and create MCP\nservers - all core AI/ML systems work rather than general\nsupport infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP (Model Context Protocol)",
+      "RAG",
+      "function calling",
+      "agents",
+      "prompt engineering",
+      "AI as a Judge",
+      "Agent Self-Improvement",
+      "OpenAI/Anthropic APIs"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "GCP",
+      "Google Kubernetes Engine"
+    ],
+    "ops": [
+      "Helm",
+      "ArgoCD",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Zero Trust security",
+      "least privilege access",
+      "secrets management"
+    ],
+    "languages": [
+      "C#/.NET",
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

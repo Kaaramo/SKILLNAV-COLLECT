@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0428",
+  "source": "intl-ai-corpus",
+  "source_ref": "8018375",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/8018375",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Talkspace",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "250 Employees",
+  "company_stage": "Public",
+  "company_focus": "Online therapy and mental healthcare platform",
+  "industries": [
+    "Consumer Web",
+    "Healthtech",
+    "Mobile",
+    "Social Impact",
+    "Telehealth"
+  ],
+  "description": "At Talkspace, we are committed to fostering a diverse,\nequitable, inclusive, and belonging-centered workplace where\neveryone can thrive while making a difference in mental\nhealth. Want to help over two million people receive quality\nmental healthcare? Come join our mission of getting therapy\nin the hands of everyone!\n\nWe are looking for an experienced Senior AI Engineer to join\nour team. The Senior AI Engineer will be a pivotal technical\nleader, responsible for designing, building, and scaling the\nautonomous AI agents that form the core of our behavioral\nhealth platform. This role requires deep expertise in\ndeveloping complex, multi-agent systems, leveraging Large\nLanguage Models (LLMs) for reasoning, planning, and goal\nsetting, and applying Reinforcement Learning (RL) techniques\nto model and influence human behavior safely and ethically.\nYou will drive the entire lifecycle of our agents—from\ndeveloping cognitive architectures and interaction models to\nensuring their robust, high-availability deployment and\ncontinuous learning in a production environment. Given the\nsensitivity of behavioral health, this role demands an\nexceptional focus on safety, ethical autonomy, transparency,\nand data privacy. The ideal candidate is a seasoned engineer\nwho can bridge the gap between theoretical AI (specifically\nRL and planning) and real-world, scalable, and impactful\nuser interactions. To work at Talkspace, you need to be as\npassionate as we are about our work, and excited to partner\nwith us on delivering quality mental healthcare.\n\nWhat You’ll Do\n\n- Autonomous System Architecture: Design and implement the\n  technical architecture for Sentia’s core AI agents,\n  including the development of planning modules,\n  memory/retrieval systems, goal-setting algorithms, and\n  tool-use orchestration.\n- Reinforcement Learning (RL) for Behavior: Apply advanced RL,\n  Inverse RL, or related control theory methods to develop\n  agents capable of adaptive, long-term intervention\n  strategies that maximize positive user outcomes while\n  minimizing risk (e.g., optimizing interaction sequencing,\n  timing, and content).\n- LLM Integration and Fine-tuning: Select, fine-tune, and\n  deploy foundation models (LLMs) to power agent reasoning,\n  natural language understanding, and empathetic, context-\n  aware communication with users.\n- Complex Interaction Modeling: Develop models for human-agent\n  interaction (HAI), incorporating principles from cognitive\n  science and behavioral economics to ensure agents are\n  effective, trustworthy, and aligned with therapeutic\n  protocols.\n- Simulated Environments: Construct robust simulation\n  environments for pre-training and testing agent policies,\n  ensuring system stability and safety across a wide range\n  of psychological and behavioral scenarios.\n- Performance and Resilience: Optimize the deployment\n  environment to manage the computational demands of multi-\n  agent orchestration, ensuring low-latency decision-making\n  and high system resilience.\n- Technical Strategy: Lead the evaluation and adoption of new\n  agentic frameworks, reasoning technologies, and system\n  design patterns that position Sentia as a leader in\n  autonomous behavioral health technology.\n- Agent Evaluation & Observability: Design and implement\n  comprehensive evaluation pipelines for multi-agent\n  orchestration—including visualisations, trace-level\n  analysis of LLM calls and tool invocations, offline\n  evaluation against golden datasets, real-time production\n  monitoring for behavioral drift and outcome correlation,\n  guardrails, and human-in-the-loop annotation workflows.\n  Establish metrics frameworks to assess reasoning quality,\n  task completion, safety compliance, and task alignment\n  across the full agent lifecycle.\n\nAbout You\n\n- Bachelor’s or Master’s degree in Computer Science,\n  Artificial Intelligence, Robotics, Electrical Engineering,\n  or a highly quantitative field.\n- Minimum of 5+ years of experience in a production software\n  engineering environment, with at least 3+ years\n  specifically focused on designing, implementing, and\n  deploying complex machine learning or autonomous systems.\n- Exceptional Python Programming Skills: Mastery of Python and\n  its scientific libraries.\n- Production MLOps Expertise: Demonstrated experience building\n  and managing CI/CD pipelines for ML models and integrating\n  them into service-oriented architectures (SOA).\n- Autonomous/Agentic Systems: Strong theoretical understanding\n  and practical application of techniques central to agentic\n  AI, such as Reinforcement Learning (RL), planning\n  algorithms, or complex decision-making systems.\n- LLM Deployment: Hands-on experience fine-tuning, deploying,\n  and managing Large Language Models (LLMs) in a production\n  environment, including knowledge of prompt engineering,\n  retrieval-augmented generation (RAG), and cost\n  optimization.\n- Software Engineering Rigor: Proven ability to write high-\n  quality, maintainable, scalable, and well-tested\n  production code.\n- Proficiency with cloud infrastructure (AWS, GCP) and\n  containerization technologies (Docker, Kubernetes).\n\nBenefits\n\n- Comprehensive Medical, Dental and Vision plans coverage\n  since day one\n- Pre-tax benefits: HSA/ FSA\n- 401k Retirement Savings Program with matching up to 4%\n- Voluntary benefits including disability, basic life or pet\n  insurance, etc.\n- Monthly Wellness Stipend to promote mental and physical\n  self-care\n- Flexible PTO and Remote First Environment\n- Regular team events, including Wellness Workshops and Team\n  Building Events\n- Free access to Talkspace products for you and one household\n  member, as well as access to a friends and family\n  discount!\n\nCompensation\n\nAt Talkspace, we believe that pay transparency during the\ninterview process is a critical part of diversity, equity,\nand inclusion. Our salary bands are based on internal and\nexternal compensation benchmarks, which we regularly\nevaluate to ensure we pay competitively.\n\nThe base salary range for this role is between $169,000 and\n$200,000. Within the salary bands, leveling corresponds to\neach candidate’s relevant experience, skills as assessed\nduring the interview process, education, and applicable\ncertifications.\n\nWhy Talkspace?\n\nTalkspace is the world’s leading online therapy company,\nserving over 2 million users looking to begin their wellness\njourney through tele-health. According to the World Health\nOrganization, close to 1 billion people worldwide live with\na mental disorder, and on average more than 75% with mental,\nneurological, and substance use disorders receive no\ntreatment for their condition at all. Additionally, one-\nthird of the world’s population – 2 billion people – live in\ncountries that spend less than 1% of their health budgets on\nmental health. Therapy is an universal need and it's our\nmission here to change the world by cultivating an\nintentional space for people to feel supported through\nquality care that is simple and accessible.\n\nCombining our passion for innovation along with our desire\nto help others overcome the stigma behind “getting help,” we\nare transforming the way patients find the right care\nprovider, making an otherwise impossible feat easily\nconquerable. Our network of licensed, accredited, and board-\ncertified clinicians are increasing access to mental health\nfor our members through a myriad of high quality therapy\nservices: anytime and for a fraction of the price. Dedicated\nto our mission, we are looking for candidates that want to\nbring their talents into a diverse  “for purpose” space. If\nyou’re equally as passionate about making quality mental\nhealthcare accessible to all then Talkspace is the right\nplace for you!\n\nEQUAL OPPORTUNITY EMPLOYER\n\nTalkspace welcomes and celebrates talent from all\nbackgrounds, perspectives, and walks of life to foster an\ninnovative and diverse workforce. We encourage you to apply,\neven if you don’t meet every qualification or if your path\nhas been nontraditional — such as not completing a formal\ndegree program, taking a career break, or having a prior\ncriminal record — if you believe you could make a great\naddition to this team. Come as you are and learn about the\nexciting opportunities on our team.\n\nIndividuals seeking employment at Talkspace are considered\nwithout regard to race, color, religious creed, sex,\nnational origin, citizenship status, age, physical or mental\ndisability, sexual orientation, marital, parental, veteran\nor military status, unfavorable military discharge, or any\nother status protected by applicable federal, state or local\nlaw.\n\nHow do we define Diversity, Equity, Inclusion, and Belonging\nat Talkspace?\n\nDiversity\n\nDiversity encompasses the unique attributes of our employees\nas individuals. We value and embrace the richness arising\nfrom their varied backgrounds, perspectives, and\nexperiences, which include, but are not limited to, age,\nability, ethnicity, gender, race, and cultural background.\n\nEquity\n\nEquity refers to a fair and impartial workplace, aiming to\nensure equal growth and advancement opportunities for all\nemployees. This involves amplifying underrepresented voices,\naddressing unconscious biases, and providing inclusive,\nculturally competent mental health care.\n\nInclusion\n\nInclusion signifies the practice of granting equal access to\nopportunities and resources for all employees, particularly\nthose who might otherwise be excluded or marginalized. It\nensures that everyone feels a sense of belonging, value,\nsupport, and respect as an individual.\n\nBelonging\n\nBelonging reflects the affinity and positive relationships\nthat develop among employees from diverse backgrounds when\nbusinesses actively promote diversity, equity, and inclusion\nin the workplace.\n",
+  "skills_required": [
+    "Inverse RL",
+    "LLMs",
+    "RAG",
+    "Reinforcement Learning",
+    "agents",
+    "fine-tuning",
+    "multi-agent systems",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement technical architecture for autonomous AI agents including planning modules, memory/retrieval systems, and tool-use orchestration",
+    "Apply reinforcement learning and inverse RL methods to develop adaptive, long-term intervention strategies that maximize positive user outcomes while minimizing risk",
+    "Select, fine-tune, and deploy foundation models (LLMs) to power agent reasoning, natural language understanding, and empathetic communication",
+    "Develop models for human-agent interaction incorporating principles from cognitive science and behavioral economics",
+    "Construct robust simulation environments for pre-training and testing agent policies across psychological and behavioral scenarios",
+    "Design and implement comprehensive evaluation pipelines including trace-level analysis, offline evaluation, real-time monitoring for behavioral drift, and guardrails"
+  ],
+  "use_cases": [
+    "Autonomous AI agents providing behavioral health interventions and therapy support",
+    "Multi-agent systems using LLMs for reasoning, planning, and goal-setting in mental health contexts",
+    "Adaptive intervention strategies that optimize interaction sequencing, timing, and content to maximize positive user outcomes",
+    "Simulated environments for testing and pre-training agent policies across psychological scenarios",
+    "Real-time monitoring and evaluation of agent behavior for safety compliance and therapeutic alignment"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "MLOps"
+  ],
+  "frameworks_mentioned": [
+    "Inverse RL",
+    "LLMs",
+    "RAG",
+    "Reinforcement Learning",
+    "agents",
+    "fine-tuning",
+    "multi-agent systems",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on role building autonomous AI agents and\nmulti-agent systems directly using LLMs for reasoning,\nplanning, and RAG. The role involves fine-tuning models,\nimplementing agent architectures, and deploying AI systems\nin production.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "prompt engineering",
+      "RAG",
+      "agents",
+      "multi-agent systems"
+    ],
+    "ml": [
+      "Reinforcement Learning",
+      "Inverse RL",
+      "fine-tuning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-1161",
+  "source": "intl-ai-corpus",
+  "source_ref": "8229742",
+  "source_url": "https://www.builtinla.com/job/staff-ai-engineer/8229742",
+  "title": "Staff AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "WEX Inc.",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Financial technology and payment solutions",
+  "industries": [
+    "Fintech",
+    "Payments"
+  ],
+  "description": "This is a remote position; however, the candidate must\nreside within 30 miles of one of the following locations:\nPortland, ME; Boston, MA; Chicago, IL; Dallas, TX; San\nFrancisco Bay Area, CA; and Seattle/WA.About the Team/Role\n\nWe are the AI Engineering team at WEX.  We enable our\nproduct development teams to move quickly and deploy AI\nfunctionality into their applications in a scalable manner.\nWe are cloud-first and aim to automate everything, including\ninfrastructure, testing, and deployment.  If you’re\ninterested in ChatGPT, Large Language Models, MLOps, DevOps,\nand thirst for working with new tools and technologies, then\nthis is the place to be!\n\nHow you’ll make an impact\n\n- A highly motivated engineer who loves working on small,\n  highly performing teams\n- Collaborative, a solid communicator, and work well with your\n  team and stakeholders.\n- A professional who can advocate strongly for positions and\n  still be 100% behind team decisions even if they don’t go\n  your way.\n- Are comfortable balancing the need to move fast with the\n  realities of working in highly regulated spaces like\n  payments and healthcare.\n- Design, implement, train and maintain machine learning\n  algorithms and ML system pipelines.\n- Work closely with our AI platform team and line of business\n  engineering teams to integrate AI components and models\n  into WEX systems.\n- Collaborate with the team to manage version control using\n  GitHub and implement robust CI/CD pipelines for continuous\n  integration and delivery.\n- Design and implement RESTful APIs to facilitate\n  communication between various components and ensure smooth\n  operation of our applications.\n- Collaborate effectively with cross-functional teams,\n  participate in code reviews, and communicate solutions to\n  both technical and non-technical stakeholders.\n\nExperience you’ll bring\n\n- Minimum 10 years of application development experience.\n- Strong ability to use key Python libraries such as Pandas,\n  Numpy and deep learning libraries like PyTorch or\n  Tensorflow.\n- Bachelor's Degree in Computer Science, Engineering, or\n  related field.\n- Familiarity with cloud technologies, such as AWS, Azure, or\n  GCP and how to provision those services through IAC\n  frameworks such as Terraform.\n- Experience applying DevOps principles to software\n  development processes.\n- Proficiency in version control systems, particularly GitHub.\n- Excellent problem-solving skills and a proactive approach to\n  addressing challenges.\n- Experience in the financial industry is a plus.\n- Experience in building Agentic AI Applications\n\nNice to have\n\nExperience building, training and deploying machine learning\nmodels.\n\nThe base pay range represents the anticipated low and high\nend of the pay range for this position. Actual pay rates\nwill vary and will be based on various factors, such as your\nqualifications, skills, competencies, and proficiency for\nthe role. Base pay is one component of WEX's total\ncompensation package. Most sales positions are eligible for\ncommission under the terms of an applicable plan. Non-sales\nroles are typically eligible for a quarterly or annual bonus\nbased on their role and applicable plan. WEX's comprehensive\nand market competitive benefits are designed to support your\npersonal and professional well-being. Benefits include\nhealth, dental and vision insurances, retirement savings\nplan, paid time off, health savings account, flexible\nspending accounts, life insurance, disability insurance,\ntuition reimbursement, and more. For more information, check\nout the \"About Us\" section.Pay Range: $185,000.00 -\n$217,400.00\n",
+  "skills_required": [
+    "Agentic AI Applications",
+    "ChatGPT",
+    "Large Language Models",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, train and maintain machine learning algorithms and ML system pipelines",
+    "Work closely with AI platform team and line of business engineering teams to integrate AI components and models into WEX systems",
+    "Manage version control using GitHub and implement robust CI/CD pipelines for continuous integration and delivery",
+    "Design and implement RESTful APIs to facilitate communication between various components and ensure smooth operation of applications",
+    "Collaborate effectively with cross-functional teams, participate in code reviews, and communicate solutions to both technical and non-technical stakeholders",
+    "Provision cloud services through IAC frameworks such as Terraform"
+  ],
+  "use_cases": [
+    "Deploy AI functionality into product applications in a scalable manner",
+    "Integrate AI components and models into financial payment and healthcare systems",
+    "Build agentic AI applications for financial services",
+    "Automate infrastructure, testing, and deployment processes using cloud-first approach",
+    "Implement machine learning algorithms for regulated financial and healthcare spaces"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "DevOps",
+    "GCP",
+    "GitHub",
+    "MLOps",
+    "NumPy",
+    "Pandas",
+    "RESTful APIs",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI Applications",
+    "ChatGPT",
+    "Large Language Models",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires direct hands-on work with machine learning\nalgorithms and ML system pipelines, including design,\nimplementation, training, and maintenance. It specifically\nmentions experience with deep learning libraries (PyTorch,\nTensorFlow), building Agentic AI applications, and deploying\nmachine learning models, which are core ai-first activities.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Agentic AI Applications",
+      "Large Language Models",
+      "ChatGPT"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [
+      "RESTful APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Pandas",
+      "NumPy"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "MLOps",
+      "DevOps",
+      "Terraform",
+      "GitHub",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

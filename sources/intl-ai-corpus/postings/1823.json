@@ -1,0 +1,142 @@
+{
+  "job_id": "intl-ai-corpus-1823",
+  "source": "intl-ai-corpus",
+  "source_ref": "8328197",
+  "source_url": "https://builtin.com/job/data-engineer-power/8328197",
+  "title": "Software Engineer | AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Gecko Robotics",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-21",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "177 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered robotics and data platform for critical\ninfrastructure monitoring and maintenance",
+  "industries": [
+    "Artificial Intelligence",
+    "Hardware",
+    "Robotics",
+    "Software"
+  ],
+  "description": "What We Do\n\nGecko Robotics is helping the world’s most important\norganizations ensure the availability, reliability, and\nsustainability of critical infrastructure. Gecko's complete\nand connected solutions combine wall-climbing robots,\nindustry-leading sensors, and an AI-powered data platform to\nprovide customers with a unique window into the current and\nfuture health of their physical assets. This enables real-\ntime decision making to increase the efficiency and safety\nof operations, promote mission readiness, and protect the\nenvironment and civilization from the effects of\ninfrastructure failure.\n\nRole at a Glance\n\nAs an AI Focused Software Engineer, you will build and\nevolve the data backbone of an agentic AI system leveraging\ndocument intelligence, time-series IoT data, and customer\nactivity logs. This is a highly hands-on, end-to-end role\nfor someone who thrives in early-stage ambiguity, is\ncomfortable working close to models and customers, and wants\nto directly shape how data-driven agents are built and\ndeployed for production.\n\nThis role will initially focus on the power industry, where\nyour work will directly support the reliable operation of\npower plants used by millions of people every day.\n\nWhat you will do\n\nYou will design, implement, and agentic systems across the\nfull lifecycle, from data ingestion and processing to\nbuilding and tuning models for use by customers in the real\nworld. You’ll work directly with customers and internal\nstakeholders to understand real problems, translate them\ninto technical solutions, and iterate quickly. You’ll build\nagentic workflows, document processing pipelines, and sensor\ndata ingestion. You’ll contribute to feature engineering and\nmodel experimentation when needed, and own systems in\nproduction. You’ll make pragmatic architectural decisions,\nimprove reliability over time, and help define best\npractices as the team and product scale.\n\nTechnologies We Use\n\n- Python, React\n- Cloud-native data and GenAI tooling (GCP, VertexAI, etc)\n- Streaming and messaging systems\n- Distributed processing frameworks\n- Data warehouses, lakes, and object storage\n- Time-series and NoSQL databases\n- ML and AI tooling (feature stores, vector databases, model\n  pipelines)\n- Docker, Kubernetes, and infrastructure-as-code tools\n\nAbout You\n\nYou’re a builder who likes owning problems end to end—from\nunderstanding customer needs to shipping and maintaining\nproduction systems. You’re comfortable crossing boundaries\nbetween software engineering, ML, and backend work, and\nyou’re energized by fast feedback loops and real-world\nimpact. You prefer pragmatic solutions over perfect ones,\ncommunicate clearly with technical and non-technical\nstakeholders, and enjoy helping shape both the product and\nthe engineering culture.\n\nRequired Skills\n\n- 7+ years of experience in software engineering, backend\n  engineering, or adjacent roles\n- Strong Python skills, proficient with ML packages and\n  distributed backends\n- Experience building production data pipelines and systems\n  from scratch\n- Comfort working with both structured and unstructured data\n- Experience operating systems in production and owning\n  reliability\n- Ability to work directly with customers or end users to\n  understand requirements\n- Strong problem-solving skills in ambiguous, fast-moving\n  environments\n\nPreferred Skills\n\n- Experience with agentic AI systems or similar orchestration\n  frameworks for enterprise-grade reasoning and/or\n  automation\n- Experience with document processing, NLP, or vector search\n- Experience with time-series or IoT data\n- Startup or early-stage product experience\n- Experience making architectural tradeoffs under real-world\n  constraints\n\nWho We Are\n\nAt Gecko, our people are our greatest investment. In\naddition to competitive compensation packages, we offer\ncompany equity, 401(k) matching, gender-neutral parental\nleave, full medical, dental, and vision insurance, mental\nhealth and wellness support, ongoing professional\ndevelopment, family planning assistance, and flexible paid\ntime off.\n\nGecko values collaboration, innovation, and partnership, and\nwe believe we do our best work when we're together in\nperson. We’re an office-first culture but understand that\nsometimes you may need to work from home. Many people are in\nthe office five days a week, others need a bit more\nflexibility. Ultimately, we care about the outcomes we\nachieve - and creating a culture of autonomy and trust that\nenables that impact.\n\nGecko is committed to creating a culture of inclusion and\nbelonging, and we are proud to be an equal opportunity\nemployer.  We believe it is our collective responsibility to\nuphold these values and encourage candidates from all\nbackgrounds to join us in our mission to protect today’s\ninfrastructure and give form to tomorrow’s. All qualified\napplicants will be treated with respect and receive equal\nconsideration for employment without regard to race, color,\ncreed, religion, sex, gender identity, sexual orientation,\nnational origin, disability, uniform service, veteran\nstatus, age, or any other protected characteristic per\nfederal, state, or local law. If you are passionate about\nwhat you do and want to use your talents to support our\ncritical mission, we’d love to hear from you.\n",
+  "skills_required": [
+    "Agentic AI systems",
+    "Document processing",
+    "ML packages",
+    "NLP"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement agentic AI systems across the full lifecycle from data ingestion to model deployment",
+    "Build and tune models for production use by customers in the real world",
+    "Work directly with customers and stakeholders to understand problems and translate them into technical solutions",
+    "Build agentic workflows, document processing pipelines, and sensor data ingestion systems",
+    "Contribute to feature engineering and model experimentation",
+    "Own production systems and improve reliability over time",
+    "Make architectural decisions and help define best practices as the team scales"
+  ],
+  "use_cases": [
+    "Infrastructure health monitoring and predictive maintenance for power plants",
+    "Document intelligence and processing for industrial applications",
+    "Time-series IoT sensor data analysis",
+    "Real-time decision making for critical infrastructure operations",
+    "Reliability and safety optimization for power industry assets"
+  ],
+  "tools_mentioned": [
+    "Data lakes",
+    "Data warehouses",
+    "Distributed processing frameworks",
+    "Docker",
+    "Feature stores",
+    "GCP",
+    "Infrastructure-as-code",
+    "IoT data processing",
+    "Kubernetes",
+    "Model pipelines",
+    "NoSQL databases",
+    "React",
+    "Streaming and messaging systems",
+    "Time-series databases",
+    "Vector databases",
+    "Vector search",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI systems",
+    "Document processing",
+    "ML packages",
+    "NLP"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and tuning models, designing\nagentic AI systems, and working directly with models in\nproduction. The engineer will build agentic workflows, tune\nmodels for customer use, and contribute to feature\nengineering and model experimentation - all hands-on AI/ML\nwork.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Agentic AI systems",
+      "Document processing"
+    ],
+    "ml": [
+      "NLP",
+      "ML packages"
+    ],
+    "web": [
+      "React"
+    ],
+    "databases": [
+      "Data warehouses",
+      "Data lakes",
+      "Time-series databases",
+      "NoSQL databases",
+      "Vector databases",
+      "Vector search"
+    ],
+    "data": [
+      "Streaming and messaging systems",
+      "Distributed processing frameworks",
+      "IoT data processing"
+    ],
+    "cloud": [
+      "GCP",
+      "Vertex AI"
+    ],
+    "ops": [
+      "Feature stores",
+      "Model pipelines",
+      "Docker",
+      "Kubernetes",
+      "Infrastructure-as-code"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-2223",
+  "source": "intl-ai-corpus",
+  "source_ref": "8817555",
+  "source_url": "https://builtin.com/job/ai-analytics-engineer-ai-analytics-platform/8817555",
+  "title": "AI Analytics Engineer (AI & Analytics Platform)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Airtable",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-20",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "900 Employees",
+  "company_stage": "Series F",
+  "company_focus": "No-code app platform for business process automation",
+  "industries": [],
+  "description": "Airtable is the no-code app platform that empowers people\nclosest to the work to accelerate their most critical\nbusiness processes. More than 500,000 organizations,\nincluding 80% of the Fortune 100, rely on Airtable to\ntransform how work gets done.\n\nAirtable is building the infrastructure that makes AI-\npowered analytics trustworthy and scalable — and we're\nlooking for an AI Analytics Engineer to help define what\nthat looks like from the ground up.\n\nThis is a new role on a new team. Our Data Science &\nAnalytics org is standing up an AI & Analytics Platform\nfunction to own the context layer, evaluation frameworks,\nand adoption strategy behind our internal AI analytics tools\n— including our natural-language-to-SQL capabilities,\nClaude, and Omni Analytics. The goal: shift from a world\nwhere analysts are the bottleneck for every data question to\none where the organization can self-serve with confidence.\n\nYou'll be one of the first hires shaping this discipline.\nThat means you won't just use AI tools — you'll build the\nsystems that make them accurate, design the workflows that\nmake them trustworthy, and partner across the business to\ndrive adoption. If you're excited about working at the\nintersection of data engineering, LLM tooling, and business\nenablement — and you want to help define what the analytics\nengineer role becomes in an AI-native world — this is the\nrole.\n\nWhat you'll do\n\n- Build and maintain context infrastructure: Translate\n  institutional business knowledge into structured formats —\n  business glossaries, DBT model enrichment, semantic layer\n  definitions in Omni Analytics — so that AI tools can\n  answer questions accurately, not just confidently.\n- Design and run evaluation frameworks: Develop predefined\n  test cases, accuracy benchmarks, and validation workflows\n  that measure whether AI-generated insights are\n  trustworthy. Own the feedback loop between eval results\n  and context improvements.\n- Build and orchestrate AI agent systems: Help design, build,\n  and iterate on the agent architectures that power our\n  analytics tools — including prompt pipelines, tool\n  orchestration, query routing logic, and guardrails that\n  determine when AI should answer autonomously vs. escalate\n  for human validation.\n- Experiment and evaluate: Test prompt configurations, agent\n  behaviors, and model outputs across different use cases —\n  using eval results and accuracy metrics to drive\n  continuous improvement.\n- Develop internal AI tooling and workflows: Build tools and\n  automations that improve DS&A's own efficiency —\n  identifying opportunities where AI can accelerate the\n  team's work and executing on them.\n- Build automated insight generation systems: Design and\n  develop AI-powered systems that proactively surface\n  patterns, anomalies, and meaningful changes in business\n  data — delivering the right insights to the right people\n  without waiting to be asked. Think less \"answer questions\"\n  and more \"anticipate them.\"\n- Drive cross-functional adoption: Partner with GTM, Product,\n  Finance, and other teams to onboard users, field\n  questions, triage issues, and train stakeholders on how to\n  get the most out of our AI-powered analytics tools.\n- Surface insights from usage patterns: Monitor query logs and\n  user behavior to identify gaps in context coverage,\n  recurring questions that should become standard reporting,\n  and opportunities to expand self-service capabilities.\n\nWho you are\n\n- Technically curious and AI-forward: You're energized by\n  LLMs, prompt engineering, and the evolving landscape of AI\n  tooling. You've experimented with tools like Claude,\n  ChatGPT, or Cursor — and you're eager to build systems\n  around them, not just use them.\n- A builder at heart: You have a bias toward making things.\n  Whether it's a prototype, a pipeline, or a quick script to\n  test an idea — you default to building rather than\n  theorizing. You may not have deep software engineering\n  experience, but you're comfortable picking up new\n  technical skills and exploring unfamiliar domains,\n  especially with AI tooling accelerating what's possible.\n- Analytically grounded: You're SQL-proficient and have\n  experience with modern data tools (dbt, Databricks,\n  Snowflake, or similar). You have strong intuition for when\n  data \"looks wrong\" and can validate query logic and\n  troubleshoot issues independently.\n- Not married to legacy tooling: You're more interested in\n  what's emerging than what's established. You evaluate\n  tools based on what they enable, not how long they've been\n  around — and you're quick to adopt new approaches when\n  they're better.\n- A clear communicator and strong writer: Context engineering\n  is fundamentally a writing discipline. You can translate\n  complex business logic into precise, structured\n  documentation that both humans and LLMs can interpret.\n- Business-minded: You're genuinely curious about how the\n  business works — how we sell, how customers use the\n  product, what metrics matter and why. You ask \"what\n  decision does this support?\" not just \"is the SQL\n  correct?\"\n- Energized by building something new: AI-powered analytics is\n  an emerging discipline — the best practices don't exist\n  yet. You're excited to learn as you go, experiment,\n  iterate, and help shape the playbook rather than follow\n  one.\n- Independent and proactive: You can own workstreams end-to-\n  end — from scoping the problem, to building the solution,\n  to iterating based on feedback. You bring ideas to the\n  table and move things forward without waiting for step-by-\n  step direction.\n- Experience: 2 - 4 years in data-related roles (analytics\n  engineer, data analyst, data scientist, or similar),\n  including experience partnering with business\n  stakeholders. Experience in SaaS or tech environments\n  preferred.\n- Must-Have Skills\n  - Strong SQL proficiency and experience working with modern\n    data tools (dbt, Databricks, Snowflake, or similar)\n  - Clear, structured writing — can translate complex business\n    logic into documentation that both humans and LLMs can\n    interpret\n  - Hands-on experience with AI tools (Claude, ChatGPT, Cursor,\n    or similar) beyond casual use — has applied them to\n    build or accelerate real work\n  - Cross-functional communication — can partner with non-\n    technical stakeholders to understand needs, triage\n    issues, and drive adoption\n  - Builder mindset — comfortable picking up new technical\n    skills, prototyping solutions, and iterating quickly\n- Nice to have\n  - Experience with BI semantic modeling (Looker, Omni\n    Analytics, or similar)\n  - Familiarity with Python and LLM APIs\n  - Experience building evaluation or testing frameworks\n  - Background in context engineering, knowledge management, or\n    technical writing\n  - Experience with agent architectures, prompt engineering, or\n    AI system design\n  - Familiarity with data science and ML concepts (e.g.,\n    experimentation, time series analysis, statistical\n    modeling, clustering, anomaly detection\n\nAirtable is an equal opportunity employer. We embrace\ndiversity and strive to create a workplace where everyone\nhas an equal opportunity to thrive. We welcome people of\ndifferent backgrounds, experiences, abilities, and\nperspectives. All qualified applicants will receive\nconsideration for employment without regard to race, color,\nreligion, sex, sexual orientation, gender identity, national\norigin, disability, protected veteran status or any\ncharacteristic protected by applicable federal and state\nlaws, regulations and ordinances. Learn more about your EEO\nrights as an applicant.\n\nVEVRAA-Federal Contractor\n\nIf you have a medical condition, disability, or religious\nbelief/practice which inhibits your ability to participate\nin any part of the application or interview process, please\ncomplete our Accommodations Request Form and let us know how\nwe may assist you. Airtable is committed to participating in\nthe interactive process and providing reasonable\naccommodations to qualified applicants.\n\nCompensation awarded to successful candidates will vary\nbased on their work location, relevant skills, and\nexperience.\n\nOur total compensation package also includes the opportunity\nto receive benefits, restricted stock units, and may include\nincentive compensation. To learn more about our\ncomprehensive benefit offerings, please check out Life at\nAirtable.\n\nFor work locations in the San Francisco Bay Area, Seattle,\nNew York City, and Los Angeles, the base salary range for\nthis role is:\n\n$157,100—$193,600 USD\n\nFor all other work locations (including remote), the base\nsalary range for this role is:\n\n$141,600—$175,100 USD\n\nPlease see our Privacy Notice for details regarding\nAirtable’s collection and use of personal data relating to\nthe application and recruitment process by clicking here.\nFor applicants that live in or have a link to Australia,\nplease see this Privacy Collection Statement for details\nregarding Airtable's collection and use of personal data\nrelating to the application and recruitment process.\n\n🔒 Stay Safe from Job Scams All official Airtable\ncommunication will come from an @airtable.com email address.\nWe will never ask you to share sensitive information or\npurchase equipment during the hiring process. If in doubt,\ncontact us at hr@airtable.com. Learn more about avoiding job\nscams here.\n",
+  "skills_required": [
+    "Agent architectures",
+    "ChatGPT/OpenAI API",
+    "Claude API",
+    "Context engineering",
+    "LLM APIs",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain context infrastructure including business glossaries, DBT model enrichment, and semantic layer definitions for AI tools",
+    "Design and run evaluation frameworks with test cases, accuracy benchmarks, and validation workflows for AI-generated insights",
+    "Build and orchestrate AI agent systems including prompt pipelines, tool orchestration, query routing logic, and guardrails",
+    "Experiment with and evaluate prompt configurations, agent behaviors, and model outputs using accuracy metrics",
+    "Develop internal AI tooling and automations to improve DS&A team efficiency",
+    "Build automated insight generation systems that proactively surface patterns and anomalies in business data",
+    "Drive cross-functional adoption of AI-powered analytics tools across GTM, Product, Finance, and other teams",
+    "Monitor query logs and user behavior to identify gaps in context coverage and opportunities to expand self-service capabilities"
+  ],
+  "use_cases": [
+    "Natural-language-to-SQL query generation",
+    "Self-service business analytics and data exploration",
+    "Automated insight generation and anomaly detection in business data",
+    "AI-powered analytics tools for organizational decision-making",
+    "Context-aware data question answering systems"
+  ],
+  "tools_mentioned": [
+    "Databricks",
+    "Evaluation frameworks",
+    "Looker",
+    "Omni Analytics",
+    "Snowflake",
+    "dbt"
+  ],
+  "frameworks_mentioned": [
+    "Agent architectures",
+    "ChatGPT/OpenAI API",
+    "Claude API",
+    "Context engineering",
+    "LLM APIs",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and orchestrating AI agent\nsystems, designing prompt pipelines, tool orchestration, and\nquery routing logic. The engineer will work directly on AI-\npowered analytics tools including natural-language-to-SQL\ncapabilities, building the systems that make AI tools\naccurate and trustworthy. This is hands-on work implementing\nand optimizing AI/LLM systems, not just enabling\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude API",
+      "ChatGPT/OpenAI API",
+      "Prompt engineering",
+      "Agent architectures",
+      "LLM APIs",
+      "RAG",
+      "Context engineering"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Snowflake",
+      "Omni Analytics",
+      "Looker"
+    ],
+    "data": [
+      "dbt",
+      "Databricks"
+    ],
+    "cloud": [],
+    "ops": [
+      "Evaluation frameworks"
+    ],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

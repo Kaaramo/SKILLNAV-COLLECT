@@ -1,0 +1,166 @@
+{
+  "job_id": "intl-ai-corpus-0378",
+  "source": "intl-ai-corpus",
+  "source_ref": "7898928",
+  "source_url": "https://builtin.com/job/senior-ai-engineer-ai-services/7898928",
+  "title": "Senior AI Engineer, AI Services",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AHEAD",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,154 Employees",
+  "company_stage": null,
+  "company_focus": "Digital transformation platforms and cloud infrastructure\nservices",
+  "industries": [
+    "Cloud",
+    "Information Technology"
+  ],
+  "description": "AHEAD builds platforms for digital business. By weaving\ntogether advances in cloud infrastructure, automation and\nanalytics, and software delivery, we help enterprises\ndeliver on the promise of digital transformation.\n\nAt AHEAD, we prioritize creating a culture of belonging,\nwhere all perspectives and voices are represented, valued,\nrespected, and heard. We create spaces to empower everyone\nto speak up, make change, and drive the culture at AHEAD.\n\nWe are an equal opportunity employer, and do not\ndiscriminate based on an individual's race, national origin,\ncolor, gender, gender identity, gender expression, sexual\norientation, religion, age, disability, marital status, or\nany other protected characteristic under applicable law,\nwhether actual or perceived.\n\nWe embrace all candidates that will contribute to the\ndiversification and enrichment of ideas and perspectives at\nAHEAD.\n\nRole Overview\n\nThe Senior AI Engineer is a hands-on builder responsible for\ndesigning, developing, and deploying agentic AI solutions\nfor AHEAD’s clients. This role blends software engineering,\nmulti-agent orchestration, and applied AI to deliver real\nbusiness outcomes across workflows like document\nintelligence, coding automation, service desk, operations,\nand decision support.\n\nYou will design agents, build pipelines, integrate models\nwith enterprise systems, and operate production-grade\nagentic automations. You will collaborate directly with\nclients, solution managers, and other engineers to turn\nambiguous ideas into scalable, resilient solutions. This\nrole is central to AHEAD’s strategy of delivering\nenterprise-grade agentic AI.\n\nKey Responsibilities\n\n- Solution Development & Deployment\n- Build and deploy multi-agent systems using frameworks such\n  as LangChain, LangGraph, Autogen, CrewAI, and LlamaIndex.\n- Develop custom agents for document processing, workflow\n  automation, SDLC acceleration, data analysis, and business\n  process orchestration.\n- Integrate LLMs, SLMs, embeddings, and retrieval pipelines\n  (Pinecone, Elasticsearch, Snowflake Cortex, pgvector)\n- Create and operate LLM/ML endpoints, agent memory/state\n  stores, and event-driven triggers.\n- Implement reusable components that become part of AHEAD’s\n  agent library and client solution accelerators\n- Enterprise Integration & Workflow Automation\n- Build real-time and batch workflows using Python, Kafka,\n  EventBridge, Airflow, Snowflake, S3, n8n, AWS Batch, and\n  similar tools.\n- Connect agents to enterprise systems (SharePoint,\n  Salesforce, ServiceNow, Jira, Oracle, databases, APIs).\n- Implement RAG, tool-calling, function calling, and\n  structured output pipelines for production-ready agentic\n  tasks.\n- Ensure robust data transformations, validation, and\n  versioning for downstream agent workflows.\n- Quality, Observability & Reliability\n- Implement monitoring, metrics, and guardrails for multi-\n  agent systems (timeouts, retries, constraints, circuit\n  breakers).\n- Build automated testing for agent behaviors, prompts,\n  ETL/batch jobs, and model outputs.\n- Participate in incident reviews, debugging multi-agent\n  flows, and ensuring predictable performance.\n- Client Collaboration & Delivery Excellence\n- Work closely with client stakeholders to understand use\n  cases, pain points, and success criteria.\n- Translate business needs into technical agent designs and\n  execution roadmaps.\n- Participate in agile ceremonies, demos, and working sessions\n  with client teams.\n- Contribute to proposals, SOWs, architecture diagrams, and\n  client documentation when needed.\n- Security, Governance & Compliance\n- Apply enterprise standards for data security, access\n  control, auditing, model governance, and safe AI usage.\n- Embed monitoring, lineage, PII handling, and policy\n  constraints into agentic flows.\n- Mentorship & Internal Development\n- Coach junior engineers on agent design patterns, RAG,\n  orchestration, and clean engineering practices.\n- Contribute to internal best practices, reference\n  architectures, and reusable components.\n- Support onboarding of new engineers and help scale AHEAD's\n  agentic engineering community.\n\nQualifications\n\n- Required\n- Strong Python engineering background, including async\n  patterns, APIs, and event-driven design.\n- Hands-on experience with multi-agent frameworks (LangGraph,\n  Autogen, CrewAI, LangChain, etc.).\n- Demonstrated ability to build production ETL, orchestration,\n  or workflow automation pipelines (Kafka, EventBridge,\n  Airflow, Celery, n8n, AWS services).\n- Experience with vector DBs and retrieval pipelines\n  (Pinecone, pgvector, Elasticsearch, LlamaIndex).\n- Familiarity with MLOps, observability, CI/CD,\n  containerization, and model deployment patterns.\n- Strong documentation habits and comfort working in fast-\n  paced agile environments.\n- Experience integrating with enterprise systems or APIs in\n  production.\n- Preferred\n- Experience with Snowflake Cortex, Databricks Mosaic, NVIDIA\n  NIMs, or similar AI platform components.\n- Experience operating agentic systems at scale, including\n  safety constraints and system-level debugging.\n- Experience in consulting, client-facing engineering, or co-\n  development models.\n- Success Metrics & Environment\n- Delivery of reliable, scalable agentic solutions that\n  measurably improve client outcomes.\n- High client satisfaction, repeat demand, and strong cross-\n  functional collaboration.\n- Consistent contribution to reusable accelerators and\n  internal knowledge base.\n- Predictable delivery cadence with strong engineering quality\n  and observability.\n- Visible growth of AHEAD's reputation for agentic AI\n  expertise.\n\nWhy AHEAD:\n\nThrough our daily work and internal groups like Moving Women\nAHEAD and RISE AHEAD, we value and benefit from diversity of\npeople, ideas, experience, and everything in between.\n\nWe fuel growth by stacking our office with top-notch\ntechnologies in a multi-million-dollar lab, by encouraging\ncross department training and development, sponsoring\ncertifications and credentials for continued learning.\n\nUSA Employment Benefits include:\n\n- Medical, Dental, and Vision Insurance\n\n- 401(k)\n\n- Paid company holidays\n\n- Paid time off\n\n- Paid parental and caregiver leave\n\n- Plus more! See benefits https://www.aheadbenefits.com/ for\n  additional details.\n\nThe compensation range indicated in this posting reflects\nthe On-Target Earnings (“OTE”) for this role, which includes\na base salary and any applicable target bonus amount. This\nOTE range may vary based on the candidate’s relevant\nexperience, qualifications, and geographic location.\n",
+  "skills_required": [
+    "Autogen",
+    "CrewAI",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "RAG",
+    "agents",
+    "function calling",
+    "model deployment",
+    "prompt engineering",
+    "tool-calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and deploy multi-agent systems using frameworks like LangChain, LangGraph, Autogen, CrewAI, and LlamaIndex",
+    "Develop custom agents for document processing, workflow automation, SDLC acceleration, data analysis, and business process orchestration",
+    "Integrate LLMs, SLMs, embeddings, and retrieval pipelines with enterprise systems like SharePoint, Salesforce, ServiceNow, and databases",
+    "Create and operate LLM/ML endpoints, agent memory/state stores, and event-driven triggers using Python, Kafka, EventBridge, Airflow, and AWS services",
+    "Implement monitoring, metrics, guardrails, and automated testing for multi-agent systems to ensure production reliability",
+    "Work directly with clients to translate business needs into technical agent designs and execution roadmaps",
+    "Apply enterprise standards for data security, access control, auditing, model governance, and safe AI usage",
+    "Coach junior engineers on agent design patterns, RAG, orchestration, and clean engineering practices"
+  ],
+  "use_cases": [
+    "Document intelligence for processing and analyzing enterprise documents",
+    "Service desk automation using agents to handle support workflows",
+    "Coding automation and SDLC acceleration through AI-assisted development tools",
+    "Operations automation and business process orchestration across enterprise systems",
+    "Decision support systems using RAG and tool-calling for data-driven insights",
+    "Real-time and batch workflow automation connecting agents to enterprise data sources"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Batch",
+    "Airflow",
+    "CI/CD",
+    "Databricks Mosaic",
+    "Docker",
+    "ETL",
+    "Elasticsearch",
+    "EventBridge",
+    "Kafka",
+    "MLOps",
+    "NVIDIA NIMs",
+    "Pinecone",
+    "S3",
+    "Snowflake",
+    "Snowflake Cortex",
+    "monitoring",
+    "n8n",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Autogen",
+    "CrewAI",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "RAG",
+    "agents",
+    "function calling",
+    "model deployment",
+    "prompt engineering",
+    "tool-calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on builder role responsible for designing,\ndeveloping, and deploying agentic AI solutions directly. The\nrole involves building multi-agent systems using LangChain,\nLangGraph, Autogen, and CrewAI, implementing RAG pipelines,\nand integrating LLMs/SLMs - all core AI engineering work\nfocused on building and deploying AI models and agents.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Autogen",
+      "CrewAI",
+      "LlamaIndex",
+      "RAG",
+      "function calling",
+      "tool-calling",
+      "prompt engineering",
+      "agents"
+    ],
+    "ml": [
+      "model deployment"
+    ],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "pgvector",
+      "Elasticsearch",
+      "Snowflake"
+    ],
+    "data": [
+      "Kafka",
+      "Airflow",
+      "n8n",
+      "ETL"
+    ],
+    "cloud": [
+      "S3",
+      "AWS Batch",
+      "AWS",
+      "EventBridge",
+      "Snowflake Cortex",
+      "Databricks Mosaic",
+      "NVIDIA NIMs"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "MLOps",
+      "monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,145 @@
+{
+  "job_id": "intl-ai-corpus-2860",
+  "source": "intl-ai-corpus",
+  "source_ref": "9043432",
+  "source_url": "https://builtin.com/job/senior-software-engineer-rag-and-agentic-ai/9043432",
+  "title": "Senior Software Engineer, RAG and Agentic AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NVIDIA",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-14",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21,960 Employees",
+  "company_stage": "Public",
+  "company_focus": "GPU computing, AI hardware and software platforms",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Hardware",
+    "Robotics",
+    "Metaverse"
+  ],
+  "description": "NVIDIA has been transforming computer graphics, PC gaming,\nand accelerated computing for more than 25 years. It’s a\nunique legacy of innovation that’s fueled by great\ntechnology—and amazing people. Today, we’re tapping into the\nunlimited potential of AI to define the next era of\ncomputing. An era in which our GPU acts as the brains of\ncomputers, robots, and self-driving cars that can understand\nthe world. Doing what’s never been done before takes vision,\ninnovation, and the world’s best talent. As an NVIDIAN,\nyou’ll be immersed in a diverse, supportive environment\nwhere everyone is inspired to do their best work. Come join\nthe team and see how you can make a lasting impact on the\nworld.\n\nWe are looking for a Senior Software Engineer to join our AI\nBlueprints team to build multimodal, scalable, production-\ngrade reference RAG solutions. In this role you will build\nthe next-generation RAG architecture using Agentic AI and\nNVIDIA Nemotron models and develop orchestration layers to\ndynamically interact with proprietary unstructured and\nstructured data sources. If you are creative and passionate\nabout real-world enterprise AI challenges, come join us.\n\nWhat you’ll be doing:\n\n- Plan, build and refine a GPU-accelerated, scalable,\n  configurable Retrieval Augmented Generation (RAG) workflow\n  and optimize it for accuracy, relevance, grounding and\n  performance.\n- Design and implement AI agents to enhance RAG pipeline which\n  are capable of reasoning, planning, multi-step execution,\n  and collaboration across tools and services\n- Run fast, high-quality POCs on emerging agent and RAG\n  architectures; harden successful patterns into\n  generalized, reusable implementations and integrate them\n  as part of production software.\n- Build and deploy a disaggregated, end-to-end RAG pipeline\n  using on-prem microservices architecture, orchestrating\n  complex, multi-service deployments from local Docker\n  environments to enterprise-scale Kubernetes clusters.\n- Drive the continuous improvement of the pipelines by\n  rigorously evaluating system accuracy, characterizing\n  performance metrics across components, analyzing the data\n  and recommending actionable strategic enhancements.\"\n- Collaborate with various teams on new product features and\n  the improvement of existing product. Provide guidance and\n  support to NVIDIA internal teams and external partners on\n  domain-adaptation, customization and integration of the\n  RAG pipeline.\n- Champion engineering excellence by leading rigorous code,\n  architecture, and test plan reviews, authoring robust user\n  documentation, and driving collaborative problem-solving\n  and triage initiatives.\n- Drive software excellence by designing with clean\n  architectural patterns and automating the path to\n  production through advanced CI/CD, testing, and telemetry\n  workflows.\n\nWhat we need to see:\n\n- 8+ years of professional software engineering experience,\n  with deep expertise in Python, and AI applications.\n- Bachelor's degree or Master’s degree (or equivalent\n  experience) in Computer Science, Electrical Engineering,\n  Data Science, Artificial Intelligence or other related\n  fields\n- Hands-on experience building and deploying LLM-powered AI\n  applications or RAG or Agentic AI workflows.\n- Strong understanding of LLM design patterns, including tool\n  calling, prompt engineering, structured outputs,\n  reasoning.\n- Experience with agent frameworks or orchestration systems\n  such as LangGraph, LangChain, OpenAI Agents SDK, or\n  similar.\n- Have working experience with microservices, Docker, Helm,\n  Kubernetes.\n- Experience with end-to-end software lifecycle, release\n  packaging, and CI/CD pipelines.\n- Strong collaborative and interpersonal skills, specifically\n  a proven ability to effectively guide and influence within\n  a dynamic environment involving teams across the globe.\n\nWays to stand out from the crowd:\n\n- Experience designing multi-agent systems and sophisticated\n  workflow orchestration engines.\n- Familiarity with evaluation frameworks, MLOps pipelines, and\n  AI observability tooling.\n- Background in deploying AI models on data center, cloud, and\n  embedded systems.\n- Strong python programming skills and experience of working\n  with AI coding agents.\n\nNVIDIA is committed to encouraging a diverse work\nenvironment and is proud to be an equal opportunity\nemployer. We highly value diversity in our current and\nfuture employees. We do not discriminate in hiring or\npromotion based on race, religion, color, national origin,\ngender, gender expression, sexual orientation, age, marital\nstatus, veteran status, disability status, or any other\nlegally protected characteristic.\n\nWidely considered to be one of the technology world’s most\ndesirable employers, NVIDIA offers highly competitive\nsalaries and a comprehensive benefits package. As you plan\nyour future, see what we can offer to you and your family\nwww.nvidiabenefits.com/\n",
+  "skills_required": [
+    "Agentic AI",
+    "GPU Computing",
+    "LLM Design Patterns",
+    "LangChain",
+    "LangGraph",
+    "Multi-Agent Systems",
+    "NVIDIA Nemotron Models",
+    "OpenAI Agents SDK",
+    "Prompt Engineering",
+    "RAG",
+    "Structured Outputs",
+    "Tool Calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and refine a GPU-accelerated, scalable, configurable RAG workflow optimized for accuracy, relevance, grounding, and performance",
+    "Design and implement AI agents to enhance the RAG pipeline with reasoning, planning, multi-step execution, and cross-tool collaboration",
+    "Run rapid POCs on emerging agent and RAG architectures and harden successful patterns into production-grade reusable implementations",
+    "Build and deploy a disaggregated end-to-end RAG pipeline using on-prem microservices architecture across Docker and Kubernetes",
+    "Evaluate system accuracy, characterize performance metrics, analyze data, and recommend strategic enhancements to pipelines",
+    "Collaborate with internal teams and external partners on domain-adaptation, customization, and integration of the RAG pipeline",
+    "Lead code, architecture, and test plan reviews and author robust user documentation",
+    "Design with clean architectural patterns and automate production deployment through CI/CD, testing, and telemetry workflows"
+  ],
+  "use_cases": [
+    "Production-grade multimodal enterprise RAG solutions",
+    "Agentic AI orchestration over proprietary unstructured and structured data sources",
+    "GPU-accelerated RAG pipeline with multi-agent reasoning and planning",
+    "Enterprise-scale AI blueprint deployments for NVIDIA partners",
+    "Domain-adapted AI solutions for NVIDIA internal teams and external customers"
+  ],
+  "tools_mentioned": [
+    "AI Evaluation Frameworks",
+    "AI Observability Tooling",
+    "CI/CD",
+    "Docker",
+    "Helm",
+    "Kubernetes",
+    "MLOps",
+    "Microservices Architecture"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI",
+    "GPU Computing",
+    "LLM Design Patterns",
+    "LangChain",
+    "LangGraph",
+    "Multi-Agent Systems",
+    "NVIDIA Nemotron Models",
+    "OpenAI Agents SDK",
+    "Prompt Engineering",
+    "RAG",
+    "Structured Outputs",
+    "Tool Calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and deploying RAG\narchitectures, AI agents, and agentic AI workflows using\nNVIDIA's own Nemotron models. The engineer will design,\nimplement, and optimize RAG pipelines and multi-agent\nsystems — hands-on work with LLMs and AI model deployment,\nnot infrastructure support.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "Agentic AI",
+      "LangGraph",
+      "LangChain",
+      "OpenAI Agents SDK",
+      "Prompt Engineering",
+      "Tool Calling",
+      "Structured Outputs",
+      "Multi-Agent Systems",
+      "LLM Design Patterns",
+      "NVIDIA Nemotron Models"
+    ],
+    "ml": [
+      "GPU Computing"
+    ],
+    "web": [
+      "Microservices Architecture"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "CI/CD",
+      "MLOps",
+      "AI Observability Tooling",
+      "AI Evaluation Frameworks"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

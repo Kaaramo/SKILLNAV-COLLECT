@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-2423",
+  "source": "intl-ai-corpus",
+  "source_ref": "8879249",
+  "source_url": "https://builtin.com/job/ai-automation-engineer-m-f-d/8879249",
+  "title": "AI Automation Engineer (m/f/d)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "praxipal",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "Berlin",
+  "country": "DE",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "11 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered healthcare administrative automation and AI\nreceptionist for medical practices",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Information Technology"
+  ],
+  "description": "At praxipal, we are building an AI-powered healthcare admin\nworkforce to address the global shortage of medical staff.\n\nMedical assistants are too valuable to spend their days\nchasing callbacks, cleaning up schedules, sending repetitive\nmessages, or wrestling with invoicing and documentation\nworkflows. Staff should spend time on patients. That’s why\nwe build Luna.\n\nOur AI receptionist, Luna, answers and automates phone calls\nand she’s loved by more than 100 medical practices. Right\nnow, we’re expanding her from calls to end-to-end patient\ncommunication across any channel. Over the next years, we’ll\ngrow her into an AI worker that automates all administrative\nprocesses in medical practices, embedded directly into the\nsystems teams already use.\n\nWe’re backed by one of Europe’s leading investors and are\none of the fastest growing healthtech startups in Germany.\nOur team has previously worked and studied at Palantir,\nAmazon, SAP, the University of Cambridge, and Hasso Plattner\nInstitute.\n\nWe are hiring an AI Automation Engineer to build automations\nand internal tools that make our go-to-market organization\nfaster and more scalable.\n\nThe Role\n\nThis is a hands-on role with end-to-end ownership of\nautomations, tools, and reporting that enable Sales,\nMarketing, and Customer Success. You’ll work directly with\nour founders, GTM operators, and other engineers to identify\nbottlenecks and manual work and turn them into reliable\nsystems. If you do things right, you can help us grow twice\nas fast.\n\nWhat You’ll Do\n\nYou’ll build the systems that make our GTM organisation run.\n\n- Identify friction across Sales/Marketing/CS and remove it\n  through automation\n- Automate GTM workflows (n8n, Zapier, custom software, etc.)\n- Build internal tools (lead enrichment, web crawlers,\n  outreach personalization, etc.)\n- Build and maintain our data lake, as well as analytics and\n  automated reporting (campaign performance, funnel\n  tracking, pipeline health, etc.)\n- Create demos and prototypes for new products and new markets\n- Build and maintain our core business systems (billing,\n  commissions, invoicing, etc.)\n\nWhat We’re Looking ForMust-Have\n\n- Strong hands-on software engineering experience in\n  TypeScript, Python or Rust\n- You have built, shipped, and owned software end-to-end\n- Comfortable working with non-technical stakeholders on\n  technical topics\n- You enjoy operating in ambiguity and turning messy real-\n  world processes into pragmatic systems\n- Prior experience in startups or scale-ups\n- You’re excited to work on-site in Berlin in a fast-moving\n  startup in build-mode\n\nNice-to-Have\n\n- Experience with web automation tooling (Selenium,\n  Playwright, Puppeteer)\n- Experience improving operational processes through\n  automation\n- Familiarity with modern data stacks (Postgres, Grafana,\n  PostHog, etc.)\n\nHow We Work\n\n- High ownership: You own the systems you build and the\n  outcomes you create.\n- Hands-on and pragmatic: You focus on solutions that work,\n  even when constraints are messy or imperfect.\n- Humble and collaborative: Team fit and attitude are non-\n  negotiable.\n\nLocation & Compensation\n\n- Location: Berlin (100% on-site)\n- Competitive compensation: €80,000–€120,000 total\n  compensation (cash + equity)\n- Office perks: A beautiful workspace in Berlin Mitte,\n  complete with a ping pong table, PlayStation, and VR setup\n- Team bonding: Regular get-togethers, happy hours and\n  offsites\n- Health and productivity: Free dinners, subsidized lunches\n  and sponsored gym subscription\n\nIf you want to shape the next generation of healthcare\nsoftware with us, apply now.\n",
+  "skills_required": [
+    "Zapier",
+    "n8n"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Identify and remove friction across Sales/Marketing/CS through automation",
+    "Automate GTM workflows using n8n, Zapier, and custom software",
+    "Build internal tools including lead enrichment, web crawlers, and outreach personalization",
+    "Build and maintain data lake, analytics, and automated reporting systems",
+    "Create demos and prototypes for new products and markets",
+    "Build and maintain core business systems including billing, commissions, and invoicing"
+  ],
+  "use_cases": [
+    "Healthcare administrative automation",
+    "AI-powered patient communication",
+    "Medical practice workflow optimization",
+    "Internal GTM automation and tooling"
+  ],
+  "tools_mentioned": [
+    "Grafana",
+    "Playwright",
+    "PostHog",
+    "Postgres",
+    "Puppeteer",
+    "Selenium"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "Rust",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "While the company builds AI-powered products like Luna (AI\nreceptionist), this role focuses on building internal GTM\nautomation tools and systems for Sales/Marketing/CS teams,\nnot working on the AI products themselves. The automation\nwork involves workflow tools like n8n, Zapier, and custom\nsoftware, but not building, training, or deploying AI/ML\nmodels.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "Selenium",
+      "Playwright",
+      "Puppeteer"
+    ],
+    "databases": [
+      "Postgres"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Grafana",
+      "PostHog"
+    ],
+    "languages": [
+      "TypeScript",
+      "Python",
+      "Rust"
+    ],
+    "domains": [],
+    "other": [
+      "n8n",
+      "Zapier"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

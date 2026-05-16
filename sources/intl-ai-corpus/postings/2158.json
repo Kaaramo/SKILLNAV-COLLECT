@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-2158",
+  "source": "intl-ai-corpus",
+  "source_ref": "8784203",
+  "source_url": "https://www.builtinla.com/job/ai-product-engineer/8784203",
+  "title": "AI Product Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Abnormal Security",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "AI-native security platform for enterprise GTM teams",
+  "industries": [
+    "Security",
+    "Cybersecurity"
+  ],
+  "description": "About the Role\n\nAbnormal Security is building AI-native systems that\ntransform how enterprise GTM teams operate — and we're doing\nit by shipping real products on a weekly cadence.\n\nThe AI Transformation Engineering team is the infrastructure\nlayer that makes this possible: we build and maintain the\nplatforms, integrations, and tooling that power a growing\nfleet of AI agents operating across Sales, Customer Success,\nand Marketing.\n\nAs an AI Product Engineer, you'll work at the intersection\nof platform engineering and direct product delivery. Some\nweeks you're extending agent infrastructure — building new\ntools, connectors, and APIs that let AI agents do things\nthey couldn't do before. Other weeks you're shipping GTM\ntooling directly, moving fast because the shortest path to\nimpact is writing the code yourself.\n\nYou'll collaborate closely with AI Product Managers who\ndefine and build automations weekly, unblocking them with\nnew platform capabilities and partnering on what to build\nnext.\n\nThis is a high-visibility, high-autonomy role. You'll demo\nyour work every Friday. Your systems will be used by a\n700-person GTM org. You'll work closely with engineering and\nproduct leadership and have line-of-sight to the CEO’s\npriorities.\n\nWhat You Will Do\n\n- Build and extend agent platform capabilities — new tools,\n  APIs, data connectors, and integrations that expand what\n  AI agents can do without manual intervention\n- Ship self-serviceable GTM tooling that enables non-technical\n  users to set up their own AI-initiated LLM workflows.\n- Partner with AI Product Managers on platform requirements —\n  translate their roadmap blockers into well-scoped\n  engineering deliverables with reliable timelines\n- Identify and build reusable infrastructure — proactively\n  design horizontal capabilities that accelerate multiple\n  product workstreams at once\n- Own reliability and observability for the systems you build\n  — you're not handing off to an ops team\n- Demo your work weekly and communicate clearly to technical\n  and non-technical stakeholders alike\n\nThe Ideal Candidate\n\nYou're an engineer who ships things. You've built LLMs and\nagents in production — not as a side experiment, but as the\ncore of what you were delivering. You have strong product\ninstincts alongside engineering depth: you ask \"who is this\nfor and what do they actually need?\" before writing code.\nYou move fast without being careless, and you use AI coding\ntools as force multipliers, not crutches.\n\nYou're motivated by ownership and velocity. You'd rather\nhave a small surface area and full accountability than a\nlarge team and a ticket queue.\n\nMust Haves\n\n- 2+ years of software engineering experience (strong\n  internship and project portfolios considered)\n- Demonstrated experience building with LLMs, agents, or AI\n  APIs in a real product context — show us something that\n  shipped\n- Proficiency in Python; comfort picking up new frameworks\n  quickly\n- Experience integrating external APIs and building data\n  pipelines\n- Strong written communication — you can write a clear spec\n  and a clear async update\n- Ability to work with high autonomy, minimal oversight, and\n  surface blockers proactively\n\nNice to Have\n\n- Frontend or full-stack experience (React/Next.js) for\n  building internal tools and dashboards\n- Familiarity with agentic frameworks (LangGraph, CrewAI,\n  Autogen) or production-scale prompt engineering\n- Prior experience in a startup or high-velocity small team\n- Open source contributions or a public portfolio of AI\n  projects\n\n#LI-ML1\n\nActual compensation will be determined based on several non-\ndiscriminatory factors including skills, experience,\nqualifications, and geographic location. In addition to base\nsalary, this role may be eligible for bonus or incentive\ncompensation, equity, and a comprehensive benefits package.\n\nBase salary range:\n\n$149,200—$214,500 USD\n\nAbnormal AI is an equal opportunity employer. Qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, sex, national origin,\ndisability, protected veteran status or other\ncharacteristics protected by law. For our EEO policy\nstatement please click here. If you would like more\ninformation on your EEO rights under the law, please click\nhere.\n",
+  "skills_required": [
+    "AI agents",
+    "Autogen",
+    "CrewAI",
+    "LLMs",
+    "LangGraph",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and extend agent platform capabilities including new tools, APIs, data connectors, and integrations for AI agents",
+    "Ship self-serviceable GTM tooling enabling non-technical users to set up AI-initiated LLM workflows",
+    "Partner with AI Product Managers to translate roadmap blockers into engineering deliverables",
+    "Identify and build reusable horizontal infrastructure capabilities",
+    "Own reliability and observability for built systems",
+    "Demo work weekly and communicate to technical and non-technical stakeholders"
+  ],
+  "use_cases": [
+    "AI agents for Sales operations",
+    "AI agents for Customer Success workflows",
+    "AI agents for Marketing automation",
+    "Self-service LLM workflow creation for non-technical users",
+    "GTM team productivity and automation"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "Next.js",
+    "React",
+    "data pipelines"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Autogen",
+    "CrewAI",
+    "LLMs",
+    "LangGraph",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building agent platforms, tools, and APIs\nfor AI agents, and shipping GTM tooling with LLM workflows.\nThe candidate must have experience building LLMs and agents\nin production, and will work directly on agent\ninfrastructure and capabilities. This is hands-on work with\nAI systems, not supporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "AI agents",
+      "LangGraph",
+      "CrewAI",
+      "Autogen",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "Next.js",
+      "APIs"
+    ],
+    "databases": [],
+    "data": [
+      "data pipelines"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

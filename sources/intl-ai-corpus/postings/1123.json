@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-1123",
+  "source": "intl-ai-corpus",
+  "source_ref": "8165487",
+  "source_url": "https://builtin.com/job/applied-ai-engineer-ai-automation/8165487",
+  "title": "Applied AI Engineer (AI Automation)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Fusemachines",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "428 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Enterprise AI products and services",
+  "industries": [],
+  "description": "About Fusemachines\n\nFounded in 2013, Fusemachines is a global provider of\nenterprise AI products and services, on a mission to\ndemocratize AI. Leveraging proprietary AI Studio and AI\nEngines, the company helps drive the clients’ AI Enterprise\nTransformation, regardless of where they are in their\nDigital AI journeys. With offices in North America, Asia,\nand Latin America, Fusemachines provides a suite of\nenterprise AI offerings and specialty services that allow\norganizations of any size to implement and scale AI.\nFusemachines serves companies in industries such as retail,\nmanufacturing, and government. Fusemachines continues to\nactively pursue the mission of democratizing AI for the\nmasses by providing high-quality AI education in underserved\ncommunities and helping organizations achieve their full\npotential with AI. Type: Full-time Role Overview\n\nAs an AI Automation Engineer, you will play a pivotal role\nin delivering high-quality, tailored AI and automation\nsolutions that directly address client challenges and\ngenerate tangible value. You will lead technical\nimplementation efforts, support ongoing engineering for\nretainer clients, and help build scalable, productized\nsolutions that can be deployed across multiple clients.\n\nKey Responsibilities\n\n- Design, develop, and deploy tailored AI and automation\n  solutions based on client-specific needs and objectives.\n- Translate ambiguous business problems into scalable, end-to-\n  end AI workflows using Python, n8n (or similar tools),\n  OpenAI APIs, and vector databases.\n- Build full end-to-end AI automations, including triggers,\n  LLM logic, API calls, data storage, error handling,\n  monitoring, and iteration.\n- Design and deploy AI agent systems, including multi-step\n  workflows that call tools, interact with APIs, and operate\n  autonomously.\n- Integrate with third-party AI tools and platforms to solve\n  real-world problems such as customer service queues, phone\n  routing systems, voice agents, and agent-driven workflows.\n- Act as a technical partner for retainer clients, owning\n  solution delivery, refinement, and ongoing maintenance.\n- Own the deployment, iteration, and continuous improvement of\n  AI agent systems across multiple client teams.\n- Create technical documentation, client demos, and internal\n  playbooks to support reuse, scalability, and knowledge\n  sharing.\n- Stay current on emerging AI tools, libraries, and\n  methodologies to continuously improve solution quality and\n  delivery speed.\n\nSuccess in This Role Looks Like\n\n- Solutions delivered to clients consistently meet or exceed\n  expectations and show measurable business impact (e.g.,\n  time saved, cost reduced, conversion increased).\n- Retainer clients view you as a go-to engineering\n  partner—relying on your expertise to expand AI usage and\n  optimize existing workflows.\n- You bring creativity and a strategic approach to problem\n  solving and your solutions designs.\n\nQualifications\n\n- 3 to 5+ years of experience in software engineering or\n  applied systems development.\n- Demonstrated project experience building AI-driven and\n  automation-based solutions using tools such as GPT APIs,\n  workflow orchestration platforms, and embeddings.\n- Hands-on experience building end-to-end AI agent workflows,\n  including phone trees, customer support bots, voice\n  agents, or API-driven AI agents.\n- Experience with Model Context Protocol (MCP) servers, or\n  strong interest and ability to ramp up quickly.\n- Familiarity with modern AI-native toolchains, such as n8n,\n  Make, Vapi, Zapier, LangGraph, LlamaIndex Agents, OpenAI\n  Assistants API, or similar platforms.\n- Strong experience with Python and related frameworks,\n  including prompt engineering, RAG pipelines, and system\n  integration patterns.\n- Proven ability to translate ambiguous business goals into\n  autonomous AI workflows and production-ready\n  implementations.\n- Experience supporting client relationships and managing\n  multiple priorities in parallel.\n- Self-directed, collaborative, and comfortable balancing deep\n  technical builds with fast, iterative prototyping.\n- Prior consulting experience or work in fast-paced startup\n  environments is a plus\n\nEqual Opportunity Employer: Race, Color, Religion, Sex,\nSexual Orientation, Gender Identity, National Origin, Age,\nGenetic Information, Disability, Protected Veteran Status,\nor any other legally protected group status\n\n\nImportant: Immigration Sponsorship Policy\n\nFusemachines is unable to proceed with candidates who\nrequire any form of work authorization or immigration\nsupport from the company.\n",
+  "skills_required": [
+    "Anthropic APIs",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP",
+    "OpenAI APIs",
+    "OpenAI Assistants API",
+    "RAG",
+    "agents",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and deploy tailored AI and automation solutions based on client-specific needs and objectives",
+    "Translate ambiguous business problems into scalable, end-to-end AI workflows using Python, n8n, OpenAI APIs, and vector databases",
+    "Build full end-to-end AI automations, including triggers, LLM logic, API calls, data storage, error handling, monitoring, and iteration",
+    "Design and deploy AI agent systems, including multi-step workflows that call tools, interact with APIs, and operate autonomously",
+    "Integrate with third-party AI tools and platforms to solve real-world problems such as customer service queues, phone routing systems, voice agents, and agent-driven workflows",
+    "Act as a technical partner for retainer clients, owning solution delivery, refinement, and ongoing maintenance"
+  ],
+  "use_cases": [
+    "Customer service automation bots and phone routing systems",
+    "Voice agents for customer interaction automation",
+    "Multi-step AI agent workflows that autonomously call tools and APIs",
+    "Customer support queue automation with intelligent triage",
+    "Enterprise workflow automation using LLM-driven decision making",
+    "Agent-driven workflows for operational efficiency and cost reduction"
+  ],
+  "tools_mentioned": [
+    "Make",
+    "Zapier",
+    "n8n",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic APIs",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP",
+    "OpenAI APIs",
+    "OpenAI Assistants API",
+    "RAG",
+    "agents",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building and deployment of AI\nagents, LLM workflows, RAG pipelines, and automation\nsolutions. The engineer designs end-to-end AI systems using\nOpenAI APIs, vector databases, LangGraph, and agent\nframeworks - directly implementing model-driven solutions\nrather than just supporting infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI APIs",
+      "Anthropic APIs",
+      "prompt engineering",
+      "RAG",
+      "agents",
+      "LangGraph",
+      "LlamaIndex",
+      "MCP",
+      "OpenAI Assistants API"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "n8n",
+      "Make",
+      "Zapier"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

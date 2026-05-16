@@ -1,0 +1,152 @@
+{
+  "job_id": "intl-ai-corpus-0181",
+  "source": "intl-ai-corpus",
+  "source_ref": "7326423",
+  "source_url": "https://builtin.com/job/software-engineer-ai-infrastructure/7326423",
+  "title": "Software Engineer - AI Infrastructure",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Assembled",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-18",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "130 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-powered customer support operations platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Automation"
+  ],
+  "description": "About Assembled\n\nGreat customer support requires human agents and AI in\nperfect balance, and Assembled is the only unified platform\nthat orchestrates both at scale. Companies like Canva, Etsy,\nand Robinhood use Assembled to coordinate their entire\nsupport operation — in-house agents, BPOs, and AI — in a\nsingle operating system. With AI Agents that resolve cases\nend-to-end, AI Copilot for agent assistance, and AI-powered\nworkforce management that optimizes both human and AI\ncapacity, Assembled helps teams deliver faster, better\nservice while making smarter decisions about how to staff\nand automate. Backed by $70M from NEA, Emergence Capital,\nand Stripe, we're building the platform that makes AI and\nhuman collaboration actually work.\n\nThe Role\n\nWe’re looking for a software engineer to join our\nInfrastructure team—building and operating the core systems\nthat power our rapidly growing AI agent platform for\ncustomer support. Our AI Agents automates support workflows\nacross email, chat, and voice, and has grown from $0 to $1M\nin ARR in just 3 months. As adoption accelerates, we’re\ninvesting deeply in scaling its infrastructure to meet\nincreasing demand and security expectations from enterprise\ncustomers.\n\nAs part of the AI Infrastructure team, you’ll be responsible\nfor the systems that enable Assist to be fast, reliable, and\nsecure. You’ll work on foundational platform components that\npower real-time LLM usage at scale, while also exploring how\nAI can be leveraged internally to make our engineering team\nmore productive. This team is highly cross-functional,\nworking closely with the AI, security, and product\nengineering teams.\n\nThis is a high-ownership role for someone who’s excited by\n0-to-1 building and shaping the infrastructure backbone of\nour AI products.\n\nSome projects owned by the Infrastructure team\n\n- Agent service reliability and scaling: We manage and scale\n  the infrastructure that serves LLM-powered agents across\n  chat, email, and voice. This includes selecting inference\n  strategies, integrating with model providers (e.g. OpenAI,\n  Anthropic), and dynamically routing traffic for\n  performance and cost efficiency.\n- Prompt and embedding storage systems: Assist relies heavily\n  on dynamically generated prompts and semantic search\n  across support content. The team owns highly-available,\n  fast-access storage and indexing layers optimized for\n  real-time AI interactions.\n- Privacy and security: Enterprises expect strict guardrails\n  around AI use. We’re building systems like network-level\n  intrusion detection (IDS/IPS), audit logging, and LLM\n  usage policy enforcement to meet these expectations and\n  unlock new sales channels.\n- Observability and usage analytics: We operate systems that\n  surface key metrics—token usage, latency, cost per\n  response, and quality signals—so the Assist team can\n  continuously improve Assist’s performance and accuracy.\n- AI-powered developer tools: We are beginning to explore and\n  evangelize the use of AI to accelerate internal\n  engineering workflows—through internal chat agents, pair\n  programming tools, and intelligent automation for\n  deployment, debugging, and on-call. Our goal is to empower\n  engineers across the company to build faster and more\n  confidently with AI.\n\nYou may be a good fit if you:\n\n- Have 6+ years of engineering experience, with past ownership\n  of high-scale, production-critical infrastructure\n- Have experience with distributed systems and container\n  orchestration (especially Kubernetes)\n- Have worked with AI/ML platforms or are excited to build\n  foundational infrastructure for LLM-based applications\n- Thrive in fast-paced environments with shifting requirements\n  and ambiguous problem spaces\n- Are motivated by impact, enjoy deep technical challenges,\n  and want to work cross-functionally across security, AI,\n  and product\n- Have strong familiarity with one or more parts of our tech\n  stack:\n  - Cloud provider: AWS\n  - Orchestration: Kubernetes + Karpenter\n  - LLM integration: Experience with OpenAI, Anthropic, or open-\n    source model serving (e.g., vLLM, HuggingFace TGI, Ray\n    Serve)\n  - Prompt & embedding infrastructure: Vector databases (e.g.,\n    Pinecone, Weaviate, PGVector), semantic search, prompt\n    templating systems\n  - Datastores: Postgres + PgBouncer, Snowflake, Redis\n  - Languages: Go and Python\n  - Monitoring & CI/CD: Datadog, Mezmo, CloudWatch, Buildkite,\n    CircleCI\n\nOur U.S. benefits\n\n- Generous medical, dental, and vision benefits\n- Paid company holidays, sick time, and unlimited time off\n- Monthly credits to spend on each: professional development,\n  general wellness, Assembled customers, and commuting\n- Paid parental leave\n- Hybrid work model with catered lunches everyday (M-F),\n  snacks, and beverages in our SF & NY offices\n- 401(k) plan enrollment\n\nWe know great candidates don’t always meet every requirement\nlisted in a job description. If the role excites you and you\nbelieve you can make an impact at Assembled, we encourage\nyou to apply. We value diverse perspectives and are\ncommitted to building an inclusive workplace where everyone\nfeels like they belong and has the opportunity to do their\nbest work. We look forward to hearing from you!\n\nFor United States Applicants: Assembled participates in\nE-Verify and will provide the federal government with your\nForm I-9 information to confirm that you are authorized to\nwork in the United States. For United Kingdom Applicants:\nAssembled is required to verify your right to work in the UK\nand will conduct a Right to Work check prior to employment\nin accordance with applicable law.\n",
+  "skills_required": [
+    "Anthropic API",
+    "Distributed systems",
+    "LLM integration",
+    "OpenAI API",
+    "Prompt templating",
+    "Semantic search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and operate core infrastructure powering the AI agent platform for customer support at scale",
+    "Manage agent service reliability and scaling including inference strategies, model provider integrations, and dynamic traffic routing",
+    "Develop prompt and embedding storage systems with fast-access storage and indexing layers for real-time AI interactions",
+    "Implement privacy and security systems including intrusion detection, audit logging, and LLM usage policy enforcement",
+    "Operate observability and usage analytics systems tracking token usage, latency, cost, and quality signals",
+    "Explore and build AI-powered developer tools including internal chat agents and intelligent automation for deployment and debugging"
+  ],
+  "use_cases": [
+    "AI Agents that automate customer support workflows across email, chat, and voice channels",
+    "AI Copilot providing real-time assistance to human support agents",
+    "AI-powered workforce management optimizing both human and AI capacity",
+    "Dynamic routing of LLM requests for performance and cost efficiency",
+    "Semantic search across support content using embeddings and vector databases",
+    "Enterprise-grade AI systems with strict privacy, security, and compliance guardrails"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Buildkite",
+    "CircleCI",
+    "CloudWatch",
+    "Container orchestration",
+    "Datadog",
+    "HuggingFace TGI",
+    "Inference strategies",
+    "Karpenter",
+    "Kubernetes",
+    "Mezmo",
+    "PGVector",
+    "PgBouncer",
+    "Pinecone",
+    "Postgres",
+    "Ray Serve",
+    "Redis",
+    "Snowflake",
+    "Weaviate",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LLM integration",
+    "OpenAI API",
+    "Prompt templating",
+    "Semantic search"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is building infrastructure and platforms that\npower LLM-based agents, not building or fine-tuning models\nthemselves. The engineer works on inference routing, storage\nsystems, observability, and developer tools that enable AI\nwork, which aligns with ai-support classification.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "Semantic search",
+      "Prompt templating",
+      "LLM integration"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "PGVector",
+      "Postgres",
+      "PgBouncer",
+      "Snowflake",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Karpenter",
+      "vLLM",
+      "HuggingFace TGI",
+      "Ray Serve",
+      "Datadog",
+      "Mezmo",
+      "CloudWatch",
+      "Buildkite",
+      "CircleCI",
+      "Container orchestration",
+      "Inference strategies"
+    ],
+    "languages": [
+      "Go",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

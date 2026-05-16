@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-1094",
+  "source": "intl-ai-corpus",
+  "source_ref": "8122729",
+  "source_url": "https://builtin.com/job/applied-ai-research-engineer/8122729",
+  "title": "Applied AI Research Engineer",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Enterpret",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-27",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "31 Employees",
+  "company_stage": "Series A/B",
+  "company_focus": "AI-native platform for customer feedback analysis and\ninsights",
+  "industries": [
+    "Natural Language Processing",
+    "Analytics",
+    "Design"
+  ],
+  "description": "About Enterpret Enterpret is redefining how businesses\nunderstand and act on customer feedback. We are building an\nAI-native platform that centralises feedback from every\nsource surveys, reviews, support tickets, communities and\nturns it into clear, actionable insights that drive business\ngrowth. We are trusted by some of the world’s most customer-\nobsessed companies like Canva, Descript, Notion, Perplexity\nand many more, and backed by leading investors like Kleiner\nPerkins, Canaan Partners, and Peak XV Partners. Our mission:\nto unlock the voice of the customer for every product team\non the planet. About the Role This is a hands-on role for\nsomeone who’s equally strong in research thinking and\nengineering execution. You will define what “good” looks\nlike for AI-powered features, build systems that meet that\nbar, and own them through launch and beyond. From writing\neval plans to debugging failures in production, you will\nwork across the stack and across functions to ship reliable,\nhigh-quality LLM-driven systems. What You Will Do ? You will\ndesign, build & ship AI-backed features that are reliable in\nproduction\n\n- Define the quality bar: design eval rubrics, test plans, and\n  rollout criteria. Make sure they’re measurable and\n  enforced.\n- Build with real-world constraints: write and extend\n  production code, set up monitoring, and add tests that\n  catch regressions before users do.\n- Own features end to end from problem framing to modeling,\n  from system design to rollout and iteration.\n- Debug failures across the stack including data, infra,\n  model, prompt logic and harden the system with what you\n  learn.\n- Design and implement systems: retrieval pipelines, agents,\n  or hybrid patterns, based on what the problem actually\n  needs.\n- Work across functions: collaborate with product, infra, and\n  engineers to ship features that actually stick.\n\nWhat It Takes ? You have built and shipped AI systems before\nand carried the load when things broke post-launch.\n\n- Strong research instincts: you are good at defining what\n  “working” means and designing evaluations that reflect\n  real-world usage.\n- Solid engineering skills: you write clean, testable Python,\n  debug at system boundaries, and know your way around\n  production stacks.\n- LLM understanding: you have worked with modern models and\n  know how to prompt, fine-tune, or wrap them with tooling\n  and evaluation.\n- Systems mindset: you think in interfaces, data contracts,\n  failure modes, and rollout plans, not just model tweaks.\n- Practical bias: you care more about what ships and survives\n  than what’s novel.\n- Ownership: you take initiative, communicate clearly, and\n  push for quality without being asked.\n\nWhy Enterpret?\n\n- We build AI systems that people can trust because they have\n  been tested, monitored, and hardened through real usage.\n- We care deeply about quality. Eval plans, incident retros,\n  and per-tenant guardrails aren't checkboxes, they're the\n  core of how we build.\n- We believe research belongs in production, not just papers.\n  You will see your ideas live in running systems within\n  weeks, not years.\n- We are small enough that every engineer matters, and focused\n  enough that there's no busywork, just high-impact\n  problems.\n- You will be part of a team that runs toward hard, ambiguous\n  challenges and sees them through to working, reliable\n  systems.\n- There is no playbook here, we are writing it as we go. If\n  that excites you, not scares you, you will thrive here.\n",
+  "skills_required": [
+    "Agents",
+    "Evaluation frameworks",
+    "Fine-tuning",
+    "LLM systems",
+    "Prompt engineering",
+    "RAG",
+    "System design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build & ship AI-backed features that are reliable in production",
+    "Define quality bar by designing eval rubrics, test plans, and rollout criteria",
+    "Write and extend production code, set up monitoring, and add tests to catch regressions",
+    "Own features end-to-end from problem framing to modeling, system design to rollout",
+    "Debug failures across the stack including data, infra, model, and prompt logic",
+    "Design and implement retrieval pipelines, agents, or hybrid patterns",
+    "Collaborate with product, infra, and engineers across functions to ship features"
+  ],
+  "use_cases": [
+    "Customer feedback centralization from surveys, reviews, support tickets, and communities",
+    "Transforming feedback into actionable insights for business growth",
+    "AI-powered analytics for product teams",
+    "Automated customer voice analysis",
+    "Enterprise feedback intelligence platform"
+  ],
+  "tools_mentioned": [
+    "Production monitoring",
+    "SQL"
+  ],
+  "frameworks_mentioned": [
+    "Agents",
+    "Evaluation frameworks",
+    "Fine-tuning",
+    "LLM systems",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an ai-first role focused on building, shipping, and\nmaintaining LLM-driven systems in production. The role\ninvolves designing and implementing retrieval pipelines,\nagents, prompt engineering, fine-tuning models, and building\nAI-backed features end-to-end with real-world constraints.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM systems",
+      "Prompt engineering",
+      "RAG",
+      "Agents"
+    ],
+    "ml": [
+      "Fine-tuning",
+      "Evaluation frameworks"
+    ],
+    "web": [],
+    "databases": [
+      "SQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Production monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "System design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

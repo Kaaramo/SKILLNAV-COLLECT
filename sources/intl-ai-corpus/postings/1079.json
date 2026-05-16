@@ -1,0 +1,109 @@
+{
+  "job_id": "intl-ai-corpus-1079",
+  "source": "intl-ai-corpus",
+  "source_ref": "8113342",
+  "source_url": "https://builtin.com/job/senior-software-engineer-i-ai-ml/8113342",
+  "title": "Senior Software Engineer I- AI/ML",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Aledade",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-01",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,500 Employees",
+  "company_stage": null,
+  "company_focus": "Healthcare analytics and ACO solutions",
+  "industries": [],
+  "description": "As a Senior Software Engineer I at Aledade, we maintain,\nimprove, and expand our web application and data pipelines.\nWe're looking for engineers who know that writing new code\nis not always the solution to a problem, but when\ntechnological changes are needed they create secure,\nmaintainable, performant, correct, scalable, and stable\nsolutions to the complex and unique challenges in our corner\nof the healthcare industry.\n\nThey embrace strategies that minimize risk, leaning towards\nobservability, alerting, metrics, high test coverage, and\nfrequent releases that incrementally build value.\n\nPrimary Duties:\n\n- Develop and implement scalable and performant solutions.\n- Partner, as a peer, with Engineering Managers, Product\n  Managers, and stakeholders throughout Aledade to develop\n  and execute technical roadmaps using Agile processes.\n- Mentor and coach more junior engineers including thorough\n  pull request reviews for other developers and be receptive\n  to critical feedback on your own work.\n\nMinimum Qualifications:\n\n- BS/BTech (or higher) in Computer Science, Engineering or a\n  related field.\n- 4+ years experience as an engineer building full-stack web\n  applications as part of a cross-functional team.\n- 3+ years of experience working with SQL or other database\n  querying language on large multi-table data sets.\n- 2+ years of experience acting as a trusted technical\n  decision-maker in a team setting, solving for short-term\n  and long-term business value.\n- 2+ years of experience coaching other engineers.\n\nPreferred KSA’s:\n\n- Proficiency in machine learning algorithms and techniques.\n- Experience in deploying machine learning models into\n  production environments.\n- Expertise with statistical data techniques (such as causal\n  inference, syntactic analysis, sampling methods, NLP etc),\n  with experience in addressing challenges from incomplete,\n  unrepresentative, and mislabeled data.\n- Experience with cloud computing platforms such as AWS, Azure\n  or Google Cloud.\n- Experience with security and systems that handle sensitive\n  data.\n\nPhysical Requirements:\n\n- Sitting for prolonged periods of time. Extensive use of\n  computers and keyboard. Occasional walking and lifting may\n  be required.\n",
+  "skills_required": [
+    "causal inference",
+    "machine learning algorithms",
+    "sampling methods",
+    "statistical data techniques"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and implement scalable and performant solutions for web applications and data pipelines",
+    "Partner with Engineering Managers, Product Managers, and stakeholders to develop and execute technical roadmaps using Agile processes",
+    "Mentor and coach more junior engineers including thorough pull request reviews",
+    "Build secure, maintainable, and scalable solutions to complex healthcare industry challenges",
+    "Embrace observability, alerting, metrics, and high test coverage to minimize risk",
+    "Conduct frequent releases that incrementally build value"
+  ],
+  "use_cases": [
+    "Healthcare analytics and data processing for healthcare organizations",
+    "Full-stack web applications supporting healthcare operations",
+    "Data pipelines for large multi-table healthcare datasets",
+    "Statistical analysis including causal inference and NLP on healthcare data",
+    "Cloud-based systems handling sensitive healthcare data"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "SQL",
+    "data pipelines",
+    "full-stack web development"
+  ],
+  "frameworks_mentioned": [
+    "causal inference",
+    "machine learning algorithms",
+    "sampling methods",
+    "statistical data techniques"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role is primarily a full-stack web application and data\npipeline engineer position. While ML knowledge is preferred\nand the title mentions AI/ML, the core responsibilities\nfocus on building web applications, data pipelines, and\ngeneral software engineering rather than building, training,\nor deploying AI/ML models directly.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "machine learning algorithms",
+      "statistical data techniques",
+      "causal inference",
+      "sampling methods"
+    ],
+    "web": [
+      "full-stack web development"
+    ],
+    "databases": [
+      "SQL"
+    ],
+    "data": [
+      "data pipelines"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "Google Cloud"
+    ],
+    "ops": [],
+    "languages": [],
+    "domains": [
+      "NLP",
+      "syntactic analysis"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

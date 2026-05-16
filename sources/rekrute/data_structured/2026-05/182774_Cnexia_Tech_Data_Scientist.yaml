@@ -1,0 +1,46 @@
+company:
+  name: Cnexia Tech
+  stage: null
+  focus: Subsidiary marocain du plus grand opérateur Telecom canadien — 1100+ employés (Fès + Rabat Technopolis)
+position:
+  title: Data Scientist
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities:
+  - Design and train predictive/DL models
+  - Feature engineering + data pipelines
+  - Model performance + fine-tuning
+  - Production deployment + monitoring
+  - Technical mentorship
+  - Model architecture documentation
+  use_cases:
+  - Predictive modeling
+  - A/B testing
+  - Data pipeline engineering
+  skills:
+    genai:
+    - fine-tune
+    ml:
+    - deep learning
+    - machine learning
+    - pytorch
+    - scikit-learn
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - a/b testing
+    - Cloud production
+    - Production deployment
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '182774'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

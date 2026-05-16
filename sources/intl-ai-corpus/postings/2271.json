@@ -1,0 +1,191 @@
+{
+  "job_id": "intl-ai-corpus-2271",
+  "source": "intl-ai-corpus",
+  "source_ref": "8834789",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai-ml/8834789",
+  "title": "Senior Software Engineer - AI/ML",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Flexera",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-23",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,000 Employees",
+  "company_stage": null,
+  "company_focus": "Technology spend optimization through ITAM and FinOps SaaS\nsolutions",
+  "industries": [
+    "Big Data",
+    "Cloud",
+    "Information Technology",
+    "Software",
+    "Business Intelligence",
+    "Cybersecurity"
+  ],
+  "description": "Flexera saves customers billions of dollars in wasted\ntechnology spend. A pioneer in Hybrid ITAM and FinOps,\nFlexera provides award-winning, data-oriented SaaS solutions\nfor technology value optimization (TVO), enabling IT,\nfinance, procurement and cloud teams to gain deep insights\ninto cost optimization, compliance and risks for each\nbusiness service. Flexera One solutions are built on a set\nof definitive customer, supplier and industry data, powered\nby our Technology Intelligence Platform, that enables\norganizations to visualize their Enterprise Technology\nBlueprint™ in hybrid environments—from on-premises to SaaS\nto containers to cloud.\n\nWe’re transforming the software industry.  We’re Flexera.\n With more than 50,000 customers across the world, we’re\nachieving that goal. But we know we can’t do any of that\nwithout our team.  Ready to help us re-imagine the industry\nduring a time of substantial growth and ambitious plans? \nCome and see why we’re consistently recognized by Gartner,\nForrester and IDC as a category leader in the marketplace.\nLearn more at flexera.com\n\nWe are looking for a Senior AI/ML Engineer to design and\ndeploy generative AI and machine learning solutions across\nAWS, Azure, and Databricks environments. The role combines\nsoftware engineering, machine learning, and cloud\narchitecture to build production AI systems. You will\ncollaborate with data scientists, engineers, product\nmanagers, and business stakeholders to deliver impactful AI\nsolutions.\n\nKey Responsibilities\n\nGenerative AI and LLM Integration Build production\napplications using Amazon Bedrock models such as Claude,\nTitan, Llama, and Mistral. Develop AI agents using Bedrock\nAgents, action groups, guardrails, and Prompt Flow\norchestration. Design prompt engineering strategies,\nevaluation frameworks, and responsible AI controls including\nfiltering and bias detection.\n\nRAG and Vector Search Design scalable retrieval augmented\ngeneration architectures. Implement vector search using\nOpenSearch Serverless and pgvector with Aurora PostgreSQL or\nAmazon RDS. Develop embedding pipelines, chunking\nstrategies, hybrid search, re ranking, and metadata\nfiltering.\n\nCloud Architecture Build serverless AI systems using Lambda,\nAPI Gateway, Step Functions, and EventBridge. Develop ML\npipelines using SageMaker, Feature Store, and SageMaker\nPipelines. Design data pipelines using Glue, Athena, and\nRedshift. Implement secure VPC architectures and\ninfrastructure as code using AWS CDK or CloudFormation. Set\nup observability using CloudWatch and X Ray.\n\nProduction Engineering Create CI/CD pipelines using GitHub\nActions. Implement model testing, monitoring, versioning,\nand deployment strategies. Build alerting and incident\nresponse for ML pipelines.\n\nRequired Qualifications\n\nEducation Bachelor’s degree in Computer Science, Machine\nLearning, Data Science, Mathematics, or related field.\n\nExperience 5+ years in machine learning, data engineering,\nor software engineering. 3+ years working with cloud\nplatforms such as AWS, Azure, or Databricks. 2+ years\nworking with generative AI and large language models.\nExperience deploying ML systems in production and building\nRAG systems with vector databases.\n\nTechnical Skills Strong Python and SQL skills. Experience\nwith PyTorch, TensorFlow, or Hugging Face. Familiar with\nLangChain, LlamaIndex, or Semantic Kernel. Experience\nbuilding APIs using FastAPI, Flask, or Django. Knowledge of\nDocker and CI/CD tools.\n\nPreferred AWS Solutions Architect certification. Experience\nwith conversational AI, document processing, recommendation\nsystems, NLP, computer vision, or time series.\n\nFlexera is proud to be an equal opportunity employer. \nQualified applicants will be considered for open roles\nregardless of age, ancestry, color, family or medical care\nleave, gender identity or expression, genetic information,\nmarital status, medical condition, national origin, physical\nor mental disability, political affiliation, protected\nveteran status, race, religion, sex (including pregnancy),\nsexual orientation, or any other characteristic protected by\nlocal/national laws, policies and/or regulations. \n\nFlexera understands the value that results from employing a\ndiverse, equitable, and inclusive workforce. We recognize\nthat equity necessitates acknowledging past exclusion and\nthat inclusion requires intentional effort. Our DEI\n(Diversity, Equity, and Inclusion) council is the driving\nforce behind our commitment to championing policies and\npractices that foster a welcoming environment for all.\n\nWe encourage candidates requiring accommodations to please\nlet us know by emailing careers@flexera.com.\n",
+  "skills_required": [
+    "AI agents",
+    "Claude",
+    "Hugging Face",
+    "LangChain",
+    "LlamaIndex",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "Semantic Kernel",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build production applications using Amazon Bedrock models including Claude, Titan, Llama, and Mistral",
+    "Develop AI agents using Bedrock Agents, action groups, guardrails, and Prompt Flow orchestration",
+    "Design and implement RAG architectures with vector search using OpenSearch Serverless and pgvector",
+    "Develop embedding pipelines, chunking strategies, hybrid search, re-ranking, and metadata filtering",
+    "Build serverless AI systems using Lambda, API Gateway, Step Functions, and EventBridge",
+    "Develop ML pipelines using SageMaker, Feature Store, and SageMaker Pipelines",
+    "Design data pipelines using Glue, Athena, and Redshift",
+    "Create CI/CD pipelines, implement model testing, monitoring, and deployment strategies"
+  ],
+  "use_cases": [
+    "Enterprise cost optimization and spend analysis",
+    "Technology value optimization and insights",
+    "Compliance and risk assessment",
+    "Conversational AI systems",
+    "Document processing and analysis",
+    "Recommendation systems"
+  ],
+  "tools_mentioned": [
+    "AWS CDK",
+    "AWS Glue",
+    "AWS Lambda",
+    "AWS Step Functions",
+    "AWS X-Ray",
+    "Amazon API Gateway",
+    "Amazon Athena",
+    "Amazon Bedrock",
+    "Amazon EventBridge",
+    "Amazon RDS",
+    "Amazon Redshift",
+    "Amazon SageMaker",
+    "Aurora PostgreSQL",
+    "Azure",
+    "CloudFormation",
+    "CloudWatch",
+    "Databricks",
+    "Django",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "GitHub Actions",
+    "OpenSearch Serverless",
+    "SageMaker Feature Store",
+    "Vector databases",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Claude",
+    "Hugging Face",
+    "LangChain",
+    "LlamaIndex",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "Semantic Kernel",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying\ngenerative AI systems including LLM applications with Amazon\nBedrock, AI agents with Bedrock Agents, RAG architectures\nwith vector search, and production ML pipelines. The\nengineer works directly on implementing and deploying AI/ML\nmodels and systems, not just supporting infrastructure for\nothers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude",
+      "LangChain",
+      "LlamaIndex",
+      "Semantic Kernel",
+      "RAG",
+      "Prompt engineering",
+      "AI agents"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "Django"
+    ],
+    "databases": [
+      "OpenSearch Serverless",
+      "pgvector",
+      "Aurora PostgreSQL",
+      "Amazon RDS",
+      "Vector databases",
+      "Amazon Redshift"
+    ],
+    "data": [
+      "AWS Glue",
+      "Amazon Athena",
+      "Databricks"
+    ],
+    "cloud": [
+      "Amazon Bedrock",
+      "AWS Lambda",
+      "Amazon API Gateway",
+      "AWS Step Functions",
+      "Amazon EventBridge",
+      "Amazon SageMaker",
+      "SageMaker Feature Store",
+      "Azure"
+    ],
+    "ops": [
+      "AWS CDK",
+      "CloudFormation",
+      "GitHub Actions",
+      "Docker",
+      "CloudWatch",
+      "AWS X-Ray"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "NLP",
+      "Computer Vision"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

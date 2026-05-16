@@ -1,0 +1,114 @@
+{
+  "job_id": "intl-ai-corpus-0037",
+  "source": "intl-ai-corpus",
+  "source_ref": "6417854",
+  "source_url": "https://builtin.com/job/quantitative-developer-ai-implementation/6417854",
+  "title": "Quantitative Developer -  AI Implementation",
+  "title_normalized": "AI_ENGINEER",
+  "company": "WorldQuant",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-27",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,008 Employees",
+  "company_stage": "Public",
+  "company_focus": "Systematic quantitative trading and financial strategies",
+  "industries": [],
+  "description": "WorldQuant develops and deploys systematic financial\nstrategies across a broad range of asset classes and global\nmarkets. We seek to produce high-quality predictive signals\n(alphas) through our proprietary research platform to employ\nfinancial strategies focused on market inefficiencies. Our\nteams work collaboratively to drive the production of alphas\nand financial strategies – the foundation of a balanced,\nglobal investment platform.\n\nWorldQuant is built on a culture that pairs academic\nsensibility with accountability for results. Employees are\nencouraged to think openly about problems, balancing\nintellectualism and practicality. Excellent ideas come from\nanyone, anywhere. Employees are encouraged to challenge\nconventional thinking and possess an attitude of continuous\nimprovement.\n\nOur goal is to hire the best and the brightest. We value\nintellectual horsepower first and foremost, and people who\ndemonstrate an outstanding talent. There is no roadmap to\nfuture success, so we need people who can help us build it.\n\nProject Overview\n\nThis is a cutting-edge initiative to integrate Large\nLanguage Models (LLMs) with WorldQuant's proprietary\nstrategy management tools. The project aims to provide AI-\nassisted insights, automate routine analytical tasks, and\nenable natural language interactions for Portfolio Managers\nto more efficiently analyze, maintain, and enhance their\ntrading strategies. This involves building foundational\ninfrastructure, developing robust data pipelines for metrics\nand features, and creating a secure, user-centric interface\nwith a strong focus on protecting intellectual property.\n\nThe Role:\n\nWe are seeking a talented and motivated Full-Time Software\nEngineer to play a key role in the development and\nenhancement of this AI-driven platform. You will be\nresponsible for designing, building, and maintaining\ncritical components of the system, primarily focusing on the\nModel Context Protocol (MCP) servers that form the backbone\nof the platform. This includes enhancing existing MCPs, such\nas our proprietary command-line interface for strategy data,\ndeveloping new MCPs for internal data system integration,\nstrategy analysis, and performance metrics, and contributing\nto the secure and effective use of LLMs.\n\nKey Responsibilities\n\n- Design, develop, test, and deploy robust and scalable MCP\n  servers and related tools in Python.\n- Enhance existing MCPs, including our internal data access\n  tools, to ensure reliable access to strategy metadata,\n  historical PnL data, and PnL attribution by risk factors.\n- Develop new MCPs, including but not limited to MCPs for\n  direct data system integration, MCPs for strategy\n  analytics, and MCPs for performance reporting.\n- Design and implement secure prompt engineering techniques to\n  interact with LLMs, ensuring effective information\n  retrieval while minimizing the risk of intellectual\n  property leakage.\n- Collaborate with project managers, technical leads, and\n  other developers to define technical specifications and\n  integrate various data sources.\n- Work on API development and integration, ensuring seamless\n  data flow between different systems (internal knowledge\n  management systems, simulation systems, data warehouses).\n- Implement data parsing and manipulation logic for various\n  formats (JSON, CSV).\n- Contribute to the design and implementation of data\n  pipelines for strategy metrics and features.\n- Address and resolve bugs and issues in existing MCP tools\n  and infrastructure.\n- Participate in code reviews, and contribute to unit and\n  integration testing efforts.\n- Create and maintain technical documentation for developed\n  components.\n- Stay updated with emerging technologies and methodologies in\n  AI, LLMs, prompt engineering, and financial technology.\n\nWhat You’ll Bring:\n\nCore Skills:\n\n- Strong proficiency in Python programming.\n- Proven experience in API development, integration, and\n  consumption.\n- Solid understanding of database interaction, data access\n  patterns, and data modeling.\n- Experience with data parsing and manipulation libraries and\n  techniques (e.g., pandas, JSON, CSV).\n- Understanding of or experience with prompt engineering\n  principles for Large Language Models\n- Awareness of data security and intellectual property\n  protection considerations in the context of AI and LLM\n  applications\n\nDomain-Specific Knowledge (Highly Beneficial):\n\n- Familiarity with financial data (e.g., PnL, Sharpe ratio,\n  alpha, risk factors, AUM).\n- Experience with quantitative trading systems, market data\n  systems, or strategy management platforms (familiarity\n  with internal data systems or command-line data tools is a\n  significant plus).\n\nTechnical Environment Familiarity (Helpful):\n\n- Experience working in a Linux environment.\n- Understanding of Command Line Interface (CLI) tools and\n  development.\n- Familiarity with version control systems (e.g., Git).\n\nSoft Skills\n\n- Excellent problem-solving and analytical skills.\n- Strong collaboration and communication skills, with the\n  ability to work effectively in a team.\n- High attention to detail and commitment to delivering high-\n  quality software.\n- Ability to learn quickly and adapt to new technologies and\n  complex systems.\n\nEducation\n\n- Bachelor's or Master's degree in Computer Science,\n  Engineering\n\nBy submitting this application, you acknowledge and consent\nto terms of the WorldQuant Privacy Policy. The privacy\npolicy offers an explanation of how and why your data will\nbe collected, how it will be used and disclosed, how it will\nbe retained and secured, and what legal rights are\nassociated with that data (including the rights of access,\ncorrection, and deletion). The policy also describes legal\nand contractual limitations on these rights. The specific\nrights and obligations of individuals living and working in\ndifferent areas may vary by jurisdiction.\n\nCopyright © 2025 WorldQuant, LLC. All Rights Reserved.\nWorldQuant is an equal opportunity employer and does not\ndiscriminate in hiring on the basis of race, color, creed,\nreligion, sex, sexual orientation or preference, age,\nmarital status, citizenship, national origin, disability,\nmilitary status, genetic predisposition or carrier status,\nor any other protected characteristic as established by\napplicable law.\n",
+  "skills_required": [
+    "LLMs",
+    "Model Context Protocol (MCP)",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, test, and deploy robust and scalable MCP servers and related tools in Python",
+    "Enhance existing MCPs to ensure reliable access to strategy metadata, historical PnL data, and PnL attribution by risk factors",
+    "Develop new MCPs for direct data system integration, strategy analytics, and performance reporting",
+    "Design and implement secure prompt engineering techniques to interact with LLMs while protecting intellectual property",
+    "Work on API development and integration ensuring seamless data flow between internal systems and data warehouses",
+    "Implement data parsing and manipulation logic for various formats and contribute to data pipelines for strategy metrics"
+  ],
+  "use_cases": [
+    "AI-assisted insights for Portfolio Managers to analyze trading strategies more efficiently",
+    "Natural language interfaces to query and maintain financial strategies using LLMs",
+    "Automated routine analytical tasks for strategy management and performance analysis",
+    "Secure access to proprietary strategy data, PnL attribution, and risk factor analysis through AI-driven tools"
+  ],
+  "tools_mentioned": [
+    "API development",
+    "API integration",
+    "CLI tools",
+    "CSV",
+    "Git",
+    "JSON",
+    "Linux",
+    "data modeling",
+    "database interaction",
+    "pandas"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "Model Context Protocol (MCP)",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves direct hands-on implementation of LLM\nsystems, including prompt engineering, secure LLM\ninteractions, and developing Model Context Protocol (MCP)\nservers that form the backbone of an AI-driven platform. The\nengineer is building infrastructure and tools to enable LLM-\nbased applications for trading strategy analysis, not just\nsupporting existing AI work.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "LLMs",
+      "Model Context Protocol (MCP)"
+    ],
+    "ml": [],
+    "web": [
+      "API development",
+      "API integration"
+    ],
+    "databases": [
+      "database interaction"
+    ],
+    "data": [
+      "data modeling",
+      "pandas",
+      "JSON",
+      "CSV"
+    ],
+    "cloud": [],
+    "ops": [
+      "Linux",
+      "CLI tools",
+      "Git"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

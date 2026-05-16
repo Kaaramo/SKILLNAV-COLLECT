@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-2487",
+  "source": "intl-ai-corpus",
+  "source_ref": "8919979",
+  "source_url": "https://builtin.com/job/senior-ai-engineer-detect/8919979",
+  "title": "Senior AI Engineer - Detect",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Sage",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-31",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "95 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered fall detection and emergency response for senior\nliving facilities",
+  "industries": [
+    "Hardware",
+    "Healthtech",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Sage is on a mission to improve care and quality of life for\nolder adults, starting with those residing in senior living\nfacilities. Falls are the leading cause of injury-related\ndeath among adults over 65. And yet, fall prevention and\nemergency response systems for older adults are archaic and\nineffective. At Sage we've built a more modern way of\nunderstanding when older adults need help, including methods\nfor residents to alert caregivers when in need of help, and\ncorresponding software for caregivers to triage response.\nOur company mission is to create a product that our client\ncounterparts love, and this role is a key part of that\nobjective.\n\nSage is a small, tight team of ambitious, multi-disciplinary\nentrepreneurs. We are a software-enabled, mission-driven\ncompany, and are focused only on the problems that are\ncentral to achieving that mission. At Sage, we work hard and\nfast but also know that to build a truly important company,\nwe need to treat our work as a marathon, and not a sprint.\nThe journey matters.\n\nAbout this Role\n\nAs a Senior Engineer on the Detect team working on applied\nmachine learning, you're a fullstack engineer who owns the\nend-to-end lifecycle of the AI models that power our camera-\nbased detection system — from data collection and labeling\nthrough prompting, training, evaluation, and production\ndeployment. Today, Detect uses frontier multi-modal vision\nmodels to analyze video streams and detect falls in real\ntime. Your job is to make these external models dramatically\nbetter and more capable.\n\nYou'll take ownership of our ML experimentation platform and\ninfrastructure, maturing it into a robust system that\nenables the team to rapidly iterate on model quality at\nscale. You'll design repeatable fine-tuning pipelines that\nallow models to continuously improve with new production\ndata, and expand the system's detection capabilities beyond\nfalls into new behavioral categories. This is a hands-on,\nhigh-autonomy role where you'll directly impact the accuracy\nof a life-saving system used every day by caregivers across\nthe country.\n\nResponsibilities\n\n- Improve detection accuracy and reduce false positives\n  through prompt engineering, model fine-tuning, and novel\n  inference strategies\n- Work closely with the backend engineering team to integrate\n  model improvements into the real-time video processing\n  pipeline\n- Own and evolve our ML experimentation platform, maturing\n  existing infrastructure into a production-grade system the\n  team relies on daily\n- Build data pipelines for collecting, labeling, and preparing\n  production video and image data for model training\n- Design repeatable fine-tuning and evaluation pipelines that\n  enable rapid experimentation and measure model performance\n  at scale\n- Expand detection capabilities into new behavioral categories\n\nMinimum Qualifications\n\n- 5+ years of professional software engineering experience\n- Experience training, fine-tuning, or improving external\n  ML/AI models in a production setting\n- Strong understanding of model evaluation methodology and\n  experiment tracking\n- Proficiency in Python or TypeScript\n\nPreferred Qualifications\n\n- Experience with cloud AI platforms (Google Vertex AI, AWS\n  SageMaker, or similar)\n- Experience fine-tuning multi-modal models (VLMs) or large\n  language models (LLMs)\n- Familiarity with Kotlin, Java, or similar JVM languages\n- Full-stack capability with TypeScript/React for building\n  internal tool UIs\n- Background in computer vision, video processing, or working\n  with image/video data at scale\n- Experience building internal ML tooling (labeling,\n  experiment tracking, evaluation)\n- Experience maturing early-stage internal tools into\n  production-grade systems\n\nBenefits and Pay\n\nOur headquarters are located in New York City's Union\nSquare. We believe in cross team collaboration. We think\ngood ideas can come from anyone, and we've designed our\nprocesses to encourage participation from all. While we take\nour mission seriously, we don't take ourselves too\nseriously. We like to host offsites, outings, and team meals\nwhere we can connect as people, not just as colleagues. We\noffer office lunch and a fully stocked snack bar. While we\nare an in office culture, we allow up to 2 remote days per\nweek.\n\nOur benefits package for employees includes competitive base\ncompensation along with stock options. The expected annual\nsalary range for this role is $180,000 - $210,000 USD,\ndepending upon the job level, which will depend on your\nlevel of expertise, your experience, and your\nqualifications. We also provide fully-paid health and dental\ninsurance coverage for all of our employees, along with\nother health benefits including vision insurance, membership\nto premium primary and urgent care, and online medical\nhealth providers. We also have a take as you need time off\npolicy, in addition to 7 paid holidays and a company wide\nwinter break during the holidays.\n\nEEO Statement\n\nSage is an equal opportunity employer that is committed to\ndiversity and inclusion in the workplace. We prohibit\ndiscrimination and harassment of any kind based on race,\ncolor, sex, religion, sexual orientation, national origin,\ndisability, genetic information, pregnancy, or any other\nprotected characteristic as outlined by federal, state, or\nlocal laws.\n\nThis policy applies to all employment practices within our\norganization, including hiring, recruiting, promotion,\ntermination, layoff, recall, leave of absence, compensation,\nbenefits, training, and apprenticeship. Sage makes hiring\ndecisions based solely on qualifications, merit, and\nbusiness needs at the time.\n",
+  "skills_required": [
+    "Model evaluation methodology",
+    "Model fine-tuning",
+    "Multi-modal vision models (VLMs)",
+    "Prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Improve detection accuracy and reduce false positives through prompt engineering, model fine-tuning, and novel inference strategies",
+    "Work closely with the backend engineering team to integrate model improvements into the real-time video processing pipeline",
+    "Own and evolve the ML experimentation platform, maturing existing infrastructure into a production-grade system",
+    "Build data pipelines for collecting, labeling, and preparing production video and image data for model training",
+    "Design repeatable fine-tuning and evaluation pipelines that enable rapid experimentation and measure model performance at scale",
+    "Expand detection capabilities into new behavioral categories beyond fall detection"
+  ],
+  "use_cases": [
+    "Real-time fall detection for older adults in senior living facilities using camera-based vision models",
+    "Multi-modal video stream analysis to detect behavioral events and emergencies",
+    "Emergency response triage system enabling caregivers to respond to resident needs",
+    "Behavioral category detection expanding beyond falls to broader elder care monitoring"
+  ],
+  "tools_mentioned": [
+    "AWS SageMaker",
+    "Data labeling",
+    "Data pipelines",
+    "Experiment tracking",
+    "Google Vertex AI",
+    "Inference optimization",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "Model evaluation methodology",
+    "Model fine-tuning",
+    "Multi-modal vision models (VLMs)",
+    "Prompt engineering"
+  ],
+  "languages_programming": [
+    "Java",
+    "Kotlin",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely ai-first: the engineer owns the end-\nto-end lifecycle of AI/ML models powering a camera-based\nfall detection system, including fine-tuning multi-modal\nvision models, prompt engineering, training pipelines, and\nproduction deployment. The work directly involves building,\nimproving, and deploying AI models rather than supporting\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt engineering"
+    ],
+    "ml": [
+      "Model fine-tuning",
+      "Multi-modal vision models (VLMs)",
+      "Model evaluation methodology"
+    ],
+    "web": [
+      "React"
+    ],
+    "databases": [],
+    "data": [
+      "Data pipelines"
+    ],
+    "cloud": [
+      "Google Vertex AI",
+      "AWS SageMaker"
+    ],
+    "ops": [
+      "Experiment tracking",
+      "Data labeling",
+      "Inference optimization"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Kotlin",
+      "Java"
+    ],
+    "domains": [
+      "Computer vision",
+      "Video processing"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

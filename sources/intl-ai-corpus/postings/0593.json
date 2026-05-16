@@ -1,0 +1,108 @@
+{
+  "job_id": "intl-ai-corpus-0593",
+  "source": "intl-ai-corpus",
+  "source_ref": "8272984",
+  "source_url": "https://builtin.com/job/databricks-automation-ai-platform-engineer/8272984",
+  "title": "Databricks Automation & AI Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Xenon Seven",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "11 Employees",
+  "company_stage": null,
+  "company_focus": "IT solutions development and on-demand resources",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology"
+  ],
+  "description": "About us:\n\nWhere elite tech talent meets world-class opportunities!\n\nAt Xenon7, we work with leading enterprises and innovative\nstartups on exciting, cutting-edge projects that leverage\nthe latest technologies across various domains of IT\nincluding Data, Web, Infrastructure, AI, and many others.\nOur expertise in IT solutions development and on-demand\nresources allows us to partner with clients on\ntransformative initiatives, driving innovation and business\ngrowth. Whether it's empowering global organizations or\ncollaborating with trailblazing startups, we are committed\nto delivering advanced, impactful solutions that meet\ntoday’s most complex challenges.\n\nWe are building a community of top-tier experts and we’re\nopening the doors to an exclusive group of exceptional AI &\nML Professionals ready to solve real-world problems and\nshape the future of intelligent systems.\n\nRequirements\n\nRole Overview\n\nWe are seeking a senior Databricks Automation & AI Platform\nEngineer with deep expertise in Python, Databricks platform\ncomponents, and AI/MLOps/LLMOps workflows. The engineer will\nsupport the Next‑Gen Platform Integration team by building\nautomation frameworks, enabling scalable deployment\nworkflows, and integrating AI capabilities across Databricks\nenvironments.\n\nThis role requires strong systems‑level Python knowledge,\nDatabricks governance experience, and hands‑on AWS\nautomation skills.\n\n\n\nKey Responsibilities\n\n🔹 Databricks Automation & Integration\n\n- Build automation workflows for MLOps, LLMOps, and\n  application deployment within Databricks.\n- Enhance workspace onboarding automation including Unity\n  Catalog, permissions, and environment setup.\n- Develop reusable modules for workspace provisioning, catalog\n  configuration, model deployment, and governance workflows.\n- Integrate Mosaic AI components (Gateway, Model Serving,\n  Agents) into platform automation.\n\n🔹 Platform Engineering & Deployment\n\n- Develop Python automation scripts for Databricks services\n  including:\n- Ensure consistency, reliability, and scalability across\n  multi‑workspace environments.\n- Implement automated rollback strategies, fail‑fast\n  mechanisms, and environment stability checks.\n\n🔹 AWS Integration & Automation\n\n- Build integrations using AWS Lambda, API Gateway, and\n  Service Principal authentication.\n- Automate Databricks Job orchestration, monitoring, and\n  deployment pipelines.\n- Implement secure, scalable automation bridging AWS and\n  Databricks.\n\n\n\nRequired Skills\n\n🔹 Technical Skills\n\n- Strong hands‑on Python experience including:\n- Deep understanding of Databricks ecosystem:\n- Experience with Docker image immutability, container state\n  management, and environment reproducibility.\n\n🔹 Cloud & Automation Skills\n\n- AWS Lambda, API Gateway, IAM, and automation pipelines.\n- Service Principal‑based authentication for secure Databricks\n  automation.\n- Experience with platform engineering, deployment automation,\n  and production stability patterns.\n\n\n\nIdeal Candidate Profile\n\n- 6+ years of Python development and cloud automation\n  experience.\n- Hands‑on Databricks platform engineering and governance\n  expertise.\n- Strong understanding of MLOps/LLMOps and AI deployment\n  workflows.\n- Experience working with platform, ML, and data engineering\n  teams.\n- Immediate availability preferred.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build automation workflows for MLOps, LLMOps, and application deployment within Databricks",
+    "Enhance workspace onboarding automation including Unity Catalog, permissions, and environment setup",
+    "Develop reusable modules for workspace provisioning, catalog configuration, model deployment, and governance workflows",
+    "Integrate Mosaic AI components including Gateway, Model Serving, and Agents into platform automation",
+    "Ensure consistency, reliability, and scalability across multi-workspace environments",
+    "Build AWS integrations using Lambda, API Gateway, and Service Principal authentication",
+    "Automate Databricks Job orchestration, monitoring, and deployment pipelines"
+  ],
+  "use_cases": [
+    "MLOps and LLMOps workflow automation for model deployment and orchestration",
+    "Multi-workspace Databricks platform automation and governance at scale",
+    "Secure integration between AWS cloud services and Databricks environments",
+    "Automated workspace provisioning, catalog configuration, and environment setup",
+    "Mosaic AI platform integration including gateway, model serving, and agents"
+  ],
+  "tools_mentioned": [
+    "API Gateway",
+    "AWS",
+    "AWS Lambda",
+    "Databricks",
+    "Docker",
+    "IAM",
+    "LLMOps",
+    "MLOps",
+    "Mosaic AI",
+    "Unity Catalog"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building automation frameworks,\nplatform infrastructure, and deployment pipelines that\nENABLE AI/ML work rather than directly building, training,\nor fine-tuning models. The engineer works on MLOps/LLMOps\nworkflows, workspace provisioning, and platform integration\n- all infrastructure that supports others who work on AI\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "API Gateway"
+    ],
+    "databases": [],
+    "data": [
+      "Unity Catalog"
+    ],
+    "cloud": [
+      "Databricks",
+      "AWS",
+      "AWS Lambda",
+      "IAM",
+      "Mosaic AI"
+    ],
+    "ops": [
+      "Docker",
+      "MLOps",
+      "LLMOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

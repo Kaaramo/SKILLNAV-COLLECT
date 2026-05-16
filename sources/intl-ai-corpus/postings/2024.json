@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-2024",
+  "source": "intl-ai-corpus",
+  "source_ref": "8703279",
+  "source_url": "https://builtin.com/job/cloud-engineer-data-ai-focused/8703279",
+  "title": "Cloud Engineer- Data/AI Focused",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Innovative Solutions",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-10",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "489 Employees",
+  "company_stage": null,
+  "company_focus": "AWS cloud solutions and data/AI consulting services",
+  "industries": [
+    "Cloud",
+    "Information Technology"
+  ],
+  "description": "We are seeking a skilled and motivated Data/AI Cloud\nEngineer to join our team! In this role, you will play a key\npart in implementing AWS data and AI/ML services, building\nETL/ELT pipelines, and developing intelligent data solutions\nthat empower our customers to derive meaningful insights\nfrom their data. You will collaborate closely with Cloud\nArchitects and senior technical team members to design and\ndeliver high-quality, scalable solutions — spanning data\nengineering, machine learning infrastructure, and AI-driven\napplications — aligned with customer needs.\n\n\n\nResponsibilities:\n\n- Implementing data pipelines using AWS services such as Glue,\n  Lambda, Step Functions, and EMR\n- Creating and maintaining data extraction, transformation,\n  and loading processes\n- Configuring and optimizing AWS database services including\n  RDS, Aurora, Redshift, and DynamoDB\n- Implementing data lakes using S3 and related AWS services\n- Designing and building production-ready Generative AI\n  applications using Amazon Bedrock and foundation models\n  such as Anthropic Claude\n- Building and optimizing RAG (Retrieval-Augmented Generation)\n  pipelines with vector databases\n- Developing AI agents and multi-agent orchestration systems\n  using frameworks like LangChain or LlamaIndex\n- Writing and testing SQL queries and stored procedures\n- Documenting technical solutions and providing knowledge\n  transfer to customers\n- Supporting the implementation of data governance and\n  security controls\n- Troubleshooting and resolving issues with data pipelines and\n  AI services\n- Participating in code reviews and implementing feedback\n- Assisting with proof-of-concept implementations for customer\n  engagements\n\n\n\n Top candidates will have the following:\n\n- Technical familiarity with AWS data and AI/ML services and\n  modern data engineering practices\n- Hands-on experience with ETL/ELT processes and data\n  transformation\n- Exposure to Generative AI concepts including LLMs,\n  embeddings, RAG, and agent frameworks\n- Ability to write and optimize SQL queries across various\n  database platforms\n- Knowledge of data modeling concepts and best practices\n- Strong analytical and problem-solving skills\n- Eagerness to learn new technologies and keep up with cloud\n  and AI innovations\n- Excellent communication skills with the ability to explain\n  technical concepts clearly\n- Attention to detail and commitment to solution quality\n- Collaborative mindset with strong teamwork capabilities\n- Experience or interest in automation and infrastructure as\n  code\n\n\n\nRequired Experience for the Role:\n\n- Must have 5+ years of software engineering experience with\n  at least 2+ years focused on AI/ML, data engineering, or\n  cloud-native development\n- Must have 2+ years of hands-on AWS experience with\n  production deployments\n- Must have 1+ years of direct Generative AI experience (LLMs,\n  embeddings, RAG, agents)\n- Must have a proven track record delivering production AI\n  applications from concept to deployment\n- Must have strong understanding of software engineering best\n  practices (version control, testing, code review,\n  documentation)\n- Must have experience working in agile/scrum environments\n  with distributed teams\n- Must have excellent problem-solving skills and ability to\n  work independently with minimal supervision\n- Must have strong written and verbal communication skills for\n  client-facing interactions\n\n\n\n\n\nThe salary range provided is a general guideline. When\nextending an offer, Innovative considers factors including,\nbut not limited to, the responsibilities of the specific\nrole, market conditions, geographic location, as well as the\ncandidate’s professional experience, key skills, and\neducation/training.\n",
+  "skills_required": [
+    "AI agents",
+    "Amazon Bedrock",
+    "Anthropic Claude",
+    "LLMs",
+    "LangChain",
+    "LlamaIndex",
+    "RAG",
+    "embeddings"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implementing data pipelines using AWS services such as Glue, Lambda, Step Functions, and EMR",
+    "Creating and maintaining data extraction, transformation, and loading processes",
+    "Configuring and optimizing AWS database services including RDS, Aurora, Redshift, and DynamoDB",
+    "Designing and building production-ready Generative AI applications using Amazon Bedrock and foundation models",
+    "Building and optimizing RAG pipelines with vector databases",
+    "Developing AI agents and multi-agent orchestration systems using frameworks like LangChain or LlamaIndex",
+    "Documenting technical solutions and providing knowledge transfer to customers",
+    "Assisting with proof-of-concept implementations for customer engagements"
+  ],
+  "use_cases": [
+    "Customer data insights and analytics",
+    "Enterprise AI application development",
+    "Intelligent data solutions",
+    "RAG-based information retrieval systems",
+    "Multi-agent AI orchestration systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Glue",
+    "AWS Lambda",
+    "AWS Step Functions",
+    "Amazon Aurora",
+    "Amazon DynamoDB",
+    "Amazon EMR",
+    "Amazon RDS",
+    "Amazon Redshift",
+    "Amazon S3",
+    "ETL/ELT",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Amazon Bedrock",
+    "Anthropic Claude",
+    "LLMs",
+    "LangChain",
+    "LlamaIndex",
+    "RAG",
+    "embeddings"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves building production-ready GenAI\napplications using Amazon Bedrock, implementing RAG\npipelines with vector databases, and developing AI agents\nusing LangChain/LlamaIndex. The position requires hands-on\nexperience deploying AI applications from concept to\nproduction.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Amazon Bedrock",
+      "Anthropic Claude",
+      "RAG",
+      "LangChain",
+      "LlamaIndex",
+      "AI agents",
+      "LLMs",
+      "embeddings"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "vector databases",
+      "Amazon RDS",
+      "Amazon Aurora",
+      "Amazon Redshift",
+      "Amazon DynamoDB"
+    ],
+    "data": [
+      "AWS Glue",
+      "Amazon EMR",
+      "ETL/ELT"
+    ],
+    "cloud": [
+      "AWS",
+      "AWS Lambda",
+      "AWS Step Functions",
+      "Amazon S3"
+    ],
+    "ops": [],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,158 @@
+{
+  "job_id": "intl-ai-corpus-1617",
+  "source": "intl-ai-corpus",
+  "source_ref": "8547087",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/8547087",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Rapid7",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,400 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cybersecurity threat detection and response",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Information Technology",
+    "Sales",
+    "Security",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "About the Team The AI Center of Excellence is a\nmultidisciplinary group of Data Scientists and AI Engineers\nwho partner with Detection and Response teams to turn\ncutting-edge research into real-world security products. We\nleverage LLMs, agentic workflows, and behavioral modeling to\nstay ahead of evolving threats and ensure our customers\nremain secure. About the Role As a Senior Software Engineer\n- Data Science, your primary responsibility will be to drive\nthe end-to-end delivery of ML and LLM-based solutions on\nAWS. Specifically, your focus will be to:\n\n- Design and implement sophisticated ML pipelines for security\n  use cases, including malware detection and user behavioral\n  analytics.\n- Architect and maintain RAG pipelines and agentic AI\n  workflows using toolchains like LangChain and LangGraph to\n  automate complex security tasks.\n- Optimize and deploy models within the AWS ecosystem,\n  utilizing SageMaker and Bedrock while ensuring robust\n  monitoring, drift detection, and retraining workflows.\n- Collaborate and mentor across the team to establish\n  architectural standards, conduct code reviews, and support\n  the technical growth of junior engineers.\n\nThe skills and qualities you'll bring include: Core Skills\n\n- Technical Ownership: Ability to take a project from a\n  conceptual prototype to a high-quality production system.\n- Analytical Problem Solving: Expertise in applying scientific\n  computing and statistical modeling to unlabeled, large-\n  scale data.\n- Continuous Learning: A proactive approach to mastering\n  emerging technologies in LLMs, Generative AI, and agentic\n  systems.\n\nFunctional Skills\n\n- Python Proficiency: Advanced experience with numpy, pandas,\n  and scientific computing libraries.\n- Machine Learning Frameworks: Hands-on expertise with scikit-\n  learn and Deep Learning frameworks (PyTorch or\n  TensorFlow).\n- Generative AI Toolchains: Proven experience with\n  HuggingFace, Transformers, LangChain, and LangGraph.\n- Cloud Infrastructure: Strong experience deploying and\n  operating ML workloads on AWS (SageMaker, Bedrock, Lambda,\n  EKS).\n- Vector Databases & RAG: Practical experience designing and\n  tuning Retrieval-Augmented Generation pipelines.\n- MLOps & CI/CD: Proficiency in managing model registries,\n  versioning, and automated deployment via GitHub Actions or\n  Jenkins.\n- Security Domain Knowledge: Familiarity with threat\n  detection, malware behaviour, or cybersecurity analytics.\n- Model Explainability: Ability to implement and interpret\n  model transparency tools like SHAP or LIME.\n- LLM Evaluation: Experience using evaluation frameworks such\n  as Promptfoo or HELM to ensure model quality and safety.\n\nWe know that the best ideas and solutions come from multi-\ndimensional teams. That's because these teams reflect a\nvariety of backgrounds and professional experiences. If you\nare excited about this role and feel your experience can\nmake an impact, please don't be shy - apply today. #LI-AK1\nAbout Rapid7 At Rapid7, our vision is to create a secure\ndigital world for our customers, our industry, and our\ncommunities. We do this by harnessing our collective\nexpertise and passion to challenge what's possible and drive\nextraordinary impact. We're building a dynamic and\ncollaborative workplace where new ideas are welcome.\nProtecting 11,000+ customers against bad actors and threats\nmeans we're continuing to push the envelope just like we' ve\nbeen doing for the past 20 years. If you 're ready to solve\nsome of the toughest challenges in cybersecurity, we're\nready to help you take command of your career. Join us.\n",
+  "skills_required": [
+    "HuggingFace",
+    "LIME",
+    "LangChain",
+    "LangGraph",
+    "PyTorch",
+    "RAG",
+    "SHAP",
+    "TensorFlow",
+    "Transformers",
+    "agents",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement sophisticated ML pipelines for security use cases, including malware detection and user behavioral analytics",
+    "Architect and maintain RAG pipelines and agentic AI workflows using toolchains like LangChain and LangGraph to automate complex security tasks",
+    "Optimize and deploy models within the AWS ecosystem, utilizing SageMaker and Bedrock while ensuring robust monitoring, drift detection, and retraining workflows",
+    "Collaborate and mentor across the team to establish architectural standards, conduct code reviews, and support the technical growth of junior engineers"
+  ],
+  "use_cases": [
+    "Malware detection",
+    "User behavioral analytics",
+    "Security threat detection",
+    "Automating complex security tasks",
+    "Cybersecurity threat response"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Bedrock",
+    "CI/CD",
+    "EKS",
+    "GitHub Actions",
+    "HELM",
+    "Jenkins",
+    "Lambda",
+    "MLOps",
+    "Promptfoo",
+    "SageMaker",
+    "model registries",
+    "numpy",
+    "pandas",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "HuggingFace",
+    "LIME",
+    "LangChain",
+    "LangGraph",
+    "PyTorch",
+    "RAG",
+    "SHAP",
+    "TensorFlow",
+    "Transformers",
+    "agents",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work with LLMs, RAG pipelines,\nand agentic AI workflows using LangChain and LangGraph. The\nengineer directly builds, deploys, optimizes, and evaluates\nAI models on AWS, making this an AI-first position.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "agents"
+    ],
+    "ml": [
+      "scikit-learn",
+      "PyTorch",
+      "TensorFlow",
+      "HuggingFace",
+      "Transformers",
+      "SHAP",
+      "LIME"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "numpy",
+      "pandas"
+    ],
+    "cloud": [
+      "AWS",
+      "SageMaker",
+      "Bedrock",
+      "Lambda",
+      "EKS"
+    ],
+    "ops": [
+      "MLOps",
+      "CI/CD",
+      "GitHub Actions",
+      "Jenkins",
+      "model registries",
+      "Promptfoo",
+      "HELM"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

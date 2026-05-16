@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0114",
+  "source": "intl-ai-corpus",
+  "source_ref": "7094264",
+  "source_url": "https://builtin.com/job/senior-applied-ai-engineer/7094264",
+  "title": "Senior Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "StackBlitz",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-18",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "28 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "AI-powered web development platform and online IDE",
+  "industries": [
+    "Software",
+    "Web3"
+  ],
+  "description": "🚀 About Us\n\nWe’re Bolt.new by StackBlitz!\n\nWe’re the team that brought you WebContainers, the first-of-\nits-kind technology that made it possible to run Node.js\nright inside your browser. That breakthrough kicked off our\njourney in 2019, and it’s what powers the blazing-fast\nonline IDE used by over 1 million developers every month.\n\nBut we didn’t stop there. We doubled down on everything we\nlearned and built Bolt.new — the fastest way to go from idea\nto production without writing traditional code. It’s a next-\ngen, AI-powered app builder that helps you create, edit, and\ndeploy full-stack web and mobile apps instantly, right in\nyour browser. No installs. No setup. Just smart automation\nand instant dev environments that let you move at the speed\nof thought.\n\nWe’re a fully remote team, globally distributed, deeply\ncollaborative, and seriously passionate about building the\nfuture of software development.\n\nThis is your chance to join a small team with a big vision.\nIf you love shipping fast, solving real problems, and\npushing the boundaries of what’s possible, we’d love to meet\nyou.\n\n✨ About This Opportunity\n\nJoin us on the forefront of AI-powered development as we\nrevolutionize how software gets built. As a Senior Applied\nEngineer, you will be the driving force behind our AI agents\nthat transform natural language into production ready\napplications. You will work with state-of-the art LLMs,\npioneering new ways to make AI understand, reason about, and\ngenerate complex full-stack applications. This isn’t just\nabout integrating APIs, instead it’s about pushing the\nboundaries of what AI can do to empower our users to build\nstunning apps. As part of this role, you will work in an\ninteresting problem space and tackle challenges like\nmaintaining context across large codebases, orchestrating\nmulti-step workflows that feel intuitive to users, and\nmaking sure our AI agents can handle everything from simple\nUI changes to complex architectural decisions. Your work\nwill directly impact how millions of users bring their ideas\nto life.\n\nThis is a unique opportunity to shape the future of AI-\nassisted development in a fully remote, globally distributed\nteam that ships fast and thinks big. If you are passionate\nabout making AI more capable, reliable, and accessible to\nbuilders everywhere, this role offers the perfect\nopportunity to innovate and see your work deployed at scale.\n\n🛠️ How You'll Contribute\n\n- Develop AI Agents: Design and implement AI agent features\n  and extend existing agents with new capabilities. This\n  includes managing the agent’s context (using techniques\n  like sub-agents, retrieval based context management,\n  sliding context windows, etc.) so it can handle long\n  conversations or large knowledge and code bases\n  efficiently.\n- Integrate Multiple LLM Providers: Leverage models from\n  providers such as OpenAI (GPT series), Anthropic (Claude),\n  and Google (Gemini). Quantitatively evaluate and choose\n  the best model for a given task, and incorporate new model\n  features or improvements (often by beta-testing new\n  releases and assessing their strengths).\n- Tool Use and Workflow Orchestration: Enable the AI agent to\n  call external tools and APIs safely and effectively.\n  Implement structured approaches to allow the agent to\n  perform actions like web searches, database queries, fetch\n  additional information, or other domain-specific\n  operations. Utilize frameworks such as Vercel’s AI SDK,\n  LangGraph and others for building multi-step AI workflows.\n- Team Collaboration: Work closely with your immediate team\n  and adjacent teams to deliver AI-powered features.\n  Collaborate effectively with peer engineers and product\n  managers to ensure AI-driven features are production-\n  ready, efficient, maintainable, and well-monitored in\n  deployment. Share knowledge and help lift up mid-level and\n  junior engineers on the team.\n- Data Collection and Analysis: Collect and curate datasets\n  from agent responses and multi-turn conversations to\n  understand agent behavior. Analyze conversation patterns,\n  failure modes, and success signals to derive actionable\n  insights that drive improvements to agent performance and\n  user experience.\n- Continuous Improvement and Evaluation: Stay up-to-date with\n  the latest research in NLP and LLMs, and experiment with\n  novel techniques (e.g. new prompting strategies, context\n  handling methods, model fine-tuning opportunities).\n  Continuously evaluate the AI system’s performance using\n  systematic tests and user feedback, and iterate on\n  prompts, agents and workflows to improve output quality\n  and reliability (for example, by developing automated LLM\n  evaluation benchmarks).\n\n💡 Qualifications\n\n- TypeScript: Familiarity with TypeScript is important. Our\n  entire stack is built on it. Willingness to work in TS\n  daily is key.\n- LLM Experience: Hands-on experience working with Large\n  Language Models (LLMs) and understanding their\n  capabilities and limitations. Proven experience building\n  applications or systems powered by LLMs.\n- Prompt Engineering: Deep understanding of prompt engineering\n  best practices to guide LLM behavior. Able to craft,\n  refine, and optimize prompts for different tasks and\n  models.\n- Software Engineering Skills: Solid software engineering\n  fundamentals with experience in building production-ready\n  systems.\n- Autonomous Execution: Ability to deliver high-quality work\n  with minimal oversight. Comfortable owning tasks end-to-\n  end, managing complexity, and driving projects to\n  completion within your functional area.\n- Problem-Solving: Strong analytical and problem-solving\n  skills with the ability to debug complex AI behaviors and\n  bring clarity to ambiguous tasks.\n- Data-Driven Mindset: Comfortable collecting, curating, and\n  analyzing data to inform decisions. Able to build\n  datasets, identify patterns in agent behavior, and\n  translate findings into actionable improvements.\n- Strong verbal and written English communication skills are\n  required, as this role involves frequent collaboration\n  with team members, stakeholders, and customers where\n  English is the primary working language.\n\n🎯 Bonus Points\n\n- DSPy Framework: Familiarity with DSPy (Declarative Self-\n  improving Python) for building modular AI systems and\n  optimizing prompts programmatically.\n- Machine Learning Background: Understanding of ML\n  fundamentals and experience with model evaluation metrics.\n- Open Source Contributions: Experience contributing to or\n  maintaining open-source AI/ML projects.\n- Research Background: Experience reading and implementing\n  techniques from AI/ML research papers.\n\n📌 A Few Notes\n\n- You do not need a college degree to apply\n- You do not need to be located in the U.S. — we’re remote-\n  friendly\n- You do not need to meet every qualification listed above\n",
+  "skills_required": [
+    "Anthropic API",
+    "DSPy",
+    "Google Gemini API",
+    "LangGraph",
+    "OpenAI API",
+    "RAG",
+    "Vercel AI SDK",
+    "agents",
+    "function calling",
+    "model evaluation",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement AI agent features with advanced context management techniques including sub-agents, retrieval-based context management, and sliding context windows",
+    "Integrate and evaluate multiple LLM providers (OpenAI GPT, Anthropic Claude, Google Gemini) and beta-test new model releases",
+    "Enable AI agents to call external tools and APIs safely using frameworks like Vercel AI SDK and LangGraph for multi-step workflow orchestration",
+    "Collect and curate datasets from agent responses and multi-turn conversations to analyze behavior patterns and derive performance improvements",
+    "Stay up-to-date with NLP and LLM research, experiment with novel prompting strategies and context handling methods, and develop automated evaluation benchmarks",
+    "Collaborate with engineering teams to deliver production-ready AI features and mentor junior engineers on AI development practices"
+  ],
+  "use_cases": [
+    "Transform natural language descriptions into production-ready full-stack web and mobile applications",
+    "Enable AI agents to handle complex architectural decisions and maintain context across large codebases",
+    "Orchestrate multi-step AI workflows for intuitive app development experiences",
+    "Allow users to create, edit, and deploy applications instantly in the browser without traditional coding",
+    "Support both simple UI changes and complex full-stack application modifications through AI-powered generation"
+  ],
+  "tools_mentioned": [
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "DSPy",
+    "Google Gemini API",
+    "LangGraph",
+    "OpenAI API",
+    "RAG",
+    "Vercel AI SDK",
+    "agents",
+    "function calling",
+    "model evaluation",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves direct hands-on work building AI agents\nand LLM-powered systems. The engineer will design and\nimplement AI agent features, integrate multiple LLM\nproviders, orchestrate multi-step workflows, and implement\ntool/function calling capabilities - all core ai-first work\nbuilding AI systems rather than supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "Vercel AI SDK",
+      "OpenAI API",
+      "Anthropic API",
+      "Google Gemini API",
+      "prompt engineering",
+      "RAG",
+      "agents",
+      "function calling",
+      "DSPy"
+    ],
+    "ml": [
+      "model evaluation"
+    ],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

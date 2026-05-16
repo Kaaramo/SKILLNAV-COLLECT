@@ -1,0 +1,173 @@
+{
+  "job_id": "intl-ai-corpus-1360",
+  "source": "intl-ai-corpus",
+  "source_ref": "8414449",
+  "source_url": "https://builtin.com/job/senior-business-analyst/8414449",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ecolab",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "29,154 Employees",
+  "company_stage": "Public",
+  "company_focus": "Water treatment and industrial solutions",
+  "industries": [],
+  "description": "We are seeking a highly skilled Senior Agentic AI Engineer\nto design, develop, and deploy production-grade agentic AI\nsystems on Azure cloud infrastructure. The ideal candidate\nwill have extensive experience building autonomous AI\nagents, deploying complex AI solutions to production, and\nimplementing robust CI/CD pipelines.\n\n Key Responsibilities\n\n- Design and develop sophisticated agentic AI systems capable\n  of autonomous decision-making and task execution\n\n- Architect and implement production-grade AI solutions using\n  Azure services (Azure Functions, Azure OpenAI, Azure\n  Cognitive Services, etc.)\n\n- Build and maintain CI/CD pipelines using Azure DevOps and/or\n  GitHub Actions for automated testing and deployment\n\n- Develop scalable data processing workflows using Azure\n  Databricks and Apache Spark\n\n- Implement comprehensive testing strategies for AI\n  applications including unit tests, integration tests, and\n  performance testing\n\n- Optimize AI agent performance, reliability, and cost-\n  efficiency in production environments\n\n- Design and implement monitoring, logging, and observability\n  solutions for AI systems\n\n- Mentor junior engineers and lead technical discussions on AI\n  architecture and best practices\n\n- Collaborate with cross-functional teams to integrate AI\n  agents into existing systems\n\n- Implement security best practices including managed\n  identities, Key Vault integration, and RBAC\n\n Required Skills & Qualifications\n\nTechnical Expertise:\n\n- 3 to 8 years of experience in AI/ML engineering with at\n  least 2+ years focused on agentic AI or autonomous systems\n\n- Expert-level proficiency in Python and advanced knowledge of\n  SQL\n\n- Deep understanding of Azure cloud services (Azure Functions,\n  Azure OpenAI, Azure ML, App Services, Storage, Key Vault)\n\n- Extensive hands-on experience with Azure Databricks for\n  large-scale data processing and ML workflows\n\n- Proven track record of deploying and maintaining AI systems\n  in production environments\n\n- Strong experience building CI/CD pipelines using Azure\n  DevOps and/or GitHub Actions\n\n- Proficiency in containerization technologies (Docker,\n  Kubernetes/AKS)\n\nAI/ML Knowledge:\n\n- Strong foundation in Machine Learning, Natural Language\n  Processing, and Deep Learning\n\n- Experience with large language models (LLMs) and prompt\n  engineering\n\n- Knowledge of multi-agent systems\n\n- Understanding of RAG (Retrieval-Augmented Generation)\n  architectures\n\n- Experience with ML frameworks (PyTorch, TensorFlow, Scikit-\n  learn, Transformers)\n\nProblem-Solving & Quality:\n\n- Exceptional analytical and problem-solving skills with\n  ability to debug complex distributed systems\n\n- Experience designing and implementing comprehensive test\n  suites for AI applications\n\n- Strong understanding of software engineering best practices\n  (clean code, design patterns, SOLID principles)\n\n- Experience with monitoring tools (Application Insights, Log\n  Analytics, Grafana)\n\n Preferred Qualifications\n\n- Azure certifications (Azure AI Engineer Associate, Azure\n  Solutions Architect)\n\n- Experience with microservices architecture\n\n- Knowledge of MLOps practices and tools (MLflow, Azure ML\n  Pipelines)\n\n- Experience with vector databases and semantic search\n",
+  "skills_required": [
+    "Agentic AI",
+    "Deep Learning",
+    "Large language models (LLMs)",
+    "Machine Learning",
+    "Microservices architecture",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG (Retrieval-Augmented Generation)",
+    "Scikit-learn",
+    "Semantic search",
+    "TensorFlow",
+    "Transformers",
+    "Vector databases"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop sophisticated agentic AI systems capable of autonomous decision-making and task execution",
+    "Architect and implement production-grade AI solutions using Azure services including Azure Functions, Azure OpenAI, and Azure Cognitive Services",
+    "Build and maintain CI/CD pipelines using Azure DevOps and GitHub Actions for automated testing and deployment",
+    "Develop scalable data processing workflows using Azure Databricks and Apache Spark",
+    "Implement comprehensive testing strategies for AI applications including unit tests, integration tests, and performance testing",
+    "Optimize AI agent performance, reliability, and cost-efficiency in production environments",
+    "Design and implement monitoring, logging, and observability solutions for AI systems",
+    "Mentor junior engineers and lead technical discussions on AI architecture and best practices",
+    "Collaborate with cross-functional teams to integrate AI agents into existing systems",
+    "Implement security best practices including managed identities, Key Vault integration, and RBAC"
+  ],
+  "use_cases": [
+    "Autonomous AI agents for decision-making and task execution",
+    "RAG-based knowledge retrieval and generation systems",
+    "Large-scale data processing and ML workflows with Databricks and Spark",
+    "Multi-agent systems for complex problem-solving",
+    "Enterprise-grade AI solutions deployed on Azure cloud infrastructure"
+  ],
+  "tools_mentioned": [
+    "AKS",
+    "Apache Spark",
+    "Application Insights",
+    "Azure Cognitive Services",
+    "Azure Databricks",
+    "Azure DevOps",
+    "Azure Functions",
+    "Azure ML",
+    "Azure OpenAI",
+    "CI/CD",
+    "Docker",
+    "GitHub Actions",
+    "Grafana",
+    "Kubernetes",
+    "Log Analytics",
+    "MLOps",
+    "MLflow"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI",
+    "Deep Learning",
+    "Large language models (LLMs)",
+    "Machine Learning",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG (Retrieval-Augmented Generation)",
+    "Scikit-learn",
+    "Semantic search",
+    "TensorFlow",
+    "Transformers",
+    "Vector databases"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role focuses on building agentic AI systems, autonomous\nagents, and LLM-based applications using RAG architectures\nand multi-agent systems. The engineer is directly\nresponsible for designing, developing, and deploying\nproduction-grade AI solutions with Azure OpenAI, not just\nsupporting infrastructure or data pipelines for AI teams.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "Agentic AI",
+      "Multi-agent systems",
+      "RAG (Retrieval-Augmented Generation)",
+      "Large language models (LLMs)",
+      "Prompt engineering",
+      "Vector databases",
+      "Semantic search"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "Transformers",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Apache Spark"
+    ],
+    "cloud": [
+      "Azure OpenAI",
+      "Azure Cognitive Services",
+      "Azure Functions",
+      "Azure ML",
+      "Azure Databricks"
+    ],
+    "ops": [
+      "Azure DevOps",
+      "GitHub Actions",
+      "Application Insights",
+      "Log Analytics",
+      "Grafana",
+      "Docker",
+      "Kubernetes",
+      "AKS",
+      "MLflow",
+      "CI/CD",
+      "MLOps"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "Natural Language Processing"
+    ],
+    "other": [
+      "Microservices architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

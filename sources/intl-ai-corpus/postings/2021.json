@@ -1,0 +1,162 @@
+{
+  "job_id": "intl-ai-corpus-2021",
+  "source": "intl-ai-corpus",
+  "source_ref": "8702097",
+  "source_url": "https://builtin.com/job/llm-engineer/8702097",
+  "title": "Founding AI Engineer (LLM Systems, Agents, Automation)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Trivium Group",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-23",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "56 Employees",
+  "company_stage": "Early-Stage Startup",
+  "company_focus": "AI-powered marketing and patient engagement automation for\nhealthcare practices",
+  "industries": [
+    "Marketing Tech",
+    "Consulting"
+  ],
+  "description": "AI Agent Engineer (Backend / LLM Systems)\n\n🌍 Remote (International Candidates Welcome) 💰 Salary:\n$30,000 – $60,000 USD 🕒 Full-Time 🚀 Early-Stage Startup\n\nAbout the Role\n\nDDS Marketing is looking for an AI Agent Engineer to own the\nend-to-end development of AI-powered automation modules that\npower marketing, operations, and patient engagement for\nhealthcare practices.\n\nYou will work directly with the founder, who oversees\narchitecture and product direction, and collaborate with one\nadditional developer currently focused on voice AI systems.\n\nThis role is ideal for someone who enjoys building\nproduction AI systems quickly, integrating APIs, and\nshipping autonomous agents that deliver real-world outcomes.\n\nWhat You’ll Build\n\nYou will design and deploy a series of AI agents on a 4–5\nweek sprint cadence, including:\n\nSEO Agent\n\nAutomates content production and search growth.\n\nResponsibilities include:\n\n- Automated blog generation\n- Keyword strategy and research\n- SERP monitoring\n- CMS publishing pipeline integration\n\nPatient Journey Agent\n\nCoordinates automated patient communication workflows using\nreal-time data.\n\nExamples include\n\n- Appointment reminders\n- Follow-up campaigns\n- Patient reactivation\n- Review generation\n- Multi-step messaging orchestration\n\nAd Deployment Agent\n\nAutomates digital marketing campaign creation and\noptimization.\n\nCapabilities include:\n\n- Programmatic campaign creation\n- Budget optimization\n- Lead attribution tracking\n- Integration with CRM and marketing platforms\n\nVoice Agent Improvements\n\nYou will iterate on an existing AI voice scheduling system\nbuilt using the OpenAI Realtime API.\n\nResponsibilities include:\n\n- Improving call reliability\n- Enhancing conversational logic\n- Scaling inbound/outbound automation\n- Integrating voice agents with CRM workflows\n\nVoice stack includes integrations such as ElevenLabs.\n\nWhat You’ll Do\n\n• Design, build, and deploy AI agent modules from\narchitecture through production • Ship new agent\ncapabilities every 4–5 weeks • Integrate with third-party\nAPIs including:\n\n- GoHighLevel\n- NexHealth\n- OpenDental\n- Stripe\n- Meta Ads\n- Google Ads\n\n• Build LLM-based automation using APIs from OpenAI and\nAnthropic • Create prompt chains, tool-use patterns, and\nstructured output pipelines • Implement evaluation pipelines\nand observability tools such as Langfuse and Weights &\nBiases • Manage CI/CD, deployment, and monitoring for all\nagent services • Collaborate asynchronously through Slack\nand GitHub • Contribute to architecture decisions including\ndata models, agent state machines, and error handling\n\nDeployment infrastructure includes platforms like Railway.\n\nRequirementsCore Experience\n\n• 5+ years of software development experience • 2+ years\nbuilding API-heavy backend systems • Strong experience with\nPython or Node.js / TypeScript\n\nAI & LLM Systems\n\nHands-on experience with:\n\n- Prompt engineering\n- Function calling / tool use\n- Structured output parsing\n- Retrieval-Augmented Generation (RAG)\n- Agent frameworks such as LangChain or CrewAI\n\nBackend & Integrations\n\n• Strong API integration experience • Experience integrating\nmultiple third-party services in a single system •\nComfortable handling authentication, rate limits, webhooks,\nand data normalization\n\nInfrastructure Ownership\n\nYou should be comfortable owning infrastructure including:\n\n- CI/CD pipelines\n- Containerized deployments\n- Logging and monitoring\n- Service reliability and alerting\n\nWork Style\n\n• Self-directed and able to ship independently • Comfortable\nworking in a startup environment • Strong written\ncommunication in async workflows • Collaborative and\nconstructive in code reviews\n\nNice to Have\n\n• Experience with GoHighLevel, NexHealth, or OpenDental •\nExperience with marketing automation systems or CRM\nintegrations • Familiarity with voice AI systems using\nTwilio or ElevenLabs • Prior startup or early-stage product\nexperience • Experience with local LLM inference tools like\nOllama or vLLM\n\nBenefits\n\n💰 $30,000 – $60,000 USD annually (based on experience) 🌍\nRemote role 📈 Opportunity to work on cutting-edge AI agent\nsystems in a fast-moving startup\n",
+  "skills_required": [
+    "Agent frameworks",
+    "Anthropic API",
+    "CrewAI",
+    "ElevenLabs",
+    "Function calling",
+    "GoHighLevel",
+    "Google Ads",
+    "LangChain",
+    "Meta Ads",
+    "NexHealth",
+    "OpenAI API",
+    "OpenAI Realtime API",
+    "OpenDental",
+    "Prompt engineering",
+    "RAG",
+    "Slack",
+    "Stripe",
+    "Structured output parsing"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and deploy AI agent modules from architecture through production",
+    "Ship new agent capabilities on 4-5 week sprint cadence including SEO, patient journey, and ad deployment agents",
+    "Build LLM-based automation using OpenAI and Anthropic APIs with prompt chains and tool-use patterns",
+    "Integrate with third-party APIs including GoHighLevel, NexHealth, OpenDental, Stripe, Meta Ads, and Google Ads",
+    "Implement evaluation pipelines and observability tools such as Langfuse and Weights & Biases",
+    "Manage CI/CD, deployment, and monitoring for all agent services",
+    "Iterate on existing AI voice scheduling system built with OpenAI Realtime API",
+    "Contribute to architecture decisions including data models, agent state machines, and error handling"
+  ],
+  "use_cases": [
+    "Automated SEO content production and search growth for healthcare practices",
+    "Patient communication workflows including appointment reminders, follow-ups, and reactivation",
+    "Digital marketing campaign automation with programmatic creation and budget optimization",
+    "AI voice scheduling system for inbound and outbound call automation",
+    "Multi-step messaging orchestration and patient engagement automation",
+    "Lead attribution tracking and CRM integration for healthcare marketing"
+  ],
+  "tools_mentioned": [
+    "API integration",
+    "CI/CD",
+    "Docker",
+    "GitHub",
+    "Langfuse",
+    "REST APIs",
+    "Railway",
+    "Webhooks",
+    "Weights & Biases"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "Anthropic API",
+    "CrewAI",
+    "ElevenLabs",
+    "Function calling",
+    "LangChain",
+    "OpenAI API",
+    "OpenAI Realtime API",
+    "Prompt engineering",
+    "RAG",
+    "Structured output parsing"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, designing, and\ndeploying AI agents and LLM-based automation systems\nincluding RAG implementations, prompt chains, and agent\nframeworks. The engineer will own end-to-end development of\nAI-powered modules using OpenAI, Anthropic APIs, LangChain,\nand CrewAI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "LangChain",
+      "CrewAI",
+      "Prompt engineering",
+      "Function calling",
+      "RAG",
+      "Structured output parsing",
+      "Agent frameworks",
+      "OpenAI Realtime API",
+      "ElevenLabs"
+    ],
+    "ml": [],
+    "web": [
+      "API integration",
+      "REST APIs",
+      "Webhooks"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Railway"
+    ],
+    "ops": [
+      "Langfuse",
+      "Weights & Biases",
+      "CI/CD",
+      "Docker",
+      "GitHub"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": [
+      "GoHighLevel",
+      "NexHealth",
+      "OpenDental",
+      "Stripe",
+      "Meta Ads",
+      "Google Ads",
+      "Slack"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

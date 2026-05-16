@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-0327",
+  "source": "intl-ai-corpus",
+  "source_ref": "7778549",
+  "source_url": "https://builtin.com/job/staff-ai-ops-engineer/7778549",
+  "title": "Staff AI Ops Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Calix",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-31",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,618 Employees",
+  "company_stage": "Public",
+  "company_focus": "Broadband cloud software and AI solutions for service\nproviders",
+  "industries": [
+    "Big Data",
+    "Cloud",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Calix provides the cloud, software platforms, systems and\nservices required for communications service providers to\nsimplify their businesses, excite their subscribers and grow\ntheir value.\n\nCalix is where passionate innovators come together with a\nshared mission: to reimagine broadband experiences and\nempower communities like never before. As a true pioneer in\nbroadband technology, we ignite transformation by equipping\nservice providers of all sizes with an unrivaled platform,\nstate-of-the-art cloud technologies, and AI-driven solutions\nthat redefine what’s possible. Every tool and breakthrough\nwe offer is designed to simplify operations and unlock\nextraordinary subscriber experiences through innovation.\n\nCalix is seeking a highly skilled Staff AI Ops Engineer with\nhands-on experience with GCP to join our cutting-edge AI/ML\nteam. In this role, you will be responsible for building,\nscaling, and maintaining the infrastructure that powers our\nmachine learning and generative AI applications. You will\nwork closely with data scientists, ML engineers, and\nsoftware developers to ensure our ML/AI systems are robust,\nefficient, and production ready.\n\nThis is a remote-based position that can be located anywhere\nin the United States or Canada.\n\nKey Responsibilities:\n\n- Design, implement, and maintain scalable infrastructure for\n  ML and GenAI applications\n- Deploy, operate, and troubleshoot production ML/GenAI\n  pipelines/services\n- Build and optimize CI/CD pipelines for ML model deployment\n  and serving\n- Scale compute resources across CPU/GPU architectures to meet\n  performance requirements\n- Implement container orchestration with Kubernetes\n- Architect and optimize cloud resources on GCP for ML\n  training and inference\n- Setup and maintain runtime frameworks and job management\n  systems (Airflow, KubeFlow, MLflow, etc.)\n- Establish monitoring, logging and alerting for systems\n  observability\n- Optimize system performance and resource utilization for\n  cost efficiency\n- Develop and enforce AIOps best practices across the\n  organization\n\nQualifications:\n\n- Bachelor's degree in Computer Science, Information\n  Technology, or a related field (or equivalent experience).\n- 8+ years of overall software engineering experience\n- 3+ years of focused experience in DevOps/AIOps or similar ML\n  infrastructure roles\n- Proficient in IaC, using Terraform.\n- Strong experience with containerization and orchestration\n  using Docker and Kubernetes\n- Demonstrated expertise in cloud infrastructure management on\n  GCP\n- Proficiency with workflow management such as Airflow &\n  Kubeflow\n- Strong CI/CD expertise with experience implementing\n  automated testing and deployment pipelines\n- Experience with scaling distributed compute architectures\n  utilizing various accelerators (CPU/GPU)\n- Solid understanding of system performance optimization\n  techniques\n- Experience implementing comprehensive observability\n  solutions for complex systems\n- Knowledge of monitoring and logging tools (Prometheus,\n  Grafana, ELK stack).\n- Strong proficiency in Python\n- Familiarity with ML frameworks such as PyTorch and ML\n  platforms like Vertex AI\n- Excellent problem-solving skills and ability to work\n  independently\n- Strong communication skills and ability to work effectively\n  in cross-functional teams\n\n#LI-Remote\n\nThe base pay range for this position varies based on the\ngeographic location. More information about the pay range\nspecific to candidate location and other factors will be\nshared during the recruitment process. Individual pay is\ndetermined based on location of residence and multiple\nfactors, including job-related knowledge, skills and\nexperience.\n\nSan Francisco Bay Area:\n\n156,400 - 265,700 USD Annual\n\nAll Other US Locations:\n\n136,000 - 231,000 USD Annual\n\nAs a part of the total compensation package, this role may\nbe eligible for a bonus. For information on our benefits\nclick here.\n",
+  "skills_required": [
+    "PyTorch"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and maintain scalable infrastructure for ML and GenAI applications",
+    "Deploy, operate, and troubleshoot production ML/GenAI pipelines and services",
+    "Build and optimize CI/CD pipelines for ML model deployment and serving",
+    "Scale compute resources across CPU/GPU architectures to meet performance requirements",
+    "Architect and optimize cloud resources on GCP for ML training and inference",
+    "Establish monitoring, logging, and alerting for systems observability",
+    "Develop and enforce AIOps best practices across the organization"
+  ],
+  "use_cases": [
+    "AI-driven solutions for communications service providers to simplify operations",
+    "Broadband experience transformation through cloud technologies and AI",
+    "Machine learning applications for subscriber experience enhancement",
+    "Generative AI applications for broadband service providers"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "CI/CD",
+    "Docker",
+    "ELK stack",
+    "GCP",
+    "Grafana",
+    "Kubeflow",
+    "Kubernetes",
+    "MLflow",
+    "Prometheus",
+    "Terraform",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an AI Ops Engineer role focused on building and\nmaintaining infrastructure for ML/GenAI applications. The\nrole involves deploying, operating, and scaling ML systems\nbut does not include building, training, fine-tuning, or\ndeploying models directly. Instead, the engineer creates the\nplatforms, pipelines, and cloud resources that enable data\nscientists and ML engineers to work with AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Airflow"
+    ],
+    "cloud": [
+      "GCP",
+      "Vertex AI"
+    ],
+    "ops": [
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Kubeflow",
+      "MLflow",
+      "CI/CD",
+      "Prometheus",
+      "Grafana",
+      "ELK stack"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

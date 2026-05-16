@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-2434",
+  "source": "intl-ai-corpus",
+  "source_ref": "8880520",
+  "source_url": "https://www.builtinla.com/job/ai-engineer-intern-summer-2026/8880520",
+  "title": "AI Engineer Intern- Summer 2026",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Roadie",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "Stage",
+  "work_type_raw": "INTERN",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Acquired (by UPS)",
+  "company_focus": "Logistics and delivery platform with crowdsourced driver\nnetwork",
+  "industries": [
+    "Automotive",
+    "Software"
+  ],
+  "description": "Roadie, a UPS company, is a leading logistics and delivery\nplatform that helps businesses tackle the complexities of\nmodern retail with unmatched delivery coverage, flexibility\nand visibility. Reaching 97% of U.S. households across more\nthan 30,000 zip codes — from urban hubs to rural communities\n— Roadie provides seamless, scalable solutions that meet a\nvariety of delivery needs.\n\nWith a network of more than 310,000 independent drivers\nnationwide, Roadie offers flexible delivery solutions that\nmake complex logistics challenges easy, including solutions\nfor local same-day delivery, delivery of big and bulky\nitems, ship-from-store and DC-to-door. For more information,\nvisit www.roadie.com.\n\nRoadie is seeking an AI Engineer Intern for Summer 2026 who\nis excited about building AI-powered products. You’ll work\nalongside our Innovation Team to design and develop AI\nagents, data pipelines, and internal tools that shape the\nfuture of Customer Support and Trust & Safety at Roadie.\n\nWhat You’ll Do\n\n- Build and improve AI chatbot agents powered by LLMs,\n  including retrieval-augmented generation (RAG), prompt\n  engineering, and tool orchestration\n- Develop and refine fraud detection models using embeddings,\n  semantic search, and rule-based systems\n- Design and maintain data pipelines, including ingestion,\n  embedding, vector storage, and retrieval quality\n- Build evaluation frameworks to measure and improve AI agent\n  accuracy and response quality\n- Collaborate with Engineering and Product teams to ship\n  features end-to-end in a fast-paced, agile environment\n- Write clean, testable code and contribute to our AI platform\n  and internal tooling\n- Gain exposure to technologies such as Python, FastAPI,\n  LangChain, LangGraph, Google Gemini / Vertex AI, vector\n  databases (pgvector, FAISS), AWS (EKS, S3), Docker,\n  Kubernetes, Streamlit\n\nWhat You Bring\n\n- Currently pursuing a Bachelor’s or Master’s degree in\n  Computer Science, Data Science, Engineering, or a related\n  field (Master’s students with a focus on AI/ML preferred)\n- Experience with Python and familiarity with REST APIs\n- Interest or hands-on experience with LLMs, RAG, or machine\n  learning pipelines\n- Strong attention to detail, accuracy, and reliability\n- Strong problem-solving and critical thinking skills, with\n  the ability to thrive in a fast-paced environment\n- Excellent written and verbal communication skills\n\nBonus\n\n- Experience with prompt engineering, embeddings, or vector\n  databases\n- Familiarity with Docker, Kubernetes, or cloud platforms\n  (AWS, GCP)\n- Experience with data labeling, model evaluation, or NLP\n",
+  "skills_required": [
+    "Google Gemini",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and improve AI chatbot agents powered by LLMs using RAG, prompt engineering, and tool orchestration",
+    "Develop and refine fraud detection models using embeddings, semantic search, and rule-based systems",
+    "Design and maintain data pipelines including ingestion, embedding, vector storage, and retrieval quality",
+    "Build evaluation frameworks to measure and improve AI agent accuracy and response quality",
+    "Collaborate with Engineering and Product teams to ship features end-to-end",
+    "Write clean, testable code and contribute to AI platform and internal tooling"
+  ],
+  "use_cases": [
+    "AI-powered customer support chatbots",
+    "Fraud detection and trust & safety systems",
+    "Retrieval-augmented generation for information access",
+    "Internal AI tools and automation"
+  ],
+  "tools_mentioned": [
+    "AWS EKS",
+    "AWS S3",
+    "Docker",
+    "FAISS",
+    "FastAPI",
+    "Kubernetes",
+    "REST APIs",
+    "Streamlit",
+    "Vertex AI",
+    "pgvector",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Google Gemini",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building AI agents,\nimplementing RAG systems, developing fraud detection models\nwith embeddings, and working directly with LLMs. The intern\nwill be creating and deploying AI-powered systems, not just\nsupporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Google Gemini",
+      "RAG",
+      "prompt engineering"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [
+      "FastAPI",
+      "Streamlit",
+      "REST APIs"
+    ],
+    "databases": [
+      "pgvector",
+      "FAISS",
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Vertex AI",
+      "AWS EKS",
+      "AWS S3"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

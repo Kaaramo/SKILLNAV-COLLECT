@@ -1,0 +1,47 @@
+company:
+  name: AGC Glass Europe
+  stage: null
+  focus: null
+position:
+  title: FULL STACK AI ENGINEER
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai:
+    - agent
+    - langchain
+    - llm
+    - mcp
+    ml:
+    - deep learning
+    - machine learning
+    - pytorch
+    - tensorflow
+    web:
+    - fastapi
+    - react
+    databases: []
+    data:
+    - prefect
+    cloud:
+    - aws
+    - azure
+    - gcp
+    - google cloud
+    ops: []
+    languages:
+    - javascript
+    - python
+    - typescript
+    domains: []
+    other:
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4413977163'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

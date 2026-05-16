@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0643",
+  "source": "intl-ai-corpus",
+  "source_ref": "8312570",
+  "source_url": "https://builtin.com/job/sr-ai-engineer/8312570",
+  "title": "Sr. AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Hercules AI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-27",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "82 Employees",
+  "company_stage": null,
+  "company_focus": "AI platform for automating finance and operations data\nvalidation and verification",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Generative AI"
+  ],
+  "description": "About HerculesAI\n\nHerculesAI helps finance and operations leaders solve\nproblems that are too complex, large-scale, or time-\nconsuming for human teams to manage alone. Its platform\nautomates the validation and verification of data across\nmillions of high-volume, rules-based transactions, improving\nbilling accuracy, reducing costs, and accelerating cash\nflow. Built on a modular, multi-AI agent architecture,\nHerculesAI delivers industry-specific solutions for\nstaffing, insurance, government, and financial services. Its\naccuracy and consistency enable enterprises to achieve\nlevels of precision and speed that were previously out of\nreach.\n\nHeadquartered in the United States, HerculesAI also has\noffices in the United Kingdom, Armenia, Canada, and\nPortugal.\n\nAbout the role\n\nThis role will be operating at the intersection of applied\nresearch and engineering, building crucial AI capabilities,\nand owning their robust implementation. You will have direct\nimpact on shaping the models served in our products, and the\nuser experience as well as business value that is driven by\nthem.\n\nWhat you'll do\n\nPost-training, distillation and reinforcement learning\n\n- Create training environments that elevate the quality\n  ceiling of synthetic data, and provide high-quality reward\n  signals for both off- and on-policy learning.\n- Design model behaviors that optimize for interpretability\n  and an outstanding user experience.\n- Train agentic models that autonomously interact with complex\n  structured and unstructured environments, write and\n  prototype code, and navigate multimodal inputs.\n- Utilize the best tool for the job – SFT over synthetic data,\n  on-policy distillation, RL or any combination of these to\n  drive down the cost of specialized intelligence.\n- Own benchmarking pipelines – assemble high-quality datasets\n  and measure impact of different training parameters or\n  methodologies.\n\nEngineering Principles\n\n- AI engineers are engineers – build production-ready code and\n  own the end-to-end process of data, training, benchmarking\n  and implementationArchitect scalable inference strategies\n  that maximize compute efficiency.\n- Maintain solutions to ensure stable, reliable execution for\n  customers.\n- Closely collaborate with engineering team to design\n  important intersections of AI and product services such as\n  interfaces, inference tracking, checkpointing, data\n  persistence and caching.\n- Contribute to engineering culture; mentor peers, evolve\n  patterns, raise the bar on code quality, testing strategy,\n  and documentation.\n\nTooling & Resources\n\n- Work with bleeding-edge open-weights models and internal\n  training frameworks.\n- Stay at the forefront of open research and tooling– rapidly\n  prototype and validate novel approaches.\n- Contribute to internal tooling for inference, training,\n  orchestration, and data generation.\n\nSoft Skills & Mindset\n\n- Communicate ideas and explain solutions – even to a non-\n  technical audience.\n- Autonomously build demonstrations and showcase work to the\n  wider company.\n- Break down ambiguous problems into a clear technical scope –\n  think beyond immediate business needs and. incorporate\n  future scalability into each design.\n- Proactively collaborate with team members and seek out all\n  resources relevant to the task at hand.\n\nQualifications\n\nOur ideal candidate has all of the following:\n\n- Strong background in both ML and engineering\n- Great communication skills and rapid understanding of\n  problem descriptions\n- High agency; willing to propose, prototype and own solutions\n- Experience in post-training large models (SFT, distillation,\n  RL)\n- Experience deploying models at production scale\n- Previous work with dockerized systems (Docker, Kubernetes,\n  etc.)\n- Previous contributions to open research or AI infrastructure\n- Strong familiarity with latest AI research and open-source\n  tooling\n- Experience shipping complex software and owning production-\n  code\n\nNice to Have\n\n- Experience performance-engineering inference architecture\n  for maximum throughput (vLLM, SGlang, llama.cpp)\n- Detailed knowledge of RL frameworks (verifiers, ART, prime-\n  rl, trl)\n- Published models or blog posts/publications\n\nSuccess Indicators\n\n- Benchmarks and user metrics: Model quality does not just\n  exist in a lab – both benchmarks and real user metrics are\n  critical to evaluate model quality.\n- Reliability: Minimizing hallucinations, maximizing inference\n  uptime and consistency, ensuring high accuracy in expected\n  model outputs.\n- Interpretability: We do not build black-box AI – all models\n  must be able to communicate reasoning processes, break\n  down code execution, reference sources and achieve\n  consensus decisions.\n- Impact: Improving internal frameworks and tooling, elevating\n  technical culture, educating teams and sharing learnings.\n- Collaboration: Ownership of projects without micro-\n  management, agency in seeking out and offering help\n  wherever possible.\n",
+  "skills_required": [
+    "RL frameworks (verifiers, ART, prime-rl, trl)",
+    "SFT (Supervised Fine-Tuning)",
+    "agentic models",
+    "benchmarking",
+    "distillation",
+    "post-training",
+    "reinforcement learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Create training environments for synthetic data generation and high-quality reward signals for off- and on-policy learning",
+    "Design and train agentic models that autonomously interact with complex structured and unstructured environments and navigate multimodal inputs",
+    "Utilize SFT, distillation, RL, or combinations to optimize model behaviors for interpretability and cost efficiency",
+    "Own benchmarking pipelines by assembling high-quality datasets and measuring impact of different training parameters and methodologies",
+    "Architect scalable inference strategies to maximize compute efficiency and maintain stable, reliable production solutions",
+    "Collaborate with engineering team to design AI-product intersections including interfaces, inference tracking, checkpointing, data persistence, and caching"
+  ],
+  "use_cases": [
+    "Automate validation and verification of data across millions of high-volume, rules-based transactions in finance and operations",
+    "Improve billing accuracy, reduce costs, and accelerate cash flow for enterprises through automated data processing",
+    "Deploy industry-specific solutions for staffing, insurance, government, and financial services sectors",
+    "Build agentic models that autonomously navigate complex environments, write and prototype code, and process multimodal inputs"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "SGlang",
+    "inference engineering",
+    "llama.cpp",
+    "synthetic data generation",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "RL frameworks (verifiers, ART, prime-rl, trl)",
+    "SFT (Supervised Fine-Tuning)",
+    "agentic models",
+    "benchmarking",
+    "distillation",
+    "post-training",
+    "reinforcement learning"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building, training, fine-\ntuning, and deploying LLMs/agents through post-training,\ndistillation, and reinforcement learning. The engineer\ndirectly shapes models served in products and owns the\nentire process from data training to production\nimplementation.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "post-training",
+      "distillation",
+      "SFT (Supervised Fine-Tuning)",
+      "agentic models"
+    ],
+    "ml": [
+      "reinforcement learning",
+      "RL frameworks (verifiers, ART, prime-rl, trl)",
+      "benchmarking"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "synthetic data generation"
+    ],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "vLLM",
+      "SGlang",
+      "llama.cpp",
+      "inference engineering"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "multimodal processing"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

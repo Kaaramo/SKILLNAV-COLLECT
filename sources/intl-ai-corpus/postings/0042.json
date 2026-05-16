@@ -1,0 +1,96 @@
+{
+  "job_id": "intl-ai-corpus-0042",
+  "source": "intl-ai-corpus",
+  "source_ref": "6591465",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai-model-serving/6591465",
+  "title": "Senior Software Engineer, AI Model Serving",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Speechify",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "96 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Text-to-speech and voice cloning AI platform",
+  "industries": [],
+  "description": "Mission\n\nThe mission of Speechify is to make sure that reading is\nnever a barrier to learning.\n\nOver 50 million people use Speechify’s text-to-speech\nproducts to turn whatever they’re reading – PDFs, books,\nGoogle Docs, news articles, websites – into audio, so they\ncan read faster, read more, and remember more. Speechify’s\ntext-to-speech reading products include its iOS app, Android\nApp, Mac App, Chrome Extension, and Web App. Google recently\nnamed Speechify the Chrome Extension of the Year and Apple\nnamed Speechify its App of the Day.\n\nToday, nearly 200 people around the globe work on Speechify\nin a 100% distributed setting – Speechify has no office.\nThese include frontend and backend engineers, AI research\nscientists, and others from Amazon, Microsoft, and Google,\nleading PhD programs like Stanford, high growth startups\nlike Stripe, Vercel, Bolt, and many founders of their own\ncompanies.\n\nThis is a key role and ideal for someone who thinks\nstrategically, enjoys fast-paced environments, passionate\nabout making product decisions, and has experience building\ngreat user experiences that delight users.\n\nWe are a flat organization that allows anyone to become a\nleader by showing excellent technical skills and delivering\nresults consistently and fast. Work ethic, solid\ncommunication skills, and obsession with winning are\nparamount.\n\nOur interview process involves several technical interviews\nand we aim to complete them within 1 week.\n\nOverview\n\nAs Speechify expands, our AI team seeks a Senior Backend\nEngineer. This role is central to ensuring our\ninfrastructure scales efficiently, optimizing key product\nflows, and constructing resilient end-to-end systems. If you\nare passionate about strategizing, enjoy high-paced\nenvironments, and are eager to take ownership of product\ndecisions, we’d love to hear from you.\n\nWhat You’ll Do\n\n- State of the art voice cloning\n- Low latency and cost effective text to speech\n\nAn Ideal Candidate Should Have\n\n- Proven experience in backend development: Python\n- Direct experience with GCP and knowledge of AWS, Azure, or\n  other cloud providers.\n- Efficiency in ideation and implementation, prioritizing\n  tasks based on urgency and impact.\n- Experience with Docker and containerized deployments.\n- Proficiency in deploying high availability applications on\n  Kubernetes.\n- Preferred: Experience deploying NLP or TTS models to\n  production.\n\nWhat We Offer\n\n- A dynamic environment where your contributions shape the\n  company and its products.\n- A team that values innovation, intuition, and drive.\n- Autonomy, fostering focus and creativity.\n- The opportunity to have a significant impact in a\n  revolutionary industry.\n- Competitive compensation, a welcoming atmosphere, and a\n  commitment to an exceptional asynchronous work culture.\n- The privilege of working on a product that changes lives,\n  particularly for those with learning differences like\n  dyslexia, ADD, and more.\n- An active role at the intersection of artificial\n  intelligence and audio – a rapidly evolving tech domain.\n\nThe United States Based Salary range for this role is:\n140,000-200,000 USD/Year + Bonus + Stock depending on\nexperience\n\nThink you’re a good fit for this job?\n\nTell us more about yourself and why you're interested in the\nrole when you apply.  And don’t forget to include links to\nyour portfolio and LinkedIn.\n\nNot looking but know someone who would make a great fit?\n\nRefer them!\n\nSpeechify is committed to a diverse and inclusive workplace.\n\nSpeechify does not discriminate on the basis of race,\nnational origin, gender, gender identity, sexual\norientation, protected veteran status, disability, age, or\nother legally protected status.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "State of the art voice cloning",
+    "Low latency and cost effective text to speech",
+    "Ensure infrastructure scales efficiently",
+    "Optimize key product flows",
+    "Construct resilient end-to-end systems",
+    "Deploy high availability applications on Kubernetes"
+  ],
+  "use_cases": [
+    "Text-to-speech conversion for documents, books, and web content",
+    "Voice cloning for personalized audio experiences",
+    "Multi-platform audio generation across iOS, Android, and web",
+    "Accessibility support for users with learning differences like dyslexia and ADD",
+    "Real-time text-to-speech with low latency for seamless user experience"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "NLP model deployment",
+    "TTS model deployment"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role is a Senior Software Engineer focused on\ninfrastructure, Kubernetes, and serving models rather than\nbuilding or training them. The emphasis is on deploying\nmodels to production, optimizing latency, and scaling\nbackend infrastructure, which supports AI work without\ndirectly working on the models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "GCP",
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "NLP model deployment",
+      "TTS model deployment"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

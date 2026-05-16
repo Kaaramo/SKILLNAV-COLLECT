@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-0793",
+  "source": "intl-ai-corpus",
+  "source_ref": "7038109",
+  "source_url": "https://builtin.com/job/automation-engineer-ai-insights-m-f-d/7038109",
+  "title": "Automation Engineer - AI Insights (m/f/d)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Statista",
+  "company_type": "entité morale privée",
+  "location": "New York",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,400 Employees",
+  "company_stage": "Public",
+  "company_focus": "Leading business data platform providing facts, data\nanalytics products and services",
+  "industries": [
+    "Information Technology",
+    "Marketing Tech",
+    "Database"
+  ],
+  "description": "At Statista, we’re all about facts and data, for we are the\nworld's leading business data platform. By providing\nreliable and easy-to-use data as well as various data\nanalytics products and services, we empower people worldwide\nto make fact-based decisions.\n\nFounded in Hamburg in 2007, we have quickly grown into a\nglobal company with offices in major cities such as London,\nNew York, Berlin and Tokyo. And we still have a lot of\nplans. Our constant growth does not only prove our success,\nbut also keeps creating new development and career\nopportunities for our employees.\n\nWe value and celebrate our diverse culture. You are welcome\nhere for who you are, no matter where you come from, what\nyou look like, or whether you prefer bar graphs to pie\ncharts. Your story matters – keep writing it as part of our\nteam.\n\nAre you ready to join us?\n\nYour Job\n\nAs an Automation Engineer focused on insights and retrieval,\nyou will design powerful, intelligent data solutions to fuel\nStatista’s next-generation analytics and AI products. Take\nownership of scalable pipelines, advanced retrieval systems,\nand automated insight delivery—helping transform how data is\nconnected, indexed, and leveraged across our products and\npartner platforms.\n\n- Design Intelligent Data Pipelines: Build and optimize\n  scalable, high-performance pipelines that seamlessly\n  connect databases, schemas, and advanced retrieval logic\n  for both structured and unstructured data.\n- Automate Insights Delivery: Develop automation systems for\n  rule-based retrieval and dynamic content generation,\n  enabling real-time, large-scale insight delivery—from\n  simple queries to AI-powered outputs.\n- Empower AI Workflows: Ensure data and content are\n  efficiently stored, indexed, and available via robust APIs\n  and partner integrations—powering next-gen AI features\n  like Retrieval-Augmented Generation (RAG).\n- Innovate and Optimize: Analyze and address bottlenecks,\n  always seeking opportunities to advance Statista’s data\n  automation strategy and improve content workflows for\n  greater scalability and performance.\n\nYour Skills\n\n- Data Engineering Expertise: Experience in DataOps, Data\n  Engineering, or backend development with a strong record\n  of building scalable systems.\n- Python & SQL Mastery: Advanced skills in Python and SQL for\n  robust data processing, automation, and backend\n  integration.\n- API Development: Familiarity with FastAPI or similar\n  frameworks, able to build efficient, user-friendly APIs\n  for data access and automation.\n- Cloud Platform Proficiency: Hands-on experience with AWS (or\n  other cloud platforms), enabling scalable deployments and\n  data solutions.\n- Modern DevOps: Strong understanding of Docker, CI/CD\n  pipelines, and Infrastructure-as-Code (IaC) for secure,\n  reliable, and maintainable infrastructure.\n- AI & NLP Skills: Experience with AI/ML libraries or\n  frameworks (LangChain, RAG systems) and a genuine\n  curiosity about LLMs, model evaluation, and autonomous AI\n  agents.\n- Continuous Innovation: Eager to stay ahead of fast-moving\n  trends in prompt engineering and intelligent data\n  retrieval, bringing new ideas and technologies into your\n  daily work.\n\nJoin us to build the future of automated insights and AI-\npowered analytics—where your innovative data engineering\nwill shape tomorrow’s intelligent products.\n\nWhat we offer\n\nIn addition to our great team, culture, and our shared goal\nof empowering people with data, there are many other things\nthat make Statista a great place to work! Join us and\nbenefit from:\n\n- Work from abroad up to 30 calendar days a year\n- Hybrid work and flex-time\n- International team and social events\n- Subsidized urban mobility and access to fitness and wellness\n  options\n- Free access to Perplexity Enterprise and all its amazing\n  functionalities\n- Career & training opportunities\n- Attractive locations and modern offices\n- Mental health support with OpenUp\n\nSome of the benefits listed here apply only to the German\nentity and to Junior-level roles or above.\n",
+  "skills_required": [
+    "LLMs",
+    "LangChain",
+    "RAG",
+    "autonomous AI agents",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and optimize scalable, high-performance data pipelines connecting databases, schemas, and advanced retrieval logic for structured and unstructured data",
+    "Develop automation systems for rule-based retrieval and dynamic content generation enabling real-time, large-scale insight delivery",
+    "Ensure data and content are efficiently stored, indexed, and available via robust APIs and partner integrations to power AI features",
+    "Analyze and address bottlenecks to advance data automation strategy and improve content workflows for scalability and performance"
+  ],
+  "use_cases": [
+    "Automated insight delivery from simple queries to AI-powered outputs",
+    "Retrieval-Augmented Generation (RAG) systems for next-gen AI features",
+    "Dynamic content generation at scale using rule-based retrieval",
+    "Large-scale data indexing and retrieval across products and partner platforms"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "DataOps",
+    "Docker",
+    "FastAPI",
+    "Infrastructure-as-Code",
+    "data engineering",
+    "data pipelines"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "LangChain",
+    "RAG",
+    "autonomous AI agents",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building data pipelines, automation\nsystems, and infrastructure that power AI workflows rather\nthan directly building, training, or fine-tuning models. The\nengineer creates the foundation (pipelines, APIs, indexing,\nretrieval systems) that enables AI features like RAG to\nfunction, which is classic ai-support work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "RAG",
+      "prompt engineering",
+      "LLMs",
+      "autonomous AI agents"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [],
+    "data": [
+      "DataOps",
+      "data pipelines",
+      "data engineering"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "Infrastructure-as-Code"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

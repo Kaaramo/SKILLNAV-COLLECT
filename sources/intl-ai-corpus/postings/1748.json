@@ -1,0 +1,169 @@
+{
+  "job_id": "intl-ai-corpus-1748",
+  "source": "intl-ai-corpus",
+  "source_ref": "8594644",
+  "source_url": "https://builtin.com/job/ai-ml-engineer-rag/8594644",
+  "title": "AI/ML Engineer - RAG",
+  "title_normalized": "AI_ENGINEER",
+  "company": "KLA",
+  "company_type": "entité morale privée",
+  "location": "Chennai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,001 Employees",
+  "company_stage": "Public",
+  "company_focus": "Semiconductor manufacturing technology and systems",
+  "industries": [],
+  "description": "Company Overview\n\nKLA is a global leader in diversified electronics for the\nsemiconductor manufacturing ecosystem. Virtually every\nelectronic device in the world is produced using our\ntechnologies. No laptop, smartphone, wearable device, voice-\ncontrolled gadget, flexible screen, VR device or smart car\nwould have made it into your hands without us. KLA invents\nsystems and solutions for the manufacturing of wafers and\nreticles, integrated circuits, packaging, printed circuit\nboards and flat panel displays. The innovative ideas and\ndevices that are advancing humanity all begin with\ninspiration, research and development. KLA focuses more than\naverage on innovation and we invest 15% of sales back into\nR&D. Our expert teams of physicists, engineers, data\nscientists and problem-solvers work together with the\nworld’s leading technology providers to accelerate the\ndelivery of tomorrow’s electronic devices. Life here is\nexciting and our teams thrive on tackling really hard\nproblems. There is never a dull moment with us.\n\nGroup/Division\n\nThe Information Technology (IT) group at KLA is involved in\nevery aspect of the global business. IT’s mission is to\nenable business growth and productivity by connecting\npeople, process, and technology. It focuses not only on\nenhancing the technology that enables our business to thrive\nbut also on how employees use and are empowered by\ntechnology. This integrated approach to customer service,\ncreativity and technological excellence enables employee\nproductivity, business analytics, and process excellence.\n\nJob Description/Preferred Qualifications\n\nPosition Overview\n\nWe are seeking a hands-on AI/ML Engineer specializing in\nRetrieval-Augmented Generation (RAG) to design, build, and\noptimize production-grade systems that ground LLM responses\nin enterprise knowledge. You will own end-to-end retrieval\npipelines—from ingestion and indexing to hybrid search,\nreranking, and evaluation—ensuring high relevance, low\nlatency, and measurable reductions in hallucinations and\nanswer failures.\n\nKey Responsibilities\n\n- RAG Pipeline Design & Seeing It Through to Production\n\n- Design and implement robust RAG pipelines: ingestion,\n  parsing, chunking, enrichment, embedding, indexing,\n  retrieval, reranking, and answer generation.\n\n- Choose and tune retrieval strategies (dense, sparse/lexical,\n  and hybrid) to maximize recall and precision for real\n  enterprise queries.\n\n- Build citation/grounding mechanisms and response policies to\n  ensure traceable, trustworthy outputs.\n\n- Indexing, Search Quality & Ranking\n\n- Implement and optimize vector and hybrid search over\n  structured and unstructured data (documents, wikis,\n  tickets, logs, and metadata).\n\n- Develop reranking strategies (cross-encoder, late-\n  interaction, or LLM-based) and fusion methods\n  (RRF/weighted fusion) to improve ranking quality.\n\n- Establish query understanding and rewriting techniques\n  (intent classification, expansions, entity/keyword\n  boosting) to improve retrieval robustness.\n\n- Evaluation, Guardrails & Continuous Improvement\n\n- Define an evaluation harness for retrieval and generation\n  using offline datasets and online telemetry\n  (precision/recall@k, MRR/nDCG, groundedness).\n\n- Implement automated regression tests and quality gates for\n  new prompts, retrievers, and model updates.\n\n- Create feedback loops using human review and lightweight\n  labeling to improve relevance over time.\n\n- Performance, Reliability & Cost Efficiency\n\n- Optimize latency and throughput using caching, batching,\n  streaming responses, and efficient retrieval/index\n  configurations.\n\n- Instrument the full pipeline with logs, metrics, traces,\n  dashboards, and alerting; triage failures with runbooks.\n\n- Drive cost-aware design across embedding, retrieval, and\n  generation (token budgets, context windows, adaptive\n  retrieval).\n\n- Security, Access Control & Compliance\n\n- Implement document-level security and access control in\n  retrieval (ACL-aware indexing, filtering, or query-time\n  authorization checks).\n\n- Ensure safe handling of sensitive data, auditability, and\n  compliance with enterprise governance standards.\n\n- Collaboration & Enablement\n\n- Partner with domain owners and engineering teams to\n  prioritize use cases and integrate RAG into products and\n  workflows.\n\n- Document best practices and provide reusable templates for\n  ingestion, evaluation, and deployment.\n\nRequired Qualifications\n\n- Bachelor's degree in Computer Science, Engineering, Data\n  Science, Human-Computer Interaction, or a related field\n  with 5+ years of relevant experience; OR a Master's/PhD\n  with 3+ years of relevant experience.\n\n- Strong programming skills in Python and experience with\n  LLM/RAG development in production environments.\n\n- Experience with vector databases or search engines and\n  retrieval concepts (ANN indexes, BM25/lexical search,\n  hybrid retrieval).\n\n- Experience designing evaluation methods for retrieval and\n  LLM outputs (grounding, relevance, factuality, and\n  regression testing).\n\n- Experience building scalable services and APIs (REST/gRPC),\n  with attention to reliability and performance.\n\n- Strong understanding of data processing pipelines, metadata\n  design, and information retrieval fundamentals.\n\n- Excellent communication skills and ability to work\n  effectively in cross-functional teams.\n\nPreferred Qualifications\n\n- Experience with ranking/reranking techniques (cross-\n  encoders, late-interaction, learning-to-rank) and fusion\n  methods (RRF, weighted scoring).\n\n- Experience with document parsing for PDFs/HTML and handling\n  tables, diagrams, or mixed layouts.\n\n- Experience with observability and SRE practices for AI\n  systems (SLOs/SLIs, incident response, runbooks).\n\n- Experience implementing ACL-aware retrieval and security\n  patterns for enterprise knowledge systems.\n\n- Experience building prompt/tooling libraries and maintaining\n  multi-model compatibility across LLM providers.\n\nWhat Success Looks Like (First 6-12 Months)\n\n- A standardized RAG pipeline that measurably improves answer\n  relevance while reducing hallucinations and unresolved\n  queries.\n\n- A repeatable evaluation framework with quality gates that\n  prevents regressions during model/retriever/prompt\n  updates.\n\n- Meaningful latency and cost reductions via caching, adaptive\n  retrieval, and efficient indexing/reranking strategies.\n\n- Secure, compliant retrieval that enforces access control\n  without sacrificing search quality.\n\n\n\nNote: Technology choices may vary by team needs; candidates\nshould be comfortable learning and adapting to new tools.\n\nMinimum Qualifications\n\nDoctorate (Academic) or work experience of 0 years ,\nMaster's Level Degree or work experience of 2 years ,\nBachelor's Level Degree or work experience of 3 years\n\nWe offer a competitive, family friendly total rewards\npackage. We design our programs to reflect our commitment to\nan inclusive environment, while ensuring we provide benefits\nthat meet the diverse needs of our employees.\n\nKLA is proud to be an equal opportunity employer\n\nBe aware of potentially fraudulent job postings or\nsuspicious recruiting activity by persons that are currently\nposing as KLA employees.  KLA never asks for any financial\ncompensation to be considered for an interview, to become an\nemployee, or for equipment. Further, KLA does not work with\nany recruiters or third parties who charge such fees either\ndirectly or on behalf of KLA. Please ensure that you have\nsearched KLA’s Careers website for legitimate job postings.\nKLA follows a recruiting process that involves multiple\ninterviews in person or on video conferencing with our\nhiring managers.  If you are concerned that a communication,\nan interview, an offer of employment, or that an employee is\nnot legitimate, please send an email to\ntalent.acquisition@kla.com to confirm the person you are\ncommunicating with is an employee. We take your privacy very\nseriously and confidentially handle your information.\n",
+  "skills_required": [
+    "ACL-aware retrieval",
+    "ANN indexes",
+    "BM25",
+    "MRR",
+    "RAG",
+    "RRF",
+    "Retrieval-Augmented Generation",
+    "citation mechanisms",
+    "cross-encoder",
+    "dense retrieval",
+    "embedding",
+    "groundedness",
+    "guardrails",
+    "hallucination reduction",
+    "hybrid retrieval",
+    "late-interaction",
+    "learning-to-rank",
+    "nDCG",
+    "sparse/lexical search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement robust RAG pipelines including ingestion, parsing, chunking, enrichment, embedding, indexing, retrieval, reranking, and answer generation",
+    "Choose and tune retrieval strategies (dense, sparse/lexical, and hybrid) to maximize recall and precision for enterprise queries",
+    "Implement and optimize vector and hybrid search over structured and unstructured data with reranking strategies and fusion methods",
+    "Define evaluation harnesses for retrieval and generation using offline datasets and online telemetry with automated regression tests",
+    "Optimize latency and throughput using caching, batching, streaming responses, and efficient retrieval/index configurations",
+    "Implement document-level security and access control in retrieval with ACL-aware indexing and query-time authorization",
+    "Partner with domain owners and engineering teams to prioritize use cases and integrate RAG into products and workflows"
+  ],
+  "use_cases": [
+    "Enterprise knowledge management systems with grounded LLM responses",
+    "Document search and retrieval across wikis, tickets, logs, and metadata",
+    "Intelligent question answering with reduced hallucinations and improved answer reliability",
+    "Internal enterprise search with access control and security compliance",
+    "Automated information retrieval and knowledge synthesis from structured and unstructured data"
+  ],
+  "tools_mentioned": [
+    "HTML",
+    "PDF",
+    "REST",
+    "SLIs",
+    "SLOs",
+    "access control",
+    "data processing pipelines",
+    "document parsing",
+    "gRPC",
+    "incident response",
+    "observability",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "ACL-aware retrieval",
+    "ANN indexes",
+    "BM25",
+    "MRR",
+    "RAG",
+    "RRF",
+    "Retrieval-Augmented Generation",
+    "citation mechanisms",
+    "cross-encoder",
+    "dense retrieval",
+    "embedding",
+    "groundedness",
+    "guardrails",
+    "hallucination reduction",
+    "hybrid retrieval",
+    "late-interaction",
+    "learning-to-rank",
+    "nDCG",
+    "sparse/lexical search"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role focused on building RAG systems\nthat directly work with LLMs and retrieval mechanisms. The\nengineer will design, implement, and optimize end-to-end RAG\npipelines including embeddings, retrieval, reranking, and\nanswer generation - all hands-on work with AI models and\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "groundedness",
+      "guardrails",
+      "citation mechanisms",
+      "hallucination reduction"
+    ],
+    "ml": [
+      "embedding",
+      "dense retrieval",
+      "sparse/lexical search",
+      "BM25",
+      "hybrid retrieval",
+      "cross-encoder",
+      "late-interaction",
+      "learning-to-rank",
+      "RRF",
+      "ANN indexes",
+      "MRR",
+      "nDCG",
+      "ACL-aware retrieval"
+    ],
+    "web": [
+      "REST",
+      "gRPC"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "data processing pipelines",
+      "document parsing",
+      "PDF",
+      "HTML"
+    ],
+    "cloud": [],
+    "ops": [
+      "SLOs",
+      "SLIs",
+      "incident response",
+      "observability",
+      "access control"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

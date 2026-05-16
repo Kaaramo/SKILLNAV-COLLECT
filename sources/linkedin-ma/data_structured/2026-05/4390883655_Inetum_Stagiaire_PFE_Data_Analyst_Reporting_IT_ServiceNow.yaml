@@ -1,0 +1,31 @@
+company:
+  name: Inetum
+  stage: null
+  focus: null
+position:
+  title: Stagiaire PFE – Data Analyst / Reporting IT (ServiceNow & Support)
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - consulting
+    - Excel
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4390883655'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

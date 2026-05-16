@@ -1,0 +1,165 @@
+{
+  "job_id": "intl-ai-corpus-0724",
+  "source": "intl-ai-corpus",
+  "source_ref": "4543762",
+  "source_url": "https://builtin.com/job/aiml-engineer/4543762",
+  "title": "AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "DataZymes",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "104 Employees",
+  "company_stage": "unknown",
+  "company_focus": "Data analytics for Life Sciences and Pharma clients",
+  "industries": [
+    "Information Technology",
+    "Software",
+    "Analytics",
+    "Biotech"
+  ],
+  "description": "Company Description\n\nDataZymes Analytics is a cutting-edge and innovative data\nanalytics company working with Life Sciences clients that\nempowers businesses and organizations to unlock the true\npotential of their data. Our mission is to harness the power\nof data and transform it into actionable insights, enabling\nour clients to make informed decisions and gain a\ncompetitive edge in today's data-driven world.\n\nWith a team of highly skilled data scientists, analysts, and\nengineers, DataZymes Analytics is committed to delivering\ntop-notch solutions tailored to the unique needs of each\nclient. Aided by our suite of cutting-edge products and\naccelerators, we are helping our Pharma clients on their\nData to Insights journey. In a short span, we have built a\nhigh-performance team in focused practice areas, built\ndigital-enabled solutions, and are working with some marquee\nnames in the US healthcare industry.\n\nWhat sets us apart is our dedication to accuracy,\nefficiency, and innovation. We utilize the latest\ntechnologies and industry best practices to ensure the\nhighest quality of work and the fastest turnaround times.\nMoreover, our agile approach allows us to adapt quickly to\nchanging requirements and deliver exceptional results within\nthe most demanding timelines.\n\nJob Description\n\n- 3+ years of work experience in Python programming for AI/ML,\n  deep learning, and Generative AI model development\n- Proficiency in TensorFlow/PyTorch, Hugging Face Transformers\n  and Langchain libraries\n- Hands-on experience with NLP, LLM prompt design and fine-\n  tuning, embeddings, vector databases and agentic\n  frameworks\n- Strong understanding of ML algorithms, probability and\n  optimization techniques\n- 6+ years of experience in deploying models with Docker,\n  Kubernetes, and cloud services (AWS Bedrock, SageMaker,\n  GCP Vertex AI) through APIs, and using MLOps and CI/CD\n  pipelines\n- Familiarity with retrieval-augmented generation (RAG),\n  cache-augmented generation (CAG), retrieval-integrated\n  generation (RIG), low-rank adaptation (LoRA) fine-tuning\n- Ability to write scalable, production-ready ML code and\n  optimized model inference\n- Experience with developing ML pipelines for text\n  classification, summarization and chat agents\n- Prior experience with SQL and noSQL databases, and\n  Snowflake/Databricks\n",
+  "skills_required": [
+    "CAG",
+    "Hugging Face Transformers",
+    "LLM prompt design",
+    "LangChain",
+    "LoRA",
+    "ML algorithms",
+    "PyTorch",
+    "RAG",
+    "RIG",
+    "TensorFlow",
+    "agentic frameworks",
+    "embeddings",
+    "fine-tuning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and fine-tune AI/ML and deep learning models including Generative AI systems",
+    "Design and implement LLM prompts, embeddings, and vector database solutions",
+    "Build and deploy models using Docker, Kubernetes, and cloud AI services (AWS Bedrock, SageMaker, GCP Vertex AI)",
+    "Implement RAG, CAG, and RIG architectures with LoRA fine-tuning techniques",
+    "Develop ML pipelines for text classification, summarization, and chat agents",
+    "Write scalable, production-ready ML code with optimized model inference",
+    "Design and maintain MLOps and CI/CD pipelines for model deployment",
+    "Work with SQL, noSQL databases, Snowflake and Databricks platforms"
+  ],
+  "use_cases": [
+    "Text classification for Life Sciences data",
+    "Document summarization for Pharma clients",
+    "Chat agents for healthcare applications",
+    "Data to insights transformation",
+    "Generative AI solutions for enterprise clients"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "CI/CD",
+    "Databricks",
+    "Docker",
+    "GCP Vertex AI",
+    "Kubernetes",
+    "MLOps",
+    "SageMaker",
+    "Snowflake",
+    "model inference optimization",
+    "noSQL databases",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "CAG",
+    "Hugging Face Transformers",
+    "LLM prompt design",
+    "LangChain",
+    "LoRA",
+    "ML algorithms",
+    "PyTorch",
+    "RAG",
+    "RIG",
+    "TensorFlow",
+    "agentic frameworks",
+    "embeddings",
+    "fine-tuning"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role requires hands-on development and deployment of\nAI/ML models including LLMs, with specific requirements for\nfine-tuning, RAG implementation, model optimization, and\nproduction deployment. The position involves directly\nbuilding and optimizing AI systems (both generative AI and\ntraditional ML) rather than supporting infrastructure for\nothers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LLM prompt design",
+      "embeddings",
+      "agentic frameworks",
+      "RAG",
+      "CAG",
+      "RIG",
+      "LoRA"
+    ],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "Hugging Face Transformers",
+      "fine-tuning",
+      "ML algorithms"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases",
+      "noSQL databases",
+      "Snowflake"
+    ],
+    "data": [
+      "Databricks"
+    ],
+    "cloud": [
+      "AWS Bedrock",
+      "SageMaker",
+      "GCP Vertex AI"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "MLOps",
+      "CI/CD",
+      "model inference optimization"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

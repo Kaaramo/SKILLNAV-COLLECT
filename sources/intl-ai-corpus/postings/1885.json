@@ -1,0 +1,167 @@
+{
+  "job_id": "intl-ai-corpus-1885",
+  "source": "intl-ai-corpus",
+  "source_ref": "8612410",
+  "source_url": "https://builtin.com/job/staff-software-engineer-ml-ai/8612410",
+  "title": "Staff Software Engineer -ML/AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Lookout",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "646 Employees",
+  "company_stage": null,
+  "company_focus": "Cloud-native cybersecurity platform protecting against\nmobile device attacks",
+  "industries": [
+    "Cloud",
+    "Security",
+    "Cybersecurity"
+  ],
+  "description": "Lookout, Inc. is a globally recognized cybersecurity leader\ndelivering advanced protection for the most vulnerable\nelement of any enterprise security strategy — human error\nand manipulation. Cloud-native by design, the Lookout\nplatform offers rapid, scalable deployment and simplified\nsecurity operations, defending the frontline of human-\ncentric attacks—the mobile device. Attackers now target the\nhuman element more than ever, with mobile devices providing\nthe most direct path to their victims. Using social\nengineering techniques that exploit basic human instincts\nlike trust, curiosity, and urgency, they deceive users into\nrevealing sensitive credentials, allowing them to slip past\nlegacy security solutions.\n\nLookout Endpoint Detection and Response (EDR) continuously\nmonitors mobile endpoints for signs of human-centric\nattacks, as well as traditional malware, software\nvulnerabilities, and other anomalous activity. It uses\nadvanced threat detection techniques, including artificial\nintelligence (AI) and behavioral analysis, to identify\nthreats before they escalate across the enterprise. Learn\nmore at www.lookout.com and follow us on the Lookout Blog,\nLinkedIn, and X.\n\nLookout’s backend system supports a massive volume of data\nand an increasingly high level of demand, from data\ningestion to delivery to dynamic analysis. We’re looking for\ntalented and motivated engineers to build core components\nand services, as well as to contribute to evolving the\narchitecture. We’re a small team working on a very large,\nmodern system with a user base of millions, so you’ll get to\nwork on a cutting-edge product and service on a large scale.\nWe’re responsible for building and maintaining several of\nthe services powering the various Lookout applications..\n\nWhat you’ll do:\n\n- You will be part of a dynamic and technically diverse group\n  of engineers, where you will get to contribute, influence,\n  learn and grow top notch technical skill sets, while\n  building key features for our customers.\n- Own the full machine learning lifecycle, from initial\n  research and design to production deployment, monitoring,\n  and continuous retraining.\n- Establish and implement robust frameworks to train,\n  evaluate, stress-test, and monitor ML/AI systems, driving\n  continuous improvement and preventing model drift.\n- Address and navigate real-world scale and performance\n  challenges, ensuring all ML/AI models and systems are\n  efficient, robust, and maintain target quality/latency\n  under production constraints.\n- Set technical direction as a senior Individual Contributor\n  (IC) and mentor junior engineers.\n- Quality is the forefront of all we do, so you will assist\n  with improving all forms of automated testing (unit,\n  integration, functional etc).\n- We believe in, and practice, end to end service ownership,\n  so you will fully participate in the ownership of your\n  services and components, including on-call duties.\n\nWhat we’re looking for:\n\n- BS/MS in Computer Science or related field/degree with at\n  least  5-8 years of  work experience.\n- A proven track record of architecting and deploying\n  practical, high-impact ML/AI systems over multiple years,\n  translating complex models into robust, real-world\n  solutions.\n- Experience working cross-functionally with data engineers,\n  platform engineers, and product stakeholders to bring\n  ML/AI systems to life.\n- Expert proficiency in Python and strong software engineering\n  skills, including the ability to write reliable,\n  production-grade code. In-depth experience with major\n  ML/Deep Learning frameworks: PyTorch, TensorFlow, scikit-\n  learn.\n- Familiarity with modern AI/ML stacks like Hugging Face and\n  LangChain.\n- Deep expertise in a wide range of standard ML algorithms,\n  including classification, clustering, regression, and deep\n  learning models.\n- Hands-on experience with the LLM/RAG stack components:\n  embeddings, knowledge graphs, vector databases, retrieval\n  strategies, and prompt engineering.\n- Proven ability to measure and optimize model efficacy using\n  statistical methods.\n- Hands-on experience with production ML infrastructure,\n  including feature stores, model management,\n  training/serving pipelines (MLOps), and monitoring tools.\n- Up-to-date with new advances in NLP, LLMs and agent-\n  frameworks.\n- Strong grasp of software engineering fundamentals and\n  algorithms.\n- Experience with implementing secure, scalable API services.\n\nBonus Points:\n\n- Practical experience applying advanced techniques to enhance\n  model efficiency, including model distillation (creating\n  smaller, faster student models) and model quantization\n  (reducing memory footprint and latency).\n- Experience with efficient Large Language Model (LLM) fine-\n  tuning methods like LoRA and other PEFT techniques.\n- Experience working with coding agents (Cursor, Copilot,\n  Claude Code etc..)\n- Experience with event streaming frameworks, technologies,\n  patterns and architectures (particularly Kafka or similar)\n- Professional programming experience with Scala and Golang\n- Experience with serverless architectures on AWS, GCP.\n- Experience with Kubernetes, container technology (Docker,\n  ECS, EKS).\n",
+  "skills_required": [
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "LoRA",
+    "PEFT",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "embeddings",
+    "model distillation",
+    "model quantization",
+    "prompt engineering",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own the full machine learning lifecycle from research and design to production deployment, monitoring, and continuous retraining",
+    "Establish and implement robust frameworks to train, evaluate, stress-test, and monitor ML/AI systems to prevent model drift",
+    "Address real-world scale and performance challenges ensuring ML/AI models are efficient and maintain quality/latency under production constraints",
+    "Set technical direction as a senior individual contributor and mentor junior engineers",
+    "Improve all forms of automated testing including unit, integration, and functional testing",
+    "Participate in end-to-end service ownership including on-call duties",
+    "Build core components and services powering Lookout applications"
+  ],
+  "use_cases": [
+    "Mobile endpoint threat detection and response",
+    "Behavioral analysis for identifying human-centric attacks",
+    "Malware and software vulnerability detection",
+    "Anomalous activity monitoring across enterprise systems",
+    "AI-powered advanced threat detection for cybersecurity"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Docker",
+    "ECS",
+    "EKS",
+    "GCP",
+    "Kafka",
+    "Kubernetes",
+    "MLOps",
+    "feature stores",
+    "knowledge graphs",
+    "model management",
+    "training/serving pipelines",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "LoRA",
+    "PEFT",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "embeddings",
+    "model distillation",
+    "model quantization",
+    "prompt engineering",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Golang",
+    "Python",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves owning the full ML lifecycle from\nresearch to production deployment, building and maintaining\nML/AI systems for threat detection, and hands-on work with\nLLMs/RAG stack, embeddings, and vector databases. The\nposition requires translating complex models into production\nsolutions and working with model optimization techniques\nlike distillation and quantization.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LLMs",
+      "RAG",
+      "embeddings",
+      "prompt engineering",
+      "LoRA",
+      "PEFT"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn",
+      "Hugging Face",
+      "model distillation",
+      "model quantization"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "knowledge graphs",
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "ECS",
+      "EKS"
+    ],
+    "ops": [
+      "MLOps",
+      "feature stores",
+      "model management",
+      "training/serving pipelines",
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Scala",
+      "Golang"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

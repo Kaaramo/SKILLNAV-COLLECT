@@ -1,0 +1,44 @@
+company:
+  name: SQLI
+  stage: null
+  focus: null
+position:
+  title: Data Engineer JAVA KAFKA
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - cassandra
+    - mongodb
+    - postgresql
+    data:
+    - flink
+    - kafka
+    - spark
+    - sql
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops:
+    - ci/cd
+    - docker
+    - kubernetes
+    languages:
+    - java
+    domains: []
+    other:
+    - Big Data
+    - NoSQL
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4315403018'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

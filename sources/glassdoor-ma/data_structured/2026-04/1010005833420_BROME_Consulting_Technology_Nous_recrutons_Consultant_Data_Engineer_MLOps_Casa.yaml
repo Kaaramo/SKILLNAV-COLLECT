@@ -1,0 +1,32 @@
+company:
+  name: BROME Consulting & Technology
+  stage: null
+  focus: null
+position:
+  title: '**Nous recrutons : Consultant Data Engineer & MLOps**  **Casablanca \| Mission : 12 mois renouvelables**'
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web:
+    - next
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - consulting
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '1010005833420'
+  extracted_at: '2026-05-16T01:27:45+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

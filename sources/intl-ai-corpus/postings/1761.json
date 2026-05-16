@@ -1,0 +1,144 @@
+{
+  "job_id": "intl-ai-corpus-1761",
+  "source": "intl-ai-corpus",
+  "source_ref": "8598187",
+  "source_url": "https://builtin.com/job/associate-consultant-ai-engineer/8598187",
+  "title": "Associate Consultant, AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Beghou Consulting",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "284 Employees",
+  "company_stage": null,
+  "company_focus": "Life sciences commercialization consulting with advanced\nanalytics and AI solutions",
+  "industries": [
+    "Marketing Tech",
+    "Sales",
+    "Consulting"
+  ],
+  "description": "Beghou brings over three decades of experience helping life\nsciences companies optimize their commercialization through\nstrategic insight, advanced analytics, and technology. From\ndeveloping go-to-market strategies and building foundational\ndata analytics infrastructures to leveraging artificial\nintelligence to improve customer insights and engagement,\nBeghou helps life sciences companies maximize performance\nacross their portfolios. Beghou also deploys proprietary and\nthird-party technology solutions to help companies forecast\nperformance, design territories, manage customer data,\norganize, and report on medical and commercial data, and\nmore. Headquartered in Evanston, Illinois, we have 10 global\noffices.\n\nOur mission is to bring together analytical minds and\ninnovative technology to help life sciences companies\nnavigate the complexity of health care and improve patient\noutcomes.\n\nYou will play a key role in designing, developing, and\ndeploying AI solutions tailored to pharmaceutical clients.\nYou will collaborate with cross-functional teams including\ndata scientists, business consultants, and software\ndevelopers to translate complex life sciences challenges\ninto AI-driven innovations\n\nWe'll trust you to:\n\n- Design and implement AI/ML pipelines that solve real-world\n  problems in life sciences (e.g., territory alignment, rep\n  scheduling, patient segmentation, incentive compensation\n  optimization).\n- Work closely with domain consultants to understand client\n  requirements and develop tailored AI solutions.\n- Lead efforts in data ingestion, feature engineering, and\n  model development across structured and unstructured data\n  sources (e.g., sales data, KOL feedback, medical claims).\n- Build and deploy scalable AI services and LLM-based copilots\n  (e.g., for field force, MSLs, or commercial analytics\n  teams).\n- Implement GenAI and Agentic AI frameworks for commercial\n  automation.\n- Conduct technical reviews and provide mentoring to junior AI\n  team members.\n- Collaborate with DevOps and cloud teams to deploy models on\n  AWS/Azure.\n- Present technical concepts and outcomes to internal\n  stakeholders and client teams.\n\nYou'll need to have:\n\n- 2+ years of experience in AI/ML engineering\n- Proficient in Python (NumPy, pandas, scikit-learn,\n  PyTorch/TensorFlow, LangChain, Hugging Face).\n- Experience building and deploying machine learning models in\n  production.\n- Strong understanding of MLOps tools and practices (e.g.,\n  MLflow, Docker, Git, CI/CD).\n- Exposure to LLMs, transformers, and retrieval-augmented\n  generation (RAG) techniques.\n- Experience working with cloud environments (AWS, Azure\n  preferred, Databricks).\n- Excellent communication skills with the ability to explain\n  complex technical ideas to non-technical stakeholders.\n- Bachelor's/Master's in Computer Science, Data Science,\n  Engineering, or related field.\n\nAt Beghou Consulting, you'll join a highly collaborative,\nvalues-driven team where technical excellence, analytical\nrigor, and personal growth converge. Whether you're\npassionate about AI innovation, building commercialization\nstrategies, or shaping the next generation of data-first\nsolutions in life sciences, this is a place to make an\nimpact!\n",
+  "skills_required": [
+    "Agentic AI",
+    "GenAI frameworks",
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "NumPy",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "pandas",
+    "scikit-learn",
+    "transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement AI/ML pipelines that solve real-world problems in life sciences",
+    "Lead efforts in data ingestion, feature engineering, and model development across structured and unstructured data sources",
+    "Build and deploy scalable AI services and LLM-based copilots for field force, MSLs, or commercial analytics teams",
+    "Implement GenAI and Agentic AI frameworks for commercial automation",
+    "Conduct technical reviews and provide mentoring to junior AI team members",
+    "Collaborate with DevOps and cloud teams to deploy models on AWS/Azure",
+    "Present technical concepts and outcomes to internal stakeholders and client teams"
+  ],
+  "use_cases": [
+    "Territory alignment optimization for pharmaceutical sales forces",
+    "Representative scheduling optimization",
+    "Patient segmentation for targeted marketing",
+    "Incentive compensation optimization",
+    "LLM-based copilots for field force and MSL assistance",
+    "Commercial analytics and decision support automation"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Databricks",
+    "Docker",
+    "Git",
+    "MLflow"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI",
+    "GenAI frameworks",
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "NumPy",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "pandas",
+    "scikit-learn",
+    "transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building and deploying AI\nsolutions including LLM-based copilots, GenAI frameworks,\nRAG systems, and machine learning models. The engineer\ndirectly implements AI/ML pipelines and develops production\nAI services for clients, which qualifies as working directly\nON AI systems.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LLMs",
+      "RAG",
+      "GenAI frameworks",
+      "Agentic AI"
+    ],
+    "ml": [
+      "NumPy",
+      "pandas",
+      "scikit-learn",
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face",
+      "transformers"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "Databricks"
+    ],
+    "ops": [
+      "MLflow",
+      "Docker",
+      "Git",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

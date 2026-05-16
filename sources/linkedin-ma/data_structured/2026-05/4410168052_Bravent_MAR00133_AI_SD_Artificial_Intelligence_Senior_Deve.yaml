@@ -1,0 +1,35 @@
+company:
+  name: Bravent
+  stage: null
+  focus: null
+position:
+  title: MAR00133_AI_SD - Artificial Intelligence Senior Developer
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - pytorch
+    - scikit-learn
+    - tensorflow
+    - xgboost
+    web: []
+    databases: []
+    data: []
+    cloud:
+    - azure
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - MLOps
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4410168052'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

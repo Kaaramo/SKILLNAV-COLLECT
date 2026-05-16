@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-2621",
+  "source": "intl-ai-corpus",
+  "source_ref": "8935697",
+  "source_url": "https://builtin.com/job/senior-systems-engineer-workers-ai/8935697",
+  "title": "Senior Systems Engineer, Workers AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cloudflare",
+  "company_type": "entité morale privée",
+  "location": "London",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "4,400 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global cloud network and edge computing infrastructure",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Security",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "Available Locations: Austin, TX or London, UK (Hybrid) About\nthe role  You'll design and build the core infrastructure\nthat powers AI inference across Cloudflare's global network\n- real-time voice, frontier open LLMs, and customer-deployed\nmodels running on a heterogeneous fleet of GPUs and next-\ngeneration accelerators in hundreds of cities worldwide.\nWorking alongside AI/ML engineers, hardware partners, and\nCloudflare product teams, you'll solve hard problems in\ndistributed systems and high-performance computing: sub-\nsecond model cold starts, multi-accelerator workload\nscheduling, efficient KV cache management, and a model\ndeployment platform serving both Cloudflare and customers\nbringing their own models. We're building an AI inference\nplatform embedded in the fabric of the internet - something\nthat doesn't exist yet - and this role puts you at the\ncenter of it. We're looking for high-agency systems\nengineers who are energized by foundational infrastructure\nproblems and want to define how AI runs at the edge of the\nnetwork. Role Responsibilities\n\n- Develop and maintain core components of the serverless\n  inference platform to ensure high availability and\n  scalability for Cloudflare users.\n- Optimize the model scheduling system to significantly\n  increase efficiency and resource utilization across our\n  inference infrastructure.\n- Implement improvements to the inference request routing\n  logic to enhance overall performance and reduce latency\n  for end-users.\n- Drive significant, measurable improvements in the platform's\n  reliability and resilience by identifying and mitigating\n  systemic risks.\n- Expand and refine the observability stack, including\n  metrics, logging, and tracing, and fine-tune alerts to\n  proactively identify and resolve production issues.\n- Lead complex, cross-functional technical projects from\n  initial concept and design through final deployment and\n  operationalization.\n- Act as a mentor to junior engineers and actively contribute\n  to cultivating a strong, collaborative engineering culture\n  within the team.\n\n Role Requirements  Must-Have Skills\n\n- Experience in systems engineering, with a focus on\n  distributed, high-performance systems.\n- Expert proficiency in Rust programming, particularly in an\n  asynchronous environment.\n- Deep understanding and hands-on experience with relevant\n  networking and application protocols (e.g., TCP, HTTP,\n  WebSocket).\n- Experience with scaling and performance optimization\n  techniques, including load balancing and caching in a\n  distributed environment.\n\n\nNice-to-Have Skills\n\n- Demonstrable experience with container orchestration\n  platforms, specifically Kubernetes and/or Nomad.\n- Familiarity with the challenges and architectures involved\n  in large-scale inference serving (e.g., LLM and diffusion\n  models).\n",
+  "skills_required": [
+    "Caching",
+    "GPU Computing",
+    "KV Cache Management",
+    "LLM Inference Serving",
+    "TCP"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and maintain core components of the serverless inference platform for high availability and scalability",
+    "Optimize the model scheduling system to increase efficiency and resource utilization across inference infrastructure",
+    "Implement improvements to inference request routing logic to enhance performance and reduce latency",
+    "Drive measurable improvements in platform reliability and resilience by identifying and mitigating systemic risks",
+    "Expand and refine the observability stack including metrics, logging, tracing, and alerting",
+    "Lead complex cross-functional technical projects from concept through deployment and operationalization",
+    "Mentor junior engineers and contribute to a collaborative engineering culture"
+  ],
+  "use_cases": [
+    "Serverless AI inference platform serving LLMs and diffusion models at global edge",
+    "Real-time voice AI inference across a global network",
+    "Customer-deployed model serving on heterogeneous GPU and accelerator fleet",
+    "Multi-accelerator workload scheduling for AI inference in hundreds of cities",
+    "Sub-second model cold starts for edge AI inference"
+  ],
+  "tools_mentioned": [
+    "Distributed Systems",
+    "HTTP",
+    "Kubernetes",
+    "Load Balancing",
+    "Model Scheduling",
+    "Nomad",
+    "Performance Optimization",
+    "WebSocket"
+  ],
+  "frameworks_mentioned": [
+    "GPU Computing",
+    "KV Cache Management",
+    "LLM Inference Serving"
+  ],
+  "languages_programming": [
+    "Rust"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing and building the core\ninfrastructure for AI inference, including LLM serving, KV\ncache management, model cold starts, and multi-accelerator\nworkload scheduling. While it's a systems engineering role,\nit directly builds and optimizes the platform that runs AI\nmodel inference (LLMs, diffusion models) at scale, making it\nai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM Inference Serving",
+      "KV Cache Management"
+    ],
+    "ml": [
+      "GPU Computing"
+    ],
+    "web": [
+      "HTTP",
+      "WebSocket"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Distributed Systems",
+      "Load Balancing",
+      "Kubernetes",
+      "Nomad",
+      "Model Scheduling",
+      "Performance Optimization"
+    ],
+    "languages": [
+      "Rust"
+    ],
+    "domains": [],
+    "other": [
+      "TCP",
+      "Caching"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

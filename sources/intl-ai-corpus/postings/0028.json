@@ -1,0 +1,136 @@
+{
+  "job_id": "intl-ai-corpus-0028",
+  "source": "intl-ai-corpus",
+  "source_ref": "6214169",
+  "source_url": "https://builtin.com/job/senior-cloud-engineer/6214169",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Horizon Media",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,965 Employees",
+  "company_stage": null,
+  "company_focus": "Enterprise advertising and media technology platform",
+  "industries": [
+    "AdTech",
+    "Marketing Tech"
+  ],
+  "description": "Job Description\n\nJoin Horizon Media’s pioneering technology team as a\ncreative and driven AI Cloud Engineer, dedicated to building\nthe future of advertising on our world-class, enterprise-\ngrade LLM platform. In this role, you will be instrumental\nin designing, developing, and deploying intelligent agent\nsolutions within our highly secure, proprietary environment.\nYou will solve pivotal business challenges across the media\nlandscape by creating sophisticated AI agents that harness\nthe power of our unique data and technology assets, driving\ninnovation from within.\n\nResponsibilities\n\n- Agent Development: Design, build, and deploy enterprise-\n  grade AI agents and multi-agent systems using Google\n  Cloud's Vertex AI Agent Builder and the Agent Development\n  Kit (ADK).\n- Solution Design: Collaborate with internal teams and\n  customers to understand their business needs, and\n  translate them into scalable, efficient, and secure AI-\n  powered solutions.\n- Grow Google Cloud Usage: Actively identify opportunities to\n  leverage a wider range of Google Cloud services, such as\n  BigQuery, Spanner, and Looker, to enhance agent\n  capabilities and deliver greater value.\n- Technical Integration: Connect agents with enterprise data\n  sources and tools using APIs, built-in connectors, and\n  retrieval-augmented generation (RAG) techniques to ensure\n  they are grounded in reliable information.\n- Prototyping & Demos: Develop proof-of-concept models and\n  compelling demonstrations to showcase the potential of\n  agent-based solutions to stakeholders.\n- Code & Automation: Write clean, maintainable Python code for\n  agent development and implement CI/CD pipelines for\n  automated deployment and testing.\n\nQualifications\n\nMinimum Qualifications:\n\n- Bachelor’s degree in Computer Science, a related technical\n  field, or equivalent practical experience.\n- 5-7 years of experience in a technical role such as software\n  engineering, application development, or a related field.\n- Experience with at least one general-purpose programming\n  language (e.g., Python, Java, Go).\n- Foundational knowledge of cloud computing concepts and\n  architectures.\n\nPreferred Qualifications:\n\n- Hands-on experience with Google Cloud Platform, particularly\n  with AI/ML services like Vertex AI, Dialogflow CX,\n  BigQuery, and Google Cloud Storage.\n- Proven experience building and deploying AI applications,\n  such as chatbots, virtual assistants, or other agentic\n  systems.\n- Proficiency in developing with the Vertex AI Agent Builder\n  and open-source frameworks like LangChain or CrewAI.\n- Strong understanding of AI/ML concepts, including natural\n  language processing (NLP) and large language models\n  (LLMs).\n- Excellent communication and problem-solving skills, with an\n  ability to work collaboratively in a fast-paced\n  environment.\n- Google Cloud certification, such as Associate Cloud Engineer\n  or Professional Cloud Developer, is a plus.\n\n#LI-KG1\n\n#LI-HYBRID\n\n#HM\n\nHorizon Media is proud to be an equal opportunity workplace.\nWe are committed to equal employment opportunity regardless\nof race, color, ancestry, religion, sex, national origin,\nsexual orientation, age, citizenship, marital status,\ndisability, gender identity or Veteran status. We also\nconsider qualified applicants regardless of criminal\nhistories, consistent with legal requirements.\n\nSalary Range\n\n$140,000.00 - $200,000.00\n\nA successful applicant’s actual base salary may vary based\non factors such as individual’s skill sets, experience,\ntraining, education,  licensure/certifications, and\nqualifications for the role.  As an organization, we take an\naptitude and competency-based hiring approach.  We provide a\ncompetitive total rewards package including a discretionary\nbonus and a variety of benefits including health insurance\ncoverage, life and disability insurance, retirement savings\nplans, company paid holidays and unlimited paid time off\n(PTO), mental health and wellness resources, pet insurance,\nchildcare resources, identity theft insurance, fertility\nassistance programs, and fitness reimbursement.\n",
+  "skills_required": [
+    "Agent Development Kit (ADK)",
+    "CrewAI",
+    "LLMs",
+    "LangChain",
+    "NLP",
+    "RAG",
+    "Vertex AI Agent Builder"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and deploy enterprise-grade AI agents and multi-agent systems using Google Cloud's Vertex AI Agent Builder and the Agent Development Kit (ADK)",
+    "Collaborate with internal teams and customers to understand business needs and translate them into scalable, efficient, and secure AI-powered solutions",
+    "Actively identify opportunities to leverage Google Cloud services such as BigQuery, Spanner, and Looker to enhance agent capabilities",
+    "Connect agents with enterprise data sources and tools using APIs, built-in connectors, and retrieval-augmented generation (RAG) techniques",
+    "Develop proof-of-concept models and compelling demonstrations to showcase the potential of agent-based solutions to stakeholders",
+    "Write clean, maintainable Python code for agent development and implement CI/CD pipelines for automated deployment and testing"
+  ],
+  "use_cases": [
+    "Enterprise-grade AI agents for solving business challenges across the media landscape",
+    "Chatbots and virtual assistants powered by large language models",
+    "Multi-agent systems that leverage unique data and technology assets",
+    "AI-powered advertising solutions using natural language processing",
+    "RAG-based applications grounded in enterprise data sources"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "BigQuery",
+    "CI/CD",
+    "Dialogflow CX",
+    "Google Cloud Platform",
+    "Google Cloud Storage",
+    "Looker",
+    "Spanner",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "Agent Development Kit (ADK)",
+    "CrewAI",
+    "LLMs",
+    "LangChain",
+    "NLP",
+    "RAG",
+    "Vertex AI Agent Builder"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building, deploying, and fine-tuning AI\nagents and multi-agent systems using Vertex AI Agent\nBuilder, LangChain, and CrewAI. The engineer works directly\non RAG techniques, NLP applications, and LLM-powered\nsolutions, not just supporting infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Vertex AI Agent Builder",
+      "Agent Development Kit (ADK)",
+      "LangChain",
+      "CrewAI",
+      "RAG",
+      "NLP",
+      "LLMs"
+    ],
+    "ml": [],
+    "web": [
+      "APIs"
+    ],
+    "databases": [
+      "Spanner"
+    ],
+    "data": [
+      "Looker"
+    ],
+    "cloud": [
+      "Google Cloud Platform",
+      "Vertex AI",
+      "Dialogflow CX",
+      "BigQuery",
+      "Google Cloud Storage"
+    ],
+    "ops": [
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

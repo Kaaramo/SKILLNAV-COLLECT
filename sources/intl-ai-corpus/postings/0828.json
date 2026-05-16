@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-0828",
+  "source": "intl-ai-corpus",
+  "source_ref": "7307080",
+  "source_url": "https://builtin.com/job/lead-ai-engineer/7307080",
+  "title": "Lead AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ecolab",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-09",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "29,154 Employees",
+  "company_stage": "Public",
+  "company_focus": "Water treatment and industrial solutions",
+  "industries": [],
+  "description": "About the Role\n\nYou’ll lead the architecture, development, and deployment of\nnext-generation agentic AI systems that transform enterprise\noperations. These intelligent agents will autonomously\norchestrate workflows, analyze real-time data, and embed\ndecision-making across domains like finance, sales, and\noperations. You’ll guide cross-functional teams, mentor\nengineers, and ensure technical excellence across all stages\nof delivery. Microsoft AI Foundry will be a key platform for\nagent development, and Copilot Studio may be used optionally\nfor few use cases.\n\nDay-to-Day Work Responsibilities\n\n- Architect and lead development of scalable, production-grade\n  agentic AI systems.\n- Design serverless, event-driven workflows using Azure\n  Functions, Logic Apps, and Power Automate.\n- Build and optimize ML models for predictive analytics,\n  anomaly detection, and recommendations using Azure ML,\n  Databricks, and Python.\n- Integrate agents with enterprise platforms such as SAP HANA,\n  Salesforce, Snowflake, Kafka, and UiPath.\n- Ensure observability and reliability through Azure Monitor,\n  logging, and alerting frameworks.\n- Define and enforce architecture patterns, reusable\n  components, and governance standards.\n- Lead code reviews, technical design sessions, and agile\n  ceremonies.\n- Leverage Microsoft AI Foundry to build and deploy agents\n  that meet enterprise-grade standards.\n\nLeadership Responsibilities\n\n- Mentor and coach junior engineers, fostering a culture of\n  innovation and technical excellence.\n- Drive cross-team collaboration and alignment on agentic AI\n  strategy and execution.\n- Own delivery timelines, quality benchmarks, and stakeholder\n  communication.\n- Champion best practices in DevOps, CI/CD, and model\n  lifecycle management.\n- Stay ahead of trends in AI, machine vision, and IoT to guide\n  strategic decisions.\n\nCross-Functional Collaboration\n\nYou will work closely with:\n\n- Data Scientists & ML Engineers – for model development and\n  integration\n- Product Managers & UX Designers – aligning agent\n  capabilities with user needs\n- Enterprise Architects & DevOps Engineers – ensuring\n  scalability and deployment efficiency\n- Security & Compliance Teams – meeting regulatory and\n  governance requirements\n- Business Stakeholders & SMEs – defining use cases and\n  validating outcomes\n- Change Management & Enablement Teams – supporting adoption\n  and training efforts\n\nTechnology & Tools\n\n- Languages & Platforms: Python, Power Apps, Power Automate,\n  Databricks, Snowflake\n- Enterprise Systems: SAP HANA, Kafka, UiPath\n- AI Platforms: Microsoft AI Foundry (highly preferred),\n  Copilot Studio (optional)\n- Cloud & ML Tools: Azure Machine Learning, Azure DevOps,\n  GitHub\n- Data & Observability: Vector Databases, Azure Monitor\n- Vision & IoT: Azure IoT Hub, OpenCV, TensorFlow, PyTorch\n  (for edge and vision-based agents)\n\nWhat you bring with you:\n\n- Proven experience leading AI engineering teams and\n  delivering enterprise-grade solutions\n- Strong technical depth in AI/ML, cloud platforms, and\n  agentic system design\n- Ability to navigate ambiguity, drive clarity, and influence\n  across functions\n- Passion for building transformative AI systems that solve\n  meaningful problems\n",
+  "skills_required": [
+    "Agentic AI systems",
+    "Azure Machine Learning",
+    "Copilot Studio",
+    "Microsoft AI Foundry",
+    "Power Apps",
+    "PyTorch",
+    "SAP HANA",
+    "Salesforce",
+    "TensorFlow",
+    "UiPath",
+    "Vector databases"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and lead development of scalable, production-grade agentic AI systems",
+    "Design serverless, event-driven workflows using Azure Functions, Logic Apps, and Power Automate",
+    "Build and optimize ML models for predictive analytics, anomaly detection, and recommendations",
+    "Integrate agents with enterprise platforms such as SAP HANA, Salesforce, Snowflake, Kafka, and UiPath",
+    "Leverage Microsoft AI Foundry to build and deploy agents that meet enterprise-grade standards",
+    "Mentor and coach junior engineers, fostering a culture of innovation and technical excellence",
+    "Define and enforce architecture patterns, reusable components, and governance standards"
+  ],
+  "use_cases": [
+    "Autonomous workflow orchestration across enterprise operations",
+    "Real-time data analysis and embedded decision-making in finance, sales, and operations",
+    "Predictive analytics and anomaly detection for operational insights",
+    "Recommendation systems for business process optimization",
+    "Vision-based and IoT-enabled agent applications at the edge",
+    "Integration with enterprise systems like SAP and Salesforce for automated business processes"
+  ],
+  "tools_mentioned": [
+    "Azure DevOps",
+    "Azure Functions",
+    "Azure IoT Hub",
+    "Azure Monitor",
+    "CI/CD",
+    "Databricks",
+    "GitHub",
+    "Kafka",
+    "Logic Apps",
+    "Power Automate",
+    "Snowflake"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI systems",
+    "Azure Machine Learning",
+    "Copilot Studio",
+    "Microsoft AI Foundry",
+    "PyTorch",
+    "TensorFlow",
+    "Vector databases"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building and deployment of\nagentic AI systems using Microsoft AI Foundry, designing\nagents that autonomously orchestrate workflows, and working\nwith LLM-based platforms. While it includes leadership\nresponsibilities, the core work is directly developing AI\nagents and models (building/optimizing ML models, RAG\nsystems with vector databases), not just supporting\ninfrastructure or data pipelines for other AI teams.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "Microsoft AI Foundry",
+      "Copilot Studio",
+      "Agentic AI systems",
+      "Vector databases"
+    ],
+    "ml": [
+      "Azure Machine Learning",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [
+      "Snowflake",
+      "Kafka"
+    ],
+    "data": [
+      "Databricks"
+    ],
+    "cloud": [
+      "Azure Functions",
+      "Logic Apps",
+      "Power Automate",
+      "Azure IoT Hub"
+    ],
+    "ops": [
+      "Azure Monitor",
+      "Azure DevOps",
+      "GitHub",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "OpenCV"
+    ],
+    "other": [
+      "SAP HANA",
+      "Salesforce",
+      "UiPath",
+      "Power Apps"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,154 @@
+{
+  "job_id": "intl-ai-corpus-0401",
+  "source": "intl-ai-corpus",
+  "source_ref": "7937007",
+  "source_url": "https://builtin.com/job/ai-engineer/7937007",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Metova, Inc.",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "81 Employees",
+  "company_stage": null,
+  "company_focus": "Accounting software for Mexico",
+  "industries": [
+    "Information Technology",
+    "Mobile",
+    "Software"
+  ],
+  "description": "A leading company in Mexico specializing in accounting\nsoftware is looking for a highly skilled AI Engineer to join\nthe team.\n\nREQUIREMENTS:\n\n- 5 years of experience in artificial intelligence projects\n  and 2 years in the implementation of autonomous agents or\n  co-pilots.\n- Fluent technical English.\n- Experience working with business data in domains such as\n  accounting, finance, payroll, billing, or ERP.\n- Experience working with vector stores (Chroma, Weaviate,\n  Pinecone) and RAG architectures.\n\nKNOWLEDGE AND SKILLS:\n\n- Handling frameworks such as LangChain, LlamaIndex, AutoGen,\n  CrewAI, Semantic Kernel, or similar.\n- Practical knowledge of MCP and A2A protocols, use of tools,\n  memory management, and conversation status.\n- Solid command of Python and experience with FastAPI,\n  asyncio, Pydantic, and asynchronous architectures.\n- Knowledge of MLOps: CI/CD, Docker, Kubernetes, agent\n  monitoring, and automated retraining.\n- Practical knowledge of other languages such as Golang, Java,\n  or C# (.NET), especially in building high-performance\n  components (Nice to Have).\n\nRESPONSABILITIES:\n\n- Define, design, and supervise the technical architecture of\n  solutions based on intelligent agents and LLMs,\n  integrating tools such as LangChain, LlamaIndex, AutoGen,\n  CrewAI, or equivalent frameworks.\n- Implement MCP (Model Context Protocol) and A2A (Agent-to-\n  Agent) architectures to enable multi-agent coordination\n  and autonomous flows within business environments.\n- Work with the MLOps team and execution environments that\n  enable continuous agent updating and deployment, including\n  memory management, context, and long-term planning.\n- Collaborate closely with product, UX, data, and backend\n  teams to map business needs to intelligent agent\n  architectures.\n",
+  "skills_required": [
+    "A2A (Agent-to-Agent) protocols",
+    "AutoGen",
+    "CrewAI",
+    "LangChain",
+    "LlamaIndex",
+    "MCP (Model Context Protocol)",
+    "RAG architectures",
+    "Semantic Kernel",
+    "autonomous agents",
+    "co-pilots"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define, design, and supervise the technical architecture of solutions based on intelligent agents and LLMs",
+    "Integrate frameworks such as LangChain, LlamaIndex, AutoGen, CrewAI, or equivalent into agent architectures",
+    "Implement MCP (Model Context Protocol) and A2A (Agent-to-Agent) architectures for multi-agent coordination",
+    "Enable autonomous flows within business environments through agent coordination",
+    "Collaborate with MLOps team on continuous agent updating and deployment",
+    "Manage memory, context, and long-term planning in execution environments",
+    "Work with product, UX, data, and backend teams to map business needs to intelligent agent architectures"
+  ],
+  "use_cases": [
+    "Autonomous agents and co-pilots for business operations",
+    "Multi-agent coordination systems using MCP and A2A protocols",
+    "RAG-based solutions with vector stores for information retrieval",
+    "AI-powered solutions for accounting, finance, payroll, billing, or ERP domains",
+    "Intelligent agent architectures that integrate with existing business systems"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Chroma",
+    "Docker",
+    "FastAPI",
+    "Kubernetes",
+    "Pinecone",
+    "Pydantic",
+    "Weaviate",
+    "agent monitoring",
+    "asynchronous architectures",
+    "asyncio",
+    "automated retraining",
+    "vector stores"
+  ],
+  "frameworks_mentioned": [
+    "A2A (Agent-to-Agent) protocols",
+    "AutoGen",
+    "CrewAI",
+    "LangChain",
+    "LlamaIndex",
+    "MCP (Model Context Protocol)",
+    "RAG architectures",
+    "Semantic Kernel",
+    "autonomous agents",
+    "co-pilots"
+  ],
+  "languages_programming": [
+    ".NET",
+    "C#",
+    "Golang",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building autonomous agents,\nco-pilots, and RAG architectures using LangChain,\nLlamaIndex, AutoGen, and CrewAI. The engineer will implement\nMCP/A2A protocols and work directly with LLMs and\nintelligent agent architectures, which is core AI\ndevelopment rather than support work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "AutoGen",
+      "CrewAI",
+      "Semantic Kernel",
+      "RAG architectures",
+      "MCP (Model Context Protocol)",
+      "A2A (Agent-to-Agent) protocols",
+      "autonomous agents",
+      "co-pilots"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "asyncio",
+      "Pydantic",
+      "asynchronous architectures"
+    ],
+    "databases": [
+      "vector stores",
+      "Chroma",
+      "Weaviate",
+      "Pinecone"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "agent monitoring",
+      "automated retraining"
+    ],
+    "languages": [
+      "Python",
+      "Golang",
+      "Java",
+      "C#",
+      ".NET"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-1564",
+  "source": "intl-ai-corpus",
+  "source_ref": "8522395",
+  "source_url": "https://www.builtinla.com/job/principal-software-engineer-ai-platform/8522395",
+  "title": "Principal Software Engineer, AI Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Saviynt",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-18",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Cloud identity governance and enterprise access management\nplatform",
+  "industries": [],
+  "description": "WHAT YOU WILL BE DOING\n\nLead the design, development, and scalability of core Java-\nbased backend services that power our multi-tenant platform.\n\nArchitect and optimize platform components to support high-\nthroughput, low-latency, and mission-critical workflows.\n\nIntegrate and manage core data systems (e.g., relational\nDBs, Redis, Elasticsearch, LDAP) to ensure performance,\navailability, and fault tolerance.\n\nDrive the modernization of backend services, refactoring\nlegacy Java components and adopting modern patterns (e.g.,\nreactive programming, event-driven architectures).\n\nChampion best practices for Java development, testing,\nobservability, and deployment in a distributed,\nmicroservices-based environment.\n\nCollaborate cross-functionally with teams across DevOps,\nSecurity, SRE, and Application Engineering to build robust\nplatform capabilities.\n\nEvaluate and implement scalable solutions for\nauthentication, authorization, tenant isolation, and\nconfiguration management.\n\nMentor engineers across teams in deep Java design\nprinciples, debugging complex issues, and engineering for\nreliability.\n\nDevelop and maintain platform APIs, service orchestration\nlogic, and critical workflows that support core business\noperations.\n\nIdentify and remediate bottlenecks in Java services, JVM\nperformance, GC tuning, thread management, and memory\nfootprint.\n\nBuild automation and guardrails for developer productivity\nand service reliability (CI/CD pipelines, code linting,\nconfig-as-code, etc.).\n\nPartner with architecture and leadership to drive long-term\ntechnical strategy and platform evolution.\n\nWHAT YOU BRING\n\n10+ years of experience in Software Engineering with a\nstrong focus on Java, Spring Boot, and distributed system\ndesign.\n\nProven track record of building and maintaining scalable\nbackend platforms supporting millions of users or high\nconcurrency.\n\nDeep understanding of the Java ecosystem, JVM internals,\nmemory management, performance tuning, and multithreading.\n\nHands-on experience with data systems such as\nPostgreSQL/MySQL, Redis, Elasticsearch, and LDAP.\n\nExperience designing and supporting multi-tenant\narchitectures, including isolation, resource control, and\nconfig management.\n\nStrong experience in building and managing RESTful APIs,\nmicroservices, and platform-level abstractions.\n\nFamiliarity with infrastructure and deployment environments\nincluding Kubernetes, Docker, and AWS (or other cloud\nproviders).\n\nSolid knowledge of observability tools (e.g., Prometheus,\nGrafana, OpenTelemetry) and log management (e.g., ELK\nstack).\n\nExperience integrating authentication and identity providers\n(LDAP, SSO, OIDC) into Java services.\n\nStrong command of DevOps and automation practices (CI/CD,\nGitOps, IaC tools like Terraform, Helm, or Ansible).\n\nProven leadership in cross-team collaboration, mentoring,\nand influencing architectural direction.\n\nExcellent analytical, problem-solving, and communication\nskills.\n",
+  "skills_required": [
+    "Authentication and authorization",
+    "Distributed systems",
+    "Event-driven architecture",
+    "Multi-tenant architecture",
+    "OIDC",
+    "Reactive programming",
+    "SSO"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead the design, development, and scalability of core Java-based backend services that power the multi-tenant platform",
+    "Architect and optimize platform components to support high-throughput, low-latency, and mission-critical workflows",
+    "Integrate and manage core data systems including relational databases, Redis, Elasticsearch, and LDAP",
+    "Drive the modernization of backend services, refactoring legacy Java components and adopting modern patterns like reactive programming and event-driven architectures",
+    "Build and maintain platform APIs, service orchestration logic, and critical workflows that support core business operations",
+    "Evaluate and implement scalable solutions for authentication, authorization, tenant isolation, and configuration management",
+    "Identify and remediate bottlenecks in Java services including JVM performance, GC tuning, thread management, and memory footprint",
+    "Mentor engineers across teams in deep Java design principles, debugging complex issues, and engineering for reliability"
+  ],
+  "use_cases": [
+    "Multi-tenant platform infrastructure supporting high-concurrency enterprise workloads",
+    "Identity and access management with authentication, authorization, and SSO integration",
+    "High-throughput data processing and management across distributed systems",
+    "Service orchestration and workflow automation for core business operations",
+    "Observability and monitoring platform for distributed microservices environment"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ansible",
+    "CI/CD",
+    "Docker",
+    "ELK stack",
+    "Elasticsearch",
+    "Grafana",
+    "Helm",
+    "JVM performance tuning",
+    "Kubernetes",
+    "LDAP",
+    "Microservices",
+    "MySQL",
+    "OpenTelemetry",
+    "PostgreSQL",
+    "Prometheus",
+    "RESTful APIs",
+    "Redis",
+    "Spring Boot",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Java"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Principal Software Engineer role for an AI\nPlatform focused on building Java-based backend services,\ndistributed systems, and platform infrastructure. The role\ninvolves creating the foundational platform and APIs that\nsupport AI workloads, but does not involve hands-on model\ndevelopment, training, fine-tuning, or deploying AI/ML\nmodels directly.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "Spring Boot",
+      "RESTful APIs",
+      "Microservices"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "Elasticsearch",
+      "LDAP"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Prometheus",
+      "Grafana",
+      "OpenTelemetry",
+      "ELK stack",
+      "CI/CD",
+      "Terraform",
+      "Helm",
+      "Ansible",
+      "JVM performance tuning"
+    ],
+    "languages": [
+      "Java"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems",
+      "Reactive programming",
+      "Event-driven architecture",
+      "Multi-tenant architecture",
+      "Authentication and authorization",
+      "SSO",
+      "OIDC"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

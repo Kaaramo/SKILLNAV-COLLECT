@@ -1,0 +1,91 @@
+{
+  "job_id": "intl-ai-corpus-0559",
+  "source": "intl-ai-corpus",
+  "source_ref": "8247120",
+  "source_url": "https://builtin.com/job/founding-engineer-ai-frontdesk/8247120",
+  "title": "Founding Engineer - AI Frontdesk",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pear VC",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "154 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI-powered SMB customer revenue platform with AI agents for\ncustomer interactions",
+  "industries": [],
+  "description": "The Opportunity\n\nWe're building the AI layer for America's 33M SMBs. Our\ngrowth is explosive. 10x last year, 20% MoM, raised $3M seed\nfrom Pear a few months ago, 300+ businesses using us today\n(1000+ by year-end). We've discovered a completely\noverlooked path to dominate this SMB market while everyone\nelse is fighting over enterprise deals.\n\nOur Vision\n\nWhile conventional wisdom says SMBs are challenging (low\ncontract values, high churn), we've discovered unique growth\nopportunities where others weren't looking. SMBs represent\nhalf of US GDP and need AI solutions as much as enterprises\ndo. We're making that possible.\n\nOur early traction proves the model works - now we need the\nright product leader to help us scale. We started with AI\nreceptionists and quickly expanded into something far more\npowerful. Our platform is the SMB Customer Revenue Engine -\nAI agents handling all conversations, an intelligence layer\nlearning from every interaction, and outbound AI driving\nreal revenue growth. Our vision is bold: to become the SMB\nsuper app—a single, intelligent platform that manages\neverything for SMBs, from customer acquisition to retention.\n\nWhat You’ll Do\n\nYou’ll be our first full-stack founding engineer, with an\noutsized role in how the product evolves. This is not a\ntypical engineering role. You’ll write code, yes—but also:\n\n- Talk to customers\n- Jump on big deals\n- Unblock growth experiments\n- Influence the roadmap directly\n\nYou’ll own features end-to-end, from prototype to scaling in\nprod. You’ll pair closely with the founder (ex-Meta) and PM\n(ex-Microsoft) to shape the company.\n\nIn your first 90 days, you’ll:\n\n- Ship revenue-generating features used by hundreds of SMBs\n- Sit in on sales and support calls, and turn feedback into\n  fast product iterations\n- Work across the stack (we’re on TypeScript, React, FastAPI,\n  Postgres, Twilio, LiveKit)\n- Patch critical AI logic that makes or breaks call quality\n- Build internal tools that unlock GTM speed\n\nIn 6 months, you’ll:\n\n- Own large product surface areas (e.g., lead capture\n  workflows, analytics, integrations)\n- Drive adoption of your features across 1000+ businesses\n- Help land big deals by jumping on customer calls or\n  prototyping something fast\n- Mentor new hires and shape engineering culture\n\nIn 12 months, you’ll:\n\n- Architect key parts of our system\n- Be known by name to our biggest customers\n- Help close seven-figure deals with your product insights\n- Shape hiring, process, and velocity as we scale\n\nWho We Want\n\n- 2–5 years experience in fast-moving product engineering\n  teams\n- Strong full-stack skills with experience shipping in\n  production\n- Obsessive about customer needs—not just abstract “users”\n- Comfortable debugging, writing tests, talking to customers,\n  and jumping on a Zoom demo—all in one day\n- Strong communicator—can pair with PMs, designers, and sales\n- NYC-based or willing to relocate (we work in-person out of a\n  WeWork)\n\nBonus\n\n- Experience with AI, Twilio, or voice/video APIs\n- Built tools for SMBs before (e.g., think Shopify,\n  ServiceTitan, GoHighLevel)\n- Can hold your own in a sales conversation or onboarding call\n\nCompensation\n\n- Competitive salary & benefits\n- Generous equity\n- Unlimited PTO\n- Company-paid lunch/dinner in office\n\nOur Team You’ll join the founder (ex-Meta) and product lead\n(ex-Microsoft) in New York as one of the first on the\nground—with plans to grow this hub to five in NYC in the\nnext quarter. It’s early, high-impact, and you’ll help shape\nthe future of the team.\n\nThe rest of the company—12 people across engineering and\ncustomer success—is remote. Product and growth all run\nthrough NYC.\n\nWe're located in the NYC and backed by leading investors\nlike Pear Ventures, who were also the first checks into\nDoordash and Gusto.\n\nYou’ll join a scrappy, ambitious team where product,\nengineering, and GTM run through the same room. It’s early,\nit’s fast, and it’s yours to shape.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Ship revenue-generating features used by hundreds of SMBs from prototype to production",
+    "Work across the full technology stack including TypeScript, React, FastAPI, Postgres, Twilio, and LiveKit",
+    "Patch and debug critical AI logic that impacts call quality and customer experience",
+    "Build internal tools and systems that accelerate go-to-market speed and operations",
+    "Engage directly with customers through sales calls, support interactions, and product demos",
+    "Own large product surface areas including lead capture workflows, analytics, and integrations",
+    "Architect key system components and shape engineering culture as the team scales"
+  ],
+  "use_cases": [
+    "AI receptionists handling customer conversations for SMBs",
+    "AI agents managing all customer interactions from acquisition to retention",
+    "Intelligence layer learning from every customer interaction to improve outcomes",
+    "Outbound AI driving real revenue growth for small businesses",
+    "Unified SMB platform managing customer operations end-to-end"
+  ],
+  "tools_mentioned": [
+    "FastAPI",
+    "LiveKit",
+    "Postgres",
+    "React",
+    "Twilio"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a full-stack founding engineer role at an AI\ncompany, but the responsibilities focus on building the\napplication infrastructure, internal tools, and customer-\nfacing features rather than working directly on AI models.\nThe AI layer appears to be pre-built or integrated via APIs\n(Twilio, LiveKit), with the engineer's role being to patch\nAI logic and build around it rather than build/train/fine-\ntune models themselves.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "React",
+      "FastAPI",
+      "Twilio",
+      "LiveKit"
+    ],
+    "databases": [
+      "Postgres"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

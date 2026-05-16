@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-2101",
+  "source": "intl-ai-corpus",
+  "source_ref": "8757030",
+  "source_url": "https://builtin.com/job/senior-ai-infrastructure-engineer-europe-based-remote/8757030",
+  "title": "Senior AI Infrastructure Engineer (Europe based - Remote)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "SWORD Health",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-14",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "197 Employees",
+  "company_stage": "Series D or later (raised $500M+)",
+  "company_focus": "AI-powered healthcare platform for pain, women's health,\nmovement, and mental health",
+  "industries": [],
+  "description": "Sword Health is shifting healthcare from human-first to AI-\nfirst through its AI Care platform, making world-class\nhealthcare available anytime, anywhere, while significantly\nreducing costs for payers, self-insured employers, national\nhealth systems, and other healthcare organizations. Sword\nbegan by reinventing pain care with AI at its core, and has\nsince expanded into women’s health, movement health, and\nmore recently mental health. Since 2020, more than 700,000\nmembers across three continents have completed 10 million AI\nsessions, helping Sword's 1,000+ enterprise clients avoid\nover $1 billion in unnecessary healthcare costs. Backed by\n42 clinical studies and over 44 patents, Sword Health has\nraised more than $500 million from leading investors,\nincluding Khosla Ventures, General Catalyst, Transformation\nCapital, and Founders Fund. Learn more at\nwww.swordhealth.com.\n\nAs a Senior AI Infrastructure Engineer at Sword Health, you\nwill own the infrastructure that brings our AI models to\nlife in production. From optimizing LLM inference and\ndeploying real-time voice AI agents to scaling GPU clusters\nthat serve millions of sessions, your work will directly\npower the AI Care platform that is transforming healthcare\nworldwide.\n\nYou will sit at the intersection of ML and infrastructure -\ndesigning systems that power real-time computer vision for\nmovement analysis, serve large language models for\nconversational AI, and enable low-latency voice interactions\nfor AI agents. You'll ensure our models run at the speed and\nscale our members expect. This is not a traditional DevOps\nrole; you'll be deeply embedded in AI-specific challenges\nlike inference optimization, real-time video processing,\nmodel serving at scale, and GPU workload orchestration.\n\nIf you're passionate about pushing the boundaries of AI\ninfrastructure performance and want to do it in a mission-\ndriven environment where your work directly improves\npeople's health outcomes, we'd love to have you on our team.\n\nWhat you'll be doing:\n\nWhat you need to have:\n\nWhat we would love to see:\n\nTo ensure you feel good solving a big Human problem, we\noffer:\n\nSword Health complies with applicable Federal and State\ncivil rights laws and does not discriminate on the basis of\nAge, Ancestry, Color, Citizenship, Gender, Gender\nexpression, Gender identity, Gender information, Marital\nstatus, Medical condition, National origin, Physical or\nmental disability, Pregnancy, Race, Religion, Caste, Sexual\norientation, and Veteran status.\n",
+  "skills_required": [
+    "CUDA",
+    "PyTorch",
+    "Real-time video processing",
+    "Voice AI"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and build infrastructure for deploying and serving AI models in production at scale",
+    "Optimize LLM inference performance for real-time conversational AI applications",
+    "Deploy and scale real-time voice AI agents for healthcare interactions",
+    "Design and manage GPU clusters serving millions of AI sessions",
+    "Build systems for real-time computer vision inference for movement analysis",
+    "Enable low-latency voice interactions and video processing for AI agents",
+    "Implement model serving infrastructure with focus on speed, scale, and reliability"
+  ],
+  "use_cases": [
+    "Real-time computer vision for movement analysis in physical therapy",
+    "Conversational AI for patient interactions and health guidance",
+    "Voice AI agents for healthcare delivery and member engagement",
+    "AI-powered pain care assessment and treatment",
+    "Women's health, movement health, and mental health AI applications"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Docker",
+    "GCP",
+    "GPU orchestration",
+    "Kubernetes",
+    "LLM inference optimization",
+    "Model serving",
+    "TensorRT",
+    "Triton Inference Server",
+    "VLLM"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "PyTorch",
+    "Real-time video processing",
+    "Voice AI"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly working on AI systems - optimizing LLM\ninference, deploying real-time voice AI agents, and serving\nML models in production. While it's infrastructure-focused,\nthe work involves hands-on AI deployment, inference\noptimization, and GPU orchestration which is\nbuilding/deploying AI systems, not just supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Voice AI"
+    ],
+    "ml": [
+      "Real-time video processing",
+      "CUDA",
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "LLM inference optimization",
+      "Model serving",
+      "GPU orchestration",
+      "Docker",
+      "Kubernetes",
+      "TensorRT",
+      "VLLM",
+      "Triton Inference Server"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Computer vision"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

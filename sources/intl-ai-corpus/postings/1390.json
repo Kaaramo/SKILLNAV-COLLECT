@@ -1,0 +1,117 @@
+{
+  "job_id": "intl-ai-corpus-1390",
+  "source": "intl-ai-corpus",
+  "source_ref": "8435198",
+  "source_url": "https://builtin.com/job/software-engineer-ai-reliability/8435198",
+  "title": "Staff + Senior Software Engineer, AI Reliability",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Anthropic",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-07",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "57 Employees",
+  "company_stage": "Public Benefit Corporation",
+  "company_focus": "Build safe, beneficial AI systems like Claude",
+  "industries": [
+    "Artificial Intelligence",
+    "Natural Language Processing",
+    "Generative AI"
+  ],
+  "description": "About Anthropic\n\nAnthropic’s mission is to create reliable, interpretable,\nand steerable AI systems. We want AI to be safe and\nbeneficial for our users and for society as a whole. Our\nteam is a quickly growing group of committed researchers,\nengineers, policy experts, and business leaders working\ntogether to build beneficial AI systems.\n\nAbout the Role\n\nAIRE (AI Reliability Engineering) partners with teams across\nAnthropic to improve reliability across our most critical\nserving paths -- every hop from the SDK through our network,\nAPI layers, serving infrastructure, and accelerators and\nback. We jump into the trenches alongside partner teams to\nmake the systems that deliver Claude more robust and\nresilient, be it during an incident or collaborating on\nprojects.\n\nReliability here is an emergent phenomenon that transcends\nany single team's boundaries, so someone has to zoom out and\nlook at the whole picture. That's us -- and it means few\nteams at Anthropic offer this kind of dynamic, cross-cutting\nexposure to the systems that matter most.\n\nClaude has your back. AIRE has Claude's. Help us keep Claude\nreliable for everyone who depends on it.\n\nResponsibilities:\n\n- Develop appropriate Service Level Objectives for large\n  language model serving systems, balancing availability and\n  latency with development velocity.\n- Design and implement monitoring and observability systems\n  across the token path.\n- Assist in the design and implementation of high-availability\n  serving infrastructure across multiple regions and cloud\n  providers\n- Lead incident response for critical AI services, ensuring\n  rapid recovery, thorough incident reviews, and systematic\n  improvements.\n- Support the reliability of safeguard model serving --\n  critical for both site reliability and Anthropic's safety\n  commitments.\n\nYou may be a good fit if you:\n\n- Have strong distributed systems, infrastructure, or\n  reliability backgrounds -- we're looking for reliability-\n  minded software engineers and SREs.\n- Are curious and brave -- comfortable jumping into unfamiliar\n  systems during an incident and helping drive resolution\n  even when you don't have deep expertise yet.\n- Think holistically about how systems compose and where the\n  seams are.\n- Can build lasting relationships across teams -- our\n  engagement model depends on being welcomed as teammates,\n  not outsiders with opinions.\n- Care about users and feel ownership over outcomes, even for\n  systems you don't own.\n- Have excellent communication and collaboration skills --\n  you'll be partnering across the entire company.\n- Bring diverse experience -- the team's strength comes from\n  people who've built product stacks, scaled databases, run\n  massive distributed systems, and everything in between.\n\nStrong candidates may also:\n\n- Have been an SRE, Production Engineer, or in similar\n  reliability-focused roles on large scale systems\n- Have experience operating large-scale model serving or\n  training infrastructure (>1000 GPUs).\n- Have experience with one or more ML hardware accelerators\n  (GPUs, TPUs, Trainium).\n- Understand ML-specific networking optimizations like RDMA\n  and InfiniBand.\n- Have expertise in AI-specific observability tools and\n  frameworks.\n- Have experience with chaos engineering and systematic\n  resilience testing.\n- Have contributed to open-source infrastructure or ML\n  tooling.\n\nThe annual compensation range for this role is listed below.\n\nFor sales roles, the range provided is the role’s On Target\nEarnings (\"OTE\") range, meaning that the range includes both\nthe sales commissions/sales bonuses target and annual base\nsalary for the role.\n\nAnnual Salary:\n\n$325,000—$485,000 USD\n\nLogistics\n\nEducation requirements: We require at least a Bachelor's\ndegree in a related field or equivalent experience.\nLocation-based hybrid policy: Currently, we expect all staff\nto be in one of our offices at least 25% of the time.\nHowever, some roles may require more time in our offices.\n\nVisa sponsorship: We do sponsor visas! However, we aren't\nable to successfully sponsor visas for every role and every\ncandidate. But if we make you an offer, we will make every\nreasonable effort to get you a visa, and we retain an\nimmigration lawyer to help with this.\n\nWe encourage you to apply even if you do not believe you\nmeet every single qualification. Not all strong candidates\nwill meet every single qualification as listed.  Research\nshows that people who identify as being from\nunderrepresented groups are more prone to experiencing\nimposter syndrome and doubting the strength of their\ncandidacy, so we urge you not to exclude yourself\nprematurely and to submit an application if you're\ninterested in this work. We think AI systems like the ones\nwe're building have enormous social and ethical\nimplications. We think this makes representation even more\nimportant, and we strive to include a range of diverse\nperspectives on our team. Your safety matters to us. To\nprotect yourself from potential scams, remember that\nAnthropic recruiters only contact you from @anthropic.com\nemail addresses. In some cases, we may partner with vetted\nrecruiting agencies who will identify themselves as working\non behalf of Anthropic. Be cautious of emails from other\ndomains. Legitimate Anthropic recruiters will never ask for\nmoney, fees, or banking information before your first day.\nIf you're ever unsure about a communication, don't click any\nlinks—visit anthropic.com/careers directly for confirmed\nposition openings.\n\nHow we're different\n\nWe believe that the highest-impact AI research will be big\nscience. At Anthropic we work as a single cohesive team on\njust a few large-scale research efforts. And we value impact\n— advancing our long-term goals of steerable, trustworthy AI\n— rather than work on smaller and more specific puzzles. We\nview AI research as an empirical science, which has as much\nin common with physics and biology as with traditional\nefforts in computer science. We're an extremely\ncollaborative group, and we host frequent research\ndiscussions to ensure that we are pursuing the highest-\nimpact work at any given time. As such, we greatly value\ncommunication skills.\n\nThe easiest way to understand our research directions is to\nread our recent research. This research continues many of\nthe directions our team worked on prior to Anthropic,\nincluding: GPT-3, Circuit-Based Interpretability, Multimodal\nNeurons, Scaling Laws, AI & Compute, Concrete Problems in AI\nSafety, and Learning from Human Preferences.\n\nCome work with us!\n\nAnthropic is a public benefit corporation headquartered in\nSan Francisco. We offer competitive compensation and\nbenefits, optional equity donation matching, generous\nvacation and parental leave, flexible working hours, and a\nlovely office space in which to collaborate with colleagues.\nGuidance on Candidates' AI Usage: Learn about our policy for\nusing AI in our application process\n",
+  "skills_required": [
+    "ML accelerators"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop appropriate Service Level Objectives for large language model serving systems, balancing availability and latency with development velocity",
+    "Design and implement monitoring and observability systems across the token path",
+    "Assist in the design and implementation of high-availability serving infrastructure across multiple regions and cloud providers",
+    "Lead incident response for critical AI services, ensuring rapid recovery, thorough incident reviews, and systematic improvements",
+    "Support the reliability of safeguard model serving critical for site reliability and safety commitments"
+  ],
+  "use_cases": [
+    "Large-scale language model serving infrastructure",
+    "High-availability AI service delivery across multiple regions and cloud providers",
+    "Safeguard model serving for safety commitments",
+    "Real-time token path monitoring and observability",
+    "Incident management and rapid recovery for critical AI services"
+  ],
+  "tools_mentioned": [
+    "GPUs",
+    "InfiniBand",
+    "RDMA",
+    "SRE",
+    "Service Level Objectives",
+    "TPUs",
+    "Trainium",
+    "chaos engineering",
+    "distributed systems",
+    "high-availability infrastructure",
+    "incident response",
+    "monitoring",
+    "multi-cloud",
+    "observability",
+    "resilience testing"
+  ],
+  "frameworks_mentioned": [
+    "ML accelerators"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an AI Reliability Engineering role focused on\ninfrastructure, observability, and incident response for LLM\nserving systems. The engineer builds monitoring systems,\nensures high availability, and operates serving\ninfrastructure rather than building, training, or fine-\ntuning models themselves. They support the reliability of AI\nsystems without directly working on the AI/ML models or\nagents.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "ML accelerators"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "high-availability infrastructure",
+      "multi-cloud"
+    ],
+    "ops": [
+      "distributed systems",
+      "SRE",
+      "incident response",
+      "monitoring",
+      "observability",
+      "Service Level Objectives",
+      "GPUs",
+      "TPUs",
+      "Trainium",
+      "RDMA",
+      "InfiniBand",
+      "chaos engineering",
+      "resilience testing"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

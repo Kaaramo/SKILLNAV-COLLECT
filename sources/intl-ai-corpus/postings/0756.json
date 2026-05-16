@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0756",
+  "source": "intl-ai-corpus",
+  "source_ref": "6731943",
+  "source_url": "https://builtin.com/job/ai-developer/6731943",
+  "title": "AI Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "CAI (cai.io).",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-17",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,689 Employees",
+  "company_stage": "Private",
+  "company_focus": "Global technology services firm providing IT solutions to\npublic and commercial sectors",
+  "industries": [
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "AI Developer\n\nReq number:\n\nR5818\n\nEmployment type:\n\nFull time\n\nWorksite flexibility:\n\nRemoteWho we are\n\nCAI is a global technology services firm with over 8,500\nassociates worldwide and a yearly revenue of $1 billion+. We\nhave over 40 years of excellence in uniting talent and\ntechnology to power the possible for our clients,\ncolleagues, and communities. As a privately held company, we\nhave the freedom and focus to do what is right—whatever it\ntakes. Our tailor-made solutions create lasting results\nacross the public and commercial sectors, and we are\ntrailblazers in bringing neurodiversity to the enterprise.\n\nJob Summary\n\nWe are looking for a motivated AI Developer with experience\nin .NET core and Angular, ready to take us to the next\nlevel! If you have strong experience with AI, Machine\nLearning, .NET Core, and Azure and are looking for your next\ncareer move, apply now.\n\nJob Description\n\nWe are looking for an AI Developer skilled in tweaking AI\nbrains, integrating various data sources into the knowledge\nbase (including company databases), and building chatbots\nand intelligent agents. The ideal candidate should be\nproficient in fine-tuning models and have experience with\nAzure AI Foundry. This position will be full-time and\nremote.\n\nWhat You'll Do:\n\n- Create an application for stock taking, speech to text with\n  recognition of the IFS products and automatically transfer\n  it into an inventory. This may also be applied in offline\n  functionality\n- Automate the retrieval of invoices with power automate from\n  our invoices mailbox and then process the invoices\n  automatically\n- Optimize the overall OCR process and scanning\n- Possibly apply AI or ML in existing and future applications\n\nWhat You'll Need:\n\nRequired:\n\n- Candidate must have a profound knowledge of how AI & ML\n  works\n- Must have knowledge on the following technologies: Angular\n  14 and up; .NET Core; Azure SQL Database; Microsoft Azure;\n  Azure Logic Apps; Azure Foundry; Azure OpenAI;\n\nPreferred:\n\n- SSRS\n- Progressive Web Application (PWA)\n- Optical Character Recognition (OCR)\n\nPhysical Demands\n\n- Ability to safely and successfully perform the essential job\n  functions\n- Sedentary work that involves sitting or remaining stationary\n  most of the time with occasional need to move around the\n  office to attend meetings, etc.\n- Ability to conduct repetitive tasks on a computer, utilizing\n  a mouse, keyboard, and monitor\n\nReasonable accommodation statement\n\nIf you require a reasonable accommodation in completing this\napplication, interviewing, completing any pre-employment\ntesting, or otherwise participating in the employment\nselection process, please direct your inquiries to\napplication.accommodations@cai.io or (888) 824 – 8111.\n",
+  "skills_required": [
+    "Azure AI Foundry",
+    "Azure OpenAI",
+    "Chatbots",
+    "Fine-tuning models",
+    "Intelligent agents",
+    "Machine Learning",
+    "Optical Character Recognition (OCR)",
+    "SSRS"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Create stock taking application with speech-to-text recognition for IFS products and automatic inventory transfer",
+    "Automate invoice retrieval and processing using Power Automate from email mailbox",
+    "Optimize OCR processes and scanning workflows",
+    "Apply AI or ML capabilities to existing and future applications",
+    "Build chatbots and intelligent agents",
+    "Fine-tune AI models and integrate data sources into knowledge bases"
+  ],
+  "use_cases": [
+    "Speech-to-text inventory management system with product recognition",
+    "Automated invoice processing and retrieval",
+    "OCR optimization for document scanning",
+    "Intelligent chatbots for business applications",
+    "Knowledge base integration from company databases"
+  ],
+  "tools_mentioned": [
+    ".NET Core",
+    "Angular",
+    "Azure Logic Apps",
+    "Azure SQL Database",
+    "Microsoft Azure",
+    "Power Automate",
+    "Progressive Web Application (PWA)"
+  ],
+  "frameworks_mentioned": [
+    "Azure AI Foundry",
+    "Azure OpenAI",
+    "Chatbots",
+    "Fine-tuning models",
+    "Intelligent agents",
+    "Machine Learning",
+    "Optical Character Recognition (OCR)"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building AI systems including\nfine-tuning models, building chatbots and intelligent\nagents, integrating data into knowledge bases, and\nimplementing Azure AI Foundry solutions. The position\nrequires hands-on work deploying and optimizing AI/ML models\nfor production use cases.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Azure OpenAI",
+      "Azure AI Foundry",
+      "Fine-tuning models",
+      "Chatbots",
+      "Intelligent agents"
+    ],
+    "ml": [
+      "Machine Learning",
+      "Optical Character Recognition (OCR)"
+    ],
+    "web": [
+      "Angular",
+      ".NET Core",
+      "Progressive Web Application (PWA)"
+    ],
+    "databases": [
+      "Azure SQL Database"
+    ],
+    "data": [],
+    "cloud": [
+      "Microsoft Azure",
+      "Azure Logic Apps",
+      "Power Automate"
+    ],
+    "ops": [],
+    "languages": [],
+    "domains": [],
+    "other": [
+      "SSRS"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

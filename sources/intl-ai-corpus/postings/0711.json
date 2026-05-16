@@ -1,0 +1,119 @@
+{
+  "job_id": "intl-ai-corpus-0711",
+  "source": "intl-ai-corpus",
+  "source_ref": "8364832",
+  "source_url": "https://builtin.com/job/ai-platform-engineer-applied-ai/8364832",
+  "title": "AI Platform Engineer, Applied AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Circle.so",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "133 Employees",
+  "company_stage": "Series B",
+  "company_focus": "All-in-one platform for online communities",
+  "industries": [
+    "Consumer Web",
+    "Digital Media",
+    "Software"
+  ],
+  "description": "About Us\n\nCircle is building the world’s leading all-in-one platform\nfor online communities. We make it possible for creators,\ncoaches, educators, and businesses to bring together their\naudience with engaging discussions, live streams, events,\nchat, courses, and payments — all in one place, all under\ntheir own brand.\n\nWe’re proud to be a fully remote company of around 200 (and\ngrowing!) team members from 30+ countries around the world.\nWe seek exceptional individuals around the world, set them\nup to do the best work of their lives, and in turn, create a\nmeaningful impact in their own lives. We don't track hours,\nbut we do manage for high expectations very closely. We\ncollaborate across time zones, are highly async, and like to\ndocument a lot.\n\nTwice a year, we bring the whole company together in\nbeautiful places around the world for our company offsites.\nSo far, we’ve hosted offsites in Turkey, Portugal, Mexico,\nThailand, Colombia, Italy, Ireland, and more, with still\nmore to come!\n\nCheck out our Careers page for more about working at Circle.\n\nAbout the role\n\nThe Applied AI team at Circle is at the forefront of\nleveraging AI to drive innovation for our customers through\ntransformative applications of large language models (LLMs).\nWe build AI-powered features for our customers — AI agents,\nAI workflows, and AI copilot. As we scale these features to\nmore customers, we're investing in robust infrastructure for\nmeasuring, diagnosing, and improving AI system speed and\nperformance.\n\nWe're looking for a strong AI Platform Engineer to help\nestablish the foundation for this layer. This is a new focus\narea for us, with this being the first AI platform engineer\nhire at Circle. You’ll have significant ownership in shaping\nhow we approach it. This role focuses on production AI\nsystems — building infrastructure to measure and improve\nthem— rather than ML research or model training. If you're\nexcited about making AI systems work reliably at scale, this\nis for you.\n\nYou'll build evaluation frameworks, observability tooling,\nand diagnostic infrastructure that tells us whether our AI\nsystems are working well and helps identify where and how to\nimprove them. When you find gaps, you'll prototype\nsolutions, validate them with data, and work with the team\nto implement these improvements.\n\nWhat you'll be doing\n\n- Build evaluation infrastructure to measure AI system speed\n  and accuracy — both offline (during development) and\n  online (in production).\n- Create observability tooling and dashboards that surface\n  quality metrics week-over-week.\n- Diagnose quality gaps. When accuracy drops, trace whether\n  it's retrieval, ranking, prompting, or something else\n  causing the issue.\n- Experiment with different models and agent configurations,\n  using data to guide decisions.\n- Prototype and validate improvements to our RAG pipeline —\n  chunking strategies, retrieval methods, re-ranking\n  approaches.\n- Analyze how our customers are using our AI features to help\n  us identify improvements or new areas for development.\n- Work closely with other engineers to give them confidence\n  that their changes improve quality.\n- Help us stay up-to-date with the cutting-edge AI research,\n  techniques, and tools.\n\nWhat you'll need to be successful\n\n- Experience building and evaluating AI systems in production\n  — including RAG pipelines, search / retrieval systems,\n  LLM-powered applications, and both offline and LLM-based\n  evaluation frameworks.\n- Strong proficiency in Python for prototyping and\n  experimentation.\n- Openness to learning Ruby on Rails — our production system\n  is built in Rails, and you'll need to integrate with and\n  instrument the existing codebase.\n- Comfortable building infrastructure and tooling (eval\n  pipelines, dashboards, data processing).\n- Deep understanding of RAG architecture: chunking strategies,\n  embeddings, retrieval, re-ranking, context management.\n- Strong experimentation mindset — you’re comfortable\n  designing and running A/B tests, measuring results, and\n  iterating quickly to discover what works and what doesn’t.\n- Strong data analysis skills — you can interpret results,\n  identify patterns, and communicate findings clearly.\n- A desire to work in an environment which values speed of\n  iteration and individual autonomy, while also embracing\n  personal accountability and the ability to collaborate\n  effectively as part of a dynamic team.\n- Comfortable in a fast-paced environment with a certain level\n  of ambiguity, especially when learning and picking up new\n  technologies when projects require it.\n- Strong alignment with our values, find our values on our\n  career page if you haven’t read up on them yet.\n- You are proficient in English (spoken, written, and reading)\n  at a CEFR Level C2 / ILR Level 5.\n\nBonus Points\n\n- Experience with evaluation frameworks (Braintrust,\n  LangSmith, or similar).\n\n$130,000 - $140,000 USD per year\n\nThe cash compensation range shown is a starting point. In\naddition to equity, benefits and perks, your cash\ncompensation is subject to an annual review and increase on\na once per year basis.\n\nThe fun stuff\n\n- Fully remote: work from anywhere in the world!\n- Autonomy and trust to do your job: we care about outcomes\n  over everything else.\n- Paid time away: all employees are given 35 days of PTO\n  annually. We also offer a paid sabbatical after 5 years.\n- Generous U.S. benchmarked compensation and startup equity no\n  matter where you are in the world.*\n- Awesome medical coverage with 100% coverage for you and your\n  family, or medical reimbursement options where\n  applicable!*\n- Parental leave for parents expanding their family, or just\n  starting one.\n- Home office stipend to help you get up and running.\n- Learning & development stipend to help you level up your\n  professional skills.\n- Annual bonus potential for roles that don't already receive\n  variable income or commission.\n- Company retreats: Twice a year, the Circle team gets\n  together for a fully paid company retreat in incredible\n  places around the world! We’ve had past retreats in\n  Colombia, Portugal, and Mexico, with more planned on the\n  horizon.\n- Check out our Careers page for more.\n\n*Your role, location and unique circumstance may affect\nthis.\n\nDiversity, Equity & Inclusion\n\nAs a fully-remote international company, diversity is baked\ninto our DNA. Here’s how our CEO, Sid Yadav, frames our\nhiring mission: “let’s find talent in underserved and under-\nrepresented corners of the world, set them up to do the best\nwork of their lives, and in turn, change their life.” To\nachieve this hiring mission, we offer competitive U.S.\nbenchmarked compensation no matter where someone’s located\nin the world, and we proactively seek candidates who expand\nrepresentation of backgrounds, cultures and lived\nexperiences in our teams.\n\nEqual Employment Opportunity\n\nCircle is an equal opportunity employer and as such, we do\nnot discriminate on the basis of race, color, religion, sex,\nsexual orientation, gender identity, national origin, age,\ndisability, or any other characteristic protected by\napplicable laws. If you require any accommodations during\nthe recruitment process, please let us know and we will work\nwith you to meet your needs.\n\nHow We Use Candidate Data\n\nAt Circle, we are committed to protecting your personal\ninformation. As a job applicant, the personal data you\nprovide to us is collected and processed in accordance with\nthe General Data Protection Regulation (GDPR) in the EU and\nthe California Consumer Privacy Act (CCPA). This notice\noutlines the types of personal information we collect, the\npurpose for collecting it, and your rights.\n\nInformation We Collect: We collect the following categories\nof personal information from job applicants:\n\n- Contact information (such as name, email address, phone\n  number)\n- Employment history and qualifications\n- Education history\n- References and any other information you choose to share\n  with us during the application process\n\nPurpose of Collection: We collect this information for the\nfollowing purposes:\n\n- To assess your qualifications and suitability for the\n  position\n- To communicate with you during the recruitment process\n- To comply with legal and regulatory obligations\n\nYour Rights Under GDPR and CCPA: You have the following\nrights regarding your personal information:\n\n- The right to request access to the personal information we\n  hold about you.\n- The right to request the deletion of your personal\n  information, subject to certain legal exceptions.\n- The right to opt out of the sale of your personal\n  information (Note: We do not sell personal information).\n\nFor more information about how we handle your personal data\nor to exercise your rights, please refer to our full Privacy\nPolicy.\n\nBy submitting your application, you acknowledge that you\nhave read and understood this privacy notice.\n",
+  "skills_required": [
+    "AI agents",
+    "AI workflows",
+    "LLMs",
+    "RAG",
+    "embeddings",
+    "re-ranking"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build evaluation infrastructure to measure AI system speed and accuracy in both offline and production environments",
+    "Create observability tooling and dashboards that surface quality metrics week-over-week",
+    "Diagnose quality gaps by tracing issues to retrieval, ranking, prompting, or other root causes",
+    "Experiment with different models and agent configurations using data-driven decisions",
+    "Prototype and validate improvements to RAG pipeline including chunking strategies, retrieval methods, and re-ranking approaches",
+    "Analyze customer usage patterns of AI features to identify improvements and new development opportunities",
+    "Collaborate with other engineers to validate that changes improve system quality",
+    "Stay current with cutting-edge AI research, techniques, and tools"
+  ],
+  "use_cases": [
+    "AI-powered agents for community engagement and automation",
+    "AI workflows that streamline community management tasks",
+    "AI copilot features that assist users within the community platform",
+    "RAG-based systems for retrieving relevant community content and discussions",
+    "Real-time AI features integrated into live streams, chat, and course functionality"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "data analysis",
+    "evaluation frameworks",
+    "observability"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "AI workflows",
+    "LLMs",
+    "RAG",
+    "embeddings",
+    "re-ranking"
+  ],
+  "languages_programming": [
+    "Python",
+    "Ruby on Rails"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role focuses on building infrastructure for evaluating,\nmeasuring, and improving AI systems - specifically\nevaluation frameworks, observability tooling, and diagnostic\ninfrastructure. The job description explicitly states this\nis not about ML research or model training, but rather\nbuilding the platform layer that enables others to work with\nAI effectively.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLMs",
+      "AI agents",
+      "AI workflows"
+    ],
+    "ml": [
+      "embeddings",
+      "re-ranking"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "A/B testing",
+      "data analysis"
+    ],
+    "cloud": [],
+    "ops": [
+      "evaluation frameworks",
+      "observability"
+    ],
+    "languages": [
+      "Python",
+      "Ruby on Rails"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

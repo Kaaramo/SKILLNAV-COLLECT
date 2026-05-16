@@ -1,0 +1,119 @@
+{
+  "job_id": "intl-ai-corpus-0013",
+  "source": "intl-ai-corpus",
+  "source_ref": "3756970",
+  "source_url": "https://builtin.com/job/sr-ai-systems-engineer/3756970",
+  "title": "Sr. AI Systems Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AiFi Inc.",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "130 Employees",
+  "company_stage": null,
+  "company_focus": "Autonomous retail with computer vision scene understanding",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Internet of Things",
+    "Machine Learning"
+  ],
+  "description": "In this role, you’ll lead the Scene Understanding Team’s\ncomputer vision research and development. This entails\neverything from designing systems capable of calibrating\nhundreds of cameras to implementing state-of-the-art 3D\nreconstruction methods and semantic segmentation.\n\nResponsibilities\n\n- Lead the development of scene understanding systems\n  responsible for calibrating spaces that contain hundreds\n  of cameras.\n- Translate state-of-the-art research into scalable,\n  maintainable engineering systems.\n- Manage ‘scene calibration’ technologies within the Scene\n  Understanding Team by facilitating backlog refinements,\n  communicating with stakeholders,,and collaborating on\n  roadmaps with product managers.\n- Work closely with other technology departments to deploy,\n  monitor, and support Scene Understanding Services in\n  hundreds of stores.\n- Promote and enforce best practices in software development\n  and project management.\n- Mentor engineers and contribute to creating a collaborative\n  remote team environment.\n- Stay current with emerging AI trends and technologies to\n  assess their potential applications in current and future\n  projects.\n\nRequired Qualifications\n\n- Bachelor's or master's degree in computer science or a\n  related field\n- 6+ years of experience as a Software Engineer\n- Extensive experience in Python\n- Proven experience working with RESTful APIs and OpenAPI,\n  gRPC, and Protobuf, with knowledge of their design best\n  practices and common libraries\n- Proven experience interfacing with AI projects, with a focus\n  on computer vision and geometry\n- Proven experience in production.\n- Excellent leadership, communication, and management skills\n\nAdditional Qualifications (desired)\n\n- Experience with asynchronous processes and event-driven\n  architectures\n- Experience with containerized applications, Kubernetes and\n  Docker\n- Experience with Azure\n- Experience with multi-view stereo technologies (turning\n  images into 3D), such as Colmap\n- Experience with SLAM or Structure from Motion\n- Experience in a fast-paced, product-driven startup\n  environment\n- Experience with Golang\n- Experience in the autonomous retail industry or a similar\n  domain\n- Experience in MLOps, DevOps, and build/release/deployment\n  automation.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead development of scene understanding systems for calibrating hundreds of cameras in retail spaces",
+    "Translate state-of-the-art computer vision research into scalable, maintainable engineering systems",
+    "Manage scene calibration technologies and collaborate with product managers on roadmaps",
+    "Deploy, monitor, and support Scene Understanding Services across hundreds of stores",
+    "Enforce best practices in software development and project management",
+    "Mentor engineers and build collaborative remote team environment",
+    "Evaluate emerging AI trends and technologies for potential applications in current and future projects"
+  ],
+  "use_cases": [
+    "Camera calibration for retail spaces with hundreds of cameras",
+    "3D reconstruction from multi-view camera images",
+    "Semantic segmentation for scene understanding in autonomous retail",
+    "Structure from Motion and SLAM for spatial mapping",
+    "Scene understanding services deployed across hundreds of retail stores"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "CI/CD",
+    "DevOps",
+    "Docker",
+    "Kubernetes",
+    "MLOps",
+    "OpenAPI",
+    "Protobuf",
+    "RESTful APIs",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Golang",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role focused on computer vision research\nand development. The engineer will directly implement state-\nof-the-art 3D reconstruction, semantic segmentation, multi-\nview stereo, and SLAM systems - core computer vision AI\ntechnologies.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "RESTful APIs",
+      "OpenAPI",
+      "gRPC",
+      "Protobuf"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "MLOps",
+      "DevOps",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "Golang"
+    ],
+    "domains": [
+      "computer vision",
+      "multi-view stereo",
+      "Colmap",
+      "SLAM",
+      "Structure from Motion",
+      "3D reconstruction",
+      "semantic segmentation"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:36+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

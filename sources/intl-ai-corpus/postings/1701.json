@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-1701",
+  "source": "intl-ai-corpus",
+  "source_ref": "8582194",
+  "source_url": "https://builtin.com/job/ai-ml-engineer/8582194",
+  "title": "AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "OneMagnify",
+  "company_type": "entité morale privée",
+  "location": "Chennai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "610 Employees",
+  "company_stage": "unknown",
+  "company_focus": "Marketing technology and business intelligence solutions",
+  "industries": [
+    "Information Technology",
+    "Marketing Tech",
+    "Analytics"
+  ],
+  "description": "We are seeking a highly skilled Machine Learning Engineer\nwith 4+ years of experience to bridge the gap between\nGenerative AI and actionable business intelligence. You will\nbe responsible for optimizing Large Language Model (LLM)\nperformance and building sophisticated clustering models to\ndrive customer and product segmentation.\n\nKey Responsibilities:\n\n- LLM Optimization: Maximize the accuracy and minimize the\n  latency of LLM-powered applications.\n- Performance Evaluation: Implement robust LLM evaluation\n  frameworks to ensure high-quality outputs.\n- Advanced Analytics: Segment customers and products into\n  meaningful clusters by incorporating complex business\n  logic into ML models.\n- Data Orchestration: Build and maintain efficient data\n  pipelines using SQL and Python DAGs.\n\nTechnical Requirements:\n\nMandatory Skills:\n\n- LLM: Proven experience in LLM Evaluation; familiarity with\n  LLM APIs is a strong plus.\n- Machine Learning: Expertise in Clustering techniques.\n- Data Processing: Strong proficiency in SQL and developing\n  Python-based DAGs (e.g., Airflow).\n\nPreferred (Bonus) Skills:\n\n- Advanced LLM: Experience in self-hosting and fine-tuning\n  LLMs.\n- Extended ML: Proficiency in Time Series Forecasting,\n  Dimension Reduction, and Market Basket Analysis.\n- Big Data Tools: Hands-on experience with Spark and Alteryx.\n",
+  "skills_required": [
+    "Clustering",
+    "Dimension Reduction",
+    "Fine-tuning LLMs",
+    "LLM APIs",
+    "LLM Evaluation",
+    "LLM Optimization",
+    "Market Basket Analysis",
+    "Self-hosting LLMs",
+    "Time Series Forecasting"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Optimize LLM performance by maximizing accuracy and minimizing latency in LLM-powered applications",
+    "Implement robust LLM evaluation frameworks to ensure high-quality model outputs",
+    "Build sophisticated clustering models for customer and product segmentation incorporating complex business logic",
+    "Design, build and maintain efficient data pipelines using SQL and Python DAGs",
+    "Self-host and fine-tune LLMs as needed for specific use cases",
+    "Apply advanced ML techniques including time series forecasting and dimension reduction"
+  ],
+  "use_cases": [
+    "Customer segmentation and clustering",
+    "Product segmentation and categorization",
+    "LLM-powered business intelligence applications",
+    "Market basket analysis",
+    "Time series forecasting for business analytics"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "Alteryx",
+    "Python DAGs",
+    "Spark"
+  ],
+  "frameworks_mentioned": [
+    "Clustering",
+    "Dimension Reduction",
+    "Fine-tuning LLMs",
+    "LLM APIs",
+    "LLM Evaluation",
+    "LLM Optimization",
+    "Market Basket Analysis",
+    "Self-hosting LLMs",
+    "Time Series Forecasting"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work with LLMs including\noptimization, evaluation frameworks, and fine-tuning. The\nposition directly builds and optimizes AI systems (LLM-\npowered applications) and implements ML models, not just\nsupporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM Optimization",
+      "LLM Evaluation",
+      "LLM APIs",
+      "Fine-tuning LLMs",
+      "Self-hosting LLMs"
+    ],
+    "ml": [
+      "Clustering",
+      "Time Series Forecasting",
+      "Dimension Reduction",
+      "Market Basket Analysis"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Airflow",
+      "Python DAGs",
+      "Spark",
+      "Alteryx"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

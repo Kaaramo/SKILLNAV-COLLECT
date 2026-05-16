@@ -1,0 +1,104 @@
+{
+  "job_id": "intl-ai-corpus-1996",
+  "source": "intl-ai-corpus",
+  "source_ref": "8689407",
+  "source_url": "https://builtin.com/job/zoom-ai-devops-engineer/8689407",
+  "title": "Zoom AI DevOps Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Zoom",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-09",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "11,053 Employees",
+  "company_stage": "Public",
+  "company_focus": "Video conferencing and collaboration platform with AI-\npowered features",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "What you can expect\n\nAs a Zoom AI DevOps Engineer, you will design and manage AWS\ninfrastructure supporting AI services. Using Terraform,\nyou’ll implement Infrastructure as Code and streamline\nautomation. Your work includes monitoring systems, managing\non-call rotations, and ensuring high reliability. You’ll\ncollaborate with cross-functional teams to boost performance\nand guide engineers on automation best practices. Please\nnote this role includes on-call responsibilities and\noccasional weekend deployments as needed.\n\nAbout the Team\n\nThe team drives automation, CI/CD, observability, and cloud-\nnative operations to power Zoom’s AI services. We handle\nservice deployment and operations across multi-cloud and on-\npremises environments. You’ll work in a fast-paced,\ncollaborative setting with Developers, Infrastructure\nEngineers, and Product teams to build and maintain\nresilient, high-performing systems.\n\nWhat we’re looking for\n\n- Have 5+ years of work experience as a Cloud or DevOps\n  engineer\n- Have 5+ hands-on experience working on Production service\n  deployments using Kubernetes\n- Have experience with AWS services and Kubernetes-based\n  production deployments. Proficiency in Infrastructure as\n  Code (Terraform) and configuration management tools\n  (Ansible).\n- Demonstrate experience in Kubernetes, Docker workload\n  deployment, and monitoring for it for large-scale\n  distributed systems deployed on prod\n- Show high proficiency in programming/scripting languages\n  like Python, Bash, or Go\n\nWays of Working Our structured hybrid approach is centered\naround our offices and remote work environments. The work\nstyle of each role, Hybrid, Remote, or In-Person is\nindicated in the job description/posting.\n\nBenefits As part of our award-winning workplace culture and\ncommitment to delivering happiness, our benefits program\noffers a variety of perks, benefits, and options to help\nemployees maintain their physical, mental, emotional, and\nfinancial health; support work-life balance; and contribute\nto their community in meaningful ways. Click Learn for more\ninformation.\n\nAbout Us Zoomies help people stay connected so they can get\nmore done together. We set out to build the best\ncollaboration platform for the enterprise, and today help\npeople communicate better with products like Zoom Contact\nCenter, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and\nZoom Webinars. We’re problem-solvers, working at a fast pace\nto design solutions with our customers and users in mind.\nFind room to grow with opportunities to stretch your skills\nand advance your career in a collaborative, growth-focused\nenvironment.\n\nOur Commitment\n\nAt Zoom, we believe great work happens when people feel\nsupported and empowered. We’re committed to fair hiring\npractices that ensure every candidate is evaluated based on\nskills, experience, and potential. If you require an\naccommodation during the hiring process, let us know—we’re\nhere to support you at every step.\n\nIf you need assistance navigating the interview process due\nto a medical disability, please submit an Accommodations\nRequest Form and someone from our team will reach out soon.\nThis form is solely for applicants who require an\naccommodation due to a qualifying medical disability. Non-\naccommodation-related requests, such as application follow-\nups or technical issues, will not be addressed.\n\n#LI-Remote\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and manage AWS infrastructure supporting AI services",
+    "Implement Infrastructure as Code using Terraform and streamline automation",
+    "Monitor systems and manage on-call rotations to ensure high reliability",
+    "Collaborate with cross-functional teams to boost performance",
+    "Guide engineers on automation best practices",
+    "Handle service deployment and operations across multi-cloud and on-premises environments",
+    "Build and maintain resilient, high-performing systems with Developers and Product teams"
+  ],
+  "use_cases": [
+    "Infrastructure automation for AI services",
+    "Cloud-native operations and observability",
+    "CI/CD pipeline management",
+    "Multi-cloud and on-premises service deployment",
+    "High-reliability system operations"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ansible",
+    "CI/CD",
+    "Docker",
+    "Infrastructure as Code",
+    "Kubernetes",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Bash",
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a DevOps/Infrastructure role that supports AI\nservices but does not involve building, training, fine-\ntuning, or deploying AI models directly. The role focuses on\nmanaging AWS infrastructure, Kubernetes deployments, CI/CD\npipelines, and observability systems that enable Zoom's AI\nservices to run, which is enabling work for others who work\non AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "Ansible",
+      "CI/CD",
+      "Infrastructure as Code"
+    ],
+    "languages": [
+      "Python",
+      "Bash",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

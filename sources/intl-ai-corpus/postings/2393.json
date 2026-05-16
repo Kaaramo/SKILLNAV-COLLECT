@@ -1,0 +1,138 @@
+{
+  "job_id": "intl-ai-corpus-2393",
+  "source": "intl-ai-corpus",
+  "source_ref": "8870525",
+  "source_url": "https://builtin.com/job/ai-research-engineer-dl-drl-driven-hft/8870525",
+  "title": "AI Research Engineer - DL/DRL Driven HFT",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "DeepFin Research",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "Deep learning and reinforcement learning powered high-\nfrequency trading firm",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Machine Learning",
+    "Financial Services"
+  ],
+  "description": "DeepFin is a systematic proprietary trading firm combining\ndeep learning, traditional quantitative research methods,\nand cutting-edge trading technology, to trade global\nmarkets. Founded by engineers and researchers, we build and\ndeploy advanced trading systems that operate across global\nmarkets.\n\nOur team is lean, highly technical, and impact-driven -\nevery hire plays a direct role in shaping the firm’s\ntechnology, strategy, and performance. We value curiosity,\nprecision, and collaboration, and we’re building an\nenvironment where exceptional people can do their best work\nat the intersection of AI and financial markets.\n\n\n\nAbout DeepFin Research\n\nDeepFin Research is a proprietary high-frequency trading\n(HFT) firm powered by cutting-edge Deep Learning (DL) and\nDeep Reinforcement Learning (DRL). We do not rely on\ntraditional quant strategies; instead, we build autonomous,\nself-learning trading agents that operate at the microsecond\nlevel. You will be joining an elite team of Kaggle\nGrandmasters and former senior researchers from DeepMind and\nNvidia to build innovative AI strategies in quantitative\nfinance.\n\nThe Role\n\nWe are looking for an exceptional AI Research Engineer to\nbridge the gap between groundbreaking AI research and ultra-\nlow latency production systems. In this role, you will be\nthe architectural backbone of our research team. You will\nown the end-to-end RL stack, scaling cutting-edge deep\nreinforcement learning models across multi-GPU clusters and\noptimizing them down to the bare metal using CUDA.\n\nKey Responsibilities\n\n- End-to-End RL Infrastructure: Architect, build, and maintain\n  our proprietary end-to-end DRL training and inference\n  pipelines.\n- Distributed Training: Design and scale multi-GPU and multi-\n  node training systems for massive parameter models,\n  ensuring maximum throughput and minimal bottlenecks.\n- Hardware-Level Optimization: Write, profile, and optimize\n  custom CUDA kernels to accelerate both the training of\n  complex neural networks and the ultra-low latency\n  inference engine used in live trading.\n- Research Collaboration: Work side-by-side with our senior\n  researchers (ex-DeepMind, ex-Nvidia) and Kaggle\n  Grandmasters to translate mathematical formulations and\n  algorithmic prototypes into highly efficient, production-\n  ready code.\n- Environment & Simulation: Optimize our custom market-\n  simulation environments, ensuring massive parallelization\n  for RL agent rollouts and experience replay.\n\nRequirements\n\n- Educational Background: MS or Ph.D. in Computer Science,\n  Artificial Intelligence, Machine Learning, Computer\n  Engineering, or a highly related field.\n- Deep Learning & RL Expertise: Deep understanding of modern\n  DL and DRL algorithms (PPO, SAC, DQN, Transformer\n  architectures) and frameworks (PyTorch, JAX).\n- High-Performance Computing: Proven track record with\n  distributed training paradigms (DDP, FSDP, Megatron, Ray)\n  and multi-GPU orchestration.\n- Systems Programming: Exceptional skills in C++ and Python.\n- CUDA Mastery: Hands-on experience writing custom CUDA\n  kernels and profiling GPU performance (Nsight Systems,\n  Nsight Compute).\n\nIf you’re passionate about applying advanced technology to\nreal-world markets and want to work alongside a focused,\nhigh-performing team, we’d love to hear from you. DeepFin\noffers a collaborative, research-driven environment where\nideas move quickly from concept to execution and where every\ncontribution has visible impact.\n\nJoin us in building the next generation of deep-learning-\ndriven trading systems - shaping the future of finance\nthrough innovation, rigour, and technology.\n",
+  "skills_required": [
+    "CUDA",
+    "DDP",
+    "DQN",
+    "Deep Reinforcement Learning",
+    "Distributed Training",
+    "FSDP",
+    "GPU Optimization",
+    "JAX",
+    "Megatron",
+    "PPO",
+    "PyTorch",
+    "SAC",
+    "Transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect, build, and maintain proprietary end-to-end deep reinforcement learning training and inference pipelines",
+    "Design and scale multi-GPU and multi-node distributed training systems for massive parameter models with maximum throughput",
+    "Write, profile, and optimize custom CUDA kernels for accelerating neural network training and ultra-low latency inference in live trading",
+    "Collaborate with senior researchers to translate mathematical formulations and prototypes into production-ready code",
+    "Optimize custom market-simulation environments for massive parallelization of RL agent rollouts and experience replay"
+  ],
+  "use_cases": [
+    "High-frequency trading with autonomous self-learning agents operating at microsecond latency",
+    "Deep reinforcement learning for quantitative finance and market prediction",
+    "Real-time trading decision systems using neural network inference",
+    "Market simulation and backtesting environments for RL training"
+  ],
+  "tools_mentioned": [
+    "Nsight Compute",
+    "Nsight Systems",
+    "Ray"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "DDP",
+    "DQN",
+    "Deep Reinforcement Learning",
+    "Distributed Training",
+    "FSDP",
+    "GPU Optimization",
+    "JAX",
+    "Megatron",
+    "PPO",
+    "PyTorch",
+    "SAC",
+    "Transformers"
+  ],
+  "languages_programming": [
+    "C++",
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role is focused on deep learning and deep reinforcement\nlearning systems for trading, requiring expertise in\nPyTorch, JAX, CUDA, and distributed training. While these\nare ML techniques, they're not LLM/GenAI-specific - this is\ntraditional DL/DRL work building autonomous trading agents.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "JAX",
+      "PPO",
+      "SAC",
+      "DQN",
+      "Transformers",
+      "CUDA",
+      "DDP",
+      "FSDP",
+      "Megatron",
+      "Deep Reinforcement Learning",
+      "Distributed Training",
+      "GPU Optimization"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Ray"
+    ],
+    "cloud": [],
+    "ops": [
+      "Nsight Systems",
+      "Nsight Compute"
+    ],
+    "languages": [
+      "C++",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

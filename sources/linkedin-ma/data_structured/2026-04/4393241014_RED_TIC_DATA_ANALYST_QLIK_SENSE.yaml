@@ -1,0 +1,34 @@
+company:
+  name: RED TIC
+  stage: null
+  focus: null
+position:
+  title: DATA ANALYST – QLIK SENSE
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - etl
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - java
+    domains: []
+    other:
+    - consulting
+    - qlik
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4393241014'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

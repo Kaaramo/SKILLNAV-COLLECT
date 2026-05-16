@@ -1,0 +1,113 @@
+{
+  "job_id": "intl-ai-corpus-1934",
+  "source": "intl-ai-corpus",
+  "source_ref": "8646190",
+  "source_url": "https://builtin.com/job/digital-forensics-analyst/8646190",
+  "title": "Machine Learning/ Artificial Intelligence Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cognyte",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-04",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,600 Employees",
+  "company_stage": null,
+  "company_focus": "Investigative analytics software solutions for crime\nprevention and security",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Security",
+    "Software",
+    "Analytics",
+    "Big Data Analytics"
+  ],
+  "description": "Today’s world is crime-riddled. Criminals are everywhere,\ninvisible, virtual and sophisticated. Traditional ways to\nprevent and investigate crime and terror are no longer\nenough…\n\nTechnology is changing incredibly fast. The criminals know\nit, and they are taking advantage. We know it too.\n\nFor nearly 30 years, the incredible minds at Cognyte around\nthe world have worked closely together and put their\nexpertise to work, to keep up with constantly evolving\ntechnological and criminal trends, and help make the world a\nsafer place with leading investigative analytics software\nsolutions.\n\nWe are defined by our dedication to doing good and this\ntranslates to business success, meaningful work friendships,\na can-do attitude, and deep curiosity.\n\nAs a Cognyter you will:\n\n- We’re looking for an analyst to examine encrypted raw\n  network data, extract TLS and IP-level metadata, and\n  identify patterns or trends within complex data streams.\n- You’ll build analysis pipelines and ensure the accuracy of\n  detection methods using well-defined evaluation metrics.\n- Candidates must demonstrate strong knowledge of network\n  protocols, hands-on experience with packet capture\n  analysis, and solid data analysis or machine learning\n  skills.\n- You will gain crypto domain expertise and be responsible for\n  developing a Blockchain analytics product.\n\nFor that mission you’ll need:\n\n- ﻿Bachelor’s degree – Computer Science / Information\n  technology\n- Having 2+ experience into Machine Learning/ Artificial\n  Intelligence Engineer\n- Nice to have prior experience in network traffic forensics\n  or application traffic analysis,\n- Deep understanding of network protocols (Ethernet, IP, TCP,\n  UDP, DNS, etc.), would be plus\n- Familiarity with TLS internals\n- Nice to have working with network traffic data to extract\n  meaningful characteristics or patterns from packet streams\n- Knowlege Wireshark/tshark, Network Sniffers and protocol\n  dissectors\n- Experience with Python or any other language for scripting\n  and automation would be plus\n- Research-level machine learning expertise\n- Fluent English\n- Attention to detail and a high standard of data handling\n- Highly committed and responsible, independent and able to\n  take initiative\n- Flexible and easy to adapt working on multiple technical\n  contexts\n- Able to work in a dynamic environment\n\nNice to have:\n\n- AI models knowledge\n- Experience creating labeled datasets and synthetic capture\n  generation\n- Experience with NoSQL databases (e.g., MongoDB)\n- Experience with CI/CD solutions (e.g., Jenkins, TeamCity,\n  Gitlab CI)\n- Experience with Linux and Windows operating systems\n- Understanding the SDLC – software Dev. lifecycle -> being\n  part from designing to execution -> writing tests,\n  executing, open bugs.\n- Previous experience in a SCRUM team\n",
+  "skills_required": [
+    "Machine Learning",
+    "Network Sniffers",
+    "SCRUM",
+    "Wireshark/tshark"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Examine encrypted raw network data and extract TLS and IP-level metadata",
+    "Identify patterns or trends within complex data streams",
+    "Build analysis pipelines for network traffic analysis",
+    "Ensure accuracy of detection methods using well-defined evaluation metrics",
+    "Develop a Blockchain analytics product and gain crypto domain expertise",
+    "Work with packet capture analysis and network forensics"
+  ],
+  "use_cases": [
+    "Network traffic forensics and analysis for security investigations",
+    "Encrypted traffic classification and pattern detection",
+    "Blockchain analytics for investigative purposes",
+    "Automated detection of malicious network activity",
+    "Crime prevention and investigation through data analytics"
+  ],
+  "tools_mentioned": [
+    "CI/CD (Jenkins, TeamCity, GitLab CI)",
+    "Linux",
+    "MongoDB",
+    "SQL",
+    "Windows"
+  ],
+  "frameworks_mentioned": [
+    "Machine Learning"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on applying machine learning to network\ntraffic analysis, specifically for extracting patterns from\nencrypted data, TLS/IP metadata, and building detection\nmethods. While it mentions AI models and blockchain\nanalytics, the core work involves traditional ML techniques\nfor pattern recognition in network data rather than building\nLLMs or GenAI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "Machine Learning"
+    ],
+    "web": [],
+    "databases": [
+      "MongoDB",
+      "SQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD (Jenkins, TeamCity, GitLab CI)",
+      "Linux",
+      "Windows"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Network protocols (Ethernet, IP, TCP, UDP, DNS)",
+      "TLS internals"
+    ],
+    "other": [
+      "Wireshark/tshark",
+      "Network Sniffers",
+      "SCRUM"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

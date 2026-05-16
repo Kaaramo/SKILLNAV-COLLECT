@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-0110",
+  "source": "intl-ai-corpus",
+  "source_ref": "7082017",
+  "source_url": "https://builtin.com/job/software-engineer-ai-product/7082017",
+  "title": "Software engineer, AI product",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Watershed",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "200 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Enterprise sustainability and ESG data platform",
+  "industries": [
+    "Enterprise Web",
+    "Greentech",
+    "Software"
+  ],
+  "description": "About Watershed\n\nWatershed is the enterprise sustainability platform.\nCompanies like Airbnb, Carlyle Group, FedEx, Visa, and Dr.\nMartens use Watershed to manage climate and ESG data,\nproduce audit-ready metrics for voluntary and regulatory\nreporting including CSRD, and drive real decarbonization. We\nare looking for team members who love product-building, want\nto work hard at a mission-oriented startup, and will\ncollaborate with us in shaping the culture of a growing\nteam.\n\nWe have offices in San Francisco, New York, London, Paris,\nBerlin, Sydney, Mexico City, and remote team members across\nthe US and Europe. We hope that you'll be interested in\njoining us!\n\nThe role\n\nWe're looking for a software engineer specialising in AI to\njoin our sustainability AI reporting team. You will be a\ntechnical leader in helping us build a world class AI tool\nfor companies to manage and report on their progress in\nsustainability. You'll leverage LLMs, embeddings, and other\nAI technologies to deliver features to our customers, and\nhelp lay the technical foundations for AI at Watershed.\n\nWe are looking for this hire to be based in our HQ in London\n4 days per week.\n\nIn this role you will:\n\n- Prototype, develop and iterate on a new product area for\n  Watershed, giving our customers powerful AI tools for\n  information extraction and report generation\n- Productionize and launch core technologies to power AI\n  features on top of a wealth of operational sustainability\n  data\n- Collaborate with product and other AI engineering teams to\n  set product and technical strategy\n- Keep up with developments and state-of-the-art in AI to\n  determine what is relevant to Watershed\n- Write performant, well-crafted, tested, and maintainable\n  code across our technical stack\n\nYou might be a good fit if you have:\n\n- Experience building products using LLMs, embeddings and\n  other ML technologies\n- Full lifecycle experience of building, deploying and\n  monitoring products that leverage LLMs, embeddings or\n  other ML technologies\n- Experience leading cross functional teams in an innovative\n  fast moving environment\n- A strong foundational understanding of machine learning\n  models and practice, including model evaluation and\n  performance\n- Strong full-stack development skills\n\n\n\n\n\nMust be willing to work from an office 4 days per week\n(except for remote roles)\n\nWatershed has hub offices in San Francisco, New York,\nLondon, and Mexico City and satellite offices in Sydney,\nParis, and Berlin. Where we have offices, employees are\nexpected to be in office for 4 days per week. Certain jobs\nare open to being remote and will be specifically noted on\nthe jobs page and in the job description if so.\n\nWhat’s the interview process like?\n\nIt starts the same for every candidate: getting to know the\nteam members through 1 to 2 conversations about Watershed,\nyour experience, and your interests. Next steps can vary by\nrole, but usual next steps are a skill or experience\ninterview (e.g. a coding interview for an engineer, a\nportfolio review for a designer, deeper experience call for\nother roles) which leads to a virtual or in person interview\npanel. We prioritize transparency and lack of surprise\nthroughout the process.\n\nWhat if I need accommodations for my interview?\n\nAt Watershed, we are dedicated to ensuring an inclusive\nrecruitment process. We provide reasonable accommodations\nfor candidates with disabilities, long-term conditions,\nmental health needs, religious observances, neurodivergence,\nor pregnancy-related support requirements. If you need\nassistance during your process, please contact your\nrecruiter.\n",
+  "skills_required": [
+    "LLMs",
+    "RAG",
+    "embeddings",
+    "model evaluation",
+    "model performance",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Prototype, develop and iterate on AI products for information extraction and report generation",
+    "Productionize and launch core technologies to power AI features on operational sustainability data",
+    "Collaborate with product and AI engineering teams to set product and technical strategy",
+    "Keep up with state-of-the-art AI developments to determine relevance to Watershed",
+    "Write performant, tested, and maintainable code across the technical stack",
+    "Lay the technical foundations for AI at Watershed"
+  ],
+  "use_cases": [
+    "AI-powered information extraction from sustainability data",
+    "Automated sustainability and ESG report generation",
+    "Climate data management with AI assistance",
+    "Audit-ready metrics generation for regulatory reporting",
+    "Decarbonization progress tracking and reporting"
+  ],
+  "tools_mentioned": [
+    "full-stack development",
+    "monitoring"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "RAG",
+    "embeddings",
+    "model evaluation",
+    "model performance",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves directly building and deploying LLM-based\nproducts for customers, including information extraction,\nreport generation, and AI features. The engineer will work\nhands-on with LLMs, embeddings, and other ML technologies,\nprototype new product areas, and productionize core AI\ntechnologies - all hallmarks of working directly ON AI\nsystems rather than just supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "embeddings",
+      "prompt engineering",
+      "RAG"
+    ],
+    "ml": [
+      "model evaluation",
+      "model performance"
+    ],
+    "web": [
+      "full-stack development"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

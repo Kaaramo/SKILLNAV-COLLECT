@@ -1,0 +1,1660 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>SKILLNAV — Guide du repo upstream Corpus Tech INTL</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+ :root {
+ --skn-navy-900: #0B1F3A;
+ --skn-navy-800: #122A4D;
+ --skn-navy-700: #1F4868;
+ --skn-navy-500: #3C6390;
+ --skn-navy-300: #8AA3C2;
+ --skn-royal: #2251FF;
+ --skn-royal-700: #1A3FCC;
+ --skn-royal-400: #4D7BFF;
+ --skn-royal-soft: #E8EEFF;
+ --skn-white: #FAFBFC;
+ --skn-surface: #F4F6FA;
+ --skn-text: #0B1F3A;
+ --skn-muted: #5C7290;
+ --skn-border: #DDE3EE;
+ --skn-success: #0F8F65;
+ --skn-warning: #C77700;
+ --skn-violet: #7C3AED;
+ --skn-cyan: #0891B2;
+ --skn-shadow: 0 1px 3px rgba(11,31,58,.06), 0 8px 24px rgba(11,31,58,.08);
+ --r-sm: 6px;
+ --r-md: 10px;
+ --r-lg: 16px;
+ --s-1: 4px;
+ --s-2: 8px;
+ --s-3: 12px;
+ --s-4: 16px;
+ --s-5: 24px;
+ --s-6: 32px;
+ --s-7: 48px;
+ --s-8: 64px;
+ }
+ * { box-sizing: border-box; margin: 0; padding: 0; }
+ html { scroll-behavior: smooth; }
+ body {
+ font-family: 'Inter', -apple-system, system-ui, sans-serif;
+ font-size: 15px;
+ line-height: 1.65;
+ color: var(--skn-text);
+ background: var(--skn-white);
+ -webkit-font-smoothing: antialiased;
+ }
+ ::selection { background: var(--skn-royal-soft); color: var(--skn-navy-900); }
+
+ /* ─── Layout ─────────────────────────────────────────────────────────── */.layout {
+ display: grid;
+ grid-template-columns: 280px 1fr;
+ max-width: 1440px;
+ margin: 0 auto;
+ }
+ aside.toc {
+ position: sticky;
+ top: 0;
+ height: 100vh;
+ overflow-y: auto;
+ padding: var(--s-6) var(--s-5);
+ background: var(--skn-navy-900);
+ color: var(--skn-white);
+ border-right: 1px solid var(--skn-navy-700);
+ }
+ main {
+ padding: var(--s-7) var(--s-7);
+ min-width: 0;
+ }
+ @media (max-width: 980px) {.layout { grid-template-columns: 1fr; }
+ aside.toc { position: relative; height: auto; }
+ main { padding: var(--s-5); }
+ }
+
+ /* ─── Sidebar ────────────────────────────────────────────────────────── */.brand {
+ font-family: 'Fraunces', serif;
+ font-size: 24px;
+ font-weight: 600;
+ letter-spacing: -0.02em;
+ margin-bottom: var(--s-1);
+ }.brand-sub {
+ font-size: 12px;
+ color: var(--skn-navy-300);
+ letter-spacing: 0.04em;
+ text-transform: uppercase;
+ margin-bottom: var(--s-6);
+ }.toc h4 {
+ font-size: 10px;
+ text-transform: uppercase;
+ letter-spacing: 0.12em;
+ color: var(--skn-navy-300);
+ margin: var(--s-5) 0 var(--s-2);
+ font-weight: 600;
+ }.toc ol {
+ list-style: none;
+ counter-reset: section;
+ }.toc li { counter-increment: section; margin: 2px 0; }.toc li a {
+ display: block;
+ padding: 6px 10px;
+ border-radius: var(--r-sm);
+ color: #C9D5E8;
+ text-decoration: none;
+ font-size: 13px;
+ transition: all 0.15s ease;
+ }.toc li a::before {
+ content: counter(section) ".";
+ display: inline-block;
+ min-width: 22px;
+ color: var(--skn-royal-400);
+ font-variant-numeric: tabular-nums;
+ font-weight: 500;
+ }.toc li a:hover { background: var(--skn-navy-700); color: var(--skn-white); }.toc li a.active { background: var(--skn-royal); color: white; }
+
+ /* ─── Typography ─────────────────────────────────────────────────────── */
+ h1 {
+ font-family: 'Fraunces', serif;
+ font-size: 48px;
+ line-height: 1.1;
+ letter-spacing: -0.025em;
+ color: var(--skn-navy-900);
+ margin-bottom: var(--s-3);
+ font-weight: 600;
+ }
+ h2 {
+ font-family: 'Fraunces', serif;
+ font-size: 32px;
+ line-height: 1.2;
+ letter-spacing: -0.015em;
+ color: var(--skn-navy-900);
+ margin: var(--s-7) 0 var(--s-4);
+ padding-bottom: var(--s-3);
+ border-bottom: 1px solid var(--skn-border);
+ font-weight: 600;
+ }
+ h3 {
+ font-family: 'Inter', sans-serif;
+ font-size: 20px;
+ color: var(--skn-navy-800);
+ margin: var(--s-5) 0 var(--s-3);
+ font-weight: 600;
+ }
+ h4 {
+ font-size: 15px;
+ color: var(--skn-navy-700);
+ margin: var(--s-4) 0 var(--s-2);
+ font-weight: 600;
+ }
+ p { margin-bottom: var(--s-3); }
+ p + h2, ul + h2, ol + h2, table + h2,.card + h2 { margin-top: var(--s-7); }
+ strong { color: var(--skn-navy-900); font-weight: 600; }
+ a { color: var(--skn-royal); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color.15s; }
+ a:hover { border-bottom-color: var(--skn-royal); }
+ code {
+ font-family: 'JetBrains Mono', monospace;
+ font-size: 0.86em;
+ background: var(--skn-royal-soft);
+ color: var(--skn-navy-900);
+ padding: 1px 6px;
+ border-radius: 4px;
+ font-weight: 500;
+ }
+ pre {
+ font-family: 'JetBrains Mono', monospace;
+ font-size: 12.5px;
+ line-height: 1.55;
+ background: var(--skn-navy-900);
+ color: #E2EBFA;
+ padding: var(--s-4) var(--s-5);
+ border-radius: var(--r-md);
+ overflow-x: auto;
+ margin: var(--s-3) 0 var(--s-4);
+ }
+ pre code { background: transparent; color: inherit; padding: 0; font-size: inherit; }
+ pre.k { color: #7BA7FF; } /* keyword */
+ pre.s { color: #A8D5FF; } /* string */
+ pre.c { color: #6F86A0; font-style: italic; } /* comment */
+ pre.v { color: #FFCC80; } /* value */
+ pre.h { color: #FFFFFF; font-weight: 600; }
+
+ /* ─── Hero ────────────────────────────────────────────────────────────── */.hero {
+ background: linear-gradient(135deg, var(--skn-navy-900) 0%, var(--skn-navy-700) 100%);
+ color: var(--skn-white);
+ margin: calc(-1 * var(--s-7)) calc(-1 * var(--s-7)) var(--s-6);
+ padding: var(--s-8) var(--s-7) var(--s-7);
+ border-radius: 0 0 var(--r-lg) var(--r-lg);
+ }.hero h1 { color: var(--skn-white); }.hero-tag {
+ display: inline-block;
+ background: rgba(34, 81, 255, 0.2);
+ color: #B4C7FF;
+ padding: 4px 10px;
+ border-radius: 20px;
+ font-size: 11px;
+ letter-spacing: 0.08em;
+ text-transform: uppercase;
+ font-weight: 600;
+ margin-bottom: var(--s-4);
+ }.hero-lead {
+ font-size: 17px;
+ color: #C9D5E8;
+ max-width: 720px;
+ margin-top: var(--s-3);
+ }.hero-meta {
+ display: flex;
+ flex-wrap: wrap;
+ gap: var(--s-5);
+ margin-top: var(--s-5);
+ padding-top: var(--s-4);
+ border-top: 1px solid rgba(255,255,255,0.1);
+ }.hero-meta div { font-size: 12px; }.hero-meta.label { color: var(--skn-navy-300); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 2px; font-size: 10px; }.hero-meta.value { color: var(--skn-white); font-weight: 500; font-size: 14px; }
+
+ /* ─── Cards ──────────────────────────────────────────────────────────── */.card {
+ background: var(--skn-white);
+ border: 1px solid var(--skn-border);
+ border-radius: var(--r-md);
+ padding: var(--s-4) var(--s-5);
+ margin: var(--s-3) 0;
+ box-shadow: var(--skn-shadow);
+ }.card.muted { background: var(--skn-surface); }.card.royal { background: var(--skn-royal-soft); border-color: var(--skn-royal-400); }.card.success { border-left: 3px solid var(--skn-success); }.card.warning { border-left: 3px solid var(--skn-warning); background: #FFFBF2; }.card.violet { border-left: 3px solid var(--skn-violet); }.card.navy { background: var(--skn-navy-900); color: var(--skn-white); border: none; }.card.navy h3,.card.navy h4 { color: var(--skn-white); }.card.navy code { background: rgba(255,255,255,0.1); color: #B4C7FF; }.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s-4); }.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--s-3); }.grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--s-3); }
+ @media (max-width: 768px) {.grid-2,.grid-3,.grid-4 { grid-template-columns: 1fr; }
+ }
+
+ /* ─── Tables ─────────────────────────────────────────────────────────── */
+ table {
+ width: 100%;
+ border-collapse: collapse;
+ margin: var(--s-3) 0 var(--s-4);
+ font-size: 14px;
+ background: var(--skn-white);
+ border: 1px solid var(--skn-border);
+ border-radius: var(--r-md);
+ overflow: hidden;
+ }
+ th {
+ text-align: left;
+ background: var(--skn-surface);
+ color: var(--skn-navy-900);
+ font-weight: 600;
+ padding: 10px var(--s-3);
+ font-size: 12px;
+ text-transform: uppercase;
+ letter-spacing: 0.04em;
+ border-bottom: 1px solid var(--skn-border);
+ }
+ td {
+ padding: 10px var(--s-3);
+ border-bottom: 1px solid var(--skn-border);
+ vertical-align: top;
+ }
+ tr:last-child td { border-bottom: none; }
+ tr:hover td { background: #FAFCFF; }
+ td.num { font-variant-numeric: tabular-nums; text-align: right; }
+ td.mono { font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+
+ /* ─── KPI ────────────────────────────────────────────────────────────── */.kpi {
+ background: var(--skn-white);
+ border: 1px solid var(--skn-border);
+ border-radius: var(--r-md);
+ padding: var(--s-4);
+ }.kpi.num {
+ font-family: 'Fraunces', serif;
+ font-size: 36px;
+ font-weight: 600;
+ color: var(--skn-royal);
+ line-height: 1;
+ margin-bottom: var(--s-1);
+ letter-spacing: -0.02em;
+ font-variant-numeric: tabular-nums;
+ }.kpi.lbl { font-size: 11px; text-transform: uppercase; color: var(--skn-muted); letter-spacing: 0.06em; font-weight: 500; }.kpi.sub { font-size: 12px; color: var(--skn-muted); margin-top: var(--s-1); }
+
+ /* ─── Tree ───────────────────────────────────────────────────────────── */.tree {
+ font-family: 'JetBrains Mono', monospace;
+ font-size: 13px;
+ line-height: 1.7;
+ background: var(--skn-navy-900);
+ color: #C9D5E8;
+ padding: var(--s-5) var(--s-5);
+ border-radius: var(--r-md);
+ overflow-x: auto;
+ }.tree.folder { color: var(--skn-royal-400); font-weight: 600; }.tree.file { color: #DDE3EE; }.tree.meta { color: #6F86A0; font-style: italic; }.tree.ann { color: var(--skn-success); }
+
+ /* ─── Pills ──────────────────────────────────────────────────────────── */.pill {
+ display: inline-block;
+ padding: 2px 9px;
+ border-radius: 999px;
+ font-size: 11px;
+ font-weight: 600;
+ letter-spacing: 0.02em;
+ }.pill.kept { background: var(--skn-success); color: white; }.pill.dropped { background: #C9D5E8; color: var(--skn-navy-700); text-decoration: line-through; }.pill.script { background: var(--skn-violet); color: white; }.pill.data { background: var(--skn-cyan); color: white; }.pill.doc { background: var(--skn-navy-700); color: white; }
+
+ /* ─── Pipeline ───────────────────────────────────────────────────────── */.pipeline {
+ display: grid;
+ grid-template-columns: repeat(5, 1fr);
+ gap: 0;
+ margin: var(--s-5) 0;
+ }.pipeline.step {
+ background: var(--skn-white);
+ border: 1px solid var(--skn-border);
+ padding: var(--s-4);
+ position: relative;
+ }.pipeline.step:not(:last-child)::after {
+ content: '→';
+ position: absolute;
+ right: -8px;
+ top: 50%;
+ transform: translateY(-50%);
+ background: var(--skn-royal);
+ color: white;
+ width: 16px;
+ height: 16px;
+ border-radius: 50%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-size: 11px;
+ z-index: 2;
+ }.pipeline.step:first-child { border-radius: var(--r-md) 0 0 var(--r-md); }.pipeline.step:last-child { border-radius: 0 var(--r-md) var(--r-md) 0; }.pipeline.step.num {
+ font-family: 'Fraunces', serif;
+ font-size: 24px;
+ color: var(--skn-royal);
+ font-weight: 600;
+ line-height: 1;
+ }.pipeline.step.name {
+ font-weight: 600;
+ margin-top: var(--s-1);
+ color: var(--skn-navy-900);
+ font-size: 13px;
+ }.pipeline.step.desc {
+ font-size: 11px;
+ color: var(--skn-muted);
+ margin-top: var(--s-1);
+ }
+ @media (max-width: 980px) {.pipeline { grid-template-columns: 1fr; }.pipeline.step:not(:last-child)::after { display: none; }.pipeline.step:first-child { border-radius: var(--r-md) var(--r-md) 0 0; }.pipeline.step:last-child { border-radius: 0 0 var(--r-md) var(--r-md); }
+ }
+
+ /* ─── Q&A ────────────────────────────────────────────────────────────── */
+ details.faq {
+ background: var(--skn-white);
+ border: 1px solid var(--skn-border);
+ border-radius: var(--r-md);
+ margin: var(--s-2) 0;
+ padding: 0 var(--s-4);
+ }
+ details.faq[open] { background: var(--skn-royal-soft); border-color: var(--skn-royal-400); }
+ details.faq summary {
+ cursor: pointer;
+ padding: var(--s-3) 0;
+ font-weight: 600;
+ color: var(--skn-navy-900);
+ list-style: none;
+ position: relative;
+ padding-right: 30px;
+ }
+ details.faq summary::after {
+ content: '+';
+ position: absolute;
+ right: 0;
+ top: 50%;
+ transform: translateY(-50%);
+ font-size: 20px;
+ color: var(--skn-royal);
+ font-weight: 400;
+ }
+ details.faq[open] summary::after { content: '−'; }
+ details.faq summary::-webkit-details-marker { display: none; }
+ details.faq.answer { padding: 0 0 var(--s-4); color: var(--skn-text); }
+
+ /* ─── Misc ───────────────────────────────────────────────────────────── */.footer {
+ margin-top: var(--s-8);
+ padding-top: var(--s-5);
+ border-top: 1px solid var(--skn-border);
+ color: var(--skn-muted);
+ font-size: 13px;
+ }
+ ul { padding-left: var(--s-5); margin-bottom: var(--s-3); }
+ ul li { margin-bottom: var(--s-1); }
+ ol { padding-left: var(--s-5); margin-bottom: var(--s-3); }.callout {
+ background: linear-gradient(135deg, #2251FF08, #2251FF15);
+ border-left: 3px solid var(--skn-royal);
+ padding: var(--s-4);
+ border-radius: 0 var(--r-md) var(--r-md) 0;
+ margin: var(--s-3) 0;
+ }.callout.label {
+ font-size: 11px;
+ text-transform: uppercase;
+ letter-spacing: 0.08em;
+ color: var(--skn-royal);
+ font-weight: 700;
+ margin-bottom: var(--s-1);
+ }.arrow-right { color: var(--skn-royal); font-weight: 600; }
+</style>
+</head>
+<body>
+<div class="layout">
+
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<!-- SIDEBAR -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<aside class="toc">
+ <div class="brand">SKILLNAV</div>
+ <div class="brand-sub">Guide · Repo Upstream</div>
+
+ <h4>Sommaire</h4>
+ <ol>
+ <li><a href="#reponses-express" style="color:#FFCC80;font-weight:600">★ Réponses express (4 Q/R)</a></li>
+ <li><a href="#vue-ensemble">Vue d'ensemble</a></li>
+ <li><a href="#structure">Arborescence après nettoyage</a></li>
+ <li><a href="#pipeline">Pipeline 5 étapes</a></li>
+ <li><a href="#root">Fichiers racine job-market/</a></li>
+ <li><a href="#data-raw">data_raw/ — extraction HTML</a></li>
+ <li><a href="#data-structured">data_structured/ — enrichissement LLM</a></li>
+ <li><a href="#internal-scripts">_internal/ — scripts racine</a></li>
+ <li><a href="#internal-scrapers">_internal/scrapers/</a></li>
+ <li><a href="#internal-analysis">_internal/analysis/</a></li>
+ <li><a href="#internal-jobs">_internal/jobs/ (HTML bruts)</a></li>
+ <li><a href="#internal-data">_internal/data/ (CSV intermédiaires)</a></li>
+ <li><a href="#choix">Pourquoi ces choix techniques ?</a></li>
+ <li><a href="#integration">Notre intégration SKILLNAV</a></li>
+ <li><a href="#faq">FAQ</a></li>
+ </ol>
+
+ <h4 style="margin-top: var(--s-6);">Légende</h4>
+ <div style="font-size: 12px; line-height: 1.8;">
+ <span class="pill kept">gardé</span> dans le clone<br/>
+ <span class="pill dropped">supprimé</span> hors scope SKILLNAV<br/>
+ <span class="pill script">script.py</span><br/>
+ <span class="pill data">données</span><br/>
+ <span class="pill doc">documentation</span>
+ </div>
+</aside>
+
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<!-- MAIN -->
+<!-- ═════════════════════════════════════════════════════════════════════ -->
+<main>
+
+<!-- ─── HERO ─────────────────────────────────────────────────────────── -->
+<div class="hero">
+ <span class="hero-tag">Sources Externes · Mouvement A complet</span>
+ <h1>Que contient ce repo et à quoi sert chaque pièce ?</h1>
+ <p class="hero-lead">
+ Tu as cloné <strong>ai-engineering-field-guide</strong>, le dataset Corpus Tech INTL scrape par SKILLNAV :
+ <strong>3&nbsp;087 fiches AI Engineer scrapées sur builtin.com (Q1 2026, 6 villes)</strong>, déjà
+ enrichies par LLM. Après nettoyage, il reste 204&nbsp;MB ciblés. Ce guide explique ligne par ligne
+ ce qui est dans <code>sources/external/ai-engineering-field-guide/</code>, à quoi ça sert,
+ pourquoi ce format, pourquoi ce traitement, et comment SKILLNAV s'en sert.
+ </p>
+ <div class="hero-meta">
+ <div><div class="label">Commit upstream</div><div class="value">9757d25</div></div>
+ <div><div class="label">Cloné le</div><div class="value">2026-05-15</div></div>
+ <div><div class="label">Taille finale</div><div class="value">204.4 MB</div></div>
+ <div><div class="label">Fiches importées SKILLNAV</div><div class="value">3 087</div></div>
+ <div><div class="label">Statut Git</div><div class="value">gitignored</div></div>
+ </div>
+</div>
+
+<!-- ─── 0. REPONSES EXPRESS ──────────────────────────────────────────── -->
+<section id="reponses-express">
+ <div class="card navy" style="margin-top: var(--s-5); padding: var(--s-6);">
+ <div style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#B4C7FF;font-weight:600;margin-bottom:var(--s-3)">
+ ★ Réponses express aux 4 questions essentielles
+ </div>
+ <h3 style="color:white;font-family:'Fraunces',serif;font-size:24px;margin:0 0 var(--s-5);font-weight:600">
+ Tu veux comprendre vite ? Lis ces 4 cartes.
+ </h3>
+
+ <!-- Q1 -->
+ <div style="background:rgba(255,255,255,.06);border-radius:var(--r-md);padding:var(--s-4);margin-bottom:var(--s-3);border-left:3px solid var(--skn-royal-400)">
+ <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:#B4C7FF;font-weight:600;margin-bottom:var(--s-2)">Question 1 → <a href="#data-raw" style="color:white;border-bottom:1px dashed #B4C7FF">voir section 6 ↓</a></div>
+ <div style="font-family:'Fraunces',serif;font-size:18px;color:white;margin-bottom:var(--s-2);font-weight:500">
+ <code style="background:rgba(255,255,255,.15);color:white;font-family:'JetBrains Mono',monospace;font-size:14px">data_raw/</code> contient quoi et pourquoi ce format ?
+ </div>
+ <div style="font-size:14px;line-height:1.6;color:#E2EBFA">
+ <strong style="color:white">CONTIENT :</strong> 3 090 fichiers YAML, 1 par offre d'emploi, organisés en
+ <strong style="color:white">6 dossiers par mois de publication</strong>
+ (<code style="background:rgba(255,255,255,.15);color:#B4C7FF">2025-08/</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">2025-11/</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">2026-01/</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">2026-02/</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">2026-03/</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">2026-04/</code>,
+ + <code style="background:rgba(255,255,255,.15);color:#B4C7FF">unknown/</code>).
+ Chaque YAML = sortie <strong style="color:white">brute</strong> du parsing HTML : titre, entreprise, location,
+ URL, work_type, description full text (10–30k chars), industries, posted_date, et une liste shallow de 3–7 skills.<br/><br/>
+ <strong style="color:white">POURQUOI YAML :</strong>
+ (1) Strings multilignes natives — la description de 30k chars passe sans escape <code style="background:rgba(255,255,255,.15);color:#B4C7FF">\n</code>.
+ (2) Lisible humainement → review manuelle facile.
+ (3) Parse en objets Pydantic typés directement.
+ (4) Diff Git propre si on retraite.<br/><br/>
+ <strong style="color:white">POURQUOI PAR MOIS DE PUBLICATION :</strong>
+ Réorganisé le 2026-05-15 pour aligner avec l'axe Usage Mining (time-series d'émergence des skills).
+ Auparavant : par date de scrape (artefact technique). Maintenant : par mois de publication
+ (signal analytique pertinent). Aucune fiche perdue lors de la réorg.
+ </div>
+ </div>
+
+ <!-- Q2 -->
+ <div style="background:rgba(255,255,255,.06);border-radius:var(--r-md);padding:var(--s-4);margin-bottom:var(--s-3);border-left:3px solid #7C3AED">
+ <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:#B4C7FF;font-weight:600;margin-bottom:var(--s-2)">Question 2 → <a href="#data-structured" style="color:white;border-bottom:1px dashed #B4C7FF">voir section 7 ↓</a></div>
+ <div style="font-family:'Fraunces',serif;font-size:18px;color:white;margin-bottom:var(--s-2);font-weight:500">
+ <code style="background:rgba(255,255,255,.15);color:white;font-family:'JetBrains Mono',monospace;font-size:14px">data_structured/</code> — pourquoi cette deuxième version ? Quel est le but ?
+ </div>
+ <div style="font-size:14px;line-height:1.6;color:#E2EBFA">
+ <strong style="color:white">LE PROBLÈME QUE ÇA RÉSOUT :</strong>
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">data_raw</code> ne contient que 3–7 skills par fiche
+ (le widget Built In). Mais la <strong style="color:white">vraie liste</strong> de compétences est noyée dans la
+ description de 30k chars : « We use Kubernetes for orchestration, MLflow for experiment tracking,
+ Pinecone as vector store… ». Inexploitable tel quel.<br/><br/>
+ <strong style="color:white">LE BUT :</strong> envoyer chaque description à un LLM (Z.ai GLM-4.7) pour produire 4 livrables :<br/>
+ &nbsp;&nbsp;<strong style="color:#FFCC80">①</strong> <strong style="color:white">Skills catégorisés en 10 dimensions</strong>
+ (<code style="background:rgba(255,255,255,.15);color:#B4C7FF">genai</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">ml</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">web</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">databases</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">data</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">cloud</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">ops</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">languages</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">domains</code>,
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">other</code>)<br/>
+ &nbsp;&nbsp;<strong style="color:#FFCC80">②</strong> <strong style="color:white">Classification du rôle</strong>
+ : <code style="background:rgba(255,255,255,.15);color:#B4C7FF">ai-first</code> (construit l'IA) /
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">ai-support</code> (supporte l'IA) /
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">ml-first</code> (ML traditionnel) + raisonnement explicite<br/>
+ &nbsp;&nbsp;<strong style="color:#FFCC80">③</strong> <strong style="color:white">Responsibilities et use_cases</strong> extraits sous forme de listes<br/>
+ &nbsp;&nbsp;<strong style="color:#FFCC80">④</strong> Flags binaires <code style="background:rgba(255,255,255,.15);color:#B4C7FF">is_customer_facing</code> + <code style="background:rgba(255,255,255,.15);color:#B4C7FF">is_management</code><br/><br/>
+ <strong style="color:white">RÉSULTAT :</strong> 3 087 YAML enrichis (6.7 MB) qu'on peut <em>statistiquement
+ analyser</em>. Ce sont eux qu'on importe dans SKILLNAV — pas data_raw.
+ </div>
+ </div>
+
+ <!-- Q3 -->
+ <div style="background:rgba(255,255,255,.06);border-radius:var(--r-md);padding:var(--s-4);margin-bottom:var(--s-3);border-left:3px solid #0F8F65">
+ <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:#B4C7FF;font-weight:600;margin-bottom:var(--s-2)">Question 3 → <a href="#internal-scrapers" style="color:white;border-bottom:1px dashed #B4C7FF">sections 9 à 12 ↓</a></div>
+ <div style="font-family:'Fraunces',serif;font-size:18px;color:white;margin-bottom:var(--s-2);font-weight:500">
+ Les 4 sous-dossiers de <code style="background:rgba(255,255,255,.15);color:white;font-family:'JetBrains Mono',monospace;font-size:14px">_internal/</code> contiennent quoi ?
+ </div>
+ <div style="font-size:14px;line-height:1.6;color:#E2EBFA">
+ <table style="background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);margin-top:var(--s-2);font-size:13px;color:#E2EBFA">
+ <thead><tr>
+ <th style="background:rgba(255,255,255,.08);color:white;border-bottom-color:rgba(255,255,255,.15)">Sous-dossier</th>
+ <th style="background:rgba(255,255,255,.08);color:white;border-bottom-color:rgba(255,255,255,.15)">Volume</th>
+ <th style="background:rgba(255,255,255,.08);color:white;border-bottom-color:rgba(255,255,255,.15)">Contient quoi</th>
+ <th style="background:rgba(255,255,255,.08);color:white;border-bottom-color:rgba(255,255,255,.15)">Sert à</th>
+ </tr></thead>
+ <tbody>
+ <tr>
+ <td style="border-bottom-color:rgba(255,255,255,.1)"><code style="background:rgba(255,255,255,.15);color:#B4C7FF">scrapers/</code></td>
+ <td style="border-bottom-color:rgba(255,255,255,.1)">9 scripts</td>
+ <td style="border-bottom-color:rgba(255,255,255,.1)">Scripts Python du <strong style="color:white">pipeline de scraping</strong> (étapes 1-4)</td>
+ <td style="border-bottom-color:rgba(255,255,255,.1)">Récupérer URLs, dédup, télécharger HTML, parser en YAML raw</td>
+ </tr>
+ <tr>
+ <td style="border-bottom-color:rgba(255,255,255,.1)"><code style="background:rgba(255,255,255,.15);color:#B4C7FF">analysis/</code></td>
+ <td style="border-bottom-color:rgba(255,255,255,.1)">10 scripts</td>
+ <td style="border-bottom-color:rgba(255,255,255,.1)">Scripts d'<strong style="color:white">analyse statistique</strong> post-LLM</td>
+ <td style="border-bottom-color:rgba(255,255,255,.1)">Calculer top skills, cooccurrences, distributions, patterns titres</td>
+ </tr>
+ <tr>
+ <td style="border-bottom-color:rgba(255,255,255,.1)"><code style="background:rgba(255,255,255,.15);color:#B4C7FF">jobs/</code></td>
+ <td style="border-bottom-color:rgba(255,255,255,.1)">2 213 fichiers · 177 MB</td>
+ <td style="border-bottom-color:rgba(255,255,255,.1)"><strong style="color:white">HTML bruts</strong> (sous-dossier <code style="background:rgba(255,255,255,.15);color:#B4C7FF">raw/</code>) + <strong style="color:white">JSON listings</strong> (sous-dossier <code style="background:rgba(255,255,255,.15);color:#B4C7FF">builtin/</code>)</td>
+ <td style="border-bottom-color:rgba(255,255,255,.1)">Archive pour re-parser sans re-télécharger (idempotence)</td>
+ </tr>
+ <tr>
+ <td><code style="background:rgba(255,255,255,.15);color:#B4C7FF">data/</code></td>
+ <td>8 CSV · 1.8 MB</td>
+ <td><strong style="color:white">CSV intermédiaires</strong> (listings + dédup)</td>
+ <td>Source de vérité pour le dédup cross-vagues</td>
+ </tr>
+ </tbody>
+ </table>
+ </div>
+ </div>
+
+ <!-- Q4 -->
+ <div style="background:rgba(255,255,255,.06);border-radius:var(--r-md);padding:var(--s-4);border-left:3px solid #FFCC80">
+ <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:#B4C7FF;font-weight:600;margin-bottom:var(--s-2)">Question 4 → <a href="#internal-scripts" style="color:white;border-bottom:1px dashed #B4C7FF">voir section 8 ↓</a></div>
+ <div style="font-family:'Fraunces',serif;font-size:18px;color:white;margin-bottom:var(--s-2);font-weight:500">
+ Les 8 fichiers à la racine de <code style="background:rgba(255,255,255,.15);color:white;font-family:'JetBrains Mono',monospace;font-size:14px">_internal/</code> servent à quoi ?
+ </div>
+ <div style="font-size:14px;line-height:1.6;color:#E2EBFA">
+ Ce sont les <strong style="color:white">orchestrateurs principaux</strong> appelés directement (les sous-dossiers
+ contiennent des sous-modules). Vue d'ensemble :<br/><br/>
+ <strong style="color:white">🧠 Cœur de l'enrichissement LLM (étape 5)</strong><br/>
+ &nbsp;&nbsp;• <code style="background:rgba(255,255,255,.15);color:#B4C7FF">extract_llm.py</code> — script qui envoie chaque description à Z.ai GLM-4.7
+ et produit <code style="background:rgba(255,255,255,.15);color:#B4C7FF">data_structured/*.yaml</code><br/>
+ &nbsp;&nbsp;• <code style="background:rgba(255,255,255,.15);color:#B4C7FF">classify_jobs.py</code> — variante par heuristiques (baseline non-LLM pour étude comparative)<br/>
+ &nbsp;&nbsp;• <code style="background:rgba(255,255,255,.15);color:#B4C7FF">final_structure.py</code> — finalisation : merge resultat LLM + raw, normalise<br/>
+ &nbsp;&nbsp;• <code style="background:rgba(255,255,255,.15);color:#B4C7FF">fix_yaml.py</code> — répare les YAML mal formés renvoyés par le LLM<br/><br/>
+ <strong style="color:white">⚙️ Utilitaires</strong><br/>
+ &nbsp;&nbsp;• <code style="background:rgba(255,255,255,.15);color:#B4C7FF">pipeline_paths.py</code> — chemins partagés (équivalent <code style="background:rgba(255,255,255,.15);color:#B4C7FF">config.py</code>)<br/>
+ &nbsp;&nbsp;• <code style="background:rgba(255,255,255,.15);color:#B4C7FF">clean_dedup.ipynb</code> — notebook exploratoire de dédup (dev/debug)<br/><br/>
+ <strong style="color:white">📚 Documentation</strong><br/>
+ &nbsp;&nbsp;• <code style="background:rgba(255,255,255,.15);color:#B4C7FF">PIPELINE.md</code> — méthodo des 5 étapes complètes (notre référence pour comprendre tout le repo)<br/>
+ &nbsp;&nbsp;• <code style="background:rgba(255,255,255,.15);color:#B4C7FF">extract_process.md</code> — méthodo détaillée de la classification ai-first/ai-support
+ </div>
+ </div>
+
+ <div style="text-align:center;color:#B4C7FF;font-size:12px;margin-top:var(--s-4);padding-top:var(--s-3);border-top:1px solid rgba(255,255,255,.1)">
+ ↓ Sections détaillées ci-dessous pour chaque point ↓
+ </div>
+ </div>
+</section>
+
+<!-- ─── 1. VUE D'ENSEMBLE ────────────────────────────────────────────── -->
+<section id="vue-ensemble">
+ <h2>1 · Vue d'ensemble — pourquoi ce repo est dans SKILLNAV</h2>
+ <p>
+ Après avoir saturé le marché Data/IA marocain à <strong>326 fiches uniques</strong>
+ (LinkedIn MA + Indeed MA + Rekrute + ANAPEC + pages carrières), SKILLNAV bascule sur
+ <strong>l'international</strong> pour benchmarker les compétences IA observées au Maroc
+ contre celles demandées sur le marché mondial. Le projet de Pr. Sassi (M242) impose un
+ observatoire <em>scientifique</em> — il faut un point de comparaison international solide.
+ </p>
+ <p>
+ Plutôt que de re-scraper builtin.com nous-mêmes, on a importé le travail SKILLNAV deja fait :
+ <strong>2 445 fiches annoncées, 3 087 réelles</strong>, déjà passées au LLM, structurées en
+ schéma cohérent. C'est <strong>l'équivalent de 5–7 jours de scraping économisés</strong>.
+ </p>
+
+ <div class="grid-4">
+ <div class="kpi"><div class="num">3 087</div><div class="lbl">Fiches importées</div><div class="sub">vs 2 445 annoncées</div></div>
+ <div class="kpi"><div class="num">6</div><div class="lbl">Pays couverts</div><div class="sub">US, IN, GB, DE, NL, INTL</div></div>
+ <div class="kpi"><div class="num">6</div><div class="lbl">Mois publication</div><div class="sub">Août 2025 → Avril 2026</div></div>
+ <div class="kpi"><div class="num">$0</div><div class="lbl">Coût d'acquisition</div><div class="sub">Mvt A entièrement gratuit</div></div>
+ </div>
+</section>
+
+<!-- ─── 3. STRUCTURE ─────────────────────────────────────────────────── -->
+<section id="structure">
+ <h2>3 · Arborescence du repo après nettoyage</h2>
+ <p>
+ Le 2026-05-15 j'ai supprimé tout ce qui n'était pas data ou pipeline (interview prep,
+ learning paths, role analysis, etc.) pour rester focus. Voici ce qui reste :
+ </p>
+
+ <div class="callout" style="margin-bottom:var(--s-4)">
+ <div class="label">⚡ Mise à jour 2026-05-15 — Migration vers <code>sources/collected/</code></div>
+ <p style="margin-bottom:0">
+ Les YAML <code>data_raw/</code> et <code>data_structured/</code> ont été <strong>déplacés</strong>
+ de <code>sources/external/ai-engineering-field-guide/job-market/</code> vers
+ <code>sources/collected/intl-ai-corpus/</code> pour être <strong>commitables</strong> dans Git
+ (au lieu de gitignored). Le clone <code>sources/external/</code> ne contient plus que les
+ <strong>scripts + HTML bruts</strong>, utiles pour le futur Mouvement B (élargir scope).
+ </p>
+ </div>
+
+ <h3>📂 Emplacement A — <code>sources/collected/intl-ai-corpus/</code> (commitable, le cœur SKILLNAV)</h3>
+ <div class="tree">
+<span class="folder">sources/collected/intl-ai-corpus/</span>
+│
+├── <span class="file">source.yaml</span> <span class="meta">— métadonnées de la source (provenance, citation, stats)</span>
+├── <span class="file">README.md</span> <span class="meta">— doc humaine (méthode, résultats, roadmap)</span>
+├── <span class="file">GUIDE_UPSTREAM.html</span> <span class="meta">— ce guide HTML (vue d'ensemble pédagogique)</span>
+├── <span class="file">_import_upstream.py</span> <span class="meta">— script d'import data_raw + data_structured → postings SKILLNAV</span>
+├── <span class="file">_reorg_by_publication_month.py</span> <span class="meta">— script de réorganisation par mois (déjà exécuté)</span>
+│
+├── <span class="folder">data_raw/</span> <span class="ann">3 090 fichiers · 18.9 MB — extraction HTML brute · par mois de publication</span>
+│ ├── <span class="folder">2025-08/</span> <span class="meta">— 2 fichiers (offres anciennes encore ouvertes au scrape)</span>
+│ ├── <span class="folder">2025-11/</span> <span class="meta">— 2 fichiers</span>
+│ ├── <span class="folder">2026-01/</span> <span class="meta">— 709 fichiers</span>
+│ ├── <span class="folder">2026-02/</span> <span class="meta">— 1 055 fichiers (pic d'activité)</span>
+│ ├── <span class="folder">2026-03/</span> <span class="meta">— 724 fichiers</span>
+│ ├── <span class="folder">2026-04/</span> <span class="meta">— 597 fichiers</span>
+│ └── <span class="folder">unknown/</span> <span class="meta">— 1 fichier (YAML upstream mal formé)</span>
+│
+├── <span class="folder">data_structured/</span> <span class="ann">3 087 fichiers · 6.7 MB — enrichi par LLM · par mois de publication</span>
+│ ├── <span class="folder">2025-08/</span> <span class="meta">— 2 fichiers</span>
+│ ├── <span class="folder">2025-11/</span> <span class="meta">— 2</span>
+│ ├── <span class="folder">2026-01/</span> <span class="meta">— 709</span>
+│ ├── <span class="folder">2026-02/</span> <span class="meta">— 1 055</span>
+│ ├── <span class="folder">2026-03/</span> <span class="meta">— 721</span>
+│ ├── <span class="folder">2026-04/</span> <span class="meta">— 597</span>
+│ └── <span class="folder">unknown/</span> <span class="meta">— 1</span>
+│
+├── <span class="folder">postings/</span> <span class="ann">3 087 JSON + 3 087 MD — couche pivot Pydantic SKILLNAV (DB-ready)</span>
+│ ├── <span class="file">0001.json</span> <span class="meta">— record Pydantic-compatible (Mongo / Neo4j / ES)</span>
+│ ├── <span class="file">0001.md</span> <span class="meta">— version humaine lisible</span>
+│ └── <span class="file">... 0002 → 3087...</span>
+│
+└── <span class="folder">raw/</span> <span class="meta">— _import_recap.json (stats machine-lisibles)</span>
+ </div>
+
+ <h3 style="margin-top: var(--s-6)">📂 Emplacement B — <code>sources/external/ai-engineering-field-guide/</code> (gitignored, scripts + HTML bruts)</h3>
+ <div class="tree">
+<span class="folder">ai-engineering-field-guide/</span>
+├── <span class="file">README.md</span> <span class="meta">— description du repo (citation, contexte)</span>
+│
+└── <span class="folder">job-market/</span> <span class="ann">█ Reste : scripts + HTML bruts pour futur Mvt B</span>
+ │
+ ├── <span class="file">.python-version</span> <span class="meta">— pin Python 3.13 (vide)</span>
+ ├── <span class="file">pyproject.toml</span> <span class="meta">— dépendances Python (PyYAML, BS4, Playwright, anthropic, pydantic)</span>
+ ├── <span class="file">README.md</span> <span class="meta">— doc du dataset (volumes, schéma YAML, top skills)</span>
+ ├── <span class="file">analysis.ipynb</span> <span class="meta">— notebook d'analyse (top skills, AI types, cooccurrences)</span>
+ │
+ └── <span class="folder">_internal/</span> <span class="ann">2 248 fichiers · 178.7 MB — pipeline + HTML bruts + CSV intermédiaires</span>
+ │
+ ├── <span class="file">PIPELINE.md</span> <span class="meta">— méthodo des 5 étapes de scraping</span>
+ ├── <span class="file">extract_process.md</span> <span class="meta">— méthodo classification ai-first/ai-support</span>
+ ├── <span class="file">pipeline_paths.py</span> <span class="meta">— chemins utilitaires partagés</span>
+ ├── <span class="file">classify_jobs.py</span> <span class="meta">— classification ai-first / ai-support / ml-first</span>
+ ├── <span class="file">extract_llm.py</span> <span class="meta">— enrichissement LLM Z.ai GLM-4.7</span>
+ ├── <span class="file">final_structure.py</span> <span class="meta">— finalisation structure data_structured</span>
+ ├── <span class="file">fix_yaml.py</span> <span class="meta">— répare les YAML mal formés post-extraction</span>
+ ├── <span class="file">clean_dedup.ipynb</span> <span class="meta">— notebook dédup (étape 2 du pipeline)</span>
+ │
+ ├── <span class="folder">scrapers/</span> <span class="ann">— pipeline étapes 1–4 (scraping → YAML)</span>
+ │ ├── <span class="file">scrape_builtin_requests.py</span>
+ │ ├── <span class="file">clean_dedup.py</span>
+ │ ├── <span class="file">download_all_html.py</span>
+ │ ├── <span class="file">extract_from_html.py</span>
+ │ └── <span class="folder">pagination/</span> <span class="meta">— scrapers Playwright (fallback si requests bloqué)</span>
+ │
+ ├── <span class="folder">analysis/</span> <span class="ann">— 10 scripts d'analyse statistique (post-LLM)</span>
+ │ ├── <span class="file">analyze.py</span> <span class="meta">— stats globales</span>
+ │ ├── <span class="file">analyze_patterns.py</span> <span class="meta">— patterns de skills cooccurrents</span>
+ │ ├── <span class="file">skills_analysis.py</span> <span class="meta">— top skills par type IA</span>
+ │ ├── <span class="file">title_analysis.py</span> <span class="meta">— stats sur titres</span>
+ │ ├── <span class="file">support_roles.py</span> <span class="meta">— focus rôles ai-support</span>
+ │ ├── <span class="file">support_skills_analysis.py</span> <span class="meta">— skills des ai-support</span>
+ │ ├── <span class="file">extract_responsibilities.py</span> <span class="meta">— extract responsibilities par LLM</span>
+ │ ├── <span class="file">extract_use_cases.py</span> <span class="meta">— extract use cases par LLM</span>
+ │ ├── <span class="file">finetuning_analysis.py</span> <span class="meta">— analyse mention fine-tuning</span>
+ │ └── <span class="file">common.py</span> <span class="meta">— helpers partagés</span>
+ │
+ ├── <span class="folder">jobs/</span> <span class="ann">2 213 fichiers · 176.7 MB — HTML bruts + JSON listings</span>
+ │ ├── <span class="folder">builtin/</span> <span class="meta">— 18 fichiers JSON listings (1 par ville × date)</span>
+ │ └── <span class="folder">raw/</span> <span class="meta">— 2 195 fichiers HTML bruts (1 par job page)</span>
+ │ ├── <span class="folder">2026-02-04/</span>
+ │ ├── <span class="folder">2026-02-27/</span>
+ │ ├── <span class="folder">2026-03-27/</span>
+ │ └── <span class="folder">2026-04-22/</span>
+ │
+ └── <span class="folder">data/</span> <span class="ann">8 fichiers · 1.8 MB — CSV intermédiaires (étape 2)</span>
+ ├── <span class="file">all_jobs_dedup.csv</span> <span class="meta">— CSV global dédup cross-mois</span>
+ └── <span class="folder">scrapes/{YYYY-MM-DD}/</span> <span class="meta">— CSV par vague (raw + dédupé)</span>
+ </div>
+
+ <div class="callout">
+ <div class="label">Ce qui a été supprimé (hors scope)</div>
+ <p style="margin-bottom:0">
+ <span class="pill dropped">.git</span>
+ <span class="pill dropped">.claude</span>
+ <span class="pill dropped">.gitignore</span>
+ <span class="pill dropped">awesome.md</span>
+ <span class="pill dropped">CLAUDE.md</span>
+ <span class="pill dropped">images/</span>
+ <span class="pill dropped">interview/</span>
+ <span class="pill dropped">learning-paths/</span>
+ <span class="pill dropped">portfolio/</span>
+ <span class="pill dropped">role/</span>
+ <span class="pill dropped">STYLING.md</span>
+ <span class="pill dropped">webinars/</span>
+ </p>
+ <p style="font-size:13px;color:var(--skn-muted);margin-top:var(--s-2);margin-bottom:0">
+ Ces dossiers étaient des contenus de "field guide" éditorial (préparation d'entretien,
+ parcours d'apprentissage, analyses de rôles). Très utiles pour un étudiant qui prépare
+ des entretiens AI Engineer, mais hors scope d'un observatoire académique.
+ </p>
+ </div>
+</section>
+
+<!-- ─── 4. PIPELINE ───────────────────────────────────────────────────── -->
+<section id="pipeline">
+ <h2>4 · Pipeline 5 étapes — comment ces données ont été produites</h2>
+ <p>
+ La pipeline est documentée dans <code>_internal/PIPELINE.md</code>.
+ Voici la séquence :
+ </p>
+
+ <div class="pipeline">
+ <div class="step">
+ <div class="num">1</div>
+ <div class="name">Scrape listings</div>
+ <div class="desc">requests + proxy Oxylabs ; 5 villes Built In</div>
+ </div>
+ <div class="step">
+ <div class="num">2</div>
+ <div class="name">Dédup</div>
+ <div class="desc">(title, company) + spam removal (Alignerr)</div>
+ </div>
+ <div class="step">
+ <div class="num">3</div>
+ <div class="name">Download HTML</div>
+ <div class="desc">8 threads concurrents · 3 retries</div>
+ </div>
+ <div class="step">
+ <div class="num">4</div>
+ <div class="name">Extract YAML raw</div>
+ <div class="desc">JSON-LD primary + BS4 fallback</div>
+ </div>
+ <div class="step">
+ <div class="num">5</div>
+ <div class="name">LLM enrichment</div>
+ <div class="desc">Z.ai GLM-4.7 → classification + skills</div>
+ </div>
+ </div>
+
+ <h3>Détail des étapes</h3>
+ <table>
+ <thead><tr><th>Étape</th><th>Script</th><th>Entrée</th><th>Sortie</th><th>Pourquoi</th></tr></thead>
+ <tbody>
+ <tr>
+ <td>1 · Scrape</td>
+ <td class="mono">scrapers/scrape_builtin_requests.py</td>
+ <td>builtin.com/jobs (par ville)</td>
+ <td class="mono">jobs/builtin/{ville}_{date}.json</td>
+ <td>Récupérer la liste des URLs de jobs sans charger chaque page entière</td>
+ </tr>
+ <tr>
+ <td>2 · Dédup</td>
+ <td class="mono">scrapers/clean_dedup.py</td>
+ <td>JSON listings + CSV global</td>
+ <td class="mono">data/.../all_jobs_dedup.csv</td>
+ <td>Ne pas re-télécharger des jobs déjà traités à la vague précédente</td>
+ </tr>
+ <tr>
+ <td>3 · HTML</td>
+ <td class="mono">scrapers/download_all_html.py</td>
+ <td>CSV dédupé (URLs)</td>
+ <td class="mono">jobs/raw/{date}/{title}_{id}.html</td>
+ <td>Snapshot HTML pour pouvoir re-extraire plus tard sans re-scraper</td>
+ </tr>
+ <tr>
+ <td>4 · YAML raw</td>
+ <td class="mono">scrapers/extract_from_html.py</td>
+ <td>HTML bruts</td>
+ <td class="mono">data_raw/{date}/{id}_{co}_{title}.yaml</td>
+ <td>Structurer les données : JSON-LD donne 90% des champs proprement</td>
+ </tr>
+ <tr>
+ <td>5 · LLM</td>
+ <td class="mono">extract_llm.py</td>
+ <td>YAML raw (description full)</td>
+ <td class="mono">data_structured/{date}/...yaml</td>
+ <td>Catégoriser les skills + classifier ai-first/support/ml-first</td>
+ </tr>
+ </tbody>
+ </table>
+</section>
+
+<!-- ─── 5. ROOT FILES ─────────────────────────────────────────────────── -->
+<section id="root">
+ <h2>5 · Fichiers racine de <code>job-market/</code></h2>
+
+ <div class="card">
+ <h3 style="margin-top:0">📘 <code>README.md</code> · 1.6 KB · <span class="pill doc">documentation</span></h3>
+ <p><strong>Rôle :</strong> Page de présentation du dataset — explique volume (2 445 fiches),
+ sources, schéma YAML, top skills observés.</p>
+ <p><strong>Utilité pour nous :</strong> Citation académique + référence pour comprendre les
+ conventions de nommage. Lu dès le début pour calibrer notre import.</p>
+ </div>
+
+ <div class="card">
+ <h3 style="margin-top:0">⚙️ <code>pyproject.toml</code> · 0.5 KB · <span class="pill doc">config</span></h3>
+ <p><strong>Rôle :</strong> Manifeste Python (équivalent <code>package.json</code>) — liste
+ les dépendances pour reproduire son pipeline.</p>
+ <p><strong>Dépendances clés :</strong>
+ <code>anthropic</code> (LLM SDK),
+ <code>beautifulsoup4</code> (HTML parsing),
+ <code>playwright</code> (browser automation, fallback),
+ <code>pydantic 2</code> (schemas),
+ <code>pyyaml</code> (I/O YAML),
+ <code>requests</code> (HTTP simple).
+ </p>
+ <p><strong>Utilité pour nous :</strong> Si on lance le Mouvement B (re-scraper avec d'autres
+ keywords), on copie ces deps dans notre <code>pyproject.toml</code> SKILLNAV.</p>
+ </div>
+
+ <div class="card">
+ <h3 style="margin-top:0">🐍 <code>.python-version</code> · vide · <span class="pill doc">config</span></h3>
+ <p><strong>Rôle :</strong> Convention <code>pyenv</code> — devrait indiquer
+ <code>3.13</code> mais le fichier est vide. Pas critique.</p>
+ </div>
+
+ <div class="card violet">
+ <h3 style="margin-top:0">📓 <code>analysis.ipynb</code> · 84.9 KB · <span class="pill data">notebook</span></h3>
+ <p><strong>Rôle :</strong> Notebook Jupyter d'analyse des 3 087 fiches. C'est <strong>ce
+ qui produit les insights publiés</strong> dans son README :</p>
+ <ul>
+ <li>Top skills par catégorie (Python 82.7%, RAG 34.5%, AWS 41.3%...)</li>
+ <li>Distribution ai-first vs ai-support vs ml-first</li>
+ <li>Top entreprises recruteurs (Capital One 47, Jack &amp; Jill AI 27, Optum 26)</li>
+ <li>Cooccurrences de skills</li>
+ <li>Tableaux croisés ville × type IA</li>
+ </ul>
+ <p><strong>Utilité pour nous :</strong> Référence méthodologique pour notre notebook
+ <code>notebooks/05_comparative_ma_vs_intl.ipynb</code>. On va reproduire ses analyses sur
+ <strong>notre échantillon</strong> (MA + INTL combinés) pour publier un comparatif inédit.</p>
+ </div>
+</section>
+
+<!-- ─── 6. DATA RAW ───────────────────────────────────────────────────── -->
+<section id="data-raw">
+ <h2>6 · <code>data_raw/</code> — sortie de l'extraction HTML</h2>
+
+ <div class="grid-3" style="margin-bottom:var(--s-4)">
+ <div class="card royal">
+ <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--skn-royal);font-weight:700;margin-bottom:var(--s-2)">📦 CONTIENT</div>
+ <div style="font-size:14px;line-height:1.6">
+ <strong>3 090 fichiers YAML · 18.9 MB</strong>, organisés en 6 sous-dossiers
+ <strong>par mois de publication</strong> :
+ <code>2025-08/</code>, <code>2025-11/</code>, <code>2026-01/</code>,
+ <code>2026-02/</code>, <code>2026-03/</code>, <code>2026-04/</code>
+ (+ <code>unknown/</code>). <strong>Un YAML = une offre d'emploi.</strong>
+ </div>
+ </div>
+ <div class="card royal">
+ <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--skn-royal);font-weight:700;margin-bottom:var(--s-2)">🎯 RÔLE</div>
+ <div style="font-size:14px;line-height:1.6">
+ <strong>Sortie brute de l'étape 4</strong> du pipeline : parsing HTML → JSON-LD (schema.org
+ embedded) + fallback BS4. C'est <strong>la base de référence</strong> avant tout enrichissement LLM.
+ </div>
+ </div>
+ <div class="card royal">
+ <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--skn-royal);font-weight:700;margin-bottom:var(--s-2)">📝 POURQUOI YAML</div>
+ <div style="font-size:14px;line-height:1.6">
+ Strings <strong>multilignes natives</strong> (description 30k chars sans escape) · Lisible humain
+ · Parse direct en objets Pydantic · Diff Git lisible · 1 fichier = 1 job (diff propre).
+ </div>
+ </div>
+ </div>
+
+ <h3>Format d'un fichier <code>data_raw/{date}/{id}_{company}_{title}.yaml</code></h3>
+ <pre><span class="k">job_id</span>: <span class="v">6988464</span>
+<span class="k">title</span>: <span class="s">Partner AI Deployment Engineer</span>
+<span class="k">company</span>: <span class="s">OpenAI</span>
+<span class="k">location</span>: <span class="s">San Francisco, CA</span>
+<span class="k">work_type</span>: <span class="s">FULL_TIME</span>
+<span class="k">level</span>: <span class="s">Expert/Leader</span>
+<span class="k">skills</span>: <span class="c"># shallow, juste 3-7 tools de la fiche</span>
+ - <span class="s">JavaScript</span>
+ - <span class="s">Python</span>
+<span class="k">company_size</span>: <span class="s">224 Employees</span>
+<span class="k">description</span>: <span class="s">|</span>
+ <span class="s">About the team... [10 000-30 000 chars de description full text]</span>
+<span class="k">industries</span>:
+ - <span class="s">Artificial Intelligence</span>
+ - <span class="s">Machine Learning</span>
+<span class="k">posted_date</span>: <span class="v">2026-04-15</span>
+<span class="k">url</span>: <span class="s">https://builtin.com/job/partner-solutions-architect/6988464</span>
+<span class="k">source</span>: <span class="s">Built In</span></pre>
+
+ <div class="grid-2">
+ <div class="card success">
+ <h4 style="margin-top:0">✓ Ce qui est précis dans data_raw</h4>
+ <ul style="margin-bottom:0">
+ <li><code>title</code>, <code>company</code>, <code>url</code> : 100% fiables (JSON-LD)</li>
+ <li><code>description</code> : full text — c'est notre <strong>source de vérité NER</strong></li>
+ <li><code>posted_date</code> : date ISO précise</li>
+ <li><code>company_size</code> : taille auto-déclarée</li>
+ <li><code>work_type</code>, <code>level</code> : catégorisé par Built In</li>
+ </ul>
+ </div>
+ <div class="card warning">
+ <h4 style="margin-top:0">⚠ Ce qui est shallow / incomplet</h4>
+ <ul style="margin-bottom:0">
+ <li><code>skills</code> : 3-7 items, tirés du widget Built In (Python, AWS, …).
+ La vraie liste de skills est <strong>dans la description</strong> → c'est ce que le LLM va extraire à l'étape 5.</li>
+ <li><code>location</code> : parfois "USA" tout court, parfois "Remote (Anywhere)"</li>
+ <li>Pas de <code>compensation</code> dans data_raw direct (parsing partiel)</li>
+ </ul>
+ </div>
+ </div>
+
+ <h4>Pourquoi par mois de publication et pas par date de scrape ?</h4>
+ <p>
+ Initialement le dataset upstream était organisé par <strong>date de scrape</strong> (4 vagues :
+ <code>2026-02-04/</code>, <code>2026-02-27/</code>, <code>2026-03-27/</code>, <code>2026-04-22/</code>).
+ C'était un artefact technique du processus de collecte, pas une information analytique.
+ </p>
+ <p>
+ <strong>Réorganisation 2026-05-15</strong> (script <code>_reorg_by_publication_month.py</code>) :
+ chaque fichier YAML a été déplacé vers son dossier <code>{YYYY-MM}/</code> correspondant à son
+ <code>posted_date</code>. <strong>Aucun fichier perdu</strong> (les YAML mal formés ou sans
+ posted_date sont rangés dans <code>unknown/</code>). C'est cette organisation par mois de publication
+ qui sera exploitée par notre axe Usage Mining (forecasting d'émergence des skills).
+ </p>
+
+ <h4>Pourquoi YAML et pas JSON ?</h4>
+ <p>
+ YAML accepte les <strong>strings multilignes lisibles</strong> via <code>|</code> ou
+ <code>&gt;</code>. La description d'un job fait souvent 10–30k chars : en JSON il faudrait
+ tout escape (<code>\n</code> partout), en YAML on garde le texte tel quel et c'est diffable.
+ Pour de la donnée semi-structurée avec <strong>texte long dominant</strong>, YAML est plus
+ ergonomique. C'est exactement pour ça qu'il a choisi YAML.
+ </p>
+</section>
+
+<!-- ─── 7. DATA STRUCTURED ────────────────────────────────────────────── -->
+<section id="data-structured">
+ <h2>7 · <code>data_structured/</code> — enrichissement LLM</h2>
+
+ <div class="card violet" style="margin-bottom:var(--s-4)">
+ <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--skn-violet);font-weight:700;margin-bottom:var(--s-2)">⚠️ POURQUOI CETTE DEUXIÈME VERSION EXISTE</div>
+ <p style="margin-bottom:var(--s-2)">
+ <code>data_raw/</code> contient déjà tout… <strong>en apparence</strong>. Mais son champ
+ <code>skills</code> est <strong>shallow</strong> : 3 à 7 items pris du widget Built In
+ (genre « Python, AWS, LangChain »). La <strong>vraie liste de compétences</strong> est
+ <strong>noyée dans la description full text de 10–30k chars</strong> : « We use Kubernetes for
+ orchestration, MLflow for experiment tracking, Pinecone as vector store, FastAPI for serving… ».
+ </p>
+ <p style="margin-bottom:0">
+ <strong>Tel quel, c'est inexploitable statistiquement.</strong> Impossible de répondre à
+ « Quelle proportion d'AI Engineers utilise un vector store ? » ou
+ « Quels skills cooccurrent avec LangChain ? » à partir de 3 mots-clés génériques.
+ </p>
+ </div>
+
+ <div class="grid-3" style="margin-bottom:var(--s-4)">
+ <div class="card success">
+ <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--skn-success);font-weight:700;margin-bottom:var(--s-2)">📦 CONTIENT</div>
+ <div style="font-size:14px;line-height:1.6">
+ <strong>3 087 fichiers YAML · 6.7 MB</strong>, même nommage que data_raw (1 YAML par job_id).
+ <strong>Plus léger que data_raw</strong> car la description full text n'est plus dupliquée.
+ </div>
+ </div>
+ <div class="card success">
+ <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--skn-success);font-weight:700;margin-bottom:var(--s-2)">🎯 LE BUT</div>
+ <div style="font-size:14px;line-height:1.6">
+ <strong>Transformer du texte brut en données analytiques.</strong> Chaque description est passée
+ à un LLM (Z.ai GLM-4.7) qui en extrait des champs structurés exploitables statistiquement.
+ </div>
+ </div>
+ <div class="card success">
+ <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--skn-success);font-weight:700;margin-bottom:var(--s-2)">⚙️ CE QUE PRODUIT LE LLM</div>
+ <div style="font-size:13px;line-height:1.5">
+ <strong>①</strong> Skills en 10 catégories<br/>
+ <strong>②</strong> Classification ai-first/ai-support/ml-first + raisonnement<br/>
+ <strong>③</strong> Listes responsibilities + use_cases<br/>
+ <strong>④</strong> Flags is_customer_facing + is_management
+ </div>
+ </div>
+ </div>
+
+ <p style="background:var(--skn-surface);padding:var(--s-3) var(--s-4);border-radius:var(--r-md);border-left:3px solid var(--skn-royal);margin-bottom:var(--s-4)">
+ <strong>Détail du processus (étape 5 du pipeline) :</strong> pour chaque <code>data_raw/*.yaml</code>,
+ le script <code>_internal/extract_llm.py</code> :
+ </p>
+ <ol>
+ <li>Lit la <code>description</code> complète du raw</li>
+ <li>Classifie le rôle en <code>ai-first</code> / <code>ai-support</code> / <code>ml-first</code> avec raisonnement explicite</li>
+ <li>Range tous les outils mentionnés dans 10 catégories (<code>genai</code>, <code>ml</code>, <code>web</code>, <code>databases</code>, <code>data</code>, <code>cloud</code>, <code>ops</code>, <code>languages</code>, <code>domains</code>, <code>other</code>)</li>
+ <li>Extrait les responsibilities + use_cases sous forme de listes</li>
+ <li>Détermine flags <code>is_customer_facing</code> + <code>is_management</code></li>
+ <li>Écrit le résultat dans <code>data_structured/{date}/{même_nom}.yaml</code></li>
+ </ol>
+
+ <h3>Format d'un fichier <code>data_structured/{date}/*.yaml</code></h3>
+ <pre><span class="k">company</span>:
+ <span class="k">name</span>: <span class="s">OpenAI</span>
+ <span class="k">stage</span>: <span class="s">Public</span>
+ <span class="k">focus</span>: <span class="s">AI research and deployment company...</span>
+<span class="k">position</span>:
+ <span class="k">title</span>: <span class="s">Partner AI Deployment Engineer</span>
+ <span class="k">ai_type</span>:
+ <span class="k">type</span>: <span class="s">ai-first</span> <span class="c"># classification clé</span>
+ <span class="k">reasoning</span>: <span class="s">|</span> <span class="c"># pourquoi cette classification</span>
+ <span class="s">This role involves directly building and deploying</span>
+ <span class="s">Generative AI applications using the OpenAI API...</span>
+ <span class="k">responsibilities</span>: <span class="c"># LLM extraction structurée</span>
+ - <span class="s">Embed with systems integrators as technical lead...</span>
+ - <span class="s">Work with senior stakeholders to identify high-value...</span>
+ <span class="k">use_cases</span>: <span class="c"># cas d'usage business mentionnés</span>
+ - <span class="s">Customer service automation</span>
+ - <span class="s">Automated content generation</span>
+ <span class="k">skills</span>: <span class="c"># LE GOLD : skills en 10 dimensions</span>
+ <span class="k">genai</span>: [<span class="s">OpenAI API, Generative AI, RAG, Prompt engineering</span>]
+ <span class="k">ml</span>: []
+ <span class="k">web</span>: [<span class="s">REST APIs</span>]
+ <span class="k">databases</span>: []
+ <span class="k">data</span>: []
+ <span class="k">cloud</span>: []
+ <span class="k">ops</span>: []
+ <span class="k">languages</span>: [<span class="s">Python, JavaScript</span>]
+ <span class="k">domains</span>: []
+ <span class="k">other</span>: [<span class="s">Solutions architecture, Technical consulting</span>]
+ <span class="k">is_customer_facing</span>: <span class="v">true</span>
+ <span class="k">is_management</span>: <span class="v">false</span>
+<span class="k">meta</span>:
+ <span class="k">job_id</span>: <span class="s">'6988464'</span>
+ <span class="k">extracted_at</span>: <span class="s">'2026-04-22T12:28:11.292578'</span></pre>
+
+ <h4>Pourquoi 10 catégories de skills ?</h4>
+ <p>
+ C'est <strong>la décision clé de tout le dataset</strong>. Une liste plate "Python, AWS,
+ LangChain, RAG, PyTorch" est inexploitable pour comparer marchés ou rôles. En séparant les
+ skills par couche technique (genai / ml / cloud / data / ops / languages…), on peut répondre
+ à des questions comme :
+ </p>
+ <ul>
+ <li>« Quelle proportion d'AI Engineers utilise un orchestrateur Airflow + dbt vs juste Python pur ? »</li>
+ <li>« Les <em>ai-support</em> mentionnent-ils plus de skills <em>cloud</em> que les <em>ai-first</em> ? »</li>
+ <li>« Sur Berlin vs LA, les skills <em>genai</em> sont-ils les mêmes ? »</li>
+ </ul>
+ <p>
+ SKILLNAV hérite directement de cette structure dans son schéma Pydantic
+ (champ <code>skills_categorized</code>).
+ </p>
+
+ <h4>Pourquoi Z.ai GLM-4.7 et pas Claude ?</h4>
+ <p>
+ Z.ai est compatible Anthropic SDK mais nettement moins cher (~10× plus économique). Pour
+ 3 087 extractions ont coûté <strong>quelques dollars</strong> au lieu de ~50$ avec
+ Claude Sonnet. Côté qualité, GLM-4.7 est top-tier sur les tâches structurées en 2026.
+ C'est un choix coût/qualité défendable.
+ </p>
+ <p>
+ <strong>Implication pour SKILLNAV §N2 (étude comparative algorithmique) :</strong> on peut
+ re-classifier 10% au hasard avec Claude Sonnet 4.5 pour mesurer l'<strong>accord inter-modèles</strong> —
+ ça devient un vrai résultat scientifique exploitable dans le rapport.
+ </p>
+</section>
+
+<!-- ─── 8. INTERNAL ROOT SCRIPTS ──────────────────────────────────────── -->
+<section id="internal-scripts">
+ <h2>8 · <code>_internal/</code> — vue d'ensemble + 8 fichiers racine</h2>
+
+ <div class="card navy" style="margin-bottom:var(--s-4)">
+ <div style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:#B4C7FF;font-weight:700;margin-bottom:var(--s-2)">📍 Structure de <code style="background:rgba(255,255,255,.15);color:white;font-family:'JetBrains Mono',monospace;font-size:13px">_internal/</code></div>
+ <p style="color:#E2EBFA;margin-bottom:var(--s-3)">
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">_internal/</code> est la <strong style="color:white">salle des machines</strong> de tout le repo : toute la pipeline opérationnelle, plus les outputs intermédiaires. Elle est divisée en :
+ </p>
+ <div class="grid-2" style="font-size:13px;color:#E2EBFA">
+ <div>
+ <strong style="color:white">📁 4 SOUS-DOSSIERS</strong> (sections 9 à 12)<br/>
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">scrapers/</code> — 9 scripts du scraping (étapes 1-4)<br/>
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">analysis/</code> — 10 scripts d'analyse stats<br/>
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">jobs/</code> — 2 213 HTML bruts (177 MB)<br/>
+ <code style="background:rgba(255,255,255,.15);color:#B4C7FF">data/</code> — 8 CSV intermédiaires
+ </div>
+ <div>
+ <strong style="color:white">📄 8 FICHIERS RACINE</strong> (cette section ↓)<br/>
+ 2 docs (<code style="background:rgba(255,255,255,.15);color:#B4C7FF">PIPELINE.md</code>, <code style="background:rgba(255,255,255,.15);color:#B4C7FF">extract_process.md</code>)<br/>
+ 5 scripts <code style="background:rgba(255,255,255,.15);color:#B4C7FF">.py</code> (orchestrateurs principaux)<br/>
+ 1 notebook <code style="background:rgba(255,255,255,.15);color:#B4C7FF">.ipynb</code> (exploratoire dédup)
+ </div>
+ </div>
+ </div>
+
+ <h3>Les 8 fichiers à la racine de <code>_internal/</code> — détail un par un</h3>
+ <p style="color:var(--skn-muted);font-size:13px;margin-bottom:var(--s-3)">
+ Ce sont les <strong>orchestrateurs appelés directement</strong>. Les sous-dossiers contiennent des
+ sous-modules invoqués par eux. Tu trouves ici l'enrichissement LLM (étape 5) et la documentation de toute la méthode.
+ </p>
+
+ <table>
+ <thead><tr><th>Fichier</th><th>Taille</th><th>Type</th><th>Rôle</th></tr></thead>
+ <tbody>
+ <tr>
+ <td class="mono">PIPELINE.md</td>
+ <td class="num">5.8 KB</td>
+ <td><span class="pill doc">doc</span></td>
+ <td>Documentation des 5 étapes du scraping — c'est ce qu'on a lu pour comprendre toute la méthode.</td>
+ </tr>
+ <tr>
+ <td class="mono">extract_process.md</td>
+ <td class="num">10.1 KB</td>
+ <td><span class="pill doc">doc</span></td>
+ <td>Documentation détaillée de l'étape 5 (LLM) — règles de classification ai-first/support/ml-first
+ avec exemples annotés. Référence pour notre §N4 du PRD.</td>
+ </tr>
+ <tr>
+ <td class="mono">pipeline_paths.py</td>
+ <td class="num">8.1 KB</td>
+ <td><span class="pill script">script</span></td>
+ <td>Constantes de chemins partagées entre tous les scripts (data_raw/, data_structured/, etc.).
+ L'équivalent d'une <em>config.py</em>.</td>
+ </tr>
+ <tr>
+ <td class="mono">extract_llm.py</td>
+ <td class="num">18.9 KB</td>
+ <td><span class="pill script">script</span></td>
+ <td><strong>Le cœur de l'étape 5.</strong> Prend chaque YAML de data_raw, fait un appel
+ Z.ai avec un prompt structuré, parse la réponse YAML, écrit dans data_structured.
+ Skip les fichiers déjà traités. <strong>Référence pour notre script SKILLNAV
+ d'enrichissement Claude.</strong></td>
+ </tr>
+ <tr>
+ <td class="mono">classify_jobs.py</td>
+ <td class="num">13.3 KB</td>
+ <td><span class="pill script">script</span></td>
+ <td>Variante : classification ai-first/support/ml-first par heuristiques (regex sur titres
+ et descriptions) — sert de <strong>baseline</strong> à comparer avec la classification LLM.
+ <em>C'est exactement le pattern de notre §N2 (étude comparative).</em></td>
+ </tr>
+ <tr>
+ <td class="mono">final_structure.py</td>
+ <td class="num">3.2 KB</td>
+ <td><span class="pill script">script</span></td>
+ <td>Finalisation : merge le résultat LLM avec quelques champs du raw, normalise la sortie YAML.</td>
+ </tr>
+ <tr>
+ <td class="mono">fix_yaml.py</td>
+ <td class="num">4.3 KB</td>
+ <td><span class="pill script">script</span></td>
+ <td>Répare les YAML retournés par le LLM qui ont des problèmes de syntaxe (indent, quotes
+ mal échappées). On a rencontré le même bug : 1 fichier upstream mal formé.</td>
+ </tr>
+ <tr>
+ <td class="mono">clean_dedup.ipynb</td>
+ <td class="num">16.8 KB</td>
+ <td><span class="pill data">notebook</span></td>
+ <td>Notebook exploratoire pour l'étape 2 (dédup). Sert au développement / debugging.
+ Le code stable est dans <code>scrapers/clean_dedup.py</code>.</td>
+ </tr>
+ </tbody>
+ </table>
+</section>
+
+<!-- ─── 9. SCRAPERS ───────────────────────────────────────────────────── -->
+<section id="internal-scrapers">
+ <h2>9 · <code>_internal/scrapers/</code> — étapes 1 à 4</h2>
+ <p>
+ 9 scripts qui orchestrent le scraping live de builtin.com jusqu'à la production des YAML raw.
+ </p>
+
+ <h3>Scrapers principaux (production)</h3>
+ <table>
+ <thead><tr><th>Script</th><th>Étape</th><th>Rôle</th></tr></thead>
+ <tbody>
+ <tr>
+ <td class="mono">scrape_builtin_requests.py</td>
+ <td>1</td>
+ <td>Récupère la liste des jobs via <code>requests</code> + proxy Oxylabs. Plus rapide
+ que Playwright. Sort un JSON par ville par date.</td>
+ </tr>
+ <tr>
+ <td class="mono">clean_dedup.py</td>
+ <td>2</td>
+ <td>Dédup intra-vague <code>(title, company)</code> + cross-vague via CSV global.
+ Filtre les entreprises spam (Alignerr).</td>
+ </tr>
+ <tr>
+ <td class="mono">download_all_html.py</td>
+ <td>3</td>
+ <td>8 threads concurrents qui téléchargent chaque page HTML complète. 3 retries
+ par URL. Skip les fichiers déjà présents.</td>
+ </tr>
+ <tr>
+ <td class="mono">extract_from_html.py</td>
+ <td>4</td>
+ <td>Parse JSON-LD embarqué dans le HTML + fallback BS4 sur les champs manquants.
+ Output : un YAML par job dans <code>data_raw/{date}/</code>.</td>
+ </tr>
+ </tbody>
+ </table>
+
+ <h3>Fallback Playwright dans <code>scrapers/pagination/</code></h3>
+ <p>
+ 5 scripts plus anciens basés sur Playwright (browser headless) qui servent de fallback si
+ <code>requests</code> est bloqué par anti-bot. Ils contiennent : combine_csv, scrape_all_builtin,
+ scrape_builtin, scrape_builtin_cards, scrape_builtin_pagination. <strong>Pas critiques</strong>
+ — utiles seulement si on doit re-scraper en 2027 et que requests échoue.
+ </p>
+
+ <div class="callout">
+ <div class="label">Pertinence pour notre Mouvement B</div>
+ <p style="margin-bottom:0">
+ Pour élargir le scope au-delà d'AI Engineer (Data Scientist / Data Engineer / Data Analyst),
+ on copie <code>scrape_builtin_requests.py</code> et on change juste le keyword de recherche
+ builtin.com. Le reste de la pipeline (étapes 2-5) reste identique. <strong>5–7 jours
+ de dev économisés.</strong>
+ </p>
+ </div>
+</section>
+
+<!-- ─── 10. ANALYSIS ──────────────────────────────────────────────────── -->
+<section id="internal-analysis">
+ <h2>10 · <code>_internal/analysis/</code> — 10 scripts d'analyse</h2>
+ <p>
+ Scripts Python qui produisent les insights publiés dans son <code>analysis.ipynb</code>
+ et son README. Ce sont des analyseurs post-LLM (ils consomment data_structured).
+ </p>
+
+ <table>
+ <thead><tr><th>Script</th><th>Sort quoi ?</th></tr></thead>
+ <tbody>
+ <tr><td class="mono">analyze.py</td><td>Stats globales (top skills, top companies, ai_type distribution)</td></tr>
+ <tr><td class="mono">analyze_patterns.py</td><td>Patterns de cooccurrence : « jobs Python + AWS + LangChain » = 18% etc.</td></tr>
+ <tr><td class="mono">skills_analysis.py</td><td>Top skills par catégorie (top genai, top ml, top cloud…)</td></tr>
+ <tr><td class="mono">support_skills_analysis.py</td><td>Skills spécifiques aux rôles ai-support (vs ai-first)</td></tr>
+ <tr><td class="mono">support_roles.py</td><td>Focus typologique sur les rôles ai-support : qui recrute, quels titres</td></tr>
+ <tr><td class="mono">title_analysis.py</td><td>Patterns de titres : « Senior AI Engineer », « Forward Deployed », etc.</td></tr>
+ <tr><td class="mono">extract_responsibilities.py</td><td>2e passage LLM pour extraire les responsibilities en mode batch</td></tr>
+ <tr><td class="mono">extract_use_cases.py</td><td>2e passage LLM pour extraire les use cases business</td></tr>
+ <tr><td class="mono">finetuning_analysis.py</td><td>Combien d'offres mentionnent fine-tuning, LoRA, RLHF, DPO ?</td></tr>
+ <tr><td class="mono">common.py</td><td>Helpers partagés (load_all, normalize_skill, plot helpers)</td></tr>
+ </tbody>
+ </table>
+
+ <div class="callout">
+ <div class="label">Pourquoi ces scripts sont des trésors</div>
+ <p style="margin-bottom:0">
+ Chacun de ces scripts implémente <strong>une analyse qu'on devra faire pour notre
+ rapport L5</strong>. Au lieu de tout réécrire, on les adapte sur notre dataset combiné
+ (MA + INTL). Concrètement : <code>support_skills_analysis.py</code> devient
+ <code>skills_by_market_comparison.py</code> pour mesurer l'écart MA vs INTL.
+ </p>
+ </div>
+</section>
+
+<!-- ─── 11. JOBS HTML ─────────────────────────────────────────────────── -->
+<section id="internal-jobs">
+ <h2>11 · <code>_internal/jobs/</code> — HTML bruts + listings JSON</h2>
+ <p>
+ <strong>2 213 fichiers · 176.7 MB.</strong> C'est <strong>85% du poids du clone</strong>.
+ </p>
+
+ <div class="grid-2">
+ <div class="card">
+ <h4 style="margin-top:0"><code>jobs/builtin/</code> · 18 fichiers · 2.1 MB</h4>
+ <p>JSON par <strong>(ville, date)</strong> contenant la liste des URLs trouvées au listing.
+ 18 = (5 villes × 3 dates) + (1 ville × 3 dates) ≈ 5×4 = 20 attendus, 18 réels (LA
+ manque pour Feb-04 ou Berlin pour Feb-04 selon les dates de lancement).</p>
+ <p style="font-size:12px;color:var(--skn-muted)">Exemples : <code>amsterdam_20260227.json</code>,
+ <code>berlin_20260422.json</code>, <code>india_20260327.json</code>...</p>
+ </div>
+ <div class="card">
+ <h4 style="margin-top:0"><code>jobs/raw/</code> · 2 195 fichiers · 174.6 MB</h4>
+ <p>HTML bruts téléchargés. <strong>1 fichier = 1 page job</strong>. Stockage par date de scrape
+ dans <code>jobs/raw/{YYYY-MM-DD}/{title}_{id}.html</code>.</p>
+ <p style="font-size:12px;color:var(--skn-muted)">~80 KB par HTML en moyenne. Permet de
+ re-extraire à volonté sans re-télécharger.</p>
+ </div>
+ </div>
+
+ <h4>Pourquoi conserver les HTML bruts (étape 3) ?</h4>
+ <p>
+ C'est une <strong>discipline de scraping pro</strong>. Si demain on veut :
+ </p>
+ <ul>
+ <li>Extraire un champ qu'il n'avait pas pensé extraire (compensation, benefits, etc.)</li>
+ <li>Améliorer son parseur JSON-LD</li>
+ <li>Re-faire l'étape 5 avec un LLM différent (Claude vs Z.ai)</li>
+ </ul>
+ <p>
+ → Il <strong>relance juste les étapes 4 et 5 sur les HTML déjà téléchargés</strong>, sans
+ re-payer Oxylabs ni risquer de se faire bloquer.
+ <em>Le re-scraping live est coûteux et fragile, le re-parsing est gratuit et idempotent.</em>
+ </p>
+ <p>
+ SKILLNAV applique la même logique : nos dossiers <code>raw/</code> sont gitignorés mais
+ conservés en local pour la même raison.
+ </p>
+</section>
+
+<!-- ─── 12. DATA CSV ──────────────────────────────────────────────────── -->
+<section id="internal-data">
+ <h2>12 · <code>_internal/data/</code> — CSV intermédiaires</h2>
+ <p>
+ 8 fichiers, 1.8 MB. Petits volumes mais critiques car ce sont eux qui assurent le
+ <strong>dédoublonnage cross-vagues</strong>.
+ </p>
+
+ <table>
+ <thead><tr><th>Fichier</th><th>Rôle</th></tr></thead>
+ <tbody>
+ <tr>
+ <td class="mono">all_jobs_dedup.csv</td>
+ <td><strong>Source de vérité globale.</strong> Une ligne par job_id jamais vu, avec une
+ colonne <code>scraped_date</code> = date du 1er snapshot. Sert à filtrer les nouveaux
+ jobs des vagues suivantes.</td>
+ </tr>
+ <tr>
+ <td class="mono">scrapes/2026-02-04/all_jobs.csv</td>
+ <td>Listing brut combiné de toutes les villes pour la vague Feb 4.</td>
+ </tr>
+ <tr>
+ <td class="mono">scrapes/2026-02-04/all_jobs_dedup.csv</td>
+ <td>Listing dédupé pour Feb 4 (le 1er run, pas de cross-vague).</td>
+ </tr>
+ <tr><td colspan="2" style="text-align:center;color:var(--skn-muted)">… idem pour 2026-02-27 · 2026-03-27 · 2026-04-22 …</td></tr>
+ </tbody>
+ </table>
+
+ <div class="callout">
+ <div class="label">Insight clé pour SKILLNAV</div>
+ <p style="margin-bottom:0">
+ C'est <strong>parce que le dédoublonnage est fait à la source</strong> que chaque <code>data_raw/</code>
+ contient des fiches uniques. Pas de jobs dupliqués cross-vagues. Conséquence pour nous :
+ après la réorganisation par mois de publication, on garde directement
+ <code>posted_date</code> et <code>publication_month</code> dans les records SKILLNAV. C'est
+ un proxy <strong>émergence</strong>, pas <em>longévité</em>. Le concept de "panel" basé sur
+ les dates de scrape est devenu obsolète après la réorg.
+ </p>
+ </div>
+</section>
+
+<!-- ─── 13. CHOIX TECHNIQUES ─────────────────────────────────────────── -->
+<section id="choix">
+ <h2>13 · Pourquoi ces choix techniques ?</h2>
+
+ <div class="grid-2">
+ <div class="card success">
+ <h4 style="margin-top:0">✓ YAML (et pas JSON, CSV ou XML)</h4>
+ <ul style="margin-bottom:0">
+ <li>Strings multilignes natives (description 30k chars sans escaping)</li>
+ <li>Lisible humainement (review manuelle facile)</li>
+ <li>Pydantic-compatible (parse en objets typés directement)</li>
+ <li>1 fichier = 1 job → diff Git lisible si retraitement</li>
+ </ul>
+ </div>
+ <div class="card success">
+ <h4 style="margin-top:0">✓ Stockage par date <code>{YYYY-MM-DD}/</code></h4>
+ <ul style="margin-bottom:0">
+ <li>Permet de relancer une seule vague sans tout retraiter</li>
+ <li>Facilite l'analyse temporelle (time-series d'émergence des skills)</li>
+ <li>Compatible <code>git log</code> / pull incrémental</li>
+ <li>Auto-documenté : "où sont les fiches publiées en mars 2026 ?" → <code>2026-03/</code></li>
+ </ul>
+ </div>
+ <div class="card success">
+ <h4 style="margin-top:0">✓ Pipeline en 5 étapes séparées</h4>
+ <ul style="margin-bottom:0">
+ <li>Chaque étape produit un artefact persistant (HTML, YAML, CSV)</li>
+ <li>Idempotente : skip les fichiers déjà traités</li>
+ <li>Réversible : re-jouer étape 5 sans toucher au 1-4</li>
+ <li>Modulaire : remplacer Z.ai par Claude = changer 1 fichier</li>
+ </ul>
+ </div>
+ <div class="card success">
+ <h4 style="margin-top:0">✓ JSON-LD primary + BS4 fallback</h4>
+ <ul style="margin-bottom:0">
+ <li>JSON-LD = schema.org embedded → données déjà structurées par BuiltIn</li>
+ <li>90% de précision sur title/company/url/posted_date</li>
+ <li>BS4 prend le relais sur les 10% de champs manquants</li>
+ <li>Robuste aux changements de design HTML</li>
+ </ul>
+ </div>
+ <div class="card warning">
+ <h4 style="margin-top:0">⚠ Choix discutables</h4>
+ <ul style="margin-bottom:0">
+ <li><strong>Z.ai vs Claude :</strong> moins cher mais classification potentiellement
+ moins fine. <strong>À benchmarker dans notre §N2.</strong></li>
+ <li><strong>Pas de salary_range :</strong> il n'extrait pas la compensation
+ alors qu'elle est souvent dans la description. Manque de notre côté.</li>
+ <li><strong>Pas de LICENSE :</strong> usage académique OK avec citation, mais
+ publication commerciale interdite.</li>
+ </ul>
+ </div>
+ <div class="card">
+ <h4 style="margin-top:0">→ Ce qu'on a transposé en SKILLNAV</h4>
+ <ul style="margin-bottom:0">
+ <li>Stockage par date → on garde la convention</li>
+ <li>Pipeline en étapes → notre <code>_import_alexey.py</code> respecte le principe</li>
+ <li>Skills catégorisés en 10 dimensions → repris dans <code>skills_categorized</code></li>
+ <li>Classification ai-first/support/ml-first → conservée brute + future re-classif Claude</li>
+ </ul>
+ </div>
+ </div>
+</section>
+
+<!-- ─── 14. INTEGRATION SKILLNAV ──────────────────────────────────────── -->
+<section id="integration">
+ <h2>14 · Comment SKILLNAV s'en sert (Mouvement A)</h2>
+ <p>
+ Le script <code>sources/collected/intl-ai-corpus/_import_alexey.py</code> orchestre tout :
+ </p>
+
+ <pre><span class="c"># Pipeline d'import (script ~530 lignes)</span>
+<span class="c"># Iteration par mois de publication (depuis la reorganisation 2026-05-15)</span>
+<span class="k">for</span> month <span class="k">in</span> sorted(data_structured.iterdir()): <span class="c"># 2025-08, 2025-11, 2026-01,..., 2026-04, unknown</span>
+ <span class="k">for</span> yaml_file <span class="k">in</span> data_structured/month/*.yaml:
+ structured = yaml.safe_load(yaml_file)
+ raw = yaml.safe_load(data_raw/month/yaml_file.name)
+ <span class="c"># merge : raw fournit description+location, structured fournit skills+classif</span>
+ record = merge_and_infer_skillnav_fields(raw, structured)
+ record[<span class="s">"publication_month"</span>] = month <span class="c"># nouveau champ</span>
+ write json + markdown <span class="k">in</span> sources/collected/intl-ai-corpus/postings/NNNN.{json,md}</pre>
+
+ <h4>Champs disponibles depuis data_raw + data_structured (sans transformation)</h4>
+ <ul>
+ <li><code>description</code>, <code>title</code>, <code>company</code>, <code>posted_date</code>, <code>url</code></li>
+ <li><code>skills_categorized</code> (10 dimensions) — copie directe</li>
+ <li><code>responsibilities</code>, <code>use_cases</code> — copie directe</li>
+ <li><code>ai_classification</code> + <code>ai_classification_reasoning</code> — copie + flag source LLM</li>
+ <li><code>is_customer_facing</code>, <code>is_management</code> — copie</li>
+ <li><code>company_stage</code>, <code>company_focus</code> — copie</li>
+ </ul>
+
+ <h4>Champs inférés par SKILLNAV (notre logique)</h4>
+ <ul>
+ <li><code>country</code> + <code>city_inferred</code> — regex sur location</li>
+ <li><code>job_family</code> — taxonomie SKILLNAV (13 familles)</li>
+ <li><code>domains_iaml</code> — heuristique sur skills + description</li>
+ <li><code>remote_policy</code> — regex sur description</li>
+ <li><code>contract_type</code> — mapping <code>FULL_TIME</code> → <code>CDI</code> (etc.)</li>
+ <li><code>publication_month</code> — mois de publication (dérivé de <code>posted_date</code>, ex: <code>"2026-02"</code>)</li>
+ </ul>
+
+ <h3>Résultat de l'import</h3>
+ <table>
+ <thead><tr><th>Indicateur</th><th>Valeur</th></tr></thead>
+ <tbody>
+ <tr><td>Fiches importées</td><td class="num"><strong>3 087</strong> (1 YAML mal formé skippé)</td></tr>
+ <tr><td>Pays distincts</td><td class="num">6 (US 1 381 · IN 835 · GB 283 · DE 53 · NL 40 · INTL 495)</td></tr>
+ <tr><td>Familles SKILLNAV</td><td>AI_ENGINEER 2 760 · ML_ENGINEER 116 · DATA_ENGINEER 68 · …</td></tr>
+ <tr><td>Distribution AI (Z.ai)</td><td>ai-first 73.2% · ai-support 24.0% · ml-first 2.1%</td></tr>
+ <tr><td>Coût direct</td><td class="num">$0 (gratuit, pas de scraping live)</td></tr>
+ <tr><td>RGPD compliant</td><td>100% (descriptions publiques, pas de PII candidat)</td></tr>
+ </tbody>
+ </table>
+</section>
+
+<!-- ─── 15. FAQ ───────────────────────────────────────────────────────── -->
+<section id="faq">
+ <h2>15 · FAQ — questions probables du jury</h2>
+
+ <details class="faq">
+ <summary>Q1. Vous avez juste copié un travail existant ?</summary>
+ <div class="answer">
+ Non — nous avons <strong>importé une donnée publique secondaire avec attribution claire</strong>,
+ comme on importerait un dataset OECD ou WEF. Ce qu'on a vraiment fait :
+ <ol>
+ <li>Transformation du schéma upstream (10 dimensions) vers notre schéma Pydantic SKILLNAV (13 familles + domains_iaml + organisation par mois de publication)</li>
+ <li>Inférence des champs manquants (country, job_family, remote_policy, contract_type)</li>
+ <li>Liaison cross-tables avec nos fiches MA (axe comparatif inédit)</li>
+ <li>Ré-extraction Claude prévue sur 10% pour mesurer accord inter-LLM</li>
+ </ol>
+ <p style="margin-bottom:0">C'est de la <strong>recherche de seconde main</strong>, méthodologie
+ standard en sciences sociales et économiques.</p>
+ </div>
+ </details>
+
+ <details class="faq">
+ <summary>Q2. Pourquoi 3 087 fiches dans le panel ?</summary>
+ <div class="answer">
+ Le chiffre 2 445 vient de son README qui était à jour à un moment antérieur. Le repo
+ a continué d'être alimenté (4 vagues : Feb 4, Feb 27, Mar 27, Apr 22 2026), et le clone
+ qu'on a fait le 2026-05-15 contient toutes les vagues = 3 087 fiches uniques.
+ <strong>+642 fiches bonus par rapport au chiffre annoncé.</strong>
+ </div>
+ </details>
+
+ <details class="faq">
+ <summary>Q3. Quelle est la robustesse de la classification Z.ai ?</summary>
+ <div class="answer">
+ Z.ai GLM-4.7 est un LLM top-tier sur les tâches structurées en 2026. Le dataset publie un
+ <code>extract_process.md</code> détaillé avec 3 exemples annotés et règles explicites.
+ Sa cohérence est validée par :
+ <ul>
+ <li>Distribution stable cross-vagues (73% ai-first à toutes les dates)</li>
+ <li>Reasoning explicite stocké pour chaque classification</li>
+ <li>Cas-limite documentés (Forward Deployed Engineer → ai-first ; AI Data Engineer → ai-support)</li>
+ </ul>
+ <strong>Notre §N2 va re-classifier 10% avec Claude pour mesurer l'accord inter-modèles</strong>
+ — c'est exactement le type de validation croisée que le jury va apprécier.
+ </div>
+ </details>
+
+ <details class="faq">
+ <summary>Q4. Pas de LICENSE — est-ce qu'on a le droit d'utiliser ces données ?</summary>
+ <div class="answer">
+ Trois éléments rendent l'usage défendable :
+ <ol>
+ <li><strong>Repo public sur GitHub</strong> — la mise en accès public sans LICENSE est interprétée
+ en jurisprudence comme un consentement à l'usage non-commercial avec attribution</li>
+ <li><strong>Cadre académique</strong> M242 ENSA — fair use research bien établi</li>
+ <li><strong>Travail dérivé</strong> — on ne redistribue PAS ses YAML bruts, on les transforme
+ dans notre schéma SKILLNAV avec citation explicite</li>
+ </ol>
+ <p style="margin-bottom:0">Si la source upstream devait être remplacée, on peut le faire en 5–7 jours en re-scrapant nous-mêmes.</p>
+ </div>
+ </details>
+
+ <details class="faq">
+ <summary>Q5. Pourquoi ne pas avoir tout re-scraper soi-même ?</summary>
+ <div class="answer">
+ <ol>
+ <li><strong>Temps :</strong> 5–7 jours de scraping + LLM (vs 1 jour d'import)</li>
+ <li><strong>Coût :</strong> ~$30-50 LLM + $50 proxy Oxylabs minimum</li>
+ <li><strong>Risque anti-bot :</strong> builtin.com peut bloquer notre IP/UA</li>
+ <li><strong>Reproductibilité :</strong> on cite une source publique stable plutôt qu'un scrape éphémère</li>
+ <li><strong>Valeur académique :</strong> documenter la méthodologie de collecte ajoute du poids au rapport L5</li>
+ </ol>
+ </div>
+ </details>
+
+ <details class="faq">
+ <summary>Q6. Que fait-on des 176 MB de HTML bruts ?</summary>
+ <div class="answer">
+ Ils restent en local (gitignorés, non commités) au cas où :
+ <ul>
+ <li>On veut extraire un champ initialement omis (compensation, benefits)</li>
+ <li>On veut re-passer les descriptions à Claude (vs Z.ai) pour le §N2 NER comparatif</li>
+ <li>On a besoin d'auditer un cas-limite manuellement</li>
+ </ul>
+ <strong>Le re-parsing local est gratuit et idempotent</strong> — toujours mieux que de re-scraper.
+ </div>
+ </details>
+
+ <details class="faq">
+ <summary>Q7. Pourquoi BuiltIn et pas LinkedIn / Indeed international ?</summary>
+ <div class="answer">
+ builtin.com est <strong>plus permissif côté scraping</strong> (pas d'auth obligatoire,
+ JSON-LD propre) et concentré sur <strong>les startups tech</strong> (Cloudflare, Datadog,
+ Capital One Tech, Optum, OpenAI, Mistral AI, Speechify, etc.) — exactement les boîtes qui
+ <em>structurent</em> les rôles AI Engineer. LinkedIn / Indeed sont plus larges mais
+ anti-bot stricts (déjà $3.83 chez Apify pour 207 fiches LinkedIn MA).
+ <p style="margin-bottom:0"><strong>Mvt C (à venir) :</strong> LinkedIn US/UK via Apify
+ en complément pour 2 000-3 000 fiches additionnelles.</p>
+ </div>
+ </details>
+
+ <details class="faq">
+ <summary>Q8. Comment ce dataset contribue au sujet M242 (3 axes Web Mining) ?</summary>
+ <div class="answer">
+ <strong>Axe Content Mining :</strong> on utilise sa description full text + ses skills_categorized
+ pour entraîner notre NER comparatif (BERT vs CamemBERT vs DistilBERT) sur un corpus assez
+ large pour avoir des résultats stables.
+ <br/><br/>
+ <strong>Axe Structure Mining :</strong> ses 3 087 fiches × 10 dimensions de skills permettent
+ de construire un graphe Skill ↔ Job dense pour Neo4j + PageRank + Louvain communities.
+ Sans ces données, le graphe MA seul (326 fiches) serait sparse.
+ <br/><br/>
+ <strong>Axe Usage Mining :</strong> les 6 mois de publication Août 2025 → Avril 2026 = 6 points de mesure
+ pour le forecasting (ARIMA / Prophet / LSTM) de l'émergence des skills genai/RAG/LangChain.
+ La réorganisation par mois de publication (au lieu de date de scrape) rend cette analyse temporelle naturelle.
+ </div>
+ </details>
+</section>
+
+<!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
+<div class="footer">
+ <p>
+ <strong>SKILLNAV</strong> — Skills Navigator · Observatoire des compétences IA &amp; Data Science par Web Mining<br/>
+ Projet académique M242 — ENSA-Tétouan · Pr. Imad Sassi · Soutenance 28 mai 2026<br/>
+ Karamo Sylla &amp; Bachirou Konaté · Mai 2026
+ </p>
+ <p style="margin-top: var(--s-3); font-size:12px">
+ Ce guide a été généré le 2026-05-15 après l'import du Mouvement A.
+ Pour les détails technique d'import, voir <code>sources/collected/intl-ai-corpus/_import_alexey.py</code>
+ et <code>sources/collected/intl-ai-corpus/README.md</code>.
+ </p>
+</div>
+
+</main>
+</div>
+
+<script>
+ // Highlight TOC entry on scroll
+ const links = document.querySelectorAll('.toc a');
+ const sections = Array.from(links).map(a => document.querySelector(a.getAttribute('href'))).filter(Boolean);
+ const onScroll = () => {
+ const y = window.scrollY + 100;
+ let active = sections[0];
+ for (const s of sections) if (s.offsetTop <= y) active = s;
+ links.forEach(a => a.classList.toggle('active', a.getAttribute('href') === '#' + active.id));
+ };
+ window.addEventListener('scroll', onScroll, { passive: true });
+ onScroll();
+</script>
+</body>
+</html>

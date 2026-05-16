@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-1828",
+  "source": "intl-ai-corpus",
+  "source_ref": "8374499",
+  "source_url": "https://builtin.com/job/conversational-ai-automation-engineer-azure/8374499",
+  "title": "Conversational AI & Automation Engineer (Azure)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Johnson Controls",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "100,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Building technologies and solutions for smart, sustainable\nbuildings",
+  "industries": [
+    "Other",
+    "Security"
+  ],
+  "description": "Job Title: Azure Automation & DevOps Engineer\n\nAbout the Role\n\nWe’re looking for an Azure Automation & DevOps Engineer who\ncan build, maintain, and improve automation across our cloud\nenvironment. This role combines hands‑on scripting, Azure\nDevOps practices, and conversational AI automation. You’ll\nwork in a hybrid setup, collaborating with cloud engineers,\ndevelopers, and operations teams to streamline processes,\nreduce manual work, and support modern automation\ninitiatives.\n\nKey Responsibilities\n\n- Build and maintain automation using PowerShell, Azure\n  Automation Runbooks, Logic Apps, and Functions.\n- Support CI/CD pipelines in Azure DevOps, including build,\n  release, and deployment automation.\n- Develop and maintain infrastructure‑as‑code using ARM (based\n  on team standards).\n- Create and manage automation workflows for provisioning,\n  monitoring, patching, and routine operational tasks.\n- Work with Conversational AI tools (Azure Bot Service, Power\n  Virtual Agents, Copilot Studio) to automate user\n  interactions and service requests.\n- Integrate bots and automation with backend systems using\n  APIs, webhooks, and Azure services.\n- Troubleshoot automation failures, pipeline issues, and\n  script errors; implement long‑term fixes.\n- Collaborate with cloud, security, and application teams to\n  ensure automation follows best practices.\n- Maintain documentation for scripts, workflows, pipelines,\n  and automation processes.\n- Support governance, standards, and reusable automation\n  frameworks across the organization.\n\nCore Skills & Technical Knowledge\n\nAzure Automation\n\n- PowerShell scripting (advanced level).\n- Azure Automation Runbooks (PowerShell & Python).\n- Logic Apps, Functions, Event Grid, and Automation Accounts.\n- Azure Monitor alerts, action groups, and automated\n  remediation.\n\nDevOps\n\n- Azure DevOps Pipelines (YAML or Classic).\n- Git branching, version control, and code reviews.\n- CI/CD for applications, infrastructure, and automation.\n- Experience with IaC tools (ARM, Bicep, Terraform).\n\nConversational AI & Automation\n\n- Azure Bot Service or Power Virtual Agents.\n- Copilot Studio or similar conversational AI tools.\n- API integrations, REST endpoints, and backend automation.\n- Ability to design simple conversational flows and automate\n  service requests.\n\nGeneral Cloud & Ops Skills\n\n- Azure resource management and governance basics.\n- Understanding of networking, identity, and security\n  fundamentals.\n- Familiarity with monitoring, logging, and incident response\n  workflows.\n\nQualifications\n\n- 3–6+ years of experience in Azure automation, DevOps, or\n  cloud engineering.\n- Strong PowerShell,Python scripting background.\n- Hands‑on experience with Azure DevOps pipelines.\n- Exposure to conversational AI tools or willingness to learn.\n- Experience working in hybrid or Agile environments.\n- Good communication skills and ability to work with\n  cross‑functional teams.\n\nNice to Have\n\n- Experience with Microsoft Graph API.\n- Knowledge of Python for automation.\n- Familiarity with ServiceNow integrations or workflow\n  automation.\n- Experience building reusable automation frameworks.\n- Azure certifications (AZ‑104, AZ‑204, AZ‑400, AI‑102).\n",
+  "skills_required": [
+    "Azure Bot Service",
+    "Copilot Studio",
+    "Power Virtual Agents",
+    "ServiceNow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain automation using PowerShell, Azure Automation Runbooks, Logic Apps, and Functions",
+    "Support CI/CD pipelines in Azure DevOps, including build, release, and deployment automation",
+    "Develop and maintain infrastructure-as-code using ARM templates",
+    "Create and manage automation workflows for provisioning, monitoring, patching, and routine operational tasks",
+    "Work with Conversational AI tools (Azure Bot Service, Power Virtual Agents, Copilot Studio) to automate user interactions and service requests",
+    "Integrate bots and automation with backend systems using APIs, webhooks, and Azure services",
+    "Troubleshoot automation failures, pipeline issues, and script errors with long-term fixes",
+    "Maintain documentation for scripts, workflows, pipelines, and automation processes"
+  ],
+  "use_cases": [
+    "Automating user interactions and service requests via conversational bots",
+    "Cloud infrastructure provisioning and monitoring automation",
+    "Operational task automation including patching and routine maintenance",
+    "CI/CD pipeline automation for applications and infrastructure",
+    "Backend system integration for automated workflows"
+  ],
+  "tools_mentioned": [
+    "ARM Templates",
+    "Azure Automation Runbooks",
+    "Azure DevOps Pipelines",
+    "Azure Functions",
+    "Azure Logic Apps",
+    "Azure Monitor",
+    "Bicep",
+    "CI/CD",
+    "Git",
+    "Microsoft Graph API",
+    "REST APIs",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Azure Bot Service",
+    "Copilot Studio",
+    "Power Virtual Agents"
+  ],
+  "languages_programming": [
+    "PowerShell",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying\nconversational AI systems using Azure Bot Service, Power\nVirtual Agents, and Copilot Studio. While primarily a\nDevOps/automation role, it includes direct responsibility\nfor designing conversational flows and implementing AI-\npowered bots that automate user interactions, which\nqualifies as ai-first work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Azure Bot Service",
+      "Power Virtual Agents",
+      "Copilot Studio"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Azure Logic Apps",
+      "Azure Functions",
+      "Azure Monitor",
+      "Microsoft Graph API"
+    ],
+    "ops": [
+      "Azure Automation Runbooks",
+      "Azure DevOps Pipelines",
+      "CI/CD",
+      "ARM Templates",
+      "Bicep",
+      "Terraform",
+      "Git"
+    ],
+    "languages": [
+      "PowerShell",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "ServiceNow"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

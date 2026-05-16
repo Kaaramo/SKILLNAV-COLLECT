@@ -1,0 +1,115 @@
+{
+  "job_id": "intl-ai-corpus-1691",
+  "source": "intl-ai-corpus",
+  "source_ref": "8577332",
+  "source_url": "https://www.builtinla.com/job/software-engineer-ai/8577332",
+  "title": "Software Engineer (AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Litify",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Bessemer Venture Partners backed",
+  "company_focus": "All-in-one legal operating platform for law firms and legal\ndepartments",
+  "industries": [
+    "Cloud",
+    "Legal Tech",
+    "Professional Services",
+    "Software"
+  ],
+  "description": "About Us\n\nAt Litify, we’re revolutionizing the Legal industry by being\nthe platform powering legal’s top performers. As a\ntrailblazer in legal technology, Litify delivers an all-in-\none legal operating solution that empowers law firms and\nlegal departments to achieve consistent success by\ncontinually standardizing, measuring, and improving their\nlegal operations.\n\nOur mission is clear: to deliver better business outcomes to\nour clients, so they can focus on delivering the best legal\nservice and outcomes to their clients. 400+ enterprise\nbusinesses and 55K+ legal professionals trust Litify to\namplify their impact with innovative technology and service\nthat stands the test of time.\n\nBacked by Bessemer Venture Partners, Litify is proud to be\nrecognized as one of Inc. 5000 and Deloitte Technology Fast\n500’s fastest-growing private companies in America along\nwith numerous awards for our unparalleled software. With\noffices in the vibrant cities of New York and New Orleans,\nwe’re at the heart of legal innovation.\n\nAbout the Role\n\nLitify is looking for a Software Engineer to join our\nEngineering team! As an Engineer, your main focus will be to\nwrite clean and scalable code to run on AWS services (e.g.\nLambda, Fargate) and Salesforce. You will also assist with\nthe design, analysis, development, implementation, and\ndeployment of new data-driven applications. The ideal\ncandidate has the ability to function in an agile software\ndevelopment lifecycle and will thrive in a hands-on,\nfocused, productive and team-oriented environment.\n\nIn this role, you will:\n\n- Write scalable and maintainable Javascript for AWS services\n  (e.g. Lambda, Fargate)\n- Design, develop and monitor RESTful APIs\n- Utilize AWS to create cost effective and efficient services\n  for file migrations\n- Create clean and organized Cloud Formations Templates and\n  deploy stacks to hundreds of customers\n- Manage the security and organization of millions of files in\n  S3\n\nTo be successful in this role, you have (required):\n\n- 5+ years of experience with a backend programing language\n  (preferably Node.js)\n- 2+ years experience working in a cloud environment\n  (preferably AWS)\n- A drive to continue to improve your skillset and take on\n  more challenging projects\n- A willingness to help educate and grow teammates\n- An ability to effectively communicate with peers in\n  Engineering and Product\n\nNice-to-have:\n\n- Familiarity with AWS or Salesforce\n- 3+ years of Node.js experience\n- Serverless architecture on AWS (API Gateway, Lambda,\n  DynamoDB, S3)\n- AWS certifications, especially “AWS Certified Developer -\n  Associate”\n- Networking experience\n- Cybersecurity experience\n- CI/CD experience\n- Multi-account AWS account architecture\n- AWS CDK experience\n- AWS CloudFormation experience\n- Electron experience\n\nDisclosure:\n\nThe estimated base salary pay range for this role is\n$110,000-120,000. You may also be offered a bonus and\nbenefits.\n\nOur salary ranges are based on paying competitively for our\nsize and industry, and are one part of many compensation,\nbenefits and other reward opportunities we provide.\n\nIndividual pay rate decisions are based on a number of\nfactors, including qualifications for the role, experience\nlevel, skill set, and balancing internal equity relative to\npeers at the company.\n\nThe range above is for the expectations as laid out in the\njob description, however we are often open to a wide variety\nof profiles, and recognize that the person we hire may be\nless experienced (or more senior) than this job description\nas posted. If that ends up being the case, the updated\nsalary range will be communicated to you as a candidate.\n\nReady to make a difference with us? Discover more about\nLitify and explore our open roles at www.litify.com. Connect\nwith us on Instagram (@LitifyHQ), Twitter (@LitifyHQ), or\nLinkedIn.\n",
+  "skills_required": [
+    "Electron",
+    "Salesforce"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Write scalable and maintainable Javascript for AWS services (Lambda, Fargate)",
+    "Design, develop and monitor RESTful APIs",
+    "Utilize AWS to create cost effective and efficient services for file migrations",
+    "Create clean and organized CloudFormation Templates and deploy stacks to hundreds of customers",
+    "Manage the security and organization of millions of files in S3",
+    "Assist with design, analysis, development, implementation, and deployment of data-driven applications"
+  ],
+  "use_cases": [
+    "Legal operations management platform",
+    "File migration services for legal documents",
+    "Cloud infrastructure deployment for law firms",
+    "Document storage and organization for legal professionals"
+  ],
+  "tools_mentioned": [
+    "API Gateway",
+    "AWS CDK",
+    "AWS Fargate",
+    "AWS Lambda",
+    "Amazon S3",
+    "CI/CD",
+    "CloudFormation",
+    "DynamoDB",
+    "RESTful APIs",
+    "Serverless architecture"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "Despite the \"Software Engineer (AI)\" title, the job\ndescription contains zero AI/ML responsibilities or skills.\nAll requirements are standard backend engineering: Node.js,\nAWS services, REST APIs, CloudFormation. The role builds\ngeneral legal tech infrastructure, not AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "RESTful APIs"
+    ],
+    "databases": [
+      "DynamoDB"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Lambda",
+      "AWS Fargate",
+      "Amazon S3",
+      "API Gateway",
+      "Serverless architecture"
+    ],
+    "ops": [
+      "CloudFormation",
+      "AWS CDK",
+      "CI/CD"
+    ],
+    "languages": [
+      "Node.js",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": [
+      "Salesforce",
+      "Electron"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

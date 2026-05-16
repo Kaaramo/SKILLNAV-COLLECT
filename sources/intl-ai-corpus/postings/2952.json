@@ -1,0 +1,149 @@
+{
+  "job_id": "intl-ai-corpus-2952",
+  "source": "intl-ai-corpus",
+  "source_ref": "9079110",
+  "source_url": "https://builtin.com/job/sr-ai-engineer/9079110",
+  "title": "Sr. AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Automation Anywhere",
+  "company_type": "entité morale privée",
+  "location": "Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-17",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "6,564 Employees",
+  "company_stage": "Late-stage / Public",
+  "company_focus": "Agentic Process Automation platform combining AI agents,\nRPA, and document processing",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Robotics",
+    "Software"
+  ],
+  "description": "About Us\n\nAutomation Anywhere is the leader in Agentic Process\nAutomation (APA), transforming how work gets done with AI-\npowered automation. Its APA system, built on the industry’s\nfirst Process Reasoning Engine (PRE) and specialized AI\nagents, combines process discovery, RPA, end-to-end\norchestration, document processing, and analytics—all\ndelivered with enterprise-grade security and governance.\nGuided by its vision to fuel the future of work, Automation\nAnywhere helps organizations worldwide boost productivity,\naccelerate growth, and unleash human potential.\n\nJob Description\n\n- We are looking for a full-stack associate to design,\n  configure, and deploy AI Agents and intelligent automation\n  solutions on an enterprise-grade Automation Anywhere GenAI\n  platform while leveraging RAG (Retrieval-Augmented\n  Generation) as the knowledge foundation for the Automation\n  Anywhere Enterprise Knowledge Base (EKB).\n- Full-stack knowledge of candidate will be used to integrate\n  upstream full stack bots/APIs and downstream AAA\n  Enterprise RPA Gen1, Gen2 (DocAI), and Gen3 (GenAI) bots,\n  and vice versa.\n- The Associate will define RAG success criteria (retrieval\n  accuracy, hallucination thresholds) and KPIs; inventory\n  knowledge sources (documents, databases) as an Enterprise\n  Knowledge Base.\n- Data sourcing plan and design end-to-end Agent flows\n  covering triggers, KB retrieval, LLM calls, and actions.\n- KB structure (chunking, fine-tuning) will be defined and\n  built using EKB. Prototype prompts and Agents will be\n  developed to produce functional test Chat/Agent\n  prototypes.\n- Agents and Prompts will be configured with a selected LLM\n  (Gemini/GPT-4) to generate Agent configurations and prompt\n  templates. Downstream API tasks (RPA steps/external calls)\n  will be integrated, followed by UAT deployment (publish\n  Agent/KB).\n- Upon successful UAT, the solution will be published to\n  Production via the Production Control Room, with BOT/Agent\n  monitoring as part of Hypercare.\n\nQualifications\n\n- Education: Bachelor’s or Master’s in Computer Science,\n  AI/ML, Data Science, or equivalent practical experience.\n- Experience: 1-3 years in software engineering; 1+ years\n  building AI-powered automation solutions in production.\n- Certifications (Preferred): Cloud AI certifications (AWS,\n  Azure, GCP); RPA certifications such as UiPath or\n  Automation Anywhere.\n- Scope & Growth Path: Implement designs under Senior Engineer\n  guidance; progress toward independent stakeholder\n  ownership.\n\nAgentic AI\n\n- Hands-on experience with LangChain, LangGraph, AutoGen, or\n  CrewAI.\n- Core agent patterns: tool usage, memory, multi-step\n  reasoning, validation and guardrails.\n- LLM APIs: OpenAI, Anthropic, Gemini, or open-source models;\n  structured prompt engineering.\n\nRAG & Vector Infrastructure\n\n- End-to-end RAG pipelines: ingestion, chunking, embedding,\n  vector stores, and retrieval evaluation.\n- Hands-on with vector databases; ability to diagnose and\n  improve retrieval quality.\n\nRPA\n\n- Hands-on with UiPath, Automation Anywhere, or Microsoft\n  Power Automate.\n- Bot workflows with exception handling, logging, and\n  enterprise system integrations.\n\nEngineering\n\n- Strong Python skills; experience with cloud AI services,\n  APIs, data pipelines, and event-driven systems.\n\nNice to Have\n\n- Exposure to LoRA / QLoRA fine-tuning approaches.\n- Agent observability and evaluation tooling such as LangSmith\n  or Arize.\n\nResponsibilities\n\n- Build and maintain multi-agent workflows from solution\n  design through production deployment.\n- Implement root-cause analysis, ERP/CRM/ITSM integrations,\n  and robust error handling.\n- Design and operate end-to-end RAG systems; continuously\n  monitor and improve retrieval quality.\n- Develop and maintain RPA tasks; integrate AI agents with RPA\n  and business logic.\n- Write unit and integration tests; contribute to CI/CD\n  pipelines and deployment automation.\n- Collaborate with senior engineers; document pipelines, agent\n  configurations, and operational runbooks.\n\nAll unsolicited resumes submitted to any\n@automationanywhere.com email address, whether submitted by\nan individual or by an agency, will not be eligible for an\nagency fee.\n",
+  "skills_required": [
+    "Anthropic API",
+    "AutoGen",
+    "Automation Anywhere",
+    "CrewAI",
+    "ERP/CRM/ITSM Integration",
+    "Gemini",
+    "LangChain",
+    "LangGraph",
+    "LoRA",
+    "Microsoft Power Automate",
+    "OpenAI API",
+    "Prompt Engineering",
+    "RAG",
+    "UiPath"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain multi-agent workflows from solution design through production deployment",
+    "Design and operate end-to-end RAG systems including ingestion, chunking, embedding, vector stores, and retrieval evaluation",
+    "Configure and deploy AI Agents with LLMs (Gemini/GPT-4) and prompt templates on the GenAI platform",
+    "Integrate AI agents with upstream/downstream systems including RPA bots, ERP/CRM/ITSM platforms, and external APIs",
+    "Develop and maintain RPA tasks with exception handling, logging, and enterprise system integrations",
+    "Define RAG success criteria and KPIs including retrieval accuracy and hallucination thresholds",
+    "Write unit and integration tests and contribute to CI/CD pipelines and deployment automation",
+    "Collaborate with senior engineers and document pipelines, agent configurations, and operational runbooks"
+  ],
+  "use_cases": [
+    "Enterprise Knowledge Base powered by RAG for organizational knowledge retrieval",
+    "Intelligent process automation combining AI agents with RPA workflows",
+    "Document processing and understanding via DocAI and GenAI agents",
+    "Multi-agent orchestration for enterprise business process automation",
+    "Automated ERP/CRM/ITSM integrations with AI-driven decision making"
+  ],
+  "tools_mentioned": [
+    "AWS AI Services",
+    "Arize",
+    "Azure AI Services",
+    "CI/CD",
+    "GCP AI Services",
+    "LangSmith",
+    "REST APIs",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "AutoGen",
+    "CrewAI",
+    "Gemini",
+    "LangChain",
+    "LangGraph",
+    "LoRA",
+    "OpenAI API",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, configuring, and\ndeploying AI Agents and RAG systems on Automation Anywhere's\nGenAI platform. The engineer works hands-on with LLMs, agent\nframeworks (LangChain, LangGraph), vector databases, and\nprompt engineering — all core AI/GenAI system building\nactivities.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "AutoGen",
+      "CrewAI",
+      "Prompt Engineering",
+      "RAG",
+      "OpenAI API",
+      "Anthropic API",
+      "Gemini",
+      "LoRA"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS AI Services",
+      "Azure AI Services",
+      "GCP AI Services"
+    ],
+    "ops": [
+      "LangSmith",
+      "Arize",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "UiPath",
+      "Automation Anywhere",
+      "Microsoft Power Automate",
+      "ERP/CRM/ITSM Integration"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

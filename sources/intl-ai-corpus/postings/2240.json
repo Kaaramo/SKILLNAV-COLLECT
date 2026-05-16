@@ -1,0 +1,136 @@
+{
+  "job_id": "intl-ai-corpus-2240",
+  "source": "intl-ai-corpus",
+  "source_ref": "8822201",
+  "source_url": "https://builtin.com/job/software-development-engineer-net-cloud-native-ai-tools/8822201",
+  "title": "Software Development Engineer - .NET, Cloud Native & AI Tools",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Roche",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "93,797 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global healthcare and pharmaceutical company developing\nmedicines and diagnostics",
+  "industries": [
+    "Healthtech",
+    "Biotech",
+    "Pharmaceutical"
+  ],
+  "description": "At Roche you can show up as yourself, embraced for the\nunique qualities you bring. Our culture encourages personal\nexpression, open dialogue, and genuine connections,  where\nyou are valued, accepted and respected for who you are,\nallowing you to thrive both personally and professionally.\nThis is how we aim to prevent, stop and cure diseases and\nensure everyone has access to healthcare today and for\ngenerations to come. Join Roche, where every voice matters.\n\nThe Position\n\nPrincipal Duties & Responsibilities:\n\n- As a Sr Software Engineer, you will design and develop\n  critical software components & applications.\n- You will be part of agile development team and would be\n  collaborating with multiple teams across different\n  locations\n- You will provide mentorship for team members and participate\n  in the interview panels to hire new members.\n- You will be required to communicate successfully with\n  multiple teams and many personalities.\n- You will perform code reviews to ensure quality of the\n  codebase.\n- You will be required to update skills by studying state-of-\n  the-art development tools, programming techniques; reading\n  professional publications; maintaining personal networks;\n- You will be required to identify opportunities for improving\n  system performance, reliability, security, and stability\n  then working with product owners to prepare backlog items\n  for the team.\n- Implement best practices based on company wide policies and\n  standards.\n- Promote internal best practices and coding conventions to\n  write tests for code, including creating comprehensive\n  unit, integration and system tests.\n- Contribute to the detailed technical & design documentation.\n- Assist in removing obstacles for the team to yield\n  successful releases.\n\nSkills & Experience:\n\n- 8+ years' software product development experience.\n- 3+ years of experience in programming large-scale enterprise\n  products & web applications.\n- Experience is designing APIs using REST Architectural Style\n- Experience in designing & implementing services using\n  various Microservices patterns and design principles.\n- Deep knowledge of the Microsoft Development Stack: C#,\n  Especially .NET Core/ .NET 6.0+\n- Deep knowledge of ASP.NET Core, Minimal APIs\n- Experience in using various AI tools for development (Github\n  co-pilot, MCP, Prompts, Claude and other)\n- Experience in Docker and Kubernetes.\n- Experience in AWS services including EKS, EC2, Elastic\n  cache, Non RDBMS, SNS and SQS.\n- Familiar with SDLC and programming design patterns.\n- Familiar with Agile methodology.\n- Familiar with DevOps principles & especially GitOps and\n  GitHub Actions.\n- Skilful at reviewing new feature impact on an application\n  and recognizing potential risks.\n- Skilled at analyzing performance in a service.\n- Uses time effectively and efficiently.\n- Detailed oriented, professional and possesses a positive\n  work attitude.\n- Communicate professionally both verbally and in writing.\n- Bachelor’s/Master’s Degree in Computer Science or\n  equivalent.\n\n\n\n\n\nWho we are\n\nA healthier future drives us to innovate. Together, more\nthan 100’000 employees across the globe are dedicated to\nadvance science, ensuring everyone has access to healthcare\ntoday and for generations to come. Our efforts result in\nmore than 26 million people treated with our medicines and\nover 30 billion tests conducted using our Diagnostics\nproducts. We empower each other to explore new\npossibilities, foster creativity, and keep our ambitions\nhigh, so we can deliver life-changing healthcare solutions\nthat make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.\n",
+  "skills_required": [
+    "Claude",
+    "GitHub Copilot",
+    "MCP",
+    "Prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop critical software components and applications",
+    "Collaborate with multiple agile teams across different locations",
+    "Provide mentorship for team members and participate in hiring interviews",
+    "Perform code reviews to ensure quality of the codebase",
+    "Identify opportunities for improving system performance, reliability, security, and stability",
+    "Implement best practices and promote coding conventions including comprehensive testing",
+    "Contribute to technical and design documentation",
+    "Assist in removing obstacles for successful releases"
+  ],
+  "use_cases": [
+    "Large-scale enterprise software products for healthcare",
+    "Web applications supporting pharmaceutical and diagnostics operations",
+    "Microservices-based systems for healthcare solutions",
+    "Cloud-native applications on AWS infrastructure"
+  ],
+  "tools_mentioned": [
+    ".NET 6.0+",
+    ".NET Core",
+    "ASP.NET Core",
+    "AWS EC2",
+    "AWS EKS",
+    "AWS ElastiCache",
+    "AWS SNS",
+    "AWS SQS",
+    "Docker",
+    "GitHub Actions",
+    "GitOps",
+    "Kubernetes",
+    "Microservices",
+    "Minimal APIs",
+    "NoSQL databases",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "Claude",
+    "GitHub Copilot",
+    "MCP",
+    "Prompt engineering"
+  ],
+  "languages_programming": [
+    "C#"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a general software engineering role that requires\nexperience USING AI tools for development (GitHub Copilot,\nClaude, etc.), not building or deploying AI systems. The\nrole focuses on .NET development, cloud-native applications,\nand microservices - AI tools are mentioned only as\nproductivity aids, not as the core work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "GitHub Copilot",
+      "Claude",
+      "MCP",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      ".NET Core",
+      ".NET 6.0+",
+      "ASP.NET Core",
+      "Minimal APIs",
+      "REST APIs",
+      "Microservices"
+    ],
+    "databases": [
+      "NoSQL databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS EKS",
+      "AWS EC2",
+      "AWS ElastiCache",
+      "AWS SNS",
+      "AWS SQS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions",
+      "GitOps"
+    ],
+    "languages": [
+      "C#"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

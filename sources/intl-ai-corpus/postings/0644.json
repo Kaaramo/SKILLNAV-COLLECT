@@ -1,0 +1,155 @@
+{
+  "job_id": "intl-ai-corpus-0644",
+  "source": "intl-ai-corpus",
+  "source_ref": "8313283",
+  "source_url": "https://builtin.com/job/ai-engineer/8313283",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "MVF",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-27",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "500 Employees",
+  "company_stage": null,
+  "company_focus": "Building AI agents for business operations and customer\noptimization",
+  "industries": [
+    "AdTech",
+    "Digital Media",
+    "eCommerce",
+    "Marketing Tech",
+    "Sales"
+  ],
+  "description": "AI Engineer  The Opportunity Our next frontier is a\nstrategic shift: We're evolving beyond traditional analytics\nto build AI agents that actively participate in our\noperations. Rather than using data to inform decisions,\nwe're creating intelligent systems that autonomously deliver\nbetter outcomes for customers and clients alike. You will\nbuild the systems that transform our data from a passive\nrecord into an active participant, learning from history to\nautonomously optimise the business. You'll be our first\ndedicated AI engineer, working directly with the Head of\nData. You'll collaborate weekly on architecture, especially\nin the first 6 months, to define the technical roadmap.\nYou'll own the build, but you're not figuring this out\nalone. We have a small data science team shipping\ntraditional ML such as lead scoring. Your remit is\nproduction of GenAI systems. However, we intentionally\noverlap deployment patterns, monitoring standards, and\nevaluation approaches so we build one coherent AI\ncapability. What you will do\n\n- Architect & Engineer Agentic Systems\n  - Build agents that act, not just answer: You will design\n    agents that perform deterministic actions based on\n    probabilistic reasoning. This means building systems\n    that can reliably analyse data, execute function calls,\n    and manage state across multi-step workflows without\n    getting stuck in loops.\n  - Production-Grade RAG: You will go beyond basic vector\n    search. You will implement hybrid search (keyword +\n    semantic), re-ranking strategies, and metadata filtering\n    to ensure our agents have the exact context they need to\n    make decisions.\n  - Structured Data Extraction: You will build pipelines that\n    turn unstructured conversations into structured data\n    that our downstream systems can use.\n\n- Establish AI Engineering Foundations\n  - Observability First: You will implement the \"nervous system\"\n    of our AI. You will choose and set up tools (e.g.,\n    LangSmith, LangFuse, ADK, or custom) to trace execution\n    chains, giving us visibility into why an agent made a\n    specific decision.\n  - Evals as a Service: You will build the testing harness. You\n    will create automated evaluation pipelines that test\n    prompts against \"Golden Datasets\" so we can deploy with\n    confidence, ensuring a prompt change doesn't degrade\n    performance.\n  - Cost & Latency Engineering: You will monitor token usage and\n    inference latency, optimising the trade-off between\n    model intelligence and speed/cost for different parts of\n    the chain.\n- Collaborate and Standardise\n  - Partner on Architecture: You will work with the Head of Data\n    to define the technical roadmap. You aren't just taking\n    tickets; you are helping decide what we build based on\n    technical feasibility and business value.\n  - Unify with Data Science: You will define shared standards\n    with our Data Science team on deployment patterns,\n    monitoring, and security, ensuring we build one coherent\n    AI platform, not silos.\n\nWhat This Role Requires:  Must Have\n\n- Python and service development: You write clean, typed,\n  production-ready code. You are comfortable with Pydantic\n  (for data validation), Asyncio (for handling concurrent\n  model calls), and FastAPI. You treat prompts as code:\n  versioned, tested, and decoupled from business logic.\n- Cloud-native experience: You have hands-on experience\n  deploying and operating containerised services on AWS (or\n  GCP/Azure) using CI/CD platforms (Jenkins, GitHub Actions,\n  CircleCI, BuildKite), cloud monitoring tools (Datadog,\n  Sumologic, NewRelic), and container orchestrators (EKS,\n  ECS). You're comfortable with Terraform for infrastructure\n  as code.\n- Hands-on LLM experience: You've built something real with\n  language models, whether production systems, serious side\n  projects, or internal tools. You understand that prompting\n  is engineering, not magic.\n\nNice to Have\n\n- Production GenAI at scale: Experience with structured\n  outputs, managing context window constraints, and handling\n  model latency/timeouts in user-facing applications. You\n  know how to evaluate a change in prompt logic before\n  deploying it.\n- Observability and evaluation pipelines: You've implemented\n  tracing for LLM workflows or built automated evaluation\n  against golden datasets.\n\nImportant Traits\n\n- Proactive Ownership & Communication: GenAI projects are\n  prone to hype. You have the confidence to manage\n  stakeholder expectations effectively, explaining trade-\n  offs between cost, latency, and quality. When blocked, you\n  don't just ask for help, you present options.\n- Translating \"Fuzzy\" to \"Formal\". Marketing problems are\n  often vague (\"Find better leads\"). You can take a fuzzy\n  business objective and break it down into a deterministic\n  engineering problem: a set of tools, a prompting strategy,\n  and a metric to measure success.\n- Pragmatism over Hype. You read the AI research papers, but\n  you deploy what works. You'd rather use a simple few-shot\n  prompt that is reliable and cheap than a complex\n  autonomous agent framework that is flaky and expensive.\n  You understand that \"boring\" code is easier to debug.\n\nThe Tech Reality  The Foundation (Fixed & Reliable) We\nbelieve in \"innovation tokens\". We spend them on the AI\napplication layer, not the infrastructure.\n\n- AWS: ECS/Fargate, ECR. We prioritise velocity over\n  complexity. CI/CD pipelines and Terraform to deploy,\n  essentially shipping containerised services without the\n  operational headache of managing raw Kubernetes clusters.\n- Data Layer: Snowflake & dbt. Our data is modeled, clean, and\n  accessible. You won't spend your first 3 months scraping\n  PDFs; you have rich, structured data ready to consume.\n\nThe Canvas (Your Architectural Decisions) The \"AI Layer\" is\ncurrently undefined. You will work with the Head of Data to\nselect the stack that fits our specific agentic needs.\n\n- Model Strategy: Totally open. We're pragmatic: we use\n  whatever model offers the best trade-off for the task, and\n  build the necessary infrastructure to access it securely.\n- Orchestration: Do we use a framework like LangChain or\n  LlamaIndex, or do we write lightweight, controllable\n  Python code? That's your call.\n- Observability: How do we trace complex agent workflows?\n  Options include LangSmith, LangFuse, or custom solutions.\n  You will choose the tool that gives us the best visibility\n  into \"why did the bot do that?\"\n- Retrieval/Memory: Do we use a vector database like Pinecone\n  or Weaviate? Do we leverage Snowflake Cortex for native\n  vector search to keep data in one place? How do we handle\n  long-term agent memory?\n- Evaluation: How do we unit test a prompt? You will define\n  the frameworks and \"Golden Datasets\" we use to measure\n  success.\n\nWhat We Offer\n\n- Architectural Authority: As the first hire, you define the\n  patterns and standards, not inherit legacy debt.\n- Engineering Leverage: You have the resources for proper\n  tools (LangSmith, Model APIs) and access to clean data\n  immediately.\n- Strategic Partnership: You work with the Head of Data as a\n  technical co-founder for internal AI products, shaping the\n  roadmap together.\n- High-Velocity Impact: We ship in weeks. Your agents will\n  directly touch spend and revenue.\n\nBenefits we offer:\n\n- Summer Fridays\n- Competitive holiday benefits - 25 days a year paid holiday,\n  plus 8 bank holidays (increases 1 day a year up to 30\n  days)\n- Hybrid working - 3 days a week in the office\n- Closed for Christmas holidays - Extra days not taken from\n  your annual holiday allowance.\n- Work from anywhere for 2 weeks a year\n- Life Assurance and Income Protection to protect your loved\n  ones\n- Benefits allowance for health, dental, and vision coverage\n- Six months paid maternity leave, and one month paid\n  paternity leave (subject to qualifying conditions)\n  inclusive of same-sex and adoptive parents\n- Defined Contribution Pension and Salary Sacrifice Scheme\n- Be Well: Our award-winning wellbeing and mental health\n  programme to support all MVFers and their families\n- Family Forward support for our MVF parents and their mini-\n  mes\n- 2 charity days a year\n- Free breakfast when in the office\n",
+  "skills_required": [
+    "LangChain",
+    "LlamaIndex",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and engineer AI agents that perform deterministic actions based on probabilistic reasoning and manage multi-step workflows",
+    "Implement production-grade RAG with hybrid search, re-ranking strategies, and metadata filtering",
+    "Build pipelines for structured data extraction from unstructured conversations",
+    "Implement observability tools and tracing systems to monitor agent decision-making and execution chains",
+    "Create automated evaluation pipelines with golden datasets to test prompts and ensure deployment confidence",
+    "Monitor and optimize token usage, inference latency, and the trade-off between model intelligence and cost",
+    "Collaborate with the Head of Data to define technical roadmap and architectural standards",
+    "Establish shared deployment patterns, monitoring standards, and security practices with the Data Science team"
+  ],
+  "use_cases": [
+    "AI agents that autonomously optimize business operations and deliver better outcomes for customers",
+    "Multi-step agentic workflows that execute function calls and manage state across complex tasks",
+    "RAG systems that provide agents with exact context for decision-making through hybrid search",
+    "Structured data extraction from unstructured conversations for downstream system consumption",
+    "Automated prompt evaluation and testing to ensure reliable agent performance in production"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Datadog",
+    "Docker",
+    "ECS",
+    "EKS",
+    "FastAPI",
+    "GCP",
+    "Kubernetes",
+    "LangFuse",
+    "LangSmith",
+    "Pinecone",
+    "Pydantic",
+    "Snowflake",
+    "Terraform",
+    "Weaviate",
+    "dbt",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LlamaIndex",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Asyncio",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is building AI agents that actively perform\nactions (function calls, multi-step workflows) and implement\nproduction-grade RAG systems. The role directly involves\ndesigning, building, and deploying GenAI systems including\nprompt engineering, evaluation frameworks, and orchestration\nof language models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "RAG",
+      "agents",
+      "function calling",
+      "LangChain",
+      "LlamaIndex"
+    ],
+    "ml": [],
+    "web": [
+      "Pydantic",
+      "FastAPI"
+    ],
+    "databases": [
+      "Snowflake",
+      "vector databases",
+      "Pinecone",
+      "Weaviate"
+    ],
+    "data": [
+      "dbt"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "EKS",
+      "ECS"
+    ],
+    "ops": [
+      "LangSmith",
+      "LangFuse",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Datadog"
+    ],
+    "languages": [
+      "Python",
+      "Asyncio"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

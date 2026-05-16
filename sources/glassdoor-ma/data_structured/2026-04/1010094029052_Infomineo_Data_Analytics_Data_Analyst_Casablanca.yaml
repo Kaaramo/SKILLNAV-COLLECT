@@ -1,0 +1,42 @@
+company:
+  name: Infomineo
+  stage: null
+  focus: null
+position:
+  title: Data Analytics - Data Analyst - Casablanca
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Forecasting
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web:
+    - next
+    databases:
+    - snowflake
+    data:
+    - data lake
+    - data warehouse
+    - hadoop
+    - spark
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    - scala
+    domains: []
+    other:
+    - consulting
+    - data visualization
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010094029052'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

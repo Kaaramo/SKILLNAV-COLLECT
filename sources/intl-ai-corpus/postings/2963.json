@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2963",
+  "source": "intl-ai-corpus",
+  "source_ref": "9081457",
+  "source_url": "https://builtin.com/job/ai-infrastructure-engineer/9081457",
+  "title": "AI Infrastructure Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Intercom",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "Berlin",
+  "country": "DE",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-17",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "900 Employees",
+  "company_stage": "Late-stage / Mature (founded 2011)",
+  "company_focus": "AI-powered customer service platform with AI agent Fin",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "Intercom is the AI Customer Service company on a mission to\nhelp businesses provide incredible customer experiences.\n\nOur AI agent Fin, the most advanced customer service AI\nagent on the market, lets businesses deliver always-on,\nimpeccable customer service and ultimately transform their\ncustomer experiences for the better. Fin can also be\ncombined with our Helpdesk to become a complete solution\ncalled the Intercom Customer Service Suite, which provides\nAI enhanced support for the more complex or high touch\nqueries that require a human agent.\n\nFounded in 2011 and trusted by nearly 30,000 global\nbusinesses, Intercom is setting the new standard for\ncustomer service. Driven by our core values, we push\nboundaries, build with speed and intensity, and consistently\ndeliver incredible value to our customers.\n\nWhat's the opportunity?\n\nWe’re looking for Senior+ AI Infrastructure Engineers to\nbuild the systems that train and serve Intercom’s next\ngeneration of AI products.\n\nIntercom is an AI company that builds from the GPU all the\nway up to a user agent that resolves millions of customer\nservice queries a month.\n\nYou’ll join a small, highly technical team working at the\ncutting edge of modern AI infrastructure. The AI Infra team\nbuilt the training pipelines and runs the inference for\ncustom models like Fin Apex, which outperforms frontier\nmodels in customer service tasks, and is the foundation of\nthe AI Group's full stack approach to AI.\n\nWe’re particularly interested in engineers who have:\n\n- A track record of working on model training or model\n  inference at scale, or on low‑level GPU coding (e.g. CUDA,\n  Triton). Experience with one is great, multiple is even\n  better.\n\nWhat will I be doing?\n\nAs a Senior AI Infrastructure Engineer focused on model\ntraining and inference, you will:\n\n- Implement and scale training pipelines for large transformer\n  and LLM models, from data ingestion and preprocessing\n  through distributed training and evaluation.\n- Build and optimize inference services that deliver\n  low‑latency, high‑reliability experiences for our\n  customers, including autoscaling, routing, and fallbacks.\n- Work on GPU‑level performance: tuning kernels, improving\n  utilization, and identifying bottlenecks across our\n  training and inference stack.\n- Collaborate closely with ML scientists to implement cutting\n  edge training and inference methods and bring them to\n  production.\n- Play an active role in hiring, mentoring, and developing\n  other engineers on the team.\n- Raise the bar for technical standards, reliability, and\n  operational excellence across Intercom’s AI platform.\n\nProfile we’re looking for:\n\nThese are indicative, not hard requirements\n\nWe’re looking to hire Senior+ AI Infrastructure Engineers.\nYou’re likely a great fit if:\n\n- You have 5+ years of experience in software engineering,\n  with a strong track record of shipping high‑quality\n  products or platforms.\n- You hold a degree in Computer Science, Computer Engineering,\n  or a related field (or you have equivalent experience with\n  very strong fundamentals).\n- You have hands‑on experience with one or more of the\n  following:\n- Comfortable working in production environments at meaningful\n  scale (traffic, data, or organizational).\n- You communicate clearly, can explain complex technical\n  topics to different audiences, and enjoy close\n  collaboration with both engineers and non‑engineers.\n- You take pride in strong technical fundamentals, love\n  learning, and are willing to invest in your own\n  development.\n- Have deep knowledge of at least one programming language\n  (for example Python, Ruby, Java, Go, etc.). Specific\n  language experience is less important than your ability to\n  write clean, reliable code and learn new stacks quickly.\n\nBonus skills & attributes\n\nNone of these are required, but they’re nice to have:\n\n- Experience at AI native companies that train and/or run\n  inference for their own models (e.g. modern AI labs or\n  AI‑native product companies).\n- Experience running training or inference workloads on\n  Kubernetes.\n- Experience with AWS or other major cloud providers.\n- Production experience with Python in ML or infrastructure\n  contexts.\n- Demonstrated passion for technology through personal\n  projects, open source, meetups, or publishing content\n  about your work and learnings\n\nBenefits\n\nWe are a well treated bunch, with awesome benefits! If\nthere’s something important to you that’s not on this list,\ntalk to us!\n\n- Competitive salary, annual bonus and equity\n- Regular compensation reviews - we reward great work!\n- Unlimited access to Claude Code and best-in-class AI tools;\n  experimentation & building is encouraged & celebrated.\n- Generous paid time off above statutory minimum\n- Hybrid working\n- MacBooks are our standard, but we also offer Windows for\n  certain roles when needed.\n- Fun events for employees, friends, and family!\n\n#LI-Hybrid\n\nPolicies\n\nIntercom has a hybrid working policy. We believe that\nworking in person helps us stay connected, collaborate\neasier and create a great culture while still providing\nflexibility to work from home. We expect employees to be in\nthe office at least three days per week.\n\nWe have a radically open and accepting culture at Intercom.\nWe avoid spending time on divisive subjects to foster a safe\nand cohesive work environment for everyone. As an\norganization, our policy is to not advocate on behalf of the\ncompany or our employees on any social or political topics\nout of our internal or external communications. We respect\npersonal opinion and expression on these topics on personal\nsocial platforms on personal time, and do not challenge or\nconfront anyone for their views on non-work related topics.\nOur goal is to focus on doing incredible work to achieve our\ngoals and unite the company through our core values.\n\nIntercom values diversity and is committed to a policy of\nEqual Employment Opportunity. Intercom will not discriminate\nagainst an applicant or employee on the basis of race,\ncolor, religion, creed, national origin, ancestry, sex,\ngender, age, physical or mental disability, veteran or\nmilitary status, genetic information, sexual orientation,\ngender identity, gender expression, marital status, or any\nother legally recognized protected basis under federal,\nstate, or local law.\n",
+  "skills_required": [
+    "CUDA",
+    "GPU kernel tuning",
+    "GPU programming",
+    "LLM training",
+    "distributed training",
+    "model inference",
+    "transformer models"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement and scale training pipelines for large transformer and LLM models, from data ingestion through distributed training and evaluation",
+    "Build and optimize inference services delivering low-latency, high-reliability experiences including autoscaling, routing, and fallbacks",
+    "Work on GPU-level performance: tuning kernels, improving utilization, and identifying bottlenecks across training and inference stacks",
+    "Collaborate with ML scientists to implement cutting-edge training and inference methods and bring them to production",
+    "Play an active role in hiring, mentoring, and developing other engineers on the team",
+    "Raise the bar for technical standards, reliability, and operational excellence across Intercom's AI platform"
+  ],
+  "use_cases": [
+    "AI customer service agent (Fin) that resolves millions of customer queries monthly",
+    "Custom model (Fin Apex) that outperforms frontier models in customer service tasks",
+    "Real-time low-latency inference for customer-facing AI interactions",
+    "Distributed training of large transformer and LLM models for customer service applications"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Kubernetes",
+    "Triton",
+    "autoscaling",
+    "data preprocessing"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "GPU kernel tuning",
+    "GPU programming",
+    "LLM training",
+    "distributed training",
+    "model inference",
+    "transformer models"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Python",
+    "Ruby"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building training pipelines and\ninference services for custom LLM/transformer models (like\nFin Apex), including GPU-level performance tuning with\nCUDA/Triton. The engineer works hands-on with model\ntraining, distributed training, and inference optimization —\ncore AI/ML system building work.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "CUDA",
+      "distributed training",
+      "model inference",
+      "transformer models",
+      "LLM training",
+      "GPU programming",
+      "GPU kernel tuning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "data preprocessing"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Triton",
+      "Kubernetes",
+      "autoscaling"
+    ],
+    "languages": [
+      "Python",
+      "Ruby",
+      "Java",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

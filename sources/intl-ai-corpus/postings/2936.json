@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-2936",
+  "source": "intl-ai-corpus",
+  "source_ref": "9068304",
+  "source_url": "https://builtin.com/job/lead-software-engineer-sr-ai-architect/9068304",
+  "title": "Lead Software Engineer (Sr AI Architect)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nielsen",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "30,034 Employees",
+  "company_stage": "Public",
+  "company_focus": "Media measurement and audience analytics",
+  "industries": [
+    "Digital Media",
+    "Information Technology",
+    "Analytics"
+  ],
+  "description": "Company Description\n\nAt Nielsen, we are passionate about our work to power a\nbetter media future for all people by providing powerful\ninsights that drive client decisions and deliver\nextraordinary results. Our talented, global workforce is\ndedicated to capturing audience engagement with content -\nwherever and whenever it’s consumed. Together, we are\nproudly rooted in our deep legacy as we stand at the\nforefront of the media revolution. When you join Nielsen,\nyou will join a dynamic team committed to excellence,\nperseverance, and the ambition to make an impact together.\nWe champion you, because when you succeed, we do too. We\nenable your best to power our future.\n\nJob Description\n\nReports To: VP of Cloud Governance, Infrastructure, and\nEmerging Technologies\n\nStrategic Mandate As the Lead AI Solutions\nArchitect/Engineer, your mission is to architect the\ntechnical foundation for Nielsen’s AI-driven evolution. You\nare not just building tools; you are industrializing\nAI—transitioning experimentals POCs into enterprise-grade,\ngoverned, and scalable engineering solutions. Reporting into\nthe Infrastructure and Emerging Technologies braintrust, you\nwill bridge the gap between complex business requirements\nand modern, cloud-native deployments.\n\nThe Bottom Line You will provide high-level expertise in\nsolving unique, complex problems with broad impact on the\nbusiness. You are responsible for designing and implementing\nAI solutions that range from Databricks modules to advanced\nAgents in Gemini and Glean. Your focus is unblocking teams\nand moving projects forward with minimal friction.\n\nCore Goals AI Industrialization: Architect and deploy LLM\norchestration and vector database solutions at scale.\nStakeholder Enablement: Partner with AI Product Managers and\nfunctional leads across AM/GN Tech to translate business\nopportunities into technical outcomes. Evangelism &\nCommunity: Lead the \"AI braintrust\" by guiding engineers and\nbuilding a robust community of AI and data product\ndevelopers. Governance Integration: Ensure every proposed\nsolution mentions FinOps (cost) and Governance (risk)\nimplications automatically.\n\nQualifications\n\nExpertise Areas & Skills Domain Authority: Technically\nprecise in LLM orchestration, Python, Java, and LangChain.\nPlatform Mastery: Advanced implementation experience with\nAWS Bedrock agent capabilities, Gemini, and ChatGPT.\nOperational Pragmatism: Experience building and successfully\nrolling out products in a fast-paced environment.\nConsultative Communication: Fluent English with the ability\nto challenge assumptions and identify strategic blind spots.\n\nRules of Engagement Precision over Prose: We value high-\ndensity language and scannable updates. Decision Support:\nDon't just provide options; recommend the path that balances\nrapid innovation with fiscal responsibility. Risk-First\nMentality: Proactively identify performance bottlenecks and\narchitectural risks before they impact the business.\n\nAdditional Information\n\nPlease be aware that job-seekers may be at risk of targeting\nby scammers seeking personal data or money. Nielsen\nrecruiters will only contact you through official job\nboards, LinkedIn, or email with a nielsen.com domain. Be\ncautious of any outreach claiming to be from Nielsen via\nother messaging platforms or personal email addresses.\nAlways verify that email communications come from an\n@nielsen.com address. If you're unsure about the\nauthenticity of a job offer or communication, please contact\nNielsen directly through our official website or verified\nsocial media channels.\n",
+  "skills_required": [
+    "ChatGPT/OpenAI API",
+    "Gemini",
+    "Glean",
+    "LLM orchestration",
+    "LangChain"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and deploy LLM orchestration and vector database solutions at enterprise scale",
+    "Design and implement AI solutions spanning Databricks modules to advanced agents in Gemini and Glean",
+    "Partner with AI Product Managers and functional leads to translate business opportunities into technical outcomes",
+    "Lead the AI braintrust community by guiding engineers and building a developer community",
+    "Integrate FinOps cost and Governance risk considerations into every proposed AI solution",
+    "Transition experimental POCs into enterprise-grade, governed, and scalable engineering solutions",
+    "Identify performance bottlenecks and architectural risks proactively"
+  ],
+  "use_cases": [
+    "LLM orchestration and vector database solutions at enterprise scale",
+    "AI agents using Gemini and Glean platforms",
+    "Databricks-based AI modules",
+    "Enterprise AI industrialization transitioning POCs to production",
+    "Cloud-native AI deployments with governance and cost controls"
+  ],
+  "tools_mentioned": [
+    "AI Governance",
+    "AWS Bedrock",
+    "Cloud-native deployments",
+    "Databricks",
+    "FinOps",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "ChatGPT/OpenAI API",
+    "Gemini",
+    "Glean",
+    "LLM orchestration",
+    "LangChain"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly responsible for architecting and\ndeploying LLM orchestration, vector database solutions, and\nAI agents (Gemini, Glean). The position involves building,\ndeploying, and industrializing AI solutions—transitioning\nPOCs to enterprise-grade systems. This is hands-on AI system\ndesign and implementation, not support work.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LLM orchestration",
+      "Gemini",
+      "ChatGPT/OpenAI API",
+      "Glean"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Databricks"
+    ],
+    "cloud": [
+      "AWS Bedrock",
+      "Cloud-native deployments"
+    ],
+    "ops": [
+      "FinOps",
+      "AI Governance"
+    ],
+    "languages": [
+      "Python",
+      "Java"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

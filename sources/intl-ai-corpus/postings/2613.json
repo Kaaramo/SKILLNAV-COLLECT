@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-2613",
+  "source": "intl-ai-corpus",
+  "source_ref": "8931572",
+  "source_url": "https://www.builtinla.com/job/data-ai-engineer-remote/8931572",
+  "title": "Data & AI Engineer (Remote)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "FortifyIQ",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-01",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "AI-driven analytics for semiconductor design and\nmanufacturing",
+  "industries": [
+    "Hardware",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "We’re seeking a Data & AI Engineer to develop intelligent\ndata pipelines and analytics solutions that power smarter\ndecisions across silicon design, verification, and\nmanufacturing. You’ll transform engineering data into\nactionable insights through automation, modeling, and\nvisualization.\n\nResponsibilities\n\n- Build and maintain data pipelines to support machine\n  learning and analytics workflows.\n- Collect, clean, and transform large, complex datasets from\n  engineering environments.\n- Develop and train predictive models for yield, performance,\n  and anomaly detection.\n- Automate recurring data analysis tasks and integrate models\n  into engineering processes.\n- Collaborate with design and software teams to embed AI-\n  driven insights into products.\n- Create dashboards and visualization tools for reporting and\n  decision-making.\n- Document code, models, and processes for transparency and\n  reproducibility.\n\nQualifications\n\n- Proficiency in Python and ML frameworks (TensorFlow,\n  PyTorch, Scikit-learn).\n- Strong skills in data manipulation (Pandas, NumPy, SQL).\n- Experience with workflow orchestration (Airflow, Spark, or\n  similar).\n- 3–5 years of experience in data engineering or applied AI.\n- Bachelor’s degree in Electrical Engineering, Computer\n  Science, or related field.\n\nPreferred / Plus\n\n- Familiarity with semiconductor design, verification, or\n  manufacturing datasets.\n- Understanding of statistical modeling and predictive\n  maintenance.\n- Experience with cloud environments (AWS, Azure, GCP) and\n  version control (Git).\n- Knowledge of MLOps principles (deployment, monitoring,\n  CI/CD).\n",
+  "skills_required": [
+    "PyTorch",
+    "Scikit-learn",
+    "Statistical modeling",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain data pipelines to support machine learning and analytics workflows",
+    "Collect, clean, and transform large, complex datasets from engineering environments",
+    "Develop and train predictive models for yield, performance, and anomaly detection",
+    "Automate recurring data analysis tasks and integrate models into engineering processes",
+    "Collaborate with design and software teams to embed AI-driven insights into products",
+    "Create dashboards and visualization tools for reporting and decision-making",
+    "Document code, models, and processes for transparency and reproducibility"
+  ],
+  "use_cases": [
+    "Predictive modeling for semiconductor manufacturing yield",
+    "Performance prediction for silicon design and verification",
+    "Anomaly detection in engineering and manufacturing data",
+    "Automated data analysis and reporting for engineering teams",
+    "AI-driven decision support for semiconductor design processes"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "CI/CD",
+    "GCP",
+    "Git",
+    "MLOps",
+    "NumPy",
+    "Pandas",
+    "Spark"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "Scikit-learn",
+    "Statistical modeling",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role involves developing and training predictive models\n(yield, performance, anomaly detection) using traditional ML\nframeworks like TensorFlow, PyTorch, and scikit-learn,\napplied to semiconductor engineering data. There is no\nmention of LLMs, GenAI, agents, or RAG — the focus is\nsquarely on classical ML/DL model development and data\npipeline engineering.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Statistical modeling"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Pandas",
+      "NumPy",
+      "Airflow",
+      "Spark"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Git",
+      "MLOps",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "Predictive maintenance"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

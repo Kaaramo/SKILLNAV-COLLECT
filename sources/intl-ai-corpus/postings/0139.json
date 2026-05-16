@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0139",
+  "source": "intl-ai-corpus",
+  "source_ref": "7141363",
+  "source_url": "https://builtin.com/job/generative-ai-machine-learning-engineer-nyc/7141363",
+  "title": "Generative AI / Machine Learning Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Medal",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-24",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "57 Employees",
+  "company_stage": null,
+  "company_focus": "Building agentic AI systems for gaming moments using world\nmodels and video understanding",
+  "industries": [
+    "Gaming",
+    "Mobile",
+    "Software"
+  ],
+  "description": "About General Intuition\n\nThe most powerful foundation models are trained on written\nwords. But human intelligence far exceeds language. Truly\nintelligent machines must move from words to worlds, and\nacquire the capacity to perceive, anticipate, and improvise.\nThey need to obtain a general intuition of reality.\n\nWe embrace games as the ultimate expression of ingenuity and\nproblem solving. General Intuition builds on the strength of\nMedal, the world’s largest and fastest-growing platform for\ngaming moments. Every year, our players capture billions of\ngameplay clips, each representing a unique, action-packed\nhighlight. Across countless environments, this diversity\nleads to uniquely capable agentic systems.\n\nFor the past year, we’ve been pushing the frontier across:\n\n- Agents capable of deep spatial and temporal reasoning\n- World models that provide training environments for those\n  agents, and\n- Video understanding with a focus on transfer beyond games\n\nWhat we're looking for:\n\n- Depth of XP: 4+ years of video machine-learning, with a\n  focus on image embedding and computer vision. Bonus for\n  applicants who have XP in generative AI, familiarity with\n  high throughput video inference/feature extraction\n- In-person: Looking to hire in NYC to contribute alongside\n  the product team. 3+ days in the office\n- Ownership & attention to detail: You see things through, and\n  can be responsible for end-to-end quality of complex\n  features.\n- Code Performance: Excellent understanding of code\n  performance and performance implications in production\n- Be result-driven: Everything we do is driven by the metrics\n  and performance of the feature. We move fast and ship\n  regularly\n- Measuring with metrics: Comfort with A/B testing and\n  measuring results with usage metrics\n- Gaming: A passion for games and the gaming communities, and\n  a user of Discord and other gaming-adjacent products. XP\n  working on gaming-related projects is a plus\n\nOur stack:\n\n- ML technologies: GCP, Bigquery, OpenCV, PyTorch, KubeFlow\n  Pipelines, Airflow\n- Desktop Front-end: Electron, React, Redux, & other modern\n  web-based technologies\n- Recorder: C# and C++\n- Mobile: Swift for iOS, Kotlin for Android\n- Backend: Java, Redis, RabbitMQ, Kubernetes, Docker\n- Infra: Terraform, Salt, GitHub Actions, CircleCI for IaC and\n  CI/CD\n\nPlease include the following:\n\n- Links to apps you’ve released/portfolio, and a description\n  of your contributions\n- Resume\n- LinkedIn (Twitter if relevant)\n- Github\n",
+  "skills_required": [
+    "Feature Extraction",
+    "Generative AI",
+    "Image Embedding",
+    "PyTorch",
+    "Video Machine Learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and implement video machine learning models with focus on image embedding and computer vision",
+    "Build agents capable of deep spatial and temporal reasoning for gaming environments",
+    "Design and deploy world models that provide training environments for agents",
+    "Implement video understanding systems with transfer learning capabilities beyond games",
+    "Optimize code performance for high-throughput video inference and feature extraction",
+    "Drive feature development through A/B testing and usage metrics analysis",
+    "Own end-to-end quality of complex features from development to production"
+  ],
+  "use_cases": [
+    "Understanding and analyzing billions of gameplay clips from gaming moments",
+    "Building agentic systems that can perceive, anticipate, and improvise in game environments",
+    "Creating world models for training AI agents across diverse gaming environments",
+    "Performing spatial and temporal reasoning on video content from gameplay",
+    "Transferring video understanding capabilities from games to other domains",
+    "Extracting features and insights from high-throughput video data"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "BigQuery",
+    "GCP",
+    "KubeFlow Pipelines"
+  ],
+  "frameworks_mentioned": [
+    "Feature Extraction",
+    "Generative AI",
+    "Image Embedding",
+    "PyTorch",
+    "Video Machine Learning"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "The role focuses on video machine learning, image embedding,\nand computer vision with PyTorch as the core ML framework.\nWhile there's a mention of \"bonus\" generative AI experience\nand agentic systems, the primary technical requirements are\ntraditional ML skills - 4+ years of video ML, CV, and\nfeature extraction rather than building or deploying\nLLMs/agents.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Generative AI"
+    ],
+    "ml": [
+      "PyTorch",
+      "Video Machine Learning",
+      "Image Embedding",
+      "Feature Extraction"
+    ],
+    "web": [],
+    "databases": [
+      "BigQuery"
+    ],
+    "data": [
+      "Airflow"
+    ],
+    "cloud": [
+      "GCP"
+    ],
+    "ops": [
+      "KubeFlow Pipelines"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "OpenCV",
+      "Computer Vision"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

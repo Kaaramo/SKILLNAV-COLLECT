@@ -1,0 +1,113 @@
+{
+  "job_id": "intl-ai-corpus-2216",
+  "source": "intl-ai-corpus",
+  "source_ref": "8813210",
+  "source_url": "https://builtin.com/job/applied-ai-engineer/8813210",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Neuberger Berman",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-19",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,667 Employees",
+  "company_stage": "Public",
+  "company_focus": "Investment management and asset management",
+  "industries": [],
+  "description": "We are seeking a highly motivated Applied AI Engineer to\ncontribute to our data science and Ai investment solutions\ninitiatives. This position is open to recent graduates with\na strong engineering foundation and a genuine interest in\nbuilding production-grade AI systems. You will work closely\nwith applied AI researchers, data engineers, and equity\nanalysts to design, build, and maintain the backend\ninfrastructure that powers AI-driven investment research\ntools. The successful candidate will bring engineering\nrigor, attention to detail, and a curiosity for how modern\nAI capabilities can be operationalized into reliable,\nscalable systems.\n\nResponsibilities\n\n- Design and manage automated data pipelines and workflow\n  orchestration (e.g., Airflow) to ensure timely, reliable\n  delivery of structured investment data\n- Containerize and deploy applications using Docker and\n  Kubernetes, supporting a robust and scalable AI\n  infrastructure on AWS\n- Build and maintain RESTful backend APIs using FastAPI to\n  serve AI-powered features and data services to internal\n  research teams\n- Integrate and maintain connections to LLM APIs (e.g.,\n  OpenAI, Anthropic Claude) and agentic AI frameworks,\n  ensuring reliable and cost-efficient usage\n- Implement CI/CD pipelines and apply infrastructure-as-code\n  practices to improve deployment reliability and\n  engineering velocity\n- Collaborate cross-functionally with researchers and analysts\n  to translate requirements into well-tested, maintainable\n  backend systems\n\nQualifications:\n\n- Bachelor's or Master's degree in Computer Science or a\n  related technical field\n- Strong proficiency in Python with a solid understanding of\n  engineering best practices, including code\n  maintainability, testing, and version control\n- Familiarity with backend frameworks (FastAPI or similar) and\n  experience building or consuming RESTful APIs\n- Exposure to containerization (Docker) and cloud platforms\n  (AWS preferred); Kubernetes experience is a plus\n- Understanding of CI/CD principles and workflow automation\n  tools (e.g., Airflow, cron)\n- Exceptional attention to detail and a methodical approach to\n  debugging and system design\n- Familiarity with LLM APIs or AI agent architectures is a\n  plus, with hands-on exposure through coursework, research,\n  or personal projects preferred\n\n#LI-LN1\n\n#LI-Onsite\n\nVisa sponsorship may be available for qualified candidates.\nSponsorship decisions will be made in accordance with\ncompany policy and applicable laws.\n\nCompensation Details\n\nThe salary range for this role is $125,000-$150,000. This is\nthe lowest to highest salary we in good faith believe we\nwould pay for this role at the time of this posting. We may\nultimately pay more or less than the posted range, and the\nrange may be modified in the future. This range is only\napplicable for jobs to be performed in the job posting\nlocation. An employee’s pay position within the salary range\nwill be based on several factors including, but limited to,\nrelevant education, qualifications, certifications,\nexperience, skills, seniority, geographic location, business\nsector, performance, shift, travel requirements, sales or\nrevenue-based metrics, market benchmarking data, any\ncollective bargaining agreements, and business or\norganizational needs. This job is also eligible for a\ndiscretionary bonus, which, along with base salary and\nretirement contributions, is part of our total comprehensive\npackage. We offer a comprehensive package of benefits\nincluding paid time off, medical/dental/vision insurance,\nretirement, life insurance and other benefits to eligible\nemployees.\n\nNote: No amount of pay is considered to be wages or\ncompensation until such amount is earned, vested, and\ndeterminable. The amount and availability of any bonus,\ncommission, production, or any other form of compensation\nthat are allocable to a particular employee remains in the\nCompany's sole discretion unless and until paid and may be\nmodified at the Company’s sole discretion, consistent with\nthe law.\n\nNeuberger Berman is an equal opportunity employer. The Firm\nand its affiliates do not discriminate in employment because\nof race, creed, national origin, religion, age, color, sex,\nmarital status, sexual orientation, gender identity,\ndisability, citizenship status or protected veteran status,\nor any other characteristic protected by local, state, or\nfederal laws, rules, or regulations. If you would like to\ncontact us regarding the accessibility of our website or\nneed assistance completing the application process, please\ncontact onlineaccommodations@nb.com.\n\nLearn about the Applicant Privacy Notice.\n",
+  "skills_required": [
+    "Agentic AI frameworks",
+    "Anthropic Claude",
+    "OpenAI API"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and manage automated data pipelines and workflow orchestration using Airflow for investment data delivery",
+    "Containerize and deploy applications using Docker and Kubernetes on AWS for scalable AI infrastructure",
+    "Build and maintain RESTful backend APIs using FastAPI to serve AI-powered features to research teams",
+    "Integrate and maintain connections to LLM APIs (OpenAI, Anthropic Claude) and agentic AI frameworks",
+    "Implement CI/CD pipelines and infrastructure-as-code practices for deployment reliability",
+    "Collaborate cross-functionally with researchers and analysts to translate requirements into backend systems"
+  ],
+  "use_cases": [
+    "AI-powered investment research tools",
+    "Automated investment data pipelines",
+    "LLM-powered features for equity analysis",
+    "Agentic AI frameworks for financial research",
+    "Scalable AI infrastructure for investment solutions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Infrastructure-as-code",
+    "Kubernetes",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI frameworks",
+    "Anthropic Claude",
+    "OpenAI API"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves integrating and maintaining LLM APIs\n(OpenAI, Claude) and agentic AI frameworks, and building\nbackend infrastructure that powers AI-driven investment\nresearch tools. While focused on infrastructure and APIs,\nthe hands-on work with LLM integrations and agentic\nframeworks constitutes direct AI implementation work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic Claude",
+      "Agentic AI frameworks"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Airflow"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Infrastructure-as-code"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

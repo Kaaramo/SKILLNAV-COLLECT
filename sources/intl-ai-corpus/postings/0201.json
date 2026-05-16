@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0201",
+  "source": "intl-ai-corpus",
+  "source_ref": "7407825",
+  "source_url": "https://builtin.com/job/lead-data-engineer-ai-data-platform/7407825",
+  "title": "Lead Data Engineer, AI Data Platform",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Imagen Technologies",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "80 Employees",
+  "company_stage": "Series B+ ($200M+ funding)",
+  "company_focus": "AI-enabled teleradiology practice and diagnostic imaging\nplatform",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Machine Learning",
+    "Biotech"
+  ],
+  "description": "About Imagen\n\nImagen Technologies is building the AI-enabled teleradiology\npractice of the future. We operate the first vertically\nintegrated medical practice and AI development platform\nfocused on reducing diagnostic error and giving radiologists\nsuperpowers through industry-leading AI solutions developed\nin-house. With over $200 million in funding from investors\nsuch as Google Ventures and some of the largest clinical\nnetworks in the country, we are rapidly expanding this\nplatform across the U.S.—from 22 states and 2.7 million\npatients in 2025 to more than 35 states and over 5 million\npatients annually by 2027. We are the fastest-growing\nteleradiology group in the U.S., and by the end of next\nyear, we will have the fifth-largest practice in the\ncountry.\n\nAbout the Role\n\nWe’re looking for an experienced Lead Data Engineer to join\nour team and spearhead the evolution of our AI Data\nPlatform. This internally developed platform is the backbone\nof our AI development, which has resulted in 6 FDA-cleared\nAI products aimed at reducing turnaround times and\ndiagnostic error rates. The Lead Data Engineer and their\nteam will manage billions of medical images and reports that\nare foundational data that will drive the development of\nImagen's next generation of diagnostic tools.\n\nIn this role, you will take ownership of our data\ninfrastructure, leading the technical strategy and\ndevelopment efforts to scale, optimize, and enhance our\ncapabilities. This position is ideal for a hands-on engineer\nwho is passionate about building robust data systems and\nwants to see their work have a tangible impact on patient\noutcomes. You'll report to the Head of Engineering and\npartner closely with Imagen's Chief AI Officer, Product\nleaders, and engineers to design and ship new software that\ndrives the future of diagnostic imaging.\n\nResponsibilities:\n\n- Architect and Own the AI Data Platform: You will take full\n  ownership of the technical roadmap and architecture for\n  our multi-petabyte, multi-cloud data platform. Your\n  primary goal will be to ensure our AI teams have reliable,\n  scalable, and performant access to high-quality medical\n  data.\n- Build and Scale Data Pipelines: Design, build, and maintain\n  robust data ingestion, processing, and transformation\n  pipelines for billions of medical images (e.g., DICOM) and\n  clinical reports. You'll focus on creating systems that\n  are automated, observable, and efficient.\n- Evaluate, select, and implement a modern workflow\n  orchestration solution (e.g., Airflow, Prefect, Dagster)\n  to manage our end-to-end data pipelines for medical image\n  processing.\n- Champion Data Quality and Governance: Implement and enforce\n  rigorous data quality frameworks, validation checks, and\n  security protocols. As the steward of our most sensitive\n  data, you will ensure all aspects of the platform are\n  secure and compliant with standards like HIPAA.\n- Lead Technical Strategy and Best Practices: Establish and\n  champion best practices in data engineering, DataOps, and\n  infrastructure management. You will make key decisions on\n  tooling and technology, driving the technical direction\n  for all data-related initiatives.\n- Partner with the AI Team: Serve as the primary technical\n  partner and subject matter expert for our AI and research\n  teams. You will collaborate closely with them to\n  understand their data requirements and build solutions\n  that accelerate their model development lifecycle.\n\nRequired Qualifications:\n\n- Mission-driven and passionate about building foundational\n  technology to improve healthcare.\n- 5+ years of hands-on experience in data engineering, or\n  software engineering with a data focus.\n- 2+ years of experience in a senior or lead role, with a\n  proven track record of owning technical roadmaps and\n  making significant architectural decisions.\n- Expert-level proficiency in Python and a deep understanding\n  of data structures and algorithms. Mastery of SQL is also\n  required.\n- Deep expertise with at least one major cloud provider (AWS,\n  GCP, Azure) and proven experience designing and managing\n  solutions in a cloud-native environment.\n- Hands-on experience with modern data stack technologies,\n  such as:\n  - Workflow orchestration tools (e.g., Airflow, Prefect,\n    Dagster).\n  - Large-scale data processing frameworks (e.g., Spark, Dask).\n  - Infrastructure as Code (IaC) tools (e.g., Terraform,\n    CloudFormation).\n  - Containerization technologies (e.g., Docker, Kubernetes).\n- Demonstrated experience designing and managing data lakes,\n  data warehouses, or petabyte-scale object storage systems\n  (e.g., S3, GCS).\n- BS in Computer Science or a related field, or equivalent\n  real-world experience.\n\nPreferred Qualifications:\n\n- Experience working in a multi-cloud environment and managing\n  cross-cloud data transfer and cost optimization.\n- Experience with MLOps or building infrastructure that\n  directly supports the machine learning lifecycle.\n- Familiarity with healthcare data standards and regulations\n  (e.g., HIPAA, DICOM, FHIR).\n- Direct experience engineering solutions for diverse medical\n  imaging modalities (e.g., CT, MR, XR, Ultrasound).\n- Experience building systems in a regulated or compliance-\n  heavy industry.\n\nImagen Technologies is a remote-first company and this job\nis conducted remotely.\n\nThe base salary for the position is between\n$170,000-$190,000, plus equity and benefits. Please note\nthat the range is a guideline, and individual total\ncompensation will vary based on factors such as\nqualifications, skill level, competencies, and work\nlocation.\n\nImagen is committed to the principle of equal employment\nopportunity for all employees and applicants for employment\nand prohibits discrimination and harassment of any kind\nwithout regard to race, color, religion, age, sex, national\norigin, disability status, genetics, protected veteran\nstatus, sexual orientation, gender identity or expression,\nor any other characteristic protected by federal, state or\nlocal laws. Imagen will not tolerate discrimination or\nharassment based on any of these characteristics. This\npolicy applies to all terms and conditions of employment,\nincluding recruiting, hiring, placement, promotion,\ntermination, layoff, recall, transfer, leaves of absence,\ncompensation, and training.\n\nImagen Technologies maintains a Substance Abuse and Testing\npolicy. Being under the influence of alcohol or controlled\nsubstances while on the job or while conducting business on\nImagen’s behalf is prohibited. Imagen reserves the right to\ntest any applicant or employee for alcohol and/or drug use,\nsubject to compliance with any applicable state and/or\nfederal laws.\n",
+  "skills_required": [
+    "HIPAA"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and own the technical roadmap for a multi-petabyte, multi-cloud data platform ensuring reliable access for AI teams",
+    "Design, build, and maintain robust data ingestion, processing, and transformation pipelines for billions of medical images and clinical reports",
+    "Implement modern workflow orchestration solutions to manage end-to-end data pipelines for medical image processing",
+    "Establish and enforce rigorous data quality frameworks, validation checks, and security protocols compliant with HIPAA standards",
+    "Lead technical strategy and best practices in data engineering, DataOps, and infrastructure management with ownership of tooling decisions",
+    "Partner with AI and research teams as the primary technical expert to understand requirements and build solutions that accelerate model development"
+  ],
+  "use_cases": [
+    "Managing and processing billions of medical images (DICOM) and clinical reports to support AI development",
+    "Scaling a multi-petabyte data platform that powers FDA-cleared AI diagnostic products",
+    "Building data infrastructure for 6+ FDA-cleared AI products focused on reducing turnaround times and diagnostic error rates in radiology",
+    "Enabling AI development lifecycle with high-quality medical data for teleradiology practice spanning 35+ states",
+    "Supporting the development of next-generation diagnostic tools through robust medical imaging data infrastructure"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "CloudFormation",
+    "Dagster",
+    "Dask",
+    "DataOps",
+    "Docker",
+    "GCP",
+    "GCS",
+    "Kubernetes",
+    "MLOps",
+    "Prefect",
+    "S3",
+    "Spark",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is focused on building data infrastructure,\npipelines, and platforms that SUPPORT AI development rather\nthan directly building, training, or deploying AI models.\nThe Lead Data Engineer partners with AI teams to provide\nfoundational data systems but does not work directly on\nmodel development or ML systems.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "S3",
+      "GCS"
+    ],
+    "data": [
+      "Airflow",
+      "Prefect",
+      "Dagster",
+      "Spark",
+      "Dask"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Terraform",
+      "CloudFormation",
+      "Docker",
+      "Kubernetes",
+      "DataOps",
+      "MLOps"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "DICOM"
+    ],
+    "other": [
+      "HIPAA"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

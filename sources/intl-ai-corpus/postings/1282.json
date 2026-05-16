@@ -1,0 +1,151 @@
+{
+  "job_id": "intl-ai-corpus-1282",
+  "source": "intl-ai-corpus",
+  "source_ref": "8373515",
+  "source_url": "https://builtin.com/job/platform-ai-developer-m-w-d/8373515",
+  "title": "Platform AI Developer (m/w/d)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "CompuGroup Medical US",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "320 Employees",
+  "company_stage": null,
+  "company_focus": "Software solutions for healthcare",
+  "industries": [],
+  "description": "Job Description\n\nAs a leading company in the field of software solutions for\nhealthcare, we operate in 19 countries and employ over 9,000\ndedicated staff members. You will work in a dynamic and\ninnovative environment full of opportunities. With your\ncommitment and passion, you have the chance to make a\nlasting difference.\n\nTogether, we are shaping the healthcare system of the\nfuture. Become part of our mission and make a difference—for\na world where knowledge saves lives!\n\nYour Impact\n\n- Development and operation of a microservice-based agent mesh\n  – highly scalable, multi-tenant, and secure by design.\n- Orchestration of agentic systems and multi-agent\n  architectures with frameworks such as LangChain, CrewAI,\n  or Semantic Kernel.\n- Integration and productive deployment of foundation models\n  (e.g., OpenAI, Azure OpenAI, Hugging Face, Mistral).\n- Design and implementation of intelligent backend components\n  for context management, Retrieval-Augmented Generation\n  (RAG), memory, tool use, and agentic collaboration.\n- Building pipelines for prompt optimization, inference\n  control, and usage analytics.\n- Close collaboration with frontend, UX, and infrastructure\n  teams to bring AI solutions into end-to-end production.\n\nYour Profile\n\n- Degree in Computer Science, Artificial Intelligence, Data\n  Science, or a comparable discipline.\n- Hands-on experience in developing LLM-powered agentic\n  applications with a strong focus on microservice\n  architectures.\n- Deep expertise in Python (LangChain, FastAPI, AsyncIO,\n  Pydantic), as well as in working with model APIs, data\n  integration, and CI/CD.\n- Experience with Azure AI, Azure ML, or comparable cloud\n  stacks (GCP, AWS is a plus).\n- Knowledge of vector databases (e.g., Qdrant, Weaviate,\n  Pinecone, FAISS) and the application of embedding models\n  for RAG approaches.\n- Solid understanding of scalability, multi-tenancy, and\n  security requirements in the productive operation of AI\n  systems.\n",
+  "skills_required": [
+    "CrewAI",
+    "Hugging Face",
+    "LangChain",
+    "Mistral",
+    "OpenAI API",
+    "RAG",
+    "Semantic Kernel",
+    "agentic systems",
+    "embeddings",
+    "multi-agent architectures",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Development and operation of a microservice-based agent mesh that is highly scalable, multi-tenant, and secure by design",
+    "Orchestration of agentic systems and multi-agent architectures using frameworks like LangChain, CrewAI, or Semantic Kernel",
+    "Integration and productive deployment of foundation models from providers like OpenAI, Azure OpenAI, Hugging Face, and Mistral",
+    "Design and implementation of intelligent backend components for context management, RAG, memory, tool use, and agentic collaboration",
+    "Building pipelines for prompt optimization, inference control, and usage analytics",
+    "Collaboration with frontend, UX, and infrastructure teams to bring AI solutions into end-to-end production"
+  ],
+  "use_cases": [
+    "Multi-agent systems for healthcare applications",
+    "Retrieval-Augmented Generation for knowledge retrieval in healthcare",
+    "Intelligent backend components for context management and tool use in healthcare workflows",
+    "AI-powered orchestration of healthcare processes",
+    "Scalable and secure AI systems for healthcare enterprise deployment"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure AI",
+    "Azure ML",
+    "Azure OpenAI",
+    "CI/CD",
+    "FAISS",
+    "FastAPI",
+    "GCP",
+    "Pinecone",
+    "Qdrant",
+    "Weaviate",
+    "microservices",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "Hugging Face",
+    "LangChain",
+    "Mistral",
+    "OpenAI API",
+    "RAG",
+    "Semantic Kernel",
+    "agentic systems",
+    "embeddings",
+    "multi-agent architectures",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "AsyncIO",
+    "Pydantic",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on development of LLM-powered\nagentic applications, building RAG systems, orchestrating\nmulti-agent architectures, and deploying foundation models.\nThis is direct work on AI systems rather than supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "CrewAI",
+      "Semantic Kernel",
+      "OpenAI API",
+      "Hugging Face",
+      "Mistral",
+      "RAG",
+      "multi-agent architectures",
+      "agentic systems",
+      "prompt engineering"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "Qdrant",
+      "Weaviate",
+      "Pinecone",
+      "FAISS",
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure OpenAI",
+      "Azure AI",
+      "Azure ML",
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "CI/CD",
+      "microservices"
+    ],
+    "languages": [
+      "Python",
+      "AsyncIO",
+      "Pydantic"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

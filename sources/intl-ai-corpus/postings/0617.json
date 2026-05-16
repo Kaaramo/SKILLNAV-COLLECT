@@ -1,0 +1,154 @@
+{
+  "job_id": "intl-ai-corpus-0617",
+  "source": "intl-ai-corpus",
+  "source_ref": "8291315",
+  "source_url": "https://builtin.com/job/forward-deployed-engineer-ai-inference-vllm-and-kubernetes/8291315",
+  "title": "Forward Deployed Engineer, AI Inference (vLLM and Kubernetes)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Red Hat",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-23",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "20,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Enterprise open source software solutions for Linux, cloud,\ncontainers, and Kubernetes",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Internet of Things",
+    "Software",
+    "Consulting",
+    "Infrastructure as a Service (IaaS)",
+    "Automation"
+  ],
+  "description": "The vLLM and LLM-D Engineering team at Red Hat is looking\nfor a customer obsessed developer to join our team as a\nForward Deployed Engineer. In this role, you will not just\nbuild software; you will be the bridge between our cutting-\nedge inference platform (LLM-D, and vLLM) and our customers'\nmost critical production environments.\n\nYou will interface directly with the engineering teams at\nour customer to deploy, optimize, and scale distributed\nLarge Language Model (LLM) inference systems. You will solve\n\"last mile\" infrastructure challenges that defy off-the-\nshelf solutions, ensuring that massive models run with low\nlatency and high throughput on complex Kubernetes clusters.\nThis is not a sales engineering role, you will be part of\nthe core vLLM and LLM-D engineering team.\n\nWhat You Will Do\n\n- Orchestrate Distributed Inference: Deploy and configure\n  LLM-D and vLLM on Kubernetes clusters. You will set up and\n  configure advanced deployment like disaggregated serving,\n  KV-cache aware routing, KV Cache offloading etc to\n  maximize hardware utilization.\n- Optimize for Production: Go beyond standard deployments by\n  running performance benchmarks, tuning vLLM parameters,\n  and configuring intelligent inference routing policies to\n  meet SLOs for latency and throughput. You care about Time\n  Per Output Token (TPOT), GPU utilization, GPU networking\n  optimizations, and Kubernetes scheduler efficiency.\n- Code Side-by-Side: Work directly with customer engineers to\n  write production-quality code (Python/Go/YAML) that\n  integrates our inference engine into their existing\n  Kubernetes ecosystem.\n- Solve the \"Unsolvable\": Debug complex interaction effects\n  between specific model architectures (e.g., MoE, large\n  context windows), hardware accelerators (NVIDIA GPUs, AMD\n  GPUs, TPUs), and Kubernetes networking (Envoy/ISTIO).\n- Feedback Loop: Act as the \"Customer Zero\" for our core\n  engineering teams. You will channel field learnings back\n  to product development, influencing the roadmap for LLM-D\n  and vLLM features.\n- Travel only as needed to customers to present, demo, or help\n  execute proof-of-concepts.\n\nWhat You Will Bring\n\n- 8+ Years of Engineering Experience: You have a decade-long\n  track record in Backend Systems, SRE, or Infrastructure\n  Engineering.\n- Customer Fluency: You speak both \"Systems Engineering\" and\n  \"Business Value\".\n- Bias for Action: You prefer rapid prototyping and iteration\n  over theoretical perfection. You are comfortable operating\n  in ambiguity and taking ownership of the outcome.\n\n- Deep Kubernetes Expertise: You are fluent in K8s primitives,\n  from defining custom resources (CRDs, Operators,\n  Controllers) to configuring modern ingress via the Gateway\n  API. You have deep experience with stateful workloads and\n  high-performance networking, including the ability to tune\n  scheduler logic (affinity/tolerations) for GPU workloads\n  and troubleshoot complex CNI failures.\n- AI Inference Proficiency: You understand how a LLM forward\n  pass works. You know what KV Caching is, why\n  prefill/decode disaggregation matters, why context length\n  impacts performance, and how continuous batching works in\n  vLLM.\n- Systems Programming: Proficiency in Python (for model\n  interfaces) and Go (for Kubernetes controllers/scheduler\n  logic).\n- Infrastructure as Code: Experience with Helm, Terraform, or\n  similar tools for reproducible deployments.\n- Cloud & GPU Hardware Fluency: You are comfortable spinning\n  up clusters and deploying LLMs on bare-metal and\n  hyperscaler Kubernetes clusters.\n\nFollowing is considered a plus\n\n- Experience contributing to open-source AI infrastructure\n  projects (e.g., KServe, vLLM, Kubernetes).\n- Knowledge of Envoy Proxy or Inference Gateway (IGW).\n- Familiarity with model optimization techniques like\n  Quantization (AWQ, GPTQ) and Speculative Decoding.\n\n#AI-HIRING\n\n#LI-MD2\n\nThe salary range for this position is $193,390.00 -\n$318,980.00. Actual offer will be based on your\nqualifications.\n\nPay Transparency\n\nRed Hat determines compensation based on several factors\nincluding but not limited to job location, experience,\napplicable skills and training, external market value, and\ninternal pay equity. Annual salary is one component of Red\nHat’s compensation package. This position may also be\neligible for bonus, commission, and/or equity. For positions\nwith Remote-US locations, the actual salary range for the\nposition may differ based on location but will be\ncommensurate with job duties and relevant work experience.\n\nAbout Red Hat\n\nRed Hat is the world’s leading provider of enterprise open\nsource software solutions, using a community-powered\napproach to deliver high-performing Linux, cloud, container,\nand Kubernetes technologies. Spread across 40+ countries,\nour associates work flexibly across work environments, from\nin-office, to office-flex, to fully remote, depending on the\nrequirements of their role. Red Hatters are encouraged to\nbring their best ideas, no matter their title or tenure.\nWe're a leader in open source because of our open and\ninclusive environment. We hire creative, passionate people\nready to contribute their ideas, help solve complex\nproblems, and make an impact.\n\nBenefits ●    Comprehensive medical, dental, and vision\ncoverage ●    Flexible Spending Account - healthcare and\ndependent care ●    Health Savings Account - high deductible\nmedical plan ●    Retirement 401(k) with employer match ●\nPaid time off and holidays ●    Paid parental leave plans\nfor all new parents ●    Leave benefits including\ndisability, paid family medical leave, and paid military\nleave ●    Additional benefits including employee stock\npurchase plan, family planning reimbursement, tuition\nreimbursement, transportation expense account, employee\nassistance program, and more!\n\nNote: These benefits are only applicable to full time,\npermanent associates at Red Hat located in the United\nStates.\n\nInclusion at Red Hat Red Hat’s culture is built on the open\nsource principles of transparency, collaboration, and\ninclusion, where the best ideas can come from anywhere and\nanyone. When this is realized, it empowers people from\ndifferent backgrounds, perspectives, and experiences to come\ntogether to share ideas, challenge the status quo, and drive\ninnovation. Our aspiration is that everyone experiences this\nculture with equal opportunity and access, and that all\nvoices are not only heard but also celebrated. We hope you\nwill join our celebration, and we welcome and encourage\napplicants from all the beautiful dimensions that compose\nour global village.\n\nEqual Opportunity Policy (EEO) Red Hat is proud to be an\nequal opportunity workplace and an affirmative action\nemployer. We review applications for employment without\nregard to their race, color, religion, sex, sexual\norientation, gender identity, national origin, ancestry,\ncitizenship, age, veteran status, genetic information,\nphysical or mental disability, medical condition, marital\nstatus, or any other basis prohibited by law.\n\nRed Hat does not seek or accept unsolicited resumes or CVs\nfrom recruitment agencies. We are not responsible for, and\nwill not pay, any fees, commissions, or any other payment\nrelated to unsolicited resumes or CVs except as required in\na written contract between Red Hat and the recruitment\nagency or party requesting payment of a fee.Red Hat supports\nindividuals with disabilities and provides reasonable\naccommodations to job applicants. If you need assistance\ncompleting our online job application, email application-\nassistance@redhat.com. General inquiries, such as those\nregarding the status of a job application, will not receive\na reply.\n",
+  "skills_required": [
+    "AWQ",
+    "GPTQ",
+    "KV caching",
+    "LLM-D",
+    "Quantization",
+    "Speculative Decoding",
+    "continuous batching"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Deploy and configure LLM-D and vLLM on Kubernetes clusters with advanced configurations like disaggregated serving, KV-cache aware routing, and KV cache offloading",
+    "Run performance benchmarks, tune vLLM parameters, and configure intelligent inference routing policies to meet SLOs for latency and throughput",
+    "Write production-quality Python/Go/YAML code to integrate the inference engine into customers' existing Kubernetes ecosystem",
+    "Debug complex interactions between model architectures (MoE, large context windows), hardware accelerators (NVIDIA/AMD GPUs, TPUs), and Kubernetes networking",
+    "Act as Customer Zero by channeling field learnings back to product development to influence LLM-D and vLLM feature roadmaps",
+    "Execute proof-of-concepts and demos with customers to validate inference platform capabilities"
+  ],
+  "use_cases": [
+    "Distributed Large Language Model (LLM) inference systems running on Kubernetes clusters",
+    "High-performance LLM serving with low latency and high throughput requirements",
+    "GPU-accelerated inference using NVIDIA GPUs, AMD GPUs, and TPUs for production workloads",
+    "Advanced inference optimizations including KV caching, continuous batching, and prefill/decode disaggregation",
+    "Production deployment of large-scale language models with complex networking and scheduling requirements"
+  ],
+  "tools_mentioned": [
+    "AMD GPUs",
+    "AWS",
+    "Azure",
+    "CRDs",
+    "Controllers",
+    "Envoy",
+    "GCP",
+    "Gateway API",
+    "Helm",
+    "ISTIO",
+    "KServe",
+    "Kubernetes",
+    "NVIDIA GPUs",
+    "Operators",
+    "TPUs",
+    "Terraform",
+    "disaggregated serving",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "AWQ",
+    "GPTQ",
+    "KV caching",
+    "LLM-D",
+    "Quantization",
+    "Speculative Decoding",
+    "continuous batching"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a Forward Deployed Engineer role focused on\ndeploying and optimizing vLLM and LLM-D inference platforms\ndirectly to customer production environments. The role\nrequires hands-on work with distributed LLM inference\nsystems, KV caching, continuous batching, and model\nperformance optimization on Kubernetes clusters - this is\ndeploying AI solutions, not just supporting AI\ninfrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM-D",
+      "KV caching",
+      "continuous batching"
+    ],
+    "ml": [
+      "Quantization",
+      "AWQ",
+      "GPTQ",
+      "Speculative Decoding"
+    ],
+    "web": [
+      "Gateway API"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "vLLM",
+      "Kubernetes",
+      "Helm",
+      "Terraform",
+      "NVIDIA GPUs",
+      "AMD GPUs",
+      "TPUs",
+      "Envoy",
+      "ISTIO",
+      "disaggregated serving",
+      "KServe",
+      "CRDs",
+      "Operators",
+      "Controllers"
+    ],
+    "languages": [
+      "Python",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

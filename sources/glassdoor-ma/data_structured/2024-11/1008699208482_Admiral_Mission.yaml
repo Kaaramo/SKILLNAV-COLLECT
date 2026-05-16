@@ -1,0 +1,33 @@
+company:
+  name: Admiral
+  stage: null
+  focus: null
+position:
+  title: '**Mission :**'
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web:
+    - next
+    databases: []
+    data:
+    - etl
+    - sql
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - power bi
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1008699208482'
+  extracted_at: '2026-05-16T01:27:45+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

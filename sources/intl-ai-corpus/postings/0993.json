@@ -1,0 +1,138 @@
+{
+  "job_id": "intl-ai-corpus-0993",
+  "source": "intl-ai-corpus",
+  "source_ref": "7925951",
+  "source_url": "https://builtin.com/job/senior-devops-engineer-ii/7925951",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "DoubleVerify",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "721 Employees",
+  "company_stage": "Public",
+  "company_focus": "Marketing measurement software and digital media\nverification for advertising",
+  "industries": [
+    "AdTech",
+    "Marketing Tech"
+  ],
+  "description": "Technology Operations | Hybrid (3 days in office, flexible\nscheduling)\n\n\n\nWho we are\n\n\n\nDoubleVerify is the leading independent provider of\nmarketing measurement software, data, and analytics that\nauthenticates the quality and effectiveness of digital media\nfor the world's largest brands and media platforms. DV\nprovides media transparency and accountability to deliver\nthe highest level of impression quality for maximum\nadvertising performance. Since 2008, DV has helped hundreds\nof Fortune 500 companies gain the most from their media\nspend by delivering best-in-class solutions across the\ndigital ecosystem, helping to build a better industry. Learn\nmore at www.doubleverify.com.\n\n\n\nThe Opportunity\n\n\n\nWe're building the infrastructure backbone for the next\ngeneration of AI-powered advertising verification that\nprocesses billions of impressions daily from the world's\nlargest social media platforms. As a Senior DevOps Engineer\non our US Hub team in NYC, you'll be at the intersection of\nplatform engineering and artificial intelligence, pioneering\nwhat doesn't exist yet. This isn't a traditional DevOps\nrole—we need someone who thinks like a software engineer\nfirst and brings that mindset to infrastructure. You'll own\ncritical platforms, architect novel solutions for AI agent\ndeployment (LangChain, ADK), and work across multiple\nengineering teams to define standards that impact hundreds\nof developers. If you want to build the future rather than\njust maintain the present, this is your opportunity.\n\n\n\nWhat You'll Achieve\n\n\n\nPioneer AI Infrastructure\n\n- Design and build the foundational infrastructure for\n  deploying AI agents at scale, working with emerging\n  technologies like LangChain and Agent Development Kit to\n  create capabilities that don't yet exist in the market\n- Partner directly with AI/ML teams to enable rapid deployment\n  of agentic solutions, turning research into production\n  systems\n\nOwn Critical Platforms\n\n- Architect, deploy, and operate our Kubernetes platform\n  across cloud (GCP/AWS) and data center environments,\n  ensuring 99.9%+ uptime for systems processing billions of\n  daily transactions\n- Build the tooling and automation that makes complex systems\n  simple for 100+ developers\n\nElevate Engineering Excellence\n\n- Create operators, microservices, and management tools that\n  shape how engineers across DV interact with infrastructure\n- Drive CI/CD evolution, building self-service capabilities\n  that empower teams while maintaining security and\n  reliability\n\nShape Technical Standards\n\n- Influence product design from the ground up, ensuring new\n  features integrate seamlessly with DV's infrastructure\n- Work across multidisciplinary DevOps teams to establish\n  patterns that scale across the organization\n\nWhat You'll Bring\n\nRequired:\n\n- 5+ years in DevOps/Platform Engineering roles with\n  significant software development (we need engineers who\n  write code, not just YAML)\n- 3+ years owning and operating production Kubernetes\n  platforms (cloud or on-prem)\n- Strong programming skills in at least one of: Python, Go, or\n  TypeScript - you should be comfortable building\n  microservices and automation tooling\n- Cloud platform expertise in GCP or AWS (multi-cloud\n  experience is a plus)\n- Observability mindset - you naturally think about metrics,\n  logging, tracing, and use data to drive decisions\n- Builder mentality - you're energized by creating systems\n  that encourage automation, observability, and ease of\n  maintenance\n\nNice to Have:\n\n- Experience developing AI workloads using frameworks like\n  LangChain, CrewAI, or Google Agent Development Kit\n- Background in site reliability engineering (SRE) practices\n- Contributions to open-source DevOps tooling\n- Experience with Terraform, ArgoCD, or infrastructure-as-code\n  at scale\n\nBeyond the Resume:\n\n- You're a strong collaborator who can translate technical\n  concepts for non-technical stakeholders and work\n  effectively across teams\n- You have genuine curiosity about improving developer\n  experience—you ask \"how can we make this easier?\" not\n  \"that's not my job\"\n- You bring initiative and autonomy—when you see a problem,\n  you propose solutions\n\nOur Tech Stack\n\n- Cloud: GCP (primary), AWS, Oracle Cloud (emerging)\n- Orchestration: Kubernetes (GKE, Rancher), ArgoCD, Helm\n- AI/ML: LangChain, OpenAI Agents SDK, Google ADK, n8n\n- Observability: Prometheus, Grafana, Datadog\n- CI/CD: GitLab CI/CD, GitHub Actions\n- IaC: Terraform, Ansible\n- Languages: Python, Go, Bash, TypeScript\n\nWhy TechOps at DoubleVerify?\n\nReal Innovation: We're not just keeping the lights on—you'll\nwork on bleeding-edge AI infrastructure that doesn't have a\nplaybook yet. Your work directly influences how Fortune 500\ncompanies verify billions of dollars in digital media spend.\n\n\n\nAutonomy & Ownership: Senior engineers own entire platforms\nand make architectural decisions. We trust you to define\nsolutions, not just implement tickets.\n\n\n\nCollaborative Culture: You'll work with a global team across\nUS, Israel, and Europe, learning from diverse perspectives\nwhile mentoring others.\n\n\n\nGrowth Path: Clear progression to Staff/Principal Engineer\nor Engineering Management, with opportunities to shape\ntechnical direction and speak at industry conferences.\n\n\n\nModern Work Environment:\n\n- Hybrid flexibility (3 days in NYC office, flexible\n  scheduling)\n- Strong remote collaboration tools and practices\n- Learning budget for certifications, conferences, and courses\n- Access to cutting-edge AI tools (Cursor, GitHub Copilot,\n  etc.)\n\nThe successful candidate’s starting salary will be\ndetermined based on a number of non-discriminating factors,\nincluding qualifications for the role, level, skills,\nexperience, location, and balancing internal equity relative\nto peers at DV. The estimated salary range for this role,\nbased on the qualifications set forth in the job\ndescription, is between $73,500- $213,000. This role will\nalso be eligible for bonus/commission (as applicable),\nequity, and benefits. The range above is for the\nexpectations as laid out in the job description; however, we\nare often open to a wide variety of profiles, and recognize\nthat the person we hire may be more or less experienced than\nthis job description as posted.\n\n\n\nNot-so-fun fact: Research shows that while men apply to jobs\nwhen they meet an average of 60% of job criteria, women and\nother marginalized groups tend to only apply when they check\nevery box. So if you think you have what it takes but you’re\nnot sure that you check every box, apply anyway!\n",
+  "skills_required": [
+    "CrewAI",
+    "Google Agent Development Kit",
+    "LangChain",
+    "OpenAI Agents SDK",
+    "n8n"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build foundational infrastructure for deploying AI agents at scale using LangChain and Agent Development Kit",
+    "Architect, deploy, and operate Kubernetes platform across GCP/AWS and data center environments",
+    "Build tooling and automation that simplifies complex systems for 100+ developers",
+    "Create operators, microservices, and management tools for infrastructure interaction",
+    "Drive CI/CD evolution and build self-service capabilities for engineering teams",
+    "Partner with AI/ML teams to enable rapid deployment of agentic solutions",
+    "Establish technical standards and patterns that scale across the organization"
+  ],
+  "use_cases": [
+    "AI-powered advertising verification processing billions of daily impressions",
+    "Digital media quality and effectiveness measurement for Fortune 500 brands",
+    "AI agent deployment infrastructure for advertising technology",
+    "Marketing measurement and analytics platform",
+    "Media transparency and accountability for digital advertising"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ansible",
+    "ArgoCD",
+    "Datadog",
+    "Docker",
+    "GCP",
+    "GitHub Actions",
+    "GitLab CI/CD",
+    "Grafana",
+    "Helm",
+    "Kubernetes",
+    "Oracle Cloud",
+    "Prometheus",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "Google Agent Development Kit",
+    "LangChain",
+    "OpenAI Agents SDK"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Go",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a DevOps/Platform Engineering role focused on\nbuilding infrastructure to support AI agent deployment, not\ndirectly building or training AI models. The role enables\nAI/ML teams by providing platforms and tooling, which\nclassifies it as ai-support rather than ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Google Agent Development Kit",
+      "OpenAI Agents SDK",
+      "CrewAI"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "GCP",
+      "AWS",
+      "Oracle Cloud"
+    ],
+    "ops": [
+      "Kubernetes",
+      "ArgoCD",
+      "Helm",
+      "Terraform",
+      "Ansible",
+      "Docker",
+      "GitLab CI/CD",
+      "GitHub Actions",
+      "Prometheus",
+      "Grafana",
+      "Datadog"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "TypeScript",
+      "Bash"
+    ],
+    "domains": [],
+    "other": [
+      "n8n"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,113 @@
+{
+  "job_id": "intl-ai-corpus-1648",
+  "source": "intl-ai-corpus",
+  "source_ref": "8555860",
+  "source_url": "https://builtin.com/job/l2-application-support-engineer-ai-platform-net-azure/8555860",
+  "title": "L2 Application Support Engineer – AI Platform (.NET & Azure)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Zealogics LLC",
+  "company_type": "entité morale privée",
+  "location": "Kochi, IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-21",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "93 Employees",
+  "company_stage": null,
+  "company_focus": "AI/GenAI platform services",
+  "industries": [],
+  "description": "Experience: 8+ yrs for Junior level / 12 + years for Senior\nlevel\n\nRole Overview\n\nWe are hiring an experienced L2 Application Support Engineer\nto support a cloud-based Enterprise AI/GenAI platform built\non .NET Core and Microsoft Azure. The role involves\nproduction support, troubleshooting API & authentication\nissues, and ensuring platform stability across environments.\n\nKey Responsibilities\n\n- Handle L2 production incidents and service requests\n- Troubleshoot .NET Core / REST API-based applications\n- Support AI/LLM integrations and model endpoint connectivity\n- Diagnose API failures, 403/authentication issues, and\n  timeout/latency problems\n- Manage API keys, IP whitelisting, and access provisioning\n- Monitor applications using Azure Application Insights / Log\n  Analytics\n- Support Dev/QA/Prod environments and release validation\n- Coordinate with L3, AI, and DevOps teams for escalations\n\nRequired Skills\n\n- Strong experience in .NET Core / ASP.NET Core application\n  support\n- Experience supporting REST APIs and microservices\n- Azure App Services / Container Apps / AKS (basic exposure)\n- Azure AD / SSO troubleshooting\n- Log analysis & production incident handling\n- SQL for troubleshooting\n\nPreferred\n\n- Exposure to AI/LLM-based platforms\n- Understanding of token-based API usage models\n- Azure certification (AZ-900 / AZ-104)\n- ITIL knowledge\n",
+  "skills_required": [
+    "LLM integrations"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Handle L2 production incidents and service requests",
+    "Troubleshoot .NET Core / REST API-based applications",
+    "Support AI/LLM integrations and model endpoint connectivity",
+    "Diagnose API failures, authentication issues, and timeout/latency problems",
+    "Manage API keys, IP whitelisting, and access provisioning",
+    "Monitor applications using Azure Application Insights / Log Analytics",
+    "Support Dev/QA/Prod environments and release validation",
+    "Coordinate with L3, AI, and DevOps teams for escalations"
+  ],
+  "use_cases": [
+    "Enterprise AI/GenAI platform support",
+    "API and authentication troubleshooting",
+    "Model endpoint connectivity",
+    "Production incident management"
+  ],
+  "tools_mentioned": [
+    ".NET Core",
+    "ASP.NET Core",
+    "Azure AD",
+    "Azure App Services",
+    "Azure Application Insights",
+    "Azure Container Apps",
+    "Azure Kubernetes Service (AKS)",
+    "Azure Log Analytics",
+    "ITIL",
+    "Microservices",
+    "REST APIs",
+    "SQL",
+    "SSO"
+  ],
+  "frameworks_mentioned": [
+    "LLM integrations"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an L2 application support role focused on\ntroubleshooting and maintaining an AI platform, not building\nor deploying AI models. The role supports infrastructure,\nAPIs, and platform stability - enabling AI teams rather than\nworking directly on AI/ML systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM integrations"
+    ],
+    "ml": [],
+    "web": [
+      ".NET Core",
+      "ASP.NET Core",
+      "REST APIs",
+      "Microservices"
+    ],
+    "databases": [
+      "SQL"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure App Services",
+      "Azure Container Apps",
+      "Azure Kubernetes Service (AKS)",
+      "Azure AD",
+      "SSO"
+    ],
+    "ops": [
+      "Azure Application Insights",
+      "Azure Log Analytics",
+      "ITIL"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

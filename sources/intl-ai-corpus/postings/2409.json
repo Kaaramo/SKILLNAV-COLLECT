@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-2409",
+  "source": "intl-ai-corpus",
+  "source_ref": "8875571",
+  "source_url": "https://www.builtinla.com/job/ai-engineer-image-video-generation/8875571",
+  "title": "AI Engineer  (Image/Video Generation)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Zeely – AI Admaker",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Growth (1M+ users, 4x YoY growth, 160+ employees, Top-3 in category)",
+  "company_focus": "AI platform for generating UGC videos and ad banners for\nsmall businesses",
+  "industries": [
+    "AdTech",
+    "Artificial Intelligence",
+    "Marketing Tech"
+  ],
+  "description": "Join us as an AI Engineer (Image & Video Generation) and\nbecome part of a team building and scaling generative\npipelines for next-generation visual content at Zeely.\n\nZeely AI is a platform that uses artificial intelligence to\ngenerate viral UGC videos and ad banners, as well as launch\neffective ad campaigns on Facebook and Instagram, helping\nsmall businesses become visible and scale.\n\nWe already have 1mln+ users in the US and are consistently\ngrowing more than 4x year-over-year. Today, Zeely is ranked\namong the Top-3 products in its category on the US market,\nand our team has grown to over 160 specialists.\n\nYour key responsibilities:\n\n- Design and improve generative pipelines for image and video\n  creation\n- Tune and control the behavior of image/video models: visual\n  quality, style consistency, and product identity\n  preservation\n- Optimize and scale image→video and text→video workflows for\n  stable and reproducible production results\n- Diagnose quality bottlenecks (artifacts, instability,\n  product distortions) and implement fixes\n- Extend generative systems for new products and marketing\n  content scenarios\n- Research and test new image/video models and tools, staying\n  up to date with the latest industry solutions\n\nWhat we’re looking for:\n\n- 2+ years of hands-on experience in AI / Generative Systems\n  Engineering, where prompts are part of the engineering\n  logic rather than a standalone artifact\n- Strong analytical and formal reasoning skills: ability to\n  build cause-and-effect relationships when diagnosing and\n  optimizing generation systems\n- Ability to independently evaluate visual quality of\n  generated outputs: composition, lighting, consistency, and\n  product alignment—without external designer validation.\n  Understanding of UGC/ad content and product-focused\n  generation\n- Experience with generative models across multiple\n  modalities: text-to-image, image-to-image, image-to-video,\n  video-to-video, multimodal scenarios\n- Experience designing LLM agents or automated generative\n  workflows\n- Ability to build complex multi-step workflows, and\n  optimize/debug generation pipelines\n- Strong prompt engineering skills for image and video models\n- Habit of documenting pipelines, experiments, and decisions:\n  structured notes on models, prompts, parameters, and test\n  results to ensure reproducibility and shared team\n  understanding\n- Keeping up with news and releases in image/video generation,\n  understanding the current tooling landscape\n\nNice to have:\n\n- Experience with ComfyUI\n- Experience with LoRA tuning or fine-tuning image/video\n  models\n- Experience integrating generative pipelines into production\n  systems (APIs, queues, storage, Docker, Kubernetes, etc.)\n- Experience building automated workflows in n8n or similar\n  tools\n- Practical experience with Python AI/ML libraries\n- Experience working with media processing in Python: ffmpeg-\n  python, moviepy, imageio, pydub, and similar tools\n\nWhy it’s exciting to work with us:\n\n- Work with cutting-edge technologies and contribute to\n  building AI-powered tools\n- Join a strong A-level team that motivates you to grow and\n  achieve more\n- Remote-first approach: work from anywhere, with the option\n  to visit our offices in Warsaw and Kyiv\n- Paid day offs and sick leaves — we care about your work-life\n  balance\n- Regular performance reviews to ensure your growth is\n  transparent and rewarded\n- Financial support — consultations for private entrepreneurs\n  from our dedicated finance team\n\nRecruitment process: Intro call > Test Task > Final\nInterview > Reference Check > Offer\n\nSend us your CV — we’d love to get to know you better!\n",
+  "skills_required": [
+    "ComfyUI",
+    "Diffusion models",
+    "Fine-tuning image/video models",
+    "Image-to-video generation",
+    "LLM agents",
+    "LoRA tuning",
+    "Prompt engineering",
+    "Text-to-image generation",
+    "Text-to-video generation",
+    "ffmpeg-python",
+    "imageio",
+    "moviepy",
+    "n8n",
+    "pydub"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and improve generative pipelines for image and video creation",
+    "Tune and control the behavior of image/video models for visual quality, style consistency, and product identity preservation",
+    "Optimize and scale image-to-video and text-to-video workflows for stable and reproducible production results",
+    "Diagnose quality bottlenecks including artifacts, instability, and product distortions and implement fixes",
+    "Extend generative systems for new products and marketing content scenarios",
+    "Research and test new image/video models and tools, staying current with industry solutions"
+  ],
+  "use_cases": [
+    "Generate viral UGC videos for advertising",
+    "Create AI-generated ad banners",
+    "Produce marketing content for small businesses",
+    "Launch effective ad campaigns on Facebook and Instagram",
+    "Enable small business visibility and scaling through AI-generated content"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "Docker",
+    "Kubernetes"
+  ],
+  "frameworks_mentioned": [
+    "ComfyUI",
+    "Diffusion models",
+    "Fine-tuning image/video models",
+    "Image-to-video generation",
+    "LLM agents",
+    "LoRA tuning",
+    "Prompt engineering",
+    "Text-to-image generation",
+    "Text-to-video generation"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building and optimizing\ngenerative AI systems for image and video creation,\nincluding fine-tuning models, designing LLM agents, and\nimplementing generative workflows. The engineer will work\nhands-on with diffusion models, LoRA tuning, and multimodal\ngeneration pipelines.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Diffusion models",
+      "Text-to-image generation",
+      "Image-to-video generation",
+      "Text-to-video generation",
+      "Prompt engineering",
+      "LLM agents",
+      "LoRA tuning",
+      "ComfyUI"
+    ],
+    "ml": [
+      "Fine-tuning image/video models"
+    ],
+    "web": [
+      "APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "ffmpeg-python",
+      "moviepy",
+      "imageio",
+      "pydub",
+      "n8n"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

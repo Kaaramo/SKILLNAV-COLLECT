@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0088",
+  "source": "intl-ai-corpus",
+  "source_ref": "6972582",
+  "source_url": "https://builtin.com/job/ai-ml-ops-engineer/6972582",
+  "title": "AI/ML Ops Engineer",
+  "title_normalized": "MLOPS_ENGINEER",
+  "company": "Foundation EGI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "27 Employees",
+  "company_stage": "venture-backed",
+  "company_focus": "AI Copilot for design and manufacturing",
+  "industries": [
+    "Artificial Intelligence",
+    "Design",
+    "Generative AI",
+    "Manufacturing"
+  ],
+  "description": "We are an MIT-born, venture-backed Silicon Valley startup\nbuilding a real-life 'Jarvis'—an AI Copilot for design and\nmanufacturing. Our goal is to utilize advanced AI, physics\nsimulation, and computer graphics to reduce costs and\nimprove engineering productivity across all steps of the\ndesign and manufacturing process.\n\nResponsibilities\n\n- Architect, build, and operate end-to-end ML pipelines for\n  training, validation and deployment on Google Cloud.\n- Define, instrument, and maintain logging, monitoring, and\n  alerting for model performance and data drift.\n- Automate CI/CD for ML artifacts and infrastructure using\n  GitHub Actions or equivalent.\n- Collaborate with cross-functional teams, including frontend\n  engineers, backend engineers, research engineers, and\n  infrastructure engineers.\n- Write clean, well-documented, fast, and maintainable code.\n- Help ensure our systems have high availability and\n  performance.\n\nWhat we're looking for\n\n- BS in Computer Science or a related field.\n- 5+ years of experience as a AI/ML Ops, DevOps,\n  Infrastructure Engineer or equivalent.\n- Expert-level Python and TypeScripts skills.\n- Experience with Docker, Kubernetes, Terraform, and Google\n  Cloud.\n- Deep understanding of large language models (LLMs) and\n  prompt-engineering best practices.\n- Experience designing and maintaining CI/CD pipelines to\n  fine-tune or train LLM models.\n- Excellent written and verbal communication skills.\n\nBonus Points\n\n- Experience in computer graphics or physics-based simulation.\n- Background in setting up Prometheus/Grafana, ELK, or similar\n  monitoring stacks.\n- Experience with Vertex AI.\n- Experience working with custom Domain-Specific Languages.\n\nOur tech stack\n\n- Google Cloud\n- Python, TypeScript\n- Protobuf, gRPC\n- Next.JS, React.JS\n- GitHub Actions\n- Docker, Kubernetes, Spinnaker\n- PostgreSQL\n",
+  "skills_required": [
+    "LLMs",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect, build, and operate end-to-end ML pipelines for training, validation and deployment on Google Cloud",
+    "Define, instrument, and maintain logging, monitoring, and alerting for model performance and data drift",
+    "Automate CI/CD for ML artifacts and infrastructure using GitHub Actions or equivalent",
+    "Collaborate with cross-functional teams, including frontend engineers, backend engineers, research engineers, and infrastructure engineers",
+    "Write clean, well-documented, fast, and maintainable code",
+    "Help ensure our systems have high availability and performance"
+  ],
+  "use_cases": [
+    "AI Copilot for design and manufacturing processes",
+    "Utilizing advanced AI, physics simulation, and computer graphics to reduce engineering costs",
+    "Improving engineering productivity across all steps of the design and manufacturing process"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "ELK",
+    "GitHub Actions",
+    "Google Cloud",
+    "Grafana",
+    "Kubernetes",
+    "Next.js",
+    "PostgreSQL",
+    "Prometheus",
+    "Protobuf",
+    "React",
+    "Terraform",
+    "Vertex AI",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an AI/ML Ops role focused on building\ninfrastructure, CI/CD pipelines, and monitoring systems for\nML teams. The role does not involve directly training, fine-\ntuning, or deploying models - it enables those workflows\nthrough pipelines and infrastructure automation.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "Protobuf",
+      "gRPC",
+      "Next.js",
+      "React"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "GitHub Actions",
+      "Prometheus",
+      "Grafana",
+      "ELK"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

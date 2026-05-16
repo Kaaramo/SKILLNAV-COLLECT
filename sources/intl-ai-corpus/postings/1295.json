@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-1295",
+  "source": "intl-ai-corpus",
+  "source_ref": "8383234",
+  "source_url": "https://builtin.com/job/ai-engineer/8383234",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Chaos Labs",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "25 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-powered financial risk management and intelligence\nplatform",
+  "industries": [],
+  "description": "Chaos Labs builds technology that powers safer, more\naccessible financial markets. Our risk management systems,\noracles, and AI models secure over $200 billion in assets\nacross protocols including Aave, Jupiter, and GMX,\nprocessing more than $5 trillion in transaction volume. We\nrecently launched Chaos AI, a financial intelligence\nplatform that transforms complex market data into actionable\ninsights and brings institutional-grade intelligence to\neveryone.\n\nThe Role:\n\nWe're looking for a Senior AI Engineer to design and build\nthe agentic systems powering Chaos AI. You'll work at the\nintersection of LLMs, financial data, and production\ninfrastructure, creating intelligent agents that reason,\nplan, and execute across complex financial workflows.\n\nResponsibilities:\n\n- Design and build single and multi-agent systems with\n  planning, memory, and tool use\n- Build and operate MCP servers with secure schemas and\n  permissions\n- Develop agentic workflows using LangGraph or equivalent\n  frameworks\n- Integrate LLMs via SDKs; manage prompts, structured outputs,\n  and tool calling\n- Define and run LLM evaluations for quality, correctness,\n  latency, cost, and regressions\n- Build observability and reliability infrastructure: logging,\n  tracing, retries, state management\n- Optimize performance and cost from prototype to production\n- Mentor engineers and establish agentic best practices\n\nRequirements:\n\n- 5+ years software engineering; 2+ years building production\n  AI/ML systems\n- Hands-on experience with agentic architectures and tool\n  calling\n- Practical experience with MCP servers\n- Experience with LangGraph or equivalent agentic frameworks\n- Experience designing and operating LLM evaluation pipelines\n- Strong Python and API design skills\n- Familiarity with RAG pipelines, vector databases, and\n  embedding-based retrieval\n\nPreferred Qualifications:\n\n- Experience with financial data, crypto/DeFi, or quantitative\n  analysis\n- Background in distributed systems or high-throughput data\n  pipelines\n- Contributions to open-source AI/ML projects\n\nOur Perks:\n\n- Compensation & Equity – competitive package aligned with\n  growth, performance, and merit\n- Career Growth Opportunities – be part of a rapidly\n  expanding, global technology company with room to grow\n  professionally\n- Paid Time Off - 21 vacation days + 7 sick days + 8 observed\n  U.S. company holidays\n- Health Coverage - 100% employer-paid options (medical,\n  dental & vision) for you and your dependents\n- FSA / HSA Options - depending on selected health insurance\n  plan\n- Parental Leave - thoughtful policy to support your family\n  needs\n- Wellness Programs - OneMedical, Teladoc, Talkspace, and EAP\n- Career Growth - opportunities in a rapidly expanding, global\n  technology company with personalized professional\n  development\n- Pre-tax Commuter Benefits\n- Compensation & Equity - competitive package aligned with\n  growth and merit\n- Salary and seniority level commensurate with experience\n  (Range: $130K–$150K)\n",
+  "skills_required": [
+    "LangGraph",
+    "MCP servers",
+    "RAG",
+    "agents",
+    "embeddings",
+    "prompt engineering",
+    "tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build single and multi-agent systems with planning, memory, and tool use capabilities",
+    "Build and operate MCP servers with secure schemas and permissions",
+    "Develop agentic workflows using LangGraph or equivalent frameworks",
+    "Integrate LLMs via SDKs and manage prompts, structured outputs, and tool calling",
+    "Define and run LLM evaluations for quality, correctness, latency, cost, and regressions",
+    "Build observability and reliability infrastructure including logging, tracing, retries, and state management",
+    "Optimize performance and cost from prototype to production environments",
+    "Mentor engineers and establish agentic best practices"
+  ],
+  "use_cases": [
+    "Transform complex market data into actionable financial insights",
+    "Build intelligent agents that reason, plan, and execute across financial workflows",
+    "Secure over $200 billion in assets across DeFi protocols including Aave, Jupiter, and GMX",
+    "Process and analyze more than $5 trillion in transaction volume",
+    "Provide institutional-grade intelligence for financial markets",
+    "Deliver risk management systems and oracles for financial protocols"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "LLM evaluation",
+    "distributed systems",
+    "logging",
+    "observability",
+    "tracing",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LangGraph",
+    "MCP servers",
+    "RAG",
+    "agents",
+    "embeddings",
+    "prompt engineering",
+    "tool calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building agentic AI systems with\nLLMs, including planning, tool use, and multi-agent\narchitectures. The engineer will work hands-on with model\nintegration, prompt management, and LLM evaluation - not\njust supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "agents",
+      "tool calling",
+      "prompt engineering",
+      "RAG",
+      "MCP servers"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [
+      "API design"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "LLM evaluation",
+      "observability",
+      "logging",
+      "tracing",
+      "distributed systems"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

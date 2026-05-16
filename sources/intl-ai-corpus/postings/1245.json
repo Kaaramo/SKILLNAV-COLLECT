@@ -1,0 +1,117 @@
+{
+  "job_id": "intl-ai-corpus-1245",
+  "source": "intl-ai-corpus",
+  "source_ref": "8338584",
+  "source_url": "https://builtin.com/job/azure-ai-automation-solution-engineer/8338584",
+  "title": "Azure AI & Automation Solution Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Coretek Services",
+  "company_type": "entité morale privée",
+  "location": "Kondapur, IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "147 Employees",
+  "company_stage": null,
+  "company_focus": "AI-driven automation and cloud services",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Design, implement, and support AI-driven automation\nsolutions leveraging Azure cloud services, Power Platform,\nand RPA technologies. Collaborate with business stakeholders\nand technical teams to deliver robust, scalable, and secure\nprocess automation for financial workflows (e.g., wire\ntransfer and check balancing).\n\nRequirements\n\nKey Responsibilities:\n\n- Develop and deploy automation workflows using Power\n  Automate, Azure Functions (Python), and Azure OpenAI.\n- Integrate data sources such as SFTP, OneDrive, Symitar, and\n  other financial systems.\n- Design, build, and maintain Power BI dashboards and reports.\n- Ensure secure data handling, including encryption, RBAC, and\n  compliance standards.\n- Collaborate with cross-functional teams to gather\n  requirements and deliver solutions.\n- Monitor, troubleshoot, and optimize automation processes for\n  performance and reliability.\n\nRequired Skills and Experience:\n\n- 3+ years of experience with Azure cloud services, including\n  Azure Functions, Blob Storage, and Azure OpenAI.\n- Strong Python programming skills, with experience developing\n  Azure Functions in Python.\n- Hands-on experience with Power Platform (Power Automate,\n  Power BI).\n- Familiarity with RPA concepts and tools.\n- Strong understanding of secure data integration (SFTP, API,\n  database connectivity).\n- Experience with financial systems (e.g., Symitar) and\n  document processing.\n- Knowledge of cloud security, RBAC, and compliance best\n  practices.\n- Excellent problem-solving, communication, and documentation\n  skills.\n\nPreferred:\n\n- Experience in financial services or banking automation\n  projects.\n- Familiarity with legacy data systems and process\n  modernization.\n\nBenefits\n\nFlexible /Hybrid Work Hours\n",
+  "skills_required": [
+    "Azure OpenAI",
+    "Power Automate",
+    "Power BI",
+    "RPA"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and deploy automation workflows using Power Automate, Azure Functions (Python), and Azure OpenAI",
+    "Integrate data sources such as SFTP, OneDrive, Symitar, and other financial systems",
+    "Design, build, and maintain Power BI dashboards and reports",
+    "Ensure secure data handling, including encryption, RBAC, and compliance standards",
+    "Collaborate with cross-functional teams to gather requirements and deliver solutions",
+    "Monitor, troubleshoot, and optimize automation processes for performance and reliability"
+  ],
+  "use_cases": [
+    "Financial workflow automation for wire transfer and check balancing",
+    "Document processing for financial systems",
+    "Secure data integration between financial systems and cloud platforms",
+    "Business process automation using RPA and low-code platforms"
+  ],
+  "tools_mentioned": [
+    "API integration",
+    "Azure Functions",
+    "Blob Storage",
+    "Cloud security",
+    "Database connectivity",
+    "Encryption",
+    "RBAC",
+    "SFTP"
+  ],
+  "frameworks_mentioned": [
+    "Azure OpenAI"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role works with AI technologies (Azure OpenAI) but\nprimarily focuses on automation workflows, data integration,\nand business process automation. The AI is being consumed as\na service to enhance automation rather than building or\ndeploying models directly, placing it in the AI-support\ncategory.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Azure OpenAI"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Blob Storage",
+      "Database connectivity"
+    ],
+    "data": [
+      "SFTP",
+      "API integration"
+    ],
+    "cloud": [
+      "Azure Functions",
+      "Cloud security"
+    ],
+    "ops": [
+      "RBAC",
+      "Encryption"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Power Automate",
+      "Power BI",
+      "RPA"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

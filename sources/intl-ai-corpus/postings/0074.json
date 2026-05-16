@@ -1,0 +1,165 @@
+{
+  "job_id": "intl-ai-corpus-0074",
+  "source": "intl-ai-corpus",
+  "source_ref": "6897423",
+  "source_url": "https://builtin.com/job/senior-staff-ai-software-engineer/6897423",
+  "title": "Senior / Staff AI Software Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Aegis Ventures",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-18",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "40 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered patient engagement platform for healthcare",
+  "industries": [],
+  "description": "About Aegis Ventures\n\nAegis Ventures partners with entrepreneurs and industry\nleaders to launch and scale transformative companies in\ndigital health and artificial intelligence. Our platform\nbrings together market-shaping ideas, growth capital, and\nambitious individuals to solve major societal problems. With\na focus on innovations in healthcare, Aegis has launched\nfour successful portfolio companies in partnership with\nNorthwell Health and recently announced the Digital\nConsortium to co-develop, invest in, and launch new\ncompanies.\n\nAbout Caregentic\n\nCaregentic is transforming how healthcare organizations\ndeliver patient care in the real world by developing a\nmodern platform with AI-powered patient engagement. We’re\nsolving complex challenges in patient care with\nsophisticated technology: Care journey orchestration, health\ndata integration, and clinical workflows. We relieve\nhealthcare providers of daily frustrations, so they can\nfocus on what matters most: caring for patients.\n\nFounded by a team that understands both the technical\nchallenges and clinical realities of modern healthcare,\nwe're co-developing a platform with leading health systems\nlike Northwell Health, giving us access to real-world\nfeedback and validation from day one. This unique\npartnership means our work is refined and improved in real\nclinical environments.\n\nWe're at an exciting inflection point — our early customers\nare seeing measurable improvements in care delivery and\noperational efficiency, and we’re ready to grow our team\nwith an experienced, senior engineer who can help scale our\nimpact in the industry.\n\nAbout the Job\n\nAs a Senior or Staff AI Software Engineer at Caregentic, you\nwill have end-to-end ownership of key parts of our backend\nservices architecture and our AI-drive applications. You\nwill work on our modern micro-service architecture, built\nwith Python 3.12, FastAPI, Strawberry GraphQL, and event-\ndriven design principles.\n\nYou will be responsible for building scalable, resilient\nsystems that drive real impact in patient care while also\nhelping shape the technical direction of the platform and\nmentoring other engineers. Our team operates with the\nurgency that healthcare demands, and we never lose sight\nthat our work directly impacts patient lives.\n\nWe’ve been a fully remote team from the start, distributed\nacross the U.S. We believe that great engineering happens\nwherever people do their best work.\n\nOur Tech Stack:\n\n- Python 3.12, FastAPI, Strawberry GraphQL\n- PostgreSQL with asyncpg and SQLAlchemy\n- Procrastinate (background jobs) and Apache Kafka\n- Docker, Kubernetes, AWS (S3, Cognito, SES, etc.)\n- Apollo Federation (GraphQL gateway)\n- React and TypeScript web frontend\n- Rasa (fork) with spaCy 3, Rasa SDK (custom action server)\n- LangChain, LangChain, AWS Bedrock, LangSmith (tracing/evals)\n- Vector search: Databricks Vector Search\n\nWhat You'll Do:\n\n- Design and develop robust, scalable, event-driven services\n  using Python, FastAPI, Apache Kafka and GraphQL.\n- Build fundamental LLM agents and integrate them into our\n  product.\n- Work with DevOps on deployments, monitoring, and reliability\n  improvements.\n- Maintain and optimize PostgreSQL databases and data models.\n- Collaborate across product and engineering teams to define\n  requirements and architect features.\n- Drive engineering best practices through code reviews and\n  mentorship.\n- Engage with current and prospective clients to drive\n  understanding of the Caregentic AI architecture and\n  capabilities.\n- Design, build, and operate LLM services, including RAG\n  systems (LangChain), agentic workflows, and evaluation\n  pipelines (LangSmith, deepeval, A/B testing).\n- Own vector search & embeddings pipelines from schema and\n  metadata design to model benchmarking, cost/latency\n  optimization, and Databricks Vector Search integration.\n- Lead conversational AI development enhancing NLU policies,\n  safety guardrails, and custom action servers, plus\n  integrating assistants with microservices.\n\nWhat You'll Need:\n\n- 7+ years of backend development experience in production\n  environments, specifically strong Python skills, including\n  async programming and type hints.\n- Experience building and monitoring production-quality ML and\n  AI systems.\n- Hands-on expertise with RAG frameworks and agentic\n  workflows.\n- Solid understanding of PostgreSQL database design and\n  optimization.\n- Familiarity with Docker and containerization.\n- Strong testing practices using pytest.\n- Experience with microservice architectures is preferred.\n- Experience with GraphQL APIs.\n- Experience with event-driven systems and message queues.\n- Experience with major cloud providers (e.g., AWS).\n- Shipped production LLM systems: ideally RAG architectures,\n  agent/tool use, and prompt/system design, with LangChain\n  (tracing/evals via LangSmith), embeddings, and vector\n  databases (Databricks Vector Search preferred). Deep\n  expertise in retrieval quality, including chunking,\n  metadata, hybrid search, reranking, and grounding.\n\nBonus Points For:\n\n- Experience with Strawberry GraphQL.\n- Experience with Kafka, Procrastinate, or similar background\n  job systems.\n- Experience Apollo Federation or multi-service GraphQL\n  experience.\n- Healthcare or regulated industry experience (HIPAA, HL7,\n  FHIR).\n- Experience with Terraform or infrastructure-as-code.\n- Experience with Kubernetes.\n- Experience mentoring engineers or leading technical\n  projects.\n- Experience working with LangSmith tracing, AWS Bedrock,\n  LangChain runnables.\n- Experience maintaining forked open source repositories.\n- Experience with managing conversation states in\n  conversational agents - experience with LangGraph or\n  similar.\n\nWhat You'll Bring to the Table:\n\n- Technical leadership: Ability to guide design decisions, and\n  bring others along.\n- End-to-end ownership: From technical design, through\n  shipping code, and supporting it in production, you’ll\n  take responsibility for the health of the platform.\n- Product-minded approach: Combining technical excellence with\n  pragmatic delivery.\n- Strong communication skills, especially in cross-functional\n  collaboration.\n- Passion for improving healthcare through technology.\n\nBenefits & Perks:\n\n- Comprehensive healthcare coverage (medical, dental, vision).\n- Time off: Flexible PTO policy with 20 vacation days and 5\n  sick days per year.\n- Remote work environment.\n- Top-tier development equipment.\n- Opportunity to make a meaningful impact on healthcare\n  delivery.\n\nSalary Range:\n\n- We offer a competitive compensation package, including:\n  - $185,000 - $280,000 base salary, depending on previous\n    experience and alignment with role expectations\n  - Performance-based bonus\n  - Equity participation in the company\n\nWhy Caregentic? Join us in building the next generation of\nhealthcare technology that improves patient outcomes and\ntransforms the industry!\n\nHealthcare teams shouldn't have to wrestle with fragmented\nsystems, duplicate data entry, or workflows that break down\nwhen they need them most. Our unified platform leverages AI\nto connect the dots between patient data, clinical\nprotocols, and care coordination, automatically surfacing\ninsights and streamlining processes to create seamless\nexperiences that improve outcomes while reducing\nadministrative burden.\n\nAt Caregentic, we believe the future of healthcare\ntechnology isn't about replacing human judgment, but\namplifying it with intelligent automation. Our AI-driven\nplatform learns from clinical patterns and workflows to make\nsmart recommendations, automate routine tasks, and surface\ncritical insights at exactly the right moment. Every line of\ncode we write, every AI model we deploy, and every platform\nintegration we create is designed with one goal: helping\nhealthcare professionals provide better care more\nefficiently.\n\nThis is a rare opportunity to work on cutting-edge\ntechnology that directly impacts patient care, alongside a\nteam that moves fast, learns from real clinical feedback,\nand builds with purpose. We're backed by top-tier health\nsystems like Northwell Health, and we’re at a pivotal growth\nmoment. We're building solutions hand-in-hand with\nclinicians and shipping into live care settings from day\none.\n\nAegis Ventures is a proud Equal Opportunity Employer — we\nrecruit, train, compensate and promote our team members\nbased on qualifications. We encourage you to apply\nregardless of your race, religion, national origin, sex,\ngender identity, sexual orientation, disability, age,\nveteran status, or any other applicable legally protected\ncharacteristics.\n",
+  "skills_required": [
+    "LLM agents",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "Rasa",
+    "agentic workflows",
+    "embeddings",
+    "pytest"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop robust, scalable, event-driven services using Python, FastAPI, Apache Kafka and GraphQL",
+    "Build fundamental LLM agents and integrate them into our product",
+    "Design, build, and operate LLM services, including RAG systems, agentic workflows, and evaluation pipelines",
+    "Own vector search and embeddings pipelines from schema and metadata design to model benchmarking and cost/latency optimization",
+    "Lead conversational AI development enhancing NLU policies, safety guardrails, and custom action servers",
+    "Maintain and optimize PostgreSQL databases and data models",
+    "Drive engineering best practices through code reviews and mentorship",
+    "Engage with current and prospective clients to drive understanding of the Caregentic AI architecture and capabilities"
+  ],
+  "use_cases": [
+    "AI-powered patient engagement for healthcare organizations",
+    "Care journey orchestration with automated workflows",
+    "Health data integration connecting patient data, clinical protocols, and care coordination",
+    "Intelligent automation surfacing critical insights at the right moment to healthcare providers",
+    "Streamlining clinical workflows to reduce administrative burden and improve outcomes",
+    "Conversational AI assistants for patient care interactions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "Apache Kafka",
+    "Apollo Federation",
+    "Databricks Vector Search",
+    "Docker",
+    "FastAPI",
+    "GraphQL",
+    "Kubernetes",
+    "LangSmith",
+    "PostgreSQL",
+    "Procrastinate",
+    "React",
+    "SQLAlchemy",
+    "Strawberry GraphQL",
+    "Terraform",
+    "event-driven systems",
+    "message queues",
+    "microservices",
+    "vector search"
+  ],
+  "frameworks_mentioned": [
+    "LLM agents",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "Rasa",
+    "agentic workflows",
+    "embeddings"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building LLM agents, RAG\nsystems, and agentic workflows using LangChain and AWS\nBedrock. The engineer will design and operate LLM services,\nimplement retrieval systems with vector databases, and\ndirectly develop conversational AI solutions.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "RAG",
+      "LLM agents",
+      "agentic workflows",
+      "embeddings",
+      "LangGraph",
+      "Rasa"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Strawberry GraphQL",
+      "GraphQL",
+      "Apollo Federation",
+      "React"
+    ],
+    "databases": [
+      "vector search",
+      "Databricks Vector Search",
+      "PostgreSQL",
+      "SQLAlchemy"
+    ],
+    "data": [
+      "Apache Kafka",
+      "Procrastinate",
+      "event-driven systems",
+      "message queues"
+    ],
+    "cloud": [
+      "AWS Bedrock",
+      "AWS"
+    ],
+    "ops": [
+      "LangSmith",
+      "Docker",
+      "Kubernetes",
+      "microservices",
+      "Terraform"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [
+      "spaCy",
+      "conversational AI",
+      "HIPAA",
+      "HL7",
+      "FHIR"
+    ],
+    "other": [
+      "pytest"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

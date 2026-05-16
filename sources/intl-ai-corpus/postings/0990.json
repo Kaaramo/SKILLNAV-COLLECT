@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-0990",
+  "source": "intl-ai-corpus",
+  "source_ref": "7924379",
+  "source_url": "https://builtin.com/job/ai-engineer/7924379",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BayRock Labs",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "52 Employees",
+  "company_stage": "unknown",
+  "company_focus": "Product engineering firm providing full-cycle product\ndevelopment using AI, ML, and data analytics",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Information Technology",
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "About BayRock Labs At BayRock Labs, we pioneer innovative\ntech solutions that drive business transformation. As a\nleading product engineering firm based in Silicon Valley, we\nprovide full-cycle product development, leveraging cutting-\nedge technologies in AI, ML, and data analytics. Our\ncollaborative, inclusive culture fosters professional growth\nand work-life balance. Join us to work on ground-breaking\nprojects and be part of a team that values excellence,\nintegrity, and innovation. Together, let's redefine what's\npossible in technology.\n\nAI Engineers with strong hands-on experience building and\nintegrating LLM-powered systems. The ideal profiles includes\ndeep Python skills and production-grade experience with\nagent frameworks and modern API development. Key\nRequirements\n\n- AI & LLM Integration (prompting, orchestration, model\n  evaluation, pipeline design)\n- Python (production-level backend + data/ML workflows)\n- LangGraph & LangChain (agent workflows, tools, memory,\n  graph-based orchestration)\n- FastAPI (robust backend services, API gateways, async\n  execution)\n",
+  "skills_required": [
+    "Agent Workflows",
+    "LLM Integration",
+    "LangChain",
+    "LangGraph",
+    "Model Evaluation",
+    "Prompt Engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and integrate LLM-powered systems",
+    "Design and implement AI/LLM pipelines and orchestration workflows",
+    "Develop agent workflows using LangGraph and LangChain",
+    "Implement prompting strategies and model evaluation processes",
+    "Build production-grade backend services and API gateways using FastAPI",
+    "Create graph-based orchestration with tools and memory for AI agents"
+  ],
+  "use_cases": [
+    "LLM-powered application development",
+    "Agent-based workflow automation",
+    "AI pipeline design and orchestration"
+  ],
+  "tools_mentioned": [
+    "FastAPI"
+  ],
+  "frameworks_mentioned": [
+    "Agent Workflows",
+    "LLM Integration",
+    "LangChain",
+    "LangGraph",
+    "Model Evaluation",
+    "Prompt Engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and integrating LLM-\npowered systems, including working with agent frameworks\n(LangGraph, LangChain), prompting, orchestration, and model\nevaluation. The engineer will be hands-on with LLM\ntechnologies, not just supporting infrastructure for AI\nwork.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM Integration",
+      "Prompt Engineering",
+      "LangGraph",
+      "LangChain",
+      "Agent Workflows",
+      "Model Evaluation"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

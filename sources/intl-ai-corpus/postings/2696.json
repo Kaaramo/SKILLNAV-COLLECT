@@ -1,0 +1,162 @@
+{
+  "job_id": "intl-ai-corpus-2696",
+  "source": "intl-ai-corpus",
+  "source_ref": "8974874",
+  "source_url": "https://builtin.com/job/developer-low-internal-coi-india-103667/8974874",
+  "title": "AI Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Orion Innovation",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-07",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,410 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "Global business and technology services firm delivering\ndigital transformation and product development",
+  "industries": [],
+  "description": "Orion Innovation is a premier, award-winning, global\nbusiness and technology services firm.  Orion delivers game-\nchanging business transformation and product development\nrooted in digital strategy, experience design, and\nengineering, with a unique combination of agility, scale,\nand maturity.  We work with a wide range of clients across\nmany industries including financial services, professional\nservices, telecommunications and media, consumer products,\nautomotive, industrial automation, professional sports and\nentertainment, life sciences, ecommerce, and education.\n\nJob Overview:\n\nWe are seeking a seasoned AI Developer to lead the design\nand implementation of next-generation Agentic AI solutions.\nYou won't just be building chatbots; you will be\narchitecting autonomous systems where multiple specialized\nAI agents collaborate to solve complex, long-horizon\nbusiness problems. You will leverage a multi-cloud strategy\nto deploy scalable, resilient, and \"reasoning-heavy\" AI\nworkflows.\n\n Key Responsibilities\n\n- Agentic Architecture: Design and develop autonomous agents\n  capable of independent planning, tool-use (function\n  calling), context & prompt engineering, and self-\n  correction.\n- Multi-Agent Orchestration: Implement LangGraph to manage\n  task delegation, conflict resolution, and collaborative\n  reasoning between specialized agents.\n- Advanced RAG & Memory: Build sophisticated Retrieval-\n  Augmented Generation (RAG) pipelines with episodic and\n  semantic memory to ensure agents maintain context over\n  long interactions.\n- Cloud-Native Deployment: Architect and deploy AI services\n  across AWS (Bedrock/SageMaker), Azure (OpenAI\n  Service/Foundry), ensuring high availability and cost\n  optimization.\n- Guardrails & Ethics: Implement rigorous evaluation\n  frameworks (e.g., Ragas, TruLens) and safety guardrails to\n  prevent hallucinations and ensure responsible agent\n  behavior.\n- Performance Tuning: Optimize LLM latency and throughput\n  using techniques like prompt caching, quantization, and\n  specialized model routing.\n- Prompt engineering & Context engineering.\n\nKey Skills:\n\n- Core AI: 4+ years of professional experience in AI/ML, with\n  at least 1.5+ years focused specifically on Generative AI\n  and LLM orchestration.\n- Agent Frameworks: Hands-on expertise with LangGraph. Proven\n  ability to build \"loops\" and \"state machines\" rather than\n  just linear chains.\n- Programming: Mastery of Python (Asyncio, Pydantic, FastAPI).\n  Experience with TypeScript/Node.js is a significant plus.\n- Cloud Infrastructure:\n- AWS: Bedrock, Lambda, Step Functions, S3.\n- Azure: Azure OpenAI, AI Search, CosmosDB, PostgreSQL.\n- Data & Memory: Proficiency with Vector Databases like\n  Pinecone, Weaviate, Milvus, or pgvector. Understanding of\n  graph databases (Neo4j) for knowledge-graph-enhanced RAG.\n- DevOps/AIOps: Experience with Docker, Kubernetes, and CI/CD\n  pipelines specifically for AI (LLMOps).\n\n Preferred Qualifications\n\n- Contributions to open-source AI frameworks or research\n  publications in MAS.\n- Experience with Model Context Protocol (MCP) or Agent-to-\n  Agent (A2A) communication standards.\n- Familiarity with fine-tuning techniques (LoRA, QLoRA) for\n  specialized agent tasks.\n\nOrion is an equal opportunity employer, and all qualified\napplicants will receive consideration for employment without\nregard to race, color, creed, religion, sex, sexual\norientation, gender identity or expression, pregnancy, age,\nnational origin, citizenship status, disability status,\ngenetic information, protected veteran status, or any other\ncharacteristic protected by law.\n\nCandidate Privacy Policy\n\nOrion Systems Integrators, LLC and its subsidiaries and its\naffiliates (collectively, “Orion,” “we” or “us”) are\ncommitted to protecting your privacy. This Candidate Privacy\nPolicy (orioninc.com) (“Notice”) explains:\n\n- What information we collect during our application and\n  recruitment process and why we collect it;\n- How we handle that information; and\n- How to access and update that information.\n\nYour use of Orion services is governed by any applicable\nterms in this notice and our general Privacy Policy.\n",
+  "skills_required": [
+    "Function Calling",
+    "LangGraph",
+    "LoRA",
+    "MCP (Model Context Protocol)",
+    "Prompt Engineering",
+    "QLoRA",
+    "Quantization",
+    "RAG",
+    "Ragas",
+    "TruLens"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop autonomous agents capable of independent planning, tool-use, context & prompt engineering, and self-correction",
+    "Implement multi-agent orchestration using LangGraph for task delegation, conflict resolution, and collaborative reasoning between specialized agents",
+    "Build sophisticated RAG pipelines with episodic and semantic memory to maintain context over long interactions",
+    "Architect and deploy AI services across AWS (Bedrock/SageMaker) and Azure (OpenAI Service/Foundry) with high availability and cost optimization",
+    "Implement evaluation frameworks (Ragas, TruLens) and safety guardrails to prevent hallucinations and ensure responsible agent behavior",
+    "Optimize LLM latency and throughput using prompt caching, quantization, and specialized model routing",
+    "Perform prompt engineering and context engineering for AI agent systems"
+  ],
+  "use_cases": [
+    "Autonomous multi-agent systems for complex business problem solving",
+    "Enterprise AI workflow deployment across multi-cloud environments",
+    "Knowledge-graph-enhanced RAG for long-context business interactions",
+    "Agentic AI solutions for industries including financial services, telecom, life sciences, and more"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "AWS Lambda",
+    "AWS S3",
+    "AWS SageMaker",
+    "AWS Step Functions",
+    "Azure AI Search",
+    "Azure OpenAI Service",
+    "CI/CD",
+    "CosmosDB",
+    "Docker",
+    "FastAPI",
+    "Kubernetes",
+    "LLMOps",
+    "Milvus",
+    "Neo4j",
+    "Pinecone",
+    "PostgreSQL",
+    "Weaviate",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Function Calling",
+    "LangGraph",
+    "LoRA",
+    "MCP (Model Context Protocol)",
+    "Prompt Engineering",
+    "QLoRA",
+    "Quantization",
+    "RAG",
+    "Ragas",
+    "TruLens"
+  ],
+  "languages_programming": [
+    "Asyncio",
+    "Pydantic",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely focused on building and deploying\nagentic AI systems, including designing autonomous agents,\nimplementing multi-agent orchestration with LangGraph,\nbuilding RAG pipelines, and optimizing LLM performance. The\ndeveloper works directly on AI/LLM models and frameworks,\nnot just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "RAG",
+      "Prompt Engineering",
+      "Function Calling",
+      "MCP (Model Context Protocol)",
+      "LoRA",
+      "QLoRA",
+      "Ragas",
+      "TruLens"
+    ],
+    "ml": [
+      "Quantization"
+    ],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "pgvector",
+      "Neo4j",
+      "CosmosDB",
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Bedrock",
+      "AWS SageMaker",
+      "AWS Lambda",
+      "AWS Step Functions",
+      "AWS S3",
+      "Azure OpenAI Service",
+      "Azure AI Search"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "LLMOps"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Asyncio",
+      "Pydantic"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

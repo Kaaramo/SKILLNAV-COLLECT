@@ -1,0 +1,33 @@
+company:
+  name: CGI
+  stage: null
+  focus: null
+position:
+  title: Développeur Back-end Java / Data / Kafka /RabbitMQ (F/H)
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - kafka
+    cloud: []
+    ops:
+    - cicd
+    languages:
+    - java
+    domains: []
+    other:
+    - Git
+    - scrum
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4392994665'
+  extracted_at: '2026-05-15T15:53:14+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

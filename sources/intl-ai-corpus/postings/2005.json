@@ -1,0 +1,165 @@
+{
+  "job_id": "intl-ai-corpus-2005",
+  "source": "intl-ai-corpus",
+  "source_ref": "8692157",
+  "source_url": "https://www.builtinla.com/job/ai-engineer-public-sector/8692157",
+  "title": "AI Engineer - Public Sector",
+  "title_normalized": "AI_ENGINEER",
+  "company": "unstructured.io",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-20",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B",
+  "company_focus": "Platform for transforming unstructured data into LLM-ready\nformats",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Software"
+  ],
+  "description": "The Mission\n\nAt Unstructured, we are obsessed with transforming messy,\nunstructured data into a format that LLMs can actually use.\nOur Public Sector team has recently secured several high-\nimpact contracts that demand more than just \"off-the-shelf\"\nsolutions. We are looking for an AI Engineer who thrives at\nthe intersection of R&D and production-grade software\nengineering.\n\n\n\nYou won’t just be building notebook demos; you will be\narchitecting, prototyping, and shipping novel multimodal\ndata processing, RAG, and agentic systems that solve\ncritical problems for Government and Military clients. Your\nwork will bridge the gap between one-off custom builds and a\nrepeatable, scalable product roadmap.\n\n\n\nWhat You’ll Do Day-to-Day\n\nYou will be a high-agency individual contributor, owning the\nlifecycle of AI solutions from initial research to AWS\ndeployment.\n\n\n\n50% Building & Shipping: Design and implement production-\ngrade RAG pipelines and agentic workflows using Python.\nYou’ll build systems that handle real-world \"messy\" data\n(PDFs, scanned docs, images, full motion video) and ensure\nthey are performant and scalable.\n\n\n\n30% Research & Experimentation: Stay at the bleeding edge.\nYou’ll evaluate new models (LLMs, embedding models, object\ndetection), prototype approaches for SBIR/government\ndeliverables, and run experiments to prove what actually\nworks.\n\n\n\n20% Strategy & Collaboration: Partner with the team to\ndocument architectures, contribute to technical reports for\ncontract deliverables, and participate in pre-sales calls to\narchitect solutions for complex client needs.\n\n\n\nThe Ideal Candidate\n\nWe are looking for a self-directed engineer who excels in\nhigh-stakes, ambiguous environments. You are likely a strong\nfit if your professional background reflects the following:\n\n\n\nSystems-First Engineering: You prioritize building reliable,\nscalable systems over experimental scripts. You have a track\nrecord of moving AI models out of notebooks and into\nproduction environments where latency, cost, and accuracy\nare treated as first-class citizens.\n\n\n\nTechnical Resourcefulness: You are comfortable working in\nrestricted or air-gapped environments. When commercial APIs\naren’t an option, you have the expertise to deploy, fine-\ntune, and optimize open-source models to achieve the mission\nobjective.\n\n\n\nAutonomous Problem Solving: You can take a high-level\ngovernment requirement and translate it into a technical\nroadmap. You don't require constant oversight to identify\nthe right tool for a job, whether it’s a specific vector\ndatabase or a custom multimodal pipeline.\n\n\n\nA \"Generalist\" Mindset: While you specialize in AI, you\nunderstand the full stack. You are as comfortable discussing\nembedding strategies as you are configuring AWS GovCloud\ninfrastructure or debugging a FastAPI endpoint.\n\nMust-Haves\n\n- Proven experience deploying Production RAG pipelines against\n  real-world, messy datasets.\n- Deep expertise in Agentic system design (tool-use, multi-\n  agent orchestration).\n- Strong Python engineering skills—writing clean, scalable,\n  and maintainable code\n- Experience operating within AWS/GovCloud environments.\n\nNice-to-Haves\n\n- Experience fine-tuning NLP or object detection models.\n- Familiarity with LLM evaluation frameworks (hallucination\n  detection, drift monitoring).\n- Knowledge of government security standards and working in\n  different classification environments and on-prem\n- Security Clearance: Existing Secret/TS clearance or\n  eligibility is a significant plus.\n\nYour Technical Toolkit\n\n- Languages: Python (expert-level), SQL\n- LLM & Agentic Frameworks: LangChain, LangGraph, CrewAI, or\n  similar orchestration frameworks\n- RAG Stack: Retrieval with vector databases (Pinecone,\n  Weaviate, Chroma, pgvector), graph databases (Neo4J),\n  Elasticsearch, BM25, and Sentence-Transformers; NLP\n  enrichment with spaCy, GLiNER, and Transformers;\n  optimization using embedding models, reranking pipelines,\n  and DSPy\n- Evaluation & Observability: RAGAS, DeepEval, Arize Phoenix,\n  and synthetic annotations\n- Cloud & Infrastructure: AWS, SageMaker, Bedrock, S3, Lambda,\n  Docker, and FastAPI\n- Data Processing: Complex pipelines for unstructured and\n  multimodal data, including PDFs, scanned documents,\n  images, and audio.\n\nWhy Join Us\n\nOpportunity to work on a dynamic team and work on cutting-\nedge machine learning projects.\n\nCollaborative and innovative work environment with a focus\non learning and growth.\n\nImpactful role in shaping the company's direction and\ndriving innovation in unstructured data processing.\n\nCompetitive compensation package, including benefits and\nstock options.\n",
+  "skills_required": [
+    "CrewAI",
+    "DSPy",
+    "GLiNER",
+    "LangChain",
+    "LangGraph",
+    "RAG pipelines",
+    "Sentence-Transformers",
+    "Transformers",
+    "fine-tuning",
+    "object detection",
+    "spaCy"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement production-grade RAG pipelines and agentic workflows using Python",
+    "Build systems that handle real-world messy data including PDFs, scanned documents, images, and full motion video",
+    "Evaluate new models including LLMs, embedding models, and object detection models",
+    "Prototype approaches for SBIR and government deliverables and run experiments",
+    "Deploy AI solutions to AWS GovCloud environments",
+    "Document architectures and contribute to technical reports for contract deliverables",
+    "Participate in pre-sales calls to architect solutions for complex client needs"
+  ],
+  "use_cases": [
+    "Government and military data processing and analysis",
+    "Multimodal document understanding and extraction",
+    "Enterprise RAG systems for classified environments",
+    "Agentic workflows for complex government requirements",
+    "Air-gapped AI deployment for secure environments"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Arize Phoenix",
+    "Bedrock",
+    "Chroma",
+    "DeepEval",
+    "Docker",
+    "Elasticsearch",
+    "FastAPI",
+    "Lambda",
+    "Neo4J",
+    "Pinecone",
+    "RAGAS",
+    "S3",
+    "SageMaker",
+    "Weaviate",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "DSPy",
+    "GLiNER",
+    "LangChain",
+    "LangGraph",
+    "RAG pipelines",
+    "Sentence-Transformers",
+    "Transformers",
+    "fine-tuning",
+    "object detection",
+    "spaCy"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely ai-first as it involves building\nproduction RAG pipelines, agentic workflows, and multimodal\ndata processing systems from scratch. The engineer will\ndesign, implement, and deploy AI solutions including fine-\ntuning models and architecting complete systems, not just\nsupporting others' AI work.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "RAG pipelines",
+      "DSPy"
+    ],
+    "ml": [
+      "Sentence-Transformers",
+      "spaCy",
+      "GLiNER",
+      "Transformers",
+      "fine-tuning",
+      "object detection"
+    ],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Chroma",
+      "pgvector",
+      "Neo4J",
+      "Elasticsearch"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "SageMaker",
+      "Bedrock",
+      "S3",
+      "Lambda"
+    ],
+    "ops": [
+      "RAGAS",
+      "DeepEval",
+      "Arize Phoenix",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

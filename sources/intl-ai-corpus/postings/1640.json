@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-1640",
+  "source": "intl-ai-corpus",
+  "source_ref": "8552072",
+  "source_url": "https://www.builtinla.com/job/sr-applied-ai-engineer/8552072",
+  "title": "Sr. Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AssetWatch",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B",
+  "company_focus": "Predictive maintenance for manufacturing",
+  "industries": [],
+  "description": "AssetWatch serves global manufacturers by powering\nmanufacturing uptime through the delivery of an unparalleled\ncondition monitoring experience, with a passion to care\nabout the assets our customers care for every day. We are a\ndevoted and capable team that includes world-renowned\nengineers and distinguished business leaders united by a\ncommon goal – To build the future of predictive maintenance.\nAs we enter the next phase of rapid growth, we are seeking\npeople to help lead the journey.\n\nWe are hiring a Senior Applied AI Engineer to design and\nbuild reusable AI systems that accelerate innovation across\nthe organization. This is a senior individual contributor\nrole focused on rapidly prototyping LLM and agent-based\nworkflows, architecting clean and reusable patterns, and\npartnering closely with our specialty data science team and\nHead of AI.\n\nYou will translate strategy and ideas into structured,\nmodular systems that can be handed off to production\nengineering teams or integrated via well-defined APIs.\n\nWe expect end-to-end ownership, pragmatic tradeoffs, and a\nbias for action.\n\n\n\nKey Responsibilities\n\nAI Prototyping & Workflow Development\n\n- Design and build end-to-end LLM-powered workflows, including\n  RAG pipelines, tool-calling systems, and agent\n  architectures\n\n- Rapidly prototype internal AI assistants and automation\n  tools across business functions\n\n- Integrate data science models into agent-based workflows\n\n- Translate ambiguous ideas into practical, working systems\n\nReusable Architecture & Enablement\n\n- Develop shared connectors to major LLM providers and\n  internal data sources\n\n- Create reusable agent templates and AI development patterns\n\n- Design modular systems with clean API boundaries for\n  production handoff\n\n- Implement lightweight evaluation, logging, and tracing\n  patterns appropriate for internal deployment\n\nCross-Functional Collaboration\n\n- Partner deeply with specialty data science teams to\n  operationalize models\n\n- Work closely with the Head of AI to shape technical\n  direction and AI strategy\n\n- Communicate architectural decisions and tradeoffs clearly to\n  technical and non-technical stakeholders\n\n\n\nQualifications\n\nEducation\n\n- BS in Computer Science, Engineering, Mathematics, or related\n  field required; MS/PhD preferred but not required if\n  experience demonstrates equivalent capability.\n\nTechnical & professional experience\n\n- 6+ years of professional software or machine learning\n  engineering experience building backend or distributed\n  systems\n\n- Strong proficiency in Python, including experience building\n  modular, testable, and well-structured codebases.\n\n- Proficiency in SQL expected, including intermediate querying\n  and basic ETL jobs\n\n- Hands-on experience developing LLM-powered applications,\n  including RAG pipelines, prompt orchestration, structured\n  outputs, and tool-calling workflows\n\n- Experience working with vector databases and designing\n  retrieval strategies\n\n- Experience designing and exposing RESTful or event-driven\n  APIs for internal or external consumption\n\n- Familiarity with agent frameworks or orchestration libraries\n  (e.g., LangChain, LlamaIndex, Semantic Kernel, or similar)\n\n- Experience integrating ML or statistical model outputs into\n  production-oriented systems\n\n- Understanding of evaluation concepts for LLM systems (prompt\n  versioning, offline evals, feedback loops, or guardrails)\n\n- Comfortable operating in ambiguity and driving initiatives\n  end-to-end with minimal oversight\n\nPreferred\n\n- Worked in rapid prototyping and deployment ecosystems\n\n- Experience building internal AI tooling, SDKs, or developer\n  enablement frameworks\n\n- Familiarity with cloud environments (AWS preferred),\n  containerization (Docker), and basic deployment patterns\n\n- Experience working with streaming or ETL pipelines for\n  ingesting structured and unstructured data\n\n- Exposure to observability practices (logging, tracing,\n  metrics) in application systems\n\n- Experience handing off prototypes to production engineering\n  teams in a clean, scalable manner\n\n#LI-REMOTE\n\nWhat We Offer:\n\nAssetWatch is a remote-first company that puts people at the\ncenter of everything we do. We want our team members to\nthrive - that’s why we offer a range of benefits and perks\ndesigned to support your well-being, growth, and work-life\nbalance.\n\n- Competitive compensation package including stock options\n- Flexible work schedule\n- Comprehensive benefits including retirement plan match\n- Opportunity to make a real impact every day\n- Work with a dynamic and growing team\n- Unlimited PTO\n\nWe have a distributed team that works remotely across\nlocations in the United States and Ontario, Canada.\nCollaboration within core working hours is required.\n",
+  "skills_required": [
+    "Agent frameworks",
+    "LLM-powered applications",
+    "LangChain",
+    "LlamaIndex",
+    "ML model integration",
+    "Prompt orchestration",
+    "RAG",
+    "Semantic Kernel",
+    "Tool-calling workflows"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build end-to-end LLM-powered workflows, including RAG pipelines, tool-calling systems, and agent architectures",
+    "Rapidly prototype internal AI assistants and automation tools across business functions",
+    "Develop shared connectors to major LLM providers and reusable agent templates",
+    "Partner with data science teams to operationalize models into production systems"
+  ],
+  "use_cases": [
+    "Predictive maintenance for manufacturing equipment",
+    "Internal AI assistants for business functions",
+    "Automation tools for operational efficiency",
+    "Condition monitoring systems",
+    "LLM-powered workflows for data analysis",
+    "Agent-based systems for model integration"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Docker",
+    "ETL pipelines",
+    "RESTful APIs",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "LLM-powered applications",
+    "LangChain",
+    "LlamaIndex",
+    "ML model integration",
+    "Prompt orchestration",
+    "RAG",
+    "Semantic Kernel",
+    "Tool-calling workflows"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building LLM-powered\napplications, RAG pipelines, tool-calling systems, and agent\narchitectures. The engineer is responsible for designing and\nimplementing AI systems directly, not just supporting\ninfrastructure or data pipelines for other teams.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLM-powered applications",
+      "LangChain",
+      "LlamaIndex",
+      "Semantic Kernel",
+      "Prompt orchestration",
+      "Tool-calling workflows",
+      "Agent frameworks"
+    ],
+    "ml": [
+      "ML model integration"
+    ],
+    "web": [
+      "RESTful APIs"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "ETL pipelines"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

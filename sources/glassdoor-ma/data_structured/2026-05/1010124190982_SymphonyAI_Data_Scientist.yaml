@@ -1,0 +1,43 @@
+company:
+  name: SymphonyAI
+  stage: null
+  focus: null
+position:
+  title: Data Scientist
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Forecasting
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web: []
+    databases: []
+    data:
+    - Hands-on experience with Python, Pandas, and data analysis techniques.
+    - pandas
+    cloud: []
+    ops:
+    - docker
+    - Familiarity with Docker, GitHub, and model deployment or support processes.
+    languages:
+    - python
+    domains:
+    - 1–3 years of experience in demand forecasting, data science, supply chain analytics, or retail planning.
+    - forecasting
+    - retail
+    other:
+    - Bachelor’s degree in Data Science, Statistics, Mathematics, Engineering, Supply Chain, Computer Science, or a related
+      field.
+    - Basic understanding of demand planning, replenishment, and forecast accuracy measurement.
+    - statistics
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '1010124190982'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

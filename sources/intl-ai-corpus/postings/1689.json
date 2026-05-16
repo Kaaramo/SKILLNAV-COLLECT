@@ -1,0 +1,180 @@
+{
+  "job_id": "intl-ai-corpus-1689",
+  "source": "intl-ai-corpus",
+  "source_ref": "8577082",
+  "source_url": "https://builtin.com/job/ai-forward-deploy-engineer/8577082",
+  "title": "AI Forward Deploy Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "ArangoDB",
+  "company_type": "entité morale privée",
+  "location": "New Delhi, IND",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "110 Employees",
+  "company_stage": null,
+  "company_focus": "Multi-model database platform for AI applications",
+  "industries": [
+    "Database",
+    "Analytics"
+  ],
+  "description": "About Arango:\n\nAt Arango we're on a mission to make working with complex\ndata simple, powerful, and AI-ready. Based in California and\nin Cologne (with a global team), we’re building a cutting-\nedge data platform that helps organizations bring all their\ndata together — graph, document, key/value, full-text, and\nvector search — in one engine.\n\nWhy does that matter? Because it means developers and data\nteams can build next-gen AI applications like RAG, knowledge\ngraphs, and smart agents — without gluing together a bunch\nof tools that were never meant to work together.\n\nOur platform makes it easy to work with any kind of data-\nstructured, semi-structured, or unstructured, and it gives\nteams everything they need to build faster, smarter, and\nwith way more context. From our easy-to-learn AQL query\nlanguage to modern integration tools, we’re here to help\nteams grow and scale with AI.\n\nAbout the role:\n\n Arango is looking for an AI Forward Deploy Engineer to\nembed with our customers and deliver real, production‑grade\nAI solutions—fast. You’ll run discovery, design and\nprototype systems, ship secure and reliable services, and\nensure adoption and measurable business impact. Think\nfull‑stack AI + MLOps + product sense, delivered\nside‑by‑side with users.\n\nThis is a hands-on, customer-facing role for engineers who\nare as comfortable whiteboarding with executives as they are\nprofiling latency in a retrieval pipeline.\n\n\nLocation: INDIA - only applicants living in India will be\nconsidered (Must be fluent in English)\n\nKey Responsibilities:\n\n- Partner with customer sponsors, SMEs, and operators to\n  identify high‑value AI use cases.\n- Define success metrics, SLAs/SLOs, data access needs, and a\n  delivery plan (PoV → pilot → production)\n- Build end‑to‑end prototypes (data connectors, RAG pipelines,\n  prompts/tools, UIs/APIs).\n- Productionize into secure, observable services with CI/CD,\n  infrastructure‑as‑code, and proper testing\n- Implement retrieval‑augmented generation (chunking,\n  embeddings, ranking, caching) and tool/call orchestration.\n- Evaluate and iterate prompts, models, and retrieval\n  strategies using offline/online metrics and A/B tests.\n- Where needed, fine‑tune or adapt models (LoRA/PEFT,\n  preference optimization/DPO, distillation) and optimize\n  inference (quantization, batching, vLLM/TGI/TensorRT‑LLM)\n- Build robust data pipelines (ETL/ELT), vector indices, and\n  metadata governance.\n- Monitor quality, drift, hallucination/guardrail events,\n  latency, and cost; set up alerting and dashboards\n- Implement role‑based access, secrets management, audit\n  logging, PII redaction, and content safety filters.\n- Align solutions to customer requirements (e.g., SOC2/ISO\n  27001, GDPR/CCPA, HIPAA as applicable)\n- Document architectures and playbooks; train customer\n  engineers and end users.\n- Capture product feedback and influence [Company]’s roadmap\n  with field learnings.\n\nRequired Qualifications:\n\n- 4+ years of software engineering experience building and\n  operating production systems (or equivalent).\n- Strong AI, Python skills; solid understanding of data\n  structures, networking, concurrency, and systems design.\n- Hands‑on experience with modern LLMs and tooling (e.g.,\n  OpenAI/Anthropic/Llama, Hugging Face,\n  LangChain/LlamaIndex, function/tool calling).\n- Retrieval and vector databases (FAISS, pgvector, Pinecone,\n  Weaviate, or similar).\n- Cloud & containers (AWS/GCP/Azure), Docker/Kubernetes, IaC\n  (Terraform/CloudFormation), and CI/CD.\n- Observability (metrics, logs, traces) and performance tuning\n  for latency‑sensitive services.\n- Excellent communication; experience working directly with\n  customers or cross‑functional stakeholders.\n\nNice to have:\n\n- Front‑end or full‑stack experience (TypeScript/React,\n  Next.js) for light UI prototyping.\n- Search/IR fundamentals (BM25, hybrid retrieval, re‑ranking).\n- MLOps platforms (MLflow, Weights & Biases), evaluation\n  frameworks (Ragas, promptfoo, DeepEval).\n- Inference optimization (vLLM, Text Generation Inference,\n  Triton, TensorRT‑LLM, quantization).\n- Domain experience in [finance/healthcare/public\n  sector/manufacturing/retail].\n- Security/compliance familiarity; prior work with data\n  residency, KMS/HSM, or private networking.\n- Government/industry clearances where relevant.\n\nWhat Success Looks Like (6–12 months):\n\n- 2–4 customer use cases deployed to production with\n  agreed‑upon uptime, latency, and cost targets.\n- Demonstrable quality lifts (e.g., task accuracy, deflection\n  rate, cycle time) backed by evals and telemetry.\n- Reusable building blocks (templates/operators/connectors)\n  adopted by the broader delivery team.\n- Customer enablement completed (runbooks, docs, training)\n  with strong satisfaction/NPS.\n\nOur Toolset:\n\n- Models & SDKs: OpenAI, Anthropic, Meta Llama, Hugging Face\n- Retrieval: FAISS, pgvector, Pinecone, Weaviate; rerankers\n  (ColBERT, cross‑encoders)\n- Pipelines & Orchestration: LangChain, LlamaIndex, Ray,\n  Airflow\n- MLOps & Evals: MLflow, Weights & Biases, Ragas, promptfoo,\n  Great Expectations\n- Serving & Infra: vLLM, TGI, FastAPI/gRPC, Docker/K8s,\n  Terraform, GitHub Actions\n- Observability & Guardrails: OpenTelemetry,\n  Prometheus/Grafana, Llama Guard/Content Safety, custom\n  filters\n- Data: Postgres/BigQuery/Snowflake; Kafka; object storage\n\nSample Projects You Might Tackle:\n\n- Secure RAG assistant over millions of documents with hybrid\n  search, guardrails, and cost‑aware caching.\n- High‑volume customer support copilot that integrates with\n  CRM/ITSM and meets a strict response‑time SLO.\n- Document intake pipeline with PII detection/redaction and\n  structured extraction (LLM + regex + heuristics).\n- Fine‑tuned classification/routing model that reduces human\n  triage by 40%+.\n\nWhy Join Arango:\n\nOur headquarters is in San Francisco (US) and we have an\noffice in Cologne (Germany), but most of our diverse team\nworks remotely worldwide. So, do you prefer your desk at\nhome or do you want to join us at one of our locations? Your\nchoice.\n\nThe global minds of Arango team comes from 5 different\ncontinents and more than 20 countries. Diverse backgrounds\nenable us to see new solutions. We invite people from every\nculture, national origin, religion, sexual orientation,\ngender identity or expression, and of every age to apply to\nour positions. All employment decisions are based on\nbusiness needs, job requirements, and individual\nqualifications. Arango is committed to a workplace free of\ndiscrimination and harassment based on any of these\ncharacteristics. We love this diversity and encourage\neveryone curious and visionary to join the multi-model\nmovement.\n",
+  "skills_required": [
+    "Anthropic APIs",
+    "DPO",
+    "Hugging Face",
+    "LangChain",
+    "Llama",
+    "LlamaIndex",
+    "LoRA",
+    "OpenAI APIs",
+    "PEFT",
+    "RAG",
+    "function calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Partner with customer stakeholders to identify high-value AI use cases and define delivery plans",
+    "Build end-to-end prototypes including data connectors, RAG pipelines, prompts, tools, and UIs/APIs",
+    "Implement retrieval-augmented generation with chunking, embeddings, ranking, caching, and tool orchestration",
+    "Productionize AI solutions with CI/CD, infrastructure-as-code, security, and observability",
+    "Fine-tune and adapt models using LoRA/PEFT, DPO, and distillation; optimize inference with quantization, vLLM, and TensorRT-LLM",
+    "Monitor quality metrics, drift, hallucinations, latency, and costs; set up alerting and dashboards"
+  ],
+  "use_cases": [
+    "Secure RAG assistant over millions of documents with hybrid search and guardrails",
+    "High-volume customer support copilot with CRM/ITSM integration and strict response-time SLOs",
+    "Document intake pipeline with PII detection, redaction, and structured extraction",
+    "Fine-tuned classification and routing models to reduce human triage by 40%+"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "BigQuery",
+    "Docker",
+    "FAISS",
+    "FastAPI",
+    "GitHub Actions",
+    "Grafana",
+    "Kafka",
+    "Kubernetes",
+    "MLflow",
+    "Next.js",
+    "OpenTelemetry",
+    "Pinecone",
+    "Postgres",
+    "Prometheus",
+    "Ragas",
+    "Ray",
+    "React",
+    "Snowflake",
+    "TensorRT-LLM",
+    "Terraform",
+    "Weaviate",
+    "Weights & Biases",
+    "gRPC",
+    "pgvector",
+    "promptfoo",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic APIs",
+    "DPO",
+    "Hugging Face",
+    "LangChain",
+    "Llama",
+    "LlamaIndex",
+    "LoRA",
+    "OpenAI APIs",
+    "PEFT",
+    "RAG",
+    "function calling"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a Forward Deploy Engineer who builds and deploys\nproduction AI solutions including RAG pipelines, agent\nsystems, and fine-tuned models. The role involves hands-on\nimplementation of retrieval-augmented generation, model\noptimization with LoRA/PEFT, and inference serving - all\ncore AI/ML engineering work.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI APIs",
+      "Anthropic APIs",
+      "Llama",
+      "LangChain",
+      "LlamaIndex",
+      "RAG",
+      "function calling",
+      "LoRA",
+      "PEFT"
+    ],
+    "ml": [
+      "Hugging Face",
+      "DPO"
+    ],
+    "web": [
+      "FastAPI",
+      "gRPC",
+      "React",
+      "Next.js"
+    ],
+    "databases": [
+      "FAISS",
+      "pgvector",
+      "Pinecone",
+      "Weaviate",
+      "Postgres",
+      "BigQuery",
+      "Snowflake"
+    ],
+    "data": [
+      "Ray",
+      "Airflow",
+      "Kafka"
+    ],
+    "cloud": [],
+    "ops": [
+      "vLLM",
+      "TensorRT-LLM",
+      "MLflow",
+      "Weights & Biases",
+      "Ragas",
+      "promptfoo",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "GitHub Actions",
+      "OpenTelemetry",
+      "Prometheus",
+      "Grafana"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

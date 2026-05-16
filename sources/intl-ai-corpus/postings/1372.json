@@ -1,0 +1,172 @@
+{
+  "job_id": "intl-ai-corpus-1372",
+  "source": "intl-ai-corpus",
+  "source_ref": "8421850",
+  "source_url": "https://builtin.com/job/staff-ai-engineer/8421850",
+  "title": "Staff AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Prophecy",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-06",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "94 Employees",
+  "company_stage": null,
+  "company_focus": "AI-native data preparation and analysis platform with AI\nagents for data transformation",
+  "industries": [],
+  "description": "About Prophecy\n\nThe leader in AI-native data preparation and analysis,\nProphecy is revolutionizing how the world’s top enterprises\nturn data chaos into reliable insights. We introduce the AI-\nnative data lifecycle (generate, refine, deploy) where our\nindustry leading AI agents and humans work hand-in-hand in\nvisual and document interfaces to analyze, transform and\nprepare data, to ship trusted insights at enterprise scale.\n\nProphecy is a Core Technology and Deep-IP company with\nengineering centered in India. Prophecy engineers often say\nthat they have never worked in a more productive, higher\nhorsepower organization in their careers. The engineers love\ntheir work, are being challenged, and are doing the best\nwork of their careers.\n\nDon’t miss the rocket ship, join Prophecy and build the next\ndata revolution.\n\nThe Principal AI Engineer (Technical Lead), will have the\nfollowing:\n\n- Technical Depth (one of the below)\n  - ML/LLM: Led fine-tuning (SFT, DPO, RLHF), distillation,\n    quantization with PyTorch/HuggingFace\n  - Shipped production agents (LangChain, LlamaIndex, CrewAI)\n  - Expert in RAG, vector DBs, prompt orchestration.\n- Hands-On Leadership Codes weekly prototypes, debugs,\n  unblocks.\n  - Mentors staff; remains top expert on toughest problems.\n- End-to-End Delivery\n  - Led 2+ open-ended, user-facing AI projects from ambiguity to\n    impact.\n  - Owned vision, roadmap, MVPs.\n- Cross-Functional Leadership\n  - Partnered with PMs/execs on metrics, priorities, trade-offs\n  - Presented to C-suite/board.\n- Disciplined Process\n  - Enforced MLOps/DevOps for agents: CI/CD, canaries,\n    observability,\n  - A/B prompt testing.\n  - Championed reproducibility, governance, code reviews, on-\n    call culture.\n- Agentic Specialization\n  - Built multi-agent systems (e.g., ETL automation, code-gen\n    loops).\n  - Created eval harnesses\n  - Beat reliability/latency benchmarks.\n- Cloud & Scale\n  - Architected 10k+ RPS backends (AWS/GCP, k8s, serverless).\n  - Fluent in Python, Go, Java, Scala.\n  - Owns APIs, async, optimization.\n- Builder at Scale\n  - 0→1 and 1→10: shipped greenfield, scaled 100x.Drives rapid\n    prototyping with production rigor.\n\nWhat Will Make You Stand Out\n\n- ML/LLM work in code generation (e.g., Codex, text-to-SQL),\n  semantic extraction, or knowledge graphs (e.g., Neo4j,\n  Neptune).\n- Experience with big-data engines like Spark.\n- Compiler development for languages like SQL, Python, or\n  Scala.\n- Optimization of ML models for low-latency, high-throughput\n  production use.\n- Contributions to open-source AI/ML projects (e.g., Hugging\n  Face, PyTorch).\n- Expertise in retrieval systems or vector databases (e.g.,\n  Pinecone, Weaviate).\n- Skill in evaluating tech and driving build/buy decisions\n\nSeniority: Mid to Staff Level\n\nExperience: 7+ years in industry\n\nWhat You'll Have At Prophecy\n\n- Great culture\n- Very competitive compensation. Paymaster in India\n- Fair and Open Equity awards for everyone\n- Amazing work\n- Private medical insurance\n- Employee's Provident Fund\n- Flexible time off\n- Manage your own growth and career\n- Experience building a transformative product\n- High learning opportunity\n- End-to-end ownership of your projects\n\nOur Commitment to Diversity and Inclusion\n\nAt Prophecy, we are committed to fostering a diverse and\ninclusive culture where everyone can excel. We take great\ncare to ensure that our hiring practices are inclusive and\nmeet equal employment opportunity standards. Individuals\nlooking for employment at Prophecy are considered without\nregard to age, color, disability, ethnicity, family or\nmarital status, gender identity or expression, language,\npolitical affiliation, race, religion, sexual orientation,\nsocio-economic status, and any other protected\ncharacteristics.\n",
+  "skills_required": [
+    "CrewAI",
+    "DPO",
+    "HuggingFace",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "RLHF",
+    "SFT",
+    "fine-tuning",
+    "model distillation",
+    "prompt orchestration",
+    "quantization"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead fine-tuning and optimization of ML/LLM models using PyTorch and HuggingFace",
+    "Build and deploy production AI agents using LangChain, LlamaIndex, and CrewAI frameworks",
+    "Design and implement RAG systems with vector databases and prompt orchestration",
+    "Develop multi-agent systems for ETL automation and code generation applications",
+    "Architect and scale cloud infrastructure supporting 10k+ RPS backends on AWS/GCP",
+    "Enforce MLOps and DevOps practices including CI/CD, canaries, observability, and A/B prompt testing",
+    "Provide hands-on technical leadership through coding prototypes, mentoring staff, and solving complex problems"
+  ],
+  "use_cases": [
+    "AI-native data preparation and transformation using visual and document interfaces",
+    "Multi-agent systems for ETL automation and code generation loops",
+    "RAG-based systems for enterprise-scale data analysis and insight generation",
+    "Code generation and text-to-SQL applications for data workflows",
+    "Semantic extraction and knowledge graph applications using graph databases"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "DevOps",
+    "GCP",
+    "MLOps",
+    "Neo4j",
+    "Neptune",
+    "Pinecone",
+    "Spark",
+    "Weaviate",
+    "k8s",
+    "observability",
+    "serverless",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "DPO",
+    "HuggingFace",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "RLHF",
+    "SFT",
+    "fine-tuning",
+    "model distillation",
+    "prompt orchestration",
+    "quantization"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Python",
+    "SQL",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role requires hands-on work with ML/LLMs including\nfine-tuning, building production agents with\nLangChain/LlamaIndex, RAG systems, and vector databases. The\nengineer will build multi-agent systems for ETL automation\nand code-gen, not just support infrastructure for AI work.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "CrewAI",
+      "RAG",
+      "prompt orchestration"
+    ],
+    "ml": [
+      "PyTorch",
+      "HuggingFace",
+      "fine-tuning",
+      "SFT",
+      "DPO",
+      "RLHF",
+      "model distillation",
+      "quantization"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases",
+      "Pinecone",
+      "Weaviate",
+      "Neo4j",
+      "Neptune"
+    ],
+    "data": [
+      "Spark"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "serverless"
+    ],
+    "ops": [
+      "k8s",
+      "CI/CD",
+      "MLOps",
+      "DevOps",
+      "observability"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "Java",
+      "Scala",
+      "SQL"
+    ],
+    "domains": [
+      "code generation",
+      "text-to-SQL",
+      "semantic extraction",
+      "knowledge graphs"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

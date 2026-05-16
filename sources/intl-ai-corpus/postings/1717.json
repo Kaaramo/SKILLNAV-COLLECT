@@ -1,0 +1,161 @@
+{
+  "job_id": "intl-ai-corpus-1717",
+  "source": "intl-ai-corpus",
+  "source_ref": "8585904",
+  "source_url": "https://builtin.com/job/manager-ds-ai-backend-engineer/8585904",
+  "title": "Manager, DS & AI Backend Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pfizer",
+  "company_type": "entité morale privée",
+  "location": "Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "121,990 Employees",
+  "company_stage": "Public",
+  "company_focus": "Pharmaceutical healthcare company",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Biotech",
+    "Pharmaceutical"
+  ],
+  "description": "ROLE SUMMARY The AI Acceleration (AIA) function within the\nChief Marketing Office (CMO) is the single, business-led\nengine that owns the design, delivery, and scale-up of\npriority AI capabilities across Commercial. AIA works in\ntight collaboration with various Pfizer functions to deploy\nand maintain production-grade AI solutions that simplify how\nwe work and drive measurable value across all processes. As\na Manager, Backend Engineer, you will design, develop, and\nscale backend systems that power autonomous, tool‑using AI\nagents. This role focuses on building reliable,\nhigh‑performance services that enable multi‑step reasoning,\nplanning, memory, retrieval, and tool integration across AI-\ndriven workflows. ROLE RESPONSIBILITIES\n\n- Build backend services supporting agentic and generative AI\n  workflows\n- Implement multi‑step reasoning, planning, and tool‑execution\n  loops\n- Develop state and memory systems for agent context and\n  knowledge retention\n- Design and optimize RAG pipelines and retrieval\n  infrastructure\n- Integrate LLMs with APIs, tools, databases, and external\n  systems\n- Implement guardrails, validation layers, retry logic, and\n  failure‑handling mechanisms\n- Develop monitoring for agent behavior, performance, cost,\n  and decision paths\n- Architect scalable, fault‑tolerant backend systems with\n  observability and logging\n- Build automated evaluation pipelines for agent reliability,\n  accuracy, and safety\n- Deploy and maintain services using Docker, CI/CD, and cloud\n  environments\n- Ensure compliance with security, RBAC, and data protection\n  requirements\n\nBasic Qualifications\n\n- Bachelor's or Master's degree in computer science, or a\n  related field (or equivalent experience).\n- 5+ years of experience in software engineering, data\n  science, or related technical fields.\n\nBackend Engineering\n\n- Proficiency in Python\n- Experience with FastAPI or Flask\n- Knowledge of REST APIs, async processing, and distributed\n  workers\n- Experience with relational, NoSQL, and vector databases\n\nAgentic AI & LLM Systems\n\n- Experience building agent-based AI systems\n- Familiarity with LangGraph, LangChain, LlamaIndex, CrewAI,\n  AutoGen, or similar frameworks\n- Understanding of tool-calling, structured outputs, and\n  prompt reliability\n- Experience with OpenAI/Azure OpenAI, Anthropic, Mistral, or\n  open-source LLMs\n\nSystem Design & Operations\n\n- Experience with scalable system design and fault‑tolerant\n  architecture\n- Hands-on experience with observability (logging, metrics,\n  tracing)\n- Proficiency with Docker, CI/CD pipelines, and cloud\n  platforms\n\nSecurity & Compliance\n\n- Knowledge of API security, RBAC, and data handling best\n  practices\n- Experience working with PII and sensitive data\n\nPreferred Qualifications\n\n- Experience with multi‑agent workflows\n- Exposure to workflow orchestration tools (Airflow, Temporal,\n  Dagster, Prefect)\n- Familiarity with model serving frameworks (vLLM, Ray Serve,\n  TGI, Modal)\n- Understanding of AI safety, guardrails, and evaluation\n  frameworks\n\nPfizer is an equal opportunity employer and complies with\nall applicable equal employment opportunity legislation in\neach jurisdiction in which it operates.  Information &\nBusiness Tech\n",
+  "skills_required": [
+    "AI safety and guardrails",
+    "Anthropic API",
+    "AutoGen",
+    "CrewAI",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG",
+    "Tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build backend services supporting agentic and generative AI workflows",
+    "Implement multi-step reasoning, planning, and tool-execution loops",
+    "Develop state and memory systems for agent context and knowledge retention",
+    "Design and optimize RAG pipelines and retrieval infrastructure",
+    "Integrate LLMs with APIs, tools, databases, and external systems",
+    "Implement guardrails, validation layers, retry logic, and failure-handling mechanisms",
+    "Architect scalable, fault-tolerant backend systems with observability and logging",
+    "Deploy and maintain services using Docker, CI/CD, and cloud environments"
+  ],
+  "use_cases": [
+    "Autonomous AI agents with multi-step reasoning capabilities",
+    "RAG-based knowledge retrieval and question answering",
+    "LLM-powered tool integration and workflow automation",
+    "AI-driven commercial process optimization at Pfizer",
+    "Enterprise AI solutions for marketing and business operations"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "Azure OpenAI",
+    "CI/CD",
+    "Dagster",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "Modal",
+    "Prefect",
+    "REST APIs",
+    "Ray Serve",
+    "TGI",
+    "Temporal",
+    "Vector databases",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "AutoGen",
+    "CrewAI",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG",
+    "Tool calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying AI\nagents, including implementing multi-step reasoning, tool-\nexecution loops, RAG pipelines, and LLM integrations. The\nengineer is directly working ON the agentic AI systems\nrather than just supporting infrastructure or general\nsoftware engineering.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "CrewAI",
+      "AutoGen",
+      "OpenAI API",
+      "Anthropic API",
+      "RAG",
+      "Tool calling",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Airflow",
+      "Temporal",
+      "Dagster",
+      "Prefect"
+    ],
+    "cloud": [
+      "Azure OpenAI"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "vLLM",
+      "Ray Serve",
+      "TGI",
+      "Modal"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "AI safety and guardrails"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

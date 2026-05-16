@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-0814",
+  "source": "intl-ai-corpus",
+  "source_ref": "7211789",
+  "source_url": "https://builtin.com/job/senior-math-libraries-engineer-emulation-ai-and-hpc/7211789",
+  "title": "Senior Math Libraries Engineer – Emulation in AI and HPC",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NVIDIA",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-02",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21,960 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI computing and GPU technology",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Hardware",
+    "Robotics",
+    "Metaverse"
+  ],
+  "description": "We are looking for software engineers to join our math\nlibraries teams for AI and HPC kernel generation,\nspecifically targeting emulation of math operations across\ndifferent precisions. Around the world, leading commercial\nand academic organizations are revolutionizing AI,\nscientific and engineering simulations, and data analytics,\nusing data centers powered by GPUs. Applications of these\ntechnologies are in healthcare, NLP, VR, deep learning,\nautonomous vehicles and countless others. Did you know our\nteam develops the GPU accelerated math libraries that makes\nall of this possible? If the idea of tinkering with bits and\nprecision formats in math operations and applying your\nknowledge to develop and optimize algorithms to make an\nimpact around world excite you, come and join our team!\n\nWhat you will be doing:\n\n- Scoping, designing, and implementing high quality and\n  performance numerical dense linear algebra software on\n  GPUs.\n- Providing technical leadership and feedback to library\n  engineers working with you on projects and sometimes\n  mentor interns.\n- Working closely with product management and other internal\n  and external customers to understand feature and\n  performance requirements and help define the technical\n  roadmaps of libraries.\n- Finding opportunities to improve library performance and\n  reduce code maintenance overhead through re-architecting.\n\nWhat we need to see:\n\n- PhD or Master’s degree in Computer Science, Applied Math, or\n  related science or engineering field of study (or\n  equivalent experience).\n- 5+ years of experience in designing, developing, testing,\n  maintenance, and performance optimization of production\n  software using CUDA and C++.\n- Good knowledge of GPU (preferred) or CPU hardware\n  architecture.\n- Strong fundamentals in finite precision arithmetics and\n  numerical methods for linear algebra.\n- Great teamwork, communication, and documentation habits.\n\nWays to stand out from the crowd:\n\n- Experience with CUTLASS, or low level programming like\n  assembly for performance optimization is a huge plus.\n- A scripting language, preferably Python.\n- Experience with working in a globally-distributed team.\n\nNVIDIA’s invention of the GPU in 1999 sparked the growth of\nthe PC gaming market, redefined modern computer graphics,\nand revolutionized parallel computing. More recently, GPU\ndeep learning ignited modern AI — the next era of computing\n— with the GPU acting as the brain of computers, robots, and\nself-driving cars that can perceive and understand the\nworld. Today, we are increasingly known as “the AI computing\ncompany”. We're looking to grow our company, and build our\nteams with the smartest people in the world. Join us at the\nforefront of technological advancement.\n\nWith competitive salaries and a generous benefits package,\nwe are widely considered to be one of the technology world’s\nmost desirable employers. We have some of the most forward-\nthinking and hardworking people in the world working for us\nand, due to outstanding growth, our exclusive engineering\nteams are rapidly growing. If you're a creative and\nautonomous engineer with a real passion for technology, we\nwant to hear from you.\n\n#LI-Hybrid\n\nYour base salary will be determined based on your location,\nexperience, and the pay of employees in similar positions.\nFor Poland: The base salary range is 292,500 PLN - 507,000\nPLN for Level 4, and 375,000 PLN - 650,000 PLN for Level 5.\n",
+  "skills_required": [
+    "CUDA",
+    "CUTLASS"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Scoping, designing, and implementing high quality and performance numerical dense linear algebra software on GPUs",
+    "Providing technical leadership and feedback to library engineers and mentor interns on projects",
+    "Working closely with product management and internal/external customers to understand requirements and define technical roadmaps",
+    "Finding opportunities to improve library performance and reduce code maintenance overhead through re-architecting"
+  ],
+  "use_cases": [
+    "GPU accelerated math libraries for AI kernel generation and HPC applications",
+    "Emulation of math operations across different precision formats for scientific computing",
+    "Numerical dense linear algebra operations powering AI training and inference",
+    "Support for applications in healthcare, NLP, VR, deep learning, and autonomous vehicles",
+    "Data center computing powered by GPUs for scientific and engineering simulations"
+  ],
+  "tools_mentioned": [
+    "CPU architecture",
+    "GPU architecture"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "CUTLASS"
+  ],
+  "languages_programming": [
+    "C++",
+    "Python",
+    "assembly programming"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on developing GPU math libraries and\nnumerical dense linear algebra software that enable AI\nworkloads, rather than directly building, training, or\ndeploying AI/ML models. The engineer works on foundational\ninfrastructure (CUDA kernels, precision emulation, hardware\noptimization) that supports AI applications, making it an\nenabling/support role.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "CUDA",
+      "CUTLASS"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "GPU architecture",
+      "CPU architecture"
+    ],
+    "languages": [
+      "C++",
+      "assembly programming",
+      "Python"
+    ],
+    "domains": [
+      "finite precision arithmetic",
+      "numerical methods",
+      "linear algebra",
+      "dense linear algebra"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,146 @@
+{
+  "job_id": "intl-ai-corpus-1474",
+  "source": "intl-ai-corpus",
+  "source_ref": "8486273",
+  "source_url": "https://builtin.com/job/senior-engineer-runtime-and-observability/8486273",
+  "title": "Senior Engineer - AI & Agentic Sandbox",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BlueRock.io",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-12",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "51 Employees",
+  "company_stage": "early stage",
+  "company_focus": "App runtime security for AI/ML applications",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Information Technology",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "Location: Bengaluru\n\nMission: Live at the intersection of app runtime & security.\nProtect applications in a fundamental way so that developers\ncan build great application services and not be constantly\nlooking over their shoulder. BlueRock is changing the\nlandscape of App runtime security.\n\nWhat You'll Build:\n\n- BlueRock Agentic Sandbox: Be part of the team developing our\n  flagship multi-language runtime security platform\n- Deep-Trace Observability: Build the infra that hooks into\n  frameworks like CrewAI, Google ADK, and OpenAI Agents to\n  monitor and intercept malicious intent in real-time\n- End-to-End Hardening: Secure the entire lifecycle from agent\n  orchestration to execution\n\nRequired Qualifications:\n\n- Systems Generalist: 5+ years of experience. You aren't\n  afraid to go below the API to the kernel or the runtime\n- Deep knowledge of Python or JS/Node.js, including monkey\n  patching, import hooking, and dynamic instrumentation\n- Agent Fluent: You've spent time with LangChain, CrewAI, or\n  similar frameworks.\n- Observability: Experience with OpenTelemetry, Datadog or\n  similar for high-cardinality distributed tracing\n- You've integrated AI-assisted coding (Claude Code, Cursor,\n  CoPilot) into your daily workflow to move faster\n\nPreferred Qualifications:\n\n- Experience with protocols like MCP (Model Context Protocol)\n  or A2A\n- A \"Hacker Mindset\" (OWASP expertise, understanding\n  deserialization, SSRF, and privilege escalation)\n- Experience with Container Runtimes (OCI, containers) or a\n  love for Rust\n- Experience with K8s or similar orchestration frameworks\n\nAbout BlueRock:\n\nBlueRock is a well-funded, early stage cybersecurity company\nfounded by experienced security minded entrepreneurs. Our\nmission is to change the game in cybersecurity. Attackers\nare exploiting in hours. The dependency tree is exploding.\nDevelopers are drowning in vulnerability debt. BlueRock\nchanges the game, enabling organizations to shift from\nchasing CVEs and exploits to proactively protecting the\nfoundations of applications and computing, so that\ndevelopers can build great applications without looking over\ntheir shoulders.\n",
+  "skills_required": [
+    "A2A",
+    "Claude Code",
+    "CoPilot",
+    "CrewAI",
+    "Cursor",
+    "Deserialization security",
+    "Dynamic instrumentation",
+    "Google ADK",
+    "Import hooking",
+    "LangChain",
+    "MCP (Model Context Protocol)",
+    "Monkey patching",
+    "OWASP",
+    "OpenAI Agents",
+    "Privilege escalation",
+    "SSRF"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop BlueRock Agentic Sandbox multi-language runtime security platform",
+    "Build Deep-Trace Observability infrastructure that hooks into AI frameworks like CrewAI, Google ADK, and OpenAI Agents",
+    "Monitor and intercept malicious intent in AI agents in real-time",
+    "Secure the entire lifecycle from agent orchestration to execution",
+    "Implement monkey patching, import hooking, and dynamic instrumentation for Python or JS/Node.js",
+    "Integrate observability solutions using OpenTelemetry or Datadog for distributed tracing"
+  ],
+  "use_cases": [
+    "Real-time monitoring and interception of malicious intent in AI agents",
+    "Runtime security for multi-language AI applications",
+    "Agent orchestration security from development to execution",
+    "Deep-trace observability for AI framework interactions",
+    "Protection against security vulnerabilities in AI-powered applications"
+  ],
+  "tools_mentioned": [
+    "Container runtimes",
+    "Datadog",
+    "Distributed tracing",
+    "Kubernetes",
+    "OCI",
+    "OpenTelemetry"
+  ],
+  "frameworks_mentioned": [
+    "A2A",
+    "CrewAI",
+    "Google ADK",
+    "LangChain",
+    "MCP (Model Context Protocol)",
+    "OpenAI Agents"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Node.js",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role focuses on building security infrastructure and\nobservability systems that hook into AI frameworks (CrewAI,\nOpenAI Agents, LangChain) to monitor and secure agent\nexecution. The engineer is NOT building, training, or fine-\ntuning AI models, but rather creating security platforms and\ninstrumentation to protect and monitor AI systems built by\nothers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "CrewAI",
+      "OpenAI Agents",
+      "Google ADK",
+      "MCP (Model Context Protocol)",
+      "A2A"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "OpenTelemetry",
+      "Datadog",
+      "Distributed tracing",
+      "Kubernetes",
+      "Container runtimes",
+      "OCI"
+    ],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "Node.js",
+      "Rust"
+    ],
+    "domains": [],
+    "other": [
+      "Monkey patching",
+      "Import hooking",
+      "Dynamic instrumentation",
+      "OWASP",
+      "Deserialization security",
+      "SSRF",
+      "Privilege escalation",
+      "Claude Code",
+      "Cursor",
+      "CoPilot"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-1311",
+  "source": "intl-ai-corpus",
+  "source_ref": "8389125",
+  "source_url": "https://builtin.com/job/ai-engineer/8389125",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Aspora",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Borderless financial operating system and banking",
+  "industries": [],
+  "description": "About Aspora\n\nPeople on the move deserve a bank that moves with them.\nSince 2022, Aspora has been building a borderless financial\noperating system that makes money as mobile and transparent\nas its users.\n\nBacked by influential venture capitalists like Sequoia\nCapital, Greylock Partners, Hummingbird Ventures, Y\nCombinator & Global Founders Capital. We're a team of 75+\nacross India, the UK, the UAE, EU and the US, working with\nextreme ownership, radical candour, and an obsession with\ncustomer impact.\n\nWe celebrate builders who question assumptions, ship fast,\nand turn regulatory complexity into elegant solutions. If\nyou’re driven to redefine what global banking can be, we’d\nlove to build the future with you.\n\nAbout the Role\n\nAs an AI Engineer at Aspora, you’ll start by shipping\ninternal automation tools and workflows, and then extend the\nsame AI capabilities into the product. This is a full-stack,\nproduction ownership role to build and scale intelligent\nsystems at Aspora.\n\nIf you like building systems that actually run in production\nand you care about reliability, latency, and cost\noptimization, this role will fit. If you enjoy building from\nscratch, solving complex distributed-systems challenges, and\noperating at a pace where ideas turn into shipped features\nquickly - you’ll feel right at home at Aspora.\n\nWhat You’ll Do\n\n- Own the serving and runtime layer for all LLM-powered\n  features, ensuring low latency, high reliability, and cost\n  efficiency in production.\n- Integrate LLM and agent capabilities into real product\n  workflows, including tool calling, routing, guardrails,\n  and safe failure modes.\n- Build reliable, observable AI workflows across product, ops,\n  and data systems, with strong foundations in retries,\n  idempotency, fallbacks, and human-in-the-loop patterns.\n- Design and operate retrieval and knowledge systems end-to-\n  end, from ingestion and indexing to retrieval and response\n  composition.\n- Automate and harden operational processes, turning manual\n  workflows into scalable, measurable pipelines.\n- Own performance, reliability, and operational excellence\n  across AI systems, measuring end-to-end latency, removing\n  bottlenecks, and implementing pragmatic reliability\n  patterns.\n- Instrument and monitor AI systems in production, tracking\n  quality regressions, drift, prompt failures, and retrieval\n  issues with logs, metrics, and traces.\n\nWhat We’re Looking For\n\n- At least 5 years of experience training, deploying, and\n  scaling AI/ML models in production environments.\n- You understand the pace and mindset of a startup and are\n  excited to contribute to its growth and culture.\n- Hands-on experience integrating third-party LLM APIs in\n  production environments.\n- Practical understanding of MLOps/LLMOps concerns:\n  evaluation, monitoring, rollouts, incident response.\n- Curiosity and drive to experiment with advanced AI\n  techniques while staying grounded in production impact.\n- Strong bias for measurable improvements: latency, cost,\n  reliability.\n\nWhy Join Aspora\n\n- Build high-impact, zero-to-one systems that directly\n  influence the product’s future.\n- Drive architecture and technical direction in a culture that\n  values deep engineering thinking.\n- Work with a lean, high-ownership team where your\n  contributions are visible and meaningful.\n- Grow with a fast-scaling startup where you help shape both\n  the platform and the engineering culture.\n- Competitive compensation and equity, aligned with\n  experience, impact and market standards.\n- Learning & development support, including professional\n  development budgets and learning stipends.\n- Wellness and team engagement programs to support work-life\n  integration and collaboration.\n",
+  "skills_required": [
+    "Agents",
+    "Distributed systems",
+    "LLM APIs",
+    "LLMs",
+    "Prompt engineering",
+    "RAG",
+    "Tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own the serving and runtime layer for all LLM-powered features, ensuring low latency, high reliability, and cost efficiency in production",
+    "Integrate LLM and agent capabilities into real product workflows, including tool calling, routing, guardrails, and safe failure modes",
+    "Build reliable, observable AI workflows across product, ops, and data systems with strong foundations in retries, idempotency, fallbacks, and human-in-the-loop patterns",
+    "Design and operate retrieval and knowledge systems end-to-end, from ingestion and indexing to retrieval and response composition",
+    "Automate and harden operational processes, turning manual workflows into scalable, measurable pipelines",
+    "Instrument and monitor AI systems in production, tracking quality regressions, drift, prompt failures, and retrieval issues with logs, metrics, and traces"
+  ],
+  "use_cases": [
+    "Internal automation tools and workflows",
+    "LLLM-powered product features with agent capabilities",
+    "Tool calling, routing, and guardrails for AI workflows",
+    "Retrieval and knowledge systems for financial information",
+    "Operational process automation for banking operations",
+    "Financial workflow automation with human-in-the-loop patterns"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "LLMOps",
+    "MLOps",
+    "MLflow",
+    "Monitoring and observability",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agents",
+    "LLM APIs",
+    "LLMs",
+    "Prompt engineering",
+    "RAG",
+    "Tool calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI Engineer role working directly on building,\ndeploying, and scaling LLM-powered systems. The\nresponsibilities include owning the serving/runtime layer\nfor LLMs, integrating agent capabilities and tool calling,\nand designing retrieval systems - all hands-on work with AI\nmodels and infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "LLM APIs",
+      "RAG",
+      "Agents",
+      "Tool calling",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "MLOps",
+      "LLMOps",
+      "Monitoring and observability",
+      "MLflow",
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

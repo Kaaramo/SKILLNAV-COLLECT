@@ -1,0 +1,155 @@
+{
+  "job_id": "intl-ai-corpus-1294",
+  "source": "intl-ai-corpus",
+  "source_ref": "8383185",
+  "source_url": "https://builtin.com/job/senior-staff-ai-engineer-community-research-emea/8383185",
+  "title": "Senior Staff AI Engineer (Community & Research) - EMEA",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Anyscale",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "115 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Distributed computing platform for scalable AI/ML",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "About Anyscale:\n\nAt Anyscale, we're on a mission to democratize distributed\ncomputing and make it accessible to software developers of\nall skill levels. We’re commercializing Ray, a popular open-\nsource project that's creating an ecosystem of libraries for\nscalable machine learning. Companies like OpenAI, Uber,\nSpotify, Instacart, Cruise, and many more, have Ray in their\ntech stacks to accelerate the progress of AI applications\nout into the real world.\n\nWith Anyscale, we’re building the best place to run Ray, so\nthat any developer or data scientist can scale an ML\napplication from their laptop to the cluster without needing\nto be a distributed systems expert.\n\nProud to be backed by Andreessen Horowitz, NEA, and Addition\nwith $250+ million raised to date.\n\n\n\nAnyscale is looking for a Sr/Staff AI Engineer to be a\ntechnical advocate for Ray within the ML and AI community.\nYou’ll spend your time building real AI systems with Ray,\nwriting code and demos, and sharing your experience through\nblogs, talks, videos, and open technical discussions. You\nwill be responsible for driving Ray adoption. The role\nfocuses on educating, inspiring, and motivating engineers on\nthe value of Ray to power their AI workloads. The role\ncenters on technical content and evangelism that\ndemonstrates an understanding of the requirements for AI\nworkloads, the challenges and implications of not using Ray,\nand the technical value and differentiation of Ray.\n\nThis is NOT a marketing role. We're looking for someone who\nhas built ML systems in production, understands the pain of\ndistributed training and inference at scale, and can\ncredibly teach others how to solve these problems with Ray.\n\nYou'll work at the intersection of distributed systems and\nmodern AI, from scaling LLM training and fine-tuning, to\nbuilding production RAG pipelines, to orchestrating agentic\nAI systems.\n\nWhat You'll Do\n\n- Engage the Community: Present at conferences, participate in\n  the open-source community, speak at first-party and third-\n  party in-person and virtual events, build relationships\n  with relevant community organizers in region, and engage\n  with ML practitioners on GitHub, Discord, and social\n  platforms\n- Learn, Build & Share: Create production-quality demos,\n  sample applications, and reference architectures that\n  showcase Ray's capabilities across different AI workloads.\n- Be a Subject Matter Expert: Develop deep expertise in one or\n  more of Ray's core workload areas, distributed training,\n  LLM serving, and agentic AI, becoming a trusted technical\n  authority both internally and in the broader ML community.\n- Teach & Educate: Develop technical content (blogs,\n  tutorials, workshops, videos) that helps ML engineers\n  understand how to scale their workloads\n- Shape the Product: Bring real-world feedback from the\n  community back to engineering and product teams;\n  contribute to Ray's open-source libraries where\n  appropriate\n- Research & Experiment: Stay current with ML/AI research and\n  translate emerging techniques into practical, scalable\n  implementations on Ray\n\nYou're an ML Engineer or AI Researcher who:\n\n- Lives in a major AI hub in EMEA (like London)\n- Has 4+ years of hands-on experience building ML/AI systems\n  (training, fine-tuning, inference, RAG, agents)\n- Has practical experience building end-to-end ML pipelines or\n  deploying models to production using ML platforms (e.g.,\n  OSS Ray, Amazon SageMaker, Vertex AI, Azure ML,\n  Databricks, or similar)\n- Has some experience with technical writing, teaching,\n  conference speaking, or open-source contributions\n- Can write production-quality Python code and work fluently\n  with PyTorch, HuggingFace, or similar frameworks\n- Is genuinely excited about helping others learn and succeed\n- Enjoys traveling and speaking publicly\n- May not have formal DevRel experience, but has demonstrated\n  teaching/sharing through at least one of the following:\n\n- Open-source contributions with good documentation\n- Technical blog posts or tutorials\n- Conference talks, meetup presentations, or workshop\n  facilitation\n- Research papers or technical reports\n- Active engagement in ML communities (GitHub, Discord,\n  Reddit, Twitter/X)\n\nPreferred qualifications:\n\n- Strong Python programming and software engineering\n  fundamentals\n- Deep hands-on experience with at least one ML framework\n  (PyTorch, TensorFlow, JAX, scikit-learn)\n- Solid understanding of ML fundamentals: model architectures,\n  training loops, loss functions, optimization, evaluation\n  metrics, etc.\n- Experience with the ML development lifecycle: data\n  preprocessing, feature engineering, model training,\n  hyperparameter tuning, model evaluation\n- Familiarity with LLM concepts: fine-tuning (LoRA, QLoRA,\n  full fine-tuning), RLHF, tokenization, MoE, etc.\n\nNice to Have:\n\n- Understanding of distributed systems concepts (parallelism,\n  fault tolerance, resource management)\n- Prior experience with Ray or similar distributed computing\n  frameworks\n- Experience with agentic AI systems and multi-agent\n  orchestration\n- GPU programming knowledge (CUDA, optimization techniques)\n- Understanding of inference optimization: quantization,\n  batching, KV caching, speculative decoding\n- Published research or significant open-source contributions\n- Existing presence in the ML/AI community (research or\n  industry)\n- Experience with cloud platforms (AWS, GCP, or Azure)\n\n\n\nLocation & Eligibility\n\n- This role is based in London, UK, with a hybrid work\n  arrangement\n- Candidates must be eligible to work in the UK\n- Regular travel across EMEA is expected\n\n\n\nCompensation\n\nAt Anyscale, we take a market-based approach to\ncompensation. We are data-driven, transparent, and\nconsistent. As market data evolves, the target salary range\nfor this role may be adjusted accordingly.\n\nAnyscale Inc. is an Equal Opportunity Employer. Candidates\nare evaluated without regard to age, race, color, religion,\nsex, disability, national origin, sexual orientation,\nveteran status, or any other characteristic protected by\nlaw.\n",
+  "skills_required": [
+    "CUDA",
+    "HuggingFace",
+    "JAX",
+    "LLMs",
+    "LoRA",
+    "PyTorch",
+    "QLoRA",
+    "RAG",
+    "RLHF",
+    "TensorFlow",
+    "agents",
+    "distributed training",
+    "fine-tuning",
+    "inference",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Present at conferences and engage with the ML/AI community through events, GitHub, Discord, and social platforms",
+    "Create production-quality demos, sample applications, and reference architectures showcasing Ray's capabilities across AI workloads",
+    "Develop deep expertise in Ray's core workload areas including distributed training, LLM serving, and agentic AI",
+    "Develop technical content including blogs, tutorials, workshops, and videos to help ML engineers scale their workloads",
+    "Bring real-world feedback from the community back to engineering and product teams and contribute to Ray's open-source libraries",
+    "Stay current with ML/AI research and translate emerging techniques into practical, scalable implementations on Ray"
+  ],
+  "use_cases": [
+    "Scaling LLM training and fine-tuning workflows",
+    "Building production RAG (Retrieval Augmented Generation) pipelines",
+    "Orchestrating agentic AI systems and multi-agent architectures",
+    "Distributed training and inference at scale for ML models",
+    "LLM serving and deployment in production environments"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Azure ML",
+    "Databricks",
+    "GCP",
+    "Ray",
+    "SageMaker",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "HuggingFace",
+    "JAX",
+    "LLMs",
+    "LoRA",
+    "PyTorch",
+    "QLoRA",
+    "RAG",
+    "RLHF",
+    "TensorFlow",
+    "agents",
+    "distributed training",
+    "fine-tuning",
+    "inference",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires hands-on experience building ML/AI systems\nincluding training, fine-tuning, inference, RAG, and agents.\nThe engineer will build production-quality demos and\nreference architectures showcasing Ray's capabilities across\nLLM training, serving, and agentic AI systems, which is\ndirect work on AI implementations.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "HuggingFace",
+      "LLMs",
+      "RAG",
+      "agents",
+      "LoRA",
+      "QLoRA"
+    ],
+    "ml": [
+      "PyTorch",
+      "fine-tuning",
+      "RLHF",
+      "distributed training",
+      "inference",
+      "TensorFlow",
+      "JAX",
+      "scikit-learn",
+      "CUDA"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Databricks"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "SageMaker",
+      "Vertex AI",
+      "Azure ML"
+    ],
+    "ops": [
+      "Ray"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

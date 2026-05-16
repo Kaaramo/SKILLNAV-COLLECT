@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-2793",
+  "source": "intl-ai-corpus",
+  "source_ref": "9012567",
+  "source_url": "https://builtin.com/job/backend-platform-engineer-ai-systems/9012567",
+  "title": "Backend / Platform Engineer (AI Systems)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "TaskUs",
+  "company_type": "entité morale privée",
+  "location": "India",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-10",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,564 Employees",
+  "company_stage": "Public",
+  "company_focus": "Outsourced digital services and customer experience for tech\ncompanies",
+  "industries": [],
+  "description": "About TaskUs: TaskUs is a provider of outsourced digital\nservices and next-generation customer experience to fast-\ngrowing technology companies, helping its clients represent,\nprotect and grow their brands. Leveraging a cloud-based\ninfrastructure, TaskUs serves clients in the fastest-growing\nsectors, including social media, e-commerce, gaming,\nstreaming media, food delivery, ride-sharing, HiTech,\nFinTech, and HealthTech.\n\nThe People First culture at TaskUs has enabled the company\nto expand its workforce to approximately 45,000 employees\nglobally. Presently, we have a presence in twenty-three\nlocations across twelve countries, which include the\nPhilippines, India, and the United States.\n\nIt started with one ridiculously good idea to create a\ndifferent breed of Business Processing Outsourcing (BPO)! We\nat TaskUs understand that achieving growth for our partners\nrequires a culture of constant motion, exploring new\ntechnologies, being ready to handle any challenge at a\nmoment’s notice, and mastering consistency in an ever-\nchanging world.\n\nWhat We Offer: At TaskUs, we prioritize our employees' well-\nbeing by offering competitive industry salaries and\ncomprehensive benefits packages. Our commitment to a People\nFirst culture is reflected in the various departments we\nhave established, including Total Rewards, Wellness, HR, and\nDiversity. We take pride in our inclusive environment and\npositive impact on the community. Moreover, we actively\nencourage internal mobility and professional growth at all\nstages of an employee's career within TaskUs. Join our team\ntoday and experience firsthand our dedication to supporting\nPeople First.\n\nRole: Backend / Platform Engineer (AI Systems) Experience:\n3–8 years\n\nAbout the Role\n\nYou will build the core platform services and APIs that\npower AI workflows, integrations, and enterprise\ndeployments.\n\nResponsibilities\n\n- Design and build scalable backend services and APIs\n- Develop microservices for QA workflows, scoring, and\n  insights delivery\n- Integrate with internal and external systems (CRM, contact\n  center, etc.)\n- Build orchestration layers for AI workflows\n- Ensure system performance, reliability, and scalability\n- Collaborate with AI and data teams for seamless integration\n\nRequired Skills\n\n- Strong backend development (Python, Node.js, or Java)\n- Experience building REST/gRPC APIs\n- Familiarity with microservices architecture\n- Experience with AWS (Lambda, ECS/EKS, API Gateway)\n- Understanding of system design and distributed systems\n\nNice to Have\n\n- Experience with event-driven systems (Kafka, SNS/SQS)\n- Exposure to AI/ML system integration\n- Knowledge of multi-cloud architectures\n\nImpact\n\nYou will build the scalable foundation that connects AI\ncapabilities to real-world applications.\n\nHow We Partner To Protect You: TaskUs will neither solicit\nmoney from you during your application process nor require\nany form of payment in order to proceed with your\napplication. Kindly ensure that you are always in\ncommunication with only authorized recruiters of TaskUs.\n\nDEI: In TaskUs we believe that innovation and higher\nperformance are brought by people from all walks of life. We\nwelcome applicants of different backgrounds, demographics,\nand circumstances. Inclusive and equitable practices are our\nresponsibility as a business. TaskUs is committed to\nproviding equal access to opportunities. If you need\nreasonable accommodations in any part of the hiring process,\nplease let us know.\n\nWe invite you to explore all TaskUs career opportunities and\napply through the provided URL\nhttps://www.taskus.com/careers/.\n",
+  "skills_required": [
+    "Distributed systems design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build scalable backend services and APIs",
+    "Develop microservices for QA workflows, scoring, and insights delivery",
+    "Integrate with internal and external systems (CRM, contact center, etc.)",
+    "Build orchestration layers for AI workflows",
+    "Ensure system performance, reliability, and scalability",
+    "Collaborate with AI and data teams for seamless integration"
+  ],
+  "use_cases": [
+    "AI workflow orchestration for enterprise deployments",
+    "QA workflow automation and scoring",
+    "Insights delivery platform",
+    "Integration layer connecting AI capabilities to CRM and contact center systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS API Gateway",
+    "AWS ECS/EKS",
+    "AWS Lambda",
+    "AWS SNS/SQS",
+    "Kafka",
+    "Microservices architecture",
+    "REST APIs",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Java",
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role builds backend platform services and APIs that\npower AI workflows, but does not involve directly building,\ntraining, fine-tuning, or deploying AI/ML models. The\nengineer creates the infrastructure and orchestration layers\nthat connect AI capabilities to applications, which is\nenabling/support work for AI systems rather than hands-on\nAI/ML work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "gRPC",
+      "Microservices architecture"
+    ],
+    "databases": [],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS Lambda",
+      "AWS ECS/EKS",
+      "AWS API Gateway",
+      "AWS",
+      "AWS SNS/SQS"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "Node.js",
+      "Java"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-0784",
+  "source": "intl-ai-corpus",
+  "source_ref": "7001026",
+  "source_url": "https://builtin.com/job/lead-ai-systems-engineer-cairo-hub/7001026",
+  "title": "Lead AI Systems Engineer - Cairo Hub",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AirNXT",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10 Employees",
+  "company_stage": "Early-stage (scale-up)",
+  "company_focus": "AI-powered MRO software for aviation maintenance",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "✈️ About AirNxt\n\nAirNxt is building the next generation of AI-powered MRO\nsoftware to transform aviation maintenance, operations, and\nmanagement. Our platform is designed to be intuitive,\nscalable, and high-performance, simplifying complex\nworkflows and enhancing efficiency across the aviation\nindustry.\n\nAs we scale, we’re looking for passionate professionals who\nthrive in agile environments and are eager to solve real-\nworld aviation challenges using cutting-edge technology and\ninnovative solutions. If that sounds like you, we’d love to\nhear from you!\n\n🎯 The Role\n\nThis is not a research role, it’s a build-and-ship role. You\nwill lead the design and implementation of AirNxt’s AI\ncapabilities, from document understanding to agentic\nworkflows and early fault prediction.\n\nYou’ll partner closely with our CEO and Data Architect to\ndefine what “intelligent aviation software” actually means\nin practice.\n\nYou will not be buried in infra or tooling. This role is\nabout shipping AI systems that work in production, in the\nreal world.\n\n🧠 What You'll Build:\n\n- Design and deploy AI workflows that turn raw maintenance\n  documents into structured, validated data\n- Agent-based automation workflows using LangGraph (or\n  equivalent), orchestrating validation, transformation, and\n  human-in-loop approval\n- Develop lightweight predictive models based on time-series\n  or log patterns that flag potential issues before they\n  become unscheduled events\n- Implement NLP + LLM chains that extract meaning from\n  technical and regulatory documents, pilot logs, work\n  orders, and assist in summarizing or generating checklists\n- Build with clear traceability, fallbacks, and an execution\n  path that earns trust from ops teams and regulators\n\n⚙️ What You Bring\n\nYou’ve likely done some or all of the following:\n\n- 4–8 years of experience building and shipping real-world\n  AI/ML systems (not just prototypes or research)\n- Strong Python developer with ability to own services end-to-\n  end\n- Hands-on with LLM workflows, prompt engineering, and\n  chaining frameworks (LangGraph, LangChain, Haystack, or\n  similar)\n- Integrated LLMs, embeddings, and vector search into real-\n  world workflows\n- Designed custom NLP chains for document understanding, with\n  schema enforcement and confidence scoring\n- Working knowledge of time-series or anomaly detection (e.g.,\n  Prophet, LSTM, transformers)\n- High ownership mindset—you debug in production and think in\n  first principles\n- Clear communicator who thrives in lean, fast-paced teams\n  without layers of abstraction\n\n✅ Bonus if you’ve touched:\n\n- Aviation, logistics, or other physical/regulated systems\n- Graph data (Neo4j, property graphs, entity relationships)\n- Safety reporting systems or compliance-heavy workflows\n- Smart-contracts or audit-proof data systems\n\n🧭 What Success Looks Like in 6 Months\n\n- You’ve built an intelligent pipeline that turns raw PDFs\n  into structured, validated records\n- Agents are live, automating complex data flows with human\n  oversight where needed\n- A predictive model flags early risk conditions based on\n  real-world log and usage data\n- You’re the technical owner of our AI system, and a respected\n  voice in the team\n- We're not guessing, your systems are improving speed,\n  quality, and safety on the ground\n\n🎁 What We Offer\n\n- Competitive salary, Health insurance\n- The chance to own a core product stream from the start, and\n  grow into Head of AI if that’s your path\n- Early access to problems that are hard, real, and high-\n  impact\n- A team that moves fast, thinks clearly, and backs each other\n- A mission that matters: keep aircraft safer, smarter, and\n  better maintained\n\n🚫 What We Don’t Offer\n\n- Endless sprints to nowhere\n- AI hype without grounding\n- Legacy drag, middle-management layers, or AI theater\n- Burnout-as-a-badge or chaos as culture\n\nIf you’re a builder who codes, simplifies, and cares about\nexecution, this is yours.\n\nWe’re not looking for a perfect resume. We’re looking for\nthe person who can build the system.\n\nIf that’s you, let’s talk.\n\n🔗 How to Apply\n\nClick “Apply Now” to submit your application directly\nthrough Ashby. If you have any questions, reach out to\ntalents@airnxt.ai.\n\n🌍 AirNxt is an Equal Opportunity Employer.\n\nWe welcome applicants from all backgrounds and do not\ndiscriminate based on gender, race, disability, or any other\nprotected status. We’re committed to fostering a diverse and\ninclusive team.\n\n🚀 Join us and be part of shaping the future of aviation\ntechnology!\n",
+  "skills_required": [
+    "Haystack",
+    "LLM workflows",
+    "LSTM",
+    "LangChain",
+    "LangGraph",
+    "Prophet",
+    "anomaly detection",
+    "embeddings",
+    "prompt engineering",
+    "time-series forecasting",
+    "transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deploy AI workflows that turn raw maintenance documents into structured, validated data",
+    "Build agent-based automation workflows using LangGraph for validation, transformation, and human-in-loop approval",
+    "Develop lightweight predictive models based on time-series or log patterns for early fault prediction",
+    "Implement NLP and LLM chains to extract meaning from technical documents, pilot logs, and work orders",
+    "Build AI systems with clear traceability, fallbacks, and execution paths that earn trust from ops teams and regulators",
+    "Own AI systems end-to-end as technical owner, improving speed, quality, and safety in production"
+  ],
+  "use_cases": [
+    "Document understanding and extraction from aviation maintenance PDFs and technical documents",
+    "Automated agent-based workflows for data validation, transformation, and approval with human oversight",
+    "Predictive fault detection and early risk identification from time-series log and usage data",
+    "NLP-powered summarization and checklist generation from regulatory documents and work orders",
+    "Intelligent data pipeline transforming raw maintenance records into structured, validated aviation data"
+  ],
+  "tools_mentioned": [
+    "vector search"
+  ],
+  "frameworks_mentioned": [
+    "Haystack",
+    "LLM workflows",
+    "LSTM",
+    "LangChain",
+    "LangGraph",
+    "Prophet",
+    "anomaly detection",
+    "embeddings",
+    "prompt engineering",
+    "time-series forecasting",
+    "transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "NLP",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on build-and-ship role focused on designing\nand deploying AI systems including agent-based workflows\nusing LangGraph, LLM chains for document understanding, and\npredictive models. The role directly works with models,\nprompt engineering, and LLM workflows - not just supporting\ninfrastructure or data pipelines.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "Haystack",
+      "prompt engineering",
+      "LLM workflows",
+      "embeddings"
+    ],
+    "ml": [
+      "time-series forecasting",
+      "anomaly detection",
+      "Prophet",
+      "LSTM",
+      "transformers"
+    ],
+    "web": [],
+    "databases": [
+      "vector search"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

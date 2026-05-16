@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-1673",
+  "source": "intl-ai-corpus",
+  "source_ref": "8570947",
+  "source_url": "https://builtin.com/job/sr-developer-ai-automation/8570947",
+  "title": "Sr. Developer - AI & Automation",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Thermo Fisher Scientific",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "100,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Scientific instruments and healthcare solutions",
+  "industries": [],
+  "description": "Work Schedule\n\nStandard (Mon-Fri)\n\nEnvironmental Conditions\n\nOffice\n\nJob Description\n\nAs part of the Thermo Fisher Scientific team, you’ll\ndiscover meaningful work that makes a positive impact on a\nglobal scale. Join our colleagues in bringing our Mission to\nlife every single day to enable our customers to make the\nworld healthier, cleaner and safer. We provide our global\nteams with the resources needed to achieve individual career\ngoals while helping to take science a step beyond by\ndeveloping solutions for some of the world’s toughest\nchallenges, like protecting the environment, making sure our\nfood is safe or helping find cures for cancer. DESCRIPTION:\nJoin our innovative team as a Senior Developer and make a\nmeaningful impact on global science and healthcare. In this\nrole, you'll design and develop sophisticated AI &\nAutomation solutions that contribute to improving health and\nenvironmental outcomes. You'll work with cutting-edge\ntechnologies across cloud platforms, data integration,\nAI/ML, and enterprise systems to deliver robust applications\nthat power our essential operations. Working in an agile\nenvironment, you will operate as a hands-on software\nengineer within the intelligent automation and AI ecosystem,\nresponsible for designing, developing, and scaling\nenterprise-grade agentic AI and automation solutions. This\nrole blends Python-based AI development, agentic\norchestration, and RPA technologies (UiPath) with Microsoft\nPower Platform, focusing on robust engineering practices\nrather than low-code configuration alone.\n\nYou will design agentic systems that combine LLM-powered\nreasoning, autonomous decision-making, and Human-in-the-Loop\n(HITL) controls to deliver reliable, explainable, and\ncompliant automation across complex business processes. The\nrole requires deep coding expertise, system design thinking,\nreusable frameworks, and integration with enterprise\nplatforms, data sources, and AI services.\n\nREQUIREMENTS:\n\n- Bachelor’s Degree plus 8+ years of experience, or Advanced\n  Degree plus 6+ years of experience in software\n  development, AI engineering, RPA, or intelligent\n  automation\n- Strong hands-on experience designing, developing, and\n  maintaining AI-driven and agentic automation solutions\n  using Python, UiPath (REFramework, Orchestrator APIs,\n  queues, assets), and Microsoft Power Platform\n- Proven experience building and orchestrating Agentic AI\n  systems using Python-based frameworks such as LangChain,\n  LangGraph, AutoGen, Semantic Kernel, CrewAI, or equivalent\n- Demonstrated experience developing LLM-enabled agents,\n  including prompt engineering, tool invocation, embeddings,\n  vector stores, memory, planning, and decision\n  orchestration\n- Expertise in designing goal-driven, event-driven, and\n  stateful agent architectures, including exception\n  recovery, fallback strategies, and decision routing\n- Strong experience implementing Human-in-the-Loop (HITL)\n  workflows using UiPath Action Center, approval mechanisms,\n  and Python-based validation and feedback loops\n- Experience developing and maintaining reusable frameworks,\n  libraries, and shared components using Python and .NET (C#\n  and/or VB.NET) aligned with enterprise engineering\n  standards\n- Hands-on experience building secure, API-first integrations\n  using REST/SOAP services, JSON/XML, message queues, and\n  enterprise authentication mechanisms\n- Strong experience integrating automation and AI solutions\n  with enterprise platforms such as SFDC, SQL databases,\n  SharePoint, cloud services, AI platforms, and legacy\n  systems\n- Strong experience of Windows automation, attended and\n  unattended bot execution models, and Citrix automation\n  challenges\n- Experience implementing robust exception handling,\n  structured logging, observability, retries, and\n  performance optimization in distributed and semi-\n  autonomous systems\n- Proficiency with Git-based version control and Azure DevOps,\n  including branching strategies, pull requests, CI/CD\n  pipelines, and automated deployments\n- Demonstrated ability to troubleshoot complex production\n  issues, perform root-cause analysis, and drive continuous\n  improvement in enterprise environments\n- Experience conducting peer code reviews, enforcing coding\n  standards, and providing technical mentorship to other\n  developers\n- Ability to collaborate effectively with architecture,\n  security, data, and compliance teams to ensure solutions\n  meet enterprise governance, security, and regulatory\n  requirements\n\nPREFERRED QUALIFICATIONS\n\n- Experience with UiPath AI Center, Document Understanding,\n  Power Platform AI Builder, or equivalent AI/ML platforms\n- Familiarity with automated testing frameworks for AI, RPA,\n  and agent-based systems\n- Experience working in regulated or validated enterprise\n  environments (GxP, SOX, FDA, or equivalent)\n- UiPath Advanced Certification and/or Microsoft Power\n  Platform certifications\n- Exposure to AI governance, model validation, explainability,\n  and auditability in enterprise environments\n",
+  "skills_required": [
+    "AutoGen",
+    "CrewAI",
+    "LLM agents",
+    "LangChain",
+    "LangGraph",
+    "Microsoft Power Platform",
+    "Semantic Kernel",
+    "UiPath",
+    "agentic orchestration",
+    "embeddings",
+    "prompt engineering",
+    "tool invocation",
+    "vector stores"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop enterprise-grade agentic AI and automation solutions using Python and orchestration frameworks",
+    "Build LLM-powered agents with prompt engineering, tool invocation, embeddings, vector stores, and memory",
+    "Design goal-driven and event-driven agent architectures with exception recovery and fallback strategies",
+    "Implement Human-in-the-Loop workflows using UiPath Action Center and Python-based validation loops",
+    "Develop reusable frameworks and shared components using Python and .NET aligned with enterprise standards",
+    "Integrate automation and AI solutions with enterprise platforms including SFDC, SQL databases, SharePoint, and legacy systems"
+  ],
+  "use_cases": [
+    "Enterprise business process automation with AI-driven reasoning and decision-making",
+    "Compliant and explainable automation across regulated healthcare and scientific workflows",
+    "Human-in-the-loop document processing and validation with AI assistance",
+    "Windows and Citrix automation for attended and unattended bot execution",
+    "Robust exception handling and recovery in distributed semi-autonomous systems"
+  ],
+  "tools_mentioned": [
+    "Azure DevOps",
+    "CI/CD",
+    "Git",
+    "REST",
+    "SOAP"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "LLM agents",
+    "LangChain",
+    "LangGraph",
+    "Semantic Kernel",
+    "agentic orchestration",
+    "embeddings",
+    "prompt engineering",
+    "tool invocation",
+    "vector stores"
+  ],
+  "languages_programming": [
+    "C#",
+    "Python",
+    "SQL",
+    "VB.NET"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on development of agentic AI\nsystems, LLM-powered agents, and AI-driven automation\nsolutions using frameworks like LangChain, LangGraph, and\nAutoGen. The developer will design and orchestrate goal-\ndriven agent architectures with LLM reasoning, tool\ninvocation, vector stores, and decision-making capabilities,\nwhich is core AI engineering work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "AutoGen",
+      "Semantic Kernel",
+      "CrewAI",
+      "LLM agents",
+      "prompt engineering",
+      "tool invocation",
+      "embeddings",
+      "vector stores",
+      "agentic orchestration"
+    ],
+    "ml": [],
+    "web": [
+      "REST",
+      "SOAP"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Azure DevOps"
+    ],
+    "ops": [
+      "Git",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "C#",
+      "VB.NET",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "UiPath",
+      "Microsoft Power Platform"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

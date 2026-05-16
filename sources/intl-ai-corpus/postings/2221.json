@@ -1,0 +1,113 @@
+{
+  "job_id": "intl-ai-corpus-2221",
+  "source": "intl-ai-corpus",
+  "source_ref": "8816095",
+  "source_url": "https://www.builtinla.com/job/hpc-ai-ml-platform-engineer/8816095",
+  "title": "HPC - AI/ML Platform Engineer",
+  "title_normalized": "MLOPS_ENGINEER",
+  "company": "Ford Motor Company",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-19",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Automotive manufacturing and mobility solutions",
+  "industries": [],
+  "description": "The selected candidate will join the team responsible for\nengineering and operating large-scale GPU and compute\nplatforms that power AI/ML and high performance computing\nworkloads across multiple datacenters. The team manages\nKubernetes-based GPU environments, cluster infrastructure,\nand the supporting systems that enable internal engineering\nteams to train models, run simulations, and develop advanced\nsoftware at scale.\n\nThis role focuses on building reliable, scalable GPU\nplatforms and helping internal users successfully run AI/ML\nand high-performance workloads on Kubernetes and related\ncompute infrastructure.\n\nResponsibilities\n\n- Design, implement, and support GPU/Kubernetes clusters and\n  supporting infrastructure\n- Supporting AI/ML training, simulation, and HPC workload\n  customers\n- Develop automation and tooling for cluster provisioning,\n  configuration management, and platform operations\n- Collaborate with application and research teams to optimize\n  workloads running on GPU infrastructure\n- Implement monitoring, observability, and performance tuning\n  across GPU and compute platforms\n- Troubleshoot infrastructure issues across compute,\n  networking, and container platforms (occasional on-call\n  support)\n- Contribute to platform reliability, scalability, and\n  operational best practices\n- Produce clear technical documentation and operational\n  runbooks\n\nQualifications\n\nMust Have:\n\n- 5+ years of Linux systems engineering or infrastructure\n  experience\n- 2+ years working with container platforms such as Kubernetes\n  or OpenShift\n  - Familiarity with Kubernetes GPU scheduling and related\n    tooling\n- Familiarity with CI/CD pipelines and platform engineering\n  practices\n- Experience operating compute infrastructure for high-\n  performance workloads or large distributed systems\n- Strong scripting or programming skills (Python, Bash, or\n  similar)\n- Experience building infrastructure automation and\n  operational tooling\n- Strong troubleshooting and problem-solving skills across\n  complex infrastructure systems\n- Ability to communicate clearly with both platform engineers\n  and application teams\n- Demonstrated ability to manage multiple technical\n  initiatives simultaneously\n\n\n\nNice to Have:\n\n- Bachelor’s degree in Computer Science, Engineering, or\n  related field, or equivalent experience\n- Experience with observability platforms such as Prometheus,\n  Grafana, or similar\n- Experience with infrastructure automation tools (Ansible,\n  Terraform, etc.)\n- Experience with high-speed networking technologies such as\n  InfiniBand or RDMA\n\n\n\nYou may not check every box, or your experience may look a\nlittle different from what we've outlined, but if you think\nyou can bring value to Ford Motor Company, we encourage you\nto apply!\n\nAs an established global company, we offer the benefit of\nchoice. You can choose what your Ford future will look like:\nwill your story span the globe, or keep you close to home?\nWill your career be a deep dive into what you love, or a\nseries of new teams and new skills? Will you be a leader, a\nchangemaker, a technical expert, a culture builder…or all of\nthe above? No matter what you choose, we offer a work life\nthat works for you, including:\n\n- Immediate medical, dental, and prescription drug coverage\n- Flexible family care, parental leave, new parent ramp-up\n  programs, subsidized back-up child care and more\n- Vehicle discount program for employees and family members,\n  and management leases\n- Tuition assistance\n- Established and active employee resource groups\n- Paid time off for individual and team community service\n- A generous schedule of paid holidays, including the week\n  between Christmas and New Year’s Day\n- Paid time off and the option to purchase additional vacation\n  time.\n\nFor a detailed look at our benefits, click here: Benefit\nSummary\n\nThis position is a salary grade 8.\n\nThis position is a salary grade 8 and ranges from\n$113,580-190,500.\n\n\n\n*Visa Sponsorship is not provided for this role*\n\nCandidates for positions with Ford Motor Company must be\nlegally authorized to work in the United States.\nVerification of employment eligibility will be required at\nthe time of hire.\n\nWe are an Equal Opportunity Employer committed to a\nculturally diverse workforce. All qualified applicants will\nreceive consideration for employment without regard to race,\nreligion, color, age, sex, national origin, sexual\norientation, gender identity, disability status or protected\nveteran status. In the United States, If you need a\nreasonable accommodation for the online application process\ndue to a disability, please call 1-888-336-0660.\n\n\n#LI-Remote\n\n#LI-GH2\n",
+  "skills_required": [
+    "GPU scheduling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and support GPU/Kubernetes clusters and supporting infrastructure",
+    "Support AI/ML training, simulation, and HPC workload customers",
+    "Develop automation and tooling for cluster provisioning, configuration management, and platform operations",
+    "Collaborate with application and research teams to optimize workloads running on GPU infrastructure",
+    "Implement monitoring, observability, and performance tuning across GPU and compute platforms",
+    "Troubleshoot infrastructure issues across compute, networking, and container platforms",
+    "Contribute to platform reliability, scalability, and operational best practices",
+    "Produce clear technical documentation and operational runbooks"
+  ],
+  "use_cases": [
+    "AI/ML model training infrastructure",
+    "High-performance computing simulations",
+    "Large-scale GPU compute platforms",
+    "Kubernetes-based container orchestration for AI workloads",
+    "Multi-datacenter compute infrastructure"
+  ],
+  "tools_mentioned": [
+    "Ansible",
+    "CI/CD",
+    "Docker",
+    "Grafana",
+    "InfiniBand",
+    "Kubernetes",
+    "Linux systems engineering",
+    "OpenShift",
+    "Prometheus",
+    "RDMA",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "GPU scheduling"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role builds and operates GPU/Kubernetes infrastructure\nplatforms that support AI/ML workloads, but does not\ndirectly build, train, fine-tune, or deploy AI/ML models.\nThe focus is on platform engineering, cluster management,\nand infrastructure automation to enable internal teams to\nrun their AI/ML workloads.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "GPU scheduling"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Terraform"
+    ],
+    "ops": [
+      "Kubernetes",
+      "OpenShift",
+      "CI/CD",
+      "Linux systems engineering",
+      "Prometheus",
+      "Grafana",
+      "Ansible",
+      "InfiniBand",
+      "RDMA",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

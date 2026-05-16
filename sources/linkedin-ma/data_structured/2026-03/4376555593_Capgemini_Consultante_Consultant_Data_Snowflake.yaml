@@ -1,0 +1,36 @@
+company:
+  name: Capgemini
+  stage: null
+  focus: null
+position:
+  title: Consultante/Consultant Data - Snowflake
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - snowflake
+    data:
+    - data warehouse
+    - etl
+    - sql
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - agile
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4376555593'
+  extracted_at: '2026-05-15T15:53:14+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

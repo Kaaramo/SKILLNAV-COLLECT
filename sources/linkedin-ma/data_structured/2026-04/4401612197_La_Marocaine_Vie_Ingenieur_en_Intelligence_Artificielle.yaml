@@ -1,0 +1,40 @@
+company:
+  name: La Marocaine Vie
+  stage: null
+  focus: null
+position:
+  title: Ingénieur en Intelligence Artificielle
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Computer vision
+  skills:
+    genai: []
+    ml:
+    - deep learning
+    - machine learning
+    - pytorch
+    - scikit-learn
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - numpy
+    - pandas
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains:
+    - computer vision
+    - nlp
+    other:
+    - MLOps
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4401612197'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

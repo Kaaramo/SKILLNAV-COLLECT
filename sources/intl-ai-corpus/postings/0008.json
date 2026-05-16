@@ -1,0 +1,93 @@
+{
+  "job_id": "intl-ai-corpus-0008",
+  "source": "intl-ai-corpus",
+  "source_ref": "3203184",
+  "source_url": "https://builtin.com/job/senior-backend-engineer-ai-serving-node/3203184",
+  "title": "AI Engineer & Researcher, Inference",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Speechify",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "96 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Text-to-speech AI reading accessibility products",
+  "industries": [],
+  "description": "The mission of Speechify is to make sure that reading is\nnever a barrier to learning.\n\nOver 50 million people use Speechify’s text-to-speech\nproducts to turn whatever they’re reading – PDFs, books,\nGoogle Docs, news articles, websites – into audio, so they\ncan read faster, read more, and remember more. Speechify’s\ntext-to-speech reading products include its iOS app, Android\nApp, Mac App, Chrome Extension, and Web App. Google recently\nnamed Speechify the Chrome Extension of the Year and Apple\nnamed Speechify its App of the Day.\n\nToday, nearly 200 people around the globe work on Speechify\nin a 100% distributed setting – Speechify has no office.\nThese include frontend and backend engineers, AI research\nscientists, and others from Amazon, Microsoft, and Google,\nleading PhD programs like Stanford, high growth startups\nlike Stripe, Vercel, Bolt, and many founders of their own\ncompanies.\n\nThis is a key role and ideal for someone who thinks\nstrategically, enjoys fast-paced environments, passionate\nabout making product decisions, and has experience building\ngreat user experiences that delight users.\n\nWe are a flat organization that allows anyone to become a\nleader by showing excellent technical skills and delivering\nresults consistently and fast. Work ethic, solid\ncommunication skills, and obsession with winning are\nparamount.\n\nOur interview process involves several technical interviews\nand we aim to complete them within 1 week.\n\nWhat You’ll Do\n\n- Work alongside machine learning researchers, engineers, and\n  product managers to bring our AI Voices to their customers\n  for a diverse range of use cases\n- Deploy and operate the core ML inference workloads for our\n  AI Voices serving pipeline\n- Introduce new techniques, tools, and architecture that\n  improve the performance, latency, throughput, and\n  efficiency of our deployed models\n- Build tools to give us visibility into our bottlenecks and\n  sources of instability and then design and implement\n  solutions to address the highest priority issues\n\nAn Ideal Candidate Should Have\n\n- Experience shipping Python-based services\n- Experience being responsible for the successful operation of\n  a critical production service\n- Experience with public cloud environments, GCP preferred\n- Experience with Infrastructure such as Code, Docker, and\n  containerized deployments.\n- Preferred: Experience deploying high-availability\n  applications on Kubernetes.\n- Preferred: Experience deploying ML models to production\n\nWhat We Offer\n\n- A dynamic environment where your contributions shape the\n  company and its products\n- A team that values innovation, intuition, and drive\n- Autonomy, fostering focus and creativity\n- The opportunity to have a significant impact in a\n  revolutionary industry\n- Competitive compensation, a welcoming atmosphere, and a\n  commitment to an exceptional asynchronous work culture\n- The privilege of working on a product that changes lives,\n  particularly for those with learning differences like\n  dyslexia, ADD, and more\n- An active role at the intersection of artificial\n  intelligence and audio – a rapidly evolving tech domain\n\nThe United States Based Salary range for this role is:\n140,000-200,000 USD/Year + Bonus + Stock depending on\nexperience\n\nThink you’re a good fit for this job?\n\nTell us more about yourself and why you're interested in the\nrole when you apply.  And don’t forget to include links to\nyour portfolio and LinkedIn.\n\nNot looking but know someone who would make a great fit?\n\nRefer them!\n\nSpeechify is committed to a diverse and inclusive workplace.\n\nSpeechify does not discriminate on the basis of race,\nnational origin, gender, gender identity, sexual\norientation, protected veteran status, disability, age, or\nother legally protected status.\n",
+  "skills_required": [
+    "ML inference"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Work alongside machine learning researchers, engineers, and product managers to bring AI Voices to customers for diverse use cases",
+    "Deploy and operate the core ML inference workloads for the AI Voices serving pipeline",
+    "Introduce new techniques, tools, and architecture that improve performance, latency, throughput, and efficiency of deployed models",
+    "Build tools to gain visibility into bottlenecks and instability sources and implement solutions for priority issues"
+  ],
+  "use_cases": [
+    "Text-to-speech conversion for PDFs, books, documents, and websites",
+    "Audio generation from written content for faster reading and improved retention",
+    "Accessibility support for users with learning differences like dyslexia and ADD",
+    "Cross-platform voice synthesis including iOS, Android, Mac, Chrome, and web applications"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "ML model deployment"
+  ],
+  "frameworks_mentioned": [
+    "ML inference"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS",
+    "RESEARCH"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves deploying and operating core ML inference\nworkloads for AI Voices, improving model performance and\nefficiency. The engineer works directly on ML model serving\npipeline and deployment, which is hands-on work with AI\nsystems rather than supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "ML inference"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "ML model deployment"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:36+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

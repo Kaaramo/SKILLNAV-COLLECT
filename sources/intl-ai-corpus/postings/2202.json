@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-2202",
+  "source": "intl-ai-corpus",
+  "source_ref": "8804279",
+  "source_url": "https://builtin.com/job/ai-engineer-fluent-thai-and-english/8804279",
+  "title": "AI Engineer (Fluent in Thai and English)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Chubb",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-19",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "27,791 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global insurance and financial services company",
+  "industries": [],
+  "description": "AI Engineer (Fluent in Thai and English)\n\nPosition Overview\n\nWe are seeking an AI Engineer to join our Global Analytics\nteam in London. This role is focused on the end-to-end\nlifecycle of production-grade AI, from training and fine-\ntuning specialized models to architecting high-performance\ninference pipelines.\n\nThe ideal candidate views AI as a rigorous engineering\ndiscipline. Beyond building models, you will be responsible\nfor writing high-quality, maintainable Python code and\nensuring that every solution—whether a voice agent or a\ndocument processor—is built for reliability, low latency,\nand global scale.\n\nKey Responsibilities\n\n- Model Training & Fine-Tuning: Lead the adaptation of Large\n  Language Models (LLMs) for domain-specific tasks using\n  techniques like LoRA, QLoRA, and PEFT to balance\n  performance with resource efficiency.\n- Inference Optimization: Architect and optimize inference\n  pipelines to minimize TTFT (Time to First Token) and\n  maximize throughput. This includes implementing\n  quantization, caching strategies, and efficient batching.\n- Production Engineering: Build and maintain real-time AI\n  pipelines using WebSockets and SSE, ensuring seamless low-\n  latency delivery for voice (ASR/TTS) and text\n  applications.\n- Architecture & MLOps: Deploy and orchestrate models within\n  containerized microservice architectures\n  (Docker/Kubernetes), ensuring robust monitoring, security,\n  and scalability.\n- Collaborative Delivery: Work closely with Business Analysts\n  and internal stakeholders to bridge the gap between\n  commercial requirements and technical implementation.\n\nQualifications\n\nTechnical Requirements\n\n- Professional Experience: 5+ years in AI/ML engineering with\n  a documented history of moving complex models from\n  research into production.\n- Python Mastery: Deep proficiency in Python. You have a\n  strong commitment to clean coding standards (SOLID/DRY),\n  modular design, and comprehensive unit/integration\n  testing.\n- Generative AI Deep Dive: Hands-on experience with LLM\n  training cycles, parameter-efficient fine-tuning (PEFT),\n  and sophisticated prompt engineering.\n- Inference Stack: Experience with high-performance inference\n  servers (e.g., vLLM, TGI, or Triton) and an understanding\n  of how to optimize models for GPU deployment.\n- Infrastructure: Comfortable working in Linux-based\n  environments and proficient in managing containerized\n  workloads and automated CI/CD pipelines.\n- Advanced RAG: Experience building production-ready\n  Retrieval-Augmented Generation systems, including vector\n  database management and semantic search optimization.\n\nPreferred Qualifications\n\n- Experience in the insurance or financial services sector.\n- Deep knowledge of GPU architecture, CUDA, and hardware-level\n  performance optimization.\n- Familiarity with Document Intelligence frameworks (OCR,\n  layout analysis, and multimodal extraction).\n- MUST be fluent in Thai and English\n\nWe offer in return!\n\nCompetitive salary & pension scheme, discretionary bonus\nscheme, 25 days annual leave plus ability to purchase 5\nadditional days, hybrid working options, Private Medical\ncover, Employee Share Purchase Plan, Life Assurance,\nSubsidised gym membership, Comprehensive Learning &\ndevelopment offerings, Employee Assistance program.\n\nIntegrity. client focus. respect. excellence. teamwork\n\nOur core values dictate how we live and work. We’re an\nethical and honest company that’s wholly committed to its\nclients. A business that’s engaged in mutual trust and\nrespect for its employees and partners. A place where\ncolleagues perform at the highest levels. And a working\nenvironment that’s collaborative and supportive.\n\nDiversity & Inclusion. At Chubb, we consider our people our\nchief competitive advantage and as such we treat colleagues,\ncandidates, clients, and business partners with equality,\nfairness and respect, regardless of their age, disability,\nrace, religion or belief, gender, sexual orientation,\nmarital status or family circumstances.\n\nWe are committed to ensuring our recruitment process is\ninclusive and accessible to all. If you have a disability or\nlong-term condition (for example dyslexia, anxiety, autism,\na mobility condition or hearing loss) and need us to make\nany reasonable adjustments, changes or do anything\ndifferently during the recruitment process, please let us\nknow.\n",
+  "skills_required": [
+    "CUDA",
+    "GPU optimization",
+    "LLM fine-tuning",
+    "LoRA",
+    "PEFT",
+    "Prompt engineering",
+    "QLoRA",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead the adaptation of Large Language Models (LLMs) for domain-specific tasks using techniques like LoRA, QLoRA, and PEFT to balance performance with resource efficiency",
+    "Architect and optimize inference pipelines to minimize TTFT (Time to First Token) and maximize throughput including implementing quantization, caching strategies, and efficient batching",
+    "Build and maintain real-time AI pipelines using WebSockets and SSE, ensuring seamless low-latency delivery for voice (ASR/TTS) and text applications",
+    "Deploy and orchestrate models within containerized microservice architectures (Docker/Kubernetes), ensuring robust monitoring, security, and scalability",
+    "Work closely with Business Analysts and internal stakeholders to bridge the gap between commercial requirements and technical implementation"
+  ],
+  "use_cases": [
+    "Voice agents with ASR/TTS capabilities for customer interactions",
+    "Document processing and intelligent extraction for insurance workflows",
+    "Domain-specific LLM applications for insurance and financial services",
+    "Real-time AI pipelines for low-latency text applications",
+    "Retrieval-Augmented Generation systems for enterprise search and knowledge retrieval"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "SSE (Server-Sent Events)",
+    "TGI",
+    "Triton",
+    "Vector databases",
+    "WebSockets",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "GPU optimization",
+    "LLM fine-tuning",
+    "LoRA",
+    "PEFT",
+    "Prompt engineering",
+    "QLoRA",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on training, fine-tuning, and\ndeploying LLMs with techniques like LoRA, QLoRA, and PEFT.\nThe position involves building production inference\npipelines, optimizing GPU deployment, and implementing RAG\nsystems - all core AI/ML engineering work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "PEFT",
+      "LoRA",
+      "QLoRA",
+      "RAG",
+      "Prompt engineering",
+      "LLM fine-tuning"
+    ],
+    "ml": [
+      "CUDA",
+      "GPU optimization"
+    ],
+    "web": [
+      "WebSockets",
+      "SSE (Server-Sent Events)"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "vLLM",
+      "Triton",
+      "TGI",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Linux"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "OCR",
+      "Multimodal extraction",
+      "ASR/TTS"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

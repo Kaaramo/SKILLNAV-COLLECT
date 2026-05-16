@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-1671",
+  "source": "intl-ai-corpus",
+  "source_ref": "8570685",
+  "source_url": "https://builtin.com/job/platform-engineer-m-f-d-ai-startup/8570685",
+  "title": "Platform Engineer (m/f/d) (AI Startup)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Deltia",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "Berlin",
+  "country": "DE",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "39 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI for manufacturing",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Productivity",
+    "Analytics"
+  ],
+  "description": "Platform Engineer\n\nWe're looking for a (Senior) Platform Engineer to own and\nevolve our infrastructure — with a focus on developer\nexperience and the chance to get hands-on with AI systems.\n\nWhat you'll do\n\n- Design and maintain cloud infrastructure on AWS using\n  Terraform\n- Own and improve CI/CD pipelines for fast, safe deployments\n- Manage and scale Kubernetes clusters\n- Improve developer experience — making it easy for teams to\n  ship and debug\n- Implement monitoring, logging and alerting for full\n  observability\n- Configure and optimise CDN infrastructure\n\nYou are\n\n- 8-10 years of experience in DevOps, SRE or platform\n  engineering roles\n- Expertise in AWS\n- Proficient with Terraform and infrastructure-as-code\n  workflows\n- Experienced in building and maintaining CI/CD pipelines\n  (GitHub Actions, GitLab CI, Jenkins or similar)\n- Solid understanding of Kubernetes — deployment, networking,\n  scaling and troubleshooting\n- Strong sysadmin fundamentals — Linux, networking, storage\n  and configuration management\n- Comfortable working with relational databases (PostgreSQL,\n  MySQL) and time series databases (TimescaleDB, Prometheus)\n- A clear communicator who works well across engineering and\n  data science teams\n- Pragmatic and reliable — you know when to move fast and when\n  to be careful\n\nNice to have\n\n- Experience supporting ML infrastructure — model deployment,\n  GPU workloads or training pipelines\n- Background in CDN configuration (CloudFront, Fastly,\n  Cloudflare)\n- Familiarity with streaming data or video processing systems\n- Interest in MLOps and bridging the gap between ML research\n  and production\n\nWhy this role matters\n\nYou'll keep our systems running smoothly and help the team\nship with confidence. And if you're curious about ML, you'll\nget real exposure to production AI systems.\n\n#LI-SP1 #LI-Hybrid\n\nWhat we offer\n\nA competitive salary & stock options*\n\nBe on the forefront in defining what artificial intelligence\nmeans in manufacturing\n\nGain hands-on experience in working in an AI-first software\ncompany\n\nSupportive and inclusive culture that values diversity and\npromotes the advancement of underrepresented groups within\nthe company\n\nCollaborate with a diverse (currently more than 10\nnationalities) and talented team, working on cutting-edge\nprojects with real-world impact\n\nNetwork with professionals and leaders in the field, opening\ndoors to potential future career opportunities\n\nWe have a very flat hierarchy, open 360° feedback, and\nflexible working hours\n\nEthics⚖: We are committed to developing ethical AI software\nDon't meet all the requirements?\n\nDeltia is committed to creating a workplace that is diverse,\nfair, and inclusive. We encourage candidates from all\nbackgrounds, even if they do not meet every qualification,\nto submit their application. We firmly believe that having a\nteam with diverse perspectives only strengthens our company\nand drives innovation. Our commitment also extends to\nproviding an accessible environment for everyone, including\nthose with disabilities. Please let us know if you require\nany accommodations during the application process or while\nworking with us, and we will do our best to support you.\n\n*Only full-time, permanent roles are eligible for stock\noptions. Part-time roles, contract roles, work-student,\ninternships and freelance roles are not eligible for stock\noptions.\n",
+  "skills_required": [
+    "GPU workloads",
+    "ML infrastructure"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and maintain cloud infrastructure on AWS using Terraform",
+    "Own and improve CI/CD pipelines for fast, safe deployments",
+    "Manage and scale Kubernetes clusters",
+    "Improve developer experience for shipping and debugging",
+    "Implement monitoring, logging and alerting for full observability",
+    "Configure and optimise CDN infrastructure"
+  ],
+  "use_cases": [
+    "AI systems for manufacturing",
+    "Production ML infrastructure",
+    "Model deployment and GPU workloads",
+    "Streaming data or video processing systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "CloudFront",
+    "Cloudflare",
+    "Fastly",
+    "GitHub Actions",
+    "GitLab CI",
+    "Jenkins",
+    "Kubernetes",
+    "Linux",
+    "MLOps",
+    "MySQL",
+    "PostgreSQL",
+    "Prometheus",
+    "Terraform",
+    "TimescaleDB"
+  ],
+  "frameworks_mentioned": [
+    "GPU workloads",
+    "ML infrastructure"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a platform engineering role focused on\ninfrastructure (AWS, Kubernetes, CI/CD), not directly\nbuilding or deploying AI/ML models. While the company is AI-\nfirst and the role offers exposure to AI systems, the core\nwork is enabling ML teams through infrastructure, not hands-\non model work. The nice-to-have section mentions supporting\nML infrastructure, which confirms this is an\nenabling/support role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "GPU workloads",
+      "ML infrastructure"
+    ],
+    "web": [],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "TimescaleDB"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "CloudFront",
+      "Fastly",
+      "Cloudflare"
+    ],
+    "ops": [
+      "Terraform",
+      "Kubernetes",
+      "CI/CD",
+      "GitHub Actions",
+      "GitLab CI",
+      "Jenkins",
+      "Linux",
+      "Prometheus",
+      "MLOps"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

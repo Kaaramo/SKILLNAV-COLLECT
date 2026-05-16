@@ -1,0 +1,157 @@
+{
+  "job_id": "intl-ai-corpus-2629",
+  "source": "intl-ai-corpus",
+  "source_ref": "8938541",
+  "source_url": "https://builtin.com/job/ai-data-science-engineer-ii/8938541",
+  "title": "AI/Data Science Engineer II",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Medtronic",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-02",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "80,303 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global healthcare technology and medical devices",
+  "industries": [],
+  "description": "At Medtronic you can begin a life-long career of exploration\nand innovation, while helping champion healthcare access and\nequity for all. You’ll lead with purpose, breaking down\nbarriers to innovation in a more connected, compassionate\nworld.\n\nA Day in the LifeData engineers are mainly tasked with\ntransforming data into a format that can be easily analyzed\nand extract relevant and actionable (business) insights.\nThey do this by developing, maintaining, and testing\ninfrastructures for data generation. Data engineers work\nclosely with data scientists/Machine Learning researchers\nand are largely in charge of architecting solutions for them\nthat enable them to do their jobs.\n\nResponsibilities may include the following and other duties\nmay be assigned\n\n- Design & Build Data Pipelines: Architect, implement, and\n  optimize ETL/ELT processes to ingest data from various\n  sources (databases, APIs, streaming systems).\n- Data Modeling: Develop and maintain logical and physical\n  data models in data warehouses/lakes like AWS S3 & Athena\n  or Oracle.\n- Deploy and manage data infrastructure on cloud platforms\n  (AWS, Azure, or GCP) using IaC tools to ensure\n  scalability, reliability and cost efficiency.\n- Data Quality & Governance: Implement data validation,\n  monitoring, and alerting frameworks to ensure accuracy,\n  consistency, and security of data assets.\n- Collaboration & Documentation: Understand requirements,\n  translate business needs into technical solutions, and\n  document data schemas, pipeline designs, and best\n  practices.\n- Explore and integrate innovative data tools, including LLMs\n  and agentic systems, into the existing data ecosystem to\n  enhance analytics and automation.\n\nRequired Knowledge and Experience\n\n- Bachelor’s degree in computer science, Engineering,\n  Information Systems, or a related field (or equivalent\n  work experience)\n- 3+ years of hands-on experience in data engineering or\n  related roles\n- Experience building and optimizing data pipelines,\n  architectures, and data sets\n- Strong understanding of ETL/ELT concepts and best practices\n\n- Experience using LLMs and agentic tools for process\n  automation\n- Proficient in SQL and relational databases (e.g.,\n  PostgreSQL, MySQL, Oracle)\n- Experience with big data processing frameworks (e.g., Apache\n  Spark, Hadoop)\n- Hands-on experience with cloud data services (e.g., AWS\n  Glue, Azure Data Factory, GCP Dataflow)\n- Familiarity with scripting languages such as Python\n  (required), Scala, or Java\n- Comfortable with shell scripting and command-line tools\n  (e.g., Bash, CLI)\n- Experience with version control systems, especially Git,\n  including Git user interfaces (e.g., GitHub, GitLab)\n- Experience with data transformation, metadata management,\n  dependencies, and workload orchestration\n- Knowledge of data warehousing solutions (e.g., Snowflake)\n\n- Strong analytical and problem-solving skills\n- Effective verbal and written communication skills\n- Customer-focused mindset with the ability to adapt to\n  evolving needs\n- Collaborative, proactive, and able to build trust with both\n  internal and external stakeholders\n- Comfortable navigating ambiguity and solving complex, large-\n  scale problems\n- Curious, resilient, and motivated to continuously improve\n  and explore new solutions.\n\nPreferred Qualifications\n\n- Master’s degree in a relevant field.\n- Experience with containerization and orchestration (Docker,\n  Kubernetes).\n- Familiarity with real-time data streaming.\n- Understanding of data privacy and security standards (GDPR,\n  HIPAA).\n- Exposure to BI tools (Looker, Tableau, Power BI) and\n  dashboard development.\n- Certification in cloud platforms (AWS Certified Data\n  Analytics, Google Professional Data Engineer, Azure Data\n  Engineer Associate).\n\nPhysical Job Requirements The above statements are intended\nto describe the general nature and level of work being\nperformed by employees assigned to this position, but they\nare not an exhaustive list of all the required\nresponsibilities and skills of this position.\n\nBenefits & Compensation\n\nMedtronic offers a competitive Salary and flexible Benefits\nPackage A commitment to our employees lives at the core of\nour values. We recognize their contributions. They share in\nthe success they help to create.  We offer a wide range of\nbenefits, resources, and competitive compensation plans\ndesigned to support you at every career and life stage.\n\n\nThis position is eligible for a short-term incentive called\nthe Medtronic Incentive Plan (MIP).\n\nAbout Medtronic\n\nWe lead global healthcare technology and boldly attack the\nmost challenging health problems facing humanity by\nsearching out and finding solutions. Our Mission — to\nalleviate pain, restore health, and extend life — unites a\nglobal team of 95,000+ passionate people. We are engineers\nat heart— putting ambitious ideas to work to generate real\nsolutions for real people. From the R&D lab, to the factory\nfloor, to the conference room, every one of us experiments,\ncreates, builds, improves and solves. We have the talent,\ndiverse perspectives, and guts to engineer the\nextraordinary.\n\nLearn more about our business, mission, and our commitment\nto diversity here\n",
+  "skills_required": [
+    "Agentic systems",
+    "GDPR",
+    "HIPAA",
+    "LLMs",
+    "Looker",
+    "Power BI",
+    "Tableau"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build ETL/ELT data pipelines ingesting data from databases, APIs, and streaming systems",
+    "Develop and maintain logical and physical data models in data warehouses and lakes such as AWS S3, Athena, and Oracle",
+    "Deploy and manage cloud data infrastructure on AWS, Azure, or GCP using Infrastructure as Code tools",
+    "Implement data validation, monitoring, and alerting frameworks for data quality and governance",
+    "Collaborate with stakeholders to translate business needs into technical solutions and document data schemas and pipeline designs",
+    "Explore and integrate LLMs and agentic systems into the data ecosystem to enhance analytics and automation"
+  ],
+  "use_cases": [
+    "Healthcare data pipeline infrastructure for analytics and insights",
+    "Automated data ingestion and transformation from diverse medical data sources",
+    "Cloud-based data warehousing for healthcare technology operations",
+    "LLM-powered automation of data engineering workflows",
+    "Data quality monitoring and governance for healthcare data assets"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Athena",
+    "AWS Glue",
+    "AWS S3",
+    "Apache Spark",
+    "Azure",
+    "Azure Data Factory",
+    "Docker",
+    "ETL/ELT",
+    "GCP",
+    "GCP Dataflow",
+    "Git",
+    "GitHub",
+    "GitLab",
+    "Hadoop",
+    "Infrastructure as Code",
+    "Kubernetes",
+    "MySQL",
+    "Oracle",
+    "PostgreSQL",
+    "Snowflake"
+  ],
+  "frameworks_mentioned": [
+    "Agentic systems",
+    "LLMs"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Java",
+    "Python",
+    "SQL",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "BIG_DATA",
+    "BUSINESS_INTELLIGENCE",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is fundamentally a data engineering role that supports\nAI/ML teams by building data pipelines, infrastructure, and\narchitectures. While it mentions integrating LLMs and\nagentic systems, these are supplementary tools used to\nenhance data engineering workflows (automation and\nanalytics), not the primary focus of building or deploying\nAI/ML models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "Agentic systems"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Snowflake",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle"
+    ],
+    "data": [
+      "ETL/ELT",
+      "Apache Spark",
+      "Hadoop"
+    ],
+    "cloud": [
+      "AWS Glue",
+      "Azure Data Factory",
+      "GCP Dataflow",
+      "AWS S3",
+      "AWS Athena",
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Docker",
+      "Kubernetes",
+      "Infrastructure as Code"
+    ],
+    "languages": [
+      "SQL",
+      "Python",
+      "Scala",
+      "Java",
+      "Bash"
+    ],
+    "domains": [],
+    "other": [
+      "Looker",
+      "Tableau",
+      "Power BI",
+      "HIPAA",
+      "GDPR"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

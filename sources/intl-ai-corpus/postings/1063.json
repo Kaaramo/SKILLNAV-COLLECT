@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-1063",
+  "source": "intl-ai-corpus",
+  "source_ref": "8089894",
+  "source_url": "https://builtin.com/job/ai-engineer/8089894",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Welldoc",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "340 Employees",
+  "company_stage": "Pre-IPO",
+  "company_focus": "AI-powered healthcare solutions and digital health\napplications",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Software"
+  ],
+  "description": "Job Purpose\n\nWe are seeking a highly motivated and skilled AI Engineer to\njoin our team and drive innovation in the fast-evolving\nlandscape of Generative AI. The ideal candidate will have\ndeep hands-on expertise in RAG (Retrieval-Augmented\nGeneration) pipelines and working familiarity with Frontier\nModels (e.g., GPT-4, Claude, LLaMA, etc.). Exposure to\ncutting-edge orchestration frameworks like CrewAI,\nLangGraph, Autogen, or OpenAI SDK is highly desirable.\n\nYou will work closely with product, data, and engineering\nteams to prototype, build, and scale AI-first solutions that\ndeliver tangible business impact. Strong communication\nskills are key, as you’ll be working with cross-functional\nteams and occasionally interfacing with clients.\n\nResponsibilities\n\n- Design and implement scalable RAG pipelines to enable\n  contextual, high-quality responses using enterprise\n  knowledge bases.\n- Evaluate and integrate Frontier LLMs /Open source LLM and\n  APIs for specific tasks, ensuring optimal performance and\n  efficiency.\n- Build autonomous agent workflows using tools like CrewAI,\n  LangGraph, Autogen, or OpenAI SDK.\n- Develop and optimize prompts, chains, and multi-agent\n  systems.\n- Stay updated on the latest in the GenAI ecosystem and make\n  recommendations for internal adoption.\n- Collaborate with stakeholders to understand use cases,\n  define solution architectures, and iterate prototypes into\n  production-ready systems.\n- Ensure responsible AI practices, including data privacy,\n  model explainability, andcompliance.\n\nRequired Skills & Experience\n\n- 6 to 7 years of overall industry experience with at least\n  1–2 years in Generative AI /LLM-focused projects.\n- Strong understanding of Frontier LLMs and their application\n  across domains.\n- Hands-on experience in IDE’s such as Cursor\n- Hands-on experience building Retrieval-Augmented Generation\n  systems using vector databases (like FAISS, Weaviate, or\n  Pinecone).\n- Working knowledge of CrewAI, LangGraph, Autogen, or similar\n  agent orchestration frameworks.\n- Proficiency in Python, with experience using libraries like\n  LangChain, Transformers, and OpenAI SDKs.\n- Familiarity with API integrations, asynchronous task\n  handling, and cloud-nativedeployment (Azure).\n- Excellent problem-solving and analytical skills.\n- Strong written and verbal communication skills.\n\nPreferred Qualifications\n\n- Exposure to US Healthcare systems, data formats (FHIR, HL7),\n  or domain-specific use cases is a plus.\n- Experience in fine-tuning or evaluating LLMs using domain-\n  specific corpora.\n- Understanding of security and compliance requirements in\n  regulated industries.\n\nWhat We Offer • Opportunity to work on cutting-edge AI\nprojects with meaningful real-world applications. •\nCollaborative and inclusive work culture. • Flexible work\nenvironment and competitive compensation.\n\nJoin us in shaping the future of AI-powered applications. If\nyou are passionate about solving complex problems with\nelegant GenAI-driven solutions, we’d love to hear from you.\n\nRequired Education\n\nBachelor’s degree in Computer Science, Electrical and\nComputer Engineering, Software Engineering, or Equivalent.\nAn MS or PhD in such technical fields is very desirable\n\nCompensation & Benefits\n\nWelldoc offers a competitive compensation package, including\ngenerous PTO, pre-IPO stock options, and medical insurance\n",
+  "skills_required": [
+    "Autogen",
+    "Claude",
+    "CrewAI",
+    "Cursor IDE",
+    "FHIR",
+    "Fine-tuning",
+    "GPT-4",
+    "HL7",
+    "LLaMA",
+    "LangChain",
+    "LangGraph",
+    "OpenAI SDK",
+    "Prompt Engineering",
+    "RAG",
+    "Transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement scalable RAG pipelines to enable contextual, high-quality responses using enterprise knowledge bases",
+    "Evaluate and integrate Frontier LLMs and open source LLMs and APIs for specific tasks, ensuring optimal performance and efficiency",
+    "Build autonomous agent workflows using tools like CrewAI, LangGraph, Autogen, or OpenAI SDK",
+    "Develop and optimize prompts, chains, and multi-agent systems",
+    "Stay updated on the latest in the GenAI ecosystem and make recommendations for internal adoption",
+    "Collaborate with stakeholders to understand use cases, define solution architectures, and iterate prototypes into production-ready systems",
+    "Ensure responsible AI practices, including data privacy, model explainability, and compliance"
+  ],
+  "use_cases": [
+    "Contextual question answering using enterprise knowledge bases",
+    "Autonomous multi-agent workflows for business process automation",
+    "Healthcare domain applications with FHIR/HL7 data formats",
+    "Production-ready AI solutions for regulated industries"
+  ],
+  "tools_mentioned": [
+    "API integrations",
+    "Azure",
+    "FAISS",
+    "Pinecone",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "Autogen",
+    "Claude",
+    "CrewAI",
+    "Fine-tuning",
+    "GPT-4",
+    "LLaMA",
+    "LangChain",
+    "LangGraph",
+    "OpenAI SDK",
+    "Prompt Engineering",
+    "RAG",
+    "Transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building and deploying GenAI systems -\nRAG pipelines, autonomous agent workflows, multi-agent\nsystems, and prompt engineering. The engineer will directly\nimplement LLM-based solutions using frameworks like\nLangGraph, CrewAI, and Autogen, which is core AI/ML work.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LangChain",
+      "CrewAI",
+      "LangGraph",
+      "Autogen",
+      "OpenAI SDK",
+      "Prompt Engineering",
+      "GPT-4",
+      "Claude",
+      "LLaMA"
+    ],
+    "ml": [
+      "Transformers",
+      "Fine-tuning"
+    ],
+    "web": [
+      "API integrations"
+    ],
+    "databases": [
+      "FAISS",
+      "Weaviate",
+      "Pinecone"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "FHIR",
+      "HL7",
+      "Cursor IDE"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

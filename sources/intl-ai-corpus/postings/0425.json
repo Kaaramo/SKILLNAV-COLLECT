@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0425",
+  "source": "intl-ai-corpus",
+  "source_ref": "8006782",
+  "source_url": "https://builtin.com/job/senior-machine-learning-engineer-intellij-ai/8006782",
+  "title": "Senior Machine Learning Engineer (IntelliJ AI)",
+  "title_normalized": "ML_ENGINEER",
+  "company": "JetBrains",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-11",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,209 Employees",
+  "company_stage": "Public",
+  "company_focus": "Developer tools and IDEs with AI features",
+  "industries": [],
+  "description": "At JetBrains, code is our passion. Ever since we started,\nback in 2000, we have strived to make the strongest, most\neffective developer tools on earth. By automating routine\nchecks and corrections, our tools speed up production,\nfreeing developers to grow, discover, and create.\n\nAI features in JetBrains IDEs, developed by the IntelliJ AI\nteam, have quickly become a core part of how developers work\ninside our IDEs. The IntelliJ AI team partners with product\ngroups across JetBrains to embed advanced AI features that\naccelerate developer workflows and deliver real value to\nsoftware engineers.\n\nWe are currently looking to hire a Senior Machine Learning\nEngineer to help us realize our ambitious vision of creating\nAI assistance that supports the entire development lifecycle\nacross JetBrains IDEs. If selected, you will join the ML\nsubteam within IntelliJ AI, driving the development of our\nML system from end to end by defining evaluation and\nmetrics, shaping context orchestration, and helping product\nteams tailor AI capabilities to their needs.\n\nIn this role, you will:\n\n- Design and drive evaluation frameworks for AI features,\n  including metrics, experiments, and agent trace analysis.\n- Diagnose model performance issues (e.g. prompt drift,\n  context mismatches, and latency/quality trade-offs) and\n  translate findings into actionable improvements.\n- Experiment with contexts and lightweight models to\n  continuously develop our ML system.\n- Act as the ML liaison for product teams across JetBrains,\n  adapting and scaling AI capabilities in JetBrains IDEs to\n  their needs.\n- Build and maintain small helper models (e.g. re-rankers,\n  classifiers, embedding models) to support domain-specific\n  tasks.\n- Collaborate with colleagues in ML, product, engineering, and\n  analytic teams to deliver improvements and monitor their\n  impact in production.\n- Stay up to date with research in the fields of LLMs, agents,\n  and evaluation, bringing best practices into our\n  workflows.\n- Mentor junior engineers and help shape team culture,\n  processes, and tooling around experimentation and\n  evaluation.\n\nWe’d be happy to have you on our team if you:\n\n- Have 5+ years of experience as an ML Engineer, with a solid\n  background in production-grade ML systems (especially LLMs\n  and agent architectures).\n- Have experience with LLM evaluation methods and frameworks.\n- Can design and run end-to-end experiments – hypotheses,\n  metrics, data collection (including traces/logs),\n  analysis, and decision-making.\n- Are skilled in context-aware pipelines or\n  conversational/agent systems.\n- Have strong Python programming skills.\n- Bring hands-on experience in fine-tuning or training smaller\n  models (e.g. domain-specific fine-tuning and lightweight\n  customizations).\n- Communicate clearly and effectively across teams,\n  translating ML/AI insights into product features.\n- Have prior mentorship experience with ML/evaluation\n  engineers.\n- Thrive in a cross-functional, fast-moving environment,\n  taking ownership, iterating quickly, and delivering\n  results.\n\nWe’d be especially thrilled if you have:\n\n- Familiarity with agent-based systems and orchestrating\n  multi-step reasoning agents.\n- Experience with the Kotlin programming language.\n\n#LI-MR1\n\nWe process the data provided in your job application in\naccordance with the Recruitment Privacy Policy.\n",
+  "skills_required": [
+    "LLM evaluation",
+    "LLMs",
+    "RAG",
+    "agent architectures",
+    "agents",
+    "classifiers",
+    "context orchestration",
+    "embedding models",
+    "fine-tuning",
+    "model training",
+    "prompt engineering",
+    "re-rankers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and drive evaluation frameworks for AI features, including metrics, experiments, and agent trace analysis",
+    "Diagnose model performance issues such as prompt drift, context mismatches, and latency/quality trade-offs",
+    "Experiment with contexts and lightweight models to continuously develop the ML system",
+    "Act as ML liaison for product teams across JetBrains, adapting and scaling AI capabilities",
+    "Build and maintain small helper models including re-rankers, classifiers, and embedding models",
+    "Collaborate with ML, product, engineering, and analytic teams to deliver improvements and monitor production impact",
+    "Stay current with research in LLMs, agents, and evaluation frameworks",
+    "Mentor junior engineers and shape team culture around experimentation and evaluation"
+  ],
+  "use_cases": [
+    "AI assistance for the entire software development lifecycle within JetBrains IDEs",
+    "Developer workflow acceleration through advanced AI features embedded in IDEs",
+    "Context-aware pipelines for code completion and generation tasks",
+    "Agent-based systems for multi-step reasoning in development environments",
+    "Domain-specific AI capabilities tailored to different JetBrains product teams"
+  ],
+  "tools_mentioned": [
+    "evaluation frameworks",
+    "experimentation"
+  ],
+  "frameworks_mentioned": [
+    "LLM evaluation",
+    "LLMs",
+    "RAG",
+    "agent architectures",
+    "agents",
+    "classifiers",
+    "context orchestration",
+    "embedding models",
+    "fine-tuning",
+    "model training",
+    "prompt engineering",
+    "re-rankers"
+  ],
+  "languages_programming": [
+    "Kotlin",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves direct work on LLMs and agent\narchitectures, including building and maintaining models\n(re-rankers, classifiers, embeddings), fine-tuning\nlightweight models, designing evaluation frameworks for AI\nfeatures, and diagnosing model performance issues. This is\nhands-on work building and optimizing AI systems, not just\nsupporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "agent architectures",
+      "agents",
+      "LLM evaluation",
+      "context orchestration",
+      "RAG",
+      "prompt engineering"
+    ],
+    "ml": [
+      "fine-tuning",
+      "model training",
+      "embedding models",
+      "re-rankers",
+      "classifiers"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "experimentation"
+    ],
+    "cloud": [],
+    "ops": [
+      "evaluation frameworks"
+    ],
+    "languages": [
+      "Python",
+      "Kotlin"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,34 @@
+company:
+  name: CGI
+  stage: null
+  focus: null
+position:
+  title: Consultant Power BI / Qlik sense (F/H)
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - etl
+    - sql
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - DAX
+    - power bi
+    - qlik
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4395708414'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

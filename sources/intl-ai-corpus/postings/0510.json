@@ -1,0 +1,134 @@
+{
+  "job_id": "intl-ai-corpus-0510",
+  "source": "intl-ai-corpus",
+  "source_ref": "8190645",
+  "source_url": "https://builtin.com/job/ai-engineer/8190645",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ohme",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-13",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "218 Employees",
+  "company_stage": "Scale-up",
+  "company_focus": "Integrated hardware/software smart-grid platform for\nresidential EV charging",
+  "industries": [
+    "Energy",
+    "Renewable Energy"
+  ],
+  "description": "Ohme is on a mission to accelerate the global transition to\nclean, affordable energy. We do that by serving as an\nintegrated hardware and software smart-grid platform,\nfocused on the residential EV charging market.\n\nThe worlds of energy, transport and artificial intelligence\nare colliding and Ohme is at the heart of this new era. By\nusing technology and data integrations to connect cars,\nchargers, people, energy providers and more, Ohme has a\npowerful platform that puts the consumer at the core.\n\nOhme has been selling its chargers to consumers since mid\n2019 and has had exponential growth since. We are now\noperating in multiple countries and have partnerships with\nthe likes of VW, Mercedes, Octopus Energy, and other\ninnovative brands.\n\nWe are scaling up the business and are building out the team\nfor rapid growth. If you’re interested joining a fast-\ngrowing cleantech venture on a data and AI-first journey to\nspeed up the global transition to clean, affordable energy,\nread on!\n\nWe are looking for a curious and passionate AI Engineer to\njoin our growing Data team.\n\nAs an AI Engineer at Ohme, you will contribute to the\ndesign, build and operation of our agentic AI framework that\nintegrates deeply with our platform and data ecosystem.\nYou’ll work at the intersection of software engineering,\ncloud infrastructure, and applied AI, helping to\nproductionise intelligent agents that interact with data,\nservices, and users in a reliable and scalable way.\n\nThis role is hands-on and engineering-led, with a strong\nfocus on Python, AWS, Infrastructure as Code, and modern\nagentic AI patterns.\n\nKey Responsibilities\n\n- Design, build and maintain agentic AI framework that\n  interact with Ohme’s data platform, APIs, and internal\n  tools.\n- Implement and operate retrieval-augmented generation (RAG)\n  pipelines using structured and unstructured data sources.\n- Build and integrate agent memory, orchestration, and tool-\n  use patterns for real-world workflows.\n- Develop and deploy AI services using Python or other\n  languages using software engineering best practices.\n- Define and manage cloud infrastructure using AWS CDK\n  (Python) and infrastructure-as-code best practices.\n- Collaborate closely with data scientists, data engineers,\n  applied AI analysts and product teams to deliver end-to-\n  end solutions.\n- Comfortable with components such as MCP servers, vector\n  stores, and model gateway.\n- Ensure AI services are secure, observable, cost-efficient,\n  and scalable.\n- Contribute to engineering standards, patterns, and best\n  practices for AI agents at Ohme.\n- Stay up to date with the fast-moving agentic AI ecosystem\n  and help translate new capabilities into pragmatic\n  solutions.\n\nAbout You\n\n- Proven professional experience as a software engineer, cloud\n  engineer, or AI engineer, with a strong production\n  mindset.\n- Strong Python skills, including building and operating\n  backend services.\n- Hands-on experience with AWS, ideally including services\n  such as Lambda, Bedrock, API Gateway, AgentCore.\n- Experience with Infrastructure as Code, preferably using AWS\n  CDK (Python).\n- Practical experience with agentic AI components, such as:\n- RAG architectures\n- MCP servers\n- Tool-using agents\n- Agent memory and state management\n- Multi-step or orchestrated agent workflows\n- Familiarity with vector databases, embeddings, and semantic\n  search.\n- Experience integrating LLMs into real applications (OpenAI,\n  Anthropic, or similar).\n- Comfortable working across the full lifecycle: design →\n  build → deploy → operate.\n- Strong problem-solving skills and a pragmatic, delivery-\n  focused mindset.\n- Curiosity and enthusiasm for applied AI and emerging\n  industry standards.\n\nNice to have\n\n- Experience working in data-rich or IoT-heavy environments.\n- Knowledge of the EV, energy, or sustainability space.\n\nBenefits\n\nYou’ll get to work in a fast-paced and rapidly growing\nscale-up with global ambitions that is cutting edge,\npassionate about sustainability and seeks to make the world\na better place.\n\n- Competitive salary and bonus\n- Private Health Insurance\n- Aegon Pension Scheme\n- Life Assurance Scheme with death in service benefit of 4x\n  salary\n- Income Protection Scheme for long term illness\n- Ride to Work Scheme\n- Payroll Giving Scheme\n- Season Ticket Loan to spread cost of travel over 12 month\n\nDiversity, Equity and Inclusion are at the heart of what we\ndo and we encourage a culture where everyone can be\nthemselves at work. We actively seek out a diverse range of\ntalent and our policies ensure that every job application\nand employee is treated fairly, with equal opportunity to\nsucceed and to feel included.\n",
+  "skills_required": [
+    "MCP servers",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agent memory and state management",
+    "agents",
+    "embeddings",
+    "semantic search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build and maintain agentic AI framework that interact with Ohme's data platform, APIs, and internal tools",
+    "Implement and operate retrieval-augmented generation (RAG) pipelines using structured and unstructured data sources",
+    "Build and integrate agent memory, orchestration, and tool-use patterns for real-world workflows",
+    "Develop and deploy AI services using Python or other languages using software engineering best practices",
+    "Define and manage cloud infrastructure using AWS CDK (Python) and infrastructure-as-code best practices",
+    "Collaborate closely with data scientists, data engineers, applied AI analysts and product teams to deliver end-to-end solutions"
+  ],
+  "use_cases": [
+    "Agentic AI framework for smart-grid platform integration",
+    "RAG pipelines for structured and unstructured energy/charging data retrieval",
+    "Intelligent agents that interact with APIs, data services, and users",
+    "Tool-using agents for real-world EV charging and energy workflows",
+    "Agent memory and state management for multi-step energy optimization tasks",
+    "AI services for connecting cars, chargers, energy providers, and consumers"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS API Gateway",
+    "AWS Bedrock",
+    "AWS CDK",
+    "AWS Lambda",
+    "CI/CD",
+    "Docker",
+    "Infrastructure as Code",
+    "Kubernetes",
+    "monitoring (observability)",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "MCP servers",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agent memory and state management",
+    "agents",
+    "embeddings",
+    "semantic search"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI Engineer role with hands-on responsibility for\nbuilding, deploying, and operating agentic AI frameworks,\nRAG pipelines, and intelligent agents. The role directly\nworks with LLM integration, agent orchestration, and\nproductionizing AI systems, not just supporting\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "agents",
+      "MCP servers",
+      "OpenAI/Anthropic APIs",
+      "agent memory and state management",
+      "embeddings"
+    ],
+    "ml": [
+      "semantic search"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS Lambda",
+      "AWS Bedrock",
+      "AWS API Gateway"
+    ],
+    "ops": [
+      "AWS CDK",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "monitoring (observability)",
+      "Infrastructure as Code"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

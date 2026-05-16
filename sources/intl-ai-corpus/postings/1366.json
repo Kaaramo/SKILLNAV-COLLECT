@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-1366",
+  "source": "intl-ai-corpus",
+  "source_ref": "8415937",
+  "source_url": "https://builtin.com/job/ai-research-engineer/8415937",
+  "title": "AI Research Engineer",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Normal Computing",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-05",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "51 Employees",
+  "company_stage": null,
+  "company_focus": "Foundational software and hardware for semiconductor\nindustry and AI infrastructure",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Software",
+    "Semiconductor"
+  ],
+  "description": "Normal Computing | Incredible Opportunities\n\nThe Normal Team builds foundational software and hardware\nthat help move technology forward - supporting the\nsemiconductor industry, critical AI infrastructure, and the\nbroader systems that power our world. We work as one team\nacross New York, San Francisco, Copenhagen, Seoul, and\nLondon. Your Role in Our Mission:\n\nWe’re hiring an AI Researcher / AI Research Engineer to push\nthe frontier of agentic LLMs and reinforcement learning for\nour agentic code generation tool, nectar. You’ll design and\nrun experiments, build agents, curate datasets from complex\ntechnical documents (e.g., chip specifications), and create\nrigorous evaluations. You’ll write production‑quality\nresearch code and work closely with engineering to ship\nimprovements to customers. Leadership not required—impact\nthrough research and building is.\n\nResponsibilities:\n\n- Design and implement multi‑agent and RL approaches for\n  agentic code generation and tool‑use.\n- Build research prototypes that integrate with nectar;\n  collaborate to productionize wins.\n- Create evaluation suites: task specs, pass/fail checkers,\n  coverage, cost/latency dashboards.\n- Acquire and curate datasets from PDFs/logs/tables; generate\n  synthetic data where appropriate; maintain data cards and\n  licensing.\n- Analyze experiments with disciplined ablations; document\n  results and decisions.\n- Stay current on LLM agents, RL (offline/online, RLHF/RLAIF),\n  constrained decoding, and program synthesis.\n\nWhat Makes You A Great Fit:\n\n- PhD in CS/AI/ML (or equivalent research experience) with\n  publications ideally in multi‑agent RL, agentic AI, or RL\n  for language/code.\n- Strong Python and ML framework experience (PyTorch\n  preferred; JAX/HF a plus).\n- Demonstrated ability to turn research into working systems;\n  reproducibility mindset (tests, seeds, configs, logging).\n- Experience designing eval harnesses and success metrics for\n  sequential/agentic tasks.\n- Comfortable with data acquisition/curation from\n  documents/logs; good instincts about data quality and\n  licenses.\n\nBonus Points For:\n\n- Research on program synthesis/codegen, constrained decoding,\n  or execution‑based rewards.\n- Experience with offline RL from tool traces or human\n  corrections.\n- Open‑source contributions (e.g., CleanRL, RLlib, AutoGen,\n  LangGraph, CrewAI, Transformers).\n- Familiarity with semiconductor/chip domains or other complex\n  technical specs.\n- Track record of shipping research to production and\n  measuring impact.\n\nEqual Employment Opportunity Statement\n\nNormal Computing is an Equal Opportunity Employer. We\ncelebrate diversity and are committed to creating an\ninclusive environment for all employees. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, sex, sexual orientation,\ngender identity, national origin, disability, veteran\nstatus, or any other legally protected status.\n\nAccessibility Accommodations\n\nNormal Computing is committed to providing reasonable\naccommodations to individuals with disabilities. If you need\nassistance or an accommodation due to a disability, please\nlet us know at accomodations@normalcomputing.ai.\n\nPrivacy Notice\n\nBy submitting your application, you agree that Normal\nComputing may collect, use, and store your personal\ninformation for employment-related purposes in accordance\nwith our Privacy Policy.\n",
+  "skills_required": [
+    "AutoGen",
+    "CleanRL",
+    "Constrained Decoding",
+    "CrewAI",
+    "HuggingFace Transformers",
+    "JAX",
+    "LangGraph",
+    "PyTorch",
+    "RLHF/RLAIF",
+    "RLlib",
+    "Reinforcement Learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement multi-agent and RL approaches for agentic code generation and tool-use",
+    "Build research prototypes that integrate with nectar and collaborate to productionize wins",
+    "Create evaluation suites including task specs, pass/fail checkers, coverage, and cost/latency dashboards",
+    "Acquire and curate datasets from PDFs, logs, and tables; generate synthetic data; maintain data cards and licensing",
+    "Analyze experiments with disciplined ablations; document results and decisions",
+    "Stay current on LLM agents, RL techniques, constrained decoding, and program synthesis"
+  ],
+  "use_cases": [
+    "Agentic code generation tool (nectar) for complex technical documents",
+    "Multi-agent systems for code generation and tool-use",
+    "Processing chip specifications and semiconductor technical documents",
+    "Program synthesis and automated code generation"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CleanRL",
+    "Constrained Decoding",
+    "CrewAI",
+    "HuggingFace Transformers",
+    "JAX",
+    "LangGraph",
+    "PyTorch",
+    "RLHF/RLAIF",
+    "RLlib",
+    "Reinforcement Learning"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves building and implementing\nagentic LLMs, multi-agent systems, and reinforcement\nlearning approaches for code generation. The position\nrequires hands-on work designing agents, running\nexperiments, and creating research prototypes that get\nproductionized.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "AutoGen",
+      "CrewAI",
+      "Constrained Decoding"
+    ],
+    "ml": [
+      "PyTorch",
+      "JAX",
+      "HuggingFace Transformers",
+      "Reinforcement Learning",
+      "RLHF/RLAIF",
+      "CleanRL",
+      "RLlib"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Program Synthesis"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

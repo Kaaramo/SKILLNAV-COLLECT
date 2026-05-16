@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-2740",
+  "source": "intl-ai-corpus",
+  "source_ref": "8990344",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer-spectrum/8990344",
+  "title": "Senior AI/ML Engineer (Spectrum)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "JetBrains",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-08",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,209 Employees",
+  "company_stage": "Startup (JetBrains incubator)",
+  "company_focus": "AI-powered semantic knowledge layer for software\norganizations",
+  "industries": [],
+  "description": "Software engineers and AI agents alike suffer from the same\nproblem: finding that one person or place that will answer\ntheir tough, specific question. Many solutions promise to\nsolve this with similarity search in vector databases.\nUnfortunately, finding the answer is often a puzzle with\npieces to be collected across a myriad of contradictory\nsources and cannot be solved without surgical search and\ncareful reasoning.\n\nSpectrum collects data from an organization's code, docs,\nand issues, and organizes knowledge in a unified ontology\nthat AI agents can efficiently search through and reason\nover. We aim to revolutionize the semantic layer space for\nsoftware-building organizations and move beyond specs that\nfall out of sync with code, introducing a living spec – one\nthat's extracted from the whole system and used to keep it\naligned. Spectrum is meant to be the single source of truth\nfor all product and architectural knowledge.\n\nA resident of JetBrains' startup incubator, Spectrum enjoys\nstartup speed and autonomy, and is backed by 25 years of\ndeveloper tooling expertise. We are looking for a Senior\nAI/ML Engineer to build and evolve the ML-powered systems at\nthe heart of our product.\n\nYour responsibilities will include:\n\n- Designing and building the ML/LLM solution for data\n  ingestion, knowledge extraction and retrieval, and\n  subsequent reasoning.\n- Creating datasets, metrics, and pipelines that drive\n  measurable improvements across the system.\n- Architecting and improving AI agents, which will involve\n  prompt engineering, model selection, and inference\n  optimization.\n- Contributing to our MLOps practices, including\n  orchestration, observability, and experiment tracking.\n\nWe expect you to have:\n\n- At least four years of experience building ML/AI systems in\n  production environments, with hands-on LLM experience.\n- A deep understanding of the LLM ecosystem, including model\n  architectures and fine-tuning approaches.\n- Hands-on experience with:\n- Strong Python skills – Kotlin knowledge would be a plus.\n- Excellent communication skills, with the ability to explain\n  complex technical concepts to diverse audiences.\n- Proficiency in English, both written and verbal.\n\nOur ideal candidate would also have:\n\n- Experience with ontologies, knowledge graphs, or graph-based\n  reasoning.\n- Experience in early-stage startups – you enjoy the zero-to-\n  one phase.\n- A background in code analysis, developer tools, or software\n  engineering research.\n- Experience with multi-agent systems or complex agentic\n  workflows.\n- Actively contributed to relevant open-source projects or\n  publications.\n\nWhat we offer:\n\n- A competitive salary and JetBrains benefits.\n- A generous runway and corporate resources with startup\n  autonomy.\n- A motivated team that moves fast, with short feedback loops,\n  rapid prototyping, and lots of ownership.\n- Opportunities to publish research at top venues in\n  collaboration with JetBrains Research.\n\n#LI-DNI\n\nWe are an equal opportunity employer We know great ideas can\ncome from anyone, anywhere. That’s why we do our best to\ncreate an open and inclusive workplace – one that welcomes\neveryone regardless of their background, identity, religion,\nage, accessibility needs, or orientation.\n\nWe process the data provided in your job application in\naccordance with the Recruitment Privacy Policy.\n",
+  "skills_required": [
+    "AI agents",
+    "Dataset creation and evaluation metrics",
+    "LLM fine-tuning",
+    "Model selection and evaluation",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG (Retrieval-Augmented Generation)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build ML/LLM solutions for data ingestion, knowledge extraction and retrieval, and reasoning",
+    "Create datasets, metrics, and pipelines that drive measurable improvements across the system",
+    "Architect and improve AI agents through prompt engineering, model selection, and inference optimization",
+    "Contribute to MLOps practices including orchestration, observability, and experiment tracking",
+    "Build and evolve the ontology-based knowledge system for unified semantic search"
+  ],
+  "use_cases": [
+    "Semantic knowledge extraction from code, docs, and issues for software organizations",
+    "Unified ontology-based search and reasoning over organizational knowledge",
+    "AI agents that answer complex technical questions across contradictory sources",
+    "Living specification system that stays in sync with code",
+    "Enterprise knowledge graph for product and architectural truth"
+  ],
+  "tools_mentioned": [
+    "Experiment tracking",
+    "Inference optimization",
+    "Knowledge graphs",
+    "MLOps",
+    "Ontologies",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Dataset creation and evaluation metrics",
+    "LLM fine-tuning",
+    "Model selection and evaluation",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG (Retrieval-Augmented Generation)"
+  ],
+  "languages_programming": [
+    "Kotlin",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and evolving ML/LLM-\npowered systems at the core of the product, including\ndesigning data ingestion, knowledge extraction and\nretrieval, reasoning systems, architecting AI agents, prompt\nengineering, model selection, and inference optimization.\nThe engineer works hands-on with models and agents, not just\nsupporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt engineering",
+      "AI agents",
+      "Multi-agent systems",
+      "RAG (Retrieval-Augmented Generation)"
+    ],
+    "ml": [
+      "LLM fine-tuning",
+      "Model selection and evaluation",
+      "Dataset creation and evaluation metrics"
+    ],
+    "web": [],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Knowledge graphs",
+      "Ontologies"
+    ],
+    "cloud": [],
+    "ops": [
+      "Inference optimization",
+      "MLOps",
+      "Experiment tracking"
+    ],
+    "languages": [
+      "Python",
+      "Kotlin"
+    ],
+    "domains": [
+      "Graph-based reasoning"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

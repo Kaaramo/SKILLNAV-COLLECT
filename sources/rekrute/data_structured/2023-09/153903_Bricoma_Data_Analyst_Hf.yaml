@@ -1,0 +1,30 @@
+company:
+  name: Bricoma
+  stage: null
+  focus: null
+position:
+  title: Data Analyst Hf
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - power bi
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '153903'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

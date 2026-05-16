@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0516",
+  "source": "intl-ai-corpus",
+  "source_ref": "8196329",
+  "source_url": "https://www.builtinla.com/job/lead-ai-product-engineer-ai-agents-emerging-products/8196329",
+  "title": "Lead AI Product Engineer - AI Agents & Emerging Products",
+  "title_normalized": "AI_ENGINEER",
+  "company": "System1",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-29",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "AI Agent-powered consumer products",
+  "industries": [
+    "AdTech",
+    "Big Data",
+    "Digital Media",
+    "Marketing Tech"
+  ],
+  "description": "System1 is building the next generation of AI Agent–powered\nconsumer products, and we’re looking for a Lead AI Product\nEngineer to help lead the effort. You’ll design, build, and\noperate our most ambitious AI agent systems from early\nprototypes through production, owning core architecture,\nreliability, and performance as these products scale.\n\nThis is a high-impact, hands-on engineering role for a\nbuilder who can move quickly from concept to working\nsystems, shipping, iterating, and hardening real agent\nworkflows that deliver consumer value at scale.\n\nThis role sits at the intersection of multi-agent\norchestration, agentic coding, and production engineering,\noffering the opportunity to work on cutting-edge AI while\ndirectly influencing real-world product outcomes and\nbusiness performance.\n\nYou do not need prior experience with every protocol or\nframework listed below—we value strong systems thinking,\nproduction experience, and the ability to learn fast in\nemerging domains.\n\nWhat You’ll Do:\n\n- Build and operate multi-agent systems that plan, coordinate,\n  and execute tasks across multiple tools and services, to\n  solve real user problems at scale.\n- Implement agentic coding workflows, where agents generate\n  code, run tests, create diffs or PRs, and iterate\n  autonomously within guardrails.\n- Design agent orchestration layers (planners, supervisors,\n  evaluators) to manage task decomposition, retries, and\n  long-running execution.\n- Instrument and monitor agent behavior across success,\n  failure, latency, cost, and human overrides, with exposure\n  to agent-to-tool payment flows as the ecosystem evolves.\n- Collaborate with Product & Design to translate user problems\n  into shippable agent workflows, iterating quickly based on\n  real-world feedback.\n\nWhat You’ll Bring:\n\n- Strong experience building LLM-powered systems in\n  production, including prompt engineering, structured\n  outputs, tool/function calling, and agentic coding\n  workflows where agents write, modify, and validate code\n  within guardrails.\n- Solid backend engineering skills with Python and/or Node.js,\n  designing APIs, async services, and background workers\n  that support long-running, stateful agent workflows.\n- Experience designing multi-step, agent-driven execution\n  loops (plan → act → evaluate → retry), with explicit state\n  management, idempotency, and failure recovery.\n- Comfort with distributed systems primitives (queues,\n  pub/sub, durable state, rate limiting, concurrency\n  controls) required to coordinate agents at scale.\n- Proven ability to instrument and observe agent behavior,\n  emitting structured events for task success, failures,\n  retries, overrides, and code-generation outcomes.\n- Experience deploying and operating systems on cloud\n  infrastructure (AWS or GCP), using Docker and CI/CD\n  pipelines.\n- Familiarity with inter-agent communication patterns,\n  including message schemas, shared memory, blackboard\n  systems, or event-driven coordination.\n- Experience implementing agent evaluation pipelines (prompt\n  regression tests, simulation-based evals, automated\n  scoring, human-in-the-loop review).\n- Understanding of cost-aware execution for agents (dynamic\n  model routing, caching, batching, budget constraints).\n- Experience with RAG architectures, vector databases, and\n  persistent memory strategies.\n- Exposure to emerging agent protocols (e.g., x402 payment\n  flows, MCP), with the ability to implement evolving specs\n  pragmatically.\n\nWho You Are:\n\n- You operate with high urgency, agency, and a bias for\n  action, translating ideas into working systems quickly,\n  learning from real-world signals, and iterating\n  continuously.\n- You pair speed with rigor, bringing strong engineering\n  fundamentals (systems thinking, evaluation discipline,\n  reliability) so each iteration is meaningfully better, not\n  just different.\n- You embrace a “long is wrong” mindset, simplifying,\n  automating, and removing bottlenecks to consistently\n  reduce cycle time.\n- You think and act like an owner, making sound tradeoffs and\n  taking end-to-end accountability for performance,\n  reliability, cost, and user experience.\n- You optimize for technological leverage, building reusable\n  primitives, tooling, and patterns that compound team\n  output over time.\n- You are growth-minded, working backward from LTV/CAC and\n  prioritizing engineering work that moves activation,\n  retention, conversion, and cost per successful outcome.\n- You excel at constraint removal, unblocking execution and\n  increasing innovation per unit time, including through\n  agentic tool use with clear guardrails and observability.\n\nWhat We Have To Offer:\n\n- Competitive salary + bonus + equity\n- Generous PTO + 11 company holidays\n- Open sick time\n- 100% covered Medical, Dental, Vision for employees\n- 401k with match\n- Health & Dependent Care Flex Spending Account\n- Paid professional development\n- Leadership & growth opportunities\n- Virtual company and team building events\n\nThe U.S. base salary range for this full-time position is\n$161,800 - $242,700 + bonus + equity + benefits. Our salary\nranges are determined by role, level, and location. The\nrange displayed on each job posting reflects the minimum and\nmaximum target for new hire salaries for the position across\nall US locations. Within the range, individual pay is\ndetermined by work location and additional factors,\nincluding job-related skills, experience, and relevant\neducation or training. Your recruiter can share more about\nthe specific salary range for your preferred location during\nthe hiring process. Please note that the compensation\ndetails listed in U.S. role postings reflect the base salary\nonly, and do not include bonus, equity, or benefits.\n\nSystem1’s headquarters is located in Marina del Rey, CA with\nan additional office in Bellevue, WA.\n\nEmployees near office locations are returning to the office.\n\nEqual Employment Opportunity:\n\nSystem1 provides equal employment opportunities to all\nemployees and applicants for employment and prohibits\ndiscrimination and harassment of any type without regard to\nrace, color, religion, age, sex, national origin, disability\nstatus, genetics, protected veteran status, sexual\norientation, gender identity or expression, or any other\ncharacteristic protected by federal, state or local laws.\n\nThis policy applies to all terms and conditions of\nemployment, including recruiting, hiring, placement,\npromotion, termination, layoff, recall, transfer, leaves of\nabsence, compensation and training.\n",
+  "skills_required": [
+    "LangChain",
+    "MCP",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and operate multi-agent systems that plan, coordinate, and execute tasks across multiple tools and services at scale",
+    "Implement agentic coding workflows where agents generate code, run tests, create diffs or PRs, and iterate autonomously within guardrails",
+    "Design agent orchestration layers including planners, supervisors, and evaluators to manage task decomposition, retries, and long-running execution",
+    "Instrument and monitor agent behavior across success, failure, latency, cost, and human overrides",
+    "Collaborate with Product & Design to translate user problems into shippable agent workflows and iterate based on real-world feedback",
+    "Own core architecture, reliability, and performance of AI agent systems from early prototypes through production"
+  ],
+  "use_cases": [
+    "Multi-agent systems that solve real user problems through coordinated task execution across tools and services",
+    "Agentic coding workflows where agents autonomously write, modify, validate, and iterate on code within guardrails",
+    "Consumer products powered by AI agents that deliver value through autonomous task planning and execution",
+    "Long-running, stateful agent workflows that require sophisticated orchestration and failure recovery"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "GCP",
+    "distributed systems",
+    "pub/sub",
+    "queues",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "MCP",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on engineering role focused on building\nmulti-agent systems, agentic coding workflows, and LLM-\npowered applications in production. The engineer will\ndirectly design, implement, and deploy AI agent\narchitectures including orchestration layers, RAG systems,\nand agent evaluation pipelines.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "agents",
+      "RAG",
+      "prompt engineering",
+      "function calling",
+      "MCP"
+    ],
+    "ml": [],
+    "web": [
+      "API design"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "distributed systems",
+      "queues",
+      "pub/sub"
+    ],
+    "languages": [
+      "Python",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

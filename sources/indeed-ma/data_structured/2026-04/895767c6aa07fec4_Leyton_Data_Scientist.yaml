@@ -1,0 +1,32 @@
+company:
+  name: Leyton
+  stage: null
+  focus: null
+position:
+  title: Data Scientist
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Predictive modeling
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - consulting
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 895767c6aa07fec4
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

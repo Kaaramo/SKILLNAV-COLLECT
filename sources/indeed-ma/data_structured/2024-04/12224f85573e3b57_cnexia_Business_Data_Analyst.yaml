@@ -1,0 +1,32 @@
+company:
+  name: cnexia
+  stage: null
+  focus: null
+position:
+  title: Business / Data Analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - oracle
+    data:
+    - sql
+    cloud:
+    - google cloud
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - agile
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 12224f85573e3b57
+  extracted_at: '2026-05-16T01:30:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

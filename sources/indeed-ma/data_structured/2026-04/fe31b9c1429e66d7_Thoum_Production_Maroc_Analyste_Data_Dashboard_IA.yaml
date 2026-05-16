@@ -1,0 +1,33 @@
+company:
+  name: Thoum Production Maroc
+  stage: null
+  focus: null
+position:
+  title: Analyste Data / Dashboard & IA
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - dashboard
+    - looker
+    - power bi
+    - tableau
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: fe31b9c1429e66d7
+  extracted_at: '2026-05-16T01:30:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

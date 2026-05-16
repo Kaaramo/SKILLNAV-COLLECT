@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-2741",
+  "source": "intl-ai-corpus",
+  "source_ref": "8990649",
+  "source_url": "https://builtin.com/job/python-engineer-ai-llms/8990649",
+  "title": "Python Engineer - AI & LLMs",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Modo Energy",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-08",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "40 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Data platform for energy market benchmarking, forecasting,\nand valuation",
+  "industries": [
+    "Fintech",
+    "Information Technology",
+    "Payments",
+    "Consulting",
+    "Energy",
+    "Financial Services"
+  ],
+  "description": "About Modo Energy\n\nThe energy transition is the biggest infrastructure buildout\nin human history. Modo Energy is the data platform at the\ncentre of it.\n\nWe build the benchmarking, forecasting, and valuation tools\nthat the world's most serious energy investors, developers,\nand operators depend on to make decisions. If a battery gets\nfinanced, built, or traded anywhere in the world, there's a\ngood chance Modo data was in the room.\n\nFounded in 2019, we're 75+ people across London, New York,\nSydney, and Madrid; $30M Series B, AI-native, and moving\nfast.\n\nThis is a rare chance to join a category-defining company at\nthe moment it's scaling globally.\n\nPython Engineer\n\nAt Modo Energy we’re building an AI platform for energy\nmarkets — combining LLM agents, retrieval pipelines, and\nreal-time market data to create an AI analyst that can\nreason about complex energy systems.\n\nWe’re an AI-native engineering team — everyone uses AI\ncoding tools and many of the systems we build are designed\nto be consumed by AI agents as much as humans.\n\nThe role\n\nWe are hiring a Python Engineer join our Terminal team\nresponsible for the backend platform & infrastructure. The\nModo Terminal is our core product - a data and research\nplatform that energy market professionals use every day to\nmake better decisions. It serves real-time and historical\ndata, proprietary research, and analytical tools across\nGlobal energy storage markets.\n\nYou'll own the backend systems that make the Terminal\nreliable, fast, and easy to build on: APIs, databases,\ndeployment infrastructure, and developer tooling. As the\nteam grows and the product becomes more ambitious - the\nplatform needs to grow with it.\n\nYou'll work in a small cross-functional team with a lot of\nautonomy. We value engineers who take ownership of problems\nend-to-end, care about the quality of what ships, and aren't\nafraid to challenge how things are done.\n\nResponsibilities\n\n- Build and maintain the backend services and APIs that power\n  the Modo Terminal, running on Django and Python.\n- Design and improve data pipelines that ingest, transform,\n  and serve energy market data - ensuring reliability,\n  correctness, and performance at scale.\n- Own AWS infrastructure and deployment end-to-end. We use\n  Terraform, and you'll be involved in the full lifecycle\n  from local development to production.\n- Build monitoring, observability, and alerting infrastructure\n  - so we catch problems before our customers do.\n- Design internal tools (CLIs, APIs, developer utilities) that\n  make the team faster and reduce friction in day-to-day\n  workflows.\n- Work directly with domain experts (energy analysts, data\n  scientists) to make sure the platform serves data that is\n  accurate, timely, and useful.\n- Contribute to the infrastructure that supports our LLM-\n  powered AI Analyst - retrieval pipelines, tool design, and\n  systems that let models work with energy market data\n  effectively.\n\nAbout you\n\n- 5+ years of Python experience. Strong backend fundamentals -\n  you write clean, well-structured code and you're\n  comfortable owning services end-to-end, from API design\n  through to deployment and monitoring.\n- Real experience with AWS and infrastructure-as-code\n  (Terraform). You've deployed and maintained production\n  services, not just experimented in a sandbox.\n- Proficiency with Django, FastAPI or similar async Python\n  frameworks.\n- Hands-on experience with data pipelines, relational\n  databases (PostgreSQL), and building systems that serve\n  data reliably at scale.\n- Familiarity with LLM-powered applications is a strong plus -\n  whether that's RAG pipelines, tool-calling architectures,\n  or agentic systems. You don't need to be an ML engineer,\n  but you should be curious and ready to build the\n  infrastructure these systems run on.\n- Expert-level use of AI coding tools (Cursor, Claude Code,\n  GitHub Copilot, or similar). We write a lot of code with\n  these tools and expect you to be fluent - knowing when to\n  trust them, when to intervene, and how to get the most out\n  of them.\n- Good taste and judgment. You'll make constant decisions\n  about system design, data modelling, and what's good\n  enough to ship versus what needs more work. We want\n  someone who cares about the end result, not just getting\n  it to compile.\n- Comfort working in a small, fast-moving team where you'll be\n  expected to figure things out, make tradeoffs, and ship.\n- You have full lifecycle experience, owning projects end-to-\n  end from design and development, through testing into\n  deployment in a live production environment.\n\nNice to have\n\n- Experience with energy markets.\n\nThe Company\n\n- At Modo Energy, we're on a mission to build the information\n  architecture for the energy transition - we want to be the\n  only place to come to for information on the global\n  journey to net zero. Take a look at our platform, where we\n  provide open access to an array of content on the energy\n  transition.\n- We're a dedicated and passionate team building a category-\n  defining business, working on one of the world's most\n  important priorities. We are looking for individuals who\n  love product-building, want to work with pace at a\n  mission-oriented startup, and will collaborate with us in\n  shaping the culture of a rapidly growing team.\n- Hybrid Work Environment: This role is hybrid, with time\n  split between working from home and our London office\n  (Euston Square), with in-office days from Tuesday through\n  Thursday.\n\nSalary & Benefits\n\n- Competitive market rate – we want the best engineers!\n- Employee Equity Scheme.\n- Private Top-Tier Healthcare and Dental coverage with Bupa,\n  Salary sacrifice Pension with 3% employer contribution; 25\n  days annual leave (excluding bank holidays), plus 5\n  flexible days to be taken on a Monday or a Friday. And\n  lots of snacks and drinks – obviously!\n\nWhat You Can Expect From Us\n\nAt Modo Energy, we believe that exceptional work deserves\nexceptional reward. We're a high-performance team;\nambitious, collaborative, and genuinely motivated by the\nscale of what we're trying to build.\n\nYou'll have real ownership from day one, work alongside some\nof the brightest people in the industry, and be part of a\ncompany that's defining a new category in the global energy\nmarket. We're hybrid: everyone works Tuesday to Thursday in\noffice, with Monday and Friday flexible. We offer top-of-\nmarket compensation, equity for every employee, and the\nspace to take your career wherever you want it to go.\n\nWe're looking for people who want to do the best work of\ntheir careers. If that's you, we want to talk.\n",
+  "skills_required": [
+    "Agentic systems",
+    "Claude Code",
+    "Cursor",
+    "GitHub Copilot",
+    "LLM applications",
+    "RAG pipelines",
+    "Tool-calling architectures"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain backend services and APIs powering the Modo Terminal using Django and Python",
+    "Design and improve data pipelines that ingest, transform, and serve energy market data at scale",
+    "Own AWS infrastructure and deployment end-to-end using Terraform from local development to production",
+    "Build monitoring, observability, and alerting infrastructure to catch problems proactively",
+    "Design internal tools (CLIs, APIs, developer utilities) to improve team productivity",
+    "Work with domain experts to ensure platform data is accurate, timely, and useful",
+    "Contribute to infrastructure supporting the LLM-powered AI Analyst including retrieval pipelines and tool design"
+  ],
+  "use_cases": [
+    "AI analyst that reasons about complex energy systems using LLM agents and retrieval pipelines",
+    "Energy market data platform serving real-time and historical data to investors, developers, and operators",
+    "Benchmarking, forecasting, and valuation tools for energy storage markets",
+    "Retrieval pipelines and tool-calling architectures that let LLMs work with energy market data"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Data pipelines",
+    "Django",
+    "FastAPI",
+    "Monitoring and observability",
+    "PostgreSQL",
+    "REST APIs",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Agentic systems",
+    "LLM applications",
+    "RAG pipelines",
+    "Tool-calling architectures"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "While the role involves contributing to infrastructure\nsupporting LLM-powered features (retrieval pipelines, tool\ndesign), the primary focus is backend platform engineering —\nbuilding APIs, databases, deployment infrastructure, and\ndata pipelines. The AI/LLM work is a secondary\nresponsibility (\"contribute to\" rather than \"own\"), and the\njob explicitly states \"you don't need to be an ML engineer.\"\nThis is an infrastructure/platform role that enables AI\nsystems rather than directly building them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM applications",
+      "RAG pipelines",
+      "Tool-calling architectures",
+      "Agentic systems"
+    ],
+    "ml": [],
+    "web": [
+      "Django",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [
+      "Data pipelines"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform",
+      "Monitoring and observability",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Cursor",
+      "Claude Code",
+      "GitHub Copilot"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

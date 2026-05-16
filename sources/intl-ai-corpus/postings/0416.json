@@ -1,0 +1,161 @@
+{
+  "job_id": "intl-ai-corpus-0416",
+  "source": "intl-ai-corpus",
+  "source_ref": "7998280",
+  "source_url": "https://builtin.com/job/ai-engineer/7998280",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "CoreStory",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-11",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "45 Employees",
+  "company_stage": "early-stage startup",
+  "company_focus": "AI-powered legacy code intelligence and modernization\nplatform",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Other",
+    "Software",
+    "Generative AI"
+  ],
+  "description": "About CoreStory\n\nCoreStory unlocks the hidden intelligence in your legacy\ncode. By using AI to surface business logic and technical\ninsights, we give enterprises the clarity to modernize\nfaster, maintain apps smarter, and reduce the risk of costly\nfailures.\n\nWe’re looking for an AI Engineer who is passionate about\nbuilding intelligent systems that blend large language\nmodels, retrieval architectures, and conversational agents\ninto cohesive, scalable products. This role is critical to\nthe core AI engine powering the CoreStory Platform.\n\nRole Overview\n\nAs an AI Engineer, you’ll play a central role in developing\nand optimizing the AI components that power CoreStory’s\nnarrative intelligence platform. You’ll work across LLM\nintegration, vector search systems, prompt orchestration,\nagentic systems, and retrieval-augmented generation (RAG)\npipelines.\n\nYou’ll collaborate closely with the product, data, and\ninfrastructure teams to prototype, productionize, and\ncontinuously evolve our AI stack — ensuring that our systems\nare accurate, explainable, efficient, and on the cutting\nedge of modern AI capabilities.\n\nKey Responsibilities\n\n- Design, implement, and optimize LLM-powered systems (e.g.,\n  RAG, chat agents, summarizers, knowledge graph\n  integration).\n- Build and manage data indexing and retrieval pipelines using\n  LlamaIndex, LangChain, or similar frameworks.\n- Implement and maintain vector databases (e.g., Pinecone,\n  Neo4j, Weaviate, Chroma, or Azure Cognitive Search).\n- Integrate open-source and proprietary LLMs (e.g., GPT,\n  Claude, Llama) into the CoreStory Platform.\n- Develop and refine AI-driven features — including generative\n  insights, automated summarization, and narrative\n  analytics.\n- Collaborate with DevOps and backend teams to deploy scalable\n  AI services within CoreStory’s cloud infrastructure.\n- Continuously benchmark model performance, latency, and cost,\n  identifying opportunities for optimization.\n- Stay current with advancements in AI — from model\n  architectures to emerging frameworks — and propose\n  innovative applications aligned with CoreStory’s mission.\n- Contribute to internal documentation, experimentation\n  frameworks, and evaluation methodologies.\n\nQualifications\n\nRequired Skills:\n\n- 7+ years of overall engineering experience with at least 3+\n  years of experience in AI engineering, machine learning,\n  or applied NLP.\n- Strong hands-on experience with LlamaIndex, LangChain, or\n  similar orchestration frameworks.\n- Experience designing and implementing vector database\n  solutions (e.g., Pinecone, Neo4j, FAISS, Milvus,\n  Weaviate).\n- Solid understanding of LLM APIs (OpenAI, Anthropic, Mistral,\n  Hugging Face, etc.).\n- Proficiency in Python, with experience in libraries such as\n  FastAPI, Pandas, or NumPy.\n- Understanding of retrieval-augmented generation (RAG)\n  patterns, embeddings, and tokenization.\n- Familiarity with prompt engineering, tool calling, and chat\n  agent architectures.\n- Strong problem-solving and analytical mindset, with\n  attention to performance and scalability.\n- Demonstrated interest in staying up-to-date with the fast-\n  evolving AI landscape.\n\nPreferred:\n\n- Experience deploying AI services in production (e.g., using\n  Docker, Azure, or AWS).\n- Exposure to LangGraph, semantic search, or hybrid RAG\n  systems.\n- Familiarity with knowledge graphs, document intelligence, or\n  multimodal AI.\n- Previous experience in SaaS or early-stage startup\n  environments.\n\nWhat We Offer\n\n- Competitive compensation and equity.\n- Flexible, remote-first work environment.\n- Opportunities to define and build the AI roadmap of a fast-\n  growing technology company.\n- Collaborative, learning-oriented culture.\n- Access to cutting-edge AI models, research, and\n  infrastructure.\n",
+  "skills_required": [
+    "Anthropic API",
+    "Hugging Face",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "RAG",
+    "agentic systems",
+    "chat agent architectures",
+    "prompt engineering",
+    "tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and optimize LLM-powered systems including RAG, chat agents, summarizers, and knowledge graph integration",
+    "Build and manage data indexing and retrieval pipelines using LlamaIndex, LangChain, or similar frameworks",
+    "Implement and maintain vector databases such as Pinecone, Neo4j, Weaviate, Chroma, or Azure Cognitive Search",
+    "Integrate open-source and proprietary LLMs including GPT, Claude, and Llama into the CoreStory Platform",
+    "Develop and refine AI-driven features including generative insights, automated summarization, and narrative analytics",
+    "Collaborate with DevOps and backend teams to deploy scalable AI services within cloud infrastructure",
+    "Continuously benchmark model performance, latency, and cost while identifying optimization opportunities",
+    "Contribute to internal documentation, experimentation frameworks, and evaluation methodologies"
+  ],
+  "use_cases": [
+    "Surfacing business logic and technical insights from legacy code using AI",
+    "Generating automated summaries and narrative analytics for enterprise applications",
+    "Enabling enterprises to modernize applications faster by understanding code structure and dependencies",
+    "Providing conversational agents to query and analyze codebases and documentation",
+    "Extracting and indexing knowledge from legacy systems for intelligent search and retrieval",
+    "Reducing risk of costly failures by identifying potential issues in legacy code"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Azure Cognitive Search",
+    "Chroma",
+    "Docker",
+    "FAISS",
+    "FastAPI",
+    "Milvus",
+    "Neo4j",
+    "NumPy",
+    "Pandas",
+    "Pinecone",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "Hugging Face",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "RAG",
+    "agentic systems",
+    "chat agent architectures",
+    "prompt engineering",
+    "tool calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on AI engineering role focused on building\nLLM-powered systems including RAG pipelines, chat agents,\nand vector search architectures. The role requires direct\nimplementation of LLM integration, prompt orchestration, and\nagentic systems using frameworks like LangChain and\nLlamaIndex, which qualifies as working directly ON AI\nsystems rather than supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "RAG",
+      "OpenAI API",
+      "Anthropic API",
+      "Hugging Face",
+      "LangGraph",
+      "prompt engineering",
+      "agentic systems",
+      "tool calling",
+      "chat agent architectures"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "Pinecone",
+      "Neo4j",
+      "Weaviate",
+      "Chroma",
+      "FAISS",
+      "Milvus",
+      "Azure Cognitive Search"
+    ],
+    "data": [
+      "Pandas",
+      "NumPy"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Docker"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-2880",
+  "source": "intl-ai-corpus",
+  "source_ref": "9052682",
+  "source_url": "https://builtin.com/job/senior-ai-inference-engineer-100-remote/9052682",
+  "title": "Senior AI Inference Engineer (100% Remote)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Tether.io",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "292 Employees",
+  "company_stage": "Late-stage (established, market leader in stablecoins)",
+  "company_focus": "Digital finance, stablecoins, blockchain, and AI\ninfrastructure",
+  "industries": [
+    "Blockchain",
+    "Software",
+    "Analytics",
+    "Financial Services",
+    "Cryptocurrency"
+  ],
+  "description": "Join Tether and Shape the Future of Digital Finance\n\nAt Tether, we’re not just building products, we’re\npioneering a global financial revolution. Our cutting-edge\nsolutions empower businesses—from exchanges and wallets to\npayment processors and ATMs—to seamlessly integrate reserve-\nbacked tokens across blockchains. By harnessing the power of\nblockchain technology, Tether enables you to store, send,\nand receive digital tokens instantly, securely, and\nglobally, all at a fraction of the cost. Transparency is the\nbedrock of everything we do, ensuring trust in every\ntransaction.\n\nInnovate with Tether\n\nTether Finance: Our innovative product suite features the\nworld’s most trusted stablecoin, USDT, relied upon by\nhundreds of millions worldwide, alongside pioneering digital\nasset tokenization services.\n\nBut that’s just the beginning:\n\nTether Power: Driving sustainable growth, our energy\nsolutions optimize excess power for Bitcoin mining using\neco-friendly practices in state-of-the-art, geo-diverse\nfacilities.\n\nTether Data: Fueling breakthroughs in AI and peer-to-peer\ntechnology, we reduce infrastructure costs and enhance\nglobal communications with cutting-edge solutions like KEET,\nour flagship app that redefines secure and private data\nsharing.\n\nTether Education: Democratizing access to top-tier digital\nlearning, we empower individuals to thrive in the digital\nand gig economies, driving global growth and opportunity.\n\nTether Evolution: At the intersection of technology and\nhuman potential, we are pushing the boundaries of what is\npossible, crafting a future where innovation and human\ncapabilities merge in powerful, unprecedented ways.\n\nWhy Join Us?\n\nOur team is a global talent powerhouse, working remotely\nfrom every corner of the world. If you’re passionate about\nmaking a mark in the fintech space, this is your opportunity\nto collaborate with some of the brightest minds, pushing\nboundaries and setting new standards. We’ve grown fast,\nstayed lean, and secured our place as a leader in the\nindustry.\n\nIf you have excellent English communication skills and are\nready to contribute to the most innovative platform on the\nplanet, Tether is the place for you.\n\nAre you ready to be part of the future?\n\nAbout the role:\n\nYou will own the inference backbone behind QVAC's local AI\nstack: the C++ systems layer that makes models run fast,\nreliably, and predictably on real user hardware. The role is\ncentered on engineering quality at runtime level, including\nstartup behavior, memory pressure, throughput/latency\nbalance, and long-session stability. You will define and\nevolve the core abstractions that inference features depend\non, so new capabilities can be added without sacrificing\nperformance or maintainability. This is a role for someone\nwho enjoys low-level problem solving, clear technical\nownership, and building infrastructure that other teams\ntrust in production. Your work directly enables private, on-\ndevice AI experiences and helps set the technical foundation\nfor QVAC's next generation of peer-to-peer AI products.\n\nResponsibilities\n\n- Work on deploying machine learning models to edge devices\n  using the frameworks: llama.cpp, ggml, onnx\n- Collaborate closely with researchers to assist in coding,\n  training and transitioning models from research to\n  production environments\n- Integrate AI features into existing products, enriching them\n  with the latest advancements in machine learning\n\n- Excellent programming skills in C++, experience in\n  Javascript is a bonus\n- Strong experience with Llama.cpp and ggml inference engines,\n  which facilitates the deployment of models to specific GPU\n  architectures\n- Good understanding of deep learning concepts and model\n  architectures\n- Experience with transformers, LLMs, Diffusion models\n- Demonstrated ability to rapidly assimilate new technologies\n  and techniques\n- A degree in Computer Science, AI, Machine Learning, or a\n  related field, complemented by a solid track record in AI\n  R&D\n\nBonus points if:\n\n- You have experience with Javascript/Typescript\n- You understand the difficulties, nuances and importance of\n  p2p technology\n- You have experience with any of Vulkan, Metal and OpenCL\n- You have productionized models\n\nImportant information for candidates Recruitment scams have\nbecome increasingly common. To protect yourself, please keep\nthe following in mind when applying for roles:\n\n- Apply only through our official channels. We do not use\n  third-party platforms or agencies for recruitment unless\n  clearly stated. All open roles are listed on our official\n  careers page: https://tether.recruitee.com/\n- Verify the recruiter’s identity. All our recruiters have\n  verified LinkedIn profiles. If you’re unsure, you can\n  confirm their identity by checking their profile or\n  contacting us through our website.\n- Be cautious of unusual communication methods. We do not\n  conduct interviews over WhatsApp, Telegram, or SMS. All\n  communication is done through official company emails and\n  platforms.\n- Double-check email addresses. All communication from us will\n  come from emails ending in @tether.to or @tether.io\n- We will never request payment or financial details. If\n  someone asks for personal financial information or payment\n  at any point during the hiring process, it is a scam.\n  Please report it immediately.\n\nWhen in doubt, feel free to reach out through our official\nwebsite.\n",
+  "skills_required": [
+    "Diffusion models",
+    "GPU architectures",
+    "LLMs",
+    "ONNX",
+    "ggml",
+    "peer-to-peer technology",
+    "transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and evolve the C++ inference backbone for QVAC's local AI stack, ensuring fast and reliable model execution on user hardware",
+    "Deploy machine learning models to edge devices using llama.cpp, ggml, and ONNX frameworks",
+    "Optimize runtime performance including startup behavior, memory pressure, throughput/latency balance, and long-session stability",
+    "Collaborate with researchers to transition models from research to production environments",
+    "Define and evolve core abstractions that inference features depend on, enabling new capabilities without sacrificing performance",
+    "Integrate AI features into existing products, enriching them with the latest ML advancements",
+    "Build infrastructure that enables private, on-device AI experiences for peer-to-peer AI products"
+  ],
+  "use_cases": [
+    "On-device private AI inference for peer-to-peer products",
+    "Edge deployment of LLMs and diffusion models on consumer hardware",
+    "Local AI stack for QVAC platform enabling real-time model inference",
+    "Peer-to-peer AI product experiences with local model execution"
+  ],
+  "tools_mentioned": [
+    "Metal",
+    "OpenCL",
+    "Vulkan",
+    "llama.cpp",
+    "model deployment"
+  ],
+  "frameworks_mentioned": [
+    "Diffusion models",
+    "GPU architectures",
+    "LLMs",
+    "ONNX",
+    "ggml",
+    "transformers"
+  ],
+  "languages_programming": [
+    "C++",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building and optimizing AI\ninference systems—specifically the C++ runtime layer for\ndeploying LLMs and other models to edge devices using\nllama.cpp and ggml. The engineer owns the inference\nbackbone, working hands-on with model deployment,\noptimization, and runtime performance, making this squarely\nan ai-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "ggml",
+      "ONNX",
+      "transformers",
+      "LLMs",
+      "Diffusion models",
+      "GPU architectures"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "llama.cpp",
+      "Vulkan",
+      "Metal",
+      "OpenCL",
+      "model deployment"
+    ],
+    "languages": [
+      "C++",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "peer-to-peer technology"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

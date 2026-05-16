@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-1214",
+  "source": "intl-ai-corpus",
+  "source_ref": "8296470",
+  "source_url": "https://builtin.com/job/principal-software-lead-machine-learning/8296470",
+  "title": "AI Research Engineer",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Standard Bots",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-19",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "55 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI-powered robotic automation platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Productivity",
+    "Robotics",
+    "Industrial",
+    "Generative AI",
+    "Automation",
+    "Manufacturing"
+  ],
+  "description": "About Standard Bots\n\nAt Standard Bots, we're revolutionizing real-world\nautomation by making robotic systems accessible to everyone.\nOur AI-powered platform enables robots to tackle\nunprecedented challenges through an intuitive instruction\ninterface, bringing the power of software automation to\nphysical spaces.\n\nAbout the Role\n\nWe're seeking an AI Research Engineer to develop and\noptimize our AI models and training systems. This is an\nexciting opportunity to apply your deep ML expertise to\ncutting-edge AI/robotics applications. You'll work closely\nwith our engineering team to design, implement, and iterate\non large-scale AI models while building efficient systems\nfor rapid experimentation and deployment. We have a small\nteam of AI engineers, so we’re looking for someone who is\nexcited to work at a startup, and work across the stack to\ndo what is needed to get a model that achieves a customer\nproblem.\n\nWe're looking for an experienced engineer ready to make a\ntangible impact in the AI robotics revolution. This role\nrequires a proven background working on ML planning within\nthe autonomous vehicle space with experience using the\nlatest techniques in diffusion and autoregressive models in\na professional setting. If you're excited about building the\nlatest advancements in AI and working in the robotics space,\nwe’d love to hear from you.\n\nIn this role, you will:\n\n- Design and implement state of the art ML models and training\n  pipelines:\n  - Apply novel machine learning techniques to wide range of\n    robotics applications\n  - Develop efficient data and training strategies\n  - Implement model evaluation frameworks and metrics tracking\n- Lead model development and iteration with focus on:\n  - Rapid experimentation and prototyping of new model\n    architectures\n  - Performance optimization and model debugging\n  - Transfer learning and fine-tuning strategies\n- Build robust evaluation and debugging systems to:\n  - Analyze model behavior and failure modes\n  - Implement interpretability tools and visualization\n    frameworks\n  - Track and improve model metrics\n- Collaborate with engineering team to optimize training\n  infrastructure and deployment\n\nYou might thrive in this role if you:\n\n- Have 5+ years of AI modeling experience, specifically within\n  the self-driving car industry (or PhD with 3+ years of AI\n  modeling experience in the self-driving car industry)\n- Proven track record developing and deploying large-scale ML\n  models\n- Have experience using the latest techniques in diffusion and\n  autoregressive models in a professional setting\n- Are familiar with training inference and infra pipelines\n  that go from camera input to trajectory output for self\n  driving or robotics\n- Have experience with RL (reinforcement learning)\n- Have a strong understanding of modern ML architectures and\n  training techniques\n- Have experience with model debugging, optimization, and\n  performance tuning\n- Have a background in implementing ML research papers and\n  adapting academic work\n\nTech Stack\n\n- PyTorch (experience with PyTorch required)\n- Python\n- NodeJS/Typescript\n- Docker\n\nCompensation and Benefits:\n\nThe salary range for this role is $225,000 to $300,000,\ndepending on experience. We are open to a variety of\nseniority levels for this role and will build compensation\npackages that are commensurate with seniority and skill\nlevel. Base salary is just one part of the overall\ncompensation at Standard Bots. All Full-Time Employees are\neligible for Employee Stock Options. We also offer a package\nof benefits including paid time off, medical/dental/vision\ninsurance, life insurance, disability insurance, and 401(k)\nto regular full-time employees.\n",
+  "skills_required": [
+    "Autoregressive models",
+    "Diffusion models",
+    "Model fine-tuning",
+    "PyTorch",
+    "Reinforcement learning",
+    "Transfer learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement state-of-the-art ML models and training pipelines for robotics applications",
+    "Develop efficient data and training strategies for large-scale ML models",
+    "Lead rapid experimentation and prototyping of new model architectures",
+    "Implement transfer learning and fine-tuning strategies",
+    "Build robust evaluation and debugging systems to analyze model behavior and failure modes",
+    "Implement interpretability tools and visualization frameworks",
+    "Track and improve model metrics through evaluation frameworks",
+    "Collaborate with engineering team to optimize training infrastructure and deployment"
+  ],
+  "use_cases": [
+    "Robotic systems automation",
+    "ML planning for autonomous systems",
+    "Camera input to trajectory output for self-driving or robotics",
+    "Real-world physical automation through AI",
+    "Robot behavior optimization and control"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Node.js"
+  ],
+  "frameworks_mentioned": [
+    "Autoregressive models",
+    "Diffusion models",
+    "Model fine-tuning",
+    "PyTorch",
+    "Reinforcement learning",
+    "Transfer learning"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on developing and optimizing ML models for\nrobotics applications, with explicit requirements for\ndiffusion models, autoregressive models, and ML planning\ntechniques from autonomous vehicles. While it involves\ncutting-edge AI, it centers on traditional deep learning and\nRL approaches rather than LLMs, agents, or GenAI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "Diffusion models",
+      "Autoregressive models",
+      "Reinforcement learning",
+      "Transfer learning",
+      "Model fine-tuning"
+    ],
+    "web": [
+      "Node.js"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [
+      "Robotics"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

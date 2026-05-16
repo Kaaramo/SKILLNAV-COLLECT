@@ -1,0 +1,137 @@
+{
+  "job_id": "intl-ai-corpus-1099",
+  "source": "intl-ai-corpus",
+  "source_ref": "8133057",
+  "source_url": "https://builtin.com/job/remote-india-ai-engineer-saas-platform/8133057",
+  "title": "REMOTE (INDIA):   AI Engineer- SaaS Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Marrina Decisions",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "79 Employees",
+  "company_stage": "Series B",
+  "company_focus": "SaaS platform for AI-driven content and compliance solutions",
+  "industries": [
+    "AdTech",
+    "Marketing Tech"
+  ],
+  "description": "Role Overview\n\nWe are looking for an AI Engineer to maintain and enhance\nthe AI-driven backbone of the Sootra platform. This role\ninvolves ensuring production stability of LLM/VLM pipelines,\noptimizing model interactions, maintaining APIs and queues,\nand building feedback loops that continuously improve AI\noutputs.\n\nResponsibilities\n\n- Maintain and optimize LLM- and VLM-powered services for\n  content generation, compliance scoring, and campaign\n  testing.\n- Manage and scale Flask/FastAPI microservices, ensuring high\n  uptime and low latency.\n- Maintain Dramatiq queues for async AI workflows, campaign\n  generation, and pipeline orchestration.\n- Deploy, monitor, and debug Uvicorn/Gunicorn-based hosting in\n  production environments.\n- Integrate with OpenRouter and equivalent LLM routing tools\n  to balance cost, latency, and quality.\n- Design and refine prompt engineering strategies for\n  reliability, context-awareness, and compliance.\n- Build and maintain feedback pipelines for AI model\n  evaluation (human-in-the-loop scoring, automated quality\n  checks, reinforcement).\n- Expose and maintain REST APIs for AI services, ensuring\n  secure, versioned endpoints.\n- Collaborate with backend/frontend teams to keep microservice\n  architecture aligned and maintainable.\n- Track token consumption, latency, and error rates to ensure\n  production-grade performance.\n\nRequired Skills\n\n- Programming: Strong in Python, with experience in\n  production-grade codebases.\n- Frameworks: Flask (for APIs), FastAPI (optional),\n  Uvicorn/Gunicorn for async hosting.\n- Queues/Workers: Dramatiq (or Celery/RQ equivalent) for\n  background jobs.\n- AI/ML: Hands-on with LLMs and VLMs, including prompt\n  engineering, fine-tuning, and evaluation.\n- AI Infrastructure: Familiar with OpenRouter or equivalent\n  LLM/VLM routing & fallback tools.\n- Architecture: Experience designing and maintaining\n  microservice architectures.\n- APIs: Strong experience with REST API design (auth, rate\n  limiting, documentation).\n- Production: Dockerized deployments, CI/CD pipelines,\n  logging/monitoring, error handling.\n- Feedback Loops: Building structured evaluation/feedback\n  systems for AI model performance.\n- Cloud: AWS/GCP experience preferred (deployment, monitoring,\n  scaling).\n\nExperience\n\n- 3–5 years as an AI Engineer or Python Backend Engineer\n  working with production systems.\n- Prior work with SaaS platforms, LLM/VLM integrations, or AI-\n  first products is highly valued.\n\nDemonstrated ability to maintain AI pipelines in production,\nnot just prototypes.\n",
+  "skills_required": [
+    "Fine-tuning",
+    "LLMs",
+    "Microservices architecture",
+    "OpenRouter",
+    "Prompt engineering",
+    "RAG",
+    "VLMs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Maintain and optimize LLM- and VLM-powered services for content generation, compliance scoring, and campaign testing",
+    "Manage and scale Flask/FastAPI microservices, ensuring high uptime and low latency",
+    "Maintain Dramatiq queues for async AI workflows, campaign generation, and pipeline orchestration",
+    "Deploy, monitor, and debug Uvicorn/Gunicorn-based hosting in production environments",
+    "Integrate with OpenRouter and equivalent LLM routing tools to balance cost, latency, and quality",
+    "Design and refine prompt engineering strategies for reliability, context-awareness, and compliance",
+    "Build and maintain feedback pipelines for AI model evaluation (human-in-the-loop scoring, automated quality checks)",
+    "Expose and maintain REST APIs for AI services, ensuring secure, versioned endpoints"
+  ],
+  "use_cases": [
+    "Content generation for marketing campaigns",
+    "Compliance scoring and evaluation",
+    "Campaign testing and optimization",
+    "Context-aware AI-powered recommendations",
+    "Automated quality checks for AI outputs",
+    "Human-in-the-loop AI evaluation systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Celery",
+    "Docker",
+    "Dramatiq",
+    "FastAPI",
+    "Flask",
+    "GCP",
+    "Gunicorn",
+    "REST APIs",
+    "Uvicorn"
+  ],
+  "frameworks_mentioned": [
+    "Fine-tuning",
+    "LLMs",
+    "OpenRouter",
+    "Prompt engineering",
+    "RAG",
+    "VLMs"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work maintaining and optimizing\nLLM/VLM-powered services, fine-tuning models, designing\nprompt engineering strategies, and building AI evaluation\npipelines. The engineer works directly on AI systems\nincluding content generation, compliance scoring, and\ncampaign testing - core AI-first work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "VLMs",
+      "Prompt engineering",
+      "OpenRouter",
+      "RAG"
+    ],
+    "ml": [
+      "Fine-tuning"
+    ],
+    "web": [
+      "Flask",
+      "FastAPI",
+      "Uvicorn",
+      "Gunicorn",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Dramatiq",
+      "Celery"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Microservices architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

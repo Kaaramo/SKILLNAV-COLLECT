@@ -1,0 +1,36 @@
+company:
+  name: Smile
+  stage: null
+  focus: null
+position:
+  title: '[MAROC][CASABLANCA] DATA Analyst H/F'
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - etl
+    - sql
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - NoSQL
+    - power bi
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4402282147'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

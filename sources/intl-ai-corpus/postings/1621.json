@@ -1,0 +1,130 @@
+{
+  "job_id": "intl-ai-corpus-1621",
+  "source": "intl-ai-corpus",
+  "source_ref": "8548116",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/8548116",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Blend360",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "390 Employees",
+  "company_stage": "Established",
+  "company_focus": "AI services provider offering data science, AI, and\ntechnology consulting solutions",
+  "industries": [
+    "Database",
+    "Analytics"
+  ],
+  "description": "Company Description\n\nBlend is a premier AI services provider, committed to co-\ncreating meaningful impact for its clients through the power\nof data science, AI, technology, and people. With a mission\nto fuel bold visions, Blend tackles significant challenges\nby seamlessly aligning human expertise with artificial\nintelligence. The company is dedicated to unlocking value\nand fostering innovation for its clients by harnessing\nworld-class people and data-driven strategy. We believe that\nthe power of people and AI can have a meaningful impact on\nyour world, creating more fulfilling work and projects for\nour people and clients. For more information, visit\nwww.blend360.com \n\nWe are seeking a AI Engineer to contribute to our next level\nof growth and expansion. \n\nJob Description\n\nWe are looking for an AI Engineer with hands-on experience\ndesigning and deploying scalable AI solutions. In this role,\nyou will be part of a cross-functional team working on\ncutting-edge projects involving Retrieval-Augmented\nGeneration (RAG), agentic frameworks, and end-to-end MLOps\nworkflows.\n\nYou’ll play a key role in developing AI applications using\ntools like LangChain, CrewAI, and Google ADK, while applying\nadvanced prompt engineering techniques and ensuring robust\nmonitoring and performance tracing. Your collaboration with\nother engineering will help align innovative AI systems with\nbroader development goals.\n\nWhat is this position about?\n\n- Design, develop, and deploy AI solutions.\n- Implement Retrieval-Augmented Generation (RAG) and fine-\n  tuning techniques.\n- Utilize and integrate AI frameworks like LangChain.\n- Use advanced prompt engineering techniques to solve complex\n  problems with LLMs.\n- Build and manage agentic frameworks such as CrewAI and\n  Google ADK.\n- Apply MLOps best practices to streamline AI development\n  workflows.\n- Monitor and trace AI applications performance.\n- Collaborate across teams to ensure alignment with\n  traditional ML and AI methodologies.\n- Work on end-to-end software engineering for scalable\n  solutions.\n\nQualifications\n\n- 4+ years of experience in designing, developing, and\n  deploying AI/ML solutions\n- Strong hands-on experience with Azure AI & ML services,\n  including:\n  - Azure Machine Learning\n  - Azure OpenAI Service\n  - Azure AI Search / Cognitive Search\n  - Azure Data & Compute services\n- Strong understanding of machine learning fundamentals and\n  traditional AI concepts\n- Experience with MLOps tools and practices (model training,\n  deployment, monitoring, CI/CD on Azure)\n- Solid programming skills in Python (or other relevant\n  languages)\n- Excellent problem-solving skills and ability to work in a\n  collaborative, cross-functional environment\n",
+  "skills_required": [
+    "CrewAI",
+    "Fine-tuning",
+    "Google ADK",
+    "LangChain",
+    "Model training",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and deploy AI solutions",
+    "Implement Retrieval-Augmented Generation (RAG) and fine-tuning techniques",
+    "Build and manage agentic frameworks using CrewAI and Google ADK",
+    "Use advanced prompt engineering techniques to solve complex problems with LLMs",
+    "Apply MLOps best practices to streamline AI development workflows",
+    "Monitor and trace AI application performance",
+    "Collaborate across teams to ensure alignment with traditional ML and AI methodologies",
+    "Work on end-to-end software engineering for scalable solutions"
+  ],
+  "use_cases": [
+    "Enterprise AI application development",
+    "Retrieval-Augmented Generation systems",
+    "AI agent orchestration and automation",
+    "Scalable AI solution deployment",
+    "LLM-powered problem solving"
+  ],
+  "tools_mentioned": [
+    "Azure AI Search",
+    "Azure Cognitive Search",
+    "Azure Data & Compute services",
+    "Azure Machine Learning",
+    "Azure OpenAI Service",
+    "CI/CD",
+    "MLOps",
+    "Model deployment",
+    "Model monitoring"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "Fine-tuning",
+    "Google ADK",
+    "LangChain",
+    "Model training",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building and deploying AI\nsystems including RAG implementations, agentic frameworks\n(CrewAI, Google ADK), fine-tuning techniques, and prompt\nengineering. The position requires direct work on AI/ML\nmodels and applications, not just supporting infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "CrewAI",
+      "Google ADK",
+      "RAG",
+      "Prompt Engineering"
+    ],
+    "ml": [
+      "Fine-tuning",
+      "Model training"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Azure Machine Learning",
+      "Azure OpenAI Service",
+      "Azure AI Search",
+      "Azure Cognitive Search",
+      "Azure Data & Compute services"
+    ],
+    "ops": [
+      "MLOps",
+      "CI/CD",
+      "Model deployment",
+      "Model monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

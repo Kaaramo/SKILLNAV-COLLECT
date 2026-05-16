@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-0409",
+  "source": "intl-ai-corpus",
+  "source_ref": "7983915",
+  "source_url": "https://builtin.com/job/applied-ai-machine-learning-engineer/7983915",
+  "title": "Applied AI / Machine Learning Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Applico Capital",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-10",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "50 Employees",
+  "company_stage": "Stealth (venture-backed startup)",
+  "company_focus": "AI-enabled B2B distribution solutions",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About Applico Capital\n\nApplico Capital is the leading venture capital firm focused\non the $8 trillion B2B distribution industry. Through our\nlearnings and understanding of the industry, we are building\na tech startup, currently in stealth, to solve the\nindustry's biggest problems as it comes to unlocking AI-\nenabled synergies.\n\nOur mandate is to leverage AI and modern technologies to\nreimagine the role of the traditional distributor and\ntransform how the entire industry operates.\n\nWe are looking for highly technical builders who thrive in\nentrepreneurial, scrappy, and collaborative environments.\n\nAbout the Role\n\nWe’re seeking an AI Engineer to design, build, and deploy\nmachine learning and generative AI systems that drive\ntangible impact across core business operations.\n\nYou’ll work hands-on to turn prototypes into production\nsystems, embedding AI into products and workflows to improve\neverything from search and merchandising to pricing,\nforecasting, and customer support.\n\nThis is a deeply technical, highly autonomous role in a\nstartup-style team working directly with stable enterprises\nas design partners. You’ll move fast, automate aggressively,\nand deliver measurable value — while partnering closely with\ndata engineers, scientists, and product teams to ensure\nsystems are reliable, safe, and trusted.\n\nYou’ll also be expected to leverage AI-augmented engineering\npractices (LLM copilots, code generation, automated testing)\nand explore agentic architectures that enable autonomous and\nsemi-autonomous business workflows.\n\nKey Responsibilities\n\n- Build and maintain end-to-end ML and AI pipelines, including\n  training, testing, deployment, and monitoring\n- Partner with AI Scientists to translate prototypes and\n  research models into scalable, production-ready systems\n- Develop APIs and microservices to integrate AI capabilities\n  directly into business applications and workflows\n- Implement automation, testing, and monitoring for\n  reliability, performance, and reproducibility\n- Collaborate with Data and MLOps teams to ensure scalability,\n  observability, and cost optimization\n- Apply AI-augmented development tools (e.g., GitHub Copilot,\n  GPTs, automated testing agents) to accelerate engineering\n  velocity\n- Experiment with and operationalize agentic frameworks\n  (LangChain, AutoGen, CrewAI, N8N, etc.) to orchestrate\n  intelligent, tool-using systems\n- Ensure AI systems are governed, observable, and aligned with\n  responsible AI principles\n\nWhy Join Us\n\n- Build real, production-grade AI systems — not demos —\n  embedded in major operating businesses\n- Work alongside leaders in data architecture, automation, and\n  applied AI\n- Operate with the autonomy and speed of a startup, backed by\n  the resources of a large, stable enterprise\n- Help define how responsible, interoperable, and open AI\n  systems reshape industrial B2B commerce\n\nRequirements\n\n- 5+ years in software engineering or data engineering, with\n  applied ML experience\n- Proficiency in Python and modern ML frameworks (PyTorch,\n  TensorFlow, or JAX)\n- Strong experience with cloud-native ML platforms (AWS, GCP,\n  or Azure) and modern data systems\n- Familiarity with MLOps practices (CI/CD for ML, feature\n  stores, model registries, monitoring)\n- Proven ability to deliver production-grade ML systems that\n  create measurable business impact\n- Hands-on experience using AI copilots or agent\n  frameworks/orchestration layers (LangChain, AutoGen,\n  CrewAI, N8N, etc.) preferred\n- Bonus: familiarity with retrieval-augmented generation\n  (RAG), vector databases, or multi-agent systems\n",
+  "skills_required": [
+    "AutoGen",
+    "CrewAI",
+    "JAX",
+    "LangChain",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain end-to-end ML and AI pipelines, including training, testing, deployment, and monitoring",
+    "Partner with AI Scientists to translate prototypes and research models into scalable, production-ready systems",
+    "Develop APIs and microservices to integrate AI capabilities directly into business applications and workflows",
+    "Implement automation, testing, and monitoring for reliability, performance, and reproducibility",
+    "Experiment with and operationalize agentic frameworks to orchestrate intelligent, tool-using systems",
+    "Apply AI-augmented development tools to accelerate engineering velocity"
+  ],
+  "use_cases": [
+    "AI-driven search and merchandising optimization for B2B distribution",
+    "Dynamic pricing and demand forecasting systems",
+    "Automated customer support workflows using generative AI",
+    "Agentic architectures for autonomous and semi-autonomous business operations",
+    "RAG-based knowledge retrieval for distributor operations"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "FastAPI",
+    "GCP",
+    "MLOps",
+    "feature stores",
+    "microservices",
+    "model registries",
+    "monitoring",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "JAX",
+    "LangChain",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agents"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role requires building, deploying, and operationalizing\ngenerative AI systems, LLM agents, and ML models. The\nengineer works directly on implementing RAG, agent\nframeworks (LangChain, AutoGen, CrewAI), and turning AI\nprototypes into production systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "AutoGen",
+      "CrewAI",
+      "RAG",
+      "agents"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "JAX"
+    ],
+    "web": [
+      "FastAPI",
+      "microservices"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "MLOps",
+      "CI/CD",
+      "model registries",
+      "monitoring",
+      "feature stores"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-2918",
+  "source": "intl-ai-corpus",
+  "source_ref": "9061797",
+  "source_url": "https://www.builtinla.com/job/applied-ai-engineer/9061797",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BJAK",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "unknown",
+  "company_focus": "Building proactive AI systems for context-aware\nconversations and actions",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "About the Role\n\nA1 is building a proactive AI system that understands\ncontext across conversations, plans actions, and carries\nwork forward over time.\n\nAs an Applied AI Engineer, you will turn model capabilities\ninto real product behavior. You will own problems end-to-\nend, from shaping model behavior, to building the systems\naround it, to ensuring it performs reliably in production.\n\nThis role sits at the intersection of machine learning,\nsystems, and product, focusing on making AI actually work\nfor users, not just in demos, but in real-world usage.\n\nFocus\n\n- Build and ship AI features end-to-end (model → system → user\n  experience)\n- Design and iterate on prompts, tools, memory, and agent\n  workflows\n- Turn raw model outputs into structured, reliable, and\n  predictable behaviors\n- Debug issues across the full stack (model, orchestration,\n  infra, UX)\n- Optimize for latency, cost, and production reliability\n- Develop lightweight evaluation frameworks to measure real-\n  world performance\n- Work closely with product and engineering to translate\n  ambiguous problems into working systems\n\nTech Stack\n\n- Python\n- PyTorch / JAX\n- LLMs (OpenAI-style APIs, LLaMA, Qwen, etc.)\n- Inference / serving (e.g. vLLM)\n- Vector DB\n\nIdeal Experience\n\n- Strong foundation in machine learning and modern neural\n  network architectures.\n- Hands-on experience with training, fine-tuning, or deploying\n  ML models\n- Ability to write clean, production-quality code\n- Comfort working across abstraction layers (model → infra →\n  product)\n- Strong problem-solving skills in ambiguous, fast-moving\n  environments\n- Bias toward shipping, iteration, and continuous improvement\n\nOutcomes\n\n- ML models in production meet expected accuracy, latency, and\n  reliability targets.\n- Production issues are identified quickly, debugged\n  effectively, and root causes addressed.\n- Data pipelines, training loops, and inference systems are\n  robust, reproducible, and maintainable.\n- Collaborates effectively with engineers, product, and\n  research teams to deliver reliable ML-powered features.\n- Iterations on models and systems are driven by real-world\n  signals and measurable improvements.\n\nHow We Work\n\nThe best products today in the world were built by small,\nworld class teams. We make decisions collectively, move at\nrapid speed, striking a balance between shipping high\nquality work and learning. Joining our team requires the\nability to bring structure, exercise judgment, and execute\nindependently. Our goal is to put in hands of our users a\ntruly magical AI product.\n\nInterview process\n\nIf there appears to be a fit, we'll reach to schedule 3, but\nno more than 4 interviews.\n\nApplications are evaluated by our technical team members.\nInterviews will be conducted via virtual meetings and/or\nonsite.\n\nWe value transparency and efficiency, so expect a prompt\ndecision. If you've demonstrated the exceptional skills and\nmindset we're looking for, we'll extend an offer to join us.\nThis isn't just a job offer; it's an invitation to be part\nof a team that's bringing AI to have practical benefits to\nbillions globally.\n",
+  "skills_required": [
+    "Agent Workflows",
+    "JAX",
+    "LLMs (OpenAI-style APIs, LLaMA, Qwen)",
+    "Model Fine-tuning",
+    "Model Training",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and ship AI features end-to-end from model to system to user experience",
+    "Design and iterate on prompts, tools, memory, and agent workflows",
+    "Turn raw model outputs into structured, reliable, and predictable behaviors",
+    "Debug issues across the full stack including model, orchestration, infra, and UX",
+    "Optimize for latency, cost, and production reliability",
+    "Develop lightweight evaluation frameworks to measure real-world performance",
+    "Collaborate with product and engineering to translate ambiguous problems into working systems"
+  ],
+  "use_cases": [
+    "Proactive AI system that understands context across conversations",
+    "AI agent that plans actions and carries work forward over time",
+    "Structured and reliable model-driven product behaviors",
+    "Production ML-powered features with measurable real-world performance"
+  ],
+  "tools_mentioned": [
+    "Inference Serving",
+    "Vector DB",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "Agent Workflows",
+    "JAX",
+    "LLMs (OpenAI-style APIs, LLaMA, Qwen)",
+    "Model Fine-tuning",
+    "Model Training",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, deploying, and\noptimizing AI/ML systems including LLMs, agent workflows,\nand model behavior. The engineer owns problems end-to-end\nfrom model behavior to production deployment, working with\nprompt design, fine-tuning, inference serving, and agent\norchestration — all core AI-first activities.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs (OpenAI-style APIs, LLaMA, Qwen)",
+      "Prompt Engineering",
+      "Agent Workflows",
+      "RAG"
+    ],
+    "ml": [
+      "PyTorch",
+      "JAX",
+      "Model Fine-tuning",
+      "Model Training"
+    ],
+    "web": [],
+    "databases": [
+      "Vector DB"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "vLLM",
+      "Inference Serving"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

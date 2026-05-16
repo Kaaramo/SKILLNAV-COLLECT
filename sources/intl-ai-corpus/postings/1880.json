@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-1880",
+  "source": "intl-ai-corpus",
+  "source_ref": "8608838",
+  "source_url": "https://builtin.com/job/lead-product-ai-data-engineer/8608838",
+  "title": "Lead Product AI Data Engineer",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Clarivate Analytics",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,549 Employees",
+  "company_stage": "Public",
+  "company_focus": "Data intelligence and analytics for research and innovation",
+  "industries": [],
+  "description": "We are seeking a Lead Product AI Data Engineer / Architect\nto design, build, and optimize end-to-end data architecture\nand scalable data platforms that power product analytics and\nAI-driven capabilities.\n\nThis role blends data architecture ownership, deep technical\nexecution, dimensional modeling excellence, and team-level\ntechnical leadership for AI Ready Product Data Pipelines.\n\nAbout You – experience, education, skills, and\naccomplishments\n\n- Bachelor’s degree in engineering or master’s degree (BE, ME,\n  B Tech, MTech, MCA, MS)  with minimum 7 years professional\n  experience in data engineering, analytics engineering, or\n  data architecture–heavy roles.\n- Expert-level proficiency in SQL and relational database\n  design.\n- Deep hands-on experience with data architecture and\n  dimensional data modeling, including star schemas,\n  snowflake schemas, fact tables, and dimension tables.\n- Strong understanding of slowly changing dimensions (SCDs),\n  surrogate keys, grain definition, and hierarchical\n  dimensions.\n- Experience designing and operating ETL/ELT pipelines for\n  production analytics and AI/ML workloads.\n\nIt would be great if you also have:\n\n- Experience with cloud data warehouses such as Snowflake,\n  Data Bricks\n- Strong programming experience in Python for data pipelines\n  and automation is a big plus.\n- Familiarity with tools such as dbt, Airflow, Fivetran, and\n  Segment.\n- Exposure to BI and visualization tools (Power BI, Tableau,\n  SAP BusinessObjects).\n- Familiarity with AWS, Azure, or GCP, including data\n  governance and security best practices.\n\nWhat will you be doing in this role?\n\n- Define and evolve enterprise-level product data architecture\n  across multiple product lines, ensuring scalability,\n  reliability, and AI/ML readiness.\n- Architect scalable ETL/ELT pipelines and distributed data\n  workflows for analytics, AI, and product intelligence.\n- Develop and enforce dimensional data modeling standards\n  (star schemas, snowflake schemas) across the organization.\n- Design and maintain fact and dimension tables, ensuring\n  proper grain, SCD handling, hierarchical dimensions, and\n  high-performance queries.\n- Establish data architecture principles, naming conventions,\n  and best practices for ETL/ELT, event tracking, and AI\n  pipelines.\n- Serve as the technical authority guiding architecture\n  decisions to meet product, platform, and AI requirements\n  and also manage Data Architecture & Technical Leadership\n  for Product & AI Data Enablement with Data Quality,\n  Reliability & Operations\n\nAbout the Team\n\nThe DIA team operates globally and collaborates closely with\nproduct owners, architects, and data experts. We thrive on\ninnovation, diversity, and a mission-driven culture focused\non enabling life-changing insights.\n\nTeam comprising front-end and back-end engineers, QA, UX\ndesigners, product managers, and DevOps specialists. The\nteam is focused on delivering high-quality editorial and\ndata intelligence solutions, with a strong emphasis on\ninnovation, ownership, and cross-functional collaboration.  \n\nThis is a fast-paced, innovation-driven\nenvironment where you’ll have the opportunity to take\nownership of features, contribute to system design, and\ncollaborate with talented peers on impactful projects.  \n\nHours of Work\n\n- Full-time, IST\n\n- 40 hours per week\n\n- Hybrid working environment\n\nAt Clarivate, we are committed to providing equal employment\nopportunities for all  qualified persons with respect to\nhiring, compensation, promotion, training, and other terms,\nconditions, and privileges of employment. We comply with\napplicable laws and regulations governing non-discrimination\nin all locations.\n",
+  "skills_required": [
+    "Power BI",
+    "Tableau"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define and evolve enterprise-level product data architecture across multiple product lines ensuring scalability, reliability, and AI/ML readiness",
+    "Architect scalable ETL/ELT pipelines and distributed data workflows for analytics, AI, and product intelligence",
+    "Develop and enforce dimensional data modeling standards including star schemas and snowflake schemas across the organization",
+    "Design and maintain fact and dimension tables ensuring proper grain, SCD handling, hierarchical dimensions, and high-performance queries",
+    "Establish data architecture principles, naming conventions, and best practices for ETL/ELT, event tracking, and AI pipelines",
+    "Serve as the technical authority guiding architecture decisions to meet product, platform, and AI requirements",
+    "Manage data architecture and technical leadership for product and AI data enablement with focus on data quality and reliability"
+  ],
+  "use_cases": [
+    "Product analytics and business intelligence",
+    "AI-driven product capabilities and features",
+    "Data intelligence solutions for research insights",
+    "Enterprise data warehousing and dimensional modeling",
+    "AI/ML workload data preparation and pipelines"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "Databricks",
+    "Dimensional data modeling",
+    "ETL/ELT pipelines",
+    "Fivetran",
+    "GCP",
+    "Relational database design",
+    "Segment",
+    "Snowflake",
+    "Snowflake schemas",
+    "Star schemas",
+    "dbt"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building data pipelines and\narchitecture that enable AI/ML workloads, but does not\ninvolve directly building, training, or deploying AI models.\nThe work is about preparing and delivering AI-ready data\ninfrastructure that other teams consume, which is a\nsupporting function rather than hands-on AI development.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Relational database design",
+      "Snowflake"
+    ],
+    "data": [
+      "Dimensional data modeling",
+      "Star schemas",
+      "Snowflake schemas",
+      "ETL/ELT pipelines",
+      "Databricks",
+      "dbt",
+      "Airflow",
+      "Fivetran",
+      "Segment"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Power BI",
+      "Tableau"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

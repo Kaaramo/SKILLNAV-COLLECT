@@ -1,0 +1,35 @@
+company:
+  name: Odixcity Consulting
+  stage: null
+  focus: null
+position:
+  title: LLM Evaluator (Model Response Analyst)
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases:
+  - A/B testing
+  skills:
+    genai:
+    - fine-tuning
+    - llm
+    - llms
+    - rlhf
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains:
+    - nlp
+    other:
+    - a/b testing
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4380359789'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

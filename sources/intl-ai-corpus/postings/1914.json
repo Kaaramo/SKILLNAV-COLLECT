@@ -1,0 +1,157 @@
+{
+  "job_id": "intl-ai-corpus-1914",
+  "source": "intl-ai-corpus",
+  "source_ref": "8634361",
+  "source_url": "https://builtin.com/job/agentic-ai-engineer/8634361",
+  "title": "Agentic AI Engineer",
+  "title_normalized": "GENAI_LLM_ENGINEER",
+  "company": "Rimini Street",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-03",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,600 Employees",
+  "company_stage": "Public",
+  "company_focus": "Enterprise software support and Agentic AI ERP solutions for\nOracle, SAP, VMware",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About Rimini Street, Inc.\n\nRimini Street, Inc. (Nasdaq: RMNI), a Russell 2000® Company,\nis a proven, trusted global provider of end-to-end, mission-\ncritical enterprise software support, managed services and\ninnovative Agentic AI ERP solutions, and is the leading\nthird-party support provider for Oracle, SAP and VMware\nsoftware.\n\nOur comprehensive portfolio of unified solutions help run,\nmanage, support, customize, configure, connect, protect,\nmonitor, and optimize enterprise application, database and\ntechnology software, enabling our clients to achieve better\nbusiness outcomes, significantly reduce costs and reallocate\nresources towards strategic projects.\n\nThe Company has signed thousands of contracts with Fortune\nGlobal 100, Fortune 500, midmarket, public sector and\ngovernment organizations who selected Rimini Street as their\ntrusted, proven mission-critical enterprise software\nsolutions provider and achieved better operational outcomes,\nrealized billions of US dollars in savings and funded AI and\nother innovation investments.\n\nWe are actively seeking a Agentic AI Engineer. This role is\nbased in India,Hyderabad.\n\nAbout Rimini Street, India, GCC.\n\nRimini Street Inc, HQ : Las Vegas, NV, USA a disruptor in\nthird party ERP support services, established undisputed\nleadership and as a natural progression, entered India with\nRimini Street, India GCC India kick starting operations in\nHyderabad, in 2013 with Global Client Onboarding Services,\nIT shared services and Global Service Development. In no\ntime, Rimini Street, India GCC started Bengaluru operations\ngoing up the value chain with more complex product\ndevelopment (Oracle, SAP, Peoplesoft, JDE etc.) & advanced\nservices (Managed services, Professional services, Security\nManaged Services etc).\n\nRimini Street, India GCC gained valuable share in bringing\nthe reputation to Rimini Street Inc of being a global\nprovider of unified support and managed service solutions\nfor enterprise software. Today, Rimini Street, India GCC is\na family of about 800+ full time talented individuals,\nthanks to the remarkable talent that has supported the\nexpansion.\n\nRimini Street, India has nicely emerged as Global Capability\nCentre (GCC), and proudly says, “if you are best of the\nbest, you belong to Rimini”. We are on a mission to\ncontribute significantly to our “Rimini ONE” program, a\nturnkey Rimini Street service program that offers a\ncomprehensive set of unified, integrated services that can\nrun, manage, support, customize, configure, connect,\nprotect, monitor, and optimize your Oracle and SAP ERP,\ndatabase, and technology software.\n\nRole Overview\n\nThe Agentic AI Engineer is responsible for designing and\nbuilding the cognitive architecture of AI agents that\ninteract with enterprise ERP systems. This is not prompt\nengineering — it is the design of agent behavior systems:\nhow agents reason through ambiguous multi-step problems,\nwhen and how they use tools, how they coordinate with other\nagents, how they govern themselves within risk-tiered\nautonomy frameworks, and how they escalate to humans at the\nright moments.\n\nThis role sits at the intersection of AI engineering and\nenterprise systems architecture. Where the GenAI Engineer\n(junior/mid-level) focuses on individual prompt design,\ncontext window management, and LLM API integration, the\nAgentic AI Engineer designs the higher-order systems: multi-\nagent coordination patterns, cognitive reasoning chains for\ncomplex ERP workflows, dynamic tool selection strategies,\nautonomous vs. supervised decision boundaries, and the\nfeedback loops that make agents learn from their operational\nexperience.\n\nThis is an emerging discipline. The industry is evolving\nfrom simple prompt engineering toward what might be called\nagent behavior engineering, agentic systems design, or\ncognitive architecture. We are looking for someone who can\nhelp define what this role becomes.\n\nKey Responsibilities\n\nAgent Cognitive Architecture\n\n- Design the reasoning framework for how agents decompose\n  complex ERP tasks into structured decision trees with\n  governance checkpoints at each stage.\n- Build agent personas and behavioral profiles for each Rimini\n  Solution domain (Finance, Procurement, Supplier\n  Management, Expense, Support)  defining domain-specific\n  reasoning patterns, risk tolerances, and escalation\n  triggers.\n- Architect dynamic tool selection strategies where agents\n  choose which MCP tools to invoke based on context,\n  confidence, and task requirements rather than hardcoded\n  sequences.\n- Design conversation state management for long-running agent\n  sessions that span multiple interactions, tool calls, and\n  human-in-the-loop approvals.\n- Build confidence scoring frameworks that translate LLM\n  output uncertainty into actionable governance decisions\n  (proceed, verify, escalate, halt).\n\nMulti-Agent Coordination\n\n- Design A2A (Agent-to-Agent) communication patterns for\n  collaborative workflows where multiple specialized agents\n  contribute to a single business outcome.\n- Architect supervisor/worker agent hierarchies with clear\n  delegation, progress monitoring, and result aggregation\n  patterns.\n- Build conflict resolution strategies for when agents produce\n  contradictory assessments (e.g., risk agent says halt,\n  efficiency agent says proceed).\n- Design shared context and memory patterns that allow agent\n  teams to build collective understanding of a business\n  situation without redundant processing.\n\nAutonomous Decision Governance\n\n- Translate OPA policy definitions into agent-actionable\n  decision boundaries — bridging the gap between policy-as-\n  code and agent reasoning.\n- Design the autonomy progression model: how agents earn\n  increased autonomy through demonstrated accuracy, how\n  trust degrades after errors, and how the system self-\n  corrects.\n- Build the “explainability layer” that enables agents to\n  articulate their reasoning chain to human reviewers in\n  business-meaningful terms.\n- Design circuit breaker patterns at the cognitive level\n  agents that recognize when they are outside their\n  competence boundary and proactively escalate rather than\n  guessing.\n\nKnowledge Integration & Institutional Memory\n\n- Design retrieval-augmented reasoning patterns where agents\n  dynamically pull relevant knowledge from vector stores,\n  historical and knowledge data and approval pattern\n  databases during their reasoning process.\n- Build the feedback mechanisms that capture how experienced\n  users correct or override agent recommendations, turning\n  those corrections into improved future reasoning.\n\nAgent Evaluation & Quality\n\n- Design evaluation frameworks for agent behavior — not just\n  output accuracy but reasoning quality, appropriate\n  escalation, governance compliance, and user trust metrics.\n- Build scenario-based testing methodologies: synthetic ERP\n  scenarios that test agent behavior across edge cases,\n  ambiguous situations, and adversarial inputs.\n- Define agent performance metrics: task completion rate,\n  escalation accuracy, false positive/negative rates for\n  autonomous decisions, time-to-resolution, and user\n  override frequency.\n- Own the continuous improvement loop: analyze production\n  agent behavior, identify reasoning failures, and refine\n  cognitive architecture to prevent recurrence.\n\nRequired Experience\n\n- 7+ years of software engineering experience with strong\n  Python and/or Java proficiency.\n- 3+ years working with AI/ML systems in production, including\n  LLM-based applications.\n- 1+ years designing or building agentic AI systems —\n  autonomous agents that reason, plan, use tools, and take\n  actions (not just chatbots or simple RAG).\n- Demonstrated experience with agent frameworks:\n  LangChain/LangGraph, Pydantic AI, CrewAI, AutoGen,\n  Semantic Kernel, or equivalent.\n- Experience with tool-calling / function-calling patterns in\n  LLMs (MCP, OpenAI function calling, Anthropic tool use).\n- Understanding of evaluation methodologies for non-\n  deterministic systems — testing outputs that aren't binary\n  right/wrong.\n- Experience building systems that handle human-in-the-loop\n  workflows — knowing when to pause for human judgment.\n\nRequired Technical Skills\n\n- Advanced proficiency. Pydantic AI is primary agent\n  framework; must be fluent.Python:\n- Deep experience with Claude (Anthropic), GPT (OpenAI), or\n  equivalent. Understanding of system prompts, tool calling,\n  streaming, structured output.LLM APIs:\n- Hands-on with at least one: Pydantic AI,\n  LangChain/LangGraph, CrewAI, AutoGen. Ability to evaluate\n  framework trade-offs.Agent Frameworks:\n- Understanding of tool definition, invocation patterns, and\n  how agents interact with external systems through\n  standardized protocols.MCP (Model Context Protocol):\n- Multi-agent communication patterns. Agent discovery, task\n  delegation, capability negotiation.A2A Protocol:\n- How agents retrieve and apply knowledge. Vector search,\n  reranking, context assembly, citation.RAG Architecture:\n- Agent evaluation frameworks (TruLens, Ragas, or custom).\n  Scenario-based testing, adversarial testing, regression\n  testing for agent behavior.Evaluation & Testing:\n- Understanding of durable execution (Restate/Temporal) and\n  how agent reasoning integrates with workflow\n  orchestration. Not owning Restate — that's the Platform\n  Engineer — but designing agent behavior that works within\n  durable execution patterns.Orchestration Awareness:\n\nPreferred Skills\n\n- Experience with ERP systems (SAP, Oracle EBS, JD Edwards) —\n  even basic familiarity with AP, GL, procurement processes\n  is valuable.\n- Java / Quarkus experience — the platform stack is Java-\n  native; ability to work across both Python (agents) and\n  Java (platform) is a strong advantage.\n- Reinforcement learning from human feedback (RLHF) or similar\n  alignment techniques.\n- Knowledge graph design — representing institutional\n  knowledge as structured, queryable relationships.\n- Formal decision theory or risk assessment frameworks —\n  useful for designing autonomy governance.\n- Experience in regulated industries (financial services,\n  healthcare, government) where AI systems must be\n  explainable and auditable.\n- Technical writing — this role must document agent\n  architectural decisions, reasoning patterns, and\n  governance frameworks for the broader team.\n\nWhy Rimini Street?\n\nWe are looking for talented, passionate people to help us\nbuild our future at Rimini Street. We hire only the best,\nthe most extraordinary professionals and provide\ncompensation, bonuses, and benefits to match the skills of\nour top-performing team members. Do you thrive in a fast-\npaced environment, enjoy growing together, and get excited\nabout learning new skills? Are you looking for an\nopportunity to make a true impact as part of a team of\nextraordinary professionals? This is the place for you.\n\nOur work is challenging and meaningful. We start and end\neach day with a sense of achievement and purpose guided by\nour core values, the Four Cs:\n\n- Company\n  - We dream big and innovate boldly.\n\n- Colleagues\n  - We work with extraordinary people who create a culture of\n    mutual respect and collaboration.\n\n- Clients\n  - We relentlessly pursue solutions that help clients achieve\n    their goals. Our unmatched client care is rooted in our\n    passion for exceptional service.\n\n- Community\n  - We believe in leaving the world a better place than we found\n    it. With the Rimini Street Foundation, we’ve made\n    positive impacts in six continents for over 425\n    charities.\n\nAccelerating Company Growth\n\n- Nasdaq-listed under ticker symbol RMNI since October 2017\n- Over 6,300+ signed contracts to date, including Fortune 500\n  and Global 100 companies\n- Over 2,000 team members in 23 countries\n- US and international recognition for industry leadership and\n  philanthropic efforts. See all of our awards and\n  recognitions here:\n  https://www.riministreet.com/company/awards/\n\nRimini Street is committed to creating a diverse and\ninclusive environment and is proud to be an Equal Employment\nOpportunity Employer. All qualified applicants will receive\nconsideration for employment without regard to age, race,\ncolor, religion, national origin, sexual orientation, gender\nor gender identity, disability, protected veteran status, or\nany other characteristic protected by law.\n\nTo learn more about how Rimini Street is redefining the\nenterprise software support industry, visit\nhttp://www.riministreet.com\n\nPlease Note: Rimini Street does not accept resumes submitted\nby recruiting/staffing firms unless specifically requested\nby Human Resources.  Unsolicited resumes will be ineligible\nfor referral fees.\n",
+  "skills_required": [
+    "Agent frameworks",
+    "Anthropic Claude API",
+    "AutoGen",
+    "CrewAI",
+    "Function calling",
+    "JD Edwards",
+    "LangChain",
+    "LangGraph",
+    "MCP (Model Context Protocol)",
+    "OpenAI API",
+    "Oracle EBS",
+    "Prompt engineering",
+    "Pydantic AI",
+    "RAG",
+    "RLHF",
+    "Ragas",
+    "SAP ERP",
+    "Semantic Kernel",
+    "TruLens"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design reasoning frameworks for agents to decompose complex ERP tasks into structured decision trees with governance checkpoints",
+    "Build agent personas and behavioral profiles for domain-specific reasoning patterns across Finance, Procurement, Supplier Management, and Support domains",
+    "Architect dynamic tool selection strategies using MCP tools based on context, confidence, and task requirements",
+    "Design multi-agent coordination patterns including A2A communication, supervisor/worker hierarchies, and conflict resolution strategies",
+    "Build confidence scoring frameworks that translate LLM output uncertainty into actionable governance decisions",
+    "Design retrieval-augmented reasoning patterns with vector stores, historical data, and knowledge integration",
+    "Create evaluation frameworks for agent behavior including reasoning quality, governance compliance, and scenario-based testing",
+    "Own continuous improvement loop by analyzing production agent behavior and refining cognitive architecture"
+  ],
+  "use_cases": [
+    "Enterprise ERP workflow automation with AI agents",
+    "Autonomous decision-making for financial and procurement processes",
+    "Multi-agent coordination for complex business workflows",
+    "Human-in-the-loop approval systems for enterprise operations",
+    "Risk-tiered autonomous governance for enterprise software support"
+  ],
+  "tools_mentioned": [
+    "Quarkus",
+    "Restate",
+    "Temporal",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "Anthropic Claude API",
+    "AutoGen",
+    "CrewAI",
+    "Function calling",
+    "LangChain",
+    "LangGraph",
+    "MCP (Model Context Protocol)",
+    "OpenAI API",
+    "Prompt engineering",
+    "Pydantic AI",
+    "RAG",
+    "RLHF",
+    "Ragas",
+    "Semantic Kernel",
+    "TruLens"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "GENAI_LLM_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely ai-first as it involves designing and\nbuilding agentic AI systems from the ground up - cognitive\narchitectures, multi-agent coordination, reasoning\nframeworks, and autonomous decision governance. The engineer\nworks directly on agent behavior systems, LLM tool calling,\nand production agentic applications, not merely supporting\ninfrastructure or data pipelines.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Pydantic AI",
+      "CrewAI",
+      "AutoGen",
+      "Semantic Kernel",
+      "MCP (Model Context Protocol)",
+      "RAG",
+      "Function calling",
+      "OpenAI API",
+      "Anthropic Claude API",
+      "Agent frameworks",
+      "Prompt engineering",
+      "TruLens",
+      "Ragas"
+    ],
+    "ml": [
+      "RLHF"
+    ],
+    "web": [
+      "Quarkus"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Restate",
+      "Temporal"
+    ],
+    "languages": [
+      "Python",
+      "Java"
+    ],
+    "domains": [],
+    "other": [
+      "SAP ERP",
+      "Oracle EBS",
+      "JD Edwards"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

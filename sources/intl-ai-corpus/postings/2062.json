@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-2062",
+  "source": "intl-ai-corpus",
+  "source_ref": "8726325",
+  "source_url": "https://builtin.com/job/software-development-engineer-ii-ai-and-analytics/8726325",
+  "title": "Software Development Engineer II - AI and Analytics",
+  "title_normalized": "AI_ENGINEER",
+  "company": "SAFE Security",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-12",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "403 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "Building CyberAGI for autonomous cybersecurity threat\nprediction and remediation",
+  "industries": [],
+  "description": "At SAFE Security, our mission is bold and ambitious: We Will\nBuild CyberAGI — a super-specialized system of intelligence\nthat autonomously predicts, detects, and remediates threats.\nThis isn’t just a vision—it’s the future we’re building\nevery day, with the best minds in AI, cybersecurity, and\nrisk. At SAFE, we empower individuals and teams with the\nfreedom and responsibility to align their goals, ensuring we\nall move towards this goal together.\n\nWe operate with radical transparency, autonomy, and\naccountability—there’s no room for brilliant jerks. We\nembrace a culture-first approach, offering an unlimited\nvacation policy, a high-trust work environment, and a\ncommitment to continuous learning. For us, Culture is Our\nStrategy—check out our Culture Memo to dive deeper into what\nmakes SAFE unique.\n\nWe’re looking for a seasoned Software Development Engineer\n(SDE II) with deep expertise in Analytics and AI to join our\nhigh-impact engineering team. In this role, you’ll\ncollaborate closely with Design, Product, and cross-\nfunctional stakeholders to build innovative analytics and\nAI-driven solutions that help predict and prevent cyber\nbreaches.\n\nCore Responsibilities:\n\n- AI & Analytics Development: Design, build, and deploy\n  scalable AI-driven analytics solutions, leveraging\n  advanced AI techniques, including Retrieval-Augmented\n  Generation (RAG), AI agents, and foundational models.\n- Architecture: Collaborate with cross-functional teams to\n  architect scalable, secure, and performant AI-driven\n  microservices.\n- Cloud and AI Integration: Utilize cloud services (primarily\n  AWS Bedrock, Lambda, EC2, S3, RDS) to develop efficient,\n  robust, and scalable solutions.\n- Model Evaluation: Implement and evaluate various AI models\n  (e.g., OpenAI, Anthropic Claude, Amazon Titan),\n  understanding trade-offs such as latency, cost, accuracy,\n  and scalability.\n- Code Quality: Ensure high-quality code through rigorous code\n  reviews and continuous improvement processes.\n- Problem Solving: Address complex technical challenges,\n  identify root causes, and provide effective solutions.\n- Cross-team Collaboration: Work closely with product\n  managers, designers, and stakeholders to align technical\n  solutions with business goals.\n\nEssential Skills/ Qualifications/ Experience:\n\n- Bachelor’s or Master's degree in Computer Science,\n  Engineering, or a related field.\n- Minimum of 3-5 years of experience in software development\n  roles, with expertise in Python, NodeJS, or Go.\n- Strong hands-on experience with AI/ML, including Retrieval-\n  Augmented Generation (RAG), AI Agents, and deploying these\n  technologies into production environments.\n- Familiarity with AWS Bedrock and its AI model hosting\n  ecosystem is highly advantageous.\n- Experience with Typescript and API frameworks (Express)\n  preferred.\n- Good understanding of SQL and NoSQL databases.\n- Demonstrable experience deploying scalable solutions in\n  cloud environments (AWS preferred).\n- Proficient in deploying containerized applications (Docker,\n  Kubernetes, ECS).\n- Knowledge of DevOps best practices and Infrastructure as\n  Code (e.g., AWS CloudFormation) is beneficial.\n- Exceptional leadership, communication, and mentoring skills.\n- Proven capability to own features end-to-end in an agile,\n  fast-paced environment.\n\nIf you’re passionate about cyber risk, thrive in a fast-\npaced environment, and want to be part of a team that’s\nredefining security—we want to hear from you! 🚀\n",
+  "skills_required": [
+    "AI Agents",
+    "Anthropic Claude",
+    "Foundational Models",
+    "OpenAI API",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and deploy scalable AI-driven analytics solutions using RAG, AI agents, and foundational models",
+    "Architect scalable, secure, and performant AI-driven microservices with cross-functional teams",
+    "Develop efficient solutions using AWS cloud services including Bedrock, Lambda, EC2, S3, and RDS",
+    "Implement and evaluate various AI models (OpenAI, Anthropic Claude, Amazon Titan) analyzing trade-offs in latency, cost, accuracy, and scalability",
+    "Ensure high-quality code through rigorous code reviews and continuous improvement processes",
+    "Address complex technical challenges, identify root causes, and provide effective solutions",
+    "Collaborate closely with product managers, designers, and stakeholders to align technical solutions with business goals"
+  ],
+  "use_cases": [
+    "Autonomous cybersecurity threat prediction",
+    "Real-time threat detection and analysis",
+    "Automated threat remediation",
+    "AI-powered security analytics and insights",
+    "Cyber breach prevention through intelligent monitoring"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "AWS CloudFormation",
+    "AWS EC2",
+    "AWS ECS",
+    "AWS Lambda",
+    "AWS RDS",
+    "AWS S3",
+    "Docker",
+    "Express",
+    "Kubernetes",
+    "NoSQL databases",
+    "SQL"
+  ],
+  "frameworks_mentioned": [
+    "AI Agents",
+    "Anthropic Claude",
+    "Foundational Models",
+    "OpenAI API",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Go",
+    "NodeJS",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying AI-driven\nsolutions including RAG, AI agents, and foundational models.\nThe engineer will implement and evaluate AI models (OpenAI,\nClaude, Titan) and deploy them into production environments,\nmaking this hands-on work with AI systems rather than\nsupport infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "AI Agents",
+      "Foundational Models",
+      "OpenAI API",
+      "Anthropic Claude"
+    ],
+    "ml": [],
+    "web": [
+      "Express"
+    ],
+    "databases": [
+      "SQL",
+      "NoSQL databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Bedrock",
+      "AWS Lambda",
+      "AWS EC2",
+      "AWS S3",
+      "AWS RDS",
+      "AWS ECS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "AWS CloudFormation"
+    ],
+    "languages": [
+      "Python",
+      "NodeJS",
+      "Go",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

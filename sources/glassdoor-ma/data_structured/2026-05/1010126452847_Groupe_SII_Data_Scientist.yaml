@@ -1,0 +1,46 @@
+company:
+  name: Groupe SII
+  stage: null
+  focus: null
+position:
+  title: Data Scientist
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases:
+  - A/B testing
+  skills:
+    genai:
+    - generative ai
+    ml:
+    - machine learning
+    - ml
+    - pytorch
+    - tensorflow
+    web:
+    - next
+    databases: []
+    data:
+    - data lake
+    - spark
+    - sql
+    cloud:
+    - azure
+    ops: []
+    languages:
+    - python
+    domains:
+    - nlp
+    other:
+    - a/b testing
+    - consulting
+    - power bi
+    - statistics
+    - tableau
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010126452847'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

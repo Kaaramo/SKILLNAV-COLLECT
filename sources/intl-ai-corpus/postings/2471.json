@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2471",
+  "source": "intl-ai-corpus",
+  "source_ref": "8905037",
+  "source_url": "https://builtin.com/job/ai-infrastructure-engineer/8905037",
+  "title": "AI Infrastructure Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Percepta AI",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3 Employees",
+  "company_stage": "Series Unknown (backed by General Catalyst partnership)",
+  "company_focus": "Applied AI transformation for critical industries like\nhealthcare, manufacturing, and energy",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "Who we are\n\nPercepta's mission is to transform critical institutions\nwith applied AI. We care that industries that power the\nworld (healthcare, manufacturing, energy) benefit from\nfrontier technology.\n\nWe collaborate with industry-leading customers to drive AI\ntransformation. We bring:\n\n- Forward-deployed expertise in engineering, product, and\n  research\n- Mosaic, our in-house toolkit for rapidly deploying agentic\n  architectures\n- Strategic partnerships with Anthropic, McKinsey, AWS, and\n  the General Catalyst portfolio\n\nOur team is a fast-growing group of Applied AI Engineers,\nEmbedded Product Managers, and Researchers motivated by\ngetting frontier AI into the places that actually run the\nworld.\n\nPercepta is a direct partnership with General Catalyst.\n\nAbout the role\n\nWe're hiring an AI Infrastructure Engineer to own the\ninfrastructure, deployment, and operational reliability that\npowers Percepta's AI systems, including the autonomous\nagents at the core of what we ship.\n\nPart of the work is hardening what exists: tightening our\nTerraform footprint, strengthening deployment pipelines,\nbringing more rigor to how we manage infrastructure across\nregions and providers. Part of it is building what's\nmissing. And part of it is genuinely new territory, figuring\nout what SRE means when the systems you're operating make\nautonomous decisions.\n\nThe infrastructure patterns for the agentic systems of the\nfuture don't exist yet. You'll help define them.\n\nWhy this is different\n\n- You're deploying autonomous systems. The infrastructure\n  contract changes when your workloads have agency.\n- Observability means understanding why an agent made a\n  decision, not just whether a pod is healthy.\n- The gap between research and production is real here. Our\n  teams move optimization algorithms and AI systems from\n  research environments into production, and you'll be part\n  of that handoff. MLOps experience isn't required, but\n  you'll be closer to that boundary than most infra roles.\n- Small team. Real ownership. You're making foundational\n  decisions, not inheriting someone else's.\n\nWhat you'll do\n\n- Define infrastructure patterns for multi-agent systems that\n  need to be observable, controllable, and recoverable in\n  ways traditional apps don't require\n- Own and evolve our IaC stack: Terraform and Kubernetes\n  across AWS, GCP, and Azure\n- Build observability primitives for agentic workflows,\n  tracing agent decisions and execution paths, not just\n  service latency and pod health\n- Design and maintain CI/CD pipelines that give teams fast,\n  trustworthy feedback from commit to production\n- Build operational foundations: monitoring, alerting,\n  incident response, and the new patterns that emerge when\n  AI systems are participants in that response\n- Work across engineering teams to meet the reliability and\n  compliance requirements of the institutions we serve (SOC\n  2, HIPAA, regulated environments in healthcare and energy)\n\nWhat we're looking for\n\n- 5+ years building and operating production infrastructure in\n  DevOps or SRE roles\n- The kind of engineer who sees a manual process and can't\n  rest until it's automated well, not just scripted\n- Strong hands-on Terraform experience\n- Deep experience with at least 1 major cloud provider (AWS,\n  GCP, or Azure): networking, IAM, cost management, the\n  operational realities of production workloads\n- Solid Docker and Kubernetes experience in production. We run\n  managed clusters across all 3 major clouds; this is a core\n  part of the role\n- Experience designing and maintaining CI/CD pipelines (GitHub\n  Actions, GitLab CI, or similar)\n- Scripting proficiency in Python, Bash, or similar\n- High agency: you don't wait for a ticket to fix what's\n  broken, but you communicate, collaborate, and bring the\n  team along\n- Genuine curiosity about AI systems, not just the\n  infrastructure running them. You want to understand what\n  you're operating\n- You find it interesting (not alarming) that some systems\n  you'll operate will be making decisions on their own\n\nNice to have\n\n- Multi-region and multi-cloud experience across 2+ providers\n- Experience with single-tenant or on-prem deployments\n  alongside multi-tenant SaaS\n- Familiarity with GitOps patterns and progressive delivery\n- Familiarity with the Grafana stack (Prometheus, Grafana,\n  Loki) or equivalent\n- Experience with compliance frameworks (HIPAA, SOC 2) and how\n  they shape infrastructure decisions in regulated\n  environments\n- Background supporting ML or research workflows moving to\n  production: model deployment, pipeline orchestration, or\n  similar\n- You've thought about what observability means for non-\n  deterministic systems and have opinions about it\n\nThe infrastructure patterns for autonomous AI systems are\nstill being written. If you want to be one of the people\nwriting them, let's talk.\n\nOur Values\n\nDream bigger: We have the unique privilege of taking on the\nmost ambitious problems and we should chase them with\noptimism, responsibility, and genuine belief that we can\nmake it happen. We have to embrace the hard things when no\none else will. Heart in the game: What we're doing matters\nand we have to give a shit. Internally, that means fixing\nbadness when you find it. Externally, it means honoring the\ntrust our customers place in us with their most important\nproblems. This isn’t a 9-5, nor is it a job we’re ever going\nto monitor your hours. We promise to put work in front of\nyou that matters and in return, we ask you to promise to\ncare. Win for the customer: Everyone is an engineer and the\njob of an engineer is to deliver outcomes, not outputs.\nEverything we do—the products we build, the partnerships we\nlaunch, the strategy we set—exists to make our customers\nsuccessful. Delivery is the strategy. Make the call:\nOrganizations are only as strong as the pace at which they\nmake decisions. Everyone at Percepta should feel empowered\nto commit and shape the ambiguity in front of them. But\n\"make the call\" cuts both ways: make the decision and make\nthe phone call. High-agency decision-making only works with\nhigh-bandwidth communication and we commit to never operate\nin silos. Intensity with kindness: We believe in excellence\nin execution, candor in feedback, ruthlessness in\nprioritization, and survivalist urgency. We also believe you\ndon't need to be an asshole to deliver on any of this. The\ntrust built through shared kindness and vulnerability is\nwhat makes the intensity sustainable.\n",
+  "skills_required": [
+    "HIPAA",
+    "Multi-agent systems",
+    "SOC 2"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define infrastructure patterns for multi-agent systems requiring observability, controllability, and recoverability beyond traditional applications",
+    "Own and evolve the IaC stack including Terraform and Kubernetes across AWS, GCP, and Azure",
+    "Build observability primitives for agentic workflows, tracing agent decisions and execution paths",
+    "Design and maintain CI/CD pipelines providing fast, trustworthy feedback from commit to production",
+    "Build operational foundations including monitoring, alerting, and incident response for AI-driven systems",
+    "Collaborate across engineering teams to meet reliability and compliance requirements (SOC 2, HIPAA) for regulated industries"
+  ],
+  "use_cases": [
+    "Autonomous multi-agent systems for critical industries (healthcare, manufacturing, energy)",
+    "Agentic architectures deployed via the Mosaic toolkit to industry-leading customers",
+    "AI transformation of regulated institutions requiring compliance-grade infrastructure",
+    "Observability and operational reliability for systems that make autonomous decisions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "GCP",
+    "GitHub Actions",
+    "GitLab CI",
+    "GitOps",
+    "Grafana",
+    "Kubernetes",
+    "Loki",
+    "MLOps",
+    "Observability for agentic systems",
+    "Prometheus",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Multi-agent systems"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "While this is an infrastructure role, it's specifically\ndefined by deploying and operating autonomous agentic AI\nsystems. The engineer defines infrastructure patterns for\nmulti-agent systems, builds observability for agent\ndecisions and execution paths, and is directly involved in\nthe research-to-production handoff of AI systems. The role\nis fundamentally shaped by the AI workloads it supports,\nmaking it ai-first rather than ai-support.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Multi-agent systems"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Terraform",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "GitHub Actions",
+      "GitLab CI",
+      "Prometheus",
+      "Grafana",
+      "Loki",
+      "GitOps",
+      "MLOps",
+      "Observability for agentic systems"
+    ],
+    "languages": [
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": [
+      "SOC 2",
+      "HIPAA"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

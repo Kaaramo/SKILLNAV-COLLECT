@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-0948",
+  "source": "intl-ai-corpus",
+  "source_ref": "7751383",
+  "source_url": "https://builtin.com/job/machine-learning-engineer-ai-core-team/7751383",
+  "title": "Machine Learning Engineer (AI Core Team)",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Manychat",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam, NLD",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "232 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Chat Marketing platform for creators",
+  "industries": [
+    "Marketing Tech",
+    "Social Media"
+  ],
+  "description": "WHO WE ARE 🌍\n\nWe help creators get more out of every conversation with\nInstagram-focused automations and support for other channels\nlike Messenger, WhatsApp, and TikTok. The result? Better\nengagement, more sales, and real, sustainable growth.\n\nWith a diverse team of 350+ people spread across three\ncontinents, we’re building the leading Chat Marketing\nplatform that is used — and loved — by more than 1.5 million\ncustomers worldwide.\n\nWHO WE'RE LOOKING FOR 🌟\n\nManychat’s AI Core team turns ML and LLM ideas into\nproduction features used in millions of conversations every\nday. You will work across applied research, prototyping, and\nproduction delivery, partnering closely with our Python\nPlatform team and Product to validate ideas quickly and ship\nhigh-impact AI workflows.\n\nThis role suits someone who loves to build fast, experiment,\nand take ownership of models, agents, and workflows end to\nend.\n\nWHAT YOU’LL DO 🤖\n\n- Design and deliver ML/LLM solutions end-to-end: fast\n  prototyping, offline evaluation, and production rollout of\n  models and agent workflows.\n- Build and iterate on AI agents (RAG, vector search, memory,\n  tools) using clear benchmarks and product metrics to guide\n  improvements.\n- Choose and implement the right approach for each problem\n  (classical ML, LLMs, RAG pipelines, or agent\n  architectures), defining data and labeling needs where\n  required.\n- Work closely with the Python Platform team to productionize\n  your solutions with clean service boundaries, monitoring,\n  and scalability in mind.\n\nTO SHINE IN THIS ROLE 💥\n\n          Machine Learning & LLM Expertise\n\n- Solid understanding of ML algorithms, metrics, search, RAG,\n  and agent design.\n- Experience with frameworks like LlamaIndex, LangChain, or\n  similar.\n- Hands-on tuning with PyTorch, TensorFlow.\n- Experience with LLM evaluation and benchmarking. Engineering\n  Skills\n- Strong Python engineering background, ideally three or more\n  years in production environments.\n- Experience building backend services (FastAPI, Docker,\n  Pydantic, PostgreSQL).\n- Familiarity with cloud environments and monitoring is a\n  strong plus. Collaboration & Ownership\n- Clear communication in English.\n- Ability to work independently, iterate fast, and collaborate\n  with product, data, and engineering teams.\n- Product mindset and comfort working in a fast-moving\n  environment.\n\nWHAT WE OFFER 🤗\n\nWe care deeply about your growth, well-being, and comfort:\n\n- 🌍 Hybrid onboarding to start work remotely and relocation\n  support for you and your family.\n- 💙 Comprehensive health insurance for both you and your\n  family.\n- 📚 Professional development budget for conference tickets,\n  online courses, and other relevant resources to help you\n  grow.\n- 🫶 Flexible benefits package to tailor perks that matters\n  most for you.\n- 🪴 Hybrid work and generous leave options to prioritize your\n  work-life balance.\n- 🍽️ In-office perks, including free meals and snacks.\n- 🤝 Company-funded sport activities, annual offsites and team-\n  building events.\n\nManychat is an Equal Opportunity Employer. We’re committed\nto building a diverse and inclusive team. We do not\ndiscriminate against qualified employees or applicants\nbecause of race, color, religion, gender identity, sex,\nsexual preference, sexual identity, pregnancy, national\norigin, ancestry, citizenship, age, marital status, physical\ndisability, mental disability, medical condition, military\nstatus, or any other characteristic protected by local law\nor ordinance.\n\nThis commitment is also reflected through our candidate\nexperience. If you have individual needs that may require an\naccommodation during the interview process, please indicate\nthis in your application. We will do our best to provide\nassistance throughout your interview process to ensure\nyou’re set up for success. With my application, I accept the\nManychat Privacy Policy.\n",
+  "skills_required": [
+    "LLM evaluation and benchmarking",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deliver ML/LLM solutions end-to-end from prototyping to production rollout",
+    "Build and iterate on AI agents using RAG, vector search, memory, and tools with clear benchmarks",
+    "Choose and implement the right approach for each problem including classical ML, LLMs, RAG pipelines, or agent architectures",
+    "Work closely with Python Platform team to productionize solutions with clean service boundaries, monitoring, and scalability"
+  ],
+  "use_cases": [
+    "Instagram-focused automations and chat marketing for creators",
+    "Support multi-channel conversations across Messenger, WhatsApp, and TikTok",
+    "AI-powered workflows used in millions of daily conversations",
+    "Customer engagement and sales automation through conversational AI"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "FastAPI",
+    "PostgreSQL",
+    "Pydantic",
+    "cloud environments",
+    "monitoring",
+    "vector search"
+  ],
+  "frameworks_mentioned": [
+    "LLM evaluation and benchmarking",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "agents"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building and deploying LLM\nsolutions, RAG pipelines, and AI agents from prototype to\nproduction. The engineer directly works on models, agent\nworkflows, and implementing AI features, not just supporting\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "agents",
+      "LlamaIndex",
+      "LangChain",
+      "LLM evaluation and benchmarking"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [
+      "FastAPI",
+      "Pydantic"
+    ],
+    "databases": [
+      "vector search",
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "cloud environments"
+    ],
+    "ops": [
+      "Docker",
+      "monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

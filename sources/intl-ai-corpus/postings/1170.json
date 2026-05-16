@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-1170",
+  "source": "intl-ai-corpus",
+  "source_ref": "8239423",
+  "source_url": "https://builtin.com/job/ai-sre-engineer/8239423",
+  "title": "AI SRE Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Procter & Gamble",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-18",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "117,512 Employees",
+  "company_stage": "Public",
+  "company_focus": "Consumer goods company with digital transformation",
+  "industries": [
+    "AdTech",
+    "Beauty",
+    "Marketing Tech",
+    "Retail",
+    "Pharmaceutical"
+  ],
+  "description": "Job Location\n\nHYDERABAD OFFICE INDIA PSC PGH\n\nJob Description\n\nYour team\n\nBased out of P&G's strategic technology center in Hyderabad,\nyou will be a key member of our global Site Reliability\nEngineering (SRE) team. You will work in a highly\ncollaborative environment, partnering with local and\ninternational teams of application developers,\ninfrastructure engineers, and data scientists. Your work\nwill involve staying current with emerging technologies in\ndata solutions, AI, and machine learning to drive\ninnovation.\n\nHow success looks like\n\nOver time, you will become a subject matter expert in system\nreliability, automation, and observability. Successful SREs\ncan grow into senior engineering roles, architectural\npositions, or expand their experience into other specialized\nareas within P&G's global IT organization. You will be a key\npart of our digital transformation, leveraging your skills\nin Python, cloud computing (Azure), and observability tools\n(like Grafana and Prometheus) to ensure our systems are\nresilient and scalable. Your impact will be critical to the\nstability of the technology that drives our business.\n\n\nKey Responsibilities\n\n- Maintain and improve the availability, reliability, and\n  performance of all production systems.\n- Implement and manage application monitoring and\n  observability solutions, using tools like Grafana and\n  Prometheus to proactively identify issues.\n- Develop and maintain automation to streamline operations,\n  reduce manual intervention, and improve system efficiency.\n- Participate in the software development lifecycle,\n  leveraging SRE/DevOps practices and CI/CD pipelines to\n  ensure new services meet production standards.\n- Troubleshoot, debug, and resolve software and infrastructure\n  issues across our technology stack, performing bug fixes\n  as needed.\n- Collaborate with development teams to design scalable and\n  reliable systems from the ground up.\n- Continuously learn and apply emerging technologies in data\n  solutions, AI, and machine learning to enhance our SRE\n  capabilities.\n\nJob Qualifications\n\n- Minimum of 3+ years of relevant professional experience\n- A fundamental understanding of cloud computing concepts and\n  services, particularly within Microsoft Azure.\n- Basic proficiency in Python programming.\n- Understanding of AI principles and an interest in leveraging\n  Generative AI (GenAI) to implement innovative operational\n  solutions and enhance automation.\n- Experience in implementing Application Monitoring and\n  Observability. Knowledge of Grafana and Prometheus is a\n  strong advantage.\n- Strong analytical and problem-solving skills to effectively\n  identify and resolve software issues.\n- Familiarity with SRE or DevOps practices and tools,\n  including CI/CD pipelines, is an advantage.\n- Excellent written and verbal communication skills in\n  English.\n- Strong ownership & self-leadership skills to understand\n  objectives and deliver required outcomes in a fast-paced\n  environment.\n\nJob Schedule\n\nFull time\n\nJob Number\n\nR000142470\n\nJob Segmentation\n\nEntry Level\n",
+  "skills_required": [
+    "AI principles",
+    "Generative AI"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Maintain and improve the availability, reliability, and performance of all production systems",
+    "Implement and manage application monitoring and observability solutions using Grafana and Prometheus",
+    "Develop and maintain automation to streamline operations and reduce manual intervention",
+    "Participate in the software development lifecycle using SRE/DevOps practices and CI/CD pipelines",
+    "Troubleshoot, debug, and resolve software and infrastructure issues across the technology stack",
+    "Collaborate with development teams to design scalable and reliable systems",
+    "Continuously learn and apply emerging technologies in data solutions, AI, and machine learning"
+  ],
+  "use_cases": [
+    "Application monitoring and observability for production systems",
+    "Automation of operational processes to reduce manual intervention",
+    "Infrastructure reliability and performance management",
+    "Deployment pipeline management and CI/CD operations",
+    "System troubleshooting and incident resolution",
+    "Enhancing SRE capabilities through AI/ML solutions"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "CI/CD",
+    "Cloud computing",
+    "DevOps",
+    "Grafana",
+    "Observability",
+    "Prometheus",
+    "SRE"
+  ],
+  "frameworks_mentioned": [
+    "AI principles",
+    "Generative AI"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an SRE role focused on system reliability,\nautomation, and observability. While there is interest in\nleveraging GenAI for operational solutions and automation,\nthe role does not involve building, training, fine-tuning,\nor deploying AI/ML models directly. The AI component is\nabout applying AI tools to enhance SRE capabilities rather\nthan developing AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Generative AI"
+    ],
+    "ml": [
+      "AI principles"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Azure",
+      "Cloud computing"
+    ],
+    "ops": [
+      "Grafana",
+      "Prometheus",
+      "CI/CD",
+      "SRE",
+      "DevOps",
+      "Observability"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

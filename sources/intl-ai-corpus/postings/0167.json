@@ -1,0 +1,104 @@
+{
+  "job_id": "intl-ai-corpus-0167",
+  "source": "intl-ai-corpus",
+  "source_ref": "7298883",
+  "source_url": "https://builtin.com/job/python-software-engineer-sdk-applied-ai-systems/7298883",
+  "title": "Software Engineer – Applied AI Systems",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Symbolica AI",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "19 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI research lab using category theory for symbolic reasoning\nmodels",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "About Us Symbolica is an AI research lab pioneering the\napplication of category theory to enable logical reasoning\nin machines. We’re a well-resourced, nimble team of experts\non a mission to bridge the gap between theoretical\nmathematics and cutting-edge technologies, creating symbolic\nreasoning models that think like humans – precise, logical,\nand interpretable. While others focus on scaling data-hungry\nneural networks, we’re building AI that understands the\nstructures of thought, not just patterns in data.\n\nOur approach combines rigorous research with fast-paced,\nresults-driven execution. We’re reimagining the very\nfoundations of intelligence while simultaneously developing\nproduct-focused machine learning models in a tight feedback\nloop, where research fuels application.\n\nFounded in 2022, we’ve raised over $30M from leading Silicon\nValley investors, including Khosla Ventures, General\nCatalyst, Abstract Ventures, and Day One Ventures, to push\nthe boundaries of applying formal mathematics and logic to\nmachine learning.\n\nOur vision is to create AI systems that transform\nindustries, empowering machines to solve humanity’s most\ncomplex challenges with precision and insight. Join us to\nredefine the future of AI by turning groundbreaking ideas\ninto reality.\n\nAbout the role We’re looking for a Python Software Engineer\nto take full ownership of building and shipping the core\nsystems that power Symbolica’s applied AI products. This is\na true generalist role: you’ll work across our SDK,\ndeveloper libraries, server-side platform, integrations with\ninference providers, and applied AI features such as agent\nengineering, per-model optimizations, and context tuning.\n\n\n\nYour work will directly shape the developer and user\nexperience — from designing clean APIs and libraries that\ncustomers use every day, to building the backend systems and\nintegrations that make it all reliable at scale. You’ll be\nthe bridge between research prototypes and production-\nquality systems, helping turn cutting-edge ideas into tools\nthat developers love.\n\n\n\n📍 This is an onsite role based in our London office (66 City\nRd).\n\n\n\nYour focus\n\n- Build, maintain, and improve Python-based systems across the\n  stack: SDK, libraries, APIs, server-side platform, and\n  integration layers.\n- Work on applied AI engineering, including per-model\n  optimisations, context tuning, and agent-related features.\n- Design developer-facing tools and libraries that customers\n  can use directly.\n- Integrate with external inference providers to ensure\n  reliability and scalability.\n- Own projects end-to-end: clarify requirements, design,\n  implement, test, and ship production-ready code.\n- Collaborate with ML researchers and engineers to turn\n  prototypes into robust, usable systems.\n- Contribute to architecture discussions, code reviews, and\n  best practices for building maintainable software.\n- Continuously improve developer experience and system\n  performance.\n\nAbout you\n\n- 4+ years of professional software engineering experience,\n  with Python as your primary language.\n- Strong track record of delivering production-quality systems\n  end-to-end.\n- Proven ability to work from incomplete specs and drive\n  projects to completion.\n- High standards for code quality, testing, maintainability,\n  and performance.\n- Experience with ML infrastructure, applied AI systems, or\n  developer tooling is a big plus.\n- Thrive in fast-moving, ambiguous environments where\n  priorities shift quickly.\n- Ownership mindset: you see what needs doing and take\n  responsibility for delivery.\n\nWhat we offer\n\n- Competitive salary and early-stage equity package\n- A high-trust, execution-first culture with minimal\n  bureaucracy\n- Direct ownership of meaningful projects with real business\n  impact\n- A rare opportunity to sit at the interface between deep\n  research and real-world productisation\n\nWe are able to sponsor a Skilled Worker visa for qualified\ncandidates applying to this position. This specific role\nexceeds the minimum salary threshold set by the UK\ngovernment for Skilled Worker visa sponsorship. Please note\nthat English language proficiency at B2 level or higher is\nrequired for this role.\n\nSymbolica is an equal opportunities employer. We celebrate\ndiversity and are committed to creating an inclusive\nenvironment for all employees, regardless of race, gender,\nage, religion, disability, or sexual orientation.\n",
+  "skills_required": [
+    "agent engineering",
+    "context tuning",
+    "developer tooling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain Python-based systems across SDK, libraries, APIs, server-side platform, and integration layers",
+    "Work on applied AI engineering including per-model optimizations, context tuning, and agent-related features",
+    "Design developer-facing tools and libraries that customers use directly",
+    "Integrate with external inference providers to ensure reliability and scalability",
+    "Collaborate with ML researchers and engineers to turn prototypes into robust production systems",
+    "Own projects end-to-end from requirements clarification to shipping production-ready code"
+  ],
+  "use_cases": [
+    "Developer SDKs and libraries for AI model integration",
+    "Applied AI features including agent engineering and context tuning",
+    "Per-model optimization systems for inference providers",
+    "Production infrastructure for deploying symbolic reasoning models",
+    "Developer tools for building applications with Symbolica's AI"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "ML infrastructure",
+    "SDK development",
+    "inference optimization"
+  ],
+  "frameworks_mentioned": [
+    "agent engineering",
+    "context tuning"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a general software engineering role building the\nSDK, APIs, and infrastructure that power Symbolica's AI\nproducts. The engineer works on integrations, per-model\noptimizations, and context tuning, but collaborates with ML\nresearchers rather than building models directly. The focus\nis on turning research prototypes into production-quality\nsystems and developer tools.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "agent engineering",
+      "context tuning"
+    ],
+    "ml": [],
+    "web": [
+      "SDK development",
+      "APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "inference optimization",
+      "ML infrastructure"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "developer tooling"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

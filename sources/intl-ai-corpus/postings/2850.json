@@ -1,0 +1,159 @@
+{
+  "job_id": "intl-ai-corpus-2850",
+  "source": "intl-ai-corpus",
+  "source_ref": "9038966",
+  "source_url": "https://builtin.com/job/senior-staff-software-engineer-agentic-ai/9038966",
+  "title": "Senior Staff Software Engineer – Agentic AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Bread Financial",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-14",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "6,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Tech-forward financial services providing payment, lending\nand saving solutions",
+  "industries": [
+    "eCommerce",
+    "Fintech",
+    "Analytics",
+    "Financial Services"
+  ],
+  "description": "Every career journey is personal. That's why we empower you\nwith the tools and support to create your own success story.\n\nBe challenged. Be heard. Be valued. Be you ... be here.\n\nJob Summary\n\nThe Senior Staff Software Engineer – Agentic AI will design\nand deliver core agent capabilities, including policy\nexecution, reasoning, orchestration, and failure‑handling.\nThey will build production‑ready agent runtimes—state and\nmemory systems, planners, and tool‑routing components—while\nensuring safety, reliability, latency, and cost efficiency.\nThis role will contribute to multi‑agent workflows for\nclassification, routing, reconciliation, anomaly detection,\nand decisioning. The role includes implementing\ndeterministic paths where needed, integrating graph/RAG\nmemory, and establishing strong observability and evaluation\npipelines. You will mentor engineers and help uphold high\nengineering standards across the team.\n\n\n\nEssential Job Functions\n\n- Design and enhance multi‑agent frameworks and LLM‑powered\n  autonomous systems using goal schemas, planner‑executor\n  patterns, and well‑defined policy enforcement points.\n  Contribute to the definition and implementation of agent\n  state and memory architectures (short‑/long‑term,\n  episodic, semantic) with strong PII‑minimization practices\n  and appropriate TTL strategies. - (20%)\n- Implement and refine ReAct, CoT, and ToT reasoning loops,\n  and help standardize their use across agent workflows.\n  Build offline and online evaluation signals using curated\n  golden datasets. Contribute to defining and implementing\n  agent‑to‑agent communication protocols using frameworks\n  like LangGraph, AutoGen, or CrewAI. - (15%)\n- Measure and improve agent decision reliability using tools\n  such as LangSmith, Arize Phoenix, and Weights & Biases.\n  Design deterministic tool‑chaining patterns with\n  appropriate fallbacks, and implement safeguards including\n  idempotency, retries, and circuit‑breaker logic.\n  Contribute to integrating grounding techniques to ensure\n  accurate and reliable agent behavior. - (15%)\n- Architect and implement safety controls such as scoped tool\n  access, allow/deny actions, validators, red‑team hooks,\n  and human‑escalation paths. Use AgentSpec to define and\n  apply Policy Enforcement Points (PEPs) that prevent\n  high‑risk or irreversible agent actions. - (15%)\n- Operate and scale production agentic AI platforms on\n  Kubernetes by defining agent‑centric SLOs, instrumenting\n  deep telemetry (reasoning quality, hallucination rates,\n  tool latency), and supporting on‑call through\n  agent‑assisted triage, automated rollback/roll‑forward,\n  and human‑gated controls. - (15%)\n- Establish enterprise safety guardrails, ethical guidelines,\n  and compliance standards to ensure agents operate within\n  legal, regulatory, and organizational boundaries,\n  especially in high‑risk or financial workflows. - (10%)\n- Partner with Product to shape AI strategy and agent user\n  experiences, and collaborate with data and backend teams\n  to ensure agents access high‑quality, real‑time data\n  across SQL systems, CRMs, SaaS platforms, APIs, and event\n  streams within existing architectures. - (5%)\n- Communicate complex agentic concepts—such as CoT, RAG, and\n  safety controls—to non‑technical stakeholders to build\n  trust and organizational readiness. Model resilience\n  around model failures and promote AI‑native engineering\n  practices, including prompt design and evaluation\n  techniques, across teams. - (5%)\n\nMinimum Qualifications\n\n- Bachelor’s Degree in Computer Science or related field of\n  study.\n- 12+ years of experience in Software Engineering including 2+\n  years in AI/ML, LLMs, agent-based systems or large-scale\n  distributed systems (e.g., LLM-powered applications,\n  LangChain, LangGraph, AutoGen) and 3+ years of experience\n  implementing IaC (Terraform or Ansible).\n\nPreferred Qualifications\n\n- Master’s Degree in Computer Science or related field of\n  study.\n- 15+ years of experience in Software Engineering including3+\n  years of experience in AI/ML, Generative AI, or agentic\n  systems (e.g., LLM-powered applications, LangChain,\n  LangGraph, AutoGen), 4+ years of experience in\n  Fintech/payments integrations; PCI and data protection\n  familiarity and 4+ years of experience in implementing IaC\n  (Terraform or Ansible).\n\nSkills\n\n- Agent Based Modeling\n- Amazon Web Services (AWS)\n- Datadog\n- OpenAI\n- Grafana\n- Graph Databases\n- Large Language Models (LLMs)\n- PostgreSQL\n- Prometheus (Software)\n- New Relic\n- Redis\n- Telemetry\n\nReports To: Director and above Direct Reports: 0 Work\nEnvironment\n\n- Normal office environment. (Remote or Hybrid), 3 to 4 days\n  per month are required in office if within 60 miles of a\n  Bread Financial location. On-call rotation to include\n  evenings or weekends.\n\nPhysical and Mental Requirements To perform this job\nsuccessfully, an individual must be able to perform each\nessential job function satisfactorily and meet the physical,\nmental and work environment requirements. Reasonable\naccommodations may be made to enable qualified individuals\nwith disabilities to perform essential job functions, absent\nundue hardship.\n\n- Communicate/Hearing\n- Communicate/Talking\n- Typing/Writing\n\nOther Duties\n\nThis job description is illustrative of the types of duties\ntypically performed by this job. It is not intended to be an\nexhaustive listing of each and every essential function of\nthe job. Because job content may change from time to time,\nthe Company reserves the right to add and/or delete\nessential functions from this job at any time.\n\nSalary Range (unless otherwise noted below):\n\n$155,600.00 - $333,300.00\n\nFull Salary Range for position:\n\nCalifornia: $178,900.00 - $416,600.00Colorado: $155,600.00 -\n$349,900.00New York: $171,100.00 - $416,600.00Washington:\n$163,300.00 - $383,300.00Maryland: $163,300.00 -\n$366,600.00Washington DC: $178,900.00 - $383,300.00Illinois:\n$155,600.00 - $366,600.00New Jersey: $178,900.00 -\n$383,300.00Vermont: $155,600.00 - $333,300.00Ohio:\n$155,600.00 - $333,300.00\n\nThe actual base pay within this range may be dependent upon\nmany factors, which may include, but are not limited to,\nwork location, education, experience, and skills.\n\nBread Financial offers medical, prescription drug, dental,\nvision, and other voluntary benefits (including basic and\noptional life insurance, supplemental medical plans, and\nshort and long-term disability) to eligible associates\n(regular full-time associates scheduled to work 30 hours per\nweek or more) and their spouses/domestic partners, and\nchild(ren) under the age of 26.  New associate elected\ncoverage begins on date of hire (with the exception of\ndisability coverage which has a 6-month waiting period).\nSix weeks of 100% paid parental leave for eligible parents\nis available after a 180-day waiting period.   Hired\nassociates can immediately enroll in Bread Financial’s\n401(k) plan.\n\nAll associates receive 11 paid holidays. Associates have\ndiscretion in managing their time away from work through the\nFlexible Time Off (FTO) program and may need to notify and\nreceive approval from their manager prior to taking the time\noff. Associates (except those located in Illinois) receive\n80 hours of Paid Sick and Safe Time (“PSST”) upon hire and\nat the beginning of each subsequent calendar year. Illinois\nassociates receive 40 hours of Illinois PSST upon hire and\nat the beginning of each subsequent calendar year and 40\nhours of Illinois Paid Leave upon hire and at the beginning\nof each subsequent calendar year. Illinois Paid Leave must\nbe used before associates in Illinois will be approved to\ntake FTO.\n\nHired associates will be able to elect the purchase company\nstock during offering periods in June and December. You will\nbe eligible for an annual incentive bonus based on\nindividual and company performance.\n\nClick here for more Benefits information.\n\nAbout Bread Financial®\n\nAt Bread Financial, you’ll have the opportunity to grow your\ncareer, give back to your community, and be part of our\naward-winning culture. We’ve been consistently recognized as\na best place to work nationally and in many markets and\nwe’re proud to promote an environment where you feel\nappreciated, accepted, valued, and fulfilled—both personally\nand professionally. Bread Financial supports the overall\nwellness of our associates with a diverse suite of benefits\nand offers boundless opportunities for career development\nand non-traditional career progression.\n\nBread Financial® (NYSE: BFH) is a tech-forward financial\nservices company that provides simple, personalized payment,\nlending and saving solutions to millions of U.S.\nconsumers. Our payment solutions deliver growth for some of\nthe most recognized brands in travel & entertainment, health\n& beauty, technology, electronics, jewelry, home and\nspecialty apparel through our co-brand and private label\ncredit cards and pay-over-time products providing choice and\nvalue to our shared customers. Additionally, we offer Bread\nFinancial general purpose credit cards and saving products\nthat empower our customers and their passions for a better\nlife.\n\nBread Financial proudly marks 30 years of success in 2026.\nTo learn more about our global associates, our performance\nand our sustainability progress, visit breadfinancial.com or\nfollow us on Instagram and LinkedIn.\n\n- Bread Financial offers competitive pay, a comprehensive\n  selection of benefit options including 401(k).\n- The Company is an Equal Opportunity Employer.\n- Any applicant offered employment will be required to\n  establish that they are legally authorized to work in the\n  United States for the Company.\n- The Company participates in E-Verify.\n- The Company will consider for employment all qualified\n  applicants, including those with a criminal history, in a\n  manner consistent with the requirements of all applicable\n  federal, state, and local laws, including the Los Angeles\n  Fair Chance Initiative for Hiring Ordinance, the San\n  Francisco Fair Chance Ordinance, and the New York City\n  Fair Chance Act.  Applicants with criminal histories are\n  encouraged to apply.\n- The Company complies with the Americans with Disabilities\n  Act (ADA), as amended, and all applicable state/local\n  laws.  The Company will provide accommodations to\n  applicants needing accommodations to complete the\n  application process. Applicants with disabilities may\n  contact the Company to request and arrange for\n  accommodations.  If you need assistance to accommodate a\n  disability, you may request an accommodation at any time.\n  Please contact the Recruiting Team at\n  TaOps@breadfinancial.com.\n\nJob Family:\n\nInformation Technology\n\nJob Type:\n\nRegular\n",
+  "skills_required": [
+    "Agent-based systems",
+    "AutoGen",
+    "Chain-of-Thought (CoT)",
+    "CrewAI",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "OpenAI",
+    "Prompt engineering",
+    "RAG",
+    "ReAct reasoning",
+    "Tree-of-Thought (ToT)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and enhance multi-agent frameworks and LLM-powered autonomous systems using goal schemas, planner-executor patterns, and policy enforcement points, including agent state and memory architectures",
+    "Implement and refine ReAct, CoT, and ToT reasoning loops and standardize their use across agent workflows, including agent-to-agent communication protocols using LangGraph, AutoGen, or CrewAI",
+    "Measure and improve agent decision reliability using observability tools, design deterministic tool-chaining patterns with fallbacks, and implement safeguards including idempotency, retries, and circuit-breaker logic",
+    "Architect and implement safety controls including scoped tool access, allow/deny actions, validators, red-team hooks, and human-escalation paths using AgentSpec for Policy Enforcement Points",
+    "Operate and scale production agentic AI platforms on Kubernetes with agent-centric SLOs, deep telemetry instrumentation, and on-call support including automated rollback/roll-forward",
+    "Establish enterprise safety guardrails, ethical guidelines, and compliance standards for agents in financial workflows",
+    "Partner with Product to shape AI strategy and collaborate with data and backend teams to ensure agents access high-quality real-time data across SQL systems, CRMs, SaaS platforms, APIs, and event streams",
+    "Mentor engineers and communicate complex agentic concepts to non-technical stakeholders to build trust and organizational readiness"
+  ],
+  "use_cases": [
+    "Multi-agent workflows for financial classification, routing, and decisioning",
+    "Anomaly detection and reconciliation in financial transactions",
+    "Autonomous agent systems with policy enforcement for compliance in fintech",
+    "Agent-assisted triage and incident management for production systems",
+    "Enterprise-safe LLM-powered automation with PII minimization for financial services"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ansible",
+    "Arize Phoenix",
+    "Datadog",
+    "Grafana",
+    "Graph Databases",
+    "Kubernetes",
+    "LangSmith",
+    "New Relic",
+    "PostgreSQL",
+    "Prometheus",
+    "Redis",
+    "Terraform",
+    "Weights & Biases"
+  ],
+  "frameworks_mentioned": [
+    "Agent-based systems",
+    "AutoGen",
+    "Chain-of-Thought (CoT)",
+    "CrewAI",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "OpenAI",
+    "Prompt engineering",
+    "RAG",
+    "ReAct reasoning",
+    "Tree-of-Thought (ToT)"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building, designing, and deploying\nagentic AI systems — including multi-agent frameworks, agent\nruntimes, reasoning loops (ReAct, CoT, ToT), RAG memory\nintegration, and production agent platforms. The engineer is\nhands-on with LLM-powered autonomous systems, not just\nsupporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "AutoGen",
+      "CrewAI",
+      "LangChain",
+      "ReAct reasoning",
+      "Chain-of-Thought (CoT)",
+      "Tree-of-Thought (ToT)",
+      "RAG",
+      "Prompt engineering",
+      "LLMs",
+      "OpenAI",
+      "Agent-based systems"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "PostgreSQL",
+      "Redis",
+      "Graph Databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "LangSmith",
+      "Arize Phoenix",
+      "Weights & Biases",
+      "Kubernetes",
+      "Terraform",
+      "Ansible",
+      "Datadog",
+      "Grafana",
+      "Prometheus",
+      "New Relic"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

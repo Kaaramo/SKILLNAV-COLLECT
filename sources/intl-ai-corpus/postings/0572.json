@@ -1,0 +1,97 @@
+{
+  "job_id": "intl-ai-corpus-0572",
+  "source": "intl-ai-corpus",
+  "source_ref": "8254956",
+  "source_url": "https://builtin.com/job/ai-software-engineer-c/8254956",
+  "title": "AI Software Engineer (C#)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "G2i",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "201 Employees",
+  "company_stage": null,
+  "company_focus": "Code evaluation and LLM training services",
+  "industries": [
+    "HR Tech",
+    "Other",
+    "Professional Services"
+  ],
+  "description": "Software Engineer, AI — Code Evaluation & Training (Remote)\n\nList of accepted countries and locations\n\nHelp train large-language models (LLMs) to write production-\ngrade code across a wide range of programming languages:\n\n- Compare & rank multiple code snippets, explaining which is\n  best and why.\n- Repair & refactor AI-generated code for correctness,\n  efficiency, and style.\n- Inject feedback (ratings, edits, test results) into the RLHF\n  pipeline and keep it running smoothly.End result: the\n  model learns to propose, critique, and improve code the\n  way you do.\n\nRLHF in one line Generate code ➜ expert engineers rank,\nedit, and justify ➜ convert that feedback into reward\nsignals ➜ reinforcement learning tunes the model toward code\nyou’d actually ship.\n\nWhat You’ll Need\n\n- 3+ years of professional software engineering experience in\n  C#(Constraint programming experience is a bonus, but not\n  required)\n- Strong code-review instincts—you can spot logic errors,\n  performance traps, and security issues quickly.\n- Extreme attention to detail and excellent written\n  communication skills.Much of this role involves explaining\n  why one approach is better than another. This cannot be\n  overstated.\n- You enjoy reading documentation and language specs and\n  thrive in an asynchronous, low-oversight environment.\n\nWhat You Don’t Need\n\n- No prior RLHF (Reinforcement Learning with Human Feedback)\n  or AI training experience.\n- No deep machine learning knowledge. If you can review and\n  critique code clearly, we’ll teach you the rest.\n\nTech Stack\n\nWe are looking for engineers with a strong command of C#.\n\nLogistics\n\n- Location: Fully remote — work from anywhere\n- Compensation: From $30/hr to $70/hr, depending on location\n  and seniority\n- Hours: Minimum 15 hrs/week, up to 40 hrs/week available\n- Engagement: 1099 contract\n\nStraightforward impact, zero fluff. If this sounds like a\nfit, apply here!\n",
+  "skills_required": [
+    "LLMs",
+    "RLHF",
+    "code review",
+    "constraint programming",
+    "reinforcement learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Compare and rank multiple code snippets to identify best practices and provide justifications",
+    "Repair and refactor AI-generated code for correctness, efficiency, and style",
+    "Inject feedback including ratings, edits, and test results into the RLHF pipeline",
+    "Convert expert code review feedback into reward signals for reinforcement learning model tuning",
+    "Participate in training LLMs to write production-grade code across programming languages"
+  ],
+  "use_cases": [
+    "Training large language models to generate production-grade code",
+    "Improving AI code generation through RLHF with human expert feedback",
+    "Developing models that can propose, critique, and improve code automatically"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "LLMs",
+    "RLHF",
+    "reinforcement learning"
+  ],
+  "languages_programming": [
+    "C#"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work training and improving LLMs\nthrough RLHF, including ranking, editing, and providing\nfeedback on AI-generated code. The engineer directly\nparticipates in the model improvement pipeline by converting\ntheir expertise into reward signals for reinforcement\nlearning tuning.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RLHF",
+      "LLMs"
+    ],
+    "ml": [
+      "reinforcement learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "C#"
+    ],
+    "domains": [],
+    "other": [
+      "code review",
+      "constraint programming"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

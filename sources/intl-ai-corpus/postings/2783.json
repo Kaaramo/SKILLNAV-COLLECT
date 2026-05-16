@@ -1,0 +1,118 @@
+{
+  "job_id": "intl-ai-corpus-2783",
+  "source": "intl-ai-corpus",
+  "source_ref": "9009587",
+  "source_url": "https://builtin.com/job/ai-engineer/9009587",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "ReadMe",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-10",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "71 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Developer documentation and API experience platform",
+  "industries": [],
+  "description": "📍 Locations: San Francisco (Hybrid), New York (Hybrid),\nColumbus (Hybrid), or Remote (US)\n\nWe’re hiring an AI Engineer to shape how AI shows up across\nReadMe’s product: from how developers explore and understand\nAPIs to how companies author and maintain their\ndocumentation.\n\nWe’re at the forefront of a major shift in developer\nexperience:\n\n- AI agents need APIs to talk to each other, and those APIs\n  need to be understandable, structured, and explorable\n- At the same time, writers and developers are looking for\n  better ways to generate and maintain documentation with AI\n\nWe're a small team of humans (and one owl) working together\nto do big things — and that’s where you come in. In this\nrole you’ll have a transformational impact on ReadMe across\nboth the trajectory of the business and our thriving\nculture.\n\n🦉 What we do\n\nReadMe helps more than 5,000 leading startups and tech\ncompanies build beautiful, personalized, and interactive\ndeveloper hubs. If you’ve ever visited the developer docs\nfor PagerDuty, Samsara, or Nvidia, you’ve used ReadMe!\n\nWe love what we do because it’s so much more than just\ndocumentation. We’re providing tools for teams to build a\nbetter developer experience and make their products and APIs\neasier to use. We’ve got great support from our investors at\nAccel who led our Series A, and our interview process\nreflects the open, caring, and whimsical culture we want to\nmaintain as we scale.\n\n✅ What you’ll do here\n\nThis isn’t a feature team where a PM hands you tickets.\nYou’ll help decide what gets built, why it matters, and how\nit works end-to-end. You’ll work on systems that are already\nlive across thousands of developer hubs and define what they\nbecome next.\n\nReadMe's AI surface spans three bets we're doubling down on:\n\n- Documentation that writes itself. AI that watches code\n  change and keeps docs current — from PR-level suggestions\n  to org-wide audits that surface and fix quality issues at\n  scale.\n- Answers, not search results. A conversational layer embedded\n  directly in developer hubs, grounded in real docs, that\n  gives developers the right answer instead of a list of\n  links to dig through.\n- APIs that are agent-ready. As AI agents increasingly talk to\n  APIs, the structure and clarity of those specs matters\n  more than ever. We're building the systems that make APIs\n  understandable by both humans and machines.\n\nDay to day, you’ll:\n\n- Design end-to-end AI systems: combining LLMs, embeddings,\n  retrieval pipelines, and structured outputs into reliable\n  product features.\n- Build grounding and retrieval layers: indexing docs, OpenAPI\n  specs, and customer data to support accurate, context-\n  aware generation.\n- Define evaluation systems: measuring accuracy, latency,\n  cost, and user impact; building feedback loops to\n  continuously improve quality.\n- Handle real-world complexity: malformed specs, inconsistent\n  docs, edge-case APIs, and ambiguous user queries.\n- Make architectural tradeoffs: latency vs. quality, cost vs.\n  coverage, deterministic vs. generative approaches.\n- Own production reliability: observability, fallbacks, rate\n  limiting, and safe degradation when systems fail.\n- Work across the stack: from model orchestration and backend\n  systems to the UI surfaces that expose them.\n\n💙 You'll love this job if you...\n\n- Want to own meaningful systems end-to-end, not just\n  features.\n- Care deeply about developer experience and documentation\n  quality.\n- Enjoy working on problems where AI, APIs, and product design\n  intersect.\n- Have strong instincts about what makes AI actually useful\n  and where the industry is headed.\n\n️ ⭐️ This role is a great fit if you have...\n\n- Experience building with LLMs in production, not just\n  prototypes.\n- Strong JavaScript/TypeScript or Python experience.\n- Experience working with:\n  - Embeddings and retrieval systems (RAG).\n  - Prompting and structured outputs.\n  - Evaluation and iteration of AI systems (quality, latency,\n    cost).\n- Comfort working with APIs and structured data (JSON,\n  OpenAPI, schemas).\n- Experience designing and shipping end-to-end systems, from\n  backend pipelines to user-facing product surfaces.\n- Strong instincts around when to use AI vs. deterministic\n  approaches.\n- Experience improving AI reliability, observability, and\n  production readiness.\n- Familiarity with real-world edge cases (messy data,\n  inconsistent inputs, ambiguous queries) and how to handle\n  them.\n\n🌱 How you'll grow within one month...\n\n- Build a deep understanding of ReadMe’s AI systems and\n  product surfaces.\n- Ship meaningful improvements to existing AI features.\n- Get close to real customer workflows and pain points.\n\n🪴 Within a few months, you'll...\n\n- Own a core part of one of our AI systems.\n- Drive improvements in quality, reliability, and user\n  experience.\n- Contribute to product and technical direction.\n\n🌳 Within your first year, you'll...\n\n- Be a key driver of AI across the product.\n- Ship systems used daily by thousands of developers and\n  teams.\n- Help define how AI reshapes developer hubs and API\n  workflows.\n\n🛣️ What's the hiring process like?\n\n- We can’t wait to read your resume and (hopefully\n  personality-filled) cover letter! Let us know what excites\n  you about full stack engineering, and help us get to know\n  you better!\n- If we think we might be a good fit for you, we’ll set up a\n  30 minute Zoom call with our VP Engineering Moses! He’ll\n  tell you more about the role, and get a chance to hear\n  about your experiences.\n- Next will be a second 30 minute Zoom interview with Davin,\n  one of our Engineering Managers, where we’ll dive a bit\n  more into your background.\n- We’ll then do a technical assessment with a couple of ReadMe\n  engineers.\n- Finally we’ll invite you to an \"onsite\" interview conducted\n  over Zoom! These usually take 3.5 to 5 hours including an\n  hour break in between. We are able to be flexible with the\n  schedule and split it up over two days if that works best\n  for you! We start with a 15-minute get-to-know-you with\n  the people you’ll be interviewing with, and then have you\n  talk with people one-on-one later on.\n- We’ll let you know how things went within a week! If it\n  still seems like a good fit all around, we’ll extend you\n  an offer! If not, we will update you to let you know so\n  you aren’t left hanging.\n\n✨ Our benefits include…\n\n- Unlimited PTO with a three-week minimum. 🏝️\n- Fully covered medical, dental, and vision insurance for you,\n  and 100% for your dependents.\n- A One Medical membership. 👨‍⚕️\n- A gym or fitness stipend of up to $150 per month. 🏋️‍♀️\n- One-to-one donation matching of up to $1,000 per year. 💸\n- Twelve weeks of paid parental leave after the birth or\n  adoption of a child. 🐣\n- Work from home. 🏠\n- Three offsite retreats per year to get together with\n  coworkers and plan for the quarter ahead. ✈️\n- Take a look at our handbook for more information on our\n  benefits! 📘\n\nNot sure if you’d be the right fit? Apply anyway! We’d love\nto see your application.\n\nAt ReadMe, we’re committed to cultivating a diverse and\ninclusive workplace. We welcome people of all different\nbackgrounds, experiences, abilities, and perspectives. We\nare an equal opportunity employer and a pleasant and\nsupportive place to work. We'd love to have you come join us\nhere! ReadMe is open to hiring folks fully remote in the US,\nhybrid, or in-person at our New York or San Francisco HQ.\n",
+  "skills_required": [
+    "Embeddings",
+    "LLMs",
+    "Prompt engineering",
+    "RAG",
+    "Structured outputs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design end-to-end AI systems combining LLMs, embeddings, retrieval pipelines, and structured outputs into reliable product features",
+    "Build grounding and retrieval layers indexing docs, OpenAPI specs, and customer data for context-aware generation",
+    "Define evaluation systems measuring accuracy, latency, cost, and user impact with feedback loops for continuous improvement",
+    "Handle real-world complexity including malformed specs, inconsistent docs, edge-case APIs, and ambiguous user queries",
+    "Make architectural tradeoffs between latency vs. quality, cost vs. coverage, and deterministic vs. generative approaches",
+    "Own production reliability including observability, fallbacks, rate limiting, and safe degradation",
+    "Work across the stack from model orchestration and backend systems to UI surfaces that expose AI features"
+  ],
+  "use_cases": [
+    "Auto-generated documentation that watches code changes and keeps docs current with PR-level suggestions and org-wide quality audits",
+    "Conversational answers embedded in developer hubs grounded in real documentation instead of search results",
+    "Making APIs agent-ready by building systems that make API specs understandable by both humans and AI agents",
+    "Developer experience improvement through AI-powered interactive documentation hubs"
+  ],
+  "tools_mentioned": [
+    "Evaluation systems",
+    "JSON",
+    "Observability",
+    "OpenAPI",
+    "Production reliability",
+    "REST APIs",
+    "Vector search"
+  ],
+  "frameworks_mentioned": [
+    "Embeddings",
+    "LLMs",
+    "Prompt engineering",
+    "RAG",
+    "Structured outputs"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building end-to-end AI systems\nusing LLMs, embeddings, retrieval pipelines, and structured\noutputs. The engineer will design and implement RAG systems,\nbuild grounding and retrieval layers, and own production AI\nfeatures — all hands-on work on AI/ML systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "Embeddings",
+      "Prompt engineering",
+      "Structured outputs"
+    ],
+    "ml": [],
+    "web": [
+      "OpenAPI",
+      "JSON",
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector search"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Evaluation systems",
+      "Observability",
+      "Production reliability"
+    ],
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

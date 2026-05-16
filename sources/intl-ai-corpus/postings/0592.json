@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-0592",
+  "source": "intl-ai-corpus",
+  "source_ref": "8271905",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/8271905",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Prokeep",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "62 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Order automation platform for distributors",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About Us\n\nProkeep is an Order Engine on a mission to empower\ndistributors to win by turning every customer interaction\ninto an order opportunity. Trusted by 8,000+ distributor\nlocations and 40,000+ users, Prokeep makes it easy for over\n3 million contractors, technicians, plumbers, electricians,\nmechanics, and other skilled professionals to order parts,\ntroubleshoot issues, and generally, get what they need and\nget on with their day.\n\nBuilt for the $100+ billion distribution market, Prokeep\neliminates missed opportunities caused by busy phone lines,\nscattered customer data, and passive sales habits. By\ncentralizing communication and enabling proactive outreach,\nwe help teams take more orders from any channel and get more\norders by driving demand—fueling growth, stronger\nrelationships, and greater impact across the supply chain.\n\nHaving recently secured a $25M Series A investment, we’re\npoised for rapid growth and innovation. If you're passionate\nabout tackling complex challenges in a collaborative, fast-\npaced environment while contributing to an often-overlooked\nyet vital sector of the economy, we’d love to have you on\nboard. Let’s shape the future together—one order at a time!\n\nProkeep Values\n\nBuild Together. – Collaboration, camaraderie, and customer-\nfocus are core to how we collectively work and win. Own It.\n– Persistence and personal growth drive the results - and\nthe rewards! - that we can all enjoy. Be Humble. Be Human. –\nRespect and authenticity allow us to build meaningful and\nlasting relationships. Have Fun! – Positivity, perseverance,\nand a bit of laughter all allow us to make an impact while\nenjoying the rollercoaster!\n\nYour Mission\n\nProkeep is building the future of order automation for\ndistributors, and we’re hiring a Senior / Staff AI Engineer\nto help integrate AI directly into our core product. This is\na high-impact role shaping AI strategy at a growing product\ncompany, with the opportunity to build and evolve AI-powered\ncapabilities that are central to how our customers work.\n\nYou’ll focus on applying modern LLMs and data-driven systems\nto deliver meaningful, customer-facing features—not training\ncustom models from scratch. You’ll play a key role in\nadvancing our Order Automation capabilities, defining how AI\nis used across the product, and partnering closely with\nEngineering and Product to turn ideas into production-ready\nsolutions.\n\nPrimary Responsibilities\n\n- Build, iterate, and scale AI-powered features using LLMs and\n  modern AI platforms, with a strong focus on application-\n  level integration\n- Help define and drive Prokeep’s AI strategy, including where\n  and how AI should be used across the product\n- Serve as an internal evangelist and subject-matter expert\n  for AI, helping teams understand capabilities, tradeoffs,\n  and best practices\n- Lead AI evaluation and testing efforts, owning not just the\n  AI engines but also the testing and evaluation frameworks\n  used to measure quality, reliability, and performance\n- Design and maintain internal tooling to support AI\n  development, experimentation, and evaluation\n- Partner with Product, Engineering, and Leadership to\n  identify high-impact opportunities where AI can improve\n  customer workflows\n- Make thoughtful decisions around model selection,\n  orchestration, prompting strategies, and cost/performance\n  tradeoffs\n- Work closely with our Data Engineer to ensure the right data\n  foundations exist to support AI features\n- Ensure AI systems are production-ready, observable, and\n  scalable\n- Improve systems already in flight while contributing to\n  greenfield initiatives—AI is not a silo here\n\nQualifications (About You)\n\n- 6+ years of experience building and shipping full-stack,\n  customer-facing applications\n- Hands-on experience building AI-powered application features\n  using LLMs (e.g., OpenAI, Anthropic, or similar)\n- Experience taking AI features from concept to production,\n  not just prototypes\n- Strong product and customer mindset—you think in workflows\n  and outcomes, not just models\n- Solid understanding of how data enables AI features,\n  including data quality, structure, and access\n- Comfortable operating in ambiguity, balancing\n  experimentation with delivery\n- Willingness to work in Elixir (primary backend); strong\n  experience with Python expected\n- Familiarity with React and PostgreSQL is a plus\n\nTech Stack\n\nElixir (backend), React (frontend), PostgreSQL, Python, LLM\nAPIs\n\nWhy Prokeep?\n\nAt Prokeep, we offer a dynamic, passionate, and\ncollaborative work environment where innovation thrives.\nHere’s what you can expect:\n\n- Competitive Compensation:Reflecting your expertise and\n  impact.\n- Equity Package: Your success is our success—share in the\n  growth you’ll help create.\n- Comprehensive Benefits: Health, dental, vision, life, short\n  & long-term disability, 401(k), and employee assistance\n  program (EAP).\n- Flexible PTO: Recharge and refocus with the flexibility to\n  manage your time with no preset limits\n- Continuous Growth: Yearly education stipend to support your\n  professional development.\n",
+  "skills_required": [
+    "LLM APIs",
+    "model orchestration",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build, iterate, and scale AI-powered features using LLMs and modern AI platforms with a strong focus on application-level integration",
+    "Help define and drive Prokeep's AI strategy, including where and how AI should be used across the product",
+    "Lead AI evaluation and testing efforts, owning the AI engines and testing frameworks to measure quality, reliability, and performance",
+    "Design and maintain internal tooling to support AI development, experimentation, and evaluation",
+    "Make thoughtful decisions around model selection, orchestration, prompting strategies, and cost/performance tradeoffs",
+    "Partner with Product, Engineering, and Leadership to identify high-impact opportunities where AI can improve customer workflows",
+    "Ensure AI systems are production-ready, observable, and scalable"
+  ],
+  "use_cases": [
+    "Automating order workflows for distributors",
+    "Enabling proactive customer outreach and communication",
+    "Turning customer interactions into order opportunities",
+    "Streamlining parts ordering for contractors and skilled professionals",
+    "Centralizing distributor communication channels"
+  ],
+  "tools_mentioned": [
+    "PostgreSQL",
+    "React",
+    "production systems"
+  ],
+  "frameworks_mentioned": [
+    "LLM APIs",
+    "model orchestration",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Elixir",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role focuses on building AI-powered features using LLMs,\nwith hands-on work on model selection, orchestration, and\nprompting strategies. The engineer is responsible for\nintegrating AI directly into the core product and taking AI\nfeatures from concept to production.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs",
+      "prompt engineering",
+      "model orchestration"
+    ],
+    "ml": [],
+    "web": [
+      "React"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "production systems"
+    ],
+    "languages": [
+      "Python",
+      "Elixir"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

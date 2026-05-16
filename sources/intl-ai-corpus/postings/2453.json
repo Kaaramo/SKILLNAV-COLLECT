@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-2453",
+  "source": "intl-ai-corpus",
+  "source_ref": "8899167",
+  "source_url": "https://www.builtinla.com/job/full-stack-engineer-ai-systems/8899167",
+  "title": "Full Stack Engineer, AI systems",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BJAK",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-29",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "unknown",
+  "company_focus": "Building proactive AI chat app for everyday users",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "About the Role\n\nA1 is building a proactive AI chat app for everyday users to\nbring intelligence to conversations, errands, organising and\nworkflows. Unlike traditional chat-based applications, our\nproduct focuses on achieving high reliability for long-\nrunning workflows, persistent context, and real-world task\ncompletion. The system must handle multi-step reasoning,\ninteract with external tools, and remain reliable despite\nnon-deterministic model behavior.\n\nWe are looking for a Full Stack Engineer - AI Systems to\nbuild the product layer that turns these capabilities into\nusable, production-grade workflows. This includes designing\nhow agents operate, fail, recover, and deliver consistent\nvalue to users.\n\nFocus\n\n- Build end-to-end product features across frontend, backend,\n  and AI integrations\n- Design agent workflows that handle planning, tool use,\n  failure, and recovery across multiple steps.\n- Integrate LLMs, memory, and external tools into systems that\n  behave reliably under real-world conditions\n- Design real-time AI interactions with streaming, partial\n  results, and tight latency constraints\n- Improve system reliability, observability, and fallback\n  mechanisms\n- Collaborate closely with ML, backend, and product teams to\n  ship features end-to-end\n- Continuously iterate based on real usage and failure modes\n\nIdeal Experiences\n\n- Strong experience in full stack engineering (frontend +\n  backend)\n- Solid understanding of system design and API architecture\n- Experience working with LLMs, RAG systems, or AI-powered\n  applications\n- Ability to handle ambiguity and make pragmatic engineering\n  decisions\n- Strong ownership - able to take features from idea to\n  production\n- Comfort working in fast-moving environments with evolving\n  requirements\n\nOutcomes\n\n- Own and ship AI-native product features that move beyond\n  chat into persistent, goal-driven workflows\n- Design and deploy agent workflows that reliably complete\n  multi-step tasks across tools and sessions\n- Reduce latency and improve responsiveness of AI interactions\n  while maintaining output quality\n- Build robust fallback and recovery mechanisms for LLM and\n  tool failures in production environments\n- Improve the success rate and reliability of AI-driven\n  workflows through iteration, evaluation, and monitoring\n- Establish patterns and abstractions for integrating LLMs,\n  memory, and external tools into scalable product systems\n- Contribute to a product experience where AI feels proactive,\n  consistent, and dependable over time\n\nTech Stack\n\n- Next.js\n- Python\n- NodeJs\n- Pytorch\n- OpenAI / Anthropic / open-source LLMs\n- SQl & noSQL\n- Kubernetes\n- Docker\n\nHow We Work\n\nThe best products today in the world were built by small,\nworld class teams. We are a high talent density and hands-on\nteam. We make decisions collectively, move at rapid speed,\nstriking a balance between shipping high quality work and\nlearning. Joining our team requires the ability to bring\nstructure, exercise judgment, and execute independently. Our\ngoal is to put in hands of our users a truly magical product\n\nInterview process\n\nIf there appears to be a fit, we'll reach to schedule 3, but\nno more than 4 interviews.\n\nApplications are evaluated by our technical team members.\nInterviews will be conducted via virtual meetings and/or\nonsite.\n\nWe value transparency and efficiency, so expect a prompt\ndecision. If you've demonstrated the exceptional skills and\nmindset we're looking for, we'll extend an offer to join us.\nThis isn't just a job offer; it's an invitation to be part\nof a team that's bringing AI to have practical benefits to\nbillions globally.\n",
+  "skills_required": [
+    "Anthropic API",
+    "LLM integration",
+    "OpenAI API",
+    "PyTorch",
+    "RAG",
+    "agent workflows",
+    "open-source LLMs",
+    "streaming",
+    "system design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build end-to-end product features across frontend, backend, and AI integrations",
+    "Design agent workflows that handle planning, tool use, failure, and recovery across multiple steps",
+    "Integrate LLMs, memory, and external tools into reliable production systems",
+    "Design real-time AI interactions with streaming, partial results, and tight latency constraints",
+    "Improve system reliability, observability, and fallback mechanisms",
+    "Collaborate with ML, backend, and product teams to ship features end-to-end",
+    "Continuously iterate based on real usage and failure modes"
+  ],
+  "use_cases": [
+    "Proactive AI chat app for everyday users",
+    "Long-running workflow automation with persistent context",
+    "Multi-step reasoning and real-world task completion",
+    "Agent-driven tool use for errands, organizing, and workflows",
+    "Reliable AI interactions despite non-deterministic model behavior"
+  ],
+  "tools_mentioned": [
+    "API architecture",
+    "Docker",
+    "Kubernetes",
+    "Next.js",
+    "NoSQL"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LLM integration",
+    "OpenAI API",
+    "PyTorch",
+    "RAG",
+    "agent workflows",
+    "open-source LLMs"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves designing and building agent\nworkflows, integrating LLMs, memory, and external tools, and\ndesigning real-time AI interactions with streaming. The\nengineer is building the product layer that operationalizes\nAI capabilities, including agent planning, tool use, failure\nrecovery, and LLM integration — making this hands-on AI\nsystem building.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "open-source LLMs",
+      "RAG",
+      "agent workflows",
+      "LLM integration"
+    ],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [
+      "Next.js",
+      "API architecture"
+    ],
+    "databases": [
+      "NoSQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Node.js",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "streaming",
+      "system design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,153 @@
+{
+  "job_id": "intl-ai-corpus-1347",
+  "source": "intl-ai-corpus",
+  "source_ref": "8409598",
+  "source_url": "https://builtin.com/job/principal-engineer/8409598",
+  "title": "Principal Engineer - Generative AI Infra Capabilities",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Wells Fargo",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "205,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global financial services and banking institution",
+  "industries": [
+    "Fintech",
+    "Financial Services"
+  ],
+  "description": "About this role: Wells Fargo is seeking a Principal Engineer\n- Generative Gen AI GPU Infrastructure Capabilities. In this\nrole, you will:\n\n- Act as an advisor to leadership to develop or influence\n  applications, network, information security, database,\n  operating systems, or web technologies for highly complex\n  business and technical needs across multiple groups\n- Lead the strategy and resolution of highly complex and\n  unique challenges requiring in-depth evaluation across\n  multiple areas or the enterprise, delivering solutions\n  that are long-term, large-scale and require vision,\n  creativity, innovation, advanced analytical and inductive\n  thinking\n- Translate advanced technology experience, an in-depth\n  knowledge of the organizations tactical and strategic\n  business objectives, the enterprise technological\n  environment, the organization structure, and strategic\n  technological opportunities and requirements into\n  technical engineering solutions\n- Provide vision, direction and expertise to leadership on\n  implementing innovative and significant business solutions\n- Maintain knowledge of industry best practices and new\n  technologies and recommends innovations that enhance\n  operations or provide a competitive advantage to the\n  organization\n- Strategically engage with all levels of professionals and\n  managers across the enterprise and serve as an expert\n  advisor to leadership\n\nRequired Qualifications:\n\n- 7+ years of Engineering experience, or equivalent\n  demonstrated through one or a combination of the\n  following: work experience, training, military experience,\n  education\n\nDesired Qualifications:\n\n- Design GPU cluster topologies (H100/H200, NVLink/NVSwitch),\n  networking, and storage paths for high-throughput\n  inferencing; document sizing and perf baselines.\n- Implement Run: AI constructs\n  (Collections/Departments/Projects/workloads) for\n  MDEV/MDEP/UCEP/MRM; codify quota, priority, and fair-share\n  policies.\n- POC & benchmark disaggregated inferencing (prefill/decode)\n  with vLLM/TensorRT-LLM; publish guidance for H100/H200\n  tuning (FP8/INT8/AWQ) and KV-transfer behavior over\n  NVLink.\n- Operationalize OpenShift AI parity for GPU scheduling, time\n  slicing/MIG profiles, and preemption; validate upgrade\n  paths and helm/kustomize packaging.\n- Integrate Triton Inference Server for multi-model serving;\n  standardize model repository structure, batching, dynamic\n  shapes, and telemetry hooks. (Supported broadly by\n  platform docs; add repo specifics when you share them.)\n- Harden NGDC environments with AVI/GSLB patterns\n  (Prod1/Prod2) and BCP; execute DR failover runbooks and\n  steady-state capacity planning.\n- Publish steady-state runbooks (deploy → certify → promote):\n  DEV → UAT → MDEP-Beta → MDEP-GA / UCEP; define promotion\n  criteria and risk exceptions.\n- Own endpoint product ionization via Apigee (AI\n  Gateway)-authN/Z, rate limiting, API SLAs,\n  versioning/deprecation and SDK generation for internal\n  consumers.\n- Embed observability/evaluations with Overwatch + Arize:\n  prompt/agent/tool tracing, SLO dashboards, alerting, and\n  data-retention/export workflows.\n- Automate CI/CD for infra and model artifacts: image scanning\n  (JFrog remote repo), chart releases, canaries, and\n  rollback plans across OCP/GKE.\n- Tune CUDA kernels/graph execution paths; profile NCCL\n  collectives; resolve performance bottlenecks (HBM\n  bandwidth, kernel fusion, p2p comms). (NCCL inferred per\n  assumption.)\n- Qualify LLM/SLM runtimes (Gemma, Llama, GPT-OSS, etc.) with\n  Run: AI scheduling; publish per-model recipes for\n  throughput, latency, cost and stability.\n- Define GPU estate hygiene: image provenance, secrets\n  handling, namespace/network policy baselines, and change\n  controls for upgrades (e.g., Run: AI v2.21+).\n- Partner with product/TPM/PO to align backlog to platform\n  milestones (OpenShift AI go-forward, SuperPOD activation\n  waves, endpoint rollouts).\n- Mentor engineers; lead deep-dive reviews and present in\n  exec/tech forums (CIO/ARB/offsites) with architecture\n  readouts, performance data, and risk mitigations.\n- NVIDIA & CUDA: CUDA/cuDNN usage, NVLink/NVSwitch\n  understanding, MIG setup, NCCL tuning, GPU profiling,\n  H100/H200 optimization. Optimize kernels and collectives,\n  choose MIG profiles, validate interconnect bandwidth and\n  NUMA/PCIe topology for LLM/SLM workloads.\n- LLM/SLM Runtimes: Work with vLLM, TensorRT-LLM, Triton;\n  apply FP8/INT4 quantization; tune KV-cache strategies.\n  Build POCs for disaggregated prefill/decode, standardize\n  Triton repos, and optimize batching.\n- Orchestration: Use Run: AI structures\n  (Collections/Departments/Projects), manage OCP/GKE\n  environments. Implement GPU allocation patterns, enforce\n  quotas, preemption, fair-share scheduling.\n- OpenShift AI: Configure RHOAI GPU scheduling and time\n  slicing, use helm/kustomize, validate upgrades. Achieve\n  platform parity, certify charts and policies, ensure\n  admission controls function reliably.\n- API & Gateway: Apply Apigee authN/Z, manage quotas, rate\n  limits, OpenAPI specs, SDK generation, SLA operations.\n  Productionize model endpoints, manage versioning and\n  deprecation, enforce gateway-level SLAs\n- Observability & Evaluation: Use Overwatch + Arize for\n  tracing and evals, define SLOs, alerts, retention/export\n  processes. Trace prompts/tools/agents, enforce data\n  retention, publish standardized dashboards.\n- CI/CD & Artifacts: Manage JFrog repos, image scanning, helm\n  releases, canary/rollback workflows. Standardize artifact\n  flow, automate safe promotions, ensure compliant releases.\n- Performance Engineering: Model throughput/latency, optimize\n  token/sec, batch shaping, cache policies. Produce per-\n  model performance recipes, tune cost/performance tradeoffs\n  for LLM/SLM.\n- Controls & SDLC: Apply JAD lite practices, manage change\n  controls, secrets hygiene, namespace/network policies.\n  Maintain compliance across GPU estate, ensure full\n  auditability and proper access boundaries.\n- Communication: Create executive-friendly narratives, write\n  architectures and runbooks, present in forums. Deliver\n  content in offsites/CIO forums, publish clear decision\n  memos.\n\nPosting End Date:  3 Mar 2026 *Job posting may come down\nearly due to volume of applicants. We Value Equal\nOpportunity Wells Fargo is an equal opportunity employer.\nAll qualified applicants will receive consideration for\nemployment without regard to race, color, religion, sex,\nsexual orientation, gender identity, national origin,\ndisability, status as a protected veteran, or any other\nlegally protected characteristic. Employees support our\nfocus on building strong customer relationships balanced\nwith a strong risk mitigating and compliance-driven culture\nwhich firmly establishes those disciplines as critical to\nthe success of our customers and company. They are\naccountable for execution of all applicable risk programs\n(Credit, Market, Financial Crimes, Operational, Regulatory\nCompliance), which includes effectively following and\nadhering to applicable Wells Fargo policies and procedures,\nappropriately fulfilling risk and compliance obligations,\ntimely and effective escalation and remediation of issues,\nand making sound risk decisions. There is emphasis on\nproactive monitoring, governance, risk identification and\nescalation, as well as making sound risk decisions\ncommensurate with the business unit's risk appetite and all\nrisk and compliance program requirements. Candidates\napplying to job openings posted in Canada: Applications for\nemployment are encouraged from all qualified candidates,\nincluding women, persons with disabilities, aboriginal\npeoples and visible minorities. Accommodation for applicants\nwith disabilities is available upon request in connection\nwith the recruitment process. Applicants with Disabilities\nTo request a medical accommodation during the application or\ninterview process, visit Disability Inclusion at Wells Fargo\n. Drug and Alcohol Policy Wells Fargo maintains a drug free\nworkplace. Please see our Drug and Alcohol Policy to learn\nmore. Wells Fargo Recruitment and Hiring Requirements: a.\nThird-Party recordings are prohibited unless authorized by\nWells Fargo. b. Wells Fargo requires you to directly\nrepresent your own experiences during the recruiting and\nhiring process.\n",
+  "skills_required": [
+    "AWQ quantization",
+    "CUDA",
+    "FP8 quantization",
+    "INT4 quantization",
+    "KV-cache optimization",
+    "LLM",
+    "NCCL",
+    "NVIDIA",
+    "SLM",
+    "cuDNN"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design GPU cluster topologies for H100/H200 clusters with NVLink/NVSwitch for high-throughput LLM inferencing",
+    "Implement Run: AI orchestration constructs for GPU scheduling, quotas, and fair-share policies across MDEV/MDEP/UCEP/MRM environments",
+    "POC and benchmark disaggregated inferencing with vLLM/TensorRT-LLM, publish tuning guidance for H100/H200 (FP8/INT8/AWQ)",
+    "Operationalize OpenShift AI for GPU scheduling, time slicing, MIG profiles, and helm/kustomize packaging",
+    "Integrate Triton Inference Server for multi-model serving with standardized repositories and telemetry",
+    "Productionize model endpoints via Apigee AI Gateway with authN/Z, rate limiting, and SLA management",
+    "Embed observability with Arize for prompt/agent/tool tracing, SLO dashboards, and alerting",
+    "Tune CUDA kernels and NCCL collectives, resolve GPU performance bottlenecks for LLM/SLM workloads"
+  ],
+  "use_cases": [
+    "High-throughput LLM/SLM inferencing infrastructure for enterprise workloads",
+    "Multi-model serving platform with standardized deployment and monitoring",
+    "GPU cluster optimization and resource scheduling for AI workloads",
+    "Production AI endpoint management with API gateway and SLA enforcement",
+    "Observability and evaluation for AI systems with prompt/agent tracing"
+  ],
+  "tools_mentioned": [
+    "Apigee",
+    "Arize",
+    "GKE",
+    "H100/H200",
+    "Helm",
+    "JFrog",
+    "Kubernetes",
+    "Kustomize",
+    "MIG",
+    "NVLink",
+    "NVSwitch",
+    "OpenShift AI",
+    "Run: AI",
+    "TensorRT-LLM",
+    "Triton Inference Server",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "AWQ quantization",
+    "CUDA",
+    "FP8 quantization",
+    "INT4 quantization",
+    "KV-cache optimization",
+    "LLM",
+    "NCCL",
+    "NVIDIA",
+    "SLM",
+    "cuDNN"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work with LLM/SLM deployment and\noptimization - building GPU infrastructure specifically for\nGenAI workloads, implementing vLLM/TensorRT-LLM, Triton\nInference Server, CUDA kernel tuning, and productionizing\nmodel endpoints. The work is directly ON AI systems\n(inference infrastructure, model serving, optimization)\nrather than supporting infrastructure for others' AI work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM",
+      "SLM"
+    ],
+    "ml": [
+      "CUDA",
+      "cuDNN",
+      "NCCL",
+      "FP8 quantization",
+      "INT4 quantization",
+      "AWQ quantization",
+      "KV-cache optimization",
+      "NVIDIA"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "OpenShift AI",
+      "Apigee",
+      "GKE"
+    ],
+    "ops": [
+      "NVLink",
+      "NVSwitch",
+      "MIG",
+      "H100/H200",
+      "vLLM",
+      "TensorRT-LLM",
+      "Triton Inference Server",
+      "Run: AI",
+      "Kubernetes",
+      "Helm",
+      "Kustomize",
+      "Arize",
+      "JFrog"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

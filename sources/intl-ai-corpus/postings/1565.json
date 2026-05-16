@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-1565",
+  "source": "intl-ai-corpus",
+  "source_ref": "8523179",
+  "source_url": "https://builtin.com/job/systems-software-engineer-ai-infrastructure/8523179",
+  "title": "Systems Software Engineer, AI Infrastructure",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NVIDIA",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-19",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21,960 Employees",
+  "company_stage": "Public",
+  "company_focus": "GPU computing and AI hardware",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Hardware",
+    "Robotics",
+    "Metaverse"
+  ],
+  "description": "NVIDIA has been transforming computer graphics, PC gaming,\nand accelerated computing for more than 25 years. It’s a\nunique legacy of innovation that’s fueled by great\ntechnology—and amazing people. Today, we’re tapping into the\nunlimited potential of AI to define the next era of\ncomputing. An era in which our GPU acts as the brains of\ncomputers, robots, and self-driving cars that can understand\nthe world. Doing what’s never been done before takes vision,\ninnovation, and the world’s best talent. As an NVIDIAN,\nyou’ll be immersed in a diverse, supportive environment\nwhere everyone is inspired to do their best work. Come join\nthe team and see how you can make a lasting impact on the\nworld.\n\nNVIDIA is widely considered to be one of the technology\nworld’s most desirable employers. We have some of the most\nforward-thinking and hardworking people in the world working\nfor us. If you're creative and autonomous and interested in\nAI Infrastructure, we want to hear from you!\n\n\nWhat You Will Be Doing:\n\n- Develop and maintain large-scale systems supporting critical\n  use-cases including frontier model training for AI\n  Infrastructure, driving reliability, operability, and\n  scalability across global public and private clouds.\n- Collaborate on tooling for HPC, GPU Training, and AI Model\n  training workflows.\n- Build tools and frameworks to improve observability, define\n  actionable reliability metrics, and enable fast issue\n  resolution, driving continuous improvement in system\n  performance.\n- Establish frameworks for operational maturity, lead\n  sustainable incident response protocols, and conduct\n  blameless postmortems to improve team efficiency and\n  system resilience.\n- Implement SRE fundamentals, including incident management,\n  monitoring, and performance optimization, while designing\n  automation tools to reduce manual processes and\n  operational overhead.\n- Work with engineering teams to deliver innovative solutions,\n  uphold high standards for code and infrastructure, and\n  contribute to hiring for a diverse, high-performing team.\n\nWhat We Need to See:\n\n- Degree in Computer Science or related field, or equivalent\n  experience with 5+ years in Software Development, SRE, or\n  Production Engineering.\n- Proficiency in Python and at least one other language\n  (C/C++, Go, Perl, Ruby).\n- Expertise in systems engineering within Linux or Windows\n  environments and cloud platforms (AWS, Azure, GCP, or\n  OCI).\n- Strong understanding of SRE principles, including error\n  budgets, SLOs, SLAs, and Infrastructure as Code tools\n  (e.g., Terraform CDK).\n- Hands-on experience with observability platforms (e.g., ELK,\n  Prometheus, Loki) and CI/CD systems (e.g., GitLab).\n- Strong communication skills with the ability to convey\n  technical concepts effectively to diverse audiences.\n- Commitment to fostering a culture of diversity, curiosity,\n  and continuous improvement.\n\nWays to stand out from the crowd:\n\n- Experience in AI training, inferencing, and data\n  infrastructure services.\n- Proficiency in deep learning frameworks like PyTorch,\n  TensorFlow, JAX, and Ray.\n- A strong background in cloud or hardware health monitoring\n  and system reliability.\n- Hands-on expertise in operating and scaling distributed\n  systems with stringent SLAs, ensuring high availability\n  and performance.\n- Knowledge of incident, change, and problem management\n  processes, fostering continuous improvement in\n  sophisticated environments.\n\nWidely considered to be one of the technology world’s most\ndesirable employers, NVIDIA offers highly competitive\nsalaries and a comprehensive benefits package. As you plan\nyour future, see what we can offer to you and your family\nwww.nvidiabenefits.com/\n",
+  "skills_required": [
+    "JAX",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and maintain large-scale systems supporting frontier model training for AI Infrastructure across global public and private clouds",
+    "Collaborate on tooling for HPC, GPU Training, and AI Model training workflows",
+    "Build tools and frameworks to improve observability, define actionable reliability metrics, and enable fast issue resolution",
+    "Establish frameworks for operational maturity, lead sustainable incident response protocols, and conduct blameless postmortems",
+    "Implement SRE fundamentals including incident management, monitoring, and performance optimization with automation tools",
+    "Work with engineering teams to deliver innovative solutions, uphold high standards for code and infrastructure, and contribute to hiring"
+  ],
+  "use_cases": [
+    "Frontier model training infrastructure at scale",
+    "HPC and GPU training workflow support",
+    "AI model training observability and reliability monitoring",
+    "Distributed systems operations with high availability requirements",
+    "Cloud-based AI infrastructure management across multiple providers"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "ELK",
+    "GCP",
+    "GitLab",
+    "Linux",
+    "Loki",
+    "OCI",
+    "Prometheus",
+    "Ray",
+    "SLAs",
+    "SLOs",
+    "SRE",
+    "Terraform CDK",
+    "Windows"
+  ],
+  "frameworks_mentioned": [
+    "JAX",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "C++",
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Systems Software Engineer role focused on AI\ninfrastructure and SRE fundamentals. The role builds\ntooling, frameworks, and observability systems that support\nAI training workflows, but does not involve building,\ntraining, or deploying ML models directly. It enables AI\nwork through infrastructure and platform support rather than\nhands-on model development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "JAX"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Ray"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "OCI"
+    ],
+    "ops": [
+      "Linux",
+      "Windows",
+      "SRE",
+      "SLOs",
+      "SLAs",
+      "Terraform CDK",
+      "ELK",
+      "Prometheus",
+      "Loki",
+      "GitLab"
+    ],
+    "languages": [
+      "Python",
+      "C++",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

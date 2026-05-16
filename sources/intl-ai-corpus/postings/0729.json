@@ -1,0 +1,114 @@
+{
+  "job_id": "intl-ai-corpus-0729",
+  "source": "intl-ai-corpus",
+  "source_ref": "4796786",
+  "source_url": "https://builtin.com/job/quantitative-researcher-nlp/4796786",
+  "title": "NLP / AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Point72",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-07",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,691 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global asset management and investment firm",
+  "industries": [],
+  "description": "Role/Responsibilities:\n\nWe are seeking a NLP engineer for a NLP research team within\nPoint72. The ideal candidate has a track record of\ndeveloping modern NLP solutions, including the use of LLMs,\nagents, RAG, open-source models fine-tuning and deployment,\netc.\n\nResponsibilities include:\n\n- Exploring and combining rich internal and external textual\n  datasets\n- Building GenAI solutions, leveraging both internal models\n  and external APIs\n- Formulating research hypothesis to derive alpha\n- Post-training models for specific tasks\n- Benchmarking LLM approaches internal tasks\n\nWe believe the investment world offers unique opportunities\nto use modern NLP methods. We are a team ideally situated\nfor that, having access to both internal and commercial\ndatasets, with an end-to-end research philosophy and direct\nportfolio impact.\n\nRequirements:\n\n- Bachelor, Master’s or PhD graduate or candidate in computer\n  science or another quantitative discipline\n- Experience in NLP, particularly LLMs.\n- Proficient in Python, SQL and general software engineering\n  principles (github, testing, etc.)\n- Data science stack familiarity\n- Interest in financial markets\n- Collaborative mindset\n\nAbout Point72:\n\nPoint72 Asset Management is a global firm led by Steven\nCohen that invests in multiple asset classes and strategies\nworldwide. Resting on more than a quarter-century of\ninvesting experience, we seek to be the industry’s premier\nasset manager through delivering superior risk-adjusted\nreturns, adhering to the highest ethical standards, and\noffering the greatest opportunities to the industry’s\nbrightest talent.  We’re inventing the future of finance by\nrevolutionizing how we develop our people and how we use\ndata to shape our thinking. For more information, visit\nwww.Point72.com/working-here.\n",
+  "skills_required": [
+    "LLMs",
+    "RAG",
+    "agents",
+    "benchmarking",
+    "fine-tuning",
+    "post-training"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Exploring and combining rich internal and external textual datasets",
+    "Building GenAI solutions, leveraging both internal models and external APIs",
+    "Formulating research hypothesis to derive alpha",
+    "Post-training models for specific tasks",
+    "Benchmarking LLM approaches on internal tasks"
+  ],
+  "use_cases": [
+    "Quantitative finance and alpha generation",
+    "Analysis of financial textual data and datasets",
+    "Natural language processing for investment research",
+    "GenAI-powered solutions for financial decision making"
+  ],
+  "tools_mentioned": [
+    "GitHub",
+    "data science stack",
+    "model deployment",
+    "testing"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "RAG",
+    "agents",
+    "benchmarking",
+    "fine-tuning",
+    "post-training"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role involves building GenAI solutions, post-training\nmodels, fine-tuning and deploying LLMs, implementing RAG and\nagents. This is direct hands-on work with AI/ML models\nrather than supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "agents"
+    ],
+    "ml": [
+      "fine-tuning",
+      "post-training",
+      "benchmarking"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "data science stack"
+    ],
+    "cloud": [],
+    "ops": [
+      "model deployment",
+      "GitHub",
+      "testing"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

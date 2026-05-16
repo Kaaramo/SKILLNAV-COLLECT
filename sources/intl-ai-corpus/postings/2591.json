@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-2591",
+  "source": "intl-ai-corpus",
+  "source_ref": "8921898",
+  "source_url": "https://builtin.com/job/software-engineer-ai/8921898",
+  "title": "Software Engineer - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "G-Research",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-01",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,039 Employees",
+  "company_stage": "Private",
+  "company_focus": "Quantitative finance research and AI-powered trading",
+  "industries": [
+    "Big Data",
+    "Fintech",
+    "Information Technology",
+    "Machine Learning",
+    "Financial Services"
+  ],
+  "description": "We tackle the most complex problems in quantitative finance,\nby bringing scientific clarity to financial complexity.\n\nFrom our London HQ, we unite world-class researchers and\nengineers in an environment that values deep exploration and\nmethodical execution - because the best ideas take time to\nevolve.  Together we’re building a world-class platform to\namplify our teams’ most powerful ideas.\n\nAs part of our engineering team, you’ll shape the platforms\nand tools that drive high-impact research - designing\nsystems that scale, accelerate discovery and support\ninnovation across the firm.\n\nTake the next step in your career.\n\nThe role\n\nThe Core AI team is a centralised infrastructure team within\nthe AI Engineering department. We build, operate and scale\nthe foundational platform that powers AI innovation across\nG‑Research, including on-prem open model inference, model\nserving, AI developer experience tooling, centralised MCP\nservers and secure agent sandboxing.\n\nWe provide the foundations that enable teams across the firm\nto innovate and deliver with confidence, working closely\nwith our Applied AI team.\n\nAs an Engineer in Core AI, you will work across four key\nareas:\n\n- Infrastructure and serving - design, build and operate on-\n  prem model inference and serving platforms\n- MCP server infrastructure - build and operate centralised\n  MCP servers that provide secure, governed access to tools\n  and data\n- Security and sandboxing - design and implement\n  infrastructure for safe execution of autonomous AI agents\n  in a regulated environment\n- Developer AI experience – improve developer experience\n  through seamless integrations and user-facing tools.\n\nKey responsibilities of the role include:\n\n- Designing and operating model serving infrastructure,\n  including inference pipelines and scheduling systems\n- Building and running centralised MCP servers, ensuring\n  secure, reliable access to enterprise tools and data\n- Owning platform reliability, performance and scalability\n  across Kubernetes-based infrastructure, including\n  observability, capacity planning and incident response\n- Building self-service tooling and APIs to enable teams to\n  provision and consume AI infrastructure independently\n- Integrating platform services with existing technology\n  stacks, ensuring clear interfaces, monitoring and CI/CD\n- Evaluating and adopting open-source technologies and\n  applying emerging best practices to improve the platform\n\nWho are we looking for?\n\nWe value pragmatic engineers who combine deep infrastructure\nexpertise with strong systems thinking and clear\ncommunication. You should enjoy building reliable, secure\nplatforms at scale - the kind of foundations that hundreds\nof engineers and quants depend on daily without needing to\nthink about.\n\nThe ideal candidate will have the following skills and\nexperience:\n\nEssential:\n\n- Strong expertise in C# and Python, building distributed\n  systems and platform-level software\n- Deep Kubernetes expertise, including multi-tenant cluster\n  operations and platform extensions\n- Experience with Docker, Terraform and CI/CD in controlled or\n  regulated environments\n- Strong understanding of distributed systems, including\n  networking, storage, security and performance\n- Experience with model serving and inference infrastructure,\n  including deployment, scaling and optimisation of open\n  models\n- Clear communication skills, with ability to explain complex\n  concepts and produce high-quality technical documentation\n\nDesirable:\n\n- Experience with MCP or similar platform services\n- Familiarity with sandboxing and workload isolation\n  technologies\n- Experience in quantitative finance or low-latency systems\n- AWS experience particularly in hybrid environments\n- Experience with observability tooling such as Prometheus,\n  Grafana or OpenTelemetry\n- Contributions to open-source projects in relevant domains\n\nWhy join us?\n\n- Highly competitive compensation plus annual discretionary\n  bonus\n- Lunch provided (via Just Eat for Business) and dedicated\n  barista bar\n- 30 days annual leave\n- 9% company pension contributions\n- Informal dress code and excellent work/life balance\n- Comprehensive healthcare and life assurance\n- Cycle-to-work scheme\n- Monthly company events\n\nG-Research is committed to cultivating and preserving an\ninclusive work environment. We are an ideas-driven business\nand we place great value on diversity of experience and\nopinions.\n\nWe want to ensure that applicants receive a recruitment\nexperience that enables them to perform at their best. If\nyou have a disability or special need that requires\naccommodation please let us know in the relevant section\n",
+  "skills_required": [
+    "Distributed systems",
+    "MCP",
+    "Sandboxing and workload isolation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and operate model serving infrastructure, including inference pipelines and scheduling systems",
+    "Build and run centralised MCP servers, ensuring secure, reliable access to enterprise tools and data",
+    "Own platform reliability, performance and scalability across Kubernetes-based infrastructure, including observability, capacity planning and incident response",
+    "Build self-service tooling and APIs to enable teams to provision and consume AI infrastructure independently",
+    "Integrate platform services with existing technology stacks, ensuring clear interfaces, monitoring and CI/CD",
+    "Evaluate and adopt open-source technologies and apply emerging best practices to improve the platform"
+  ],
+  "use_cases": [
+    "On-prem open model inference and serving for quantitative finance research",
+    "Centralised MCP server infrastructure for secure, governed access to enterprise tools and data",
+    "Secure sandboxing for autonomous AI agents in a regulated financial environment",
+    "AI developer experience tooling to enable firm-wide AI innovation",
+    "Self-service AI infrastructure provisioning for engineering and quant teams"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "Grafana",
+    "Kubernetes",
+    "Model serving and inference",
+    "OpenTelemetry",
+    "Prometheus",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "MCP"
+  ],
+  "languages_programming": [
+    "C#",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and operating on-prem\nmodel inference and serving infrastructure, centralised MCP\nservers, and agent sandboxing systems. While it's a\nplatform/infrastructure role, the engineer is hands-on with\nmodel serving, inference pipelines, and deploying AI\ninfrastructure — making it ai-first rather than ai-support.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "CI/CD",
+      "Model serving and inference",
+      "Prometheus",
+      "Grafana",
+      "OpenTelemetry"
+    ],
+    "languages": [
+      "C#",
+      "Python"
+    ],
+    "domains": [
+      "Quantitative finance"
+    ],
+    "other": [
+      "Distributed systems",
+      "Sandboxing and workload isolation"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

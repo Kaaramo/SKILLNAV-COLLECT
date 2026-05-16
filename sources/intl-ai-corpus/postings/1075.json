@@ -1,0 +1,130 @@
+{
+  "job_id": "intl-ai-corpus-1075",
+  "source": "intl-ai-corpus",
+  "source_ref": "8110557",
+  "source_url": "https://builtin.com/job/senior-system-software-engineer-ai/8110557",
+  "title": "Senior System Software Engineer - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NVIDIA",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21,960 Employees",
+  "company_stage": "Public",
+  "company_focus": "GPU computing and AI hardware/software platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Hardware",
+    "Robotics",
+    "Metaverse"
+  ],
+  "description": "NVIDIA has continuously reinvented itself for over two\ndecades. Our invention of the GPU in 1999 sparked the growth\nof the PC gaming market, redefined modern computer graphics,\nand revolutionized parallel computing. More recently, GPU\ndeep learning ignited modern AI - the new era of computing,\npositioning GPUs as the driving force behind intelligent\napplications in productivity, gaming, and creative fields,\nsolidifying NVIDIA's position as the leading \"AI computing\ncompany.\"\n\nThere is a growing emphasis on processing AI computations at\nthe edge, closer to the source of data. This approach\nreduces latency, improves real-time processing, and\naddresses privacy concerns by minimizing the need for data\nsending to centralized servers. As technology continues to\nadvance, we can expect client-side AI (local execution) to\nplay a pivotal role in crafting the digital landscape. WinAI\nseeks a Senior Systems Software Engineer interested in\nsolving client-side AI challenges on Windows PCs with\nlimited resources.\n\nWhat You’ll Be Doing:\n\n- Partnering with NVIDIA software, research, architecture, and\n  product teams to align strategies and technical needs for\n  encouraging the ecosystem of AI on Windows RTX PCs.\n- Collaborate closely with Microsoft to advance AI across\n  critical domains—including graphics, web browsers, and\n  edge devices—by driving innovation in technologies such as\n  WindowsML, ONNX Runtime, and NVIDIA’s proprietary\n  libraries and driver stack.\n- Improving performance on current and next-generation GPU\n  architectures by conducting in-depth analysis and end-to-\n  end optimization of AI models, data processing pipelines,\n  and inference runtime features.\n- Identifying, evaluating, and implementing compute and memory\n  optimization techniques—such as quantization,\n  distillation, and pruning—for large AI models; fine-tuning\n  and compressing models to fit edge devices.\n\nWhat We Need to See:\n\n- Bachelor's, Master's, or PhD in Computer Science, Software\n  Engineering, Mathematics, or a related field (or\n  equivalent experience).\n- Excellent C++ programming and debugging skills with a strong\n  understanding of data structures and algorithms.\n- 5+ years of experience with proficiency in AI inferencing\n  pipelines and applications using ML/DL frameworks like\n  ONNX RT, DirectML, PyTorch, Tensor RT.\n- Strong analytical and problem-solving abilities, with the\n  ability to multitask effectively in a dynamic environment.\n- Outstanding written and oral communication skills enabling\n  effective collaboration with management and engineering\n  teams.\n\nWays To Stand Out from The Crowd:\n\n- Understanding modern techniques in Machine Learning, Deep\n  Neural Networks, and Generative AI with relevant\n  contributions to major open-source projects will be a\n  plus.\n- Consistent track record of delivering end-to-end products\n  with geographically distributed teams in multinational\n  product companies.\n- Proficiency in lower-level system/GPU programming, CUDA,\n  developing high-performance systems.\n- Hands-on experience with building applications using APIs\n  like ONNX RT, DirectML, DirectX, PyTorch, TensorRT,\n  Vulkan.\n\nWe're a top employer known for innovation and growth. We are\nan equal-opportunity employer and value diversity at our\ncompany. With competitive salaries and a generous benefits\npackage, we are widely considered to be one of the\ntechnology world’s most desirable employers. We have some of\nthe most forward-thinking and hardworking people in the\nworld working for us and, due to unprecedented growth, our\nexclusive engineering teams are rapidly growing. If you're a\ncreative and autonomous engineer with a real passion for\ntechnology, we would like to hear from you.\n",
+  "skills_required": [
+    "CUDA",
+    "DirectML",
+    "DirectX",
+    "GPU programming",
+    "Model distillation",
+    "Model fine-tuning",
+    "ONNX Runtime",
+    "Pruning",
+    "PyTorch",
+    "Quantization",
+    "TensorRT",
+    "Vulkan",
+    "WindowsML"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Partner with NVIDIA software, research, architecture, and product teams to align strategies for AI on Windows RTX PCs ecosystem",
+    "Collaborate with Microsoft to advance AI across graphics, web browsers, and edge devices using WindowsML, ONNX Runtime, and NVIDIA libraries",
+    "Conduct in-depth analysis and end-to-end optimization of AI models, data pipelines, and inference runtime features for current and next-gen GPU architectures",
+    "Implement compute and memory optimization techniques including quantization, distillation, and pruning for large AI models",
+    "Fine-tune and compress models to fit edge devices with limited resources"
+  ],
+  "use_cases": [
+    "Client-side AI execution on Windows RTX PCs",
+    "Edge AI with limited compute and memory resources",
+    "Real-time AI processing with reduced latency",
+    "Privacy-preserving local AI inference",
+    "GPU-accelerated AI for graphics, web browsers, and edge devices"
+  ],
+  "tools_mentioned": [
+    "Inference optimization"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "DirectML",
+    "DirectX",
+    "GPU programming",
+    "Model distillation",
+    "Model fine-tuning",
+    "ONNX Runtime",
+    "Pruning",
+    "PyTorch",
+    "Quantization",
+    "TensorRT",
+    "Vulkan",
+    "WindowsML"
+  ],
+  "languages_programming": [
+    "C++"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on AI/ML model optimization and inference\nengineering at the systems level—working on quantization,\npruning, distillation, and GPU-level optimization using\nCUDA, TensorRT, and ONNX Runtime. It's ML/DL infrastructure\nfocused rather than LLM/agent development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "CUDA",
+      "ONNX Runtime",
+      "TensorRT",
+      "PyTorch",
+      "DirectML",
+      "DirectX",
+      "Vulkan",
+      "GPU programming",
+      "Quantization",
+      "Model distillation",
+      "Pruning",
+      "Model fine-tuning",
+      "WindowsML"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Inference optimization"
+    ],
+    "languages": [
+      "C++"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-0849",
+  "source": "intl-ai-corpus",
+  "source_ref": "7441817",
+  "source_url": "https://builtin.com/job/ai-ml-engineer-ii/7441817",
+  "title": "AI / ML Engineer II",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Astreya",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-07",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,958 Employees",
+  "company_stage": null,
+  "company_focus": "IT services and AIOps automation",
+  "industries": [],
+  "description": "Job Description\n\nResponsibilities:\n\n- Contribute toward AI roadmap for AI-driven automation\n  aligning with strategic company and client goals.\n- Collaborate with engineering and data teams to design and\n  architect scalable, robust, and innovative AI solutions\n  (e.g., automated network diagnostics, bot recommendation\n  systems, AI agents NOC operations).\n- Act as the Solution Owner in an Agile/Scrum environment,\n  managing the product backlog, writing detailed user\n  stories, defining acceptance criteria, and prioritizing\n  features.\n- Lead the evaluation, fine-tuning, and integration of open-\n  source Large Language Models (LLMs) like Llama series &\n  other LLMs.\n- Develop and own key components of the automation framework,\n  including PowerShell and Python runbook executors.\n- Develop and train machine learning models for tasks such as\n  anomaly detection, predictive maintenance, and capacity\n  planning in IT environments.\n- Work with large datasets of IT operational data, performing\n  data cleaning, feature engineering, and data analysis to\n  improve model accuracy and performance.\n- Contribute to the development of internal automation tools\n  and frameworks.\n- Deliver continuous service improvements by proactively\n  identifying opportunities for process enhancements.\n- Proficiently develop AI/Gen AI point solutions to meet\n  business needs.\n- Troubleshoot and resolve issues related to automation\n  systems and AI models.\n- Engage with customers, IT operators, Network Engineers, and\n  internal stakeholders to gather requirements, validate\n  solutions, and ensure product-market fit.\n- Serve as the Subject Matter Expert (SME) on AIOps, IT\n  Process Automation (ITPA), and Runbook Automation (RBA),\n  providing technical guidance and insights.\n- Document automation processes, code, and models clearly and\n  concisely.\n- Actively contribute to team results and work towards\n  achieving team goals and objectives.\n- Undertake designated skill/knowledge development within the\n  organization, including training of next-level team\n  members.\n\nRequired Skills & Competencies:\n\n- 4+ years of experience in IT services, with at least 3 years\n  in:\n  - IT Service Automation – Orchestration, Scripting, & Process\n    Assessment.\n  - AI Engineering – Developing and deploying AI Agents and\n    cutting-edge GenAI & ML solutions to address complex\n    business challenges.\n- Expertise in integrating various tools and building\n  analytics/insights.\n- Proficiency in at least two scripting languages such as\n  PowerShell, Python, or Shell Script.\n- Strong foundational knowledge across core IT domains, with a\n  specific emphasis on Network & Network Services, including\n  understanding network topologies, protocols, and common\n  operational issues.\n- Demonstrable experience implementing solutions using state-\n  of-the-art LLMs, with hands-on experience with both open-\n  source models (e.g., Llama series) and proprietary models\n  (e.g., GPT-4).\n- Proficiency with a major deep learning framework, preferably\n  PyTorch, for model experimentation and fine-tuning.\n- Proficiency in a high-level programming language (Java,\n  Python) and experience with containerization technologies\n  (Docker, Kubernetes) for deploying AI models.\n- Solid understanding and practical experience with cloud\n  platforms such as Azure or GCP, including knowledge of\n  their networking services (e.g., VNets, VPCs).\n- Experience with AI/ML libraries and frameworks.\n- A strong understanding of ITIL process on one or more\n  service lifecycle or service capability modules.\n- Knowledge in one or more System administrative activities\n  like monitoring, service requests, incident management,\n  change management, & maintenance.\n- Excellent communication skills with an ability to explain\n  concepts and solutions clearly and concisely.\n- Experience in training/grooming people.\n- Excellent analytical and problem-solving skills.\n",
+  "skills_required": [
+    "AI Agents",
+    "GPT-4",
+    "ITIL",
+    "LLM fine-tuning",
+    "Llama",
+    "PyTorch"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead the evaluation, fine-tuning, and integration of open-source Large Language Models (LLMs) like Llama series & other LLMs",
+    "Develop and train machine learning models for tasks such as anomaly detection, predictive maintenance, and capacity planning in IT environments",
+    "Collaborate with engineering and data teams to design and architect scalable AI solutions including automated network diagnostics, bot recommendation systems, and AI agents for NOC operations",
+    "Act as Solution Owner in Agile/Scrum environment, managing product backlog, writing user stories, and prioritizing features",
+    "Develop and own key components of automation framework, including PowerShell and Python runbook executors",
+    "Work with large datasets of IT operational data, performing data cleaning, feature engineering, and data analysis",
+    "Engage with customers, IT operators, and stakeholders to gather requirements and validate solutions",
+    "Serve as Subject Matter Expert on AIOps, IT Process Automation, and Runbook Automation"
+  ],
+  "use_cases": [
+    "Automated network diagnostics for IT infrastructure",
+    "Bot recommendation systems for IT operations",
+    "AI agents for NOC (Network Operations Center) operations",
+    "Anomaly detection in IT environments",
+    "Predictive maintenance for IT systems",
+    "Capacity planning for IT infrastructure"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "Data cleaning",
+    "Docker",
+    "Feature engineering",
+    "GCP",
+    "Kubernetes"
+  ],
+  "frameworks_mentioned": [
+    "AI Agents",
+    "GPT-4",
+    "LLM fine-tuning",
+    "Llama",
+    "PyTorch"
+  ],
+  "languages_programming": [
+    "Java",
+    "PowerShell",
+    "Python",
+    "Shell Script"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying\nAI/ML systems, including fine-tuning LLMs, developing ML\nmodels for anomaly detection, and creating AI agents for NOC\noperations. The position requires direct implementation of\nAI solutions, not just enabling infrastructure for others.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM fine-tuning",
+      "Llama",
+      "GPT-4",
+      "AI Agents"
+    ],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Data cleaning",
+      "Feature engineering"
+    ],
+    "cloud": [
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "PowerShell",
+      "Shell Script",
+      "Java"
+    ],
+    "domains": [],
+    "other": [
+      "ITIL"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

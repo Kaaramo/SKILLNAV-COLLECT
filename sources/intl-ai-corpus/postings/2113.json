@@ -1,0 +1,108 @@
+{
+  "job_id": "intl-ai-corpus-2113",
+  "source": "intl-ai-corpus",
+  "source_ref": "8765256",
+  "source_url": "https://builtin.com/job/site-reliability-engineer-sre-ai-infrastructure-early-career/8765256",
+  "title": "Site Reliability Engineer (SRE) AI Infrastructure (Early Career)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nebius",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam, NLD",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-16",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "473 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud computing platform serving the AI economy",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Why work at Nebius Nebius is leading a new era in cloud\ncomputing to serve the global AI economy. We create the\ntools and resources our customers need to solve real-world\nchallenges and transform industries, without massive\ninfrastructure costs or the need to build large in-house\nAI/ML teams. Our employees work at the cutting edge of AI\ncloud infrastructure alongside some of the most experienced\nand innovative leaders and engineers in the field.\n\nWhere we work Headquartered in Amsterdam and listed on\nNasdaq, Nebius has a global footprint with R&D hubs across\nEurope, North America, and Israel. The team of over 1400\nemployees includes more than 400 highly skilled engineers\nwith deep expertise across hardware and software\nengineering, as well as an in-house AI R&D team.\n\nSummary:\n\nLocation: Amsterdam Duration: 3 months Start date: June 2026\nCompensation: Paid Eligibility: Current University student\n(Computer Science or related field), Recent Graduate or\nEarly Career specialist\n\nWhy work at Nebius Nebius is leading a new era in cloud\ncomputing to serve the global AI economy. We create the\ntools and resources our customers need to solve real-world\nchallenges and transform industries, without massive\ninfrastructure costs or the need to build large in-house\nAI/ML teams. Our employees work at the cutting edge of AI\ncloud infrastructure alongside some of the most experienced\nand innovative leaders and engineers in the field.\n\nWhere we work Headquartered in Amsterdam and listed on\nNasdaq, Nebius has a global footprint with R&D hubs across\nEurope, North America, and Israel. The team of over 1400+\nemployees includes more than 400 highly skilled engineers\nwith deep expertise across hardware and software\nengineering, as well as an in-house AI R&D team.\n\nYour responsibilities will include\n\n- Operation:\n  - assist, where possible in day-to-day SRE operations tasks in\n    NetInfra\n  - deploy tested and approved changes following clear\n    instructions\n- Project work:\n  - execute small and well-defined tasks from the backlog\n  - together or instead: work on small and well-defined SRE\n    project from backlog\n  - create tests for their changes/project (if applicable)\n  - write technical documentation about their work\n  - track and update Jira tasks according to their progress\n- Learning and growth:\n  - actively study network and system fundamentals: Ethernet and\n    ip networks, routing, Linux Kernel, eBPF, traffic\n    control, ipvs, dpdk\n  - learn internal tools, workflows and operational standards\n  - learn container and platform fundamentals: Kubernetes (core\n    architecture and networking), Helm, Terraform\n  - learn configuration management and automation basics\n\nWhat we expect you to have\n\n- demonstrate strong interest and foundational knowledge in\n  cloud providers, operations, networking, hardware, and\n  software\n- programming experience in any of Python, Go or C++\n- basic understanding of the Network (ethernet, ip, tcp/udp,\n  routing fundamentals)\n- familiarity with Git\n- basic understanding of containers, Kubernetes and IAC (Infra\n  As Code) approach\n\nWhat we offer\n\n- Competitive salary and comprehensive benefits package\n- Mentorship from experienced AI, ML, and cloud infrastructure\n  professionals\n- Hands-on experience with real customer workloads and\n  production systems\n- Opportunities for professional growth within Nebius\n- A dynamic and collaborative work environment that values\n  initiative and innovation\n- Opportunity to be considered for a full-time role after the\n  Early Talent Program\n\nWe’re growing and expanding our products every day. If\nyou’re up to the challenge and are excited about AI and ML\nas much as we are, join us!\n\nWhat we offer\n\n- Competitive salary and comprehensive benefits package.\n- Opportunities for professional growth within Nebius.\n- Flexible working arrangements.\n- A dynamic and collaborative work environment that values\n  initiative and innovation.\n\nWe’re growing and expanding our products every day. If\nyou’re up to the challenge and are excited about AI and ML\nas much as we are, join us!\n",
+  "skills_required": [
+    "Git",
+    "Jira",
+    "Networking"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Assist in day-to-day SRE operations tasks in network infrastructure",
+    "Deploy tested and approved changes following clear instructions",
+    "Execute small and well-defined tasks from the backlog",
+    "Work on small SRE projects including tests and technical documentation",
+    "Track and update Jira tasks according to progress",
+    "Study network and system fundamentals including Linux Kernel, eBPF, traffic control",
+    "Learn container and platform fundamentals including Kubernetes and Terraform",
+    "Learn configuration management and automation basics"
+  ],
+  "use_cases": [
+    "AI cloud infrastructure for customers",
+    "Network infrastructure operations",
+    "Container and platform services for AI workloads",
+    "Cloud computing platform reliability"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Helm",
+    "Kubernetes",
+    "Linux",
+    "Terraform",
+    "eBPF"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "C++",
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an infrastructure/platform role supporting AI\nworkloads, not building AI systems. The SRE works on network\ninfrastructure, Kubernetes, and operational tooling that\nenables AI cloud services. There's no direct work on models,\ntraining, or AI system development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Terraform",
+      "Helm",
+      "Docker",
+      "Linux",
+      "eBPF"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "C++"
+    ],
+    "domains": [],
+    "other": [
+      "Git",
+      "Networking",
+      "Jira"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

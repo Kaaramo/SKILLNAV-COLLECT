@@ -1,0 +1,131 @@
+{
+  "job_id": "intl-ai-corpus-2142",
+  "source": "intl-ai-corpus",
+  "source_ref": "8777482",
+  "source_url": "https://builtin.com/job/senior-engineer-ai-ml-pune/8777482",
+  "title": "Senior Engineer, AI/ML - Pune",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Edwards Lifesciences",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-27",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "13,687 Employees",
+  "company_stage": "Public",
+  "company_focus": "Medical devices and technologies for cardiovascular patient\ncare",
+  "industries": [
+    "Healthtech",
+    "Pharmaceutical"
+  ],
+  "description": "Innovation starts from the heart. At Edwards Lifesciences,\nwe’re dedicated to developing ground-breaking technologies\nwith a genuine impact on patients’ lives. At the core of\nthis commitment is our investment in cutting-edge\ninformation technology. This supports our innovation and\ncollaboration on a global scale, enabling our diverse teams\nto optimize both efficiency and success. As part of our IT\nteam, your expertise and commitment will help facilitate our\npatient-focused mission by developing and enhancing\ntechnological solutions.\n\nThis role is responsible for understanding business\ngaps/opportunities that can be resolved using AI/ML\nsolutions. Design, develop and test quick AI/ML prototypes\nthat addresses identified business gaps.\n\nHow will you make an impact:\n\n- Provide highly complex design, development and deployment of\n  scalable and efficient AI/ML models both for prototyping\n  purposes as well as for production deployment.\n- Collaborate with cross-functional teams (data scientists,\n  software engineers, product managers, business leads) to\n  define requirements and ideate solutions using AI/ML\n  frameworks.\n- Participate in agile development processes, including sprint\n  planning, daily stand-ups and demo prototypes or milestone\n  updates when necessary\n- Drive research and experimentation to explore new AI/ML\n  techniques, tools, and frameworks.\n- Build end-to-end data pipelines for collecting, processing,\n  and analyzing large-scale datasets.\n- Ensure code and model development are well-documented and\n  follow best engineering practices.\n- Improve and optimize the performance of models, ensuring\n  robustness, scalability, and efficiency.\n- Other incidental duties\n\nWhat you'll need (Required):\n\n- Bachelor's Degree in Engineering or technical field.\n- 4 years experience in Software Development or Engineering\n  demonstrably solid performance in a role working with\n  cross-functional teams (within IT and/or within the\n  business) on enterprise-level or complex/novel system\n  implementations Required\n- Proficiency in programming languages such as Python, Java,\n  C++, or similar.\n- Experience with machine learning libraries and frameworks\n  (e.g., TensorFlow, PyTorch, Scikit-learn, Keras, etc.).\n- Strong understanding of machine learning algorithms,\n  statistics, and data structures.\n- Experience with cloud platforms such as AWS or Cloud\n  Infrastructure services for model deployment and data\n  storage.\n- Familiarity with big data technologies like Hadoop, Spark,\n  or similar tools is a plus.\n- Solid experience with version control systems (Git) and\n  agile development methodologies.\n- Experience with deep learning techniques (e.g., CNNs, RNNs,\n  GANs, etc.).\n- Knowledge of data engineering practices and tools like\n  Apache Kafka, Airflow, etc.\n\nWhat else we look for (Preferred):\n\n- Strong communication skills and the ability to work\n  effectively in cross-functional teams.\n- Excellent problem solving skills\n- Strict attention to detail\n- Ability to manage competing priorities in a fast paced\n  environment\n- Adhere to all company rules and requirements (e.g., pandemic\n  protocols, Environmental Health & Safety rules) and take\n  adequate control measures in preventing injuries to\n  themselves and others as well as to the protection of\n  environment and prevention of pollution under their span\n  of influence/control\n",
+  "skills_required": [
+    "CNNs",
+    "GANs",
+    "Keras",
+    "PyTorch",
+    "RNNs",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Identify business gaps and opportunities that can be resolved using AI/ML solutions",
+    "Design, develop and test AI/ML prototypes to address business needs",
+    "Deploy scalable and efficient AI/ML models for both prototyping and production",
+    "Collaborate with cross-functional teams including data scientists, software engineers, product managers, and business leads",
+    "Drive research and experimentation to explore new AI/ML techniques and frameworks",
+    "Build end-to-end data pipelines for collecting, processing, and analyzing large-scale datasets",
+    "Optimize model performance ensuring robustness, scalability, and efficiency",
+    "Document code and model development following best engineering practices"
+  ],
+  "use_cases": [
+    "Healthcare technology solutions for patient care optimization",
+    "Business process optimization using AI/ML",
+    "Large-scale data analysis and insights",
+    "Predictive modeling for medical device applications"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Apache Kafka",
+    "Git",
+    "Hadoop",
+    "Spark"
+  ],
+  "frameworks_mentioned": [
+    "CNNs",
+    "GANs",
+    "Keras",
+    "PyTorch",
+    "RNNs",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "C++",
+    "Java",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "BIG_DATA",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on traditional ML/DL techniques (CNNs,\nRNNs, GANs, TensorFlow, PyTorch) rather than LLMs or GenAI\nagents. The position involves designing, developing, and\ndeploying ML models and data pipelines, with no mention of\nLLMs, RAG, or generative AI technologies.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Keras",
+      "CNNs",
+      "RNNs",
+      "GANs"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Hadoop",
+      "Spark",
+      "Apache Kafka",
+      "Airflow"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Git"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

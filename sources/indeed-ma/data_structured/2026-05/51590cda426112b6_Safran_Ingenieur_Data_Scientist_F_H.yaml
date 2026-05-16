@@ -1,0 +1,31 @@
+company:
+  name: Safran
+  stage: null
+  focus: null
+position:
+  title: Ingénieur Data Scientist F-H
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - deep learning
+    - ml
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 51590cda426112b6
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

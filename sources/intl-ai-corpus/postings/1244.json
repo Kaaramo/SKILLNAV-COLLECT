@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-1244",
+  "source": "intl-ai-corpus",
+  "source_ref": "8337959",
+  "source_url": "https://builtin.com/job/ai-platform-dev-ops-engineer/8337959",
+  "title": "AI Platform Dev Ops Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NXP Semiconductors",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-02",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21,993 Employees",
+  "company_stage": "Public",
+  "company_focus": "Semiconductor solutions and embedded processing",
+  "industries": [
+    "Automotive",
+    "Internet of Things",
+    "Mobile",
+    "Semiconductor",
+    "Industrial"
+  ],
+  "description": "Role Summary We are seeking an experienced Cloud Platform\nEngineer to join our core platform team. In this role, you\nwill be responsible for building, securing, and automating\nour enterprise Cloud Platforms on AWS. You will go beyond\nbasic pipeline creation by designing and maintaining the\nunderlying infrastructure and CI/CD frameworks that enable\nour data teams to operate and scale efficiently. Job\nResponsibilities • Cloud & Platform Infrastructure (IaC):\nDeploy and maintain scalable and secure Cloud workspaces for\nAI enablement on AWS infrastructure (VPC, PrivateLink, IAM,\nS3, Lambda, EKS, and Fargate) using Terraform • Architecture\nguidance: Provide architectural oversight and technical\nguidance to engineering teams • Unity Catalog\nImplementation: Automate the governance layer, including\nmetastore configuration, external locations, and access\ncontrols within Unity Catalog. • Security & Compliance:\nEnsure the platform adheres to enterprise security standards\nby managing implementing cloud infrastructure and data\nprotection automated security controls. • Workspace\nLifecycle Management: Use Terraform for end-to-end workspace\nprovisioning, ensuring consistent setup across Dev, Acc, and\nProd environments. • Governance & Cost Control (Policies):\nDesign and implement policies and guardrails to enforce\nstandards • Identity & Access Automation: Automate\nassignment of permissions using Terraform. Manage Service\nPrincipals for pipelines and map groups to specific\nWorkspace roles and Unity Catalog grants. • DevOps &\nAutomation (CI/CD) • Pipeline Architecture: Oversee GitLab\nCI/CD pipelines for data and GenAI projects with automated\nworkflows. • Release Management: Implement branching\nstrategies, code review policies, and environment promotion\nrules (Dev → Acc → Prod). • Service Organization &\nOperations • Observability: Configure monitoring, alerting,\nand logging (using system tables or integration with tools\nlike CloudWatch) to ensure platform stability. • Support &\nIncident Management: Serve as an escalation point for\nplatform-related incidents. • Knowledge Sharing: Document\nbest practices and conduct workshops to upskill data\nengineers on effective platform usage. • FinOps: Optimize\nresource allocation, scalability, and cost-efficiency. Job\nQualifications: • Bachelor’s in computer science, software\nengineering, mathematics, or related field. • Core cloud\ncompetencies, cross-platform technical skills, and ability\nto think strategically. • Ability to convert business needs\ninto technical solutions using the AWS Well-Architected\nFramework best practices. • Expertise in Cloud networking;\nSecurity and Compliance; Automation and DevOps (CI/CD,\nJenkins, Gitlab etc.); Containerization (Docker) and\nOrchestration (Amazon EKS); Monitoring and Logging; and\nCloud infrastructure Optimization for optimal FinOps. • 5+\nyears industry experience in Data Engineering, Cloud\nInfrastructure, or DevOps; 3+ years with AWS in enterprise\nsettings. • Advanced Terraform skills for managing Cloud\ninfrastructure and AWS resources • Extensive AWS portfolio\nknowledge. • Excellent communication, documentation,\nmentoring, and collaboration skills.\n\nMore information about NXP in India...\n\n#LI-29f4\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Deploy and maintain scalable Cloud workspaces for AI enablement on AWS using Terraform including VPC, PrivateLink, IAM, S3, Lambda, EKS, and Fargate",
+    "Provide architectural oversight and technical guidance to engineering teams on cloud platform design",
+    "Automate governance layer through Unity Catalog implementation including metastore configuration, external locations, and access controls",
+    "Design and implement policies, guardrails, and security controls to enforce standards and ensure compliance",
+    "Oversee GitLab CI/CD pipelines for data and GenAI projects with automated workflows and release management strategies",
+    "Configure monitoring, alerting, and logging using CloudWatch to ensure platform stability and serve as escalation point for incidents"
+  ],
+  "use_cases": [
+    "Cloud workspace provisioning for AI and data teams",
+    "Governance and access control automation for data platforms",
+    "CI/CD pipeline orchestration for data and GenAI projects",
+    "Platform observability and incident management",
+    "FinOps optimization for cloud resource allocation and cost-efficiency"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CloudWatch",
+    "Docker",
+    "EKS",
+    "Fargate",
+    "FinOps",
+    "GitLab CI/CD",
+    "IAM",
+    "IaC",
+    "Jenkins",
+    "Lambda",
+    "S3",
+    "Terraform",
+    "Unity Catalog",
+    "VPC",
+    "cloud networking",
+    "logging",
+    "monitoring",
+    "security and compliance"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an AI Platform DevOps Engineer role focused on\nbuilding and maintaining cloud infrastructure (AWS,\nTerraform, CI/CD) that supports AI/ML and data teams. The\nrole involves platform engineering, infrastructure\nautomation, and governance - enabling AI work but not\nbuilding, training, or deploying models directly.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "S3"
+    ],
+    "data": [
+      "Unity Catalog"
+    ],
+    "cloud": [
+      "AWS",
+      "VPC",
+      "Lambda",
+      "IAM",
+      "cloud networking"
+    ],
+    "ops": [
+      "Terraform",
+      "EKS",
+      "Fargate",
+      "Docker",
+      "GitLab CI/CD",
+      "Jenkins",
+      "CloudWatch",
+      "IaC",
+      "FinOps",
+      "monitoring",
+      "logging",
+      "security and compliance"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,35 @@
+company:
+  name: Swissport International AG
+  stage: null
+  focus: null
+position:
+  title: Power BI Reporting & Data Analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - etl
+    - sql
+    cloud: []
+    ops: []
+    languages: []
+    domains:
+    - finance
+    other:
+    - dashboard
+    - power bi
+    - stakeholder
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: 0a4a46d745ce1c1b
+  extracted_at: '2026-05-16T01:30:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

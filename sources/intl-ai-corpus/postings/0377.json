@@ -1,0 +1,173 @@
+{
+  "job_id": "intl-ai-corpus-0377",
+  "source": "intl-ai-corpus",
+  "source_ref": "7898925",
+  "source_url": "https://builtin.com/job/ai-engineer-ai-services/7898925",
+  "title": "AI Engineer, AI Services",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AHEAD",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,154 Employees",
+  "company_stage": null,
+  "company_focus": "Builds platforms for digital business and digital\ntransformation",
+  "industries": [
+    "Cloud",
+    "Information Technology"
+  ],
+  "description": "AHEAD builds platforms for digital business. By weaving\ntogether advances in cloud infrastructure, automation and\nanalytics, and software delivery, we help enterprises\ndeliver on the promise of digital transformation.\n\nAt AHEAD, we prioritize creating a culture of belonging,\nwhere all perspectives and voices are represented, valued,\nrespected, and heard. We create spaces to empower everyone\nto speak up, make change, and drive the culture at AHEAD.\n\nWe are an equal opportunity employer, and do not\ndiscriminate based on an individual's race, national origin,\ncolor, gender, gender identity, gender expression, sexual\norientation, religion, age, disability, marital status, or\nany other protected characteristic under applicable law,\nwhether actual or perceived.\n\nWe embrace all candidates that will contribute to the\ndiversification and enrichment of ideas and perspectives at\nAHEAD.\n\nRole Overview\n\nThe AI Engineer is a hands-on builder who develops and\ndeploys agentic AI solutions for AHEAD’s clients. You will\nwork on multi-agent workflows, retrieval pipelines, and\nsystem integrations that automate real business processes\nlike document handling, SDLC tasks, service desk actions,\nreporting, and decision support.\n\nThis role focuses on implementing and improving components\nwithin larger agentic systems. You will collaborate closely\nwith senior engineers, solution managers, and client teams\nto translate ideas into working automations. It is an ideal\nrole for someone eager to deepen their skills in applied AI,\nworkflow orchestration, and enterprise integration.\n\nKey Responsibilities\n\n- Agentic Solution Development\n- Build and customize agents using frameworks such as\n  LangChain, LangGraph, Autogen, CrewAI, or LlamaIndex.\n- Implement components for document processing, workflow\n  automation, data retrieval, and structured output\n  generation.\n- Develop and maintain vector DB pipelines (Pinecone,\n  pgvector, Elasticsearch) and RAG-based retrieval\n  workflows.\n- Configure LLM/SLM endpoints, tool-calling functions, and\n  agent memory/state handling.\n- Workflow & Integration Engineering\n- Implement real-time and batch workflows using Python, Kafka,\n  EventBridge, Airflow, Celery, Snowflake, S3, or n8n.\n- Build integrations with enterprise tools (SharePoint,\n  Salesforce, ServiceNow, Jira, APIs).\n- Support data transformations, validation, and versioning\n  needed for downstream agent operations.\n- Quality, Testing & Observability\n- Write tests for agent behavior, pipelines, and model output\n  consistency.\n- Contribute to monitoring, logging, metrics, and guardrail\n  configurations for agentic systems.\n- Participate in debugging sessions and post-incident reviews\n  with senior engineers.\n- Client Delivery Support\n- Participate in client workshops, demos, and working sessions\n  as part of the engineering team.\n- Translate requirements from senior engineers or solution\n  managers into technical tasks and working components.\n- Help document solution behavior, configurations, and\n  deployment steps for clients.\n- Security, Governance & Responsible AI\n- Follow established patterns for access control, data\n  handling, safe model usage, and auditing.\n- Ensure compliance and guardrail configurations are\n  consistently applied in implementations.\n- Team Collaboration & Growth\n- Contribute to internal documentation, code templates, and\n  reusable building blocks.\n- Learn and apply AHEAD’s reference architectures, best\n  practices, and agentic patterns.\n- Support onboarding of new engineers and collaborate in agile\n  ceremonies.\n\nQualifications\n\n- Required\n- Solid Python programming skills and experience building\n  APIs, batch jobs, or automation scripts.\n- Exposure to multi-agent or LLM application frameworks\n  (LangChain, LangGraph, Autogen, LlamaIndex, CrewAI).\n- Familiarity with vector databases and retrieval workflows\n  (Pinecone, pgvector, Elasticsearch).\n- Experience with data engineering or workflow tools (Kafka,\n  EventBridge, Snowflake, Airflow, Celery, AWS services, or\n  similar).\n- Strong attention to documentation, testing, and\n  collaborative engineering practices.\n- Ability to learn quickly in fast-moving, client-facing\n  environments.\n- Preferred\n- Experience integrating with enterprise systems or SaaS\n  platforms (ServiceNow, Salesforce, SharePoint, databases).\n- Familiarity with MLOps, containerization, or observability\n  stacks.\n- Exposure to cloud services (AWS, Azure, GCP).\n- Success Metrics\n- High-quality implementation of agentic components,\n  integrations, and workflows.\n- Reliability and consistency of delivered features, validated\n  through tests and monitoring.\n- Steady velocity of delivery within agile teams.\n- Strong collaboration with senior engineers and positive\n  feedback from client teams.\n- Demonstrated growth in agentic engineering skills and\n  contribution to reusable assets.\n\nWhy AHEAD:\n\nThrough our daily work and internal groups like Moving Women\nAHEAD and RISE AHEAD, we value and benefit from diversity of\npeople, ideas, experience, and everything in between.\n\nWe fuel growth by stacking our office with top-notch\ntechnologies in a multi-million-dollar lab, by encouraging\ncross department training and development, sponsoring\ncertifications and credentials for continued learning.\n\nUSA Employment Benefits include:\n\n- Medical, Dental, and Vision Insurance\n\n- 401(k)\n\n- Paid company holidays\n\n- Paid time off\n\n- Paid parental and caregiver leave\n\n- Plus more! See benefits https://www.aheadbenefits.com/ for\n  additional details.\n\nThe compensation range indicated in this posting reflects\nthe On-Target Earnings (“OTE”) for this role, which includes\na base salary and any applicable target bonus amount. This\nOTE range may vary based on the candidate’s relevant\nexperience, qualifications, and geographic location.\n",
+  "skills_required": [
+    "AutoGen",
+    "CrewAI",
+    "Jira",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "RAG",
+    "Salesforce",
+    "ServiceNow",
+    "SharePoint",
+    "agents",
+    "function calling",
+    "guardrails",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and customize agents using frameworks such as LangChain, LangGraph, Autogen, CrewAI, and LlamaIndex",
+    "Develop and maintain vector DB pipelines and RAG-based retrieval workflows",
+    "Implement real-time and batch workflows using Python, Kafka, EventBridge, Airflow, and other data tools",
+    "Build integrations with enterprise tools including SharePoint, Salesforce, ServiceNow, Jira, and APIs",
+    "Configure LLM/SLM endpoints, tool-calling functions, and agent memory/state handling",
+    "Write tests for agent behavior, pipelines, and contribute to monitoring, logging, and guardrail configurations",
+    "Participate in client workshops, demos, and translate requirements into technical working components",
+    "Follow established patterns for security, governance, access control, data handling, and responsible AI compliance"
+  ],
+  "use_cases": [
+    "Automate document handling and processing workflows",
+    "Streamline SDLC tasks and development lifecycle automation",
+    "Enhance service desk actions and support ticket processing",
+    "Automate reporting and decision support processes",
+    "Enable enterprise system integrations with AI agents for business process automation"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "AWS",
+    "Airflow",
+    "Azure",
+    "CI/CD",
+    "Celery",
+    "Docker",
+    "Elasticsearch",
+    "EventBridge",
+    "GCP",
+    "Kafka",
+    "MLflow",
+    "Pinecone",
+    "REST",
+    "S3",
+    "Snowflake",
+    "logging",
+    "monitoring",
+    "n8n",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "RAG",
+    "agents",
+    "function calling",
+    "guardrails",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on builder role developing and deploying\nagentic AI solutions using LLM frameworks, multi-agent\nworkflows, and RAG systems. The engineer directly works on\nimplementing agents, configuring LLM endpoints, building\nvector database pipelines, and deploying AI solutions to\nclients.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "AutoGen",
+      "CrewAI",
+      "LlamaIndex",
+      "RAG",
+      "agents",
+      "function calling",
+      "prompt engineering",
+      "guardrails"
+    ],
+    "ml": [],
+    "web": [
+      "REST",
+      "APIs"
+    ],
+    "databases": [
+      "Pinecone",
+      "pgvector",
+      "Elasticsearch",
+      "Snowflake"
+    ],
+    "data": [
+      "Kafka",
+      "Airflow",
+      "Celery",
+      "S3",
+      "n8n"
+    ],
+    "cloud": [
+      "EventBridge",
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "monitoring",
+      "logging",
+      "CI/CD",
+      "MLflow"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "SharePoint",
+      "Salesforce",
+      "ServiceNow",
+      "Jira"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

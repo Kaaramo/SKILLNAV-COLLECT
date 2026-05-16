@@ -1,0 +1,66 @@
+company:
+  name: Confidentiel
+  stage: null
+  focus: Acteur majeur du conseil technologique en France et à l'international, transformation digitale
+position:
+  title: Data Engineer (Senior)
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities:
+  - Concevoir, développer, optimiser pipelines scalables sur Databricks
+  - Bonnes pratiques Data Engineering et DataOps
+  - Gérer tables Delta Lake avancées (ACID, optimisation, time-travel)
+  - Orchestrer workflows complexes (Databricks Jobs, Delta Live Tables)
+  - Structurer/documenter architecture Data (Lakehouse, ingestion, transformation, exposition)
+  - Collaborer Data Science, BI, Sécurité, Architecture
+  - Garantir qualité, sécurité, fiabilité des données
+  - Mentorer Data Engineers juniors et intermédiaires
+  - Décisions d'architecture cloud (Azure/AWS)
+  - Optimiser coûts/performances clusters Spark
+  - Automatiser flux CI/CD (Git, Azure DevOps, GitHub Actions)
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - AWS (Glue, S3, Redshift)
+    - databricks
+    - redshift
+    - spark
+    - Spark optimization
+    - sql
+    - SQL expert
+    cloud:
+    - aws
+    - AWS Glue
+    - azure
+    - Azure (ADF, ADLS, Synapse)
+    - Azure DevOps
+    - s3
+    ops:
+    - ci/cd
+    - github actions
+    languages:
+    - python
+    - Python avancé
+    domains: []
+    other:
+    - ADF
+    - ADLS
+    - Architectures Lakehouse
+    - Big Data
+    - Data governance
+    - Delta Lake
+    - Git
+    - PySpark
+    - PySpark avancé
+    - Synapse
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '181013'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

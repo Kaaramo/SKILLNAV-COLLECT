@@ -1,0 +1,131 @@
+{
+  "job_id": "intl-ai-corpus-0599",
+  "source": "intl-ai-corpus",
+  "source_ref": "8277114",
+  "source_url": "https://builtin.com/job/senior-ai-infrastructure-engineer/8277114",
+  "title": "Sr. AI Infrastructure Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "ArangoDB",
+  "company_type": "entité morale privée",
+  "location": "DEU",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "110 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI data platform with graph-based Contextual AI and multi-\nmodel database",
+  "industries": [
+    "Database",
+    "Analytics"
+  ],
+  "description": "Senior Software Engineer – AI Infrastructure\n\n\n\nAbout Arango\n\nAt Arango, we believe the first generation of enterprise AI\nmissed something essential: context. LLM models are\npowerful, but they didn’t understand the context needed to\ndeliver accurate answers.\n\nArango provides a trusted data foundation for the next wave\nof Enterprise AI with graph-based Contextual AI -\ntransforming enterprise data into a System of Context that\ntruly represents the business, so LLMs can deliver better\noutcomes with unlimited scale and cost efficiency.\n\nThe Arango AI Data Platform gives developers a single,\nintegrated environment to build and scale AI-powered\napplications without the complexity of stitching together\nmultiple databases and tools. At its core is a massively\nscalable multi-model database that unifies graph, vector,\ndocument, and key-value data with full-text, geospatial, and\nvector search — creating the System of Context, the bridge\nbetween enterprise data and LLMs.\n\nWe’re a global team based in California and Cologne, united\nby curiosity, collaboration, and a passion for helping\ndevelopers, data engineers, and technology leaders innovate\nfaster and smarter with AI. Trusted by NVIDIA, HPE, the\nLondon Stock Exchange, the U.S. Air Force, NIH, and\nArticul8, Arango powers enterprise AI with context,\nconfidence, and scale. We are a proud member of the NVIDIA\nInception Program and the AWS ISV Accelerate Program.\n\nIf you’re excited about shaping the future of Contextual AI,\ncome build with us.\n\n\nLocation\n\n** Only candidates in Europe will be considered. **\n\n\n\nAbout the Role\n\nWe are looking for a senior, hands-on software engineer to\nhelp maintain, stabilize, and debug our AI infrastructure.\nThis role has high ownership and requires deep technical\nproblem-solving skills in production environments. The most\nimportant qualification is not a specific language, but a\nstrong understanding of how complex software systems\nactually behave in production.\n\n\n\nKey Responsibilities:\n\n- Maintain, develop and stabilize AI infrastructure services\n- Architect and implement foundational services and shared\n  libraries that scale our entire AI infrastructure\n  ecosystem.\n- Debug complex, non-obvious production issues across\n  application, process, network, and memory layers\n- Systematically analyze, isolate, and resolve failures in\n  unclear scenarios\n- Improve observability, profiling, and tracing across\n  services\n- Work with distributed microservices and internal platforms\n- Operate and improve systems running on Docker, Kubernetes,\n  and Helm\n- Support CI/CD pipelines (CircleCI), testing, and security-\n  relevant components\n- Work with MLflow, Triton, and distributed Python modules\n\n\n\nCore Requirements:\n\n- Senior-level experience (minimum 5+ years)\n- Passion for working with cutting-edge technologies in a\n  fast-moving AI environment, including LLM-based workflows\n  and pipelines\n- Comfortable working independently in a fast-paced, evolving\n  environment\n- Strong debugging skills in complex, distributed systems with\n  the ability to identify root causes when failures are\n  ambiguous\n- Solid understanding of how software behaves in production\n  environments\n- Experience designing and operating microservices,\n  distributed systems, and databases\n- Proven experience building and scaling high-availability\n  services\n\nCore Technology Stack\n\n- Python (primary language) - 5+ years\n- Docker, Kubernetes, Helm - 5+ years\n- CI/CD pipelines and testing frameworks (e.g., CircleCI)\n- Observability tools: metrics, logs, tracing, and profiling\n- Exposure to AI/ML infrastructure, including tools such as\n  MLflow and Triton\n\nNice to Have:\n\n- Customer-facing experience, including proofs of concept\n  (PoCs) or technical demos\n- Experience with AI/ML infrastructure and orchestration,\n  i.e., MLflow and Triton\n- Cross-language debugging experience\n- Familiarity with Rust\n- Experience working with databases, NoSQL, multi-model, or\n  graph databases\n- Knowledge of Retrieval-Augmented Generation (RAG) and\n  GraphRAG concepts\n- Understanding of graph algorithms and graph-based data\n  modeling\n\n\n\nWhy Join ArangoDB\n\nOur headquarters is in San Francisco (US) and we have an\noffice in Cologne (Germany), but most of our diverse team\nworks remotely worldwide. So, do you prefer your desk at\nhome or do you want to join us at one of our locations? Your\nchoice.\n\nThe global minds of Arango team comes from 5 different\ncontinents and more than 20 countries. Diverse backgrounds\nenable us to see new solutions. We invite people from every\nculture, national origin, religion, sexual orientation,\ngender identity or expression, and of every age to apply to\nour positions. All employment decisions are based on\nbusiness needs, job requirements, and individual\nqualifications. Arango is committed to a workplace free of\ndiscrimination and harassment based on any of these\ncharacteristics. We love this diversity and encourage\neveryone curious and visionary to join the multi-model\nmovement.\n",
+  "skills_required": [
+    "GraphRAG",
+    "LLM-based workflows",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Maintain, develop, and stabilize AI infrastructure services",
+    "Architect and implement foundational services and shared libraries for AI infrastructure ecosystem",
+    "Debug complex production issues across application, process, network, and memory layers",
+    "Improve observability, profiling, and tracing across distributed microservices",
+    "Operate and improve systems running on Docker, Kubernetes, and Helm",
+    "Support CI/CD pipelines (CircleCI), testing, and security-relevant components"
+  ],
+  "use_cases": [
+    "Building and scaling AI-powered applications with contextual enterprise data",
+    "Enabling graph-based Contextual AI with unified graph, vector, document, and key-value data",
+    "Providing System of Context to bridge enterprise data and LLMs",
+    "Supporting Retrieval-Augmented Generation (RAG) and GraphRAG workflows",
+    "Delivering enterprise AI with unlimited scale and cost efficiency"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "CircleCI",
+    "Docker",
+    "Helm",
+    "Kubernetes",
+    "MLflow",
+    "NoSQL databases",
+    "Triton",
+    "distributed systems",
+    "graph databases",
+    "microservices",
+    "multi-model databases",
+    "observability",
+    "profiling",
+    "tracing"
+  ],
+  "frameworks_mentioned": [
+    "GraphRAG",
+    "LLM-based workflows",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is focused on building, maintaining, and\nstabilizing AI infrastructure services rather than building,\ntraining, or deploying AI models. The responsibilities\ncenter on infrastructure components like MLflow, Triton,\nDocker, Kubernetes, observability, and CI/CD pipelines that\nenable AI work but don't involve hands-on model development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "GraphRAG",
+      "LLM-based workflows"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "multi-model databases",
+      "NoSQL databases",
+      "graph databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "CI/CD",
+      "CircleCI",
+      "MLflow",
+      "Triton",
+      "observability",
+      "profiling",
+      "tracing",
+      "microservices",
+      "distributed systems"
+    ],
+    "languages": [
+      "Python",
+      "Rust"
+    ],
+    "domains": [
+      "graph algorithms",
+      "graph-based data modeling"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,156 @@
+{
+  "job_id": "intl-ai-corpus-0253",
+  "source": "intl-ai-corpus",
+  "source_ref": "7588424",
+  "source_url": "https://builtin.com/job/senior-full-stack-engineer-ai-llm-platform/7588424",
+  "title": "Senior Full Stack Engineer (AI/LLM Platform)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Kasisto",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "82 Employees",
+  "company_stage": null,
+  "company_focus": "Conversational and agentic AI platform for financial\ninstitutions",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Software"
+  ],
+  "description": "Senior Full Stack Engineer (AI/LLM Platform)\n\nLocation: Remote Department: Engineering Reports to: Chief\nProduct & Innovation Officer\n\nAbout Kasisto\n\nKasisto is the creator of KAIgentic, the leading\nconversational and agentic AI platform for financial\ninstitutions. Our mission is to enable banks to deploy\nintelligent digital agents that are trusted, compliant, and\ndeeply knowledgeable. With KAIgentic, we are redefining\nenterprise AI by giving organizations the power to build and\norchestrate humanlike agents across customer, employee, and\noperational journeys.\n\nRole Overview\n\nWe are seeking a Senior Full Stack Engineer to join our core\nplatform team. You will design, build, and scale the next\ngeneration of KAIgentic, integrating large language models,\nretrieval systems, and intelligent orchestration across\nchannels. This role blends hands-on development with\narchitectural leadership in a highly collaborative and fast-\nmoving environment.\n\nWhat You’ll Do\n\n- Design and implement scalable full stack applications using\n  React, TypeScript, and FastAPI\n- Build backend microservices in Python with SQLAlchemy and\n  PostgreSQL (including vector extensions)\n- Develop and orchestrate LLM workflows using LangChain and\n  LangGraph, integrating multi-provider models (OpenAI,\n  Anthropic, Google)\n- Implement RAG patterns, embedding pipelines, and vector\n  search for intelligent knowledge retrieval\n- Optimize application performance, reliability, and security\n  across Docker/Kubernetes environments\n- Collaborate with AI researchers, product managers, and UX\n  teams to deliver intuitive, production-grade AI\n  experiences\n- Uphold testing, observability, and CI/CD best practices\n  across the stack\n- Contribute to system design discussions, documentation, and\n  technical roadmap decisions\n\nCore Skills\n\n- Frontend: React (hooks, routing, state management),\n  TypeScript (strict mode), Material-UI, Vite\n- Backend: FastAPI, async Python, REST API design, Pydantic\n  validation\n- Database: PostgreSQL, schema design, migrations, vector\n  search\n- AI/LLM: LangChain, LangGraph, RAG workflows, multi-LLM\n  orchestration\n- Infrastructure: Docker, Kubernetes, Helm, Kong Gateway,\n  RabbitMQ, Redis\n- Security: OAuth2/OIDC, Keycloak, API authentication\n- Testing: Vitest/Jest, Playwright, pytest, CI/CD pipelines\n\nNice to Have\n\n- Experience with Java-based legacy systems or modernization\n  projects\n- Familiarity with enterprise compliance (SOC2, GDPR, FedRAMP)\n- Background in multi-tenant SaaS or large-scale distributed\n  systems\n\nWhy Join Kasisto\n\n- Work on KAIgentic, one of the most advanced agentic AI\n  platforms in financial services\n- Collaborate with a world-class team shaping the future of\n  digital banking and intelligent automation\n- Build products used by leading financial institutions\n  worldwide\n- Competitive compensation, equity, and flexible remote work\n",
+  "skills_required": [
+    "Anthropic API",
+    "Google AI API",
+    "Keycloak",
+    "LangChain",
+    "LangGraph",
+    "OAuth2/OIDC",
+    "OpenAI API",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement scalable full stack applications using React, TypeScript, and FastAPI",
+    "Build backend microservices in Python with SQLAlchemy and PostgreSQL including vector extensions",
+    "Develop and orchestrate LLM workflows using LangChain and LangGraph, integrating multi-provider models",
+    "Implement RAG patterns, embedding pipelines, and vector search for intelligent knowledge retrieval",
+    "Optimize application performance, reliability, and security across Docker/Kubernetes environments",
+    "Collaborate with AI researchers, product managers, and UX teams to deliver production-grade AI experiences"
+  ],
+  "use_cases": [
+    "Conversational AI agents for financial institutions",
+    "Customer-facing intelligent digital assistants for banking",
+    "Employee operational automation and support",
+    "Multi-channel agentic AI orchestration across customer journeys",
+    "Compliant and trustworthy AI interactions for enterprise banking",
+    "Knowledge retrieval through RAG for financial services"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Helm",
+    "Jest",
+    "Kong Gateway",
+    "Kubernetes",
+    "Material-UI",
+    "Playwright",
+    "PostgreSQL",
+    "Pydantic",
+    "REST API",
+    "RabbitMQ",
+    "React",
+    "Redis",
+    "SQLAlchemy",
+    "Vector search",
+    "Vite",
+    "Vitest",
+    "pytest"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "Google AI API",
+    "LangChain",
+    "LangGraph",
+    "OpenAI API",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on development of AI/LLM systems,\nspecifically building and orchestrating LLM workflows using\nLangChain and LangGraph, implementing RAG patterns, and\nintegrating multi-provider models. The engineer is working\ndirectly ON the AI platform's core functionality, not just\nsupporting infrastructure or building general applications\nfor an AI company.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "OpenAI API",
+      "Anthropic API",
+      "Google AI API",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "FastAPI",
+      "SQLAlchemy",
+      "Kong Gateway",
+      "REST API",
+      "Pydantic",
+      "Material-UI",
+      "Vite"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Vector search",
+      "Redis"
+    ],
+    "data": [
+      "RabbitMQ"
+    ],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "Vitest",
+      "Jest",
+      "Playwright",
+      "pytest",
+      "CI/CD"
+    ],
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "OAuth2/OIDC",
+      "Keycloak"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

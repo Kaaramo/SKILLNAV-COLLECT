@@ -1,0 +1,93 @@
+{
+  "job_id": "intl-ai-corpus-0531",
+  "source": "intl-ai-corpus",
+  "source_ref": "8230284",
+  "source_url": "https://builtin.com/job/lead-ai-ml-engineer/8230284",
+  "title": "Lead AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Capital Technology Group",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "54 Employees",
+  "company_stage": null,
+  "company_focus": "IT consulting and digital transformation for federal and\ncommercial clients",
+  "industries": [],
+  "description": "Capital Technology Group provides expert consulting services\nsoftware development, digital transformation, human-centered\ndesign, data analytics and visualization, and cybersecurity.\n\nOur multidisciplinary teams use agile methodologies to\nrapidly and incrementally deliver value in close\ncollaboration with our clients. For over a decade, we have\nbeen trusted by both federal and commercial clients to solve\ncomplex, mission-critical business challenges. The quality\nof our work has been recognized by our partners and peers\nthrough our inclusion in the Digital Services Coalition, a\ngroup of forward- thinking firms recognized for excellence\nin delivering IT services.\n\nDescription\n\nCapital Technology Group (CTG) is on a mission to modernize\nand innovate the way the federal government delivers\nsoftware. We are passionate about our work, dedicated to our\nclients, and committed to a culture of continuous learning\nand growth. For this role specifically, we are seeking\nindividuals to help support high-impact, civic tech within\nthe federal government.\n\nAs an integral part of the program, the Lead AI/ML Engineer\nleads the team in evaluating new or emerging technologies\nusing prototypes and/or proof of concepts, analyzes and\ncommunicates the benefits and risks in implementing\nsolutions using the new technologies, and lead teams to\nsupport the adoption of new technologies across the\nenterprise. The Lead AI/ML Engineer will also provide\ntechnical leadership by supervising and mentoring junior IT\nspecialists.\n\nClient Requirements: applicants MUST BE US Citizens and be\nable to obtain Public Trust clearance\n\nResponsibilities\n\n- Leads the team in evaluating new or emerging technologies\n  using prototypes and/or proof of concepts\n- Analyzes and communicates the benefits and risks in\n  implementing solutions using the new technologies\n- Shall have the ability to perform as a developer,\n  operations, and security engineer in cloud environments\n- Lead teams to support the adoption of new technologies\n  across the enterprise\n- Provides technical leadership by supervising and mentoring\n  junior IT specialists\n\nRequirements\n\n- Bachelors Degree\n- 10 years of relevant experience\n  - With at least 3 years of experience deploying production\n    enterprise applications in AWS that use AI/ML\n- Strong proficiency in Python\n- Experience with machine learning frameworks such as\n  TensorFlow or PyTorch\n- Solid data manipulation and analysis skills using pandas\n- Experience working with cloud platforms, with AWS preferred\n- Must be able to get up-to-speed quickly on new projects and\n  technologies\n- Strong communication and problem-solving skills\n\nNice to Have Skills\n\n- People Management Experience\n\nSalary Range\n\nWe are committed to offering a competitive salary for this\nposition, with an estimated range of $155k to $185k\nannually. Please note that this range is intended to provide\na general idea of what to expect; however, the final offer\nmay vary based on experience, skills, and other factors. The\nstated range is not a guarantee and is subject to change.\n\nFull Time Employee Benefits\n\n- Remote Work (Hybrid roles will be specified in the job post)\n- Competitive Compensation Package\n- Medical, Dental, and Vision\n- Life Insurance, Short/Long Term Disability\n- Employee Assistance Program\n- 401(k) with 4% matching\n- Liberal PTO vacation policy\n- Generous Annual Continuing Education\n- Annual Wellness Budget\n- Bonus Incentive Programs (Employee referrals and\n  performance-based rewards)\n\nThanks for your interest in Capital Technology Group!\n\nCapital Technology Group is an equal opportunity employer\nand all qualified applicants will receive consideration for\nemployment without regard to race, color, religion, sex,\nnational origin, disability status, protected veteran\nstatus, or any other characteristic protected by law.\n",
+  "skills_required": [
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Leads the team in evaluating new or emerging technologies using prototypes and/or proof of concepts",
+    "Analyzes and communicates the benefits and risks in implementing solutions using the new technologies",
+    "Perform as a developer, operations, and security engineer in cloud environments",
+    "Lead teams to support the adoption of new technologies across the enterprise",
+    "Provides technical leadership by supervising and mentoring junior IT specialists"
+  ],
+  "use_cases": [
+    "Modernizing and innovating federal government software delivery",
+    "Supporting high-impact civic tech initiatives within federal government",
+    "Deploying production enterprise applications in AWS that use AI/ML",
+    "Evaluating and prototyping emerging technologies for government clients",
+    "Solving complex, mission-critical business challenges for federal and commercial clients"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "pandas"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires 3+ years of experience deploying\nproduction AI/ML applications in AWS and hands-on\nproficiency with TensorFlow/PyTorch frameworks. The Lead\nAI/ML Engineer must perform as a developer in cloud\nenvironments for AI/ML systems, indicating direct work\nbuilding and deploying AI models.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "pandas"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

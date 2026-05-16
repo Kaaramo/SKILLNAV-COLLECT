@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-1703",
+  "source": "intl-ai-corpus",
+  "source_ref": "8582723",
+  "source_url": "https://builtin.com/job/staff-software-engineer-snowflake-ai-automation-engineer/8582723",
+  "title": "Staff software Engineer -  Snowflake/AI Automation Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Trimble",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,001 Employees",
+  "company_stage": "Public",
+  "company_focus": "Geospatial and positioning technology solutions",
+  "industries": [
+    "Hardware",
+    "Information Technology",
+    "Other",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Job Summary:\n\nWe are seeking a highly skilled Senior Snowflake / AI\nAutomation Engineer to support Revenue AI–driven automation\ninitiatives across enterprise financial and revenue systems.\nThis role will focus on designing, developing, and\noptimizing data pipelines, analytics, and automation\nsolutions on Snowflake, with deep integration into ERP and\nrevenue accounting platforms. The ideal candidate brings a\nstrong combination of Snowflake expertise including Cortex\nAnalyst, Snowflake Intelligence etc.., ERP systems\nknowledge, and automation/AI enablement experience to\nsupport scalable, compliant, and audit-ready revenue\nprocesses.\n\nKey Responsibilities\n\n- Design, build, and optimize Snowflake-based data models and\n  pipelines to support Revenue AI and automation use cases\n- Develop scalable solutions to automate revenue recognition,\n  forecasting, analytics, and reporting\n- Integrate Snowflake with ERP systems like Salesforce and\n  Oracle to enable end-to-end Quote-to-Revenue (Q2R)\n  workflows\n- Support AI/ML-enabled analytics by preparing high-quality,\n  governed datasets for advanced modeling and automation\n- Collaborate with Finance, Revenue Accounting, IT, and Data\n  Science teams to translate business requirements into\n  technical solutions\n- Ensure data accuracy, reconciliation, and compliance with\n  SOX and audit requirements\n- Optimize Snowflake performance, cost management, and\n  security best practices\n- Participate in system upgrades, enhancements, and production\n  support related to revenue systems and automation\n- Contribute to documentation, controls, and operational\n  runbooks for enterprise data platforms\n\nRequired Qualifications\n\n  - Strong hands-on experience with Snowflake, including:\n    - Data modeling\n    - Cortex Analyst, Search\n    - Snowflake Intelligence\n    - Performance optimization\n    - Security and access controls\n    - Data sharing and automation\n    - Security and access controls\n\n  - Strong ERP experience, preferably with:\n    - Oracle EBS / Oracle Cloud ERP\n    - SAP\n    - NetSuite\n  - Experience supporting Revenue, Finance, or Accounting\n    domains, especially RevPro or other revenue accounting\n    platforms is preferred.\n  - Proficiency in SQL and at least one programming language\n    (Python preferred)\n  - Experience building automated data pipelines using modern\n    ELT/ETL tools\n  - Strong understanding of data governance, controls, and audit\n    readiness\n  - Ability to work cross-functionally with technical and non-\n    technical stakeholders\n  - Experience with AI/ML analytics, predictive modeling\n  - Experience with cloud platforms (AWS, Azure, or GCP)\n  - Knowledge of modern data tools (dbt, Airflow, CI/CD for data\n    platforms)\n\nHow to Apply: Please submit an online application for this\nposition by clicking on the ‘Apply Now’ button located in\nthis posting.\n\nJoin a Values-Driven Team: Belong, Grow, Innovate.\n\nAt Trimble, our core values of Belong, Grow, and Innovate\naren't just words—they're the foundation of our culture. We\nfoster an environment where you are seen, heard, and valued\n(Belong); where you have an opportunity to build a career\nand drive our collective growth (Grow); and where your\ninnovative ideas shape the future (Innovate). We believe in\nempowering local teams to create impactful strategies,\nensuring our global vision resonates with every individual.\nBecome part of a team where your contributions truly matter.\n\nTrimble’s Privacy Policy\n\nIf you need assistance or would like to request an\naccommodation in connection with the application process,\nplease contact AskPX@px.trimble.com.\n",
+  "skills_required": [
+    "Cortex Analyst",
+    "Data governance",
+    "NetSuite",
+    "Oracle Cloud ERP",
+    "Oracle EBS",
+    "RevPro",
+    "SAP",
+    "Salesforce"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and optimize Snowflake-based data models and pipelines to support Revenue AI and automation use cases",
+    "Develop scalable solutions to automate revenue recognition, forecasting, analytics, and reporting",
+    "Integrate Snowflake with ERP systems like Salesforce and Oracle to enable end-to-end Quote-to-Revenue workflows",
+    "Support AI/ML-enabled analytics by preparing high-quality, governed datasets for advanced modeling and automation",
+    "Collaborate with Finance, Revenue Accounting, IT, and Data Science teams to translate business requirements into technical solutions",
+    "Ensure data accuracy, reconciliation, and compliance with SOX and audit requirements",
+    "Optimize Snowflake performance, cost management, and security best practices",
+    "Contribute to documentation, controls, and operational runbooks for enterprise data platforms"
+  ],
+  "use_cases": [
+    "Revenue recognition automation",
+    "Financial forecasting and analytics",
+    "Quote-to-Revenue workflow automation",
+    "ERP data integration and reconciliation",
+    "Compliance and audit-ready revenue processes"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "CI/CD",
+    "ETL/ELT",
+    "GCP",
+    "Snowflake",
+    "Snowflake Intelligence",
+    "dbt"
+  ],
+  "frameworks_mentioned": [
+    "Cortex Analyst"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is ai-support because it focuses on building data\npipelines and infrastructure on Snowflake to support AI\ninitiatives, rather than building or deploying AI/ML models\ndirectly. The engineer prepares datasets and enables AI/ML\nanalytics but does not work hands-on with model development,\ntraining, or deployment.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Cortex Analyst"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Snowflake",
+      "Snowflake Intelligence"
+    ],
+    "data": [
+      "ETL/ELT",
+      "dbt",
+      "Airflow"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "CI/CD"
+    ],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Oracle EBS",
+      "Oracle Cloud ERP",
+      "SAP",
+      "NetSuite",
+      "RevPro",
+      "Data governance",
+      "Salesforce"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

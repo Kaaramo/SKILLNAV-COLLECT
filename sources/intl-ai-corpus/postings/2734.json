@@ -1,0 +1,155 @@
+{
+  "job_id": "intl-ai-corpus-2734",
+  "source": "intl-ai-corpus",
+  "source_ref": "8989713",
+  "source_url": "https://builtin.com/job/ai-developer/8989713",
+  "title": "AI Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "TechTorch",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-08",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "97 Employees",
+  "company_stage": "Growth (references PE clients and Fortune 500 engagement)",
+  "company_focus": "Designing, building, and deploying AI agents that automate\nenterprise workflows",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology"
+  ],
+  "description": "About TechTorch\n\nAt TechTorch, we’re building the future of intelligent work.\nOur mission is to help companies design, build, and deploy\nAI agents that automate complex, real-world workflows —\ndelivering reliability, measurable ROI, and massive\nefficiency gains.\n\nHere, you won’t just be playing with prompts or running\nendless proofs of concept. You’ll ship production-grade AI\nsystems that solve real problems across industries.\n\nYou’ll join a hands-on, fast-moving, ownership-driven team\nthat thrives on building quickly, iterating fast, and seeing\nresults in days — not months.\n\nRole overview\n\nWe’re looking for an AI Developer who can design, implement,\nand deploy agentic systems that actually work in production.\n\nIf you’ve been building AI agents for the last couple of\nyears and love the challenge of getting things done fast —\nthis is your place.\n\nThis is not a research role. It’s about building, testing,\nand shipping real AI products that deliver measurable\nbusiness value.\n\nWhat you’ll do\n\n- Design and implement multi-step AI agents and orchestration\n  workflows in Python\n- Build using LangGraph, LangChain, n8n, AWS Bedrock, and\n  similar tools\n- Integrate and evaluate top models (Gemini, GPT, Claude,\n  etc.)\n- Connect agents to real systems (APIs, SaaS apps, webhooks,\n  queues, events)\n- Implement memory, retrieval, and planning for reliable agent\n  behavior\n- Take prototypes to production — with CI/CD, containers, and\n  cloud deployment\n- Build internal SDKs and reusable agent templates to speed up\n  delivery\n- Instrument everything — logging, tracing, guardrails,\n  evaluation\n- Work directly with clients to capture requirements, run\n  experiments, and iterate fast\n- Apply best practices for security, privacy, and safety in\n  all deployments\n\nWhat you bring\n\n- 2+ years of hands-on experience building and shipping AI\n  agents or complex automations\n- Strong Python skills (async, testing, packaging)\n- Experience with LangGraph or LangChain, plus orchestration\n  tools (n8n, Bedrock, Airflow, Prefect, Temporal, etc.)\n- Familiarity with OpenAI, Gemini, Claude, or similar model\n  ecosystems\n- Solid data foundations: embeddings, RAG, chunking, indexing\n- Software engineering fundamentals: Git, CI/CD, Docker, AWS\n- Bonus: TypeScript, FastAPI, Node.js, Supabase, or\n  observability tools (Langfuse, W&B, OpenTelemetry)\n\nHow you work\n\n- You own your outcomes — from idea to deployment\n- You’re proactive, adaptable, and thrive in fast-changing\n  environments\n- You like moving fast, but never at the cost of quality\n- You communicate clearly and love solving problems\n  collaboratively\n\nOur Values\n\nClient First — We focus relentlessly on delivering outcomes\nthat create value for our clients.\n\nWe, Not Me — We win together. Collaboration drives\ntransformation at scale.\n\nGet Stuff Done — We execute with speed and precision —\nbecause in PE, time matters.\n\nAI First — We embed AI at the core, enabling scalable, high-\nleverage solutions.\n\nOwn It — We take accountability for results, delivering on\nwhat we promise.\n\nAgile mindset — We adapt quickly and proactively seek better\nways to move forward.\n\nWhat We Offer\n\n- Work on real, high-impact AI systems — not just demos\n- Exposure to Fortune 500 and private equity clients\n- Remote-first and flexible — we care about results, not hours\n- Fast recruitment process — we move as quickly as you do\n- Career growth, certifications, and access to leading AI tech\n",
+  "skills_required": [
+    "AI agents",
+    "AWS Bedrock",
+    "Claude API",
+    "Gemini",
+    "LangChain",
+    "LangGraph",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement multi-step AI agents and orchestration workflows in Python",
+    "Build using LangGraph, LangChain, n8n, AWS Bedrock, and similar tools",
+    "Integrate and evaluate top LLM models (Gemini, GPT, Claude) for agent workflows",
+    "Connect agents to real systems via APIs, SaaS apps, webhooks, queues, and events",
+    "Implement memory, retrieval, and planning for reliable agent behavior",
+    "Take prototypes to production with CI/CD, containers, and cloud deployment",
+    "Build internal SDKs and reusable agent templates to speed up delivery",
+    "Work directly with clients to capture requirements, run experiments, and iterate fast"
+  ],
+  "use_cases": [
+    "Automating complex real-world enterprise workflows with AI agents",
+    "Production-grade multi-step agent orchestration for business process automation",
+    "Connecting AI agents to enterprise SaaS and API ecosystems",
+    "Delivering measurable ROI and efficiency gains for Fortune 500 and PE clients",
+    "Building reusable agent templates for scalable deployment across industries"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Git",
+    "Langfuse",
+    "OpenTelemetry",
+    "Postgres",
+    "Prefect",
+    "REST APIs",
+    "Supabase",
+    "Temporal",
+    "Vector databases",
+    "W&B",
+    "n8n"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "AWS Bedrock",
+    "Claude API",
+    "Gemini",
+    "LangChain",
+    "LangGraph",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on designing, implementing,\nand deploying agentic AI systems using LangGraph, LangChain,\nand LLM APIs. The developer builds production-grade multi-\nstep AI agents with memory, retrieval, and planning\ncapabilities — clearly hands-on work building and deploying\nAI systems, not supporting infrastructure for others.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "RAG",
+      "Prompt engineering",
+      "OpenAI API",
+      "AWS Bedrock",
+      "Gemini",
+      "Claude API",
+      "AI agents"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [
+      "Postgres",
+      "Supabase",
+      "Vector databases"
+    ],
+    "data": [
+      "n8n",
+      "Airflow",
+      "Prefect",
+      "Temporal"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "Git",
+      "Langfuse",
+      "W&B",
+      "OpenTelemetry"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

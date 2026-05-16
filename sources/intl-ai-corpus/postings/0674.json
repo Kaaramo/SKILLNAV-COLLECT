@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-0674",
+  "source": "intl-ai-corpus",
+  "source_ref": "8328948",
+  "source_url": "https://builtin.com/job/principal-ai-ml-engineer/8328948",
+  "title": "Principal AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pragmatike",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "11 Employees",
+  "company_stage": "Seed",
+  "company_focus": "GenAI startup building production AI systems",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "Location: Cambridge, MA (Eastern Time / UTC -4) Relocation\npackage available or Remote option for Out-Of-State\napplicants Start date: ASAP Languages: English (required)\n\nAbout the Role\n\nPragmatike is hiring on behalf of a fast-growing AI startup\nrecognized as a Top 10 GenAI company by GTM Capital, founded\nby MIT CSAIL researchers.\n\nWe are seeking a Principal AI/ML Engineer to lead the\ndesign, implementation, and scaling of the companys ML\ninfrastructure and production AI systems. This is a high-\nimpact, architecture-defining role where youll work across\nthe entire model lifecycletraining, evaluation, deployment,\nobservability, and continuous optimization.\n\nYou will partner closely with AI researchers, GPU systems\nengineers, backend teams, and product stakeholders to ensure\nthe companys large-scale AI systems are robust, efficient,\nautomated, and production-grade. This role is ideal for\nsomeone who has already built and owned ML platforms at\nscale and can drive strategy as well as hands-on execution.\n\nWhat Youll Do\n\n- Architect, build, and scale the end-to-end ML Ops pipeline,\n  including training, fine-tuning, evaluation, rollout, and\n  monitoring.\n- Design reliable infrastructure for model deployment,\n  versioning, reproducibility, and orchestration across\n  cloud and on-prem GPU clusters.\n- Optimize compute usage across distributed systems\n  (Kubernetes, autoscaling, caching, GPU allocation,\n  checkpointing workflows).\n- Lead the implementation of observability for ML systems\n  (monitor drift, performance, throughput, reliability,\n  cost).\n- Build automated workflows for dataset curation, labeling,\n  feature pipelines, evaluation, and CI/CD for ML models.\n- Collaborate with researchers to productionize models and\n  accelerate training/inference pipelines.\n- Establish ML Ops best practices, internal standards, and\n  cross-team tooling.\n- Mentor engineers and influence architectural direction\n  across the entire AI platform.\n\nWhat Are Looking For\n\n- Deep hands-on experience designing and operating production\n  ML systems at scale (Staff/Principal-level expected).\n- Strong background in ML Ops, distributed systems, and cloud\n  infrastructure (AWS, GCP, or Azure).\n- Proficiency with Python and familiarity with TypeScript or\n  Go for platform integration.\n- Expertise in ML frameworks: PyTorch, Transformers, vLLM,\n  Llama-factory, Megatron-LM, CUDA / GPU acceleration\n  (practical understanding)\n- Strong experience with containerization and orchestration\n  (Docker, Kubernetes, Helm, autoscaling).\n- Deep understanding of ML lifecycle workflows: training,\n  fine-tuning, evaluation, inference, model registries.\n- Ability to lead technical strategy, collaborate cross-\n  functionally, and operate in fast-paced environments\n\nBonus Points\n\n- Experience deploying and operating LLMs and generative\n  models in production at enterprise scale.\n- Familiarity with DevOps, CI/CD, automated deployment\n  pipelines, and infrastructure-as-code.\n- Experience optimizing GPU clusters, scheduling, and\n  distributed training frameworks.\n- Prior startup experience or comfort operating with ambiguity\n  and high ownership.\n- Experience working with data engineering, feature pipelines,\n  or real-time ML systems.\n\nWhy This Role Will Pivot Your Career\n\n- Research pedigree: MIT CSAIL founders recognized for\n  breakthrough AI and systems contributions.\n- Customer impact: Deploy AI solutions powering Fortune 500\n  clients.\n- Industry momentum: Lab alumni have led high-value\n  acquisitions (MosaicML Databricks, Run:AI Nvidia, W&B\n  CoreWeave).\n- Funding & growth: Oversubscribed seed round, next funding in\n  2026.\n- Career growth & influence: Lead AI initiatives, optimize\n  pipelines, and directly impact production AI systems at\n  scale.\n- Culture & autonomy: Own critical systems while collaborating\n  with world-class engineers.\n- Aspirational impact: Solve AI performance challenges few\n  engineers ever face.\n\nBenefits\n\n- Competitive salary & equity options\n- Sign-on bonus\n- Health, Dental, and Vision\n- 401k\n\nPragmatike is an Equal Opportunity Employer and is committed\nto providing equal employment opportunities to all\napplicants without discrimination. We recruit on behalf of\nour clients and prohibit discrimination and harassment based\non race, color, religion, age, sex, national origin,\ndisability status, genetics, protected veteran status,\nsexual orientation, gender identity or expression, or any\nother characteristic protected by federal, state, or local\nlaws. This policy applies to all terms and conditions of\nemployment, including recruiting, hiring, placement,\npromotion, termination, layoff, recall, transfer, leaves of\nabsence, compensation, and training.We are committed to a\nfair and inclusive hiring process. We process your personal\ndata solely for recruitment purposes, in accordance with\napplicable privacy laws, and maintain reasonable safeguards\nto protect your information. Your data may be shared with\nour client(s) for hiring consideration, but will not be\ndisclosed to third parties outside of the recruitment\nprocess.\n",
+  "skills_required": [
+    "CUDA",
+    "GPU acceleration",
+    "LLMs",
+    "Llama-factory",
+    "Megatron-LM",
+    "PyTorch",
+    "Transformers",
+    "fine-tuning",
+    "model training"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect, build, and scale the end-to-end ML Ops pipeline including training, fine-tuning, evaluation, rollout, and monitoring",
+    "Design reliable infrastructure for model deployment, versioning, reproducibility, and orchestration across cloud and on-prem GPU clusters",
+    "Optimize compute usage across distributed systems including Kubernetes, autoscaling, caching, GPU allocation, and checkpointing workflows",
+    "Lead the implementation of observability for ML systems to monitor drift, performance, throughput, reliability, and cost",
+    "Build automated workflows for dataset curation, labeling, feature pipelines, evaluation, and CI/CD for ML models",
+    "Collaborate with researchers to productionize models and accelerate training and inference pipelines",
+    "Establish ML Ops best practices, internal standards, and cross-team tooling",
+    "Mentor engineers and influence architectural direction across the entire AI platform"
+  ],
+  "use_cases": [
+    "Deploying large-scale generative AI models and LLMs in production environments",
+    "Optimizing training and inference pipelines for AI systems serving Fortune 500 clients",
+    "Managing distributed GPU clusters for model training and serving at enterprise scale",
+    "Implementing observability and monitoring for production ML systems to ensure reliability and performance",
+    "Building automated ML workflows for model lifecycle management including fine-tuning and evaluation"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "GCP",
+    "Helm",
+    "Kubernetes",
+    "ML Ops",
+    "distributed systems",
+    "inference",
+    "model registries",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "GPU acceleration",
+    "LLMs",
+    "Llama-factory",
+    "Megatron-LM",
+    "PyTorch",
+    "Transformers",
+    "fine-tuning",
+    "model training"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a Principal AI/ML Engineer role that involves hands-\non work across the entire model lifecycle including\ntraining, fine-tuning, deployment, and optimization of LLMs\nand generative models. The role requires expertise in ML\nframeworks (PyTorch, Transformers, vLLM, Llama-factory,\nMegatron-LM), GPU acceleration, and direct productionization\nof models, which clearly places this in the ai-first\ncategory.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "Transformers",
+      "Llama-factory",
+      "LLMs"
+    ],
+    "ml": [
+      "PyTorch",
+      "Megatron-LM",
+      "CUDA",
+      "GPU acceleration",
+      "fine-tuning",
+      "model training"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "vLLM",
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "ML Ops",
+      "distributed systems",
+      "CI/CD",
+      "inference",
+      "model registries"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

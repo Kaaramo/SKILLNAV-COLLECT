@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-1061",
+  "source": "intl-ai-corpus",
+  "source_ref": "8086870",
+  "source_url": "https://builtin.com/job/sr-software-engineer-search-relevance-applied-ai/8086870",
+  "title": "Sr Software Engineer, Search Relevance (Applied AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Databricks",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-21",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,200 Employees",
+  "company_stage": "Public",
+  "company_focus": "Data and AI platform - unified analytics, data, and ML",
+  "industries": [
+    "Big Data",
+    "Machine Learning",
+    "Software",
+    "Analytics",
+    "Big Data Analytics"
+  ],
+  "description": "P-1407\n\nThe Applied AI team at Databricks sits at the forefront of\nadvancing AI/ML-powered products. Databricks’ customers are\ncontinuously creating new assets (tables, notebooks,\ndashboards, datarooms, pipelines, sql queries, ml models\netc.) on the platform. Some of them can have hundreds of\nmillions of assets. Finding an asset is a critical user\njourney for Databricks’ customers which helps them\naccomplish their tasks.\n\nAs our Search product continues to evolve, we are seeking\nmultiple ML Engineers from junior levels to more senior\nlevels to drive enhancements to our Search Quality. In 2026,\nwe will focus on enhancing search ranking, improving query\nunderstanding, building robust evals and growing the\ncoverage of assets to enable seamless search at scale.\n\nKey Responsibilities\n\n- Drive the development and deployment of ML based search and\n  discovery relevance models and systems integrated with\n  Databricks' products and services.\n- Design and implement automated ML and NLP pipelines for data\n  preprocessing, query understanding and rewrite, ranking\n  and retrieval, and model evaluation, enabling rapid\n  experimentation and iteration.\n- Collaborate with product managers and cross-functional teams\n  to drive technology-first initiatives that enable novel\n  business strategies and product roadmaps for the search\n  and discovery experience.\n- Contribute to building a robust framework for evaluating\n  search ranking improvements - both offline and online.\n\nWhat We’re Looking For\n\n- BS+ (M.S. or PhD preferred) in Computer Science, or a\n  related field.\n- 6+ years experience developing search relevance systems at\n  scale in production or in high-impact research\n  environments.\n- Experience applying LLM to search relevance\n- Experience in one or more of the following:\n- Strong understanding of computer science fundamentals.\n- Contributions to well-used open-source projects.\n\nWhy Join Us? At Databricks, we are building state-of-the-art\nAI solutions that redefine how users interact with data and\nour products. You’ll have the opportunity to shape the\nfuture of AI-driven products at Databricks, work with\ncutting-edge models, and collaborate with a world-class team\nof AI and ML experts.\n\nIf you're excited about pushing the boundaries of AI in\nreal-world applications, we’d love to hear from you!\n\nAbout Databricks\n\nDatabricks is the data and AI company. More than 10,000\norganizations worldwide — including Comcast, Condé Nast,\nGrammarly, and over 50% of the Fortune 500 — rely on the\nDatabricks Data Intelligence Platform to unify and\ndemocratize data, analytics and AI. Databricks is\nheadquartered in San Francisco, with offices around the\nglobe and was founded by the original creators of Lakehouse,\nApache Spark™, Delta Lake and MLflow. To learn more, follow\nDatabricks on Twitter, LinkedIn and Facebook. Benefits At\nDatabricks, we strive to provide comprehensive benefits and\nperks that meet the needs of all of our employees. For\nspecific details on the benefits offered in your region,\nplease visit https://www.mybenefitsnow.com/databricks.\n\nOur Commitment to Diversity and Inclusion\n\nAt Databricks, we are committed to fostering a diverse and\ninclusive culture where everyone can excel. We take great\ncare to ensure that our hiring practices are inclusive and\nmeet equal employment opportunity standards. Individuals\nlooking for employment at Databricks are considered without\nregard to age, color, disability, ethnicity, family or\nmarital status, gender identity or expression, language,\nnational origin, physical and mental ability, political\naffiliation, race, religion, sexual orientation, socio-\neconomic status, veteran status, and other protected\ncharacteristics.\n\nCompliance\n\nIf access to export-controlled technology or source code is\nrequired for performance of job duties, it is within\nEmployer's discretion whether to apply for a U.S. government\nlicense for such positions, and Employer may decline to\nproceed with an applicant on this basis alone.\n",
+  "skills_required": [
+    "LLMs",
+    "ML pipelines",
+    "Model evaluation",
+    "NLP",
+    "Query rewriting",
+    "Query understanding",
+    "Ranking models",
+    "Retrieval systems",
+    "Search relevance"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Drive the development and deployment of ML based search and discovery relevance models and systems integrated with Databricks' products and services",
+    "Design and implement automated ML and NLP pipelines for data preprocessing, query understanding and rewrite, ranking and retrieval, and model evaluation",
+    "Collaborate with product managers and cross-functional teams to drive technology-first initiatives for search and discovery experience",
+    "Contribute to building a robust framework for evaluating search ranking improvements - both offline and online"
+  ],
+  "use_cases": [
+    "Enterprise search for data platform assets including tables, notebooks, dashboards, pipelines, and ML models",
+    "Search relevance and ranking for millions of platform assets",
+    "Query understanding and query rewriting for improved search results",
+    "Automated search evaluation and quality measurement"
+  ],
+  "tools_mentioned": [
+    "Data preprocessing"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "ML pipelines",
+    "Model evaluation",
+    "NLP",
+    "Query rewriting",
+    "Query understanding",
+    "Ranking models",
+    "Retrieval systems",
+    "Search relevance"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on ML engineering for search relevance\nsystems, explicitly mentioning developing and deploying ML-\nbased models, applying LLMs to search relevance, building\nNLP pipelines for query understanding and ranking, and\ndesigning automated ML systems. The engineer will directly\nwork with models (LLMs, relevance models) and deploy them in\nproduction, not just support infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "NLP",
+      "Query understanding",
+      "Query rewriting"
+    ],
+    "ml": [
+      "Search relevance",
+      "Ranking models",
+      "Retrieval systems",
+      "Model evaluation",
+      "ML pipelines"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Data preprocessing"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

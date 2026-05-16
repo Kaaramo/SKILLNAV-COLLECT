@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-2001",
+  "source": "intl-ai-corpus",
+  "source_ref": "8690619",
+  "source_url": "https://builtin.com/job/ai-engineer/8690619",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Prodigal",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-09",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "58 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI agents for loan servicing and consumer finance\ncollections",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "At Prodigal, we are building AI Agents for loan servicing\nand collections. Founded in 2018 by IITB alumni, our journey\nbegan with one bold mission: to eradicate the inefficiencies\nand confusion that have plagued the lending and collections\nindustry for decades. We are backed by Y Combinator, Accel\nand Menlo Ventures.\n\nToday, we stand at the forefront of a seismic shift in the\nindustry, building Agentic AI applications for consumer\nfinance. Powered by our cutting-edge platform, Prodigal’s\nIntelligence Engine (PIE), we’re creating the next-\ngeneration agentic workforce - one that empowers companies\nto achieve unprecedented levels of operational excellence\nand intelligence.\n\nWith over half a billion consumer finance interactions\nprocessed and a growing impact on more than 100 leading\ncompanies across North America, we’ve established ourselves\nas the go-to partner for organizations that demand more from\ntheir AI solutions. Our unparalleled experience, coupled\nwith our trusted customer relationships, uniquely positions\nus to build Agentic AI applications that will revolutionize\nthe future of consumer finance.\n\nAt Prodigal, we are driven by a singular, unrelenting\npurpose: to transform how consumer finance companies engage\nwith their customers and, in turn, drive successful outcomes\nfor all.\n\nAbout the Role\n\nWe're looking for an AI Engineer to join the proAgent pod\nand work on the systems that power our autonomous voice\nagents in live financial conversations. You'll work\nalongside a small, high-agency team where you will have real\nownership over features and components from day one.\n\nThis is a hands-on engineering role. You'll be deep in the\ncode — building agent logic, integrating speech models,\ntuning prompts, and debugging gnarly real-time issues. You\ndon't need to have done all of this before, but you need to\nbe the kind of engineer who figures things out fast, takes\nfeedback well, and ships.\n\nWhat You'll Do\n\nAgent Loop & Reasoning\n\n- Build and maintain components of the agentic runtime that\n  powers multi-turn financial conversations — covering\n  payment negotiations, compliance guardrails, and objection\n  handling\n- Implement context management logic that tracks consumer\n  state, conversation history, and business rules across\n  long, branching dialogues\n- Write and iterate on primitives that balance conversational\n  fluidity with structured reasoning — the agent needs to\n  feel human while making verifiable decisions\n\nVoice AI Systems\n\n- Work on our real-time voice pipeline with a target of sub-1s\n  latency across transcription, reasoning, and synthesis\n- Contribute to VAD tuning and turn-taking logic that makes\n  conversations feel natural\n- Help evaluate and integrate speech models (STT, TTS, speech-\n  to-speech) — we currently work with ElevenLabs and\n  Cartesia for TTS, and Deepgram for STT, and are always\n  exploring what's next\n- Debug streaming audio and WebRTC issues in production\n\nLLM Infrastructure\n\n- Write and refine prompts, implement orchestration flows, and\n  contribute to model routing logic\n- Build components of our evaluation framework — helping\n  measure agent quality across conversation quality,\n  empathy, and compliance adherence\n- Stay curious about new models and tools — flag opportunities\n  and contribute to build-vs-integrate discussions\n\nWhat You Bring\n\n- 2 – 5 years of hands-on engineering experience, with good\n  exposure to building or working with ML or AI systems in\n  production.\n- Solid Python fundamentals — you are comfortable writing\n  clean, maintainable code and debugging production issues.\n- Some experience working with LLMs: prompt engineering, API\n  integrations, or building simple pipelines or agents.\n- High bias for action — you don't wait to be told exactly\n  what to do, and you push yourself to ship rather than\n  over-engineer.\n- Strong fundamentals in Python; familiarity with TypeScript\n  is a plus.\n- Eager to learn in a fast-moving environment, take ownership\n  of your work, and ask good questions.\n\nEven Better\n\n- Exposure to voice AI: speech recognition, synthesis, or\n  telephony systems — even if only through personal projects\n  or coursework\n- Any background or interest in fintech, lending, or\n  collections\n- You've tinkered with Twilio, LiveKit, ElevenLabs, or similar\n  real-time infrastructure\n- You've built a small agentic system — even a side project —\n  that combines LLM reasoning with structured actions\n- Familiarity with streaming protocols, WebRTC, or low-latency\n  system design\n\nWhy This Role\n\n- Real ownership from day one: proAgent is a small pod. You\n  won't be a cog — you'll own components, ship features, and\n  see your work in live consumer conversations within weeks.\n- Frontier work: voice AI that reasons, decides, and acts is\n  one of the hardest problems in applied AI. You'll be\n  learning by doing on problems most engineers never touch.\n- Strong mentorship: you'll work directly with senior\n  engineers and the AI Lead who will invest in your growth —\n  this is a place to level up fast.\n- High leverage early career: the decisions you make and the\n  code you write will impact millions of financial\n  conversations. Rare for an early-career role.\n\nFrom day 1, Prodigal has been defined by talented, humble,\nand hungry leaders and we want this mindset and culture to\ncontinue to blossom from top to bottom in the company. If\nyou have an entrepreneurial spirit and want to work in a\nfast-paced, intellectually-stimulating environment where you\nwill be pushed to grow, then please reach out because we are\nlooking to build a transformational company that reinvents\none of the biggest industries in the US.\n\nTo learn more about us - please visit the following:\n\nOur Story - https://www.prodigaltech.com/our-story\n\nWhat shapes our thinking -\nhttps://link.prodigaltech.com/our-thesis\n\nOur website - https://www.prodigaltech.com/\n",
+  "skills_required": [
+    "AI Agents",
+    "Cartesia",
+    "Deepgram",
+    "ElevenLabs",
+    "LLM APIs",
+    "Prompt Engineering",
+    "Speech-to-Text (STT)",
+    "Text-to-Speech (TTS)",
+    "Voice Activity Detection (VAD)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain agentic runtime components for multi-turn financial conversations including payment negotiations and compliance guardrails",
+    "Implement context management logic tracking consumer state and conversation history across branching dialogues",
+    "Work on real-time voice pipeline targeting sub-1s latency across transcription, reasoning, and synthesis",
+    "Contribute to VAD tuning and turn-taking logic for natural conversations",
+    "Evaluate and integrate speech models including STT, TTS, and speech-to-speech systems",
+    "Debug streaming audio and WebRTC issues in production",
+    "Write and refine prompts, implement orchestration flows, and contribute to model routing logic",
+    "Build evaluation framework components measuring conversation quality, empathy, and compliance adherence"
+  ],
+  "use_cases": [
+    "Autonomous voice agents for live financial conversations",
+    "Loan servicing and collections automation",
+    "Payment negotiation and objection handling via AI agents",
+    "Consumer finance compliance monitoring and guardrails",
+    "Real-time voice AI for customer engagement in lending industry"
+  ],
+  "tools_mentioned": [
+    "LiveKit",
+    "Streaming protocols",
+    "Twilio",
+    "WebRTC"
+  ],
+  "frameworks_mentioned": [
+    "AI Agents",
+    "Cartesia",
+    "Deepgram",
+    "ElevenLabs",
+    "LLM APIs",
+    "Prompt Engineering",
+    "Speech-to-Text (STT)",
+    "Text-to-Speech (TTS)",
+    "Voice Activity Detection (VAD)"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on engineering role directly building AI\nagents for voice conversations. The engineer will build\nagent logic, integrate speech models, tune prompts, and work\non the agentic runtime that powers multi-turn conversations.\nThis is core AI/LLM development work, not support\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt Engineering",
+      "LLM APIs",
+      "AI Agents",
+      "Speech-to-Text (STT)",
+      "Text-to-Speech (TTS)",
+      "ElevenLabs",
+      "Cartesia",
+      "Deepgram"
+    ],
+    "ml": [
+      "Voice Activity Detection (VAD)"
+    ],
+    "web": [
+      "WebRTC",
+      "Streaming protocols"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Twilio",
+      "LiveKit"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

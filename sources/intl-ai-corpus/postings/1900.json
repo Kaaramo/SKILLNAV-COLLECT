@@ -1,0 +1,163 @@
+{
+  "job_id": "intl-ai-corpus-1900",
+  "source": "intl-ai-corpus",
+  "source_ref": "8628281",
+  "source_url": "https://builtin.com/job/applied-ai-engineer/8628281",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PermitFlow",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-02",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "76 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI agents for construction permitting, licensing, and\ncompliance automation",
+  "industries": [],
+  "description": "PermitFlow is redefining how America builds. We’re an\napplied AI company serving the nation’s builders, tackling\none of the largest information challenges in the economy:\nunderstanding what can be built, where, and how. Our AI\nagent workforce helps the fastest-growing construction\ncompanies navigate everything from permitting and licensing\nto inspections and project closeouts – accelerating housing,\nclean-energy, and infrastructure development across the\ncountry.\n\nDespite being a $1.6T industry, construction still suffers\nfrom massive delays, wasted capital, and lost opportunity.\nPermitFlow has already delivered unprecedented speed,\naccuracy, and visibility to over $20B in development,\nhelping contractors reduce compliance time, de-risk\nprojects, and scale with confidence.\n\nAs the U.S. enters a new capex supercycle across data\ncenters, factories, housing, and renewables, joining\nPermitFlow means building the AI infrastructure at the core\nof every construction project driving the next wave of\nreindustrialization.\n\nWe’ve raised over $90M, most recently completing our Series\nB, from top-tier investors including Accel, Kleiner Perkins,\nInitialized, Y Combinator, Felicis, and Altos Ventures, with\nbacking from leaders at OpenAI, Google, Procore,\nServiceTitan, Zillow, PlanGrid, and Uber.\n\nOur HQ is in New York City with a hybrid schedule (3 in-\noffice days per week). We prefer NYC-based candidates or\nthose open to relocation.\n\nRole Overview\n\nAs an Applied AI Engineer, you will design and deploy the AI\nagents that power PermitFlow’s pre-construction platform.\nYou will own the full lifecycle of intelligent agents—from\nmodel development to orchestration, productionization, and\nevaluation—while contributing to core platform engineering.\n\nWhat You’ll Do\n\n- Develop and deploy AI agents that automate permitting\n  workflows end-to-end\n- Orchestrate multiple models and tools to create reliable,\n  multi-step AI systems\n- Build the internal tools and infrastructure that power and\n  monitor these agents\n- Design and implement backend and frontend services, APIs,\n  and data pipelines, integrating AI functionality into\n  user-facing features when needed\n- Contribute to system architecture and core platform design\n  with the engineering team\n- Design and maintain a suite of evaluations and benchmarks to\n  measure agent accuracy, reliability, and cost-\n  effectiveness\n- Optimize inference pipelines and backend systems for speed,\n  scalability, and cost\n\nWhat We’re Looking For\n\n- 3+ years in software or ML engineering post-BS/MS\n- Hands-on experience shipping production AI/ML systems or AI-\n  powered products\n- Experience building multi-step ML systems, pipelines, or\n  agentic workflows\n- Strong backend and API development skills, with some\n  frontend experience\n- Track record of building reliable products with attention to\n  quality and detail\n- Startup grit and comfort in fast-moving, evolving\n  environments\n\nWhat We Offer\n\n- Competitive salary and meaningful equity in a high-growth\n  company\n- Comprehensive medical, dental, and vision coverage\n- Flexible PTO and paid family leave\n- Home office & equipment stipend\n- Hybrid NYC office culture (3 days in-office/week) with\n  direct access to leadership\n- In-Office Lunch & Dinner Provided\n\nPermitFlow provides equal employment opportunities (EEO) to\nall employees and applicants for employment without regard\nto race, color, religion, sex, national origin, age,\ndisability, genetics, sexual orientation, gender identity,\ngender expression, or family status, as protected by\napplicable law.\n\nWe are committed to a diverse and inclusive workforce and\nwelcome people from all backgrounds, experiences,\nperspectives, and abilities. All employment decisions are\nbased on merit, qualifications, and business needs.\n",
+  "skills_required": [
+    "AI agents",
+    "Agent evaluation",
+    "LangChain",
+    "LangGraph",
+    "Model orchestration",
+    "Model training",
+    "OpenAI API",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and deploy AI agents that automate permitting workflows end-to-end",
+    "Orchestrate multiple models and tools to create reliable, multi-step AI systems",
+    "Build internal tools and infrastructure that power and monitor AI agents",
+    "Design and implement backend and frontend services, APIs, and data pipelines integrating AI functionality",
+    "Contribute to system architecture and core platform design",
+    "Design and maintain evaluations and benchmarks to measure agent accuracy, reliability, and cost-effectiveness",
+    "Optimize inference pipelines and backend systems for speed, scalability, and cost"
+  ],
+  "use_cases": [
+    "Automating construction permitting workflows end-to-end",
+    "Navigating licensing and inspections for construction projects",
+    "Understanding what can be built, where, and how (zoning and compliance)",
+    "Accelerating housing, clean-energy, and infrastructure development",
+    "Reducing compliance time and de-risking construction projects"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Data pipelines",
+    "Django",
+    "Docker",
+    "ETL",
+    "FastAPI",
+    "Flask",
+    "GCP",
+    "Inference optimization",
+    "Kubernetes",
+    "MLflow",
+    "Postgres",
+    "REST APIs",
+    "React",
+    "Redis",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Agent evaluation",
+    "LangChain",
+    "LangGraph",
+    "Model orchestration",
+    "Model training",
+    "OpenAI API",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing, deploying, and owning the full\nlifecycle of AI agents - from model development to\norchestration and productionization. The position directly\nbuilds multi-step agentic workflows that automate permitting\nprocesses, which is hands-on work with AI/LLM systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "OpenAI API",
+      "Prompt engineering",
+      "RAG",
+      "AI agents",
+      "Model orchestration",
+      "Agent evaluation"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Model training"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "Django",
+      "REST APIs",
+      "React"
+    ],
+    "databases": [
+      "Postgres",
+      "Vector databases",
+      "Redis"
+    ],
+    "data": [
+      "Data pipelines",
+      "ETL"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Inference optimization",
+      "MLflow",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-0092",
+  "source": "intl-ai-corpus",
+  "source_ref": "7031503",
+  "source_url": "https://builtin.com/job/ai-developer-tooling-engineer/7031503",
+  "title": "AI Developer Tooling Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "fanvue",
+  "company_type": "entité morale privée",
+  "location": "GBR",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-10",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": null,
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "4000 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered creator monetization platform",
+  "industries": [
+    "Information Technology",
+    "Social Media",
+    "Software",
+    "App development"
+  ],
+  "description": "Join us in redefining the creator economy with AI\n\nFanvue is one of the fastest-growing creator monetisation\nplatforms globally. We’re an AI-powered, creator-first\nplatform helping creators connect, engage, and earn directly\nfrom their audiences at scale. Following our recent Series\nA, Fanvue has surpassed $100M+ in annual recurring revenue\nwith triple-digit year-on-year growth, supporting hundreds\nof thousands of creators and millions of fans worldwide.\n\nAs Fanvue scales, how we use AI inside engineering is\nbecoming a critical advantage. This role exists to ensure AI\nmeaningfully accelerates developer velocity, feature\ndelivery, and code quality, while being deployed\nresponsibly, safely, and consistently across the codebase.\n\n🎯 The Role\n\nWe’re hiring an AI Developer Tooling Engineer to own how AI\nis applied across Fanvue’s engineering organisation. This is\na highly hands-on role focused on making AI a force\nmultiplier for every engineer, not an uncontrolled risk.\n\nYou’ll help define the AI coding stack, build the\ninfrastructure and tooling that supports it, and enable the\nteam to ship faster through parallelisation, agents, and AI-\nassisted workflows, while maintaining high standards for\nquality, security, and maintainability.\n\n🚀 What You’ll Do\n\n- Align the Fanvue codebase with modern AI coding tools such\n  as Cursor and Claude Code\n- Help define, standardise, and roll out Fanvue’s AI-assisted\n  development stack across IDEs, PR workflows, and CI\n- Build and operate MCP servers and AI-ready infrastructure to\n  enable reliable, context-aware code generation\n- Enable parallelised development workflows where engineers\n  review and ship AI-generated code confidently\n- Establish best practices for AI-assisted coding, reviews,\n  and refactoring across the team\n- Create and maintain documentation, playbooks, and training\n  to drive adoption and safe usage\n- Track and report measurable improvements in developer\n  productivity such as PR cycle time, throughput, and code\n  quality\n- Continuously evaluate emerging AI developer tools and\n  vendors, with clear success criteria and kill switches\n\n👀 Who You Are\n\n- Strong software engineering background with TypeScript in\n  production environments\n- Deep hands-on experience with AI coding tools such as Cursor\n  and Claude Code, with exposure to Aider, Cline,\n  CodeRabbit, or GitHub Copilot\n- Experience running MCP servers and related tooling such as\n  Context 7, Puppeteer, or MCP Compass\n- Comfortable creating, managing, and deploying agent skills\n  across real-world codebases\n- Strong understanding of LLM fundamentals including RAG\n  pipelines, embeddings, tokenisation, fine-tuning, and\n  performance trade-offs\n- Confident working with GitHub workflows, CI/CD pipelines,\n  and secure coding practices\n- Highly autonomous, experimental, and comfortable owning\n  ambiguous problems end to end\n- Able to demonstrate real, measurable impact from applying AI\n  to engineering workflows\n\n✨ You’ll Thrive Here If\n\n- You’re excited by making engineers dramatically more\n  effective, not just building tools for their own sake\n- You enjoy experimentation, fast iteration, and turning\n  emerging tech into production-ready systems\n- You think in systems and workflows, not just features\n- You’re comfortable being accountable for outcomes, not just\n  ideas\n\n⚠️ You’ll Struggle Here If\n\n- You prefer narrowly scoped roles with fixed roadmaps\n- You’re uncomfortable making judgment calls around AI safety,\n  quality, and trade-offs\n- You need constant direction or heavy process to operate\n  effectively\n\n🌍 Why Join Fanvue?\n\n- Play a critical role in defining how AI is used responsibly\n  at scale inside engineering\n- Direct impact on developer velocity, feature delivery, and\n  product quality\n- Work closely with senior engineers and leadership across the\n  company\n- Competitive salary and benefits package\n- Unlimited holiday\n- Remote working\n- Flexible hours, according to when you perform best\n- Budget for growth and wellbeing\n\n⭐ Fanvue is for Everyone\n\nWe believe diverse teams build better products. Even if you\ndo not meet every single requirement listed, we encourage\nyou to apply. Many great people grow into parts of a role,\nand we value potential, mindset, and ambition just as much\nas experience.\n",
+  "skills_required": [
+    "Aider",
+    "Claude Code",
+    "Cline",
+    "CodeRabbit",
+    "Context 7",
+    "Cursor",
+    "GitHub Copilot",
+    "LLM fundamentals",
+    "MCP (Model Context Protocol)",
+    "MCP Compass",
+    "RAG",
+    "agents",
+    "embeddings",
+    "fine-tuning",
+    "prompt engineering",
+    "tokenisation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Align the Fanvue codebase with modern AI coding tools such as Cursor and Claude Code",
+    "Define, standardize, and roll out AI-assisted development stack across IDEs, PR workflows, and CI",
+    "Build and operate MCP servers and AI-ready infrastructure for context-aware code generation",
+    "Enable parallelized development workflows with confident AI-generated code review and shipping",
+    "Establish best practices for AI-assisted coding, reviews, and refactoring across the team",
+    "Track and report measurable improvements in developer productivity including PR cycle time and code quality",
+    "Evaluate emerging AI developer tools and vendors with success criteria and kill switches"
+  ],
+  "use_cases": [
+    "Accelerating developer velocity and feature delivery through AI-assisted coding workflows",
+    "Enabling parallelized development with AI-generated code review and automated PR processes",
+    "Building context-aware code generation systems integrated across IDEs and CI pipelines",
+    "Establishing safe and consistent AI deployment practices across the engineering organization",
+    "Measuring and improving developer productivity metrics like PR cycle time and throughput"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "GitHub workflows",
+    "Puppeteer",
+    "secure coding"
+  ],
+  "frameworks_mentioned": [
+    "Aider",
+    "Claude Code",
+    "Cline",
+    "CodeRabbit",
+    "Context 7",
+    "Cursor",
+    "GitHub Copilot",
+    "LLM fundamentals",
+    "MCP (Model Context Protocol)",
+    "MCP Compass",
+    "RAG",
+    "agents",
+    "embeddings",
+    "fine-tuning",
+    "prompt engineering",
+    "tokenisation"
+  ],
+  "languages_programming": [
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is about building infrastructure and tooling to\nenable OTHER engineers to use AI tools more effectively -\nnot building or deploying AI models/products itself. The\nfocus is on developer productivity, setting up AI coding\nworkflows (Cursor, Claude Code, MCP servers), and creating\nthe platforms/frameworks that allow the engineering\norganization to leverage AI, which falls squarely under ai-\nsupport.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Cursor",
+      "Claude Code",
+      "Aider",
+      "Cline",
+      "CodeRabbit",
+      "GitHub Copilot",
+      "MCP (Model Context Protocol)",
+      "Context 7",
+      "MCP Compass",
+      "LLM fundamentals",
+      "RAG",
+      "prompt engineering",
+      "agents"
+    ],
+    "ml": [
+      "embeddings",
+      "tokenisation",
+      "fine-tuning"
+    ],
+    "web": [
+      "Puppeteer"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "GitHub workflows",
+      "CI/CD",
+      "secure coding"
+    ],
+    "languages": [
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

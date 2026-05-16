@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-2069",
+  "source": "intl-ai-corpus",
+  "source_ref": "8733500",
+  "source_url": "https://builtin.com/job/senior-full-stack-qa-engineer-ai-platform/8733500",
+  "title": "Senior Full-stack QA Engineer (AI Platform)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "JetBrains",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-12",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,209 Employees",
+  "company_stage": "Public",
+  "company_focus": "Developer tools and AI-native software development platform",
+  "industries": [],
+  "description": "At JetBrains, we’re building an AI-native platform for\nsoftware development that connects developer workflows,\nteam-level collaboration, and organizational control into a\nsingle coherent system. This platform will serve as the\nexecution and governance layer for AI-driven development,\ndeeply integrated with developer tools but designed to work\nacross teams, products, and environments. This is a long-\nterm strategic investment for JetBrains and a key pillar of\nour vision for the future of software development.\n\nWe’re now looking for an experienced and proactive Full-\nstack QA Engineer to join our team to help us with\nfunctional and performance testing.\n\nYour responsibilities will include:\n\n- Developing and maintaining an automated testing\n  infrastructure, setting up CI/CD pipelines, selecting and\n  integrating existing tools, and designing new ones.\n- Writing and improving automated tests, particularly for\n  APIs.\n- Collaborating with the QA and Development teams to design\n  and execute test scenarios.\n- Working with logs and monitoring tools (e.g. Kibana,\n  Grafana) to detect functional issues and performance\n  anomalies.\n- Ensuring the quality of our distributed AI-powered systems\n  by validating integrations with various language models\n  and APIs.\n\nWe would like you on our team if you:\n\n- Have at least three years of experience in software testing\n  (manual and automated).\n- Possess a solid understanding of REST APIs, request/response\n  structures, status codes, and typical scenarios.\n- Have hands-on experience with Postman or similar API testing\n  tools.\n- Are familiar with writing automated tests for APIs using any\n  programming language or framework.\n- Understand distributed systems and microservice\n  architectures.\n- Have basic Docker skills (running containers, working with\n  Docker Compose).\n- Are comfortable reading and interpreting OpenAPI/Swagger\n  specifications.\n- Have a basic understanding of authentication and\n  authorization protocols (e.g. OAuth 2.0, API keys, and\n  JWT).\n- Can work well both independently and within a team,\n  demonstrating strong self-management skills.\n- Have a good command of English, both spoken and written.\n\nWe’d be especially thrilled if you:\n\n- Have hands-on experience with cloud computing platforms\n  (AWS, GCP) and container orchestration tools (Kubernetes,\n  Helm).\n- Have experience with CI/CD tools (e.g. TeamCity or GitHub\n  Actions).\n- Have experience with performance testing tools (e.g. k6).\n- Are familiar with TypeScript and/or JavaScript.\n- Have worked with automated testing infrastructure and\n  processes.\n- Enjoy digging into logs and debugging distributed systems.\n\nMain focus:\n\n- Quality assurance of new features\n- Automation of regression testing\n- Performance testing\n\n#LI-DNI\n\nWe are an equal opportunity employer We know great ideas can\ncome from anyone, anywhere. That’s why we do our best to\ncreate an open and inclusive workplace – one that welcomes\neveryone regardless of their background, identity, religion,\nage, accessibility needs, or orientation.\n\nWe process the data provided in your job application in\naccordance with the Recruitment Privacy Policy.\n",
+  "skills_required": [
+    "JWT",
+    "OAuth 2.0"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and maintain automated testing infrastructure including CI/CD pipelines and testing tools",
+    "Write and improve automated tests, particularly for APIs",
+    "Collaborate with QA and Development teams to design and execute test scenarios",
+    "Work with logs and monitoring tools (Kibana, Grafana) to detect functional issues and performance anomalies",
+    "Ensure quality of distributed AI-powered systems by validating integrations with language models and APIs",
+    "Focus on quality assurance of new features, automation of regression testing, and performance testing"
+  ],
+  "use_cases": [
+    "AI-native software development platform",
+    "Developer workflow integration",
+    "Team-level collaboration tools",
+    "Organizational governance for AI-driven development",
+    "Integration with various language models and APIs"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "Docker Compose",
+    "GCP",
+    "GitHub Actions",
+    "Grafana",
+    "Helm",
+    "Kibana",
+    "Kubernetes",
+    "OpenAPI/Swagger",
+    "Postman",
+    "REST APIs",
+    "TeamCity",
+    "k6"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a QA/testing role for an AI platform, not a role\nbuilding or deploying AI systems. The focus is on testing\ninfrastructure, automated testing, CI/CD pipelines, and\nquality assurance - enabling the AI platform team's work\nrather than working directly on models, agents, or AI\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "Postman",
+      "REST APIs",
+      "OpenAPI/Swagger"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Docker Compose",
+      "Kubernetes",
+      "Helm",
+      "CI/CD",
+      "TeamCity",
+      "GitHub Actions",
+      "Kibana",
+      "Grafana",
+      "k6"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": [
+      "OAuth 2.0",
+      "JWT"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

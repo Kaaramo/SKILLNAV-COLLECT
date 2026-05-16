@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-2523",
+  "source": "intl-ai-corpus",
+  "source_ref": "8671435",
+  "source_url": "https://builtin.com/job/ai-engineer/8671435",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ecolab",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-01",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "29,154 Employees",
+  "company_stage": "Public",
+  "company_focus": "Water, hygiene, and energy technology solutions for\nindustrial and institutional customers",
+  "industries": [],
+  "description": "AI Engineer\n\nAs an AI Engineer, you will design, implement, and deploy\nintelligent systems powered by LLMs, agent orchestration\nframeworks, and embedding-based retrieval solutions. This\nrole blends hands-on engineering with solution thinking,\nfocusing on scalable workflows and cloud-native delivery.\n\n\n\nCore Responsibilities\n\n• Build applications leveraging LLM APIs for summarization,\nQ&A, and decision support • Implement agentic workflows for\nmulti-step task automation • Develop embedding pipelines\nintegrated with vector stores for RAG and search\noptimization • Deploy AI components into cloud platforms\nusing containerized CI/CD practices • Monitor model\nbehaviors in production and optimize for performance and\ncost-efficiency\n\n\n\nRequired Skills\n\n• 3 years of experience in AI/ML application development •\nStrong programming skills in Python with LLM API integration\nand prompt workflows • Hands-on experience with Databricks\n(Spark SQL, PySpark, Delta Lake) and Snowflake • Familiarity\nwith agent orchestration, embeddings, vector databases, and\nagentic tools • Experience with cloud-native delivery\n(Azure), CI/CD, and API integration patterns\n",
+  "skills_required": [
+    "Agent orchestration",
+    "Embeddings",
+    "LLM APIs",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build applications leveraging LLM APIs for summarization, Q&A, and decision support",
+    "Implement agentic workflows for multi-step task automation",
+    "Develop embedding pipelines integrated with vector stores for RAG and search optimization",
+    "Deploy AI components into cloud platforms using containerized CI/CD practices",
+    "Monitor model behaviors in production and optimize for performance and cost-efficiency"
+  ],
+  "use_cases": [
+    "Summarization of business content",
+    "Question-answering systems",
+    "Decision support for business operations",
+    "Multi-step task automation via agentic workflows",
+    "Semantic search and RAG-based retrieval"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "CI/CD",
+    "Databricks",
+    "Delta Lake",
+    "Docker",
+    "PySpark",
+    "REST APIs",
+    "Snowflake",
+    "Spark SQL",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent orchestration",
+    "Embeddings",
+    "LLM APIs",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying AI\nsystems powered by LLMs, including implementing agentic\nworkflows, RAG pipelines, and embedding-based retrieval\nsolutions. The engineer works hands-on with LLM APIs, agent\norchestration frameworks, and vector databases to create\nintelligent systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs",
+      "Prompt engineering",
+      "Agent orchestration",
+      "RAG",
+      "Embeddings"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector databases",
+      "Snowflake"
+    ],
+    "data": [
+      "Databricks",
+      "Spark SQL",
+      "PySpark",
+      "Delta Lake"
+    ],
+    "cloud": [
+      "Azure"
+    ],
+    "ops": [
+      "CI/CD",
+      "Docker"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,138 @@
+{
+  "job_id": "intl-ai-corpus-0477",
+  "source": "intl-ai-corpus",
+  "source_ref": "8082491",
+  "source_url": "https://builtin.com/job/ai-engineer/8082491",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cinder",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-25",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "26 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered trust and safety platform for protecting online\ninteraction integrity",
+  "industries": [],
+  "description": "About Cinder\n\nCinder provides a cutting-edge platform to protect the\ninternet. Cinder safeguards the interaction layer: the front\nend of products that users engage — and sometimes abuse. Our\nAI agents, integrated workflow platform, and deep expertise\npower real-time integrity at the speed of innovation.\n\nWe support some of the most important and innovative\ncompanies in the world, including OpenAI, Midjourney, and\nElevenLabs. Cinder is backed by Accel and Y Combinator.\n\nWe care deeply about being relentless, intentional, and\nempathetic. We hire gritty thinkers who set ego aside,\naggressively solve customer problems, and get better every\nday. We’re building an enterprise-grade platform to make the\ninternet safer and we need highly curious, hard-working\nself-starters.\n\nCinder is seeking an AI/ML engineer to architect and deploy\nproduction AI systems at scale. You'll contribute to the\nstrategic vision for machine learning and AI at Cinder,\ncollaborating with data and software engineers to build\nworld-class AI capabilities that directly impact our product\nand business outcomes.\n\nWe're looking for an engineer first - someone who builds,\nships, and maintains production systems rather than writing\npapers. If you've taken ML models from experimentation to\nproduction at scale, navigated the messy realities of real-\nworld data, and understand that robust infrastructure\nmatters as much as model performance, we want to talk.\n\nWhat you'll do:\n\n- Own the complete lifecycle of large language model\n  implementation: from data preparation and fine-tuning\n  through rigorous evaluation and production deployment.\n- Develop automated evaluation frameworks that continuously\n  assess model accuracy, identify edge cases, and quantify\n  improvements across iterations.\n- Work directly with product managers and engineers to\n  integrate AI as a core product capability.\n- Shape our AI roadmap by staying current with industry\n  developments, evaluating emerging techniques, and making\n  pragmatic adoption decisions.\n- Design and implement low-latency, high-throughput, cloud-\n  based AI/ML systems capable of handling thousands of\n  requests per second\n- Build the foundational infrastructure - model serving,\n  monitoring, deployment pipelines, and automated testing\n  frameworks - that enables rapid experimentation and\n  iteration while maintaining production reliability.\n\nYou might be a good fit if you have:\n\n- 5-7+ years of engineering experience with demonstrated\n  hands-on knowledge of applying LLMs and agents in industry\n- Experience at a high-growth startup building machine\n  learning infrastructure from the ground up\n- Demonstrated ability to take models from\n  research/experimentation through production deployment at\n  scale\n- Fluency in Python and related AI/ML frameworks (TensorFlow,\n  PyTorch, Keras, etc.)\n- Hands-on experience with LLMs and contemporary AI\n  engineering patterns: RAG architectures, embedding models,\n  vector databases, prompt engineering, and fine-tuning\n  strategies\n- Curious, systematic, and execution-oriented—you don't wait\n  for perfect requirements and can navigate technical\n  tradeoffs independently\n- Strong foundation in MLOps: CI/CD for ML, model versioning,\n  monitoring, and observability\n- Strong technical background in AWS cloud architecture and\n  automated infrastructure provisioning with Terraform\n- Experience with agentic frameworks like langchain is a plus\n\nWhy join us?\n\nThis is a pivotal moment to join Cinder. As a fast-growing\nstartup building critical AI software for some of the\nworld's largest, most highly used, and most visible\ncompanies - your impact will be immediate and substantial.\nWe are committed to fostering a vibrant, collaborative\nculture with a wonderful office, frequent in-person time to\nconnect and innovate, competitive salary, generous benefits,\nand a 401k match, ensuring you are supported as you tackle\ndefining industry challenges.\n",
+  "skills_required": [
+    "Keras",
+    "LLMs",
+    "LangChain",
+    "PyTorch",
+    "RAG architectures",
+    "TensorFlow",
+    "agents",
+    "embedding models",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own the complete lifecycle of large language model implementation from data preparation and fine-tuning through rigorous evaluation and production deployment",
+    "Develop automated evaluation frameworks that continuously assess model accuracy, identify edge cases, and quantify improvements across iterations",
+    "Work directly with product managers and engineers to integrate AI as a core product capability",
+    "Shape AI roadmap by staying current with industry developments, evaluating emerging techniques, and making pragmatic adoption decisions",
+    "Design and implement low-latency, high-throughput, cloud-based AI/ML systems capable of handling thousands of requests per second",
+    "Build foundational infrastructure including model serving, monitoring, deployment pipelines, and automated testing frameworks that enables rapid experimentation while maintaining production reliability"
+  ],
+  "use_cases": [
+    "Real-time content integrity and safety detection to prevent online abuse",
+    "AI-powered moderation of user interactions at the product frontend",
+    "Protecting online platforms from harmful content and malicious behavior",
+    "Integration with major AI companies like OpenAI, Midjourney, and ElevenLabs for content safety",
+    "Enterprise-grade trust and safety solutions for high-volume digital products"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD for ML",
+    "MLOps",
+    "Terraform",
+    "deployment pipelines",
+    "model serving",
+    "model versioning",
+    "monitoring",
+    "observability",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Keras",
+    "LLMs",
+    "LangChain",
+    "PyTorch",
+    "RAG architectures",
+    "TensorFlow",
+    "agents",
+    "embedding models",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role involves hands-on work with LLMs including data\npreparation, fine-tuning, evaluation, and production\ndeployment at scale. Direct implementation of RAG\narchitectures, embedding models, and agent frameworks for\nproduction systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG architectures",
+      "embedding models",
+      "prompt engineering",
+      "agents",
+      "LangChain"
+    ],
+    "ml": [
+      "fine-tuning",
+      "TensorFlow",
+      "PyTorch",
+      "Keras"
+    ],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Terraform"
+    ],
+    "ops": [
+      "MLOps",
+      "CI/CD for ML",
+      "model versioning",
+      "monitoring",
+      "observability",
+      "model serving",
+      "deployment pipelines"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

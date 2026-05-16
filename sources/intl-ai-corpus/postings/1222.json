@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-1222",
+  "source": "intl-ai-corpus",
+  "source_ref": "8314040",
+  "source_url": "https://builtin.com/job/principal-ai-developer-technology-engineer/8314040",
+  "title": "Principal AI Developer Technology Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NVIDIA",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21,960 Employees",
+  "company_stage": "Public",
+  "company_focus": "GPU computing and AI acceleration hardware/software",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Hardware",
+    "Robotics",
+    "Metaverse"
+  ],
+  "description": "We’re currently seeking a Developer Technology Engineer,\nArtificial Intelligence. Would you enjoy researching\nparallel algorithms to accelerate AI workloads on advanced\ncomputer architectures? Do you find it rewarding to identify\nand eliminate system bottlenecks to achieve the best\npossible performance on pioneering computer hardware? Could\nyou be thrilled about an opportunity to partner with the\ndeveloper community, working at the forefront of technology\nbreakthroughs that contribute to the success of an industry\nleader like NVIDIA? If so, the Developer Technology Team\ninvites you to consider this role.\n\n\nWhat you will be doing:\n\n- In this position, you will research and develop techniques\n  to GPU accelerate workloads in deep learning, machine\n  learning or other AI domains.\n- Work directly with other technical experts in their fields\n  (industry and academia) to perform in-depth analysis and\n  optimization of complex AI and HPC algorithms to ensure\n  optimal AI solutions on modern CPU and GPU architectures.\n- Publish and/or present discovered optimization techniques in\n  developer blogs or relevant conferences to engage and\n  educate the developer community.\n- Influence the design of next-generation hardware\n  architectures, software, and programming models in\n  collaboration with research, hardware, system software,\n  libraries, and tools teams at NVIDIA.\n\nWhat we need to see:\n\n- An advanced degree in Computer Science, Computer\n  Engineering, or related computationally focused science\n  degree (or equivalent experience).\n- You have 15+ years of relevant experience in software\n  development or research work.\n- Programming fluency in C/C++ with a deep understanding of\n  algorithms and software development.\n- A background that includes parallel programming, e.g., CUDA,\n  OpenACC, OpenMP, MPI, pthreads, etc.\n- Hands on experience doing low-level performance\n  optimizations.\n- In-depth expertise with CPU and GPU architecture\n  fundamentals.\n- Effective communication and organization skills, with a\n  logical approach to problem solving, good time management,\n  and prioritization skills.\n\nWays to stand out from the crowd:\n\n- Expertise in parallelization and performance optimization of\n  Deep Learning models arising from Natural Language\n  Processing, Computer Vision, Recommender Systems, etc.\n- Excellent understanding of linear algebra.\n\nNVIDIA is widely considered to be one of the technology\nworld’s most desirable employers. We have some of the most\nforward-thinking and hardworking people in the world working\nfor us. Are you a creative and autonomous computer scientist\nwith a genuine passion for parallel computing? If so, we\nwant to hear from you. Come, join our AI Compute DevTech\nteam and help build the real-time, cost-effective computing\nplatform driving our success in this exciting and quickly\ngrowing field.\n\n\nNVIDIA is committed to fostering a diverse work environment\nand proud to be an equal opportunity employer. As we highly\nvalue diversity in our current and future employees, we do\nnot discriminate (including in our hiring and promotion\npractices) on the basis of race, religion, color, national\norigin, gender, gender expression, sexual orientation, age,\nmarital status, veteran status, disability status or any\nother characteristic protected by law.\n\n#deeplearning\n",
+  "skills_required": [
+    "CPU architecture",
+    "GPU architecture",
+    "deep learning",
+    "linear algebra",
+    "machine learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Research and develop techniques to GPU accelerate workloads in deep learning, machine learning and other AI domains",
+    "Perform in-depth analysis and optimization of complex AI and HPC algorithms for optimal performance on modern CPU and GPU architectures",
+    "Publish and present optimization techniques in developer blogs or conferences to educate the developer community",
+    "Influence the design of next-generation hardware architectures, software, and programming models through collaboration with NVIDIA teams"
+  ],
+  "use_cases": [
+    "GPU acceleration of deep learning models including NLP, Computer Vision, and Recommender Systems",
+    "Optimization of AI workloads on advanced CPU and GPU architectures",
+    "Parallel algorithm implementation for machine learning and deep learning applications",
+    "Performance optimization of complex AI and HPC algorithms",
+    "Real-time, cost-effective computing platform for AI workloads"
+  ],
+  "tools_mentioned": [
+    "CUDA",
+    "MPI",
+    "OpenACC",
+    "OpenMP",
+    "parallel programming",
+    "performance optimization"
+  ],
+  "frameworks_mentioned": [
+    "CPU architecture",
+    "GPU architecture",
+    "deep learning",
+    "linear algebra",
+    "machine learning"
+  ],
+  "languages_programming": [
+    "C/C++",
+    "pthreads"
+  ],
+  "domains_iaml": [
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves GPU acceleration and optimization of\nAI/deep learning workloads, including models from NLP, CV,\nand recommender systems. The engineer works directly on\nparallel algorithms for AI applications and performs low-\nlevel performance optimizations on AI workloads, which is\nhands-on work with AI systems rather than supporting\ninfrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "GPU architecture",
+      "CPU architecture",
+      "deep learning",
+      "machine learning",
+      "linear algebra"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CUDA",
+      "OpenACC",
+      "OpenMP",
+      "MPI",
+      "parallel programming",
+      "performance optimization"
+    ],
+    "languages": [
+      "C/C++",
+      "pthreads"
+    ],
+    "domains": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Recommender Systems"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

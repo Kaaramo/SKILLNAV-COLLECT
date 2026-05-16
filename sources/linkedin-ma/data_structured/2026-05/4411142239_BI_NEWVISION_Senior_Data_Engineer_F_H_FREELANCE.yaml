@@ -1,0 +1,35 @@
+company:
+  name: BI NEWVISION
+  stage: null
+  focus: null
+position:
+  title: Senior Data Engineer (F/H) – FREELANCE
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - snowflake
+    data:
+    - data lake
+    - datalake
+    - etl
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - java
+    - python
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4411142239'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

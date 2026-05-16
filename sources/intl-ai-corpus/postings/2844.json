@@ -1,0 +1,170 @@
+{
+  "job_id": "intl-ai-corpus-2844",
+  "source": "intl-ai-corpus",
+  "source_ref": "9036673",
+  "source_url": "https://builtin.com/job/principle-ai-ml-engineer/9036673",
+  "title": "Principal AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Sabre Corporation",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-14",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "8,150 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI-native technology leader powering travel retailing and\ndistribution",
+  "industries": [
+    "Information Technology",
+    "Software",
+    "Travel"
+  ],
+  "description": "Powering the agentic revolution in travel. Sabre is an AI-\nnative technology leader, backed by one of the world’s\nlargest travel data clouds. Built on an open, modular,\ncloud-native architecture, Sabre serves as the backbone for\nboth established leaders and bold, new disruptors, guiding\nthem to the next age of travel retailing through\nintelligent, connected, and personalized experiences. With\nAI at its core and operating at unparalleled scale, Sabre\ntransforms insights into innovation, empowering airlines,\nhoteliers, agencies and other partners to retail, distribute\nand fulfill travel worldwide.\n\nThe Principal AI/ML Engineer is the technical leader\nresponsible for designing, building, and scaling AI systems\nthat combine LLM-powered GenAI and ADK-based agentic\nworkflows on Google Cloud Platform. This role sets\narchitecture standards, leads multi-team delivery, and\ngoverns safety, reliability, builds and manages the\nplatform, and cost at enterprise scale—accelerating product\nteams to achieve 10× productivity through reusable patterns,\nplatforms, and guardrails.\n\nKey Responsibilities\n\nStrategy & Architecture\n\n- Define reference architectures for GenAI apps, RAG systems,\n  and agent ecosystems (single/multi-agent) on GCP using\n  ADK.\n- Establish domain and platform standards: model selection,\n  RAG/generation patterns, memory architectures, security\n  baselines, observability, and LLMOps.\n- Lead portfolio-wide technical decisions (build/buy, vendor\n  selection, SLAs, quotas) with a focus on reliability,\n  safety, and cost control.\n\nSolution Design & Delivery\n\n- Architect and lead implementation of production-grade GenAI\n  solutions (Vertex AI models, Grounding, Pipelines,\n  Evaluation) and agentic services (planning, tools, memory,\n  HIL).\n- Design multi-tenant and hub-and-spoke patterns with\n  Okta/IAP/Apigee for secure API exposure and tenant\n  isolation.\n- Drive end-to-end delivery across teams: data ingestion\n  (Dataflow/Composer), indexing (BigQuery vectors/Vertex\n  Vector Search), services (Cloud Run/Workflows), events\n  (Pub/Sub).\n\nPlatformization & Reuse\n\n- Build and maintain prompt libraries, tool catalogs, agent\n  templates, and evaluation harnesses for organization-wide\n  reuse.\n- Standardize LLMOps: CI/CD for prompts/models/agents, model\n  registry, traceability, rollback, canaries,\n  cost/performance scorecards.\n- Enable a marketplace of agents/services with productized\n  APIs, documentation, chargeback, and KPIs.\n\nResponsible AI, Security & Compliance\n\n- Implement multi-layer guardrails: policy prompts, filters,\n  memory governance, tool whitelisting, audit logs; ensure\n  regulator-ready posture.\n- Codify privacy, PII handling, data residency, and per-tenant\n  isolation using VPC-SC, Secret Manager, IAM, and Apigee\n  policies.\n\nLeadership & Enablement\n\n- Mentor senior engineers and team leads; run architecture\n  reviews, design clinics, and red-team exercises.\n- Drive continuous evaluation programs and publish org\n  scorecards for quality, safety, and cost.\n- Partner with Product, Security, and SRE to align roadmaps,\n  SLOs, and operational playbooks.\n\nRequired Technical Competencies\n\n- LLM & GenAI: Model selection (Gemini & Model Garden), prompt\n  engineering, RAG/grounding, multimodal pipelines, fine-\n  tuning/adapter methods.\n- Agentic AI (ADK): Agent loops, planners, tool/function\n  design, memory (episodic/semantic/long-term), HIL, policy\n  enforcement.\n- Data & Retrieval: BigQuery (including vector functions),\n  Vertex Vector Search, Document AI, Dataplex for lineage\n  and governance.\n- Orchestration & Services: Cloud Run, Workflows, Pub/Sub,\n  Dataflow/Composer; HA/DR, backpressure, circuit breakers.\n- LLMOps/MLOps: Vertex AI Pipelines, registry, CI/CD, trace\n  correlation, cost/performance monitoring.\n- Security & Compliance: IAM, Secret Manager, VPC-SC, private\n  service connect, DLP, Okta/IAP, Apigee API policies.\n- Observability & Cost: Central telemetry, user feedback\n  loops, drift/outlier detection, quota/capacity planning.\n\nQualifications\n\n- 12–15+ years in software/data/ML engineering; 2+ years\n  hands-on with LLMs/GenAI and agentic systems.\n- Proven delivery of enterprise-scale GenAI/agent platforms on\n  GCP (Vertex AI, BigQuery, Cloud Run, Pub/Sub, Workflows).\n- Demonstrated impact in platformization, governance, and\n  multi-team technical leadership.\n- Strong proficiency in Python/TypeScript (or equivalent) and\n  infrastructure-as-code (Terraform/GCP Deployment Manager).\n- Experience in security-by-design, privacy, and compliance\n  audits.\n\nOutcomes & KPIs (What “Great” Looks Like)\n\n- Reliability: SLOs met (e.g., p95 latency, error budget\n  adherence); audited HA/DR playbooks; zero Sev1 incidents\n  due to preventable guardrail gaps.\n- Quality & Safety: Sustained improvements on\n  faithfulness/toxicity/grounding scores; red-team findings\n  resolved within agreed SLAs.\n- Cost & Performance: ≥ 30% reduction in run-cost via routing,\n  caching, and prompt/template optimization; budget\n  adherence per tenant.\n- Productivity & Reuse: ≥ 50% reuse of tools/templates across\n  teams; time-to-market reduced by ~40% for new AI features.\n- Adoption & Enablement: ≥ 3 cross-domain AI capabilities\n  launched per quarter; engineers enabled through patterns\n  and training.\n\nCore Responsibilities (Day-to-Day)\n\n- Own reference architectures and standards for GenAI and\n  Agentic AI on GCP.\n- Lead design reviews and production readiness assessments.\n- Curate and evolve prompt/agent/tool libraries with\n  versioning and documentation.\n- Establish evaluation harnesses (golden sets, scenario tests,\n  trace replay, chaos for agents).\n- Partner with SRE/Platform to implement observability,\n  alerts, feature flags, canaries, and rollback mechanisms.\n- Drive security reviews, policy-as-code, and auditability for\n  all AI systems.\n\nDemonstrated Behaviors (Principal Level)\n\nTechnical Leadership\n\n- Systems thinking: Anticipates failure modes, cost\n  implications, and long-term maintenance; makes reversible\n  vs. irreversible decision trade-offs explicit.\n- Pragmatic innovation: Balances cutting-edge methods (e.g.,\n  learned planners, multimodal grounding) with operational\n  simplicity and reliability.\n- Platform-first mindset: Designs for reuse; evangelizes\n  patterns; prevents bespoke one-offs unless clearly\n  justified.\n\nExecution Excellence\n\n- Outcome orientation: Frames problems with clear KPIs;\n  selects the simplest architecture that satisfies\n  reliability, safety, and cost.\n- Bias to automation: Converts manual steps into workflows,\n  CI/CD pipelines, and platform capabilities; eliminates\n  toil.\n- Operational rigor: Treats prompts/models/agents as versioned\n  production artifacts with runbooks and guardrails.\n\nCollaboration & Influence\n\n- Cross-functional partnering: Brings Product, Security, SRE,\n  and Data together to align goals and reduce friction.\n- Mentorship & enablement: Coaches senior engineers; raises\n  bar through reviews, tech talks, and documentation.\n- Transparent communication: Publishes architecture decisions\n  (ADRs), scorecards, and incident postmortems; drives org\n  learning.\n\nResponsible AI\n\n- Safety-first: Insists on multi-layer guardrails and\n  auditability; stops launches when safety signals are\n  insufficient.\n- Ethical stewardship: Advocates for privacy, fairness, and\n  inclusion; ensures policies are codified and enforced.\n\nPreferred Experience (Nice-to-Have)\n\n- Implemented multi-agent collaboration with negotiation\n  protocols and conflict resolution.\n- Built tenant-aware memory governance and portability models.\n- Experience with Apigee productization and chargeback for AI\n  services.\n- Hands-on with Document AI, Dataplex, and multi-region\n  architectures.\n\nWe will give careful consideration to your application and\nreview your details against the position criteria. You will\nreceive separate notification as your application\nprogresses.\n\nPlease note that only candidates who meet the minimum\ncriteria for the role will proceed in the selection process.\n\n#LI-Hybrid#LI-GS1\n",
+  "skills_required": [
+    "ADK (Agent Development Kit)",
+    "Fine-tuning/adapter methods",
+    "Gemini",
+    "LLM/GenAI",
+    "Model Garden",
+    "Multi-agent systems",
+    "Multimodal pipelines",
+    "Prompt engineering",
+    "RAG systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define reference architectures for GenAI apps, RAG systems, and agent ecosystems (single/multi-agent) on GCP using ADK",
+    "Architect and lead implementation of production-grade GenAI solutions (Vertex AI models, Grounding, Pipelines) and agentic services (planning, tools, memory, HIL)",
+    "Build and maintain prompt libraries, tool catalogs, agent templates, and evaluation harnesses for organization-wide reuse",
+    "Standardize LLMOps: CI/CD for prompts/models/agents, model registry, traceability, rollback, canaries, cost/performance scorecards",
+    "Implement multi-layer guardrails: policy prompts, filters, memory governance, tool whitelisting, audit logs for regulator-ready posture",
+    "Mentor senior engineers and team leads; run architecture reviews, design clinics, and red-team exercises",
+    "Lead design reviews and production readiness assessments across teams",
+    "Drive security reviews, policy-as-code, and auditability for all AI systems"
+  ],
+  "use_cases": [
+    "Intelligent travel retailing with personalized experiences for airlines, hoteliers, and agencies",
+    "LLM-powered GenAI and agentic workflows for travel industry operations",
+    "RAG-based systems leveraging one of the world's largest travel data clouds",
+    "Multi-agent collaboration for complex travel planning and booking workflows",
+    "Enterprise-scale AI platform enabling product teams to rapidly build and deploy AI-powered travel features",
+    "Marketplace of AI agents/services with productized APIs for travel partners"
+  ],
+  "tools_mentioned": [
+    "Apigee",
+    "BigQuery",
+    "CI/CD",
+    "Cloud Composer",
+    "Cloud Run",
+    "Cloud Workflows",
+    "DLP",
+    "Dataflow",
+    "Dataplex",
+    "Docker",
+    "Document AI",
+    "Google Cloud Platform",
+    "IAM",
+    "Kubernetes",
+    "LLMOps/MLOps",
+    "Okta/IAP",
+    "Pub/Sub",
+    "Secret Manager",
+    "Terraform",
+    "VPC-SC",
+    "Vertex AI",
+    "Vertex AI Pipelines",
+    "Vertex Vector Search"
+  ],
+  "frameworks_mentioned": [
+    "ADK (Agent Development Kit)",
+    "Fine-tuning/adapter methods",
+    "Gemini",
+    "LLM/GenAI",
+    "Model Garden",
+    "Multi-agent systems",
+    "Multimodal pipelines",
+    "Prompt engineering",
+    "RAG systems"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly responsible for designing, building,\nand scaling LLM-powered GenAI and ADK-based agentic\nworkflows. It involves hands-on work with RAG systems, agent\necosystems, prompt engineering, fine-tuning, model\nselection, and building production-grade GenAI solutions on\nGCP. This is squarely an AI-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM/GenAI",
+      "RAG systems",
+      "Prompt engineering",
+      "ADK (Agent Development Kit)",
+      "Multi-agent systems",
+      "Gemini",
+      "Model Garden",
+      "Multimodal pipelines"
+    ],
+    "ml": [
+      "Fine-tuning/adapter methods"
+    ],
+    "web": [],
+    "databases": [
+      "BigQuery",
+      "Vertex Vector Search"
+    ],
+    "data": [
+      "Pub/Sub",
+      "Dataflow",
+      "Cloud Composer",
+      "Dataplex"
+    ],
+    "cloud": [
+      "Vertex AI",
+      "Google Cloud Platform",
+      "Document AI",
+      "Cloud Run",
+      "Cloud Workflows"
+    ],
+    "ops": [
+      "Vertex AI Pipelines",
+      "LLMOps/MLOps",
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Okta/IAP",
+      "Apigee",
+      "IAM",
+      "Secret Manager",
+      "VPC-SC",
+      "DLP"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,166 @@
+{
+  "job_id": "intl-ai-corpus-3086",
+  "source": "intl-ai-corpus",
+  "source_ref": "9124888",
+  "source_url": "https://builtin.com/job/principal-ai-engineer/9124888",
+  "title": "Principal AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Bristol Myers Squibb",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-22",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "40,384 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global biopharmaceutical company focused on life sciences\nand cell therapy",
+  "industries": [],
+  "description": "Working with Us Challenging. Meaningful. Life-changing.\nThose aren’t words that are usually associated with a job.\nBut working at Bristol Myers Squibb is anything but usual.\nHere, uniquely interesting work happens every day, in every\ndepartment. From optimizing a production line to the latest\nbreakthroughs in cell therapy, this is work that transforms\nthe lives of patients, and the careers of those who do it.\nYou’ll get the chance to grow and thrive through\nopportunities uncommon in scale and scope, alongside high-\nachieving teams. Take your career farther than you thought\npossible.\n\nBristol Myers Squibb recognizes the importance of balance\nand flexibility in our work environment. We offer a wide\nvariety of competitive benefits, services and programs that\nprovide our employees with the resources to pursue their\ngoals, both at work and in their personal lives. Read more:\ncareers.bms.com/working-with-us.\n\nKey Responsibilities\n\n- Design, build, and deploy autonomous multi-agent workflows\n  using orchestration frameworks such as LangGraph, CrewAI,\n  Autogen, or similar, including complex state machines with\n  conditional routing, parallel execution, and error\n  recovery patterns.\n- Architect graph-based agent workflows with 10+ nodes\n  involving agent collaboration, task decomposition, and\n  sequential/parallel execution across multiple business\n  domains.\n- Develop and maintain reusable agent node libraries,\n  extensible platform patterns, versioning strategies, and\n  testing frameworks (unit, integration, and end-to-end) for\n  agent workflows.\n- Build production-grade FastAPI applications with async I/O\n  patterns, integrating PostgreSQL, Redis, and external\n  enterprise services.\n- Implement real-time agent streaming using Server-Sent Events\n  (SSE) and WebSocket protocols, alongside RESTful and\n  event-driven API architectures for agent orchestration.\n- Integrate cloud-based LLM providers (AWS Bedrock, Azure\n  OpenAI, Anthropic Claude, OpenAI GPT-4) and design prompt\n  management systems with versioning, templating, and\n  dynamic compilation.\n- Implement conversation state persistence using Redis\n  checkpointing and build tool-calling protocols (Model\n  Context Protocol, function calling) for external data\n  sources and APIs.\n- Develop hybrid intelligence patterns combining LLM reasoning\n  with rule-based logic and statistical analysis, and build\n  response transformation pipelines for structured\n  analytical outputs.\n- Integrate observability platforms (Langfuse, LangSmith, or\n  similar) to enable end-to-end agent tracing, telemetry,\n  performance monitoring, and cost optimization across\n  production workflows.\n- Implement evaluation frameworks measuring agent success\n  rates, reasoning quality, and output accuracy, while\n  continuously optimizing token usage and LLM costs.\n- Ensure enterprise security integration (LDAP, SSO, access\n  control), robust error handling, and compliance with data\n  governance and Responsible AI standards.\n- Partner with data engineers, business analysts, and UX teams\n  to translate requirements into scalable agent workflows\n  and streaming interfaces.\n- Mentor junior engineers on async Python patterns, agent\n  design, and LLMOps best practices; participate in\n  architecture reviews and contribute to documentation and\n  knowledge sharing.\n\nQualifications & Experience\n\n\n- Bachelor's or Master's degree in Computer Science, AI/ML,\n  Engineering, Data Science, or a related discipline.\n- 9+ years of software engineering experience, with 2+ years\n  building and deploying production LLM-powered\n  applications.\n- Proven experience with:\n  - Agentic orchestration frameworks: LangGraph (preferred),\n    LangChain, CrewAI, Autogen, or similar.\n  - Cloud LLM providers: AWS Bedrock, Azure OpenAI, Anthropic\n    Claude, or OpenAI GPT-4.\n  - Production async web frameworks, particularly FastAPI.\n  - Docker containerization, Git version control, and CI/CD\n    pipelines.\n  - Cloud platforms: AWS, Azure, or Google Cloud.\n- Expert-level async Python programming (asyncio, async/await\n  patterns).\n- Demonstrated experience building autonomous agent systems\n  performing multi-step tasks beyond simple chatbots,\n  including conditional logic, state management, and tool-\n  calling patterns.\n- Strong understanding of agentic design patterns including\n  ReAct, Plan-and-Execute, and tool-use agents.\n- Experience implementing Model Context Protocol (MCP) and\n  agent-to-agent (A2A) communication frameworks.\n- Familiarity with LLMOps practices, observability tooling\n  (Langfuse, LangSmith), and prompt engineering at scale\n  (templating, versioning, optimization).\n- Excellent analytical, problem-solving, and communication\n  skills with the ability to work effectively in globally\n  distributed teams.\n- Prior experience in global life sciences, especially in the\n  GPS functional area, is a plus.\n- Experience managing or collaborating with offshore technical\n  development teams and diverse international stakeholders\n  is a plus.\n\nIf you come across a role that intrigues you but doesn’t\nperfectly line up with your resume, we encourage you to\napply anyway. You could be one step away from work that will\ntransform your life and career.\n\nUniquely Interesting Work, Life-changing Careers With a\nsingle vision as inspiring as “Transforming patients’ lives\nthrough science™ ”, every BMS employee plays an integral\nrole in work that goes far beyond ordinary. Each of us is\nempowered to apply our individual talents and unique\nperspectives in a supportive culture, promoting global\nparticipation in clinical trials, while our shared values of\npassion, innovation, urgency, accountability, inclusion and\nintegrity bring out the highest potential of each of our\ncolleagues.\n\nOn-site Protocol\n\nBMS has an occupancy structure that determines where an\nemployee is required to conduct their work. This structure\nincludes site-essential, site-by-design, field-based and\nremote-by-design jobs. The occupancy type that you are\nassigned is determined by the nature and responsibilities of\nyour role:\n\nSite-essential roles require 100% of shifts onsite at your\nassigned facility. Site-by-design roles may be eligible for\na hybrid work model with at least 50% onsite at your\nassigned facility. For these roles, onsite presence is\nconsidered an essential job function and is critical to\ncollaboration, innovation, productivity, and a positive\nCompany culture. For field-based and remote-by-design roles\nthe ability to physically travel to visit customers,\npatients or business partners and to attend meetings on\nbehalf of BMS as directed is an essential job function.\n\nSupporting People with Disabilities\n\nBMS is dedicated to ensuring that people with disabilities\ncan excel through a transparent recruitment process,\nreasonable workplace accommodations/adjustments and ongoing\nsupport in their roles. Applicants can request a reasonable\nworkplace accommodation/adjustment prior to accepting a job\noffer. If you require reasonable accommodations/adjustments\nin completing this application, or in any part of the\nrecruitment process, direct your inquiries to\nadastaffingsupport@bms.com. Visit careers.bms.com/eeo-\naccessibility to access our complete Equal Employment\nOpportunity statement.\n\nCandidate Rights\n\nBMS will consider for employment qualified applicants with\narrest and conviction records, pursuant to applicable laws\nin your area.\n\nIf you live in or expect to work from Los Angeles County if\nhired for this position, please visit this page for\nimportant additional information:\nhttps://careers.bms.com/california-residents/\n\nData Protection\n\nWe will never request payments, financial information, or\nsocial security numbers during our application or\nrecruitment process. Learn more about protecting yourself at\nhttps://careers.bms.com/fraud-protection.\n\nAny data processed in connection with role applications will\nbe treated in accordance with applicable data privacy\npolicies and regulations.\n\nIf you believe that the job posting is missing information\nrequired by local law or incorrect in any way, please\ncontact BMS at TAEnablement@bms.com. Please provide the Job\nTitle and Requisition number so we can review.\nCommunications related to your application should not be\nsent to this email and you will not receive a response.\nInquiries related to the status of your application should\nbe directed to Chat with Ripley.\n\nR1601223 : Principal AI Engineer\n",
+  "skills_required": [
+    "Anthropic Claude API",
+    "Autogen",
+    "CrewAI",
+    "LDAP/SSO",
+    "LangChain",
+    "LangGraph",
+    "Model Context Protocol (MCP)",
+    "OpenAI GPT-4",
+    "Plan-and-Execute",
+    "ReAct",
+    "Responsible AI",
+    "agent-to-agent (A2A) communication",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and deploy autonomous multi-agent workflows using orchestration frameworks such as LangGraph, CrewAI, and Autogen with complex state machines and conditional routing",
+    "Architect graph-based agent workflows with 10+ nodes involving agent collaboration, task decomposition, and sequential/parallel execution across business domains",
+    "Build production-grade FastAPI applications with async I/O patterns integrating PostgreSQL, Redis, and external enterprise services",
+    "Integrate cloud-based LLM providers (AWS Bedrock, Azure OpenAI, Anthropic Claude, OpenAI GPT-4) and design prompt management systems with versioning and templating",
+    "Implement real-time agent streaming using SSE and WebSocket protocols alongside RESTful and event-driven API architectures",
+    "Integrate observability platforms (Langfuse, LangSmith) for end-to-end agent tracing, telemetry, performance monitoring, and cost optimization",
+    "Develop evaluation frameworks measuring agent success rates, reasoning quality, and output accuracy while optimizing token usage and LLM costs",
+    "Ensure enterprise security integration (LDAP, SSO, access control), error handling, and compliance with data governance and Responsible AI standards"
+  ],
+  "use_cases": [
+    "Autonomous multi-agent workflows for pharmaceutical business processes",
+    "LLM-powered analytical pipelines with structured outputs for life sciences",
+    "Conversational AI systems with persistent state for enterprise users",
+    "Agent orchestration across multiple business domains in global life sciences",
+    "Real-time streaming AI interfaces for internal enterprise applications"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "Azure",
+    "Azure OpenAI",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Git",
+    "Google Cloud",
+    "LLMOps",
+    "LangSmith",
+    "Langfuse",
+    "PostgreSQL",
+    "RESTful APIs",
+    "Redis",
+    "Server-Sent Events (SSE)",
+    "WebSocket"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic Claude API",
+    "Autogen",
+    "CrewAI",
+    "LangChain",
+    "LangGraph",
+    "Model Context Protocol (MCP)",
+    "OpenAI GPT-4",
+    "Plan-and-Execute",
+    "ReAct",
+    "agent-to-agent (A2A) communication",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "asyncio"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building, deploying, and orchestrating\nautonomous multi-agent LLM workflows using frameworks like\nLangGraph, CrewAI, and Autogen. The engineer is hands-on\nwith LLM providers, prompt engineering, agent design\npatterns, and production deployment of AI systems — clearly\nworking ON AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "CrewAI",
+      "Autogen",
+      "Anthropic Claude API",
+      "OpenAI GPT-4",
+      "Model Context Protocol (MCP)",
+      "prompt engineering",
+      "ReAct",
+      "Plan-and-Execute",
+      "agent-to-agent (A2A) communication",
+      "function calling"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Server-Sent Events (SSE)",
+      "WebSocket",
+      "RESTful APIs"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Bedrock",
+      "Azure OpenAI",
+      "AWS",
+      "Azure",
+      "Google Cloud"
+    ],
+    "ops": [
+      "LLMOps",
+      "Langfuse",
+      "LangSmith",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "languages": [
+      "Python",
+      "asyncio"
+    ],
+    "domains": [],
+    "other": [
+      "LDAP/SSO",
+      "Responsible AI"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

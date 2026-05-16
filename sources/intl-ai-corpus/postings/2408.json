@@ -1,0 +1,155 @@
+{
+  "job_id": "intl-ai-corpus-2408",
+  "source": "intl-ai-corpus",
+  "source_ref": "8874850",
+  "source_url": "https://www.builtinla.com/job/senior-ai-software-engineer/8874850",
+  "title": "Senior AI Software Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Firestorm",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "VC-backed",
+  "company_focus": "Autonomous aerial systems and mission-adaptable defense\nvehicles",
+  "industries": [
+    "Aerospace",
+    "Defense"
+  ],
+  "description": "Who We Are\n\nAt Firestorm, we’re on a mission to revolutionize how\ndefense solutions are designed and delivered. Our goal is to\nempower U.S. ally nations to effectively deter aggressors —\nregardless of their defense budget — through innovative,\ncost-efficient technologies. We call this vision\n“democratized deterrence.” As a VC-backed company at the\nintersection of defense and Silicon Valley, we’re pioneering\nthe development of mission-adaptable aerial vehicles that\nput power back into the hands of operators. By prioritizing\noperator effectiveness, we’re pioneering a new era of aerial\nvehicle design. We aim to upend the traditional defense\nprocurement model by delivering world-class capabilities at\na fraction of the usual cost. Join us at Firestorm as we\nredefine defense procurement, making cutting-edge technology\naccessible to all at a fraction of the cost.\n\n\n\nAbout the Role\n\n\n\nAt Firestorm, we are building autonomous aerial systems that\noperate where they are needed most, when they are needed\nmost. Our mission requires speed, ingenuity, and a\nrelentless commitment to engineering excellence. We move\nfast, test constantly, and deliver capability that performs\nin the real world, not just in simulation.\n\nWe are looking for a Senior AI Software Engineer who is\nexcited to build, test, and deliver production-grade AI-\nenabled software systems. This is a hands-on role, working\non end-to-end delivery from early prototypes through\nhardened deployments. You will potentially lead a small team\nin the future. This role blends strong software engineering\nfundamentals with modern AI system development: turning\nambiguous user intent into reliable, structured outputs;\nintegrating safely with existing internal systems; and\nbuilding the validation, observability, and governance\nrequired for high-integrity environments. This is not a\nresearch-only role. You will ship, iterate quickly, and set\nthe technical and execution standard for a team operating\nunder demanding timelines.\n\nIf you want to build systems that matter, own your work end\nto end, and be part of a team that values bold thinking\ngrounded in rigorous engineering, Firestorm is the place to\ndo it.\n\n\n\nWhat You'll Do\n\n- Lead hands-on development of AI-enabled software systems\n  from concept to deployment, balancing rapid iteration with\n  engineering rigor\n- Support end-to-end delivery across product and engineering\n  concerns: requirements intake, decomposition into\n  structured outputs, validation, and release readiness\n- Build and maintain agentic workflows (tool use, state\n  handling, retries, human-in-the-loop gates) with clear\n  safety and quality constraints\n- Define and enforce structured output contracts (schemas,\n  validations, compatibility expectations) to reduce\n  brittleness and enable long-term evolution\n- Establish build and release discipline: versioning\n  conventions, reproducibility practices, CI quality gates,\n  and rollback-ready releases\n- Drive operational readiness: observability, auditability,\n  failure-mode handling, and secure-by-default service\n  behavior\n- Partner with adjacent engineering teams to integrate with\n  existing platforms without bypassing governance boundaries\n- Set team execution cadence: sprint planning, technical\n  prioritization, code reviews, and operational response\n  expectations\n- Identify high-risk failure modes in AI workflows and ship\n  mitigations (guardrails, validation layers, permissioning,\n  throttling, and safe defaults)\n- Produce clear technical documentation and decision records\n  that enable fast onboarding and consistent engineering\n  behavior\n\nMinimum Qualifications\n\n\n\n- Bachelor’s degree in Computer Science, Engineering, or\n  related field (or equivalent practical experience)\n- U.S. Citizenship and the ability to obtain and maintain a\n  U.S. Government security clearance\n- 8+ years of experience building and shipping production\n  software systems (services, platforms, or distributed\n  systems)\n- 4+ years of production AI/ML experience, including ownership\n  of real-world reliability, safety, and performance\n  outcomes\n- Demonstrated experience shipping LLM-enabled applications to\n  production (e.g., tool use/function calling, structured\n  outputs, retrieval-augmented generation, robust error\n  handling and fallback strategies)\n- Experience designing AI evaluation and quality gates\n  (offline eval harnesses, regression suites, golden sets,\n  automated grading, CI integration)\n- Experience operating AI systems in production (monitoring,\n  alerting, quality/regression tracking, latency/cost\n  controls, incident response)\n- Strong proficiency in Python and at least one\n  backend/systems language (e.g., Go, Java, C++, Rust)\n- Experience designing and evolving structured interfaces\n  (schemas, validation, versioning, migrations,\n  compatibility)\n- Experience implementing safety/security controls for AI\n  systems (authZ, auditability, data handling boundaries,\n  prompt-injection/abuse mitigation, least-privilege tool\n  access)\n- Proven ability to lead execution in a fast-paced environment\n  while staying highly hands-on\n- Excellent communication and documentation skills\n\nPreferred Qualifications\n\n- Experience with LLM evaluation techniques (LLM-as-judge,\n  rubric-based scoring, pairwise comparisons, calibrated\n  metrics, red-teaming)\n- Experience building agent frameworks (planning, tool\n  routing, state machines, multi-step workflows, fallback\n  strategies, HITL approvals)\n- Experience with model adaptation (prompt optimization, fine-\n  tuning, adapters/LoRA) and the tradeoffs between prompting\n  vs tuning\n- Experience with multimodal AI (vision + language) and/or\n  integrating AI with real-time systems\n- Experience with AI security (prompt injection defenses, tool\n  sandboxing, data exfiltration prevention, policy\n  enforcement)\n- Familiarity with software supply chain practices (dependency\n  hygiene, artifact provenance concepts, secure release\n  workflows)\n- Experience working on safety- or mission-critical systems\n  where correctness, traceability, and auditable behavior\n  matter\n\n\n\nWork Environment\n\n- Remote (U.S.) with the option to be based at our\n  Headquarters in San Diego, CA. We welcome candidates who\n  are local or open to relocating; relocation assistance is\n  available and may be included in the offer package where\n  appropriate\n- Willingness to travel up to 10% domestically for testing and\n  demonstrations\n\nCompensation\n\nUS Salary Range: $175,000 - $245,000 USD\n\nThe posted salary range reflects an estimate based on a\nvariety of compensation factors, including but not limited\nto relevant experience, education, certifications,\nspecialized skills, geographic location, and business needs.\nActual compensation may vary, and this range is subject to\nchange as our compensation structure or market conditions\nevolve.\n\n\n\nBenefits & Perks\n\n\n\nOur culture fosters collaboration, respect, and trust,\nempowering passionate people to do their best work. We offer\na competitive salary, comprehensive benefits, and\nopportunities for career growth. In addition to an\nopportunity to take part in an innovative, collaborative and\nfast-growing business with a highly motivated and skilled\nteam, we also take pride in taking care of our employees.\nHere are just a few ways that we show our appreciation:\n\n- We offer comprehensive medical, dental, and visions plans\n- 401(k) Retirement Savings Plan to invest in your long-term\n  retirement goals\n- Equity grants for new hires\n- Unlimited PTO\n- Extremely generous company holiday calendar, including a\n  holiday hiatus in November, & December\n- Generous Parental Leave\n- Lifestyle Spending Account\n- FSA\n- DCFSA\n- HSA\n- Hospital Indemnity insurance\n- Critical Illness insurance\n- Accident insurance\n- Basic Life/AD&D, short-term and long-term disability\n  insurance, 100% covered by Firestorm. Plus, the option to\n  purchase additional life insurance for you and your family\n- Mental Health Resources: We provide free mental health\n  resources 24/7 including therapy and more. Additional\n  work-life services, such as free legal and financial\n  support, are available to you as well\n\nExport Control Compliance\n\n\n\nTo conform to U.S. government export control regulations,\nincluding the International Traffic in Arms Regulations\n(ITAR) and Export Administration Regulations (EAR), you must\nbe a U.S. citizen, lawful permanent resident of the U.S.,\nprotected individual as defined by 8 U.S.C. 1324b(a)(3), or\notherwise eligible to obtain the required authorizations\nfrom the U.S. Department of State or U.S. Department of\nCommerce.\n\n\n\nEqual Opportunity Statement\n\n\n\nFirestorm is an equal opportunity employer, committed to\ncreating a diverse and inclusive workplace, and upholding\nequitable hiring practices. All qualified applicants will\nreceive consideration for employment without regard to race,\ncolor, religion, sex, sexual orientation, gender identity,\nnational origin, disability, protected veteran status, or\nany other characteristic under federal, state, or local law,\nincluding those with a criminal history, in a manner\nconsistent with the requirements of applicable state and\nlocal laws, including the CA Fair Chance Initiative for\nHiring Ordinance. We actively encourage members of\nrecognized minorities, women, Veterans, and those with\ndisabilities to apply, and we work to create a welcoming and\nsupportive environment for all applicants throughout the\ninterview process.\n\n\n\nFirestorm is committed to fostering an inclusive and\naccessible work environment. If you require accommodations\nor assistance during the application process, please don’t\nhesitate to reach out to us at careers@launchfirestorm.com\nso we can provide the support you need.\n",
+  "skills_required": [
+    "Fine-tuning",
+    "LLM-as-judge",
+    "LangChain",
+    "LoRA",
+    "RAG",
+    "agents",
+    "function calling",
+    "multimodal AI",
+    "prompt engineering",
+    "structured outputs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead hands-on development of AI-enabled software systems from concept to deployment with rapid iteration and engineering rigor",
+    "Build and maintain agentic workflows including tool use, state handling, retries, and human-in-the-loop gates with safety constraints",
+    "Define and enforce structured output contracts including schemas, validations, and compatibility expectations",
+    "Establish build and release discipline with versioning, reproducibility, CI quality gates, and rollback-ready releases",
+    "Drive operational readiness including observability, auditability, failure-mode handling, and secure service behavior",
+    "Integrate AI systems with existing platforms while maintaining governance boundaries",
+    "Identify and mitigate high-risk failure modes in AI workflows with guardrails, validation layers, and safe defaults",
+    "Produce technical documentation and decision records for team onboarding and consistent engineering behavior"
+  ],
+  "use_cases": [
+    "Autonomous aerial systems for defense applications",
+    "Mission-adaptable vehicles for U.S. ally nations",
+    "AI-enabled defense procurement and capability delivery",
+    "Real-time AI integration with aerial systems",
+    "Safety-critical AI workflows for defense environments"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "GCP",
+    "Kubernetes",
+    "Postgres",
+    "REST APIs",
+    "alerting",
+    "monitoring",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Fine-tuning",
+    "LLM-as-judge",
+    "LangChain",
+    "LoRA",
+    "RAG",
+    "agents",
+    "function calling",
+    "multimodal AI",
+    "prompt engineering",
+    "structured outputs"
+  ],
+  "languages_programming": [
+    "C++",
+    "Go",
+    "Java",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on development of AI-enabled\nsystems including building agentic workflows, LLM-enabled\napplications, tool use/function calling, RAG, and structured\noutputs. The position requires production AI/ML experience\nand involves building, deploying, and operating AI systems\nin production environments.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "agents",
+      "function calling",
+      "RAG",
+      "structured outputs",
+      "prompt engineering",
+      "LLM-as-judge"
+    ],
+    "ml": [
+      "Fine-tuning",
+      "LoRA",
+      "multimodal AI"
+    ],
+    "web": [
+      "REST APIs",
+      "FastAPI"
+    ],
+    "databases": [
+      "Postgres",
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "CI/CD",
+      "monitoring",
+      "alerting",
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "Java",
+      "C++",
+      "Rust"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

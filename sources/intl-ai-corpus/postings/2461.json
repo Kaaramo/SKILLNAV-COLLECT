@@ -1,0 +1,182 @@
+{
+  "job_id": "intl-ai-corpus-2461",
+  "source": "intl-ai-corpus",
+  "source_ref": "8902912",
+  "source_url": "https://builtin.com/job/ai-engineer/8902912",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "G-Research",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,039 Employees",
+  "company_stage": null,
+  "company_focus": "Quantitative finance research and trading using AI and\nscientific methods",
+  "industries": [
+    "Big Data",
+    "Fintech",
+    "Information Technology",
+    "Machine Learning",
+    "Financial Services"
+  ],
+  "description": "We tackle the most complex problems in quantitative finance\nby bringing scientific clarity to financial complexity.\n\nFrom our London HQ, we unite world-class researchers and\nengineers in an environment that values deep exploration and\nmethodical execution - because the best ideas take time to\nevolve.  Together we’re building a world-class platform to\namplify our teams’ most powerful ideas.\n\nAs part of our engineering team, you’ll shape the platforms\nand tools that drive high-impact research - designing\nsystems that scale, accelerate discovery and support\ninnovation across the firm.\n\nTake the next step in your career.\n\nThe role\n\nThe Applied AI team is a centralised engineering team within\nthe AI Engineering Department. We build, adopt, and maintain\nthe abstracted agentic tools, platforms, and SDKs that\nenable intelligent systems across G‑Research.\n\nWe don't just build the platform — we use it ourselves to\ndeliver high‑impact solutions, proving the patterns work and\nfeeding real‑world lessons back into the tooling.\n\nAs an AI Engineer you will work across four dimensions:\n\n- Platform & SDKs — Build and maintain G‑Research's agentic\n  platform, evaluation tooling, and Python SDKs that\n  abstract away infrastructure complexity so teams across\n  the firm can build agents quickly and safely.\n- Solutions — Use the platform to deliver production agentic\n  workflows for research and corporate stakeholders,\n  validating the platform through real use cases.\n- Ways of working — Define and champion best practices for\n  building agents at G‑Research: evaluation standards,\n  development patterns, testing approaches, and reference\n  architectures. Lead by example.\n- Embedded delivery — When needed, deploy into specific\n  business teams for weeks at a time to deeply understand\n  their domain, solve critical problems, and uncover new AI\n  opportunities first-hand.\n\nKey responsibilities of the role include:\n\n- Build and evolve the agentic AI platform — develop the core\n  abstractions, orchestration patterns, and infrastructure\n  that enable agent development across G‑Research.\n- Create and maintain Python SDKs with G‑Research-specific\n  abstractions that simplify common patterns: agent\n  scaffolding, tool integration, context management,\n  evaluation, and deployment.\n- Adopt and integrate best-in-class open-source tooling\n  (LangGraph, Pydantic AI, and emerging frameworks),\n  wrapping them in firm-specific abstractions rather than\n  reinventing the wheel.\n- Define ways of working for agent development — establish\n  evaluation standards, development patterns, testing\n  approaches, and reference architectures that teams across\n  the firm follow.\n- Lead by example on agentic evaluations — build and operate\n  evaluation pipelines (e.g. LangSmith, Langfuse) that set\n  the standard for how agents are measured, monitored, and\n  improved at G‑Research.\n- Deliver production agentic solutions for internal\n  stakeholders, using the platform to solve real problems\n  and validating that the abstractions work under real-world\n  conditions.\n- Embed with business teams across the firm — partner directly\n  with research and corporate teams to solve critical\n  problems and identify new AI opportunities. This may\n  involve deploying into a specific team for several weeks\n  to deeply understand their domain and deliver tailored\n  solutions.\n- Apply context engineering techniques to optimise how agents\n  retrieve, structure, and utilise information — and codify\n  those techniques into the platform and SDKs.\n- Where needed, fine‑tune and optimise models\n  (parameter‑efficient or full‑weight) to meet\n  domain‑specific accuracy, latency, and cost targets.\n- Integrate with existing stacks (C#, C++, JVM) ensuring clear\n  APIs, monitoring, and CI/CD pipelines.\n- Upskill engineers across the firm through pair‑programming,\n  workshops, SDK documentation, and written playbooks on\n  agent development best practices.\n- Stay on top of the LLM ecosystem (tooling, evaluation\n  techniques, open‑source releases) and feed lessons learned\n  back into the platform and wider AI Engineering\n  Department.\n\nWho are we looking for?\n\nWe value pragmatic engineers who combine deep technical\nability with strong product intuition and impeccable\nstakeholder communication. You should enjoy moving between\ngreen‑field proofs‑of‑concept and hardening them into\nresilient, audited services.\n\nEssential\n\nAI Engineering\n\n- Hands‑on experience building LLM applications with\n  LangGraph/LangChain, Pydantic AI, FastAPI, MCPs, and RAG\n  (pgvector, Pinecone, Qdrant, Milvus, etc.).\n- Strong understanding of context engineering — retrieval\n  strategies, context window management, dynamic prompt\n  construction, and information routing.\n- Experience designing complex agentic workflows including\n  multi-step planning, tool use, self-correction, and multi-\n  agent patterns.\n- Solid understanding of RAG patterns, prompt engineering, and\n  safe deployment considerations.\n\nEvaluation & Observability\n\n- Experience with agentic evaluation frameworks (e.g.\n  LangSmith, Langfuse) for measuring accuracy, latency,\n  cost, and detecting behavioural regressions.\n\nPlatform & Software Engineering\n\n- Proven expertise in Python for production systems, with\n  fluency in modern async patterns, typing, and testing\n  frameworks.\n- Experience building platform-level software — reusable APIs,\n  shared libraries, SDKs, extensible architectures — not\n  just one-off solutions.\n- Comfort integrating with heterogeneous tech stacks\n  (REST/gRPC, message buses, SQL/NoSQL stores) and\n  automating deployment with Git, Docker, and Kubernetes.\n\nCommunication\n\n- Ability to translate ambiguous requirements into clear\n  technical plans and to communicate trade‑offs to both\n  technical and non‑technical audiences.\n\nDesirable\n\n- Exposure to enterprise security, data‑privacy, and\n  model‑governance frameworks.\n- Demonstrable skill fine‑tuning or parameter‑efficiently\n  adapting foundation models (LoRA, QLoRA, DPO, etc.) and\n  evaluating their performance.\n- Experience running low‑latency inference on‑prem GPU\n  clusters or hybrid cloud environments.\n- Knowledge of experiment‑tracking, offline evaluation, and\n  A/B‑testing pipelines for LLM applications.\n- Experience building chat or agent UIs for end-user\n  interaction with agentic systems.\n- Contributions to open‑source AI‑engineering projects or\n  publication of technical blogs/talks.\n\nWhy join us?\n\n- Highly competitive compensation plus annual discretionary\n  bonus\n- Lunch provided (via Just Eat for Business) and dedicated\n  barista bar\n- 30 days annual leave\n- 9% company pension contributions\n- Informal dress code and excellent work/life balance\n- Comprehensive healthcare and life assurance\n- Cycle-to-work scheme\n- Monthly company events\n\nG-Research is committed to cultivating and preserving an\ninclusive work environment. We are an ideas-driven business\nand we place great value on diversity of experience and\nopinions.\n\nWe want to ensure that applicants receive a recruitment\nexperience that enables them to perform at their best. If\nyou have a disability or special need that requires\naccommodation please let us know in the relevant section\n",
+  "skills_required": [
+    "Agentic workflows",
+    "Context engineering",
+    "DPO",
+    "Fine-tuning",
+    "LangChain",
+    "LangGraph",
+    "LoRA",
+    "MCP",
+    "Model optimization",
+    "Multi-agent patterns",
+    "Prompt Engineering",
+    "Pydantic AI",
+    "QLoRA",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and evolve the agentic AI platform — develop core abstractions, orchestration patterns, and infrastructure for agent development across the firm",
+    "Create and maintain Python SDKs with firm-specific abstractions for agent scaffolding, tool integration, context management, evaluation, and deployment",
+    "Integrate best-in-class open-source tooling (LangGraph, Pydantic AI) wrapped in firm-specific abstractions",
+    "Define ways of working for agent development including evaluation standards, development patterns, and reference architectures",
+    "Build and operate evaluation pipelines (LangSmith, Langfuse) for measuring and monitoring agent performance",
+    "Deliver production agentic solutions for internal stakeholders using the platform",
+    "Embed with business teams to solve critical problems and identify new AI opportunities through direct partnership",
+    "Fine-tune and optimize models (parameter-efficient or full-weight) for domain-specific accuracy, latency, and cost targets"
+  ],
+  "use_cases": [
+    "Agentic workflows for quantitative finance research teams",
+    "Internal platform enabling agent development across the firm",
+    "Corporate workflow automation through agentic systems",
+    "Context engineering for optimized information retrieval and structuring in financial domains",
+    "Production agentic solutions for research and corporate stakeholders",
+    "Evaluation and monitoring of agent performance in financial applications"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "GPU inference",
+    "Git",
+    "Kubernetes",
+    "LangSmith",
+    "Langfuse",
+    "Milvus",
+    "NoSQL",
+    "Pinecone",
+    "Qdrant",
+    "REST",
+    "SQL",
+    "gRPC",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Agentic workflows",
+    "Context engineering",
+    "DPO",
+    "Fine-tuning",
+    "LangChain",
+    "LangGraph",
+    "LoRA",
+    "MCP",
+    "Model optimization",
+    "Multi-agent patterns",
+    "Prompt Engineering",
+    "Pydantic AI",
+    "QLoRA",
+    "RAG"
+  ],
+  "languages_programming": [
+    "C#",
+    "C++",
+    "JVM languages",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building agentic AI platforms, SDKs,\nand production agentic workflows. The engineer works hands-\non with LLM frameworks (LangGraph, LangChain, Pydantic AI),\nbuilds agentic orchestration patterns, fine-tunes models,\nimplements RAG systems, and designs evaluation pipelines.\nThis is squarely an ai-first role focused on building and\ndeploying AI/LLM systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "Pydantic AI",
+      "RAG",
+      "Prompt Engineering",
+      "Multi-agent patterns",
+      "Agentic workflows",
+      "Context engineering",
+      "MCP"
+    ],
+    "ml": [
+      "LoRA",
+      "QLoRA",
+      "DPO",
+      "Fine-tuning",
+      "Model optimization"
+    ],
+    "web": [
+      "FastAPI",
+      "REST",
+      "gRPC"
+    ],
+    "databases": [
+      "pgvector",
+      "Pinecone",
+      "Qdrant",
+      "Milvus",
+      "SQL",
+      "NoSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "LangSmith",
+      "Langfuse",
+      "Git",
+      "GPU inference",
+      "A/B testing"
+    ],
+    "languages": [
+      "Python",
+      "C#",
+      "C++",
+      "JVM languages"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

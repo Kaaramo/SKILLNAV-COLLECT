@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-2105",
+  "source": "intl-ai-corpus",
+  "source_ref": "8757760",
+  "source_url": "https://builtin.com/job/senior-software-engineer-power-bi-developer/8757760",
+  "title": "Senior Software Engineer : Power Bi Developer, Python AI/ML",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Wells Fargo",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "205,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Financial services and banking institution",
+  "industries": [
+    "Fintech",
+    "Financial Services"
+  ],
+  "description": "In this role, you will:\n\n- Lead moderately complex initiatives and deliverables within\n  technical domain environments\n- Contribute to large scale planning of strategies\n- Design, code, test, debug, and document for projects and\n  programs associated with technology domain, including\n  upgrades and deployments\n- Review moderately complex technical challenges that require\n  an in-depth evaluation of technologies and procedures\n- Resolve moderately complex issues and lead a team to meet\n  existing client needs or potential new clients needs while\n  leveraging solid understanding of the function, policies,\n  procedures, or compliance requirements\n- Collaborate and consult with peers, colleagues, and mid-\n  level managers to resolve technical challenges and achieve\n  goals\n- Lead projects and act as an escalation point, provide\n  guidance and direction to less experienced staff\n\nRequired Qualifications:\n\n- 4+ years of Software Engineering experience, or equivalent\n  demonstrated through one or a combination of the\n  following: work experience, training, military experience,\n  education\n\nDesired Qualifications:\n\n- Bachelor's or master's degree in computer science, Software\n  Engineering, or a related field.\n- Strong Knowledge and experience with Tableau, PowerBI,\n  Grafana or any other visualization tools\n- Professional experience in Python software development.\n- Strong proficiency in Python and related frameworks (e.g.,\n  Django, Flask, FastAPI).\n- Knowledge and Experience with Python AI/ML libraries\n- Extensive experience with relational and/or NoSQL databases\n  (e.g., PostgreSQL, MySQL, MongoDB).\n- Solid understanding of software design principles and\n  patterns.\n- Experience with version control systems (e.g., Git).\n- Experience with cloud platforms (e.g., AWS, Azure, GCP).\n- Experience with containerization and orchestration (e.g.\n  Docker, Kubernetes, OpenShift).\n- Strong knowledge of RESTful API design.\n- Excellent problem-solving and debugging skills.\n- Strong communication and collaboration skills.\n- Experience with message queues (e.g., RabbitMQ, Kafka).\n- Experience with CI/CD pipelines (e.g., Jenkins, GitLab CI,\n  Git Action).\n\nJob Expectations: Site Reliability Engineering:\n\n- Good understanding about SRE practices (Reliability,\n  Observability, Availability, TOIL Automation)\n- Experience working with Observability tools (Splunk,\n  Grafana, Prometheus, ELK)\n- Knowledge and good understanding on Reliability concepts\n  (SLI, SLO, SLI, Error budget)\n\nDesign and Development:\n\n- Develop high-quality, scalable, and maintainable Python code\n  for backend services, APIs, and applications.\n- Architect and implement robust solutions that meet business\n  requirements and Non-functional requirements.\n- Participate in code reviews and provide constructive\n  feedback to ensure code quality and code hygiene.\n- Write unit and integration tests to ensure code reliability\n  and stability.\n\nCollaboration and Communication:\n\n- Collaborate effectively with product owner, designers, and\n  other engineers to deliver high-quality software.\n- Communicate technical concepts clearly and concisely to both\n  technical and non-technical stakeholders.\n- Participate in agile development processes, including sprint\n  planning, daily stand-ups, and retrospectives.\n\nPerformance and Optimization:\n\n- Identify and resolve performance bottlenecks and optimize\n  code for efficiency.\n- Monitor and troubleshoot production systems to ensure uptime\n  and reliability.\n- Implement and maintain CI/CD pipelines for automated testing\n  and deployment.\n\nDatabase and API Interaction:\n\n- Design and implement efficient database schemas and queries\n  (SQL or NoSQL).\n- Build and consume RESTful or GraphQL APIs.\n- Work with message queues and other asynchronous processing\n  systems.\n",
+  "skills_required": [
+    "Power BI",
+    "Python AI/ML libraries",
+    "Tableau"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead moderately complex initiatives and deliverables within technical domain environments",
+    "Design, code, test, debug, and document for projects and programs associated with technology domain",
+    "Review and resolve moderately complex technical challenges requiring in-depth evaluation of technologies",
+    "Develop high-quality, scalable, and maintainable Python code for backend services, APIs, and applications",
+    "Architect and implement robust solutions meeting business and non-functional requirements",
+    "Design and implement efficient database schemas and queries for SQL and NoSQL databases",
+    "Build and consume RESTful or GraphQL APIs and work with message queues",
+    "Implement and maintain CI/CD pipelines and monitor production systems for reliability"
+  ],
+  "use_cases": [
+    "Backend services and API development for enterprise applications",
+    "Business intelligence and data visualization dashboards",
+    "Site reliability and observability for production systems",
+    "Database management and data processing pipelines"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Django",
+    "Docker",
+    "ELK Stack",
+    "FastAPI",
+    "Flask",
+    "GCP",
+    "Git",
+    "GitLab CI",
+    "Grafana",
+    "GraphQL",
+    "Jenkins",
+    "Kafka",
+    "Kubernetes",
+    "MongoDB",
+    "MySQL",
+    "OpenShift",
+    "PostgreSQL",
+    "Prometheus",
+    "RESTful API design",
+    "RabbitMQ",
+    "Splunk"
+  ],
+  "frameworks_mentioned": [
+    "Python AI/ML libraries"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role is primarily a backend software engineering\nposition with SRE responsibilities at Wells Fargo. While it\nmentions \"Knowledge and Experience with Python AI/ML\nlibraries\" in desired qualifications, there are no\nresponsibilities involving building, training, fine-tuning,\nor deploying AI/ML models. The role focuses on backend\nservices, APIs, databases, and site reliability rather than\nhands-on AI/ML work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "Python AI/ML libraries"
+    ],
+    "web": [
+      "Django",
+      "Flask",
+      "FastAPI",
+      "RESTful API design",
+      "GraphQL"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB"
+    ],
+    "data": [
+      "RabbitMQ",
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Grafana",
+      "Git",
+      "Docker",
+      "Kubernetes",
+      "OpenShift",
+      "Jenkins",
+      "GitLab CI",
+      "Splunk",
+      "Prometheus",
+      "ELK Stack"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Power BI",
+      "Tableau"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

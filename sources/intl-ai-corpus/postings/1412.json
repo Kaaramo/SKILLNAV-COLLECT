@@ -1,0 +1,157 @@
+{
+  "job_id": "intl-ai-corpus-1412",
+  "source": "intl-ai-corpus",
+  "source_ref": "8450531",
+  "source_url": "https://builtin.com/job/ai-engineer/8450531",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Blend360",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-10",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "390 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "AI services provider offering data science, AI, and\ntechnology consulting solutions",
+  "industries": [
+    "Database",
+    "Analytics"
+  ],
+  "description": "Company Description\n\nBlend is a premier AI services provider, committed to co-\ncreating meaningful impact for its clients through the power\nof data science, AI, technology, and people. With a mission\nto fuel bold visions, Blend tackles significant challenges\nby seamlessly aligning human expertise with artificial\nintelligence. The company is dedicated to unlocking value\nand fostering innovation for its clients by harnessing\nworld-class people and data-driven strategy. We believe that\nthe power of people and AI can have a meaningful impact on\nyour world, creating more fulfilling work and projects for\nour people and clients. For more information, visit\nwww.blend360.com \n\nJob Description\n\nWe are seeking an experienced AI Manager with deep expertise\nin Azure AI, Microsoft Fabric, and Machine Learning\necosystems to design and implement enterprise-grade AI\nsolutions. The ideal candidate combines strong technical\nleadership with hands-on experience architecting end-to-end\nAI/ML systems—from data readiness through model\ndeployment—leveraging Azure’s cloud-native and Fabric-based\nservices.\n\nKey Responsibilities\n\n- Architect and lead the design and implementation of AI/ML\n  solutions on Azure Cloud (Azure Machine Learning, Azure\n  Databricks, Synapse, Azure AI Foundry, Microsoft Fabric,\n  Cognitive Services, Azure OpenAI etc.).\n- Define end-to-end AI architecture encompassing data\n  pipelines, feature stores, model training, deployment, and\n  monitoring.\n- Partner with stakeholders to translate business challenges\n  into AI-driven solutions and technical blueprints.\n- Design scalable and secure architectures adhering to best\n  practices in data governance, MLOps, LLMOps, and cost\n  optimization.\n- Integrate Microsoft Fabric as the unified data foundation\n  for AI workloads, ensuring governed, high-quality data\n  access and lineage visibility.\n- Lead MLOps initiatives including model CI/CD, versioning,\n  monitoring, and drift detection using Azure DevOps, Azure\n  ML Pipelines, and Azure AI Foundry.\n- Contribute to the design, building, or working with event-\n  driven architectures and relevant for asynchronous\n  processing and system integration\n- Experience developing and deploying LLM-powered features\n  into production systems, translating experimental outputs\n  into robust services with clear APIs.\n- Experience working within a standard software development\n  lifecycle\n- Evaluate and implement Generative AI (GenAI) and LLM-based\n  solutions using Azure OpenAI, Cognitive Services, and\n  frameworks such as LangChain or LangGraph.\n- Establish observability and monitoring frameworks using\n  Azure Monitor, Application Insights, MLflow, and\n  Databricks dashboards for AI workloads.\n- Collaborate with cross-functional teams—Data Engineers, Data\n  Scientists, Software Engineers  and DevOps to ensure\n  seamless integration and delivery of AI products.\n- Provide technical mentorship and architectural guidance to\n  engineering teams.\n\nQualifications\n\n- 5 + years of overall IT experience, including 4+ years in\n  AI/ML solutioning and 3 + years in Azure-based\n  architecture.\n- Deep expertise in the Azure AI ecosystem—Azure Machine\n  Learning, Azure Databricks, Azure AI Foundry, Microsoft\n  Fabric, Azure Cognitive Services, Azure OpenAI, Azure\n  Synapse, and Data Lake.\n- Strong proficiency in Python and major ML frameworks\n  (PyTorch, TensorFlow, Scikit-learn).\n- Proven experience with transformer model architectures and\n  practical understanding of LLM specifics like context\n  handling.\n- Proven experience designing, implementing, and optimising\n  prompt strategies (e.g., chaining, templates, dynamic\n  inputs); practical understanding of output post-\n  processing.\n- Must have hands-on experience implementing and automating\n  MLOps/LLMOps practices, including model tracking,\n  versioning, deployment, monitoring (latency, cost,\n  throughput, reliability), logging, and retraining\n  workflows.\n- Must have worked extensively with MLOps/experiment tracking\n  and operational tools (e.g., MLflow, Weights & Biases) and\n  have a demonstrable track record.\n- Proven ability to monitor, evaluate, and optimise AI/LLM\n  solutions for performance (latency, throughput,\n  reliability), accuracy, and cost in production\n  environments.\n- Proven experience in MLOps and LLMOps design and automation\n  using Azure DevOps, Docker, and Kubernetes.\n- Hands-on experience integrating AI solutions with Microsoft\n  Fabric and Azure Data Factory for data preparation and\n  governance.\n- Strong understanding of distributed systems, model lifecycle\n  management, and AI system scalability.\n- Experience in LLM fine-tuning, prompt engineering, or AI\n  solution integration with enterprise applications.\n- Excellent communication and stakeholder management skills\n  with a strategic mindset.\n",
+  "skills_required": [
+    "LLM Fine-tuning",
+    "LangChain",
+    "LangGraph",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and lead design and implementation of AI/ML solutions on Azure Cloud including Azure Machine Learning, Azure Databricks, Synapse, Azure AI Foundry, and Microsoft Fabric",
+    "Define end-to-end AI architecture encompassing data pipelines, feature stores, model training, deployment, and monitoring",
+    "Design scalable and secure architectures with best practices in data governance, MLOps, LLMOps, and cost optimization",
+    "Integrate Microsoft Fabric as unified data foundation for AI workloads ensuring governed data access and lineage",
+    "Lead MLOps initiatives including model CI/CD, versioning, monitoring, and drift detection using Azure DevOps and Azure ML Pipelines",
+    "Develop and deploy LLM-powered features into production systems with robust APIs",
+    "Evaluate and implement Generative AI and LLM-based solutions using Azure OpenAI, Cognitive Services, LangChain, and LangGraph",
+    "Establish observability and monitoring frameworks using Azure Monitor, Application Insights, MLflow, and Databricks dashboards"
+  ],
+  "use_cases": [
+    "Enterprise-grade AI solution implementation for client organizations",
+    "LLM-powered features and services deployment",
+    "MLOps and LLMOps automation for production AI workloads",
+    "Data-driven AI architecture with unified data foundation",
+    "Generative AI solution integration with enterprise applications"
+  ],
+  "tools_mentioned": [
+    "Application Insights",
+    "Azure AI Foundry",
+    "Azure Cognitive Services",
+    "Azure Data Factory",
+    "Azure Data Lake",
+    "Azure Databricks",
+    "Azure DevOps",
+    "Azure Machine Learning",
+    "Azure Monitor",
+    "Azure OpenAI",
+    "Azure Synapse",
+    "Docker",
+    "Feature Stores",
+    "Kubernetes",
+    "LLMOps",
+    "MLOps",
+    "MLflow",
+    "Microsoft Fabric",
+    "Weights & Biases"
+  ],
+  "frameworks_mentioned": [
+    "LLM Fine-tuning",
+    "LangChain",
+    "LangGraph",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves designing, implementing, and\ndeploying AI/ML solutions including LLM-powered features,\nfine-tuning, RAG systems, and model training. The position\nrequires hands-on work with Azure ML, Azure OpenAI, and\nframeworks like LangChain/LangGraph for building production\nAI systems.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Prompt Engineering",
+      "LLM Fine-tuning",
+      "RAG"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Azure Data Factory",
+      "Feature Stores"
+    ],
+    "cloud": [
+      "Azure Machine Learning",
+      "Azure Databricks",
+      "Microsoft Fabric",
+      "Azure AI Foundry",
+      "Azure Cognitive Services",
+      "Azure OpenAI",
+      "Azure Synapse",
+      "Azure Data Lake"
+    ],
+    "ops": [
+      "MLflow",
+      "Weights & Biases",
+      "Docker",
+      "Kubernetes",
+      "Azure DevOps",
+      "Azure Monitor",
+      "Application Insights",
+      "MLOps",
+      "LLMOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

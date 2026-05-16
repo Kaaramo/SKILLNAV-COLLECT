@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-1186",
+  "source": "intl-ai-corpus",
+  "source_ref": "8259850",
+  "source_url": "https://builtin.com/job/trading-ops-risk-systems-engineer-ai-automation/8259850",
+  "title": "Trading Ops & Risk Systems Engineer (AI & Automation)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Crypto.com",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "4,266 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cryptocurrency exchange and trading platform",
+  "industries": [
+    "Fintech",
+    "Financial Services",
+    "Cryptocurrency",
+    "NFT",
+    "Web3"
+  ],
+  "description": "We are seeking a highly analytical and technical\nprofessional to spearhead the evolution of our trading\ninfrastructure.  This hybrid role combines the fast-paced\nexecution of a Trading Operations Specialist, the analytical\nrigor of a Risk Manager, and the technical capabilities of\nan AI-focused Developer.\n\nThe successful candidate will not only manage daily\noperational workflows and risk monitoring but will also lead\nthe digital transformation of these functions. You will\nleverage Large Language Models (LLMs), machine learning, and\nadvanced scripting to automate legacy manual processes,\nimprove predictive risk modeling, and build real-time P&L\nvisualization tools.\n\nKey Responsibilities:\n\n- 1. Trading Operations and P&L Analysis with AI\n- Manage the end-to-end lifecycle of trades across multi-asset\n  classes.  Develop agentic AI workflows using Python (ML)\n  and MLOps tools to automate manual operations and\n  reconciliations\n- Perform daily P&L attribution and explain variance by\n  decomposing market moves, Greeks, and new activity.\n  Leverage AI/ML frameworks (e.g., OpenAI API, LangChain, or\n  local LLMs) to build intelligent agents for anomaly\n  detection in trade data and automated commentary\n  generation for P&L reports.\n- Ensure data integrity across trading systems, middle-office\n  platforms, and downstream finance ledgers.\n- 2. Risk Monitoring & Control\n- Intelligent Risk Management: Develop real-time, AI-driven\n  risk models that use machine learning to predict market\n  volatility and alert the desk to emerging cross-market\n  risks.\n- Develop and maintain sophisticated risk reporting dashboards\n  for the desk.\n\nRequirements & Qualifications\n\n- Experience: 5+ years in front-office operations, quant\n  development, or a blend of risk management and systems\n  architecture within a financial institution.\n- Technical Stack: Expert proficiency in Python (for AI/ML),\n  and strong SQL skills. Experience building agentic AI\n  workflows is a significant advantage.\n- Financial Acumen: Deep understanding of P&L attribution,\n  financial controls, market risk indicators (Greeks, VaR),\n  financial markets and products.\n- Problem Solving: A \"systems-thinking\" approach to\n  operations—treating every manual task as a bug that needs\n  an automated solution.\n- Capacity: Ability to thrive in a high-intensity environment\n  requiring extended hours when necessary to meet global\n  trading demands.\n- Agility: Willingness to participate in a rotational weekend\n  and on-call schedule, providing immediate resolution to\n  live production issues\n",
+  "skills_required": [
+    "LangChain",
+    "OpenAI API",
+    "agentic AI workflows",
+    "local LLMs",
+    "machine learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Manage end-to-end trade lifecycle across multi-asset classes and develop agentic AI workflows with Python and MLOps to automate manual operations and reconciliations",
+    "Perform daily P&L attribution and variance analysis using AI/ML frameworks like OpenAI API and LangChain to build intelligent agents for anomaly detection and automated commentary generation",
+    "Develop real-time AI-driven risk models using machine learning to predict market volatility and alert on cross-market risks",
+    "Build and maintain sophisticated risk reporting dashboards for the trading desk",
+    "Ensure data integrity across trading systems, middle-office platforms, and downstream finance ledgers",
+    "Leverage LLMs and advanced scripting to automate legacy manual processes and improve predictive risk modeling"
+  ],
+  "use_cases": [
+    "Automated trade reconciliation and operational workflows using agentic AI",
+    "Real-time P&L attribution with AI-powered anomaly detection and automated report commentary generation",
+    "Predictive risk modeling using ML to forecast market volatility and cross-market risks",
+    "Intelligent monitoring and alerting for trading desk risk management",
+    "Real-time visualization tools for trading performance and risk metrics"
+  ],
+  "tools_mentioned": [
+    "MLOps"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "OpenAI API",
+    "agentic AI workflows",
+    "local LLMs",
+    "machine learning"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on development of AI solutions\nincluding agentic AI workflows, LLM integration, and ML-\nbased risk models. The candidate will build, deploy, and\nfine-tune AI agents for automation and anomaly detection,\ndirectly working on AI systems rather than just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "LangChain",
+      "agentic AI workflows",
+      "local LLMs"
+    ],
+    "ml": [
+      "machine learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "MLOps"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "P&L attribution",
+      "market risk indicators (Greeks, VaR)"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

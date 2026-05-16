@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0357",
+  "source": "intl-ai-corpus",
+  "source_ref": "7844529",
+  "source_url": "https://builtin.com/job/generative-ai-engineer/7844529",
+  "title": "Generative AI Engineer",
+  "title_normalized": "GENAI_LLM_ENGINEER",
+  "company": "Regard",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "75 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-powered proactive healthcare documentation platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "As a Generative AI Engineer at Regard, you’ll work across\nthe full lifecycle of developing and deploying AI-driven\nfeatures, from ideation and design to prototyping,\nimplementation, evaluation, and iteration. You’ll\ncollaborate closely with product and clinical teams to build\nsystems that transform medical records into structured\ninsights and clinician-ready documentation.\n\nYour work will center on applying modern LLMs to extract,\nsummarize, normalize, and generate clinical information from\ndiverse electronic health record (EHR) data sources. This\nincludes developing robust pipelines, running model and\nprompt-engineering experiments, integrating models into\nproduction services, and ensuring outputs remain factual,\nsafe, and clinically aligned.\n\nYou’ll directly contribute to high-priority product\ninitiatives, shape new AI capabilities, and advance our LLM\nplatform. Your work will have a tangible impact on how\nclinicians understand patient data and how healthcare\norganizations improve care quality.\n\nAbout Regard\n\nOur mission is to bring world-class healthcare to everyone.\nRegard is an AI-powered Proactive Documentation platform\nthat advances how care is delivered by reviewing all patient\ndata in the EHR to recommend diagnoses and surface clinical\nevidence. Regard drafts a note even before the physician\nsees the patient, enabling an approach that gets\ndocumentation right at the point of care - we call it\nProactive Documentation. This improves quality of care,\nreduces physician burden, and improves hospital finances. We\nare excited by challenges, mission-oriented work, and\nmeaningful relationships. We work closely with some of the\ntop health systems in the country and are leading the change\nthat healthcare - one of the largest and most inefficient\nindustries in the world - needs. We want you to join us.\n\nOur Tech Stack:\n\n- Frontend: TypeScript, React\n- Backend: Python, PostgreSQL, Redis, AWS\n- AI: OpenAI, Anthropic, Langfuse\n\nResponsibilities:\n\n- Build and refine LLM-powered systems to extract structured\n  medical concepts, diagnoses, medications, labs, and\n  timelines from unstructured records\n- Develop generation pipelines that produce clinically\n  accurate drafts of notes (H&P, progress notes, discharge\n  summaries, etc.) from factual inputs\n- Design, prototype, and evaluate prompts, agent workflows,\n  and retrieval-augmented generation (RAG) components\n- Benchmark LLM systems to evaluate new models and audit\n  accuracy\n- Optimize inference cost, latency, and throughput through\n  batching, caching, and model-selection strategies\n\nQualifications:\n\n- BS in Computer Science or equivalent experience\n- 3+ years of professional experience with software\n  development in one or more programming languages (Python\n  preferred)\n- 1+ years of professional experience building generative AI\n  products, such as RAGs, agents and chatbots\n- Able to participate in on-call operational support for their\n  areas of responsibility\n- Able to travel up to 4 weeks a year for company co-working\n  and/or retreat weeks\n- Strong verbal and written communication skills\n- Practical experience leveraging AI coding tools in day-to-\n  day software development (e.g., Cursor, Claude Code,\n  Codex)\n\nPreferred Qualifications:\n\n- Familiarity with vector databases and embeddings generation\n- Experience working on a mature enterprise SaaS technology\n  product\n- Exposure to startup and/or high growth environments\n\nHybrid Work | Location | Work Authorization\n\n- For this role, Regard is currently only considering\n  candidates who are authorized to work in the US without\n  visa sponsorship, and are within the New York City metro\n  area, San Francisco Bay Area, or Los Angeles\n- We expect our Engineers to be in the office on Tuesdays and\n  Thursdays. We may request more frequent in-office work\n  during the onboarding period\n- We will provide relocation assistance to anyone who does not\n  already reside in the NYC metro area\n- We prefer hiring people within commuting distance of our\n  offices because we value getting together in person\n  regularly\n- For those who enjoy working from the office on a more\n  regular basis, we offer catered lunches and other fun\n  perks\n- Additionally, hybrid employees have the flexibility to work\n  from locations outside of their home office from up to 6\n  weeks per year\n\nComp | Perks | Benefits\n\n- Eligible for equity\n- 99% employer paid health benefits (Medical, Dental, and\n  Vision) + One Medical subscription\n- 18 PTO days/yr + 1 week holiday break\n- Monthly health & wellness budget\n- Company-sponsored team retreat + social events\n- A sabbatical program\n\nOur goal at Regard is to provide and maintain a work\nenvironment that fosters mutual respect, professionalism and\ncooperation. Regard is proud to be an equal opportunity\nemployer that does not discriminate on the basis of actual\nor perceived race, creed, color, religion, national origin,\nancestry, alienage or citizenship status, age, disability or\nhandicap, sex, gender identity, marital status, familial\nstatus, veteran status, sexual orientation or any other\ncharacteristic protected by applicable federal, state or\nlocal laws. We celebrate diversity and are proud of our\nsupportive, inclusive workplace.\n\nAll candidates must successfully complete a background check\nas part of the hiring process.\n",
+  "skills_required": [
+    "Anthropic",
+    "Langfuse",
+    "OpenAI",
+    "RAG",
+    "agents",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and refine LLM-powered systems to extract structured medical concepts, diagnoses, medications, labs, and timelines from unstructured records",
+    "Develop generation pipelines that produce clinically accurate drafts of notes (H&P, progress notes, discharge summaries, etc.) from factual inputs",
+    "Design, prototype, and evaluate prompts, agent workflows, and retrieval-augmented generation (RAG) components",
+    "Benchmark LLM systems to evaluate new models and audit accuracy",
+    "Optimize inference cost, latency, and throughput through batching, caching, and model-selection strategies",
+    "Collaborate closely with product and clinical teams to build systems that transform medical records into structured insights and clinician-ready documentation"
+  ],
+  "use_cases": [
+    "Extract structured medical information (diagnoses, medications, labs, timelines) from unstructured electronic health records",
+    "Generate clinically accurate documentation drafts including H&P notes, progress notes, and discharge summaries",
+    "Proactively draft clinical notes before physician visits to improve care quality and reduce documentation burden",
+    "Surface clinical evidence and recommend diagnoses by reviewing all patient data in the EHR",
+    "Transform diverse EHR data sources into clinician-ready documentation and structured insights"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "PostgreSQL",
+    "React",
+    "Redis",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic",
+    "Langfuse",
+    "OpenAI",
+    "RAG",
+    "agents",
+    "embeddings",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "GENAI_LLM_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying LLM-\npowered systems including RAG components, agent workflows,\nand prompt engineering. The engineer directly develops\ngeneration pipelines, optimizes inference, and integrates\nmodels into production services.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI",
+      "Anthropic",
+      "Langfuse",
+      "RAG",
+      "agents",
+      "prompt engineering",
+      "embeddings"
+    ],
+    "ml": [],
+    "web": [
+      "React"
+    ],
+    "databases": [
+      "vector databases",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

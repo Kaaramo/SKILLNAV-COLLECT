@@ -1,0 +1,119 @@
+{
+  "job_id": "intl-ai-corpus-1922",
+  "source": "intl-ai-corpus",
+  "source_ref": "8637134",
+  "source_url": "https://builtin.com/job/staff-product-engineer-ai-focus/8637134",
+  "title": "Staff Product Engineer (AI Focus)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Gizmo",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-03",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "105 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered gamified learning platform for students",
+  "industries": [
+    "Artificial Intelligence",
+    "Edtech",
+    "Software"
+  ],
+  "description": "Gizmo is an AI startup on a mission to make learning so easy\nthat anyone can learn anything. We're building a platform\nthat uses gamification and social mechanics to make learning\nfun.\n\nWith over 1.7 million monthly active users, we’re already\none of the fastest-growing startups in the UK. Backed by\nleading investors, our recent Series A funding is\naccelerating our vision of helping 1 billion people learn.\n\nThe Role\n\nWe’re hiring an experienced/staff-level Product Engineer\n(AI-focused) to build and scale the core intelligence behind\nGizmo.\n\nReporting to the CEO and Co-Founder, you’ll work across our\nTypeScript codebase to ship AI-powered features used daily\nby thousands of students, including study material\ngeneration, quizzes, automated marking and content\ningestion.\n\nThis is not an ML research role. It is a hands-on product\nengineering position focused on designing and improving\nproduction AI systems with real user impact.\n\nIf you want to build AI that sits at the heart of a product\nand see your work make a tangible difference at scale, this\nrole offers genuine impact.\n\nWhat You Will Be Doing\n\nBuilding AI-Powered Product Features\n\nYou will operate as a full product engineer, owning AI\nfeatures end to end:\n\n- Design and ship AI-driven user-facing features in our\n  TypeScript stack\n- Take ownership of AI features from idea through to\n  production and iteration\n- Collaborate closely with design and product to solve real\n  learning problems with end to end AI solutions\n- Write clean, maintainable, production-ready code\n- Contribute to architectural decisions across backend and AI\n  systems\n- Improve the user experience around AI outputs, including\n  feedback loops and refinement flows\n\nOwning and Improving Production AI Systems\n\nYou will take responsibility for AI systems that are already\nlive and used daily.\n\nThese include:\n\n- Study material content generation\n- Quiz question generation\n- Automated marking and feedback\n- Structured content ingestion pipelines\n\nYou will:\n\n- Optimise production AI pipelines\n- Design and iterate on prompts, including agentic prompt\n  engineering and multi-step workflows\n- Build structured model pipelines rather than simple single-\n  call integrations\n- Integrate model improvements directly into our TypeScript\n  backend\n- Create novel AI-powered systems to solve new product\n  challenges\n- Prototype and productionise new model-driven capabilities\n\nDesigning Evaluation and Quality Frameworks\n\nYou will:\n\n- Define what great looks like across different AI use cases\n- Design internal evaluation frameworks\n- Develop clear metrics for quality, correctness and\n  usefulness\n- Evaluate multi-step and agentic workflows for robustness\n- Run structured experiments to drive systematic improvement\n- Build internal tooling to support iteration and\n  experimentation\n\nEnsuring Reliability at Scale\n\nYou will:\n\n- Monitor model behaviour and system health\n- Handle API rate limits and third-party outages\n- Improve resilience, retries and fallback logic\n- Design robust model-calling infrastructure\n- Ensure AI features remain stable and performant under scale\n\nRequirements\n\n- 8+ years of software engineering experience\n- Strong expertise in TypeScript is preferred; however, we\n  would also consider candidates with strong JavaScript\n  experience\n- Degree in Machine Learning, Artificial Intelligence, or a\n  related quantitative discipline; alternatively,\n  demonstrable hands-on experience evaluating AI models and\n  prompts in a production environment\n- Experience building and maintaining production systems\n- Experience shipping user-facing product features\n- Experience designing structured or agentic prompt workflows\n- Ability to define and implement evaluation metrics for AI-\n  driven features\n- Clear communicator who can collaborate with technical and\n  non-technical stakeholders\n- Strong product instincts and a focus on impact\n\nNice to Have\n\n- Previous start-up or founder experience\n- Experience building internal tooling for experimentation and\n  evaluation\n\nBenefits\n\n- Highly competitive salary\n- You'll own a piece of what you're building - equity included\n- Hybrid and flexible working model with 4 days in our\n  Shoreditch, London office\n- Private health insurance\n- Enhanced parental leave\n- The opportunity to become one of the earliest employees in\n  one of the UK’s fastest-growing startups\n",
+  "skills_required": [
+    "Agentic workflows",
+    "Internal tooling",
+    "LLM evaluation",
+    "Model optimization",
+    "Multi-step AI pipelines",
+    "Production AI systems",
+    "Prompt Engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and ship AI-driven user-facing features end-to-end in TypeScript",
+    "Own AI features from idea through production and iteration",
+    "Optimize production AI pipelines including study material generation, quizzes, and automated marking",
+    "Design and iterate on prompts including agentic workflows and multi-step pipelines",
+    "Define evaluation frameworks and metrics for AI quality and correctness",
+    "Monitor model behavior, handle API rate limits, and ensure system reliability at scale",
+    "Build internal tooling to support experimentation and iteration",
+    "Collaborate with design and product to solve learning problems with AI solutions"
+  ],
+  "use_cases": [
+    "Study material content generation",
+    "Quiz question generation",
+    "Automated marking and feedback for student work",
+    "Structured content ingestion pipelines",
+    "Gamified learning experiences",
+    "Educational content refinement and feedback loops"
+  ],
+  "tools_mentioned": [
+    "API integration",
+    "System monitoring"
+  ],
+  "frameworks_mentioned": [
+    "Agentic workflows",
+    "LLM evaluation",
+    "Model optimization",
+    "Multi-step AI pipelines",
+    "Production AI systems",
+    "Prompt Engineering"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is hands-on AI engineering focused on building,\ndeploying, and optimizing production AI systems including\nprompt engineering, agentic workflows, and model pipelines.\nThe role involves directly working with AI models to power\nuser-facing features, not just supporting infrastructure for\nothers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt Engineering",
+      "Agentic workflows",
+      "Multi-step AI pipelines",
+      "LLM evaluation",
+      "Production AI systems"
+    ],
+    "ml": [
+      "Model optimization"
+    ],
+    "web": [
+      "API integration"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "System monitoring"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": [
+      "Internal tooling"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

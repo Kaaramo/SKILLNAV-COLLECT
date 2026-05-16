@@ -1,0 +1,102 @@
+{
+  "job_id": "intl-ai-corpus-2370",
+  "source": "intl-ai-corpus",
+  "source_ref": "8862243",
+  "source_url": "https://builtin.com/job/principal-ai-engineer/8862243",
+  "title": "Principal AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ecolab",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "29,154 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global leader in water, hygiene and energy technologies and\nservices",
+  "industries": [],
+  "description": "Job Characteristics: Define the architectural vision and\ngovernance standards for GenAI solutions at scale. Lead the\ndesign of intelligent systems leveraging LLMs, agentic\nworkflows, and vector-based retrieval strategies, while\nensuring alignment with enterprise-level goals around\nsecurity, performance, and reusability. This role operates\nat the intersection of deep technical expertise and cross-\nfunctional leadership.\n\nEducation/Work Experience: Degree and 10-12 years\nexperience.\n\nIndependence Level/Reports to: Normally reports to AI\nEngineering Manager or Director.\n",
+  "skills_required": [
+    "Agentic workflows",
+    "Enterprise security",
+    "LLMs",
+    "RAG",
+    "System architecture"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define architectural vision and governance standards for GenAI solutions at scale",
+    "Lead design of intelligent systems leveraging LLMs",
+    "Implement agentic workflows for enterprise applications",
+    "Design and implement vector-based retrieval strategies (RAG)",
+    "Ensure alignment with enterprise security, performance, and reusability goals",
+    "Provide cross-functional leadership on AI initiatives"
+  ],
+  "use_cases": [
+    "Enterprise GenAI solutions at scale",
+    "Intelligent systems with LLMs",
+    "Agentic workflow automation",
+    "Vector-based information retrieval and search",
+    "Enterprise knowledge management"
+  ],
+  "tools_mentioned": [
+    "Cloud platforms",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agentic workflows",
+    "LLMs",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves designing and implementing GenAI\nsystems, LLMs, agentic workflows, and vector-based retrieval\n(RAG). The position requires hands-on architectural and\ntechnical work building AI solutions at scale, not just\nsupporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "Agentic workflows",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Cloud platforms"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Enterprise security",
+      "System architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

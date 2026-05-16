@@ -1,0 +1,61 @@
+{
+  "job_id": "linkedin-ma-2026-164",
+  "source": "linkedin-ma",
+  "source_url": "https://ma.linkedin.com/jobs/view/full-stack-ai-engineer-int%C3%A9gration-erp-at-tire-lait-express-4400823122",
+  "source_ref": "4400823122",
+  "title": "Full Stack AI Engineer & Intégration ERP",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Tire Lait Express",
+  "company_id": "location-tire-lait",
+  "company_url": "https://fr.linkedin.com/company/location-tire-lait",
+  "company_logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHV3c1_fFniyA/company-logo_100_100/company-logo_100_100/0/1630613591748/location_tire_lait_logo?e=2147483647&v=beta&t=l8MY5-GYYbMqsr3mXja0M3Pgtz2PWdj4Pl7fKdf8ZW8",
+  "company_type": "entité morale privée",
+  "location": "Marrakech-أسفي Marrakech Maroc",
+  "country": "MA",
+  "remote_policy": "on-site",
+  "posted_date": "2026-04-24",
+  "posted_date_relative_original": "قبل ‏‏٣‏ أسبوع‏",
+  "deadline_date": null,
+  "contract_type": null,
+  "experience_level_text": null,
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "applications_count": "أكثر من ٢٠٠ متقدم",
+  "sector": null,
+  "apply_type": null,
+  "description": "MCM IA, installé à Gueliz, filiale tech du groupe MEDICOFI (distribution de dispositifs médicaux et prestation de santé à domicile), construit une plateforme IA pour automatiser l'accueil patient, la constitution des dossiers, la facturation et le recouvrement des créances et des ordonnances. Tu rejoins l'équipe fondatrice multisites (Tunisie, France, Madagascar, Maroc) sur un projet concret, en production, partiellement mis en place lundi 20 avril sur le site tire-lait-express.frTes missionsDévelopper et maintenir des chatbots / voicebots pour l'accueil patient entrant (prise en charge, renouvellements, réclamations)Intégrer ces agents IA via API avec notre ERP métier PSDM (flux ordonnances, dossiers patients, facturation SS/mutuelle)Mettre en place un pipeline OCR + extraction documentaire : ordonnances, cartes mutuelle, justificatifs — classification et ingestion automatiqueConcevoir les flux de recouvrement assisté par IA : scoring des créances, détection des rejets SS, automatisation des relancesGarantir la conformité des traitements de données de santé (RGPD, HDS)Stack attenduePython FastAPI LangChain / LlamaIndex OpenAI API Claude API Mistral Whisper / TTS Tesseract / PaddleOCR Azure Doc Intelligence REST / SOAP PostgreSQL Docker Redis GitProfil recherché3 ans+ d'expérience en développement back-end ou IA, dont au moins un chatbot en productionMaîtrise des LLM API et des architectures RAG (retrieval-augmented generation)À l'aise avec les intégrations d'API tierces complexes (ERP, CRM, systèmes legacy)Connaissance du secteur santé ou médico-social appréciée (mais pas obligatoire)Autonome, rigoureux(se), capable de livrer un MVP rapidement puis d'itérerFrançais courant indispensable — arabe et/ou anglais appréciés",
+  "skills_required": [
+    "PostgreSQL",
+    "Azure",
+    "Docker",
+    "LLM",
+    "RAG",
+    "LangChain",
+    "LlamaIndex"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [
+    "PostgreSQL",
+    "Azure",
+    "Docker"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LlamaIndex"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "LLM",
+    "RAG"
+  ],
+  "job_family": "AI_ENGINEER",
+  "search_keyword": "GenAI Engineer",
+  "scraped_at": "2026-05-15T02:18:51Z",
+  "scraper": "skillnav-apify-number_one_scraper-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.92,
+  "extraction_method": "apify_level1_1A_ia_pointue"
+}

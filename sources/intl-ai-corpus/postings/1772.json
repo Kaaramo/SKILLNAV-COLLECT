@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-1772",
+  "source": "intl-ai-corpus",
+  "source_ref": "7001049",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/7001049",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "AirOps",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "57 Employees",
+  "company_stage": "Series A/B",
+  "company_focus": "End-to-end content engineering platform for AI-driven\nmarketing and SEO",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About AirOps\n\nAirOps is the first end-to-end content engineering platform\nbuilt for the AI era. In a world where discovery is shifting\nfrom traditional search to AI-driven platforms, we help\nbrands get found—and stay found. We are currently in a phase\nof hyper-growth, having 5x’d our revenue in the last year by\nhelping marketing teams at Ramp, Chime, Carta, and Rippling\nturn content quality into a durable competitive advantage.\n\nOur platform equips marketers to navigate the new discovery\nlandscape, prioritize high-impact opportunities, and create\naccurate, on-brand content that earns citations from AI and\ntrust from humans. Backed by Greylock, Unusual Ventures,\nWing VC, and Founder Collective, we are building the\nintelligent systems that will empower the next generation of\nmarketing leaders. AirOps is headquartered in San Francisco,\nNew York and Montevideo.\n\nAbout the Role\n\nWe're looking for a product-minded AI engineer to help us\nrapidly define and ship features that make all AirOps\ncustomers 10x content engineers.\n\nIn this role, you'll drive the development of advanced AI\nsystems, including our SEO Strategy Agent and Workflow\nBuilder Copilot. You'll lead the creation of intelligent\nsolutions that empower businesses to optimize their SEO\nstrategy and streamline workflow creation with AI-powered\nassistance.\n\nJoining at a critical juncture, you'll collaborate closely\nwith product management to shape our AI roadmap and\ntechnical architecture.\n\nResponsibilities\n\n- Develop and integrate LLM-powered features such as AI-\n  assisted workflow automation, code generation, and content\n  strategy.\n- Optimize AI performance through prompt engineering,\n  retrieval-augmented generation (RAG), and evaluation\n  frameworks.\n- Build and scale AI infrastructure, ensuring low-latency\n  responses, caching, and cost-efficient model usage.\n- Implement AI observability and safeguards, monitoring\n  quality, security, and compliance.\n- Collaborate with product and engineering teams to deliver\n  intuitive, AI-driven user experiences.\n- Stay ahead of AI advancements, continuously improving our\n  AI-powered capabilities.\n- Collaborate with early adopters to optimize model\n  performance and usability.\n\nQualifications\n\n- 3+ years of experience in machine learning engineering,\n  AI/LLM integration, or applied NLP\n- Proven track record of building LLM-powered applications\n- Strong experience with foundation models (GPT-4o, Claude,\n  etc.) and advanced prompt engineering\n- Experience with embedding models (e.g., OpenAI Ada, Cohere,\n  or local vector stores like pgvector, Weaviate, Pinecone)\n- Deep understanding of retrieval-augmented generation (RAG)\n  and contextual AI response optimization\n- Familiarity with LangChain, or similar frameworks for\n  orchestrating LLM-powered applications\n- Strong programming skills in Python (experience with AI\n  frameworks like Hugging Face, LangChain, or OpenAI SDK)\n- Experience in evaluating LLM performance, running A/B tests,\n  and implementing feedback loops for AI refinement\n- Solid understanding of caching, rate limiting, and cost\n  optimization strategies for AI workloads\n- Ability to work cross-functionally with engineers, product\n  managers, and end users to develop impactful AI solutions\n\nOur Guiding Principles\n\n- Extreme Ownership\n- Quality\n- Curiosity and Play\n- Make Our Customers Heroes\n- Respectful Candor\n\nBenefits\n\n- Equity in a fast-growing startup\n- Competitive benefits package tailored to your location\n- Flexible time off policy\n- Parental Leave\n- A fun-loving and (just a bit) nerdy team that loves to move\n  fast!\n",
+  "skills_required": [
+    "Claude",
+    "Cohere embeddings",
+    "GPT-4o",
+    "Hugging Face",
+    "LangChain",
+    "OpenAI Ada embeddings",
+    "OpenAI SDK",
+    "RAG",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and integrate LLM-powered features including AI-assisted workflow automation, code generation, and content strategy",
+    "Optimize AI performance through prompt engineering, retrieval-augmented generation (RAG), and evaluation frameworks",
+    "Build and scale AI infrastructure ensuring low-latency responses, caching, and cost-efficient model usage",
+    "Implement AI observability and safeguards monitoring quality, security, and compliance",
+    "Collaborate with product and engineering teams to deliver intuitive AI-driven user experiences",
+    "Stay ahead of AI advancements and continuously improve AI-powered capabilities",
+    "Collaborate with early adopters to optimize model performance and usability"
+  ],
+  "use_cases": [
+    "AI-powered SEO strategy optimization for brands",
+    "Content engineering and creation assistance",
+    "Workflow automation and copilot experiences",
+    "AI-driven content quality and citation optimization",
+    "Code generation for workflow builders"
+  ],
+  "tools_mentioned": [
+    "Pinecone",
+    "Weaviate",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Claude",
+    "Cohere embeddings",
+    "GPT-4o",
+    "Hugging Face",
+    "LangChain",
+    "OpenAI Ada embeddings",
+    "OpenAI SDK",
+    "RAG",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying LLM-\npowered features including AI agents (SEO Strategy Agent)\nand copilots (Workflow Builder Copilot), with hands-on work\nin prompt engineering, RAG implementation, and model\noptimization. The position is focused on creating AI systems\nrather than just supporting infrastructure for AI.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "GPT-4o",
+      "Claude",
+      "prompt engineering",
+      "RAG",
+      "LangChain",
+      "OpenAI SDK",
+      "OpenAI Ada embeddings",
+      "Cohere embeddings"
+    ],
+    "ml": [
+      "Hugging Face"
+    ],
+    "web": [],
+    "databases": [
+      "pgvector",
+      "Weaviate",
+      "Pinecone"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

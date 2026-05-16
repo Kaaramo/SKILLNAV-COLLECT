@@ -1,0 +1,132 @@
+{
+  "job_id": "intl-ai-corpus-2570",
+  "source": "intl-ai-corpus",
+  "source_ref": "8890833",
+  "source_url": "https://builtin.com/job/software-engineer-ai-backend-services-evergreen-role/8890833",
+  "title": "Software Engineer (AI Backend Services) - Evergreen Role",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pfizer",
+  "company_type": "entité morale privée",
+  "location": "Chennai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "121,990 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global pharmaceutical and biotechnology company",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Biotech",
+    "Pharmaceutical"
+  ],
+  "description": "The Software Engineer (AI Backend Services) will design,\ndevelop, and own backend systems and components that power\ngenerative AI applications and large language model (LLM)\nintegrations. This role focuses on independently\narchitecting and delivering scalable, secure, and high-\nperformance services using Python, FastAPI, and AWS cloud\ninfrastructure, while mentoring junior engineers. This is an\nindividual contributor role KEY RESPONSIBILITIES\n\n- Design and implement Python-based backend services (on\n  FastAPI) for AI workloads, including LLM integration and\n  generative AI pipelines\n- Own end-to-end design and delivery of APIs and microservices\n  for model serving, inference, and orchestration of AI\n  agents\n- Architect and maintain AWS-based infrastructure for AI\n  workloads (e.g., Lambda, EKS) with focus on scalability\n  and reliability\n- Make independent technical decisions for component-level\n  architecture and design patterns\n- Lead integration efforts for LLMs and generative AI models\n  into production systems using LangChain, Langfuse, and\n  litellm\n- Establish monitoring, logging, and observability best\n  practices for AI backend services\n- Optimize backend performance for large-scale AI applications\n- Mentor Software Engineer II team members through code\n  reviews and technical guidance\n- Collaborate with cross-functional teams and influence\n  technical direction across multiple projects\n\nBASIC QUALIFICATIONS\n\n- 4-7 years of professional software engineering experience\n  with strong backend focus\n- Expert-level proficiency in Python for backend development\n  in production environments\n- Solid understanding of LLMs, generative AI concepts, and\n  modern AI frameworks (e.g., LangChain, litellm, Langfuse)\n- Proven experience designing and building scalable systems on\n  AWS (Lambda, API Gateway, EKS)\n- Deep knowledge of microservices architecture, API design,\n  and distributed systems\n- Strong experience with containerization (Docker/Kubernetes)\n  and orchestration\n- Demonstrated ability to own technical components and make\n  independent architectural decisions\n- Bachelor's or Master's degree in Computer Science,\n  Engineering, or related field, or equivalent practical\n  experience\n\nPREFERRED QUALIFICATIONS\n\n- Extensive experience building and scaling APIs and backend\n  systems for AI/ML workloads in production\n- Deep expertise with FastAPI and asynchronous Python\n  programming\n- Experience architecting event-driven systems for AI\n  applications\n- Track record of mentoring engineers and conducting effective\n  code reviews\n- Strong understanding of system design patterns and trade-\n  offs\n- Experience with infrastructure-as-code (Terraform,\n  CloudFormation)\n- Knowledge of model deployment strategies and MLOps practices\n- Proven ability to drive technical initiatives and influence\n  engineering culture\n- Excellent communication skills and experience working across\n  teams\n\nWork assignment location : Remote Pfizer is an equal\nopportunity employer and complies with all applicable equal\nemployment opportunity legislation in each jurisdiction in\nwhich it operates. Information & Business Tech\n",
+  "skills_required": [
+    "Distributed Systems",
+    "Event-Driven Architecture",
+    "LangChain",
+    "Langfuse",
+    "litellm"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement Python-based backend services on FastAPI for AI workloads including LLM integration and generative AI pipelines",
+    "Own end-to-end design and delivery of APIs and microservices for model serving, inference, and orchestration of AI agents",
+    "Architect and maintain AWS-based infrastructure for AI workloads with focus on scalability and reliability",
+    "Lead integration efforts for LLMs and generative AI models into production systems using LangChain, Langfuse, and litellm",
+    "Establish monitoring, logging, and observability best practices for AI backend services",
+    "Optimize backend performance for large-scale AI applications",
+    "Mentor Software Engineer II team members through code reviews and technical guidance",
+    "Collaborate with cross-functional teams and influence technical direction across multiple projects"
+  ],
+  "use_cases": [
+    "LLM integration and inference for generative AI applications",
+    "Model serving and deployment of AI agents at scale",
+    "Generative AI pipeline orchestration for pharmaceutical/enterprise use cases",
+    "Scalable API infrastructure for AI/ML workloads in production"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS API Gateway",
+    "AWS Lambda",
+    "Amazon EKS",
+    "CloudFormation",
+    "Docker",
+    "FastAPI",
+    "Kubernetes",
+    "MLOps",
+    "Microservices Architecture",
+    "REST API Design",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "Langfuse",
+    "litellm"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying AI\nsystems — specifically designing backend services for LLM\nintegration, model serving, inference, and orchestration of\nAI agents using frameworks like LangChain, Langfuse, and\nlitellm. The engineer works hands-on with generative AI\npipelines and production LLM deployments, making this an ai-\nfirst role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Langfuse",
+      "litellm"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Microservices Architecture",
+      "REST API Design"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS Lambda",
+      "Amazon EKS",
+      "AWS API Gateway"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CloudFormation",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed Systems",
+      "Event-Driven Architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

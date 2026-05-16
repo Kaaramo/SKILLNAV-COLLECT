@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-2878",
+  "source": "intl-ai-corpus",
+  "source_ref": "9052645",
+  "source_url": "https://builtin.com/job/ai-research-engineer-pre-training-100-remote-worldwide/9052645",
+  "title": "AI Research Engineer - Pre training (100% remote Worldwide)",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Tether.io",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "292 Employees",
+  "company_stage": "Public",
+  "company_focus": "Digital finance, stablecoins (USDT), blockchain technology,\nand AI research",
+  "industries": [
+    "Blockchain",
+    "Software",
+    "Analytics",
+    "Financial Services",
+    "Cryptocurrency"
+  ],
+  "description": "Join Tether and Shape the Future of Digital Finance\n\nAt Tether, we’re not just building products, we’re\npioneering a global financial revolution. Our cutting-edge\nsolutions empower businesses—from exchanges and wallets to\npayment processors and ATMs—to seamlessly integrate reserve-\nbacked tokens across blockchains. By harnessing the power of\nblockchain technology, Tether enables you to store, send,\nand receive digital tokens instantly, securely, and\nglobally, all at a fraction of the cost. Transparency is the\nbedrock of everything we do, ensuring trust in every\ntransaction.\n\nInnovate with Tether\n\nTether Finance: Our innovative product suite features the\nworld’s most trusted stablecoin, USDT, relied upon by\nhundreds of millions worldwide, alongside pioneering digital\nasset tokenization services.\n\nBut that’s just the beginning:\n\nTether Power: Driving sustainable growth, our energy\nsolutions optimize excess power for Bitcoin mining using\neco-friendly practices in state-of-the-art, geo-diverse\nfacilities.\n\nTether Data: Fueling breakthroughs in AI and peer-to-peer\ntechnology, we reduce infrastructure costs and enhance\nglobal communications with cutting-edge solutions like KEET,\nour flagship app that redefines secure and private data\nsharing.\n\nTether Education: Democratizing access to top-tier digital\nlearning, we empower individuals to thrive in the digital\nand gig economies, driving global growth and opportunity.\n\nTether Evolution: At the intersection of technology and\nhuman potential, we are pushing the boundaries of what is\npossible, crafting a future where innovation and human\ncapabilities merge in powerful, unprecedented ways.\n\nWhy Join Us?\n\nOur team is a global talent powerhouse, working remotely\nfrom every corner of the world. If you’re passionate about\nmaking a mark in the fintech space, this is your opportunity\nto collaborate with some of the brightest minds, pushing\nboundaries and setting new standards. We’ve grown fast,\nstayed lean, and secured our place as a leader in the\nindustry.\n\nIf you have excellent English communication skills and are\nready to contribute to the most innovative platform on the\nplanet, Tether is the place for you.\n\nAre you ready to be part of the future?\n\nAbout the job:\n\nAs a member of the AI model team, you will drive innovation\nin architecture development for cutting-edge models of\nvarious scales, including small, large, and multi-modal\nsystems. Your work will enhance intelligence, improve\nefficiency, and introduce new capabilities to advance the\nfield.\n\nYou will have a deep expertise in LLM architectures, a\nstrong grasp of pre-training optimization with a hands-on,\nresearch-driven approach. Your mission is to explore and\nimplement novel techniques and algorithms that lead to\ngroundbreaking advancements: data curation, strengthening\nbaselines, identifying and resolving existing pre-training\nbottlenecks to push the limits of AI performance.\n\nResponsibilities:\n\n- Conduct pre-training AI models on large, distributed servers\n  equipped with thousands of NVIDIA GPUs.\n- Design, prototype, and scale innovative architectures to\n  enhance model intelligence.\n- Independently and collaboratively execute experiments,\n  analyze results, and refine methodologies for optimal\n  performance.\n- Investigate, debug, and improve both model efficiency and\n  computational performance.\n- Contribute to the advancement of training systems to ensure\n  seamless scalability and efficiency on target platforms.\n\n- A degree in Computer Science or related field. Ideally PhD\n  in NLP, Machine Learning, or a related field, complemented\n  by a solid track record in AI R&D (with good publications\n  in A* conferences).\n- Hands-on experience contributing to large-scale LLM training\n  runs on large, distributed servers equipped with thousands\n  of NVIDIA GPUs, ensuring scalability and impactful\n  advancements in model performance.\n- Familiarity and practical experience with large-scale,\n  distributed training frameworks, libraries and tools.\n- Deep knowledge of state-of-the-art transformer and non-\n  transformer modifications aimed at enhancing intelligence,\n  efficiency and scalability.\n- Strong expertise in PyTorch and Hugging Face libraries with\n  practical experience in model development, continual\n  pretraining, and deployment.\n",
+  "skills_required": [
+    "CUDA",
+    "Hugging Face",
+    "LLM pre-training",
+    "Large-scale distributed training",
+    "Model optimization",
+    "Multi-modal models",
+    "PyTorch",
+    "Transformer architectures"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Conduct pre-training of AI models on large distributed servers with thousands of NVIDIA GPUs",
+    "Design, prototype, and scale innovative architectures to enhance model intelligence",
+    "Independently and collaboratively execute experiments, analyze results, and refine methodologies for optimal performance",
+    "Investigate, debug, and improve both model efficiency and computational performance",
+    "Contribute to the advancement of training systems to ensure seamless scalability and efficiency on target platforms",
+    "Explore and implement novel techniques in data curation and pre-training optimization"
+  ],
+  "use_cases": [
+    "Pre-training large-scale language models across various scales (small, large, multi-modal)",
+    "Enhancing intelligence and efficiency of LLM architectures",
+    "Scaling AI model training on distributed GPU infrastructure",
+    "Data curation and baseline strengthening for pre-training pipelines",
+    "Resolving pre-training bottlenecks to push the limits of AI performance"
+  ],
+  "tools_mentioned": [
+    "Distributed systems",
+    "NVIDIA GPU computing"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "Hugging Face",
+    "LLM pre-training",
+    "Large-scale distributed training",
+    "Model optimization",
+    "Multi-modal models",
+    "PyTorch",
+    "Transformer architectures"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on pre-training large language\nmodels at scale, including designing architectures, running\ndistributed training on thousands of GPUs, and advancing LLM\nperformance. The engineer works hands-on building and\noptimizing AI models, making this clearly ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "Hugging Face",
+      "Large-scale distributed training",
+      "LLM pre-training",
+      "Transformer architectures",
+      "CUDA",
+      "Model optimization",
+      "Multi-modal models"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "NVIDIA GPU computing",
+      "Distributed systems"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP",
+      "Machine Learning"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

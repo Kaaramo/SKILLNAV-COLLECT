@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-1585",
+  "source": "intl-ai-corpus",
+  "source_ref": "8534504",
+  "source_url": "https://www.builtinla.com/job/principal-engineer-agentic-ai/8534504",
+  "title": "Principal Engineer, Agentic AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "WebPT",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-19",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "EMR platform for rehab therapy",
+  "industries": [],
+  "description": "Who We Are Looking For\n\nWe are looking for  a technical leader and subject matter\nexpert in Agentic AI, responsible for defining the\narchitectural goals and implementation strategies for our\nAI-driven workflows. When designing agentic systems, this\nleader performs deep dives into clinical business needs—such\nas ambient listening, scheduling, and documentation—before\nselecting the appropriate LLM orchestration tools and\nstrategies. This leader would work closely with product\nmanagers and data scientists to translate complex business\nproblems into scalable, agentic solutions that enhance\nclinical efficiency and the patient experience.\n\nWhat You’ll Be Doing As A Part of Our Team\n\nArchitectural Strategy & Agentic Design\n\n- Problem Decomposition: Excel at decomposing complex clinical\n  workflows into discrete, reasoning-based AI agents,\n  organizing the architectural strategies needed to\n  implement them.\n- Agentic Orchestration: Define the root business problems and\n  use that knowledge to design integrated AI solutions\n  (e.g., ambient listening for documentation or automated\n  waitlist management) across multiple applications.\n- Reference Architecture Alignment: Work with the company’s\n  architecture team to ensure AI agents are built on shared\n  services and systems, reducing waste and maintaining a\n  cohesive software ecosystem.\n- Innovation & Competitiveness: Set goals around emerging AI\n  standards and agentic frameworks to keep the business\n  competitive in the rapidly evolving AI-native EMR market.\n\nExecution & Partnership\n\n- Collaborative Leadership: Partner with internal Data\n  Scientists and third-party AI engineers to drive project\n  execution, serving as the technical anchor for the team\n  during the staff augmentation phase and beyond.\n- Agile AI Development: Apply agile and lean principles to AI\n  development, timeboxing experiments and focusing on\n  delivering immediate clinical value through iterative\n  agent refinement.\n- Cross-Functional Alignment: Work with stakeholders outside\n  of engineering to align AI capabilities with Product and\n  UX goals, ensuring agents are streamlined and intuitive\n  for healthcare providers.\n- Documentation & Evangelism: Maintain strong documentation\n  practices to evangelize new AI development patterns and\n  gain adoption of agentic practices across the department.\n\nWhat You Should Have to Qualify\n\n- Education & Experience: Bachelor’s degree in Computer\n  Science, AI/ML, or a related technical field, with 10+\n  years of professional engineering experience, including\n  significant time spent in a Principal Engineer or Lead\n  Architect capacity.\n- Agentic AI Architecture: Deep technical proficiency in\n  designing multi-agent orchestration systems. You must have\n  hands-on experience with frameworks (e.g., LangGraph,\n  AutoGen, CrewAI) and a sophisticated understanding of\n  agentic patterns like planning, tool-use, and self-\n  reflection.\n- Hybrid Team Leadership: Proven ability to provide technical\n  \"anchor\" leadership in a hybrid environment, effectively\n  directing the work of third-party staff augmentation while\n  maintaining absolute ownership of the internal quality and\n  architectural standards.\n- System Decomposition & Modeling: Expert-level ability to\n  take a messy clinical workflow (like a PT initial\n  evaluation) and decompose it into a structured data model\n  and a sequence of AI-driven reasoning steps.\n- Strategic Problem Solving: A track record of \"Deep Dives\"\n  into complex business domains, translating nebulous\n  clinical needs into precise technical requirements that\n  align with a broader Reference Architecture.\n- Engineering Rigor in AI: Experience moving AI from\n  \"prototype/notebook\" to \"production-grade,\" including\n  implementing evaluation frameworks (LLM-as-a-judge),\n  monitoring for agent drift, and ensuring deterministic\n  outcomes in non-deterministic systems.\n\nIdeally, You Would Also Have These\n\n- Healthcare Domain Knowledge: Familiarity with clinical\n  documentation standards, HIPAA compliance, and the nuances\n  of EMR data sets.\n- Vector Database Experience: High-level understanding of\n  retrieval strategies (RAG) to support agentic reasoning\n  and long-term memory.\n- Team Transition Experience: Previous experience leading a\n  hybrid team of internal and external resources, with the\n  ability to take full ownership of the technology stack\n  post-vendor disengagement.\n\nCulture is at our Core\n\n- Service: Create Raving Fans\n- Accountability: F Up; Own Up\n- Attitude: Possess True Grit\n- Personality: Be Minty\n- Work Ethic: Be Rock Solid\n- Community Outreach: Give Back\n- Health and Wellness: Live Better\n- Resource Efficiency: Do Más With Menos\n\nAbout Us\n\nHere, we work hard—but we have lots of fun doing it. We\nbelieve in equal opportunity for all, autonomy,\ntrailblazing, and always doing right by our Members. Most\nimportantly, though, we believe in empowering rehab therapy\nprofessionals to achieve greatness in practice. So, if\nyou’re a can-do kinda person who loves to help Members win\nand enjoys working from just about anywhere—then you’ll fit\nright in. We’ve got big plans, but we can’t achieve them\nwithout you. Join us, and let’s achieve greatness. The\ninitial hiring range for this position is: $170k - $200k.\n\n#LI-MS1\n\n#LI-REMOTE\n\nEqual Opportunity Employer\n\nThis employer is required to notify all applicants of their\nrights pursuant to federal employment laws.  For further\ninformation, please review the Know Your Rights notice from\nthe Department of Labor.\n",
+  "skills_required": [
+    "AutoGen",
+    "CrewAI",
+    "LLM orchestration",
+    "LLM-as-a-judge",
+    "LangGraph",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Decompose complex clinical workflows into discrete, reasoning-based AI agents and organize architectural strategies",
+    "Define root business problems and design integrated AI solutions such as ambient listening and automated waitlist management",
+    "Partner with internal Data Scientists and third-party AI engineers to drive project execution and serve as technical anchor",
+    "Apply agile principles to AI development, delivering clinical value through iterative agent refinement",
+    "Work with architecture team to ensure AI agents are built on shared services and maintain cohesive software ecosystem",
+    "Evangelize new AI development patterns and drive adoption of agentic practices across the department"
+  ],
+  "use_cases": [
+    "Ambient listening for clinical documentation",
+    "Automated waitlist management and scheduling",
+    "PT initial evaluation and clinical workflow automation",
+    "Clinical documentation and patient experience enhancement",
+    "AI-native EMR solutions for healthcare providers"
+  ],
+  "tools_mentioned": [
+    "System architecture",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "LLM orchestration",
+    "LLM-as-a-judge",
+    "LangGraph",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is a hands-on technical leadership role focused on\nbuilding and deploying agentic AI systems. The role requires\ndeep expertise in designing multi-agent orchestration\nsystems using frameworks like LangGraph, AutoGen, and\nCrewAI, and implementing LLM-as-a-judge evaluation\nframeworks for production deployment.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "AutoGen",
+      "CrewAI",
+      "RAG",
+      "LLM orchestration",
+      "LLM-as-a-judge",
+      "Multi-agent systems",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "System architecture"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "HIPAA compliance",
+      "Clinical documentation standards",
+      "EMR systems"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

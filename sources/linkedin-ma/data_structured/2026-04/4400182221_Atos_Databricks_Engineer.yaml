@@ -1,0 +1,46 @@
+company:
+  name: Atos
+  stage: null
+  focus: null
+position:
+  title: Databricks Engineer
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases:
+  - Data pipeline engineering
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - cassandra
+    - cosmos db
+    - mongodb
+    - neo4j
+    data:
+    - data lake
+    - data warehouse
+    - databricks
+    - hadoop
+    - pipeline
+    - spark
+    - sql
+    cloud:
+    - azure
+    ops: []
+    languages:
+    - python
+    - scala
+    domains: []
+    other:
+    - agile
+    - Big Data
+    - NoSQL
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4400182221'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

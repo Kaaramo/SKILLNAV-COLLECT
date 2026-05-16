@@ -1,0 +1,36 @@
+company:
+  name: CIH BANK
+  stage: null
+  focus: null
+position:
+  title: Lead Data Engineer
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - hadoop
+    - sql
+    cloud: []
+    ops:
+    - ansible
+    - ci/cd
+    - docker
+    - jenkins
+    - terraform
+    languages:
+    - python
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '1009914158741'
+  extracted_at: '2026-05-16T01:27:45+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

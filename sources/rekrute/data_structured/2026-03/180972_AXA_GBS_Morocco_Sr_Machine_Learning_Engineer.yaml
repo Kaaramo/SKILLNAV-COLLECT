@@ -1,0 +1,59 @@
+company:
+  name: AXA GBS Morocco
+  stage: null
+  focus: AXA Global Business Services Morocco — offshoring entity du groupe AXA · 300+ employés · centres d'expertise IT/PM/Finance/HR
+    · présent au Maroc depuis 2009
+position:
+  title: Sr Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: Title explicitly indicates AI/ML engineering role
+  responsibilities:
+  - Model Design and Development (TensorFlow, PyTorch, Scikit-learn)
+  - Collaborate with Data Scientists to turn prototypes into production
+  - CI/CD pipelines for training/evaluation/deployment on Azure
+  - Performance optimization in production (latency, costs)
+  - Build comprehensive MLOps architecture (versioning, registry, monitoring)
+  - Documentation models, pipelines, processes
+  - Collaborate Data Science + Data Engineering + DevOps in agile multicultural
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - Azure ML
+    - ml
+    - pytorch
+    - scikit-learn
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - Azure Data Lake
+    - data lake
+    - databricks
+    - sql
+    cloud:
+    - azure
+    - Azure Data Factory
+    - Azure DevOps
+    ops:
+    - ci/cd
+    - docker
+    - github actions
+    - kubeflow
+    - mlflow
+    - terraform
+    languages:
+    - python
+    domains: []
+    other:
+    - AKS
+    - Distributed systems
+    - Model versioning
+    - PySpark
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '180972'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

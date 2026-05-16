@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-0744",
+  "source": "intl-ai-corpus",
+  "source_ref": "6516518",
+  "source_url": "https://builtin.com/job/ai-research-engineer-ai-safety/6516518",
+  "title": "AI Research Engineer - AI Safety",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Helsing",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-02",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "237 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-based defense and national security technology",
+  "industries": [
+    "Artificial Intelligence",
+    "Security"
+  ],
+  "description": "Who we are\n\nAt Helsing we deliver AI-based capabilities and the enabling\nfoundation that allow machines to perceive and assist human\ndecision-making. You will have the unique opportunity to\nshape AI capabilities in one of the most challenging\nsectors, where high generalisation capabilities need to be\npaired with hardware constraints and robustness against\nadversarial attacks.\n\nYou will join a team focused on AI Assurance, where you will\ndevelop cutting-edge techniques for scalable evaluation of\nAI products across the company, design data collection and\nexperimentation strategies to extract causal insights, and\nenhance responsible decision-making via uncertainty\nquantification and safety mechanisms.\n\nThe day-to-day\n\nYou will be responsible for defining operational domains and\nevaluating the reliability of the AI capabilities developed\nin-house. You will develop and extend the state-of-the-art\nin uncertainty quantification and uncertainty calibration.\nThis will involve understanding the AI systems we build,\ninterfacing with them, and evaluating their robustness in\nreal-world and adversarial scenarios. You will contribute to\nimpactful projects and will collaborate with people across\nseveral teams and backgrounds.\n\nYou should apply if you\n\n- Hold a STEM MSc with solid mathematical and statistical\n  background.\n\n- Have excellent communication skills and the ability to\n  report and present research findings clearly and\n  efficiently both internally and externally\n- Are passionate about keeping up to date with current\n  research and enjoy reimplementing / extending papers on\n  state of the art Deep Learning-based approaches\n- Possess solid software engineering skills, writing clean and\n  well-structured code in Python and/or languages like Rust,\n  Java, or modern C++, and experience deploying AI software\n  to production including testing, QA, and monitoring\n\nNote: We operate at an intersection where women, as well as\nother minority groups, are systemically under-represented.\nWe encourage you to apply even if you don’t meet all the\nlisted qualifications;  ability and impact cannot be\nsummarised in a few bullet points.\n\nNice to have\n\n- PhD in either model evaluation and robustness, uncertainty\n  quantification, experimental design, causal inference or\n  related fields.\n- Have authored publications in top-tier journals and\n  conferences (e.g., NeurIPS, ICML, ICLR, etc.).\n- Previous industrial experience in assuring the safe\n  deployment of AI products.\n- Experience deploying AI software to production including\n  testing, quality assurance, and monitoring\n\nJoin Helsing and work with world-leading experts in their\nfields\n\n- Helsing’s work is important. You’ll be directly contributing\n  to the protection of democratic countries while balancing\n  both ethical and geopolitical concerns.\n- The work is unique. We operate in a domain that has highly\n  unusual technical requirements and constraints, and where\n  robustness, safety, and ethical considerations are vital.\n  You will face unique Engineering and AI challenges that\n  make a meaningful impact in the world.\n- Our work frequently takes us right up to the state of the\n  art in technical innovation, be it reinforcement learning,\n  distributed systems, generative AI, or deployment\n  infrastructure. The defence industry is entering the most\n  exciting phase of the technological development curve.\n  Advances in our field of world are not incremental:\n  Helsing is part of, and often leading, historic leaps\n  forward.\n- In our domain, success is a matter of order-of-magnitude\n  improvements and novel capabilities. This means we take\n  bets, aim high, and focus on big opportunities. Despite\n  being a relatively young company, Helsing has already been\n  selected for multiple significant government contracts.\n- We actively encourage healthy, proactive, and diverse debate\n  internally about what we do and how we choose to do it.\n  Teams and individual engineers are trusted (and\n  encouraged) to practise responsible autonomy and critical\n  thinking, and to focus on outcomes, not conformity. At\n  Helsing you will have a say in how we (and you!) work, the\n  opportunity to engage on what does and doesn’t work, and\n  to take ownership of aspects of our culture that you care\n  deeply about.\n\nWhat we offer\n\n- A focus on outcomes, not time-tracking\n- Competitive compensation and stock options\n- Relocation support\n- Social and education allowances\n- Regular company events and all-hands to bring together\n  employees as one team across Europe\n- A hands-on onboarding program (affectionately labelled “AI-\n  duction”), in which you will be familiarising yourself\n  with our tools and ML pipelines used across the company.\n  This is your opportunity to learn our tech stack, explore\n  the company, and learn how we get things done - all whilst\n  working with other AI and engineering teams from day one\n\nHelsing is an equal opportunities employer. We are committed\nto equal employment opportunity regardless of race,\nreligion, sexual orientation, age, marital status,\ndisability or gender identity. Please do not submit personal\ndata revealing racial or ethnic origin, political opinions,\nreligious or philosophical beliefs, trade union membership,\ndata concerning your health, or data concerning your sexual\norientation.\n\n\n\nHelsing's Candidate Privacy and Confidentiality Regime can\nbe found here.\n",
+  "skills_required": [
+    "Deep Learning",
+    "adversarial robustness",
+    "causal inference",
+    "model evaluation",
+    "reinforcement learning",
+    "uncertainty quantification"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define operational domains and evaluate the reliability of in-house AI capabilities",
+    "Develop and extend state-of-the-art uncertainty quantification and calibration techniques",
+    "Design data collection and experimentation strategies to extract causal insights",
+    "Evaluate AI system robustness in real-world and adversarial scenarios",
+    "Implement safety mechanisms and enhance responsible decision-making",
+    "Deploy AI software to production with testing, QA, and monitoring"
+  ],
+  "use_cases": [
+    "AI perception systems for human decision-making assistance in defense",
+    "Scalable evaluation and assurance of AI products across multiple capabilities",
+    "Robustness assessment against adversarial attacks in high-constraint environments",
+    "Uncertainty quantification for safe AI decision-making in critical applications",
+    "Responsible AI deployment in national security and defense contexts"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "monitoring"
+  ],
+  "frameworks_mentioned": [
+    "Deep Learning",
+    "adversarial robustness",
+    "causal inference",
+    "model evaluation",
+    "reinforcement learning",
+    "uncertainty quantification"
+  ],
+  "languages_programming": [
+    "C++",
+    "Java",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "The role focuses on AI safety, evaluation, uncertainty\nquantification, and robustness of AI systems - primarily\nworking with deep learning models rather than building LLMs\nor generative AI applications. The engineer evaluates and\nvalidates AI capabilities, develops safety mechanisms, and\nassesses adversarial robustness, which is supporting work\naround AI systems but not building novel AI/ML\narchitectures.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "Deep Learning",
+      "uncertainty quantification",
+      "model evaluation",
+      "adversarial robustness",
+      "reinforcement learning",
+      "causal inference"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "monitoring",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "Rust",
+      "Java",
+      "C++"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

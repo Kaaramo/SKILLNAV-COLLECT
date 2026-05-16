@@ -1,0 +1,156 @@
+{
+  "job_id": "intl-ai-corpus-3059",
+  "source": "intl-ai-corpus",
+  "source_ref": "9118256",
+  "source_url": "https://www.builtinla.com/job/staff-software-engineer-ai/9118256",
+  "title": "Staff Software Engineer ( AI )",
+  "title_normalized": "AI_ENGINEER",
+  "company": "MeridianLink",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-22",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Credit union and financial services software platform",
+  "industries": [
+    "Software",
+    "Financial Services"
+  ],
+  "description": "As a senior individual contributor and one of the highest-\nranking technical voices in our engineering organization,\nthe Staff Software Engineer (Professional 5) plays a pivotal\nrole in shaping our AI platform strategy. This role, part of\nthe Platform Services team, is dedicated to designing and\nbuilding foundational infrastructure to power MeridianLink’s\nexpanding suite of customer-facing AI capabilities across\nour credit union software product lines.\n\nRather than focusing solely on implementation, the Staff\nEngineer acts at the intersection of architecture, strategy,\nand hands-on technical delivery. You’ll own the technical\ndirection for AI platform systems, establish standards and\npatterns, and lay the architectural groundwork to enable\nreliable, scalable, and responsible AI development. This\nengineer will report directly to the Director of Platform\nServices and exert significant cross-functional influence\nacross multiple engineering teams.\n\nAs our AI platform matures—from third-party LLM integrations\ntoward custom model development—your responsibilities will\nevolve, giving you increasing ownership over our model\ninfrastructure, evaluation harnesses, and data pipelines\nneeded to support production-grade AI in a regulated\nfinancial environment.\n\nThis fully remote position works within a sub-team in\nPlatform Services, responsible for building and scaling\nMeridianLink’s first generation of customer-facing AI\ncapabilities. The team closely partners with application\nengineering, cloud infrastructure, and applied AI, creating\ntechnological foundations vital for delivering intelligent\nfeatures to our credit union clients.\n\nKey Competencies\n\n- Technical Mastery & Architecture: Define multi-team\n  strategy, address architectural bottlenecks, and evaluate\n  build vs. buy decisions across the platform. Architect\n  scalable AI systems with security, compliance, and\n  developer experience at the core.\n- Organizational Influence: Lead cross-team architecture\n  reviews, drive collaborative alignment, establish\n  engineering best practices, and set the bar for design\n  reviews and production readiness.\n- AI & GenAI Platform Expertise: Leverage hands-on knowledge\n  of LLM/GenAI application patterns (e.g., prompt\n  management, RAG pipelines, evaluation harnesses) and\n  design for safety, auditability, and compliance in\n  financial services AI.\n- Mentorship: Mentor and sponsor engineers at L3–L4 levels,\n  facilitate knowledge sharing, and drive tech debt and best\n  practice initiatives for engineering excellence.\n- Stakeholder Engagement: Author clear, auditable\n  architectural documentation; translate technical concepts\n  for business partners; and partner with Product on\n  business requirements and roadmaps.\n\nExpected Duties\n\nArchitectural Leadership\n\n- Own the reference architecture for the AI platform,\n  encompassing API abstractions, prompt and version\n  management, RAG infrastructure, vector retrieval,\n  evaluation harnesses, and model serving.\n- Lead build-vs-buy evaluations for AI components, including\n  due diligence and integration planning.\n- Design foundational data pipelines and infrastructure to\n  support reliable, scalable AI services.\n- Define and document API contracts, standards, and platform\n  interfaces across engineering.\n\nHands-On Delivery\n\n- Contribute to backend development in Python and RESTful API\n  design, including integrations with leading AI providers.\n- Participate in full-stack delivery when needed, using\n  React/TypeScript/Vite to deliver AI features.\n- Build and maintain tooling, SDKs, and platform APIs to\n  enable safe, scalable AI adoption by product teams.\n- Drive improvements to AI-assisted development workflows with\n  tools like GitHub Copilot and Claude.\n\nAI Platform Development\n\n- Implement integrations with LLMs: context management, prompt\n  templating, response validation, and robust fallback\n  strategies.\n- Build and maintain evaluation frameworks for reproducible\n  model testing.\n- Establish observability and performance tracking for AI\n  services.\n- Participate in designing vector-based retrieval and model\n  serving infrastructure as custom model capabilities become\n  a focus.\n\nCompliance & Secure Design\n\n- Advise and collaborate with Security through architecture\n  and design phases, ensuring compliance and security\n  standards are met.\n- Apply secure-by-default principles (encryption, least\n  privilege, audit logging) and stay current with financial\n  data governance and privacy standards.\n\nCross-Functional Influence & Partnership\n\n- Collaborate with Product to translate business needs into\n  technical designs and specifications, while contributing a\n  strong architectural perspective.\n- Support AI platform roadmap development with product\n  leadership.\n- Engage in companywide architectural forums and workgroups to\n  drive engineering standards.\n- Partner with Data Engineering, DevOps/SRE, and Security to\n  ensure aligned technical foundations.\n\nMentorship & Engineering Culture\n\n- Mentor L3–L4 engineers through code reviews, design\n  sessions, and architectural guidance.\n- Promote engineering excellence, robust documentation, and\n  reusable internal resources.\n\nQualifications: Knowledge, Skills, and Abilities\n\nRequired Qualifications\n\n- 8+ years in professional software engineering, with\n  demonstrated cross-team architectural influence\n- Proven end-to-end delivery of AI-powered features, from\n  product concepts to production\n- Experience leading large, complex technical initiatives\n- Strong proficiency in Python and RESTful API development\n  (FastAPI, Django)\n- Knowledge of full-stack development (React, TypeScript)\n- Hands-on integration with third-party LLM/AI APIs\n- Experience with AWS (preferred), including IAM, networking,\n  managed services, and storage\n- Solid foundation in distributed systems, API design, cloud-\n  native architecture\n- Comfortable with CI/CD pipelines, version control, Docker,\n  and AI-assisted development tools\n- Demonstrated ability to author durable technical proposals\n  (RFCs, ADRs)\n- Clear communicator with technical and non-technical\n  stakeholders\n- GenAI experience (e.g., RAG pipelines, prompt management,\n  LLM evaluation, agent frameworks)\n- Familiarity with vector databases/semantic search (Pinecone,\n  pgvector, OpenSearch)\n- Exposure to model serving, MLOps/LLMOps practices, and model\n  lifecycle/deployment tools\n- Experience building developer platforms, SDKs, and self-\n  service engineering tooling\n- Experience with IaC tools (Terraform/Pulumi), Kubernetes,\n  and observability tools (Prometheus, Grafana, Datadog)\n- Leadership in technical communities, mentoring, and\n  architectural standards\n- Bachelor’s in Computer Science, Software Engineering, or\n  equivalent experience\n\nPreferred Qualifications\n\n- Experience building in financial services, fintech, or\n  regulated environments\n- Working familiarity with AI governance in financial services\n  (e.g., NCUA, model risk, fair lending)\n- Understanding of SOC 2 or similar compliance frameworks from\n  an engineering perspective\n\nWhat Success Looks Like\n\nA successful Staff Engineer at this level rapidly integrates\nwith MeridianLink’s technical community, establishes\nthemselves as a trusted architectural leader, and begins to\ndeliver foundational platform contributions that empower\nother engineers. Over time, they will raise the bar for AI\nplatform capability, quality, and confidence across the\nentire engineering organization.\n",
+  "skills_required": [
+    "AI governance and compliance",
+    "Agent frameworks",
+    "Distributed systems",
+    "GitHub Copilot",
+    "LLM evaluation",
+    "LLM integration",
+    "Prompt management",
+    "RAG pipelines",
+    "SOC 2"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own the reference architecture for the AI platform including API abstractions, prompt management, RAG infrastructure, vector retrieval, evaluation harnesses, and model serving",
+    "Lead build-vs-buy evaluations for AI components with due diligence and integration planning",
+    "Design foundational data pipelines and infrastructure to support reliable, scalable AI services",
+    "Contribute to backend development in Python and RESTful API design, including integrations with AI providers",
+    "Implement LLM integrations including context management, prompt templating, response validation, and fallback strategies",
+    "Build and maintain evaluation frameworks for reproducible model testing",
+    "Establish observability and performance tracking for AI services",
+    "Mentor L3-L4 engineers through code reviews, design sessions, and architectural guidance"
+  ],
+  "use_cases": [
+    "Customer-facing AI capabilities for credit union software products",
+    "RAG-based intelligent features for financial services clients",
+    "LLM-powered automation and assistance within lending/credit union workflows",
+    "AI-assisted developer workflows using tools like GitHub Copilot and Claude",
+    "Vector-based semantic search and retrieval for financial data"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS IAM",
+    "CI/CD",
+    "Datadog",
+    "Django",
+    "Docker",
+    "FastAPI",
+    "Grafana",
+    "Kubernetes",
+    "MLOps/LLMOps",
+    "Model serving",
+    "OpenSearch",
+    "Pinecone",
+    "Prometheus",
+    "RESTful APIs",
+    "React",
+    "Terraform",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "LLM evaluation",
+    "LLM integration",
+    "Prompt management",
+    "RAG pipelines"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and architecting AI\nplatform infrastructure including RAG pipelines, LLM\nintegrations, prompt management, evaluation harnesses, and\nmodel serving. While it has platform/infrastructure\nelements, the engineer is hands-on with GenAI\nsystems—implementing LLM integrations, building vector\nretrieval infrastructure, and designing AI-specific data\npipelines—making this an ai-first role.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG pipelines",
+      "Prompt management",
+      "LLM evaluation",
+      "Agent frameworks",
+      "LLM integration"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Django",
+      "RESTful APIs",
+      "React"
+    ],
+    "databases": [
+      "Pinecone",
+      "pgvector",
+      "OpenSearch"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS IAM"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Prometheus",
+      "Grafana",
+      "Datadog",
+      "MLOps/LLMOps",
+      "Model serving"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "GitHub Copilot",
+      "Distributed systems",
+      "AI governance and compliance",
+      "SOC 2"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

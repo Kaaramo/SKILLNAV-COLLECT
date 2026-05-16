@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0634",
+  "source": "intl-ai-corpus",
+  "source_ref": "8305325",
+  "source_url": "https://builtin.com/job/ai-engineer/8305325",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Counsel Group Frankfurt",
+  "company_type": "entité morale privée",
+  "location": "DEU",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "72 Employees",
+  "company_stage": null,
+  "company_focus": "AI/ML solutions for banking sector",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "We are looking for 2 AI Engineers to join advanced AI/ML\ninitiatives within the banking sector. The role involves\ndesigning and training ML models, building end-to-end ML\npipelines, and deploying models into production in an\nenvironment based on Openshift and microservices. Key\nResponsibilities •Develop and train AI/ML models for banking\nuse cases (fraud detection, scoring, NLP, automation).\n•Build and maintain ML pipelines using Python, Spark, Trino,\nand Kafka. •Deploy ML models into production via\nmicroservices (Spring Boot or Python-based APIs). •Integrate\nAI solutions into the On-Premise Openshift ecosystem.\n•Optimize model performance and production run-time\nenvironments. •Conduct performance testing (JMeter) and\nmonitor systems with Dynatrace. •Support the introduction of\ncloud-based AI platforms (Azure ML, Vertex AI, AWS\nSagemaker). •Participate in the adoption of MCP within the\norganization.\n\nTechnical Requirements\n\n- Strong proficiency in:o Python for ML/AIo Apache Spark,\n  Kafka, Trino\n\n         o Spring Boot or Python API development o GitLab\nCI/CD, JMeter, Dynatrace\n\n- Experience with ML frameworks such as TensorFlow or PyTorch\n  (considered an advantage).\n- Prior experience in banking is a strong plus.\n- Understanding of production environments, containers, and\n  orchestration.\n- Cloud AI familiarity is a plus (Azure, GCP, AWS).\n\nSoft Skills\n\n•Curiosity and experimentation mindset. •Collaboration and\nstrong communication. •Adaptability to hybrid environments\n(On-Prem + Cloud).\n",
+  "skills_required": [
+    "MCP",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and train AI/ML models for banking use cases including fraud detection, scoring, NLP, and automation",
+    "Build and maintain ML pipelines using Python, Spark, Trino, and Kafka",
+    "Deploy ML models into production via microservices using Spring Boot or Python-based APIs",
+    "Integrate AI solutions into the On-Premise Openshift ecosystem and optimize model performance",
+    "Conduct performance testing with JMeter and monitor systems with Dynatrace",
+    "Support the introduction of cloud-based AI platforms including Azure ML, Vertex AI, and AWS SageMaker"
+  ],
+  "use_cases": [
+    "Fraud detection systems for banking transactions",
+    "Credit scoring and risk assessment models",
+    "NLP-based automation for banking processes",
+    "General banking process automation and optimization"
+  ],
+  "tools_mentioned": [
+    "AWS SageMaker",
+    "Apache Spark",
+    "Azure ML",
+    "CI/CD",
+    "Docker",
+    "Dynatrace",
+    "JMeter",
+    "Kafka",
+    "Kubernetes",
+    "OpenShift",
+    "Spring Boot",
+    "Trino",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "MCP",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "BIG_DATA",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "The role involves designing and training traditional ML\nmodels for banking use cases (fraud detection, scoring, NLP)\nand building end-to-end ML pipelines. While it mentions MCP\nadoption, the core work focuses on ML model development and\ndeployment rather than LLMs/agents or generative AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP"
+    ],
+    "ml": [
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "web": [
+      "Spring Boot"
+    ],
+    "databases": [],
+    "data": [
+      "Apache Spark",
+      "Kafka",
+      "Trino"
+    ],
+    "cloud": [
+      "Azure ML",
+      "Vertex AI",
+      "AWS SageMaker"
+    ],
+    "ops": [
+      "OpenShift",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "JMeter",
+      "Dynatrace"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

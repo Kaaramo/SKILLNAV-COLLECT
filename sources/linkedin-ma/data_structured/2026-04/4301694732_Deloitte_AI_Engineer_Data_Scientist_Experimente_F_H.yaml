@@ -1,0 +1,49 @@
+company:
+  name: Deloitte
+  stage: null
+  focus: null
+position:
+  title: AI Engineer / Data Scientist Expérimenté F/H
+  ai_type:
+    type: ai-first
+    reasoning: Title explicitly indicates AI/ML engineering role
+  responsibilities: []
+  use_cases:
+  - Computer vision
+  skills:
+    genai: []
+    ml:
+    - deep learning
+    - keras
+    - machine learning
+    - pytorch
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - numpy
+    - pandas
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops:
+    - docker
+    - kubernetes
+    languages:
+    - java
+    - python
+    - R
+    - scala
+    domains:
+    - nlp
+    other:
+    - Big Data
+    - consulting
+    - statistics
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4301694732'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

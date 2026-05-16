@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-2416",
+  "source": "intl-ai-corpus",
+  "source_ref": "8876962",
+  "source_url": "https://www.builtinla.com/job/sr-ai-quality-engineer/8876962",
+  "title": "Sr. AI Quality Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "UP.Labs",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "AI billing platform for transportation and logistics that\nautomates accuracy in freight transactions",
+  "industries": [
+    "Angel or VC Firm",
+    "Automotive",
+    "Transportation"
+  ],
+  "description": "The Company:\n\nGroundtruth is building a first-of-its-kind AI billing\nplatform backed by one of the largest companies in the\ntransportation and logistics industry. Our platform\nautomates accuracy and trust in complex freight transactions\nby transforming messy, unstructured data – like complex\nemail chains, documents, telematics, and contracts – into a\nclear, reliable system of record that drives accurate\nbilling.\n\nThe Role:\n\nWe’re hiring a hybrid AI QA + Product Analyst to own end-to-\nend quality for our AI-powered inference system. This role\nsits at the intersection of LLM inference quality, event-\ndriven backend state-machines, and freight domain logic.\n\nYou will define what “correct” means, build the quality\nmeasurement and regression approach to enforce it, and lead\ndeep-dive investigations when edge cases or customer-\nspecific rules break downstream behavior. The goal is to\nmake our system more accurate, more diagnosable, and more\nreliable as email volume and customer complexity scales.\n\nWhat you’ll do:\n\nOwn end-to-end system quality\n\n- Develop and maintain a quality rubric for key use cases and\n  exception types. (what “right” looks like, and what\n  failure looks like).\n- Build and curate golden datasets (representative emails +\n  expected structured output + expected final outcome),\n  including customer-specific variations.\n- Own ongoing quality review in dev and production: regularly\n  inspect high-volume outputs, diagnose what’s breaking and\n  why, and convert discoveries into concrete roadmap items\n  and regression coverage.\n- Define and execute regression tests for new model changes,\n  backend logic changes, or customer-specific use cases.\n\nInvestigate and diagnose issues across the full stack of the\nproduct\n\n- Triage quality incidents and ambiguous failures by tracing\n  through:\n  - email ingestion/parsing\n  - prompts / model outputs / normalization steps / data\n    contracts\n  - intermediate structured representations\n  - event streams and state-machine transitions\n  - final audit exception generation and downstream reporting\n- Use logs, traces, event histories, and data queries to\n  isolate root cause.\n- Produce high-signal findings reports: minimal reproduction,\n  suspected component, evidence, impact, and recommended\n  fix.\n\nBuild scalable quality operations\n\n- Create a repeatable triage playbook and classification\n  system for quality issues\n- Define monitoring & dashboards for quality signals (volume\n  anomalies, exception drift, per-customer error hotspots).\n- Partner with engineering/AI to improve observability\n  (correlation IDs, structured logging, traceability from\n  email → state transitions).\n\nAct as a product/domain translator\n\n- Understand freight billing workflows and how real-world\n  documents and communication map to our system’s model of\n  “truth”.\n- Convert customer-specific requirements into testable rules\n  and expected outcomes.\n- Identify systemic gaps where “reality” doesn’t fit the\n  current schema, and propose product changes.\n\nRequired qualifications:\n\n- Experience in roles that blend quality + investigation +\n  systems thinking (examples: QA engineer in distributed\n  systems, product analyst with deep debugging, LLM quality\n  analyst, solutions engineer owning incident triage).\n- Demonstrated experience evaluating AI/LLM output quality\n  (extraction/classification, structured outputs, tool\n  calling, RAG, prompt-driven pipelines, or similar).\n- Strong technical ability to debug production issues using:\n  - log/trace tools (Datadog, ELK, Honeycomb,\n    OpenTelemetry/Jaeger, etc.)\n  - SQL and/or Python for analysis and repro\n  - event-driven architectures and workflows/state machines (or\n    similar distributed workflow systems)\n- Ability to write crisp requirements and acceptance criteria,\n  and translate ambiguity into test cases.\n- Comfort operating in messy, high-volume, edge-case-heavy\n  environments.\n\nNice-to-have qualifications:\n\n- Freight/logistics/audit/billing domain experience (carrier\n  invoices, accessorials, detention, lumper, fuel surcharge,\n  tenders, BOLs, rate confirmations, PODs, etc.).\n- Experience designing evaluation metrics (precision/recall,\n  drift detection, per-customer or per-use-case scorecards).\n- Familiarity with workflow engines/state machines and\n  distributed systems failure modes (event ordering,\n  retries, dedupe, idempotency, partial failure).\n- Experience with annotation/labeling workflows, taxonomy\n  design, and building human-in-the-loop QA processes.\n\nTraits that matter in this role:\n\n- High ownership: you don’t stop at “it’s broken,” you drive\n  it to root cause and resolution.\n- Comfortable with ambiguity and edge cases; systematic in\n  building clarity.\n- Able to communicate across product, engineering, ML, and\n  operations.\n",
+  "skills_required": [
+    "LLM quality evaluation",
+    "RAG",
+    "drift detection",
+    "precision/recall metrics",
+    "prompt engineering",
+    "structured outputs evaluation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and maintain quality rubrics for key use cases and exception types to define correct behavior",
+    "Build and curate golden datasets with representative emails, expected structured outputs, and expected outcomes",
+    "Conduct ongoing quality review in development and production, diagnosing issues and converting discoveries into roadmap items",
+    "Define and execute regression tests for model changes, backend logic changes, and customer-specific use cases",
+    "Triage quality incidents by tracing through email ingestion, prompts, model outputs, state-machine transitions, and downstream reporting",
+    "Create repeatable triage playbooks and classification systems for quality issues",
+    "Define monitoring dashboards for quality signals including volume anomalies, exception drift, and per-customer error hotspots",
+    "Act as product/domain translator converting customer requirements into testable rules and expected outcomes"
+  ],
+  "use_cases": [
+    "Automating accuracy and trust in complex freight transactions",
+    "Transforming unstructured data from email chains, documents, telematics, and contracts into structured records",
+    "AI-powered inference for freight billing workflows",
+    "Extraction and classification of structured outputs from messy email data",
+    "Driving accurate billing through AI-powered system of record"
+  ],
+  "tools_mentioned": [
+    "Datadog",
+    "ELK Stack",
+    "Honeycomb",
+    "Jaeger",
+    "OpenTelemetry",
+    "event-driven architectures",
+    "state machines"
+  ],
+  "frameworks_mentioned": [
+    "LLM quality evaluation",
+    "RAG",
+    "drift detection",
+    "precision/recall metrics",
+    "prompt engineering",
+    "structured outputs evaluation"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves evaluating LLM output quality, debugging\nAI inference systems, and ensuring accuracy of AI-powered\nextraction/classification pipelines. The work directly\nsupports and validates LLM/GenAI systems, making it ai-first\nrather than just infrastructure support.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM quality evaluation",
+      "prompt engineering",
+      "RAG",
+      "structured outputs evaluation"
+    ],
+    "ml": [
+      "precision/recall metrics",
+      "drift detection"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Datadog",
+      "ELK Stack",
+      "Honeycomb",
+      "OpenTelemetry",
+      "Jaeger",
+      "event-driven architectures",
+      "state machines"
+    ],
+    "languages": [
+      "SQL",
+      "Python"
+    ],
+    "domains": [
+      "freight billing workflows"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

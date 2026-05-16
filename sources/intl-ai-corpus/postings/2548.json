@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-2548",
+  "source": "intl-ai-corpus",
+  "source_ref": "8840679",
+  "source_url": "https://builtin.com/job/ai-automation-engineer/8840679",
+  "title": "AI Automation Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "StockX",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-18",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "900 Employees",
+  "company_stage": "Late-stage (Series H/I or near IPO, founded 2016, 1000+ employees)",
+  "company_focus": "Online marketplace for sneakers, apparel, collectibles, and\nconsumer goods using dynamic pricing",
+  "industries": [],
+  "description": "Help empower our global customers to connect to culture\nthrough their passions.\n\nWhy you'll love this role\n\nWe are seeking an AI Automation Engineer to design, build,\nand scale intelligent automation systems that improve\noperational efficiency, reduce manual effort, and unlock new\ncapabilities across the business.\n\nThis role sits at the intersection of engineering, applied\nAI,workflow automation, and systems integration. You will be\nresponsible for identifying high-impact automation\nopportunities and delivering production grade AI-driven\nsolutions that integrate seamlessly into our technology\necosystem.\n\nYou will partner cross-functionally with Engineering,\nOperations, Product, Data, and Security, as well as business\nstakeholders to transform manual and repetitive processes\ninto intelligent, scalable systems.\n\nWhat you’ll do\n\n- Design & deploy AI powered automation solutions using LLMs,\n  machine learning models, and decision engines.\n- Build agent-based systems, prompt pipelines, and retrieval\n  augmented generation workflows.\n- Develop autonomous or semi-autonomous systems that can take\n  actions across internal tools and APIs.\n- Create scalable workflow automation using APIs, event driven\n  architecture, and orchestration frameworks.\n- Integrate AI systems with internal platforms.\n- Develop reusable automation components and internal tooling.\n- Write clean, maintainable, production ready code.\n- Build observability, logging, guardrails, and monitoring\n  into AI systems.\n- Ensure reliability, security, and responsible AI\n  implementation.\n- Measure performance impact.\n- Continuously refine prompts, workflows, and models.\n- Identify new automation opportunities across the\n  organization.\n- Implement guardrails, access controls, and safety\n  mechanisms.\n- Ensure compliance with data privacy and security policies.\n- Partner with security teams on safe AI deployment.\n\nAbout you\n\n- 4+ years of software engineering experience. 2+ years\n  working AI/ML systems, LLMs, or intelligent automation.\n- Experience with LLM APIs (OpenAI, Anthropic, etc.)\n- Experience in vector databases and RAG systems\n- Experience workflow orchestration tools\n- Strong programming skills\n- Experience building API integrations and distributed\n  systems.\n- Experience deploying systems in AWS, GCP, or Azure\n  environments.\n- Strong problem solving and system thinking skills\n\n\n\nAbout StockX\n\nStockX is proud to be a Detroit-based technology leader\nfocused on the large and growing online market for sneakers,\napparel, accessories, electronics, collectibles, trading\ncards, and more. StockX's powerful platform connects buyers\nand sellers of high-demand consumer goods from around the\nworld using dynamic pricing mechanics. This approach affords\naccess and market visibility powered by real-time data that\nempowers buyers and sellers to determine and transact based\non market value. The StockX platform features hundreds of\nbrands across verticals including Jordan Brand, adidas,\nNike, Supreme, BAPE, Off-White, Louis Vuitton, Gucci;\ncollectibles from brands including LEGO, KAWS, Bearbrick,\nand Pop Mart; and electronics from industry-leading\nmanufacturers Sony, Microsoft, Meta, and Apple. Launched in\n2016, StockX employs 1,000 people across offices and\nverification centers around the world. Learn more at\nwww.stockx.com.\n\n\n\n\n\nWe are an equal opportunity employer and value diversity at\nour company. We do not discriminate on the basis of race,\nreligion, color, national origin, gender, sexual\norientation, age, marital status, veteran status, or\ndisability status. This job description is intended to\nconvey information essential to understanding the scope of\nthe job and the general nature and level of work performed\nby job holders within this job. However, this job\ndescription is not intended to be an exhaustive list of\nqualifications, skills, efforts, duties, responsibilities or\nworking conditions associated with the position. StockX\nreserves the right to amend this job description at any\ntime. StockX may utilize AI to rank job applicant\nsubmissions against the position requirements to assist in\ndetermining candidate alignment.\n",
+  "skills_required": [
+    "Agent-based systems",
+    "Distributed systems",
+    "LLM APIs (OpenAI, Anthropic)",
+    "LangChain",
+    "Prompt engineering",
+    "RAG systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deploy AI-powered automation solutions using LLMs, ML models, and decision engines",
+    "Build agent-based systems, prompt pipelines, and RAG workflows",
+    "Develop autonomous or semi-autonomous systems that interact with internal tools and APIs",
+    "Create scalable workflow automation using APIs, event-driven architecture, and orchestration frameworks",
+    "Integrate AI systems with internal platforms and develop reusable automation components",
+    "Build observability, logging, guardrails, and monitoring into AI systems",
+    "Ensure reliability, security, and responsible AI implementation with compliance to data privacy policies",
+    "Identify new automation opportunities across the organization and continuously refine prompts, workflows, and models"
+  ],
+  "use_cases": [
+    "Operational efficiency improvement through intelligent automation of manual processes",
+    "Internal workflow automation across engineering, operations, product, and data teams",
+    "Autonomous agents that take actions across internal tools and APIs",
+    "Scalable AI-driven solutions for business process transformation",
+    "Retrieval-augmented generation for internal knowledge and decision support"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Event-driven architecture",
+    "GCP",
+    "Observability and monitoring",
+    "REST APIs",
+    "Vector databases",
+    "Workflow orchestration"
+  ],
+  "frameworks_mentioned": [
+    "Agent-based systems",
+    "LLM APIs (OpenAI, Anthropic)",
+    "LangChain",
+    "Prompt engineering",
+    "RAG systems"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves designing and deploying AI-\npowered automation solutions using LLMs, building agent-\nbased systems, RAG workflows, and prompt pipelines. The\nengineer is hands-on with building, integrating, and\nrefining AI/LLM systems in production, making this an ai-\nfirst role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs (OpenAI, Anthropic)",
+      "RAG systems",
+      "Prompt engineering",
+      "Agent-based systems",
+      "LangChain"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Event-driven architecture"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Workflow orchestration",
+      "Observability and monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

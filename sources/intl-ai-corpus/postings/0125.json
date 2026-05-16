@@ -1,0 +1,113 @@
+{
+  "job_id": "intl-ai-corpus-0125",
+  "source": "intl-ai-corpus",
+  "source_ref": "7107271",
+  "source_url": "https://builtin.com/job/research-engineer-decentralized-ai-systems/7107271",
+  "title": "Research Engineer - Decentralized AI Systems",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Yotta Labs",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-17",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "16 Employees",
+  "company_stage": null,
+  "company_focus": "Decentralized AI infrastructure for GPU orchestration",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "Location: Remote (Global)\n\nType: Full-time\n\nCompany: Yotta Labs\n\nApply: careers@yottalabs.ai\n\n🧠 About Yotta Labs\n\nYotta Labs is pioneering the development of a Decentralized\nOperating System (DeOS) for AI workload orchestration at a\nplanetary scale. Our mission is to democratize access to AI\nresources by aggregating geo-distributed GPUs, enabling\nhigh-performance computing for AI training and inference on\na wide spectrum of hardware—from commodity to high-end GPUs.\nOur platform supports major large language models (LLMs) and\noffers customizable solutions for new models, facilitating\nelastic and efficient AI development.\n\n🛠️ Role Overview\n\nWe are seeking a Research Engineer with a passion for\ndecentralized systems and AI infrastructure. In this role,\nyou will contribute to the development of our DeOS\nframework, focusing on optimizing AI workloads across a\nheterogeneous network of GPUs. Your work will directly\nimpact the scalability and performance of AI applications\ndeployed on our platform.\n\n🎯 Responsibilities\n\n- Design and implement components of the DeOS for efficient AI\n  workload orchestration.\n- Develop and optimize software for managing geo-distributed,\n  heterogeneous GPU resources.\n- Collaborate with cross-functional teams to integrate support\n  for various LLMs and AI models.\n- Ensure high availability and fault tolerance in\n  decentralized computing environments.\n- Contribute to open-source projects and engage with the\n  developer community.\n\n✅ Qualifications\n\n- Proficiency in AI programming languages such as Python\n- Experience with distributed systems, cloud computing, or\n  blockchain technologies.\n- Familiarity with AI frameworks and tools (e.g., PyTorch,\n  Ray).\n- Strong problem-solving skills and the ability to work in a\n  collaborative, remote environment.\n- A background in computer science, engineering, or a related\n  field is preferred.\n\n🌟 Preferred Experience\n\n- Contributions to open-source projects in AI or decentralized\n  systems.\n- Experience with GPU programming and optimization.\n- Familiarity with frameworks and libraries like vLLM, SGLang,\n  and Verl.\n\n🌐 Why Join Yotta Labs?\n\n- Be part of a visionary team aiming to redefine AI\n  infrastructure.\n- Work on cutting-edge technologies that bridge AI and\n  decentralized computing.\n- Collaborate with experts from leading institutions and tech\n  companies.\n- Enjoy a flexible, remote work environment that values\n  innovation and autonomy.\n\n📩 How to Apply\n\nInterested candidates should apply directly or send their\nresume and a brief cover letter to careers@yottalabs.ai.\nPlease include links to any relevant projects or\ncontributions.\n",
+  "skills_required": [
+    "GPU optimization",
+    "PyTorch",
+    "blockchain technologies"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement components of the DeOS for efficient AI workload orchestration",
+    "Develop and optimize software for managing geo-distributed, heterogeneous GPU resources",
+    "Collaborate with cross-functional teams to integrate support for various LLMs and AI models",
+    "Ensure high availability and fault tolerance in decentralized computing environments",
+    "Contribute to open-source projects and engage with the developer community"
+  ],
+  "use_cases": [
+    "AI training and inference on geo-distributed GPU networks",
+    "Orchestration of AI workloads across heterogeneous hardware from commodity to high-end GPUs",
+    "Deployment and management of large language models at planetary scale",
+    "Elastic and efficient AI development through decentralized computing resources",
+    "GPU resource aggregation and optimization for AI applications"
+  ],
+  "tools_mentioned": [
+    "GPU programming",
+    "Ray",
+    "SGLang",
+    "Verl",
+    "cloud computing",
+    "distributed systems",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "GPU optimization",
+    "PyTorch"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "MLOPS",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an AI infrastructure role focused on building\nsystems that orchestrate and optimize AI workloads rather\nthan building, training, or fine-tuning models directly. The\nwork involves distributed systems engineering for GPU\nresource management and LLM deployment platforms, which\nsupports but doesn't directly work on AI models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "GPU optimization"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Ray"
+    ],
+    "cloud": [
+      "cloud computing"
+    ],
+    "ops": [
+      "distributed systems",
+      "GPU programming",
+      "vLLM",
+      "SGLang",
+      "Verl"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "blockchain technologies"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

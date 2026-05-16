@@ -1,0 +1,144 @@
+{
+  "job_id": "intl-ai-corpus-2713",
+  "source": "intl-ai-corpus",
+  "source_ref": "8979302",
+  "source_url": "https://builtin.com/job/backend-engineer-ai-agents-workflows/8979302",
+  "title": "Backend Engineer (AI Agents/Workflows)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Andercore",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "Berlin",
+  "country": "DE",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-07",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "76 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-driven trade platform for industrial supply chain\nautomation",
+  "industries": [
+    "Artificial Intelligence",
+    "Industrial"
+  ],
+  "description": "About the Company\n\nThe AI-driven trade platform transforming industrial supply\nin infrastructure, energy, and construction materials. It\nconnects vetted suppliers across Asia, Europe, and the GCC\nregion with local demand through a single integrated\nplatform.\n\nIts proprietary AI stack digitizes and automates the full\nlifecycle of materials trade – from procurement and pricing\nto inventory, logistics, and embedded financing – replacing\nthousands of manual, relationship-driven processes with\nreal-time orchestration.\n\nBuyers gain instant quotes, reliable availability, and\npredictable delivery through a unified operating system.\nSuppliers benefit from accurate forecasting, disciplined\ndemand management, and seamless integration into cross-\nborder fulfillment networks. The company partners with\nleading brands to run both dropship and cross-dock\nfulfillment motions for large-scale transactions, turning\nglobal supply chains into predictable, repeatable, software-\nlike workflows.\n\nThe company has scaled to triple-digit-million GMV, operates\nacross six international markets, and is rapidly expanding\ntoward profitability. With a team of 80+ people across\nBerlin (HQ) and Asia, it is building the world’s first\nindustrial-grade AI operating system for materials –\nredefining how global trade works in one of the world’s\nlargest and most essential industries.\n\nThe company is backed by top-tier investors as well as\nglobal institutional banking partners, having recently\nclosed its $40m series B - Atomico, Project A, and Invent\nCapital with institutional backing from Commerzbank and KfW.\n\nThe Tech team will allow you to work alongside a group of\nhighly ambitious and knowledgeable Engineers, while being\nfaced with complex problems and being exposed to commercial.\n\nThe Tech Stack: Python, LangGraph, LLM APIs (OpenAI,\nAnthropic, Gemini), AWS, GitHub Actions, Node.js, Java 21\n(Spring Boot 3), Postgres, Kinesis, Terraform, Typescript,\nNextJS, React.\n\nWhat you will do\n\n- Design, develop, test, deploy, and maintain backend services\n  that integrate AI/ML capabilities into our products.\n- Build clean, maintainable, and reusable code with a focus on\n  scalability and performance.\n- Develop and optimize APIs that power AI-driven features.\n- Collaborate with frontend engineers to connect user-facing\n  experiences with AI-enabled backend logic.\n- Implement and improve distributed systems and data\n  pipelines.\n- Work with LLM APIs (OpenAI, etc.) to build intelligent\n  workflows and automation.\n- Participate in code reviews, knowledge-sharing sessions, and\n  architecture discussions.\n- Stay current with emerging AI technologies and backend best\n  practices.\n\nWho you are\n\n- Experience Level: 3–5 years as a backend or full-stack\n  engineer, with exposure to AI/ML integrations.\n- Solid programming skills in Java (Spring Boot) and\n  familiarity with Python for data processing or AI\n  integration.\n- Experience with relational databases (PostgreSQL or\n  BigQuery) and writing efficient queries.\n- Comfortable working with cloud infrastructure (AWS\n  preferred) and CI/CD tooling.\n- Understanding of distributed systems, event-driven\n  architecture, and microservices.\n- Interest or experience in building AI-enabled products\n  (e.g., working with OpenAI API, fine-tuning models, or\n  prompt engineering).\n- Strong communicator who can explain technical ideas to both\n  technical and non-technical stakeholders.\n- Proactive, collaborative, and eager to contribute ideas and\n  improvements.\n\nWe are an equal-opportunity employer and welcome applicants\nfrom all backgrounds, regardless of race, ethnicity, gender\nidentity or expression, sexual orientation, religion, age,\ndisability, or any other characteristic. We believe that\ndiversity drives innovation, creativity, and collective\nstrength.\n",
+  "skills_required": [
+    "Anthropic API",
+    "Distributed Systems",
+    "Event-Driven Architecture",
+    "Gemini API",
+    "LangGraph",
+    "Microservices",
+    "OpenAI API",
+    "Prompt Engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, test, deploy, and maintain backend services integrating AI/ML capabilities",
+    "Build intelligent workflows and automation using LLM APIs (OpenAI, Anthropic, Gemini) and LangGraph",
+    "Develop and optimize APIs powering AI-driven features for trade automation",
+    "Collaborate with frontend engineers to connect user-facing experiences with AI-enabled backend logic",
+    "Implement and improve distributed systems and data pipelines",
+    "Participate in code reviews, knowledge-sharing sessions, and architecture discussions",
+    "Stay current with emerging AI technologies and backend best practices"
+  ],
+  "use_cases": [
+    "Automating procurement and pricing workflows for industrial materials trade",
+    "AI-driven inventory management and demand forecasting",
+    "Real-time orchestration of logistics and cross-border fulfillment",
+    "Embedded financing automation for supply chain transactions",
+    "Intelligent quoting and availability systems for buyers and suppliers",
+    "Digitizing and automating the full lifecycle of materials trade"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Kinesis",
+    "BigQuery",
+    "GitHub Actions",
+    "Next.js",
+    "Node.js",
+    "PostgreSQL",
+    "REST APIs",
+    "React",
+    "Spring Boot 3",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "Gemini API",
+    "LangGraph",
+    "OpenAI API",
+    "Prompt Engineering"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and integrating AI\ncapabilities into products, specifically working with LLM\nAPIs (OpenAI, Anthropic, Gemini) and LangGraph to build\nintelligent workflows and automation. The engineer is hands-\non with AI model integration and agent/workflow development,\nmaking this an ai-first role despite being titled as a\nbackend engineer.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "OpenAI API",
+      "Anthropic API",
+      "Gemini API",
+      "Prompt Engineering"
+    ],
+    "ml": [],
+    "web": [
+      "Spring Boot 3",
+      "Next.js",
+      "React",
+      "REST APIs",
+      "Node.js"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "BigQuery"
+    ],
+    "data": [
+      "AWS Kinesis"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform",
+      "GitHub Actions"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed Systems",
+      "Event-Driven Architecture",
+      "Microservices"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

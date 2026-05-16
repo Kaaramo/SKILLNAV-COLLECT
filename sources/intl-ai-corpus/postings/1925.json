@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-1925",
+  "source": "intl-ai-corpus",
+  "source_ref": "8640303",
+  "source_url": "https://www.builtinla.com/job/ai-automation-engineer-endpoint-systems/8640303",
+  "title": "AI & Automation Engineer, Endpoint Systems",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BeyondTrust",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-03",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Identity security and cybersecurity SaaS solutions for\nprivileged access management",
+  "industries": [],
+  "description": "BeyondTrust is a place where you can bring your purpose to\nlife through the work that you do, creating a safer world\nthrough our cybersecurity SaaS portfolio.\n\nOur culture of flexibility, trust, and continual learning\nmeans you will be recognized for your growth, and for the\nimpact you make on our success. You will be surrounded by\npeople who challenge, support, and inspire you to be the\nbest version of yourself.\n\nThe Role\n\nWe’re looking for an Endpoint Systems Engineer with a\npassion for AI & automation, within modern device\nmanagement. In this role, you’ll design, deploy, and\ncontinuously improve endpoint solutions that are\nintelligent, scalable, and secure. You’ll move beyond\nreactive support by leveraging automation, data, and AI-\ndriven tools to enhance user experience and operational\nefficiency across the enterprise.  This is a hands-on\nengineering role for someone who enjoys building smart\nsystems, eliminating repetitive work, and shaping the future\nof endpoint management.\n\nWhat You’ll Do\n\n- Design, deploy, and manage modern endpoint environments\n  across Windows & macOS.\n- Implement and maintain endpoint management platforms (e.g.,\n  Intune, Jamf) with a strong automation-first mindset\n- Develop automation workflows using scripting, APIs, and\n  orchestration tools to reduce manual effort and improve\n  reliability\n- Integrate AI-powered tools for endpoint analytics,\n  remediation, security, and user experience optimization\n- Build self-healing and self-service solutions for common\n  endpoint issues\n- Collaborate with security teams to enforce compliance,\n  patching, and endpoint protection strategies\n- Monitor endpoint health, performance, and telemetry to\n  proactively identify and resolve issues\n- Evaluate emerging AI and automation technologies and\n  recommend improvements to endpoint strategy\n- Create and maintain technical documentation, standards, and\n  best practices\n- Act as a technical escalation point\n\nWhat You’ll Bring\n\n- 4+ years of experience in endpoint engineering, desktop\n  engineering, or EUC roles\n- Strong experience with modern endpoint management and\n  MDM/MAM platforms\n- Proficiency in scripting and automation (PowerShell\n  required; Python, Bash, or similar a plus)\n- Experience integrating systems via APIs and automating\n  workflows\n- Experience in working with Claude AI\n- Solid understanding of endpoint security, identity, and\n  device compliance\n- Comfortable working in cloud-first and zero-trust\n  environments\n- Strong troubleshooting skills with the ability to think\n  systemically\n\nNice To Have\n\n- Experience with AI-driven IT operations (AIOps), endpoint\n  analytics, or autonomous remediation tools\n- Familiarity with tools such as Microsoft Copilot, Defender,\n  Autopilot, Jamf Pro, or similar\n- Relevant certifications (Microsoft, Apple, Jamf, or cloud\n  certifications)\n\nWho You Are\n\n- A builder’s mindset: you love automating yourself out of\n  repetitive work\n- Curiosity about how AI can improve IT operations and user\n  experience\n- Strong communication skills and the ability to explain\n  complex ideas clearly\n- A proactive, improvement-focused approach rather than\n  reactive firefighting\n- Comfort working in fast-changing, modern IT environments\n\nBetter Together\n\nDiversity. Inclusion. They’re more than just words for us.\nThey are the guiding values of how we build our teams,\ncultivate leaders, and create a culture where people feel\nconnected.\n\nWe take care of our employees so they can take care of our\ncustomers. Customers who come from all walks of life just\nlike us. We hire incredible people from diverse backgrounds\nbecause when we are different together, we are stronger\ntogether.\n\nAbout Us\n\nBeyondTrust is the global identity security leader\nprotecting Paths to Privilege™. Our identity-centric\napproach goes beyond securing privileges and access,\nempowering organizations with the most effective solution to\nmanage the entire identity attack surface and neutralize\nthreats, whether from external attacks or insiders.\n\nBeyondTrust is leading the charge in transforming identity\nsecurity to prevent breaches and limit the blast radius of\nattacks, while creating a superior customer experience and\noperational efficiencies. We are trusted by 20,000\ncustomers, including 75 of the Fortune 100, and our global\necosystem of partners.\n\nLearn more at www.beyondtrust.com.\n\n#LI-BS1\n",
+  "skills_required": [
+    "Claude AI",
+    "Microsoft Copilot"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, deploy, and manage modern endpoint environments across Windows & macOS",
+    "Implement and maintain endpoint management platforms with automation-first mindset",
+    "Develop automation workflows using scripting, APIs, and orchestration tools",
+    "Integrate AI-powered tools for endpoint analytics, remediation, and security optimization",
+    "Build self-healing and self-service solutions for common endpoint issues",
+    "Collaborate with security teams to enforce compliance and endpoint protection strategies",
+    "Monitor endpoint health and telemetry to proactively identify and resolve issues",
+    "Evaluate emerging AI and automation technologies for endpoint strategy improvements"
+  ],
+  "use_cases": [
+    "Endpoint analytics and monitoring",
+    "Automated remediation for device issues",
+    "Security and compliance enforcement across devices",
+    "User experience optimization through AI-driven tools",
+    "Self-healing and self-service endpoint solutions",
+    "IT operations automation (AIOps)"
+  ],
+  "tools_mentioned": [
+    "AIOps",
+    "Intune",
+    "Jamf",
+    "MDM/MAM platforms",
+    "Microsoft Autopilot",
+    "Microsoft Defender",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "Claude AI",
+    "Microsoft Copilot"
+  ],
+  "languages_programming": [
+    "Bash",
+    "PowerShell",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is about integrating and using AI tools for\nendpoint management and IT operations, not building or\ndeploying AI/ML systems. The role involves consuming AI-\npowered tools (Claude AI, AIOps, Copilot) to enhance\nendpoint management workflows, but doesn't involve model\ntraining, fine-tuning, or building AI systems from scratch.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude AI",
+      "Microsoft Copilot"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Intune",
+      "Jamf",
+      "AIOps",
+      "Microsoft Defender",
+      "Microsoft Autopilot",
+      "MDM/MAM platforms"
+    ],
+    "languages": [
+      "PowerShell",
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-1213",
+  "source": "intl-ai-corpus",
+  "source_ref": "8294549",
+  "source_url": "https://builtin.com/job/ai-kernel-engineer/8294549",
+  "title": "AI Kernel Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "quadric.io",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-19",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "38 Employees",
+  "company_stage": "Series B",
+  "company_focus": "General purpose neural processing unit for edge devices",
+  "industries": [
+    "Hardware",
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "Quadric has created an innovative general purpose neural\nprocessing unit (GPNPU) architecture. Quadric's co-optimized\nsoftware and hardware is targeted to run neural network (NN)\ninference workloads in a wide variety of edge and endpoint\ndevices, ranging from battery operated smart-sensor systems\nto high-performance automotive or autonomous vehicle\nsystems. Unlike other NPUs or neural network accelerators in\nthe industry today that can only accelerate a portion of a\nmachine learning graph, the Quadric GPNPU executes both NN\ngraph code and conventional C++ DSP and control code. Role\n\nThe AI Kernel Engineer in Quadric plays the key role to\nenable a large number of AI kernels/operators to run\nefficiently on the Quadric platform. The AI Kernel Engineer\nat Quadric will [1] develop a highly efficient Quadric\nkernel library for a variety of AI/LLM models; [2] analyze\nthe performance and optimize the kernel for different\nhardware configurations; This senior technical role demands\ndeep knowledge of hardware architecture, compiler toolchain\nand optimization techniques.\n\nResponsibilities\n\n- Develop AI/LLM kernels/operators on Quadric platform for\n  efficient inference\n- Optimize the kernel performance for different hardware\n  configurations and workloads\n- Profile and analyze kernel performance in terms of compute,\n  data and parallelism; identify micro-architecture and\n  software bottlenecks and provide optimization solutions\n- Optimize kernel C/C++ codes, maximize hardware utilization\n- Collaborate across related areas of the AI inference stack\n  to support team and business priorities\n- Make Improvement to Quadric toolchain, compiler and runtime\n- Provide technical support and documents to customers and\n  developer community\n\nRequirements\n\n- Bachelor’s or Master’s in Computer Science and/or Electric\n  Engineering\n- 5+ years of experience in AI kernel development and\n  optimization\n- experience with model and kernel inference performance\n  profiling\n- experience with at least one of the following compute\n  development: CUDA, DSP, NEON, Triton-lang\n- Proficiency in C/C++ and Python, experience with assembly\n  language a plus\n- Demonstrate good capability in problem solving, debug and\n  communication\n\nBenefits\n\n- Provide competitive salaries and meaningful equity\n- Provide a politics free community for the brilliant minds\n  who want to make an immediate impact\n- Provide an opportunity for you to build long term career\n  relationships\n- Foster an environment that allows for lasting personal\n  relationships alongside professional one\n\nFounded in 2016 and based in downtown Burlingame,\nCalifornia, Quadric is building the world’s first\nsupercomputer designed for the real-time needs of edge\ndevices. Quadric aims to empower developers in every\nindustry with superpowers to create tomorrow’s technology,\ntoday. The company was co-founded by technologists from MIT\nand Carnegie Mellon, who were previously the technical co-\nfounders of the Bitcoin computing company 21.\n\nQuadric is proud to be an equal opportunity workplace and is\nan affirmative action employer. We are committed to equal\nemployment opportunity regardless of race, religion, sex,\nnational origin, sexual orientation, age, citizenship,\nmarital status, or disability.\n",
+  "skills_required": [
+    "AI kernel development",
+    "LLM inference"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop AI/LLM kernels/operators on Quadric platform for efficient inference",
+    "Optimize the kernel performance for different hardware configurations and workloads",
+    "Profile and analyze kernel performance in terms of compute, data and parallelism; identify micro-architecture and software bottlenecks and provide optimization solutions",
+    "Optimize kernel C/C++ codes, maximize hardware utilization",
+    "Collaborate across related areas of the AI inference stack to support team and business priorities",
+    "Make Improvement to Quadric toolchain, compiler and runtime",
+    "Provide technical support and documents to customers and developer community"
+  ],
+  "use_cases": [
+    "Neural network inference on edge devices",
+    "Smart-sensor systems with battery constraints",
+    "Automotive and autonomous vehicle systems",
+    "Real-time AI inference at the edge",
+    "Combined neural network and conventional DSP code execution"
+  ],
+  "tools_mentioned": [
+    "CUDA",
+    "Compiler toolchain",
+    "DSP",
+    "NEON",
+    "Performance profiling",
+    "Triton-lang"
+  ],
+  "frameworks_mentioned": [
+    "AI kernel development",
+    "LLM inference"
+  ],
+  "languages_programming": [
+    "Assembly language",
+    "C++",
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on optimizing kernel library performance\nand improving the compiler toolchain for AI inference on\nQuadric's hardware platform. The engineer works on\ninfrastructure that enables efficient model execution rather\nthan building, training, or fine-tuning AI/LLM models\nthemselves.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM inference"
+    ],
+    "ml": [
+      "AI kernel development"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CUDA",
+      "Triton-lang",
+      "DSP",
+      "NEON",
+      "Compiler toolchain",
+      "Performance profiling"
+    ],
+    "languages": [
+      "C++",
+      "Python",
+      "Assembly language"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

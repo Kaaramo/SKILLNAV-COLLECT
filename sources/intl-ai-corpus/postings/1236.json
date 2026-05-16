@@ -1,0 +1,103 @@
+{
+  "job_id": "intl-ai-corpus-1236",
+  "source": "intl-ai-corpus",
+  "source_ref": "8331783",
+  "source_url": "https://www.builtinla.com/job/system-engineer/8331783",
+  "title": "Senior Hardware engineer (R&D / GPU / AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nebius",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "on-site",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "AI cloud infrastructure and computing platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Why work at Nebius Nebius is leading a new era in cloud\ncomputing to serve the global AI economy. We create the\ntools and resources our customers need to solve real-world\nchallenges and transform industries, without massive\ninfrastructure costs or the need to build large in-house\nAI/ML teams. Our employees work at the cutting edge of AI\ncloud infrastructure alongside some of the most experienced\nand innovative leaders and engineers in the field.\n\nWhere we work Headquartered in Amsterdam and listed on\nNasdaq, Nebius has a global footprint with R&D hubs across\nEurope, North America, and Israel. The team of over 800\nemployees includes more than 400 highly skilled engineers\nwith deep expertise across hardware and software\nengineering, as well as an in-house AI R&D team.\n\nThe role\n\nNebius is looking for a System Engineer (Servers Hardware\nR&D Team) to support our expanding North American\noperations. This position requires occasional on-site\npresence in our Data Center locations as needed.\n\nYour responsibilities will include:\n\n- Participate in the design, deployment, and maintenance of\n  high-performance cloud systems optimized for AI workloads.\n- Arrange and perform hardware R&D tests and experiments on-\n  site in data center environments.\n- Troubleshoot and resolve complex system issues related to\n  GPUs, networking (InfiniBand, NVLink), PCIe, and server\n  infrastructure.\n- Conduct deep investigations into hardware, software, and\n  networking issues to ensure optimal system performance and\n  reliability.\n- Develop and execute test plans and methodologies for\n  advanced GPU, InfiniBand, and compute systems to benchmark\n  and validate performance.\n- Collaborate closely with cross-functional engineering and\n  operations teams to improve system performance and\n  reliability.\n- Monitor system performance and continuously fine-tune\n  configurations for maximum efficiency.\n\nWhat we expect you to have:\n\n- Strong knowledge of modern server architecture, particularly\n  in high-performance, GPU-based environments.\n- Hands-on experience with GPUs, networking, NVLink, and PCIe\n  technologies.\n- Proficiency in Linux systems, with experience using Python\n  and Bash for automation and tooling.\n- Demonstrated ability to troubleshoot complex hardware,\n  software, and networking issues.\n- Experience with deep problem investigation, root cause\n  analysis, and performance optimization in cloud or high-\n  performance computing environments.\n- Strong analytical and problem-solving skills with a\n  performance-first mindset.\n- Basic electronics modification skills, including soldering\n  and wiring.\n\nIt will be an added bonus if you have:\n\n- Knowledge of the Linux kernel and experience with kernel-\n  level debugging or troubleshooting.\n- Familiarity with electronic measurement equipment such as\n  oscilloscopes and multimeters.\n\nKey employee benefits:\n\n- Health insurance: 100% company-paid medical, dental, and\n  vision coverage for employees and families.\n- 401(k) plan: up to 4% company match with immediate vesting.\n- Parental leave: 20 weeks paid for primary caregivers, 12\n  weeks for secondary caregivers.\n- Remote work reimbursement: up to $85/month for mobile and\n  internet.\n- Disability & life insurance: company-paid short-term, long-\n  term and life insurance coverage.\n\nCompensation\n\n- We offer competitive salaries, ranging from $150k- $200k\n  base + quarterly performance bonuses.\n\nJoin Nebius Today!\n\nWhat we offer\n\n- Competitive salary and comprehensive benefits package.\n- Opportunities for professional growth within Nebius.\n- Flexible working arrangements.\n- A dynamic and collaborative work environment that values\n  initiative and innovation.\n\nWe’re growing and expanding our products every day. If\nyou’re up to the challenge and are excited about AI and ML\nas much as we are, join us!\n",
+  "skills_required": [
+    "GPU architecture",
+    "InfiniBand",
+    "Linux kernel",
+    "NVLink",
+    "PCIe",
+    "Server architecture"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Participate in the design, deployment, and maintenance of high-performance cloud systems optimized for AI workloads",
+    "Arrange and perform hardware R&D tests and experiments on-site in data center environments",
+    "Troubleshoot and resolve complex system issues related to GPUs, networking (InfiniBand, NVLink), PCIe, and server infrastructure",
+    "Conduct deep investigations into hardware, software, and networking issues to ensure optimal system performance and reliability",
+    "Develop and execute test plans and methodologies for advanced GPU, InfiniBand, and compute systems to benchmark and validate performance",
+    "Collaborate closely with cross-functional engineering and operations teams to improve system performance and reliability",
+    "Monitor system performance and continuously fine-tune configurations for maximum efficiency"
+  ],
+  "use_cases": [
+    "High-performance GPU cloud infrastructure for AI workloads",
+    "Data center hardware R&D and validation",
+    "GPU and networking performance optimization",
+    "Server infrastructure for AI/ML computing"
+  ],
+  "tools_mentioned": [
+    "Linux",
+    "Performance optimization"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Bash",
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role works ON hardware infrastructure (GPUs, servers,\nnetworking) that SUPPORTS AI workloads, but doesn't build,\ntrain, or deploy AI/ML models. The position involves\ndesigning, deploying, and maintaining GPU-based cloud\nsystems that enable AI workloads, making it\ninfrastructure/platform support rather than direct AI work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Linux",
+      "Performance optimization"
+    ],
+    "languages": [
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": [
+      "GPU architecture",
+      "InfiniBand",
+      "NVLink",
+      "PCIe",
+      "Server architecture",
+      "Linux kernel"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

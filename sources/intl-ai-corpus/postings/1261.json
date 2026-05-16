@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-1261",
+  "source": "intl-ai-corpus",
+  "source_ref": "8354601",
+  "source_url": "https://builtin.com/job/lead-ai-ml-engineer-regulatory-reporting-senior-vice-president/8354601",
+  "title": "Lead AI/ML Engineer – Regulatory Reporting - Senior Vice President",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Citi",
+  "company_type": "entité morale privée",
+  "location": "Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "223,850 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global banking and financial services with regulatory\nreporting modernization",
+  "industries": [
+    "Fintech",
+    "Financial Services"
+  ],
+  "description": "Role Summary: We are establishing a specialized AI/ML team\nin Mumbai to modernize our Regulatory Reporting function. We\nare looking for a hands-on technical leader to build and\ndeploy two classes of solutions: (1) Anomaly Detection\nModels to catch data quality issues before they reach the\nregulators, and (2) GenAI Workflows (LLMs/Agents) to\nautomate manual reconciliation and document reviews.\nCrucially, you will solve the \"Validation Bottleneck.\" You\nwill design \"Human-in-the-Loop\" (HITL) workflows that make\nit easy for business users to validate model outputs against\nlegal loan documents, bridging the gap between \"Black Box\"\nAI and auditable regulatory standards.\n\n\nKey Responsibilities: •  Build unsupervised and semi-\nsupervised ML models (e.g., Isolation Forests, Autoencoders)\nto scan millions of transactional records for outliers. •\nThe Challenge: Go beyond simple \"threshold checks.\" Detect\ncomplex patterns (e.g., \"This trade structure looks valid in\nisolation but is anomalous for this specific counterparty\ntype\"). •Reduce false positives to ensure the Reporting Team\ntrusts the model alerts. •Design RAG (Retrieval-Augmented\nGeneration) pipelines to \"chat\" with unstructured data\n(Credit Agreements, Loan Docs) and extract key regulatory\nattributes (Maturity Dates, Collateral Clauses). •Build\n\"Agentic\" workflows where GenAI proactively suggests mapping\nlogic or identifies the root cause of a break, requiring\nonly a \"thumbs up/down\" from the human SME. •This is a\ncritical success factor. You must build \"Explainability\"\n(XAI) into every model. You cannot just output a score; you\nmust output why (e.g., \"Flagged because this value is 3x\nhigher than the historical average for this product\").\n•Create Validation Interfaces: Build simple UIs (using\nStreamlit or React) where business users can see the Model's\nPrediction side-by-side with the Source Document to rapidly\napprove/reject the finding. •Work with Model Risk Management\n(MRM) to establish a \"fast-track\" validation framework for\nnon-deterministic GenAI models. • Hire and mentor a squad of\n4-5 junior data scientists/engineers in Mumbai. •Act as the\n\"AI Evangelist\" to the Operations/Finance teams,\ndemonstrating how AI assists them rather than replacing\nthem.\n\nRequirement:  • Core ML: 8+ years in Data\nScience/Engineering. Deep experience with Scikit-learn,\nTensorFlow, or PyTorch. • GenAI Stack: Hands-on experience\nwith LLM orchestration frameworks (LangChain, LlamaIndex)\nand Vector Databases (Pinecone, Milvus, or pgvector). •The\n\"Validation\" Stack: Experience building tools like Streamlit\nor Gradio for rapid prototyping of human-review interfaces.\n•Experience in Financial Services (specifically Fraud\nDetection, AML, or Risk Modeling). •Able to communicate and\nexplain \"Hallucination Risk\" to a non-technical Chief Risk\nOfficer?\n\n------------------------------------------------------\n\nJob Family Group:\n\nFinance\n\n------------------------------------------------------\n\nJob Family:\n\nRegulatory Reporting\n\n------------------------------------------------------\n\nTime Type:\n\nFull time\n\n------------------------------------------------------\n\nMost Relevant Skills\n\nBusiness Acumen, Change Management, Communication, Data\nAnalysis, Financial Acumen, Internal Controls, Issue\nManagement, Problem Solving, Regulatory Reporting.\n\n------------------------------------------------------\n\nOther Relevant Skills\n\nFor complementary skills, please see above and/or contact\nthe recruiter.\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified\ncandidates will receive consideration without regard to\ntheir race, color, religion, sex, sexual orientation, gender\nidentity, national origin, disability, status as a protected\nveteran, or any other characteristic protected by law.\n\n\n\nIf you are a person with a disability and need a reasonable\naccommodation to use our search tools and/or apply for a\ncareer opportunity review Accessibility at Citi. View Citi’s\nEEO Policy Statement and the Know Your Rights poster.\n",
+  "skills_required": [
+    "Autoencoders",
+    "Isolation Forests",
+    "LLM orchestration",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build unsupervised and semi-supervised ML models (Isolation Forests, Autoencoders) to scan millions of transactional records for outliers",
+    "Design RAG pipelines to interact with unstructured data (Credit Agreements, Loan Docs) and extract key regulatory attributes",
+    "Build Agentic workflows where GenAI proactively suggests mapping logic or identifies root causes",
+    "Build Explainability (XAI) into every model to ensure auditable regulatory standards",
+    "Create validation interfaces using Streamlit or React for business users to approve/reject model findings",
+    "Work with Model Risk Management to establish validation frameworks for non-deterministic GenAI models",
+    "Hire and mentor a squad of 4-5 junior data scientists/engineers",
+    "Act as AI Evangelist to Operations/Finance teams demonstrating AI assistance capabilities"
+  ],
+  "use_cases": [
+    "Anomaly detection in regulatory reporting data to catch data quality issues before submission to regulators",
+    "Automated document review and reconciliation of legal loan documents",
+    "Regulatory attribute extraction from Credit Agreements and Loan Documents",
+    "Human-in-the-Loop validation workflows for model outputs against legal documents",
+    "Root cause identification for data breaks and reconciliation issues"
+  ],
+  "tools_mentioned": [
+    "Gradio",
+    "Milvus",
+    "Pinecone",
+    "React",
+    "Streamlit",
+    "Vector Databases",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Autoencoders",
+    "Isolation Forests",
+    "LLM orchestration",
+    "LangChain",
+    "LlamaIndex",
+    "PyTorch",
+    "RAG",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and deploying both traditional\nML models (Isolation Forests, Autoencoders) for anomaly\ndetection and GenAI systems (RAG pipelines, Agentic\nworkflows, LLM orchestration). The position requires hands-\non implementation of models, not just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "RAG",
+      "LLM orchestration"
+    ],
+    "ml": [
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Isolation Forests",
+      "Autoencoders"
+    ],
+    "web": [
+      "Streamlit",
+      "Gradio",
+      "React"
+    ],
+    "databases": [
+      "Pinecone",
+      "Milvus",
+      "pgvector",
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Fraud Detection",
+      "AML",
+      "Risk Modeling"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,142 @@
+{
+  "job_id": "intl-ai-corpus-0902",
+  "source": "intl-ai-corpus",
+  "source_ref": "7618921",
+  "source_url": "https://builtin.com/job/senior-quality-engineer-ai-ml/7618921",
+  "title": "Senior AI Quality Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Mitratech",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-17",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,500 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Legal, Risk, Compliance, HR software",
+  "industries": [
+    "HR Tech",
+    "Legal Tech",
+    "Software",
+    "Consulting"
+  ],
+  "description": "At Mitratech, we are a team of technocrats focused on\nbuilding world-class products that simplify operations in\nthe Legal, Risk, Compliance, and HR functions. We are a\nclose-knit, globally dispersed team that thrives in an\necosystem that supports individual excellence and takes\npride in its diverse and inclusive work culture centered\naround great people practices, learning opportunities, and\nhaving fun! Our culture is the ideal blend of\nentrepreneurial spirit and enterprise investment, enabling\nthe chance to move at a rapid pace with some of the most\ncomplex, leading-edge technologies available.\n\nFor over 35 years, the experts at Mitratech have been\nfocused on solving the complex needs. Today, we serve 20,000\nclient companies of all sizes globally, representing 30% of\nthe Fortune 500 and over 500,000 users in over 160\ncountries.\n\nAs we continue to grow, we’re always looking for\nresourceful, enthusiastic, and fresh perspectives. Join our\nglobal team and see what makes Mitratech a truly exceptional\nplace to work!\n\nGiven our continued growth, we always have room for more\nintellect, energy, and enthusiasm - join our global team and\nsee why it's so special to be a part of Mitratech!\n\nJob Overview\n\nWe are seeking a highly skilled Senior QA Engineer\nspecializing in AI and Machine Learning to join our growing\nteam. The ideal candidate will play a pivotal role in\nensuring the quality, reliability, and performance of our\nAI-driven products and platforms. This position requires a\nstrong foundation in software testing, automation, and QA\nstrategy, combined with an understanding of machine learning\nworkflows such as RAG pipelines, inference APIs, and\ngenerative AI applications. The successful candidate will\ncollaborate closely with ML engineers, data scientists, and\ndevelopers to design and execute comprehensive test plans\nthat validate model behavior, system integrations, and end-\nto-end user experiences.\n\nResponsibilities\n\n- Design and execute manual and automated test cases for\n  backend APIs, frontend interfaces, and end-to-end AI\n  workflows.\n- Conduct exploratory testing of new generative AI features\n  and user interactions.\n- Develop and maintain automated test frameworks for UI and\n  API.\n- Build automation scripts for AI/ML pipelines using pytest,\n  unittest, or custom frameworks.\n- Create comprehensive test plans, manage defects, and report\n  results using Jira, or similar tools.\n- Validate RAG (Retrieval-Augmented Generation) pipelines,\n  including embedding accuracy, retrieval quality, and model\n  response evaluation.\n- Test AI agents and orchestration flows, ensuring correctness\n  in multi-step reasoning and tool invocations.\n- Perform performance and scalability testing for ML inference\n  endpoints (SageMaker, Bedrock, custom APIs), monitoring\n  latency and throughput.\n- Conduct integration testing across data ingestion,\n  preprocessing, inference, and output pipelines.\n- Validate UI/UX and Gen AI interaction flows, ensuring a\n  consistent and intuitive user experience across devices\n  and browsers.\n- Automate end-to-end test scenarios, including document\n  upload, retrieval, summarization, and inference workflows.\n- Integrate and maintain automated test suites within CI/CD\n  pipelines (GitHub Actions, GitLab CI, Jenkins).\n- Collaborate closely with ML engineers, data scientists, and\n  developers to reproduce issues, validate fixes, and ensure\n  model reliability.\n- Ensure security, compliance, and data privacy standards are\n  upheld for sensitive datasets during testing.\n\nSkills & Experience\n\n- Strong experience in manual testing of backend APIs,\n  frontend apps, and full-stack systems.\n- Hands-on with test automation tools: Selenium, Playwright,\n  Cypress, Postman, REST-assured, or Python-based\n  frameworks.\n- Proficient in test case design, bug reporting, and defect\n  tracking (Jira, Trello, or equivalents).\n- Familiarity with AI/ML workflows — especially LLM-based\n  applications, RAG pipelines, embeddings, and model\n  inference.\n- Experience with performance testing tools or frameworks;\n  understanding of latency, throughput, and scaling metrics.\n- Knowledge of CI/CD automation and integrating tests into\n  build pipelines.\n- Understanding of API testing principles: CRUD operations,\n  authentication, edge cases, and error handling.\n- Familiar with UI/UX validation and cross-browser\n  compatibility testing.\n- Strong analytical and communication skills — able to\n  describe AI-related issues clearly and reproducibly.\n- Awareness of security and compliance practices for testing\n  sensitive or proprietary data.\n\nEducation:\n\n- A Master’s degree in Machine Learning, Computer Science with\n  a preference for specialization in the NLP domain.\n\nWe are an equal-opportunity employer that values diversity\nat all levels. All qualified applicants will receive\nconsideration for employment without regard to race, color,\nreligion, gender, national origin, age, sexual orientation,\ngender identity, disability, or veteran status.\n",
+  "skills_required": [
+    "AI agents",
+    "Jira",
+    "LLM applications",
+    "RAG",
+    "embeddings",
+    "model inference"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and execute manual and automated test cases for backend APIs, frontend interfaces, and end-to-end AI workflows",
+    "Conduct exploratory testing of new generative AI features and user interactions",
+    "Build automation scripts for AI/ML pipelines using pytest, unittest, or custom frameworks",
+    "Validate RAG pipelines including embedding accuracy, retrieval quality, and model response evaluation",
+    "Test AI agents and orchestration flows ensuring correctness in multi-step reasoning and tool invocations",
+    "Perform performance and scalability testing for ML inference endpoints monitoring latency and throughput",
+    "Integrate and maintain automated test suites within CI/CD pipelines",
+    "Collaborate with ML engineers, data scientists, and developers to reproduce issues and validate fixes"
+  ],
+  "use_cases": [
+    "Legal operations and workflow automation",
+    "Risk and compliance management",
+    "Document summarization and retrieval",
+    "Enterprise search using RAG pipelines",
+    "Multi-step AI agent reasoning and tool use",
+    "Inference API testing for LLM applications"
+  ],
+  "tools_mentioned": [
+    "API testing",
+    "Bedrock",
+    "Cypress",
+    "GitHub Actions",
+    "GitLab CI",
+    "Jenkins",
+    "Playwright",
+    "Postman",
+    "REST-assured",
+    "SageMaker",
+    "Selenium",
+    "pytest",
+    "unittest"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "LLM applications",
+    "RAG",
+    "embeddings",
+    "model inference"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a QA Engineer role focused on testing and validating\nAI/ML systems rather than building or deploying them. The\ncandidate designs test cases, creates automation frameworks,\nand validates the work of ML engineers - this is\nenabling/testing work, not hands-on model development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLM applications",
+      "embeddings",
+      "AI agents"
+    ],
+    "ml": [
+      "model inference"
+    ],
+    "web": [
+      "Selenium",
+      "Playwright",
+      "Cypress",
+      "Postman",
+      "REST-assured",
+      "API testing"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "SageMaker",
+      "Bedrock"
+    ],
+    "ops": [
+      "pytest",
+      "unittest",
+      "GitHub Actions",
+      "GitLab CI",
+      "Jenkins"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": [
+      "Jira"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

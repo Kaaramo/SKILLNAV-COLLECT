@@ -1,0 +1,44 @@
+company:
+  name: ALTEN Maroc
+  stage: null
+  focus: null
+position:
+  title: Business Intelligence Analyst (H/F)
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities:
+  - Collaborer avec parties prenantes pour besoins data
+  - Extract/transform/analyze data multi-sources
+  - Dashboards interactifs Power BI
+  - Apps Power Apps (forms, workflows, approbations)
+  - Power Automate workflows
+  - Python scripts data processing + automation + analytics avancée
+  - Implémenter solutions AI-based (predictive)
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - dashboard
+    - Dashboards
+    - data visualization
+    - KPI tracking
+    - Power Apps
+    - Power Automate
+    - power bi
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '182134'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

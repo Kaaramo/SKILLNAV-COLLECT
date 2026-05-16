@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-0202",
+  "source": "intl-ai-corpus",
+  "source_ref": "7409635",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/7409635",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "QIC Digital Hub",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,500 Employees",
+  "company_stage": "Public",
+  "company_focus": "Insurance provider building digital ecosystem",
+  "industries": [
+    "Insurance",
+    "App development"
+  ],
+  "description": "About the company\n\nWe are Qatar Insurance Company (QIC), the leading insurance\nprovider in GCC. With a history dating back to 1964, we have\nestablished ourselves as a pioneer in the insurance\nindustry, offering innovative solutions to meet the diverse\nneeds of individuals and businesses.\n\nOur vision is to make QIC group become the first Digital\nEcosystem in the region by combining insurance and non-\ninsurance services in one platform. Through our digital\nplatforms, such as qic.online and the QIC app, we empower\ncustomers to manage their needs anytime and anywhere.\n\nOur employees have been featured in Forbes 30 under 30,\nteach at online universities, serve on program committees of\nmajor IT conferences, and have previously worked at leading\ninternational tech companies.\n\nAbout the position\n\nWe are looking for an experienced AI/ML Engineer to join our\nteam and help design, build, and scale intelligent systems\nthat power real business solutions. You will work across\nLLMs, Computer Vision, Speech AI, and AI Infrastructure,\nembedding advanced AI into core business processes and\nclient-facing products.\n\nResponsibilities\n\n- LLM Development: build chatbots, RAG systems, and automated\n  document processing pipelines\n- Computer Vision: Implement OCR for insurance documents,\n  damage assessment from photos, and identity verification\n- Speech AI: Develop transcription, voice analytics, and\n  multilingual support solutions\n- AI Infrastructure: Deploy and monitor AI models, integrate\n  with cloud AI services\n- Product Integration: Embed AI into business workflows,\n  create AI APIs, and design user-friendly AI-powered\n  experiences\n\nRequirements\n\n- 5+ years of experience in AI/ML engineering with a focus on\n  production systems\n- Strong Python skills (advanced) + experience with\n  FastAPI/Flask for API development\n- Hands-on experience with LLM tools: OpenAI API, LangChain,\n  Hugging Face Transformers\n- Computer Vision expertise: OpenCV, PIL, YOLO, Detectron2 (or\n  similar)\n- Deep learning frameworks: PyTorch or TensorFlow for fine-\n  tuning models\n- Cloud experience: AWS / Azure / GCP AI services\n- Docker & Kubernetes for AI application containerization and\n  orchestration\n\nCore AI/ML Competencies\n\n- Prompt Engineering – designing effective prompts for LLMs\n- Fine-tuning and training custom LLMs – adapting pre-trained\n  models to business tasks Experience\n- RAG (Retrieval-Augmented Generation) – working with vector\n  DBs and embeddings\n- Computer Vision Pipelines – from preprocessing to inference\n- Model Optimization – quantization, pruning, ONNX for faster\n  inference\n- Multimodal AI – building solutions that combine text +\n  images\n\nWe offer\n\n- Long-term service agreement contract with QIC\n- We are diverse – our digital nomads work remotely from 25\n  different countries\n- Payment in USD/EUR/AED monthly to your bank account using\n  SWIFT\n- Full-time remote, work schedule: 5 days per week, Sunday to\n  Thursday\n- Vacation policy: Qatar Holiday Calendar, 20 workdays of\n  vacation, loyalty bonus days, 10 sick days and many more\n- Performance reviews are conducted twice a year, with the\n  possibility of a raise twice per year\n- Potential opportunity to apply for a Qatar ID and relocation\n  to Doha, Qatar\n- Benefits and perks: Premium Remote Health Insurance, therapy\n  discounts, individual language classes, reimbursement for\n  courses & tools, travel discounts, sports, etc.\n\nFirst What, then Who, then How! QIC digital hub has been a\nremote-first organization, unlocking the power of global\ntalent. Our exceptional team consists of over 200 talented\nteam members from 25+ multiple countries, bringing diverse\nperspectives and expertise to QIC organization.\n",
+  "skills_required": [
+    "Fine-tuning",
+    "Hugging Face Transformers",
+    "LangChain",
+    "OpenAI API",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build LLM-based chatbots, RAG systems, and automated document processing pipelines",
+    "Implement Computer Vision solutions for OCR, damage assessment from photos, and identity verification",
+    "Develop Speech AI applications for transcription, voice analytics, and multilingual support",
+    "Deploy and monitor AI models while integrating with cloud AI services",
+    "Embed AI capabilities into business workflows and create AI-powered APIs",
+    "Design user-friendly AI-powered experiences for client-facing products"
+  ],
+  "use_cases": [
+    "Insurance document processing and automated document analysis",
+    "Visual damage assessment from photos using Computer Vision and OCR",
+    "Identity verification through image recognition",
+    "Customer service chatbots powered by LLMs and RAG",
+    "Voice analytics and transcription for multilingual support",
+    "Multimodal AI combining text and images for insurance claims"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "GCP",
+    "Kubernetes",
+    "Model Optimization",
+    "ONNX",
+    "Vector DBs"
+  ],
+  "frameworks_mentioned": [
+    "Fine-tuning",
+    "Hugging Face Transformers",
+    "LangChain",
+    "OpenAI API",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role involves hands-on development of LLMs (fine-tuning, RAG\nsystems), Computer Vision models, and Speech AI solutions.\nThe engineer will build, deploy, and optimize AI models\ndirectly, including training custom LLMs and implementing\nmultimodal AI solutions, which clearly indicates working ON\nAI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "LangChain",
+      "Hugging Face Transformers",
+      "RAG",
+      "Prompt Engineering"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Fine-tuning"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask"
+    ],
+    "databases": [
+      "Vector DBs"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Model Optimization",
+      "ONNX"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "OpenCV",
+      "PIL",
+      "YOLO",
+      "Detectron2"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

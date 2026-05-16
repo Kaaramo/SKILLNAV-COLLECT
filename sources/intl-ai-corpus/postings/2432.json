@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2432",
+  "source": "intl-ai-corpus",
+  "source_ref": "8880310",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/8880310",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Raylu",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "16 Employees",
+  "company_stage": null,
+  "company_focus": "AI agent systems and automation platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "Position Summary\n\nWe’re hiring a product-oriented Senior AI Engineer who loves\ntinkering with LLMs and shipping real agent systems. We\nspend less time on fine-tuning and more on orchestration,\nevaluation, and reliability—so agents do real work safely,\nquickly, and repeatedly.\n\nWhat we’re looking for\n\n- Agentic systems: Function/tool calling, multi-step planning,\n  routing, memory, and retrieval.\n- Engineering first: You can wire up services, craft eval\n  harnesses, and debug latency/cost at scale.\n- LLM breadth: Comfortable comparing models/hosts, prompt\n  strategies, and guardrail techniques.\n- Product focus: You instrument outcomes, run A/Bs, and\n  iterate to improve task success rates.\n- Opinionated: Deep level of understanding of the\n  technological landscape, making both high level system and\n  granular code design decisions based on understanding\n  rather than preference - diving deep on unknown patterns\n  in order to build the best product.\n\nResponsibilities\n\n- Design, build, and productionize agent workflows end-to-end\n  (APIs, tools, evals, monitoring).\n- Create safety, cost, and latency controls; build dashboards\n  and alerts for reliability.\n- Partner with product/design to invent new interaction\n  patterns and ship them fast.\n- Document patterns and mentor engineers on best practices for\n  LLM-powered features.\n\nNice to have\n\n- Experience with workflow engines (e.g., Temporal), comfort\n  in full stack engineering\n\nLogistics:\n\n- Compensation: $165K - $250K salary, $100K-200K equivalent in\n  new hire equity (4 year vest)\n- Location: New York City. We are a fully in-office team\n  working out of Midtown Manhattan Monday through Friday. We\n  allow for WFH days when anyone is traveling, but we do not\n  allow for permanent remote work.\n- Benefits:\n  - Generous health, dental, and vision insurance\n  - 401k with 3% automatic contribution (no vesting)\n  - Paid Lunches\n  - Wellness and Citi Bike benefit\n",
+  "skills_required": [
+    "Agent systems",
+    "Anthropic API",
+    "Function calling",
+    "Guardrails",
+    "LangChain",
+    "LangGraph",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and productionize agent workflows end-to-end including APIs, tools, evals, and monitoring",
+    "Create safety, cost, and latency controls with dashboards and alerts for reliability",
+    "Partner with product and design teams to invent new interaction patterns and ship them quickly",
+    "Document patterns and mentor engineers on best practices for LLM-powered features"
+  ],
+  "use_cases": [
+    "Agentic systems with function calling and multi-step planning",
+    "Agent orchestration and routing for complex workflows",
+    "Memory and retrieval systems for AI agents",
+    "Task automation with safety and reliability controls"
+  ],
+  "tools_mentioned": [
+    "Datadog",
+    "FastAPI",
+    "LangSmith",
+    "REST APIs",
+    "React",
+    "Temporal"
+  ],
+  "frameworks_mentioned": [
+    "Agent systems",
+    "Anthropic API",
+    "Function calling",
+    "Guardrails",
+    "LangChain",
+    "LangGraph",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and productionizing LLM agent\nsystems with orchestration, evaluation, and reliability\nwork. The focus is on hands-on implementation of agentic\nsystems including function calling, multi-step planning, and\nretrieval - core AI/LLM engineering work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "OpenAI API",
+      "Anthropic API",
+      "Prompt engineering",
+      "Function calling",
+      "RAG",
+      "Guardrails",
+      "Agent systems"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST APIs",
+      "React"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Temporal",
+      "Datadog",
+      "LangSmith"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

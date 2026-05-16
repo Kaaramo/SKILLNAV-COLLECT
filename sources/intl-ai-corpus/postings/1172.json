@@ -1,0 +1,99 @@
+{
+  "job_id": "intl-ai-corpus-1172",
+  "source": "intl-ai-corpus",
+  "source_ref": "8242523",
+  "source_url": "https://builtin.com/job/data-engineer-data-engineering-solutions/8242523",
+  "title": "Software Engineer, Data & AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Stripe",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-14",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "5,360 Employees",
+  "company_stage": "Public",
+  "company_focus": "Financial infrastructure platform for payments and business\nservices",
+  "industries": [
+    "Payments",
+    "Software"
+  ],
+  "description": "Who we areAbout Stripe\n\nStripe is a financial infrastructure platform for\nbusinesses. Millions of companies - from the world’s largest\nenterprises to the most ambitious startups - use Stripe to\naccept payments, grow their revenue, and accelerate new\nbusiness opportunities. Our mission is to increase the GDP\nof the internet, and we have a staggering amount of work\nahead. That means you have an unprecedented opportunity to\nput the global economy within everyone's reach while doing\nthe most important work of your career.\n\nAbout the Organization\n\nThe Data Foundations team drives Data Engineering and Data\nApps & Tooling work across Stripe, enabling Stripes to\nleverage data to make informed decisions and build user-\ncentric products. We provide tools and infrastructure to\nmove, store, process, and analyze data, both at rest and in\nmotion.\n\n- Revenue and Finance Automation- Revenue and Finance\n  Automation (RFA) suite gives businesses power over the\n  entire life cycle of their cash flow. By coordinating\n  billing, tax, reporting, and data services in one modern\n  stack, Stripe’s revenue and finance automation suite\n  eliminates the inefficiencies of legacy finance tools and\n  supports revenue growth.\n- Data Engineering Solutions-  We are experts in data, working\n  to make it cost-effective, understandable, and\n  trustworthy. We build pipelines processing billions of\n  events a day and are stewards of canonical data warehouses\n  and datasets delivering products for Stripe Users while\n  embedding with teams to build their data products.  We are\n  experts in using the Stripe Data Platform and to scale we\n  lead the data culture and data education to enable product\n  teams to own their data. We invest in [AI] Data Ops to\n  scale incident handling and serve as an escalation path\n  for data incidents to minimize their impact. The Data\n  Engineering Solutions team will work closely with product\n  teams delivering trustworthy data / backend code / and\n  innovative (AI) tools/platforms/services for data..\n\nWhat you’ll do\n\nAs a Software Engineer, you will design and build platforms,\nand system solutions that are configurable and scalable\naround the globe. You will partner with many functions at\nStripe, with the opportunity to both work on financial\nplatform systems, as well as direct user-facing business\nimpact.\n\nResponsibilities\n\n- Design, build, and maintain APIs, services, and systems\n  across Stripe’s engineering teams.\n- Work with engineers across the company to build new features\n  at large-scale.\n- Maintain a collaborative environment, engaging in\n  discussions and decision-making processes with\n  stakeholders within various domains at Stripe.\n\nWho you are\n\nWe're looking for someone who meets the minimum requirements\nto be considered for the role. If you meet these\nrequirements, you are encouraged to apply. The preferred\nqualifications are a bonus, not a requirement.\n\nMinimum requirements\n\n- 4+ years of experience in delivering, extending, and\n  maintaining large scale distributed systems.\n- Love to design systems that are elegant abstractions over\n  complex patterns/practices, especially in the financial\n  industry.\n- Hold yourself and others to a high bar when working with\n  production systems.\n- Take pride in working on projects to successful completion\n  involving a wide variety of technologies and systems.\n- Think about systems, services, and platforms, and write high\n  quality code.\n- You have great product taste and a track record of taking\n  complex problems and solving them elegantly.\n- You are capable of working in ambiguous fast-moving\n  environments and have a curiosity to learn the domain to a\n  deep level.\n- Enjoy working with a diverse group of people with different\n  expertise.\n\nPreferred qualifications\n\n- Familiarity with large scale distributed systems.\n- Experience working in high-growth teams similar to Stripe.\n- If you meet the minimum requirements, we encourage you to\n  apply. Preferred qualifications are beneficial but not\n  mandatory.\n",
+  "skills_required": [
+    "Distributed Systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain APIs, services, and systems across Stripe's engineering teams",
+    "Build new features at large-scale working with engineers across the company",
+    "Maintain a collaborative environment engaging in discussions and decision-making with stakeholders",
+    "Create configurable and scalable platform solutions globally",
+    "Partner with various functions at Stripe on financial platform systems and user-facing business impact"
+  ],
+  "use_cases": [
+    "Data infrastructure enabling Stripes to leverage data for informed decisions",
+    "Building pipelines processing billions of events per day",
+    "Managing canonical data warehouses and datasets for Stripe products",
+    "Revenue and Finance Automation suite for billing, tax, reporting, and data services",
+    "AI Data Ops for scaling incident handling and data incident management"
+  ],
+  "tools_mentioned": [
+    "API Design",
+    "Data Pipelines",
+    "Data Warehouses",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a general software engineering role on a Data\nFoundations team that builds data infrastructure and\nplatforms. While the team \"invests in AI Data Ops\" and\nbuilds \"innovative (AI) tools/platforms/services,\" the role\nitself focuses on designing systems, APIs, and distributed\ninfrastructure - not on building, training, fine-tuning, or\ndeploying AI models. The work enables AI work for others\nrather than directly working on AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "API Design",
+      "REST APIs"
+    ],
+    "databases": [
+      "Data Warehouses"
+    ],
+    "data": [
+      "Data Pipelines"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "Java",
+      "Go",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed Systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

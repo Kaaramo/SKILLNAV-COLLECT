@@ -1,0 +1,132 @@
+{
+  "job_id": "intl-ai-corpus-2204",
+  "source": "intl-ai-corpus",
+  "source_ref": "8804541",
+  "source_url": "https://builtin.com/job/senior-mlops-engineer/8804541",
+  "title": "Lead AI Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Prolific",
+  "company_type": "entité morale privée",
+  "location": "GBR",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-23",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": null,
+  "company_focus": "Platform connecting researchers with human participants for\nbehavioral data collection to improve AI systems",
+  "industries": [],
+  "description": "Lead AI Platform Engineer\n\nThe Role\n\nAs a Lead AI Platform Engineer, you will be the backbone of\nour AI production lifecycle. You will bridge the gap between\nresearch and real-world application, ensuring our Data\nScientist, AI Researchers, Product teams and others in the\ncompany have the high-performance infrastructure, automated\npipelines, and deployment strategies needed to ship state-\nof-the-art models and agents at scale.\n\nWho We’re Looking For\n\n- 5+ years experience with cloud infrastructure and\n  infrastructure as code.\n- Previous experience with the ML and LLM lifecycle -\n  training, hosting, optimisation, observability.\n- Used to working closely with researchers and data scientists\n  - taking experiments from worksheets into production.\n- Strong grasp of ML fundamentals and modern GenAI stack.\n\nWhat You’ll be Doing\n\nInfrastructure & Platform Engineering\n\n- Infrastructure as Code (IaC): Design and maintain scalable\n  cloud environments (GCP/AWS) using Terraform.\n\n- Resource Provisioning: Manage GPU/TPU resource allocation\n  for training, fine-tuning, and interactive notebooks.\n- Custom Tooling: Build internal services and CLI tools to\n  streamline the developer experience for the AI team.\n\nML & LLM Orchestration\n\n- Automated Pipelines: Design CI/CD and training pipelines\n  using tools such as GitHub Actions, MLFlow, Vertex AI\n  Pipelines. Ensure high quality training data (e.g.\n  introducing a feature store).\n- Deployment Methodology: Develop reusable patterns for model\n  serving. Managing service deployments to Kubernetes.\n- Vector Infrastructure: Manage and optimize vector databases\n  and embedding pipelines for RAG-based systems.\n- Observability and Reliability: Model drift monitoring,\n  resource utilisation, LLM and agent tracing.\n\nPerformance & Optimization\n\n- Inference Optimization: Implement techniques to reduce\n  latency and increase throughput (quantisation,\n  distillation, etc…)\n- Cold Start Mitigation: Solve scaling bottlenecks for\n  serverless or containerized model deployments.\n- Cost Management: Optimize GPU utilization and cloud spend\n  without compromising performance.\n\nAI Enablement\n\n- Support AI Agent Deployment: Define and create tooling and\n  service templates around agent deployment (tool libraries,\n  tracing, default agent frameworks, skills, etc…).\n- Enablement for non-technical agent users: Help create\n  workflows and guidance on no-code/low-code agent platforms\n  (n8n, LangSmith, or similar). Create tooling and policies\n  to enable safe usage of local agents such as Claude code.\n\n\n\nWhy Prolific is a great place to work\n\nWe've built a unique platform that connects researchers and\ncompanies with a global pool of participants, enabling the\ncollection of high-quality, ethically sourced human\nbehavioral data and feedback. This data is the cornerstone\nof developing more accurate, nuanced, and aligned AI\nsystems.\n\nWe believe that the next leap in AI capabilities won't come\nsolely from scaling existing models but from integrating\ndiverse human perspectives and behaviors into AI\ndevelopment. By providing this crucial human data\ninfrastructure, Prolific is positioning itself at the\nforefront of the next wave of AI innovation—one that\nreflects the breadth and the best of humanity.\n\nWorking for us will place you at the forefront of AI\ninnovation, providing access to our unique human data\nplatform and opportunities for groundbreaking research. Join\nus to enjoy a competitive salary, benefits, and remote\nworking within our impactful, mission-driven culture.\n\n\n\nLinks to more information on Prolific\n\nBenefits\n\nExternal Handbook\n\nWebsite\n\nYoutube\n\n\n\nPrivacy Statement\n\nBy submitting your application, you agree that Prolific may\ncollect your personal data for recruiting and global\norganization planning. Prolific's Candidate Privacy Notice\nexplains what personal information Prolific may process,\nwhere Prolific may process your personal information, its\npurposes for processing your personal information, and the\nrights you can exercise over Prolific use of your personal\ninformation.\n",
+  "skills_required": [
+    "Distillation",
+    "GPU/TPU management",
+    "Model inference optimization",
+    "Quantization",
+    "RAG",
+    "n8n"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and maintain scalable cloud environments using Infrastructure as Code (Terraform)",
+    "Manage GPU/TPU resource allocation for training, fine-tuning, and interactive notebooks",
+    "Build internal services and CLI tools to streamline developer experience for AI teams",
+    "Design CI/CD and training pipelines using MLFlow, Vertex AI Pipelines, and introduce feature stores",
+    "Develop reusable patterns for model serving and manage Kubernetes deployments",
+    "Manage and optimize vector databases and embedding pipelines for RAG-based systems",
+    "Implement inference optimization techniques including quantization and distillation",
+    "Define and create tooling and service templates for AI agent deployment"
+  ],
+  "use_cases": [
+    "Supporting AI researchers and data scientists with production infrastructure",
+    "Enabling RAG-based systems through vector database management",
+    "Deploying and monitoring AI agents with tracing and observability",
+    "Optimizing model inference for latency and throughput",
+    "Enabling non-technical users with low-code/no-code agent platforms"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Feature store",
+    "GCP",
+    "GitHub Actions",
+    "Kubernetes",
+    "LLM tracing",
+    "LangSmith",
+    "MLFlow",
+    "Model drift monitoring",
+    "Terraform",
+    "Vector databases",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "Distillation",
+    "GPU/TPU management",
+    "Model inference optimization",
+    "Quantization",
+    "RAG",
+    "n8n"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a platform/infrastructure role that enables AI teams\nto work effectively, rather than building models directly.\nThe role focuses on building infrastructure, pipelines, and\ndeployment strategies FOR data scientists and AI\nresearchers, not training or fine-tuning models themselves.\nWhile it involves ML/LLM lifecycle management, the core work\nis infrastructure and enablement.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "n8n"
+    ],
+    "ml": [
+      "GPU/TPU management",
+      "Model inference optimization",
+      "Quantization",
+      "Distillation"
+    ],
+    "web": [],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Feature store"
+    ],
+    "cloud": [
+      "GCP",
+      "AWS",
+      "Vertex AI"
+    ],
+    "ops": [
+      "Terraform",
+      "MLFlow",
+      "GitHub Actions",
+      "Kubernetes",
+      "LangSmith",
+      "Model drift monitoring",
+      "LLM tracing"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

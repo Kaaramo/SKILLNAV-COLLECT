@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0457",
+  "source": "intl-ai-corpus",
+  "source_ref": "8058087",
+  "source_url": "https://www.builtinla.com/job/ai-software-engineer-agents-ace/8058087",
+  "title": "Simulation Engineer / AI Physicist (ACE)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Voyager Technologies",
+  "company_type": "entité morale privée",
+  "location": "US",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-18",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "Defense, national security, and space technology",
+  "industries": [],
+  "description": "Voyager is an innovative defense, national security and\nspace technology company committed to advancing and\ndelivering transformative, mission-critical solutions. We\ntackle the most complex challenges to unlock new frontiers\nfor human progress, fortify national security, and protect\ncritical assets to lead in the race for technological and\noperational superiority from ground to space.\n\nForge the Future: Join Voyager Technologies\n\nThe future belongs to those who build it. At Voyager\nTechnologies, we’re building technologies that protect\nlives, expand frontiers and prepare us for what’s next. And\nwe’re doing that with people who are wired to solve, build,\nadapt and lead. These roles are not for the faint of heart. \n\nYou’ll help lay the foundation for humanity's future. Join a\nculture where innovation thrives, curiosity is rewarded, and\nimpact is real. We’re a company of doers, thinkers and\nbuilders, united by purpose and grounded in reality.\n\nIf you want to put your skills to work where the stakes are\nreal and the mission is bigger than any one person, forge\nthe future with Voyager.\n\n____________________________________________________________\n________________________\n\nJob Summary:\n\nWe are seeking an AI Software Engineer – Agents to build and\nharden the domain-specific agents that power the Agentic\nComputational Engineering platform. In this role, you will\ndesign, implement, and maintain AI agents that behave like\nfocused junior engineers – thermal analysts, supply-chain\nscouts, G-code validators, and more.\n\nYou will sit at the intersection of prompt engineering, tool\nintegration, and evaluation. This role is a fit for someone\nwho already uses LLMs daily, who gets impatient when they\ncan’t automate a task, and who wants to see their agents\nmove real hardware in the loop, not just push text around.\n\nYou will be joining the Agentic Computational Engineering\n(ACE) team, a specialized group within our Advanced\nTechnology Development organization. ACE is responsible for\nbuilding Voyager’s Generative Engine – the AI-native\nplatform that compresses complex hardware development cycles\nfrom years to days. We design agentic AI systems that pair\ndeeply with physics simulation, test data, and modern\nmanufacturing so that Design for Manufacturing (DfM), Design\nfor Assembly (DfA), and Design for Test (DfT) are built into\nthe very first line of code and the very first sketch of a\ndesign.\n\nResponsibilities:\n\n- Design, implement, and deploy production-ready AI agents\n  using frameworks such as LangGraph or Agent Development\n  Kits from Google, OpenAI, or Anthropic.\n- Define clear agent roles, goals, and capabilities, including\n  prompts, tool schemas, and decision-making loops (e.g.,\n  ReAct, plan-and-solve).\n- Develop and maintain Model Context Protocol (MCP) servers\n  that expose Voyager’s internal systems (PLM, ERP,\n  simulation, repositories) to agents.\n- Integrate external and internal engineering tools (e.g.,\n  Ansys, Altium, SolidWorks, Python toolchains) as robust,\n  secure agent tools.\n- Build evaluation suites and benchmarks that measure agent\n  performance on realistic tasks (e.g., exam-style physics\n  problems, PCB routing, CAD edits).\n- Collaborate closely with domain experts to encode\n  manufacturing, test, and safety constraints directly into\n  agent behavior.\n- Use LLMs as a development accelerator for scaffolding code,\n  writing tests, and generating documentation for agent\n  systems.\n\nRequired Qualifications:\n\n- 1–5 years of professional software engineering experience\n  (exceptional new graduates and early-career engineers\n  encouraged to apply).\n- Strong proficiency in Python and experience building backend\n  services and APIs or ability to rapidly learn (REST/gRPC).\n- Hands-on experience building LLM-powered agents or tools\n  using frameworks such as LangChain/LangGraph or similar\n  (professional, research, or serious personal projects).\n- Demonstrated habit of using LLMs and agents to accelerate\n  development rather than writing all boilerplate by hand.\n- Experience designing and documenting clean, versioned APIs\n  and data schemas.\n\nPreferred Qualifications:\n\n- Bachelor’s degree in Computer Science, Engineering, Physics,\n  Mathematics, or a related field; or equivalent experience.\n- Ability to read and reason about schematics, mechanical\n  drawings, and technical documentation.\n- Portfolio of personal projects involving robotics, 3D\n  printing, electronics, or other physical-world builds.\n- Experience building internal tooling for engineering, R&D,\n  or manufacturing organizations.\n- The strongest candidates will provide links to outstanding\n  work (or descriptions when not possible to link) and\n  evidence of experience and passion for leveraging agentic\n  teams for rapid development.\n\nVoyager offers a comprehensive, total compensation package,\nwhich includes competitive salary, a discretionary annual\nbonus plan, paid time off (PTO), a comprehensive health\nbenefit package, retirement savings, wellness program, and\nvarious other benefits. When you join our team, you’re not\njust an employee; you become part of a dynamic community\ndedicated to innovation and excellence.\n\nTo conform to U.S. Government space technology export\nregulations, including the International Traffic in Arms\nRegulations (ITAR) you must be a U.S. citizen, lawful\npermanent resident of the U.S., protected individual as\ndefined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the\nrequired authorizations from the U.S. Department of State.\n\nVoyager is an Equal Opportunity Employer. Employment\ndecisions are made without regard to race, color, religion,\nnational or ethnic origin, sex, sexual orientation, gender\nidentity or expression, age, disability, protected veteran\nstatus or other characteristics protected by law. \n\nMinority/Female/Disabled/Veteran\n\nThe statements contained in this job description are\nintended to describe the general content and requirements\nfor performance of this job. It is not intended to be an\nexhaustive list of all job duties, responsibilities, and\nrequirements. This job description is not an employment\nagreement or contract. Management has the exclusive right to\nalter the scope of work within the framework of this job\ndescription at any time without prior notice.\n\nCalifornia pay range\n\n$120,000—$180,000 USD\n\nWashington DC pay range\n\n$120,000—$180,000 USD\n\nWashington pay range\n\n$120,000—$180,000 USD\n",
+  "skills_required": [
+    "Anthropic API",
+    "Google Agent Development Kit",
+    "LangChain",
+    "LangGraph",
+    "Model Context Protocol (MCP)",
+    "OpenAI API",
+    "ReAct",
+    "agents",
+    "function calling",
+    "plan-and-solve",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and deploy production-ready AI agents using frameworks such as LangGraph or Agent Development Kits",
+    "Define clear agent roles, goals, and capabilities including prompts, tool schemas, and decision-making loops",
+    "Develop and maintain Model Context Protocol (MCP) servers that expose Voyager's internal systems to agents",
+    "Integrate external and internal engineering tools as robust, secure agent tools",
+    "Build evaluation suites and benchmarks that measure agent performance on realistic engineering tasks",
+    "Collaborate with domain experts to encode manufacturing, test, and safety constraints into agent behavior",
+    "Use LLMs as a development accelerator for scaffolding code, writing tests, and generating documentation"
+  ],
+  "use_cases": [
+    "Thermal analysis agents that simulate and optimize thermal characteristics of hardware designs",
+    "Supply-chain scouting agents that identify and evaluate components and materials",
+    "G-code validation agents that verify manufacturing instructions for CNC machines",
+    "Design for Manufacturing (DfM) automation to embed manufacturability constraints early in design",
+    "Physics simulation integration to test designs against real-world physical constraints",
+    "CAD and PCB routing automation to accelerate hardware development cycles"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "REST",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "Google Agent Development Kit",
+    "LangChain",
+    "LangGraph",
+    "Model Context Protocol (MCP)",
+    "OpenAI API",
+    "ReAct",
+    "agents",
+    "function calling",
+    "plan-and-solve",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building, deploying, and maintaining\nproduction-ready AI agents using frameworks like LangGraph\nand Agent Development Kits. The engineer will work directly\non implementing agentic systems with prompts, tool schemas,\nand decision-making loops, not just supporting\ninfrastructure for others who work on AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "OpenAI API",
+      "Anthropic API",
+      "Google Agent Development Kit",
+      "Model Context Protocol (MCP)",
+      "prompt engineering",
+      "ReAct",
+      "plan-and-solve",
+      "agents",
+      "function calling"
+    ],
+    "ml": [],
+    "web": [
+      "REST",
+      "gRPC",
+      "APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

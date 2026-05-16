@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-0570",
+  "source": "intl-ai-corpus",
+  "source_ref": "8254649",
+  "source_url": "https://builtin.com/job/sr-software-engineer-ai/8254649",
+  "title": "Sr Software Engineer, AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Basis",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "815 Employees",
+  "company_stage": null,
+  "company_focus": "Software for automating digital media operations and\nprogrammatic advertising",
+  "industries": [
+    "AdTech",
+    "Digital Media",
+    "Marketing Tech",
+    "Software",
+    "Automation"
+  ],
+  "description": "WHO WE ARE\n\nAt Basis, we empower agencies and brands with cutting-edge\nsoftware that automates digital media operations. Our all-\nin-one platform supports seamless planning, reporting, and\nfinancial reconciliation across direct, programmatic,\nsearch, and social media.\n\nWe’re not just building advanced technology; we’re also\nbuilding a culture where passionate, motivated individuals\ncome together to drive meaningful change. Our commitment to\ninclusivity and growth ensures our employees thrive both\nprofessionally and personally.\n\nWith our headquarters in Chicago, we offer flexible work\noptions across the U.S. and Canada, including remote,\nhybrid, or on-site at headquarters.\n\nABOUT THE TEAM\n\nTechnology is at the core of what we do. The Agent\nEngineering team at Basis Technologies builds and scales\nintelligent systems that power our programmatic advertising\nplatform. We work closely with Data Science, Product, and\nPlatform teams to deliver LLM-powered automation, media\nplanning intelligence, optimization, and analytics across\nthe media buying lifecycle.\n\nOur mission is to build production-grade agentic systems\nthat drive measurable impact and redefine what's possible in\nprogrammatic advertising.\n\nWAYS YOU'LL CONTRIBUTE\n\nAs a Senior Engineer, you'll be at the forefront of building\nagent systems that transform how media professionals plan\nand execute campaigns. You will balance rapid prototyping\nwith production-quality delivery to ship solutions that\ncustomers love. To be successful, you will contribute by:\n\n- Collaborating with Data Science and Product teams to design,\n  build, and ship LLM-powered features across our media\n  buying platform.\n- Designing and building agents using frameworks including\n  LangChain and LangGraph to automate complex media planning\n  workflows.\n- Developing MCP servers and APIs that connect internal and\n  external agents to our media buying toolkit.\n- Building and tuning agent orchestration workflows, including\n  evaluation and observability, to ensure agents reason,\n  plan, and execute reliably.\n- Rapidly experimenting with emerging agentic approaches while\n  guiding stable, scalable architectural decisions.\n\nWHAT YOU BRING TO THE TABLE\n\n- 5+ years of experience in software engineering, with recent\n  hands-on work building LLM-powered applications or agent\n  systems.\n- Strong proficiency in Python, with experience building\n  production APIs, backend services, and integrations with\n  emerging protocols such as MCP.\n- Familiarity with agent frameworks such as LangChain or\n  LangGraph, and experience with evaluation tools like\n  LangSmith or Langfuse.\n- Ability to move quickly from prototype to production,\n  balancing speed with code quality and reliability.\n- Strong communication skills, a collaborative mindset, and\n  commitment to creating inclusive environments where all\n  voices are valued.\n\nBONUS POINTS\n\n- Prior experience in ad tech, media planning systems, or\n  programmatic advertising platforms.\n- Experience designing skill-based or MCP tool sets for\n  autonomous agents.\n- Experience building, tuning, and evaluating production-grade\n  agentic systems. Preference towards patterns such as\n  asynchronous agents and event driven systems.\n- Familiarity with prompt engineering, structured outputs, and\n  techniques for improving agent reliability.\n- Experience with RAG systems, vector databases, or knowledge\n  retrieval approaches.\n- Background in building developer tools, SDKs, or API-first\n  products.\n\nOUR TECH STACK\n\n- Languages: Python\n- Agent Frameworks: LangChain, LangGraph, Claude Agent SDK\n- Protocols & Integrations: MCP, REST APIs\n- Evaluation: Langfuse, custom evaluation frameworks\n- Data: Snowflake, S3\n- Infrastructure: AWS\n\nIntegrity in Hiring\n\n At Basis, integrity is at the core of how we hire. To\nprotect our candidates and our company, we verify identity,\neducation, and employment history for all hires. Some roles\nmay also require onsite or in-person interviews as part of\nthe process. Any misrepresentation of identity, experience,\nor skills may result in removal from the hiring process or\ntermination of employment. We value transparency and\nauthenticity and expect the same from every applicant.\n\nAnything Else?\n\nDon’t have every skill listed? No problem! We know\nexperience can be built in many ways. If you have relevant\nskills that aren't reflected in your resume, we encourage\nyou to share them in an optional cover letter.\n\nLife with Basis\n\nWe’re committed to our people’s growth and well-being\nbecause our success is tied to theirs. That’s why we’ve\nearned recognition as a top workplace, including: Ad Age, #1\nBest Places to Work 2025, WorkLife's #1 Most Committed to\nWork Life Balance, and the Chicago Tribune's Top Workplaces\nin Chicago. We offer competitive perks, including a flexible\nwork week, 401k/RRSP matching, mental health support, paid\nsabbaticals, generous parental leave, flexible work options,\nand more.\n\nBasis is proud to be an equal-opportunity employer. We\ncelebrate all team members regardless of gender identity,\nsexual orientation, race or cultural background, religion,\ndisability, age, and beyond.\n\nIf you need assistance with interview accessibility, please\ncontact talent.acquisition@basis.com. Your privacy is\nimportant to us, view our policy here.\n",
+  "skills_required": [
+    "Claude Agent SDK",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "RAG",
+    "agents",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate with Data Science and Product teams to design, build, and ship LLM-powered features across the media buying platform",
+    "Design and build agents using frameworks including LangChain and LangGraph to automate complex media planning workflows",
+    "Develop MCP servers and APIs that connect internal and external agents to the media buying toolkit",
+    "Build and tune agent orchestration workflows, including evaluation and observability, to ensure agents reason, plan, and execute reliably",
+    "Rapidly experiment with emerging agentic approaches while guiding stable, scalable architectural decisions"
+  ],
+  "use_cases": [
+    "LLM-powered automation for media planning and campaign execution",
+    "Agentic systems that automate complex media planning workflows",
+    "Media planning intelligence, optimization, and analytics across the media buying lifecycle",
+    "Programmatic advertising platform powered by intelligent agent systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "LangSmith",
+    "Langfuse",
+    "REST APIs",
+    "S3",
+    "Snowflake",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Claude Agent SDK",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "RAG",
+    "agents",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building LLM-powered agent\nsystems using LangChain, LangGraph, and Claude Agent SDK.\nThe engineer will design, build, and tune agent\norchestration workflows, develop MCP servers, and deploy\nproduction-grade agentic systems for automating media\nplanning workflows.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Claude Agent SDK",
+      "MCP",
+      "prompt engineering",
+      "RAG",
+      "agents"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Snowflake",
+      "S3",
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Langfuse",
+      "LangSmith"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

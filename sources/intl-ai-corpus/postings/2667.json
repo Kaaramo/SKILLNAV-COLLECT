@@ -1,0 +1,147 @@
+{
+  "job_id": "intl-ai-corpus-2667",
+  "source": "intl-ai-corpus",
+  "source_ref": "8959601",
+  "source_url": "https://builtin.com/job/senior-ai-engineer-riyadh-ksa/8959601",
+  "title": "Senior Ai Engineer - Riyadh,KSA",
+  "title_normalized": "AI_ENGINEER",
+  "company": "DeepSource",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-05",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10 Employees",
+  "company_stage": null,
+  "company_focus": "AI and machine learning solutions for enterprise",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Software"
+  ],
+  "description": "We are looking for a highly capable Senior AI Engineer /\nMLOps Engineer to join our team and lead the design,\ndevelopment, deployment, and optimization of scalable,\nproduction-grade AI and machine learning solutions. The\nideal candidate will have strong hands-on experience across\nAI engineering, machine learning, MLOps, cloud-native\narchitecture, and data engineering, with the ability to\ntransform experimentation into reliable, business-ready\nsystems.\n\nThis role requires deep expertise in LLMs, RAG, agentic AI\nworkflows, CI/CD automation, production ML lifecycle\nmanagement, and modern data platforms. The selected\ncandidate will be expected to lead end-to-end AI\ninitiatives, work across multiple projects, collaborate with\ntechnical and business stakeholders, and ensure operational\nexcellence across AI platforms.\n\nKey Responsibilities\n\n• Design, develop, deploy, and maintain production-grade AI\nand machine learning systems end to end.\n\n• Build and optimize LLM-powered applications, including RAG\npipelines, prompt workflows, agent-based systems, and\nmultimodal AI use cases.\n\n• Develop intelligent workflows using tool-calling,\norchestration frameworks, and contextual reasoning patterns.\n\n• Fine-tune, evaluate, and operationalize machine learning\nand foundation models for enterprise use cases.\n\n• Build and manage MLOps pipelines covering training,\nevaluation, model registration, deployment, monitoring, and\nretraining.\n\n• Implement CI/CD pipelines for ML and AI workflows to\nsupport automated testing, release management, and\ncontrolled deployments.\n\n• Establish model monitoring frameworks for drift detection,\nfeature attribution, inference quality, and performance\ntracking.\n\n• Ensure reproducibility, reliability, and version control\nacross AI/ML environments.\n\n• Architect scalable AI/ML platforms using modern compute,\nstorage, orchestration, monitoring, and search services.\n\n• Build repeatable environments using Infrastructure as\nCode.\n\n• Support secure, high-availability, and cost-efficient\ndeployment models across development, staging, and\nproduction environments.\n\n• Design scalable inference and serving patterns for\nvariable workloads.\n\n• Build and maintain automated data pipelines, ETL/ELT\nworkflows, and data processing frameworks for AI/ML\nconsumption.\n\n• Ensure data quality, lineage, governance, and versioning\nto support dependable model training and inference.\n\n• Work with structured and unstructured datasets across data\nlakes, data warehouses, and operational systems.\n\n• Deliver analytics-ready datasets to downstream systems and\napplications.\n\n• Lead multiple AI initiatives in parallel, including\nplanning, execution, and coordination with internal teams\nand stakeholders.\n\n• Work closely with product, engineering, data, and business\nteams to deliver production-ready AI capabilities.\n\n• Contribute to architecture decisions, technical\ndocumentation, best practices, and engineering standards.\n\n• Support knowledge sharing, technical leadership, and\ncontinuous improvement across the AI function.\n\nRequirements\n\n• Bachelor’s degree in Computer Engineering, Computer\nScience, Artificial Intelligence, Data Science, or a related\nfield.\n\n• 5+ years of hands-on experience in AI engineering, machine\nlearning engineering, MLOps, or data/ML platform\nengineering.\n\n• Proven experience deploying production AI/ML solutions in\nenterprise environments.\n\n• Strong programming experience in Python and SQL.\n\n• Strong experience with enterprise AI/ML architecture and\ndelivery.\n",
+  "skills_required": [
+    "Agentic AI workflows",
+    "Foundation models",
+    "Function calling / tool-calling",
+    "LLMs",
+    "Model fine-tuning",
+    "Orchestration frameworks",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, deploy, and maintain production-grade AI and ML systems end to end",
+    "Build and optimize LLM-powered applications including RAG pipelines, prompt workflows, agent-based systems, and multimodal AI use cases",
+    "Fine-tune, evaluate, and operationalize machine learning and foundation models for enterprise use cases",
+    "Build and manage MLOps pipelines covering training, evaluation, model registration, deployment, monitoring, and retraining",
+    "Implement CI/CD pipelines for ML and AI workflows with automated testing, release management, and controlled deployments",
+    "Architect scalable AI/ML platforms using modern compute, storage, orchestration, monitoring, and search services",
+    "Build and maintain automated data pipelines, ETL/ELT workflows, and data processing frameworks for AI/ML consumption",
+    "Lead multiple AI initiatives in parallel, collaborating with product, engineering, data, and business teams"
+  ],
+  "use_cases": [
+    "LLM-powered enterprise applications with RAG and agentic workflows",
+    "Production ML model deployment, monitoring, and lifecycle management",
+    "Multimodal AI use cases for enterprise customers",
+    "Scalable inference and serving for variable workloads",
+    "Automated data pipelines and ETL workflows for AI/ML consumption"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Cloud-native architecture",
+    "Data lakes and data warehouses",
+    "Data pipelines",
+    "Data quality and governance",
+    "Docker",
+    "ETL/ELT",
+    "Infrastructure as Code",
+    "Kubernetes",
+    "MLOps",
+    "MLflow",
+    "Model monitoring",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI workflows",
+    "Foundation models",
+    "Function calling / tool-calling",
+    "LLMs",
+    "Model fine-tuning",
+    "Orchestration frameworks",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely focused on building, deploying, and\noptimizing AI/ML systems end-to-end, including LLM-powered\napplications, RAG pipelines, agent-based systems, fine-\ntuning foundation models, and MLOps pipelines. The candidate\nworks directly ON AI models and systems, making this an ai-\nfirst role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "Agentic AI workflows",
+      "Prompt engineering",
+      "Function calling / tool-calling",
+      "Orchestration frameworks"
+    ],
+    "ml": [
+      "Model fine-tuning",
+      "Foundation models"
+    ],
+    "web": [],
+    "databases": [
+      "Vector databases",
+      "Data lakes and data warehouses"
+    ],
+    "data": [
+      "ETL/ELT",
+      "Data pipelines",
+      "Data quality and governance"
+    ],
+    "cloud": [
+      "Cloud-native architecture"
+    ],
+    "ops": [
+      "MLOps",
+      "CI/CD",
+      "Model monitoring",
+      "Docker",
+      "Kubernetes",
+      "Infrastructure as Code",
+      "MLflow"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

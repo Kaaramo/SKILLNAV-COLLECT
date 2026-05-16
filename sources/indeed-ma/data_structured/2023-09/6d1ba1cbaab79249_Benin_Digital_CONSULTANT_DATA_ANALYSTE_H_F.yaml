@@ -1,0 +1,33 @@
+company:
+  name: Bénin Digital
+  stage: null
+  focus: null
+position:
+  title: CONSULTANT DATA ANALYSTE - H/F
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - datalake
+    - sql
+    cloud:
+    - gcp
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - power bi
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: 6d1ba1cbaab79249
+  extracted_at: '2026-05-16T01:30:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

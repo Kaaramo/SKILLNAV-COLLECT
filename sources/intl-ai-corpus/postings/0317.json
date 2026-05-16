@@ -1,0 +1,154 @@
+{
+  "job_id": "intl-ai-corpus-0317",
+  "source": "intl-ai-corpus",
+  "source_ref": "7772649",
+  "source_url": "https://builtin.com/job/senior-ml-engineer-llm-agentic-ai/7772649",
+  "title": "Senior ML Engineer (LLM, Agentic AI)",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Nisos",
+  "company_type": "entité morale privée",
+  "location": "GBR",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "70 Employees",
+  "company_stage": null,
+  "company_focus": "Human risk management and threat intelligence",
+  "industries": [
+    "Professional Services",
+    "Security",
+    "Software",
+    "Consulting",
+    "Cybersecurity",
+    "Generative AI",
+    "Data Privacy"
+  ],
+  "description": "Who Is Nisos?\n\nNisos is the human risk management company specializing in\nunmasking threats before they escalate. We are a trusted\nadvisor who operates as an extension of security,\nintelligence, legal, and human resource teams to protect\ntheir people and business. Our intelligence-led solutions\nhelp enterprises make critical decisions, manage human risk,\nand drive real world consequences for digital threats.\n\nFor more information, visit: https://www.nisos.com.\n\nWhat Is The Opportunity?\n\nJoin an AI/ML team designing and shipping production ML\nsystems that combine Large Language Models (LLMs),\nretrieval-augmented generation (RAG), and modern agent\nframeworks for multi-step decision making. You will help\nturn massive, noisy data into actionable intelligence for\nanalysts and customers.\n\nWhat Are The Responsibilities?\n\n- Integrate and fine-tune LLMs for natural-language\n  understanding, reasoning, and multi-step tool\n  orchestration.\n- Build agentic workflows (e.g. using LangGraph) to coordinate\n  complex tasks across data sources and services.\n- Architect and implement AI/ML features for pattern\n  recognition, entity extraction, and automated intelligence\n  gathering at scale.\n- Develop scalable data pipelines and streaming architectures\n  that process billions of heterogeneous data points.\n- Create and optimize vector databases and retrieval systems\n  for semantic search and RAG.\n- Deliver production-ready APIs and microservices supporting\n  real-time analysis and model inference.\n- Own model deployment and monitoring using modern ML/LLMOps\n  practices; drive continuous improvement in accuracy,\n  latency, and cost.\n- Evaluate LLM systems with offline metrics, golden test sets,\n  prompt A/B tests, latency & cost optimisation.\n- Collaborate with analysts and product teams to translate\n  intelligence needs into robust ML solutions.\n\nWho You Are\n\n- Expert proficiency in Python, with experience of at least\n  one of deep learning frameworks, PyTorch and TensorFlow\n- Hands-on with LangChain, LangGraph, AutoGen or similar agent\n  LLM frameworks\n- Deep experience with prompt engineering, foundation model\n  API integration and LLM finetuning\n- Expertise in RAG systems with vector databases (Pinecone,\n  Weaviate) and embedding technologies\n- Strong experience with LLMOps practices for observability\n  and traceability and LLM evaluation.\n- Deep understanding of distributed systems, microservices,\n  and real-time streaming architectures\n- Strong containerization and infrastructure skills (Docker,\n  ECS, Terraform, CloudFormation)\n- Experience building production AI systems with strong\n  safety, privacy, and ethical practices\n- Familiarity with computer vision and NLP techniques for\n  OSINT\n- Understanding of adversarial AI and security implications\n\nRequired Education and Experience\n\n- Degree in Computer Science, AI/ML, or equivalent experience\n- Substantive experience in building AI/ML products at scale\n  with proven experience in LLMs, RAGs or Agentic AI\n  solutions\n- Proven experience shipping production AI systems at scale\n- Track record of building systems that process and analyze\n  large-scale unstructured data\n- Experience in security, intelligence, or OSINT platforms\n  preferred\n\nWhere will you work?\n\n- Hybrid office schedule: employees balance working remotely\n  and working at our office in Belfast City Centre.\n- Flexible schedule: employees generally work normal business\n  hours. We routinely meet in the afternoon with US-based\n  colleagues, but we rarely schedule meetings earlier than 8\n  am or past 6 pm local time.\n\nWhat equipment will you use?\n\nThe position requires use of Macbooks and MacOS. We ensure\nyou can work well from home by providing Macbook Pros,\nmonitors, peripherals, and noise-canceling headphones.\n",
+  "skills_required": [
+    "AutoGen",
+    "LLM fine-tuning",
+    "LangChain",
+    "LangGraph",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Integrate and fine-tune LLMs for natural-language understanding, reasoning, and multi-step tool orchestration",
+    "Build agentic workflows using LangGraph to coordinate complex tasks across data sources and services",
+    "Architect and implement AI/ML features for pattern recognition, entity extraction, and automated intelligence gathering at scale",
+    "Develop scalable data pipelines and streaming architectures that process billions of heterogeneous data points",
+    "Create and optimize vector databases and retrieval systems for semantic search and RAG",
+    "Deliver production-ready APIs and microservices supporting real-time analysis and model inference",
+    "Own model deployment and monitoring using modern ML/LLMOps practices with focus on accuracy, latency, and cost",
+    "Evaluate LLM systems using offline metrics, golden test sets, and prompt A/B tests"
+  ],
+  "use_cases": [
+    "Process and analyze large-scale unstructured data for threat intelligence",
+    "Implement automated pattern recognition and entity extraction for intelligence gathering",
+    "Enable multi-step reasoning and tool orchestration for complex security analysis",
+    "Provide real-time semantic search and retrieval over intelligence data",
+    "Support OSINT (Open Source Intelligence) analysis with NLP and computer vision techniques"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "CloudFormation",
+    "Docker",
+    "ECS",
+    "FastAPI",
+    "Kafka",
+    "LLMOps",
+    "Pinecone",
+    "REST",
+    "Spark",
+    "Terraform",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "LLM fine-tuning",
+    "LangChain",
+    "LangGraph",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying LLM-based\nsystems including fine-tuning models, implementing RAG, and\ncreating agentic workflows with LangGraph. The engineer owns\nmodel deployment, evaluation, and optimization - hands-on\nwork with AI systems rather than supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "AutoGen",
+      "prompt engineering",
+      "RAG"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "LLM fine-tuning"
+    ],
+    "web": [
+      "FastAPI",
+      "REST"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate"
+    ],
+    "data": [
+      "Kafka",
+      "Spark",
+      "Airflow"
+    ],
+    "cloud": [
+      "ECS"
+    ],
+    "ops": [
+      "LLMOps",
+      "Docker",
+      "Terraform",
+      "CloudFormation"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP",
+      "CV"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

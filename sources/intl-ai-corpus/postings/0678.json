@@ -1,0 +1,114 @@
+{
+  "job_id": "intl-ai-corpus-0678",
+  "source": "intl-ai-corpus",
+  "source_ref": "8331644",
+  "source_url": "https://builtin.com/job/machine-learning-engineer-ai-foundations/8331644",
+  "title": "Machine Learning Engineer, AI Foundations",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Waymo",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,359 Employees",
+  "company_stage": "Public (Alphabet subsidiary)",
+  "company_focus": "Autonomous driving technology",
+  "industries": [],
+  "description": "Waymo is an autonomous driving technology company with the\nmission to be the world's most trusted driver. Since its\nstart as the Google Self-Driving Car Project in 2009, Waymo\nhas focused on building the Waymo Driver—The World's Most\nExperienced Driver™—to improve access to mobility while\nsaving thousands of lives now lost to traffic crashes. The\nWaymo Driver powers Waymo’s fully autonomous ride-hail\nservice and can also be applied to a range of vehicle\nplatforms and product use cases. The Waymo Driver has\nprovided over ten million rider-only trips, enabled by its\nexperience autonomously driving over 100 million miles on\npublic roads and tens of billions in simulation across 15+\nU.S. states.\n\nThe mission of the Waymo AI Foundations team is to develop\nmachine learning solutions addressing open problems in\nautonomous driving, towards the goal of safely operating\nWaymo vehicles in dozens of cities and under all driving\nconditions. As part of our work, we also initiate and foster\ncollaborations with other research teams in Alphabet. AI\nFoundations areas that we are currently focusing on include\nreinforcement learning, learning from demonstration,\ngenerative modeling, Bayesian inference, hierarchical\nlearning, and robust evaluation.\n\nThis role follows a hybrid work schedule and you will report\nto a Senior Staff Software Engineer.\n\nYou will:\n\n- Work with a creative team of people who help to design,\n  train, and evaluate the large-scale ML models that are\n  used throughout Waymo’s systems, both onboard autonomous\n  vehicles and offboard in simulation.\n- Frame open-ended real-world problems as well-defined ML\n  problems; develop and apply cutting-edge ML approaches\n  (deep learning, reinforcement learning, imitation\n  learning, etc) to these problems; scale them to Google-\n  sized data pipelines; and streamline them to run in real-\n  time on the cars.\n- Collaborate with other teams including the ML\n  infrastructure, data science and systems engineering\n  teams, as well as various research teams such as Waymo\n  Research, Google Brain, DeepMind and academia.\n\nYou have:\n\n- Good programming skills - Python, JAX, TensorFlow/PyTorch\n- Strong statistical / ML theoretical knowledge, and practical\n  experience\n\nWe prefer:\n\n- ML infra experience: training, evaluating and deploying ML\n  models at scale\n- Deep learning experience, especially with generative models,\n  e.g., LLMs/VLMs, and/or reinforcement learning or\n  imitation learning\n- Autonomous driving experience\n\nThe expected base salary range for this full-time position\nis listed below. Actual starting pay will be based on job-\nrelated factors, including exact work location, experience,\nrelevant training and education, and skill level.  Waymo\nemployees are also eligible to participate in Waymo’s\ndiscretionary annual bonus program, equity incentive plan,\nand generous Company benefits program, subject to\neligibility requirements.\n\nSalary Range\n\n£93,000—£100,000 GBP\n",
+  "skills_required": [
+    "Bayesian inference",
+    "JAX",
+    "LLMs/VLMs",
+    "PyTorch",
+    "TensorFlow",
+    "deep learning",
+    "hierarchical learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, train, and evaluate large-scale ML models used throughout Waymo's systems, both onboard autonomous vehicles and offboard in simulation",
+    "Frame open-ended real-world problems as well-defined ML problems and develop cutting-edge ML approaches including deep learning, reinforcement learning, and imitation learning",
+    "Scale ML solutions to Google-sized data pipelines and streamline them to run in real-time on vehicles",
+    "Collaborate with ML infrastructure, data science, and systems engineering teams as well as research teams including Waymo Research, Google Brain, and DeepMind"
+  ],
+  "use_cases": [
+    "Autonomous vehicle navigation and control in real-world driving conditions",
+    "Simulation-based training and evaluation of autonomous driving systems",
+    "Reinforcement learning for optimizing driving behaviors and decision-making",
+    "Learning from demonstration to capture expert driving patterns",
+    "Generative modeling for scenario synthesis and data augmentation",
+    "Robust evaluation of ML systems under diverse driving conditions"
+  ],
+  "tools_mentioned": [
+    "ML infrastructure",
+    "ML model deployment"
+  ],
+  "frameworks_mentioned": [
+    "Bayesian inference",
+    "JAX",
+    "LLMs/VLMs",
+    "PyTorch",
+    "TensorFlow",
+    "deep learning",
+    "hierarchical learning"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and training large-scale ML\nmodels for autonomous driving systems, applying cutting-edge\napproaches including deep learning, reinforcement learning,\nimitation learning, and generative models. The engineer\ndirectly works on model development, deployment, and real-\ntime inference on vehicles.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs/VLMs"
+    ],
+    "ml": [
+      "JAX",
+      "TensorFlow",
+      "PyTorch",
+      "deep learning",
+      "Bayesian inference",
+      "hierarchical learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "ML infrastructure",
+      "ML model deployment"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "reinforcement learning",
+      "imitation learning",
+      "generative models"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

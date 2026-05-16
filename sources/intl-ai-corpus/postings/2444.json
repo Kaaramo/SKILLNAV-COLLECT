@@ -1,0 +1,154 @@
+{
+  "job_id": "intl-ai-corpus-2444",
+  "source": "intl-ai-corpus",
+  "source_ref": "8885600",
+  "source_url": "https://builtin.com/job/ai-engineer/8885600",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Dr. Reddy’s Laboratories",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-27",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Public",
+  "company_focus": "Multinational pharmaceutical company developing affordable\nand innovative medicines",
+  "industries": [],
+  "description": "Company Description\n\nDr. Reddy’s Laboratories Ltd. is a leading multinational\npharmaceutical company based across global locations. Each\nof our 24,000 plus employees comes to work every day for one\ncollective purpose: to accelerate access to affordable and\ninnovative medicines because Good Health Can’t Wait.\n\nWe started in 1984 with a modest investment, 20 employees\nand a bold vision. Today, we have research and development\ncentres, manufacturing facilities or a commercial presence\nin 66 countries.\n\nFor nearly four decades, we have stood for access,\naffordability and innovation based on the bedrock of deep\nscience, progressive people practices and robust corporate\ngovernance. As the pharmaceutical industry evolves and\nundergoes disruption, we see an opportunity – to strengthen\nour core further (the next steps) and to build the future\n(the new bets).\n\n‘The Next and the New’ is how we aim to continue to be the\npartner of choice – purpose-driven, future-ready and\nsustainable.  Our aim is to reach over 1.5 Bn+ patients\nacross the world by 2030 by growing our core businesses and\nbuilding for the future with sustainability at the core of\nour purpose and strategy. Sustainability for us means\noperating in a manner that respects people, planet and\npurpose – helping us conserve precious resources, serve our\npatients, create value for stakeholders, give back to\nsociety, fulfil our potential and maintain our integrity and\ntransparency\n\nDr Reddy’s maintains a work environment, free from\ndiscrimination and is an equal opportunity employer. We are\ncommitted to employ & nurture all qualified diverse\nworkforce without regard to race, colour religion,\nnationality, sex, age, disability status, genetics, sexual\norientation, gender expression, citizenship or any other\ncharacteristic or classification protected by applicable\nlaw(s) of the country we operate in. We treasure every\ntalent, and recognize merit and diversity in our\norganization.\n\nJob Description\n\nRole Summary\n\nWe are seeking an AI/ML Engineer with ~5–6 years of\nexperience to develop and manage the generative AI models\nthat power our OCM platform. In this role, you will develop\nand maintain AI pipelines for content generation and\nevaluation, working with state-of-the-art ML tools. You will\nensure our AI models produce high-quality, multilingual\ncontent and continuously improve through feedback loops.\n\n\n\nResponsibilities\n\n•Design and implement end-to-end generative AI pipelines for\ncreating personalized marketing content. This includes data\npreprocessing, model inference, and post-processing of\noutputs for quality assurance.\n\n•Leverage pre-trained models (e.g., via Azure OpenAI or\nHugging Face models) and customize them for the domain\nneeds.\n\n•Create mechanisms to automatically score or classify\ngenerated content for relevance, quality, and compliance.\nImplement evaluation workflows to filter out inappropriate\nor low-quality AI-generated content before it reaches end-\nusers.\n\n•Incorporate feedback from users and domain experts into the\nmodel improvement process. For example, implement prompt\nadjustments, model retraining, or rules based on what\ncontent performs best, to continuously refine output.\n\n•Ensure the AI pipeline can generate content in multiple\nlanguages. Adapt models or use translation services as\nneeded so content stays accurate and contextually\nappropriate across languages.\n\n•Deploy models and AI services into production (using Azure\nservices like Azure Functions or container deployments).\nMonitor model performance (latency, accuracy) and optimize\nas required. Troubleshoot and resolve issues in model\ninference in production environments.\n\n•Work closely with the cross functional teams to develop AI\ncapabilities into the application.\n\n•Stay updated with the latest developments in AI/ML (new\nmodels, techniques, prompt engineering strategies) and\nexperiment with improvements that could enhance our\nproduct’s intelligence and efficiency.\n\n•Document model architectures, experiment results, and\nmaintain version control for models and data (ensure we know\nwhich model version is in production). Follow best practices\nfor model lifecycle management.\n\nQualifications\n\nRequired Skills\n\n•5–6 years in AI/ML engineering or applied data science,\nwith hands-on experience in building and deploying machine\nlearning models.\n\n•Strong proficiency in Python and deep learning frameworks.\n\n•Experience with generative models (Transformers, GPT-based\nmodels like GPT-Image-1, GPT-4o etc or similar) is\nessential.\n\n•Familiarity with the Hugging Face ecosystem (libraries like\nTransformers, datasets). Experience with DSPy or other AI\norchestration frameworks is a plus.\n\n•Experience using cloud AI services, particularly Azure\nOpenAI Service and Azure Cognitive Services, to leverage\nlarge language models and other AI capabilities.\n\n•Understanding of RAG and vector databases (e.g., pgvector,\nPinecone, etc.) and how to use them for storing embeddings\nor enabling semantic search.\n\n•Ability to build or utilize APIs (using Python FastAPI or\nFlask) to serve AI model functionality.\n\n•Experience in prompt engineering – crafting and refining\nprompts to get better AI output – and fine-tuning models for\nimproved performance.\n\n•Understanding of active learning or feedback loop\nmechanisms to improve models over time.\n\n•Prior experience deploying ML models in a production\nenvironment. Comfortable with best practices for scaling ML\nservices, monitoring (logging, performance tracking), and\ntroubleshooting live issues.\n\n•Excellent analytical skills to diagnose issues with model\noutput or data. Ability to experiment methodically and come\nup with creative solutions in an emerging field.\n\n•\n\nGood to Have\n\n•Familiarity with content validation against guidelines or\ncompliance requirements (e.g., understanding of medical,\nlegal, regulatory checks for marketing content). Experience\nwith LMRC or similar review processes is a plus.\n\n•Some knowledge of data pipelines, ETL, or data\npreprocessing techniques, especially for unstructured data\n(Especially Image data).\n\n•Interest or background in healthcare or marketing\ntechnology. Understanding the unique challenges of\nhealthcare marketing (such as privacy or compliance) can\nhelp in building better AI solutions.\n\n•Experience with ML lifecycle tools (MLflow, Kubeflow) or\nexperiment tracking, and familiarity with DevOps for ML\n(CI/CD for model deployment)are nice to have.\n\nAdditional Information\n\nAbout the Department Digital Process and Excellence (DPEx)\nOur digital transformation journey is led by the DPEx team\nand is structured along the lines of Digitalize the Core and\nTransform with Digital. With a mandate to ensure continuous\nprocess improvement and drive patient centric innovation, it\nspans all functions and operations. In other words, you\ncould be working on projects to expedite research outcomes\none day, designing customer engagement platforms the next\nand simplifying warehouse processes the third. Some its\npriorities are: • Reimagine Dr. Reddy’s as a ‘platform-\nbased’ organization. • Create Data as an asset that brings\ncompetitive advantage and business impact. • Create Digital\nsolutions that make the lives of our patients and customers\neasier and better.\n\nBenefits Offered At Dr. Reddy’s we actively help to catalyse\nyour career growth and professional development through\npersonalised learning programs. The benefits you will enjoy\nat Dr. Reddy’s are on par with the best industry standards.\nThey include, among other things and other essential\nequipment, joining & relocation support, family support\n(Maternity & Paternity benefits), learning and development\nopportunities, medical coverage for yourself and your\nfamily, life coverage for yourself.\n\nOur Work Culture Ask any employee at Dr. Reddy’s why they\ncome to work every day and they’ll say, because Good Health\nCan’t Wait. This is our credo as well as the guiding\nprinciple behind all our actions. We see healthcare\nsolutions not only as scientific formulations, but as a\nmeans to help patients lead healthier lives, and we’re\nalways attuned to the new and the next to empower people to\nstay fit. And to do this, we foster a culture of empathy and\ndynamism. People are at the core of our journey over the\nlast few decades. They have been supported by an enabling\nenvironment that buoys individual ability while fostering\nteamwork and shared success. We believe that when people\nwith diverse skills are bound together by a common purpose\nand value system, they can make magic. For more details,\nplease visit our career website at\nhttps://careers.drreddys.com/#!/\n",
+  "skills_required": [
+    "Active learning",
+    "Azure OpenAI Service",
+    "DSPy",
+    "Deep learning frameworks",
+    "Fine-tuning",
+    "GPT-4o",
+    "GPT-Image-1",
+    "Hugging Face Transformers",
+    "Prompt engineering",
+    "RAG",
+    "Transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement end-to-end generative AI pipelines for creating personalized marketing content including data preprocessing, model inference, and post-processing",
+    "Leverage and customize pre-trained models (Azure OpenAI, Hugging Face) for domain-specific needs",
+    "Create automated content scoring and classification mechanisms for relevance, quality, and compliance evaluation",
+    "Incorporate user and domain expert feedback into model improvement through prompt adjustments, retraining, and rule-based refinements",
+    "Ensure multilingual content generation capabilities with accurate and contextually appropriate outputs",
+    "Deploy models and AI services into production using Azure services, monitor performance, and troubleshoot inference issues",
+    "Collaborate with cross-functional teams to integrate AI capabilities into applications",
+    "Stay updated with latest AI/ML developments and experiment with improvements to enhance product intelligence"
+  ],
+  "use_cases": [
+    "Personalized marketing content generation for pharmaceutical products",
+    "Multilingual content creation and adaptation for global markets",
+    "Automated content quality assurance and compliance validation",
+    "Marketing content evaluation and filtering for medical/legal/regulatory requirements",
+    "AI-powered content platform for pharmaceutical marketing operations"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "Azure Cognitive Services",
+    "Azure Functions",
+    "CI/CD",
+    "Data preprocessing",
+    "Docker",
+    "ETL",
+    "FastAPI",
+    "Flask",
+    "Kubeflow",
+    "MLflow",
+    "Pinecone",
+    "Vector databases",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Active learning",
+    "Azure OpenAI Service",
+    "DSPy",
+    "Deep learning frameworks",
+    "Fine-tuning",
+    "GPT-4o",
+    "GPT-Image-1",
+    "Hugging Face Transformers",
+    "Prompt engineering",
+    "RAG",
+    "Transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and deploying generative AI\nmodels, customizing LLMs, implementing RAG systems, and\nmanaging end-to-end AI pipelines. The engineer will work\ndirectly with models (Azure OpenAI, Hugging Face), fine-tune\nthem, and deploy them into production - core hands-on AI\ndevelopment work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Azure OpenAI Service",
+      "Hugging Face Transformers",
+      "DSPy",
+      "GPT-4o",
+      "GPT-Image-1",
+      "RAG",
+      "Prompt engineering"
+    ],
+    "ml": [
+      "Fine-tuning",
+      "Transformers",
+      "Deep learning frameworks",
+      "Active learning"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask"
+    ],
+    "databases": [
+      "pgvector",
+      "Pinecone",
+      "Vector databases"
+    ],
+    "data": [
+      "ETL",
+      "Data preprocessing"
+    ],
+    "cloud": [
+      "Azure",
+      "Azure Cognitive Services",
+      "Azure Functions"
+    ],
+    "ops": [
+      "MLflow",
+      "Kubeflow",
+      "Docker",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

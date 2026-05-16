@@ -1,0 +1,109 @@
+{
+  "job_id": "intl-ai-corpus-2327",
+  "source": "intl-ai-corpus",
+  "source_ref": "8853902",
+  "source_url": "https://builtin.com/job/ai-engineer-electric-twin/8853902",
+  "title": "AI Engineer at Electric Twin",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Jack & Jill AI",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Atomico-backed AI startup creating synthetic audiences for\nbehavioral simulation and market research",
+  "industries": [
+    "Artificial Intelligence",
+    "HR Tech",
+    "Productivity",
+    "Software"
+  ],
+  "description": "This is a job that Jill, our AI Recruiter, is recruiting for\non behalf of one of our customers.\n\nShe will pick the best candidates from Jack's network.\n\nThe next step is to speak to Jack.\n\nJob Title: AI Engineer\n\nCompany Description: Electric Twin - Atomico-backed AI\nstartup creating synthetic audiences\n\nJob Description: You will join the Science team to bridge\nthe gap between AI research and production engineering. By\ndesigning cognitive architectures and memory systems for\nLLM-driven agents, you will help build a platform that\npredicts human behavior with 95% accuracy, enabling global\nbrands to conduct deep market research in seconds rather\nthan weeks.\n\nLocation: London, UK\n\nWhy this role is remarkable:\n\n- Work at the frontier of behavioral simulation with a\n  platform that delivers insights 10,000x faster than\n  traditional research, validated by research from the\n  London School of Economics.\n- Join a high-caliber team founded by the former Chief Adviser\n  on Digital to the UK Prime Minister and backed by $14M\n  from top-tier investors including Atomico, LocalGlobe, and\n  Marc Andreessen.\n- Direct impact on a product used by giants like News UK and\n  Lebara, moving beyond static data to create dynamic,\n  reasoning digital populations.\n\nWhat you will do:\n\n- Design and implement cognitive systems that provide AI\n  agents with consistent personalities, reasoning\n  capabilities, and advanced memory using RAG and chain-of-\n  thought prompting.\n- Conduct systematic experiments to validate synthetic agent\n  behavior against real-world data, iterating on model\n  architectures based on empirical performance.\n- Build the scalable backend infrastructure and sophisticated\n  prompting strategies required to deploy multi-agent\n  simulations in enterprise production environments.\n\nThe ideal candidate:\n\n- Possesses over 7 years of technical experience with at least\n  1 year of hands-on expertise building complex applications\n  with Large Language Models and agentic workflows.\n- Demonstrates strong proficiency in Python and backend\n  frameworks like FastAPI or Django, with a solid\n  understanding of distributed systems and scalable\n  architectures.\n- Holds a degree in a quantitative field (CS, Math, Physics,\n  or AI) and thrives in fast-paced environments where\n  research-driven development meets pragmatic engineering.\n\nWho are Jack & Jill?\n\nOk, I'll go first. I'm Jack, an AI that gets to know you on\na quick call, learning what you're great at and what you\nwant from your career. Then I help you land your dream job\nby finding unmissable opportunities as they come up,\nsupporting you with applications, interview prep, and moral\nsupport.\n\nAnd I'm Jill, an AI Recruiter who talks to companies to\nunderstand who they're looking to hire. Then I recruit from\nJack's network, making an introduction when I spot an\nexcellent candidate.\n\nNext steps\n\nStep 1. Visit our website. Step 2. Click 'Talk to Jack'.\nStep 3. Talk to Jack so he can understand your experience\nand ambitions. Step 4. Jack will make sure Jill (the AI\nagent working for the company) considers you for this role.\nStep 5. If Jill thinks you're a great fit and her client\nwants to meet you, they will make the introduction. Step 6.\nIf not, Jack will find you excellent alternatives. All for\nfree.\n\nWe never post fake jobs\n\nThis isn't a trick. This is an open role that Jill is\ncurrently recruiting for from Jack's network. Sometimes\nJill's clients ask her to anonymize their jobs when she\nadvertises them, which means she can't share all the details\nin the job description. We appreciate this can make them\nlook a bit suspect, but there isn't much we can do about it.\n\nGive Jack a spin! You could land this role. If not, most\npeople find him incredibly helpful with their job search,\nand we're giving his services away for free.\n",
+  "skills_required": [
+    "LLM agents",
+    "RAG",
+    "chain-of-thought prompting",
+    "multi-agent systems",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement cognitive systems that provide AI agents with consistent personalities, reasoning capabilities, and advanced memory using RAG and chain-of-thought prompting",
+    "Conduct systematic experiments to validate synthetic agent behavior against real-world data, iterating on model architectures based on empirical performance",
+    "Build scalable backend infrastructure and sophisticated prompting strategies required to deploy multi-agent simulations in enterprise production environments",
+    "Bridge the gap between AI research and production engineering within the Science team"
+  ],
+  "use_cases": [
+    "Synthetic audience generation for market research",
+    "Behavioral simulation predicting human behavior with 95% accuracy",
+    "Enabling global brands to conduct deep market research in seconds",
+    "Creating dynamic, reasoning digital populations for enterprise insights"
+  ],
+  "tools_mentioned": [
+    "Django",
+    "FastAPI",
+    "distributed systems",
+    "scalable architectures"
+  ],
+  "frameworks_mentioned": [
+    "LLM agents",
+    "RAG",
+    "chain-of-thought prompting",
+    "multi-agent systems",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing cognitive architectures and\nmemory systems for LLM-driven agents, implementing RAG and\nchain-of-thought prompting, and building agentic workflows.\nThe engineer will work directly on building, deploying, and\noptimizing AI/agent systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "chain-of-thought prompting",
+      "LLM agents",
+      "multi-agent systems",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Django"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "distributed systems",
+      "scalable architectures"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

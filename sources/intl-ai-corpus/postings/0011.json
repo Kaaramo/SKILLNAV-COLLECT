@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-0011",
+  "source": "intl-ai-corpus",
+  "source_ref": "3675427",
+  "source_url": "https://builtin.com/job/senior-ai-product-engineer-backend/3675427",
+  "title": "Senior AI Product Engineer, Backend",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Arize AI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "78 Employees",
+  "company_stage": "Series C",
+  "company_focus": "AI observability and evaluation platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning"
+  ],
+  "description": "About Arize\n\nAI is rapidly transforming the world. As generative AI\nreshapes industries, teams need powerful ways to monitor,\ntroubleshoot, and optimize their AI systems. That’s where we\ncome in. Arize AI is the leading AI & Agent Engineering\nobservability and evaluation platform, empowering AI\nengineers to ship high-performing, reliable agents and\napplications. From first prototype to production scale,\nArize AX unifies build, test, and run in a single\nworkspace—so teams can ship faster with confidence.\n\nWe’re a Series C company backed by top-tier investors, with\nover $135M in funding and a rapidly growing customer base of\n150+ leading enterprises and Fortune 500 companies.\nCustomers like Booking.com, Uber, Siemens, and PepsiCo\nleverage Arize to deliver AI that works.\n\nThe Opportunity\n\nOur Backend Engineering team builds all of the highly\nscalable distributed services that power Arize’s ML\nobservability platform. While Go is our primary language for\nthese distributed systems, the team also maintains services\nand tools written in Python, Java, and TypeScript. The\nexpectation and scope of every individual on this team is\nhigh, whether it’s finding the most efficient way to compute\nmodel evaluation metrics across billions of data points,\ndesigning the next generation of our OLAP database\narchitecture, or researching and implementing the latest\ndimensionality reduction techniques – you will never lack a\ntechnical challenge.\n\nYou will be a part of the core team that drives product\ninnovation at Arize. You will be challenged with\nunderstanding how some of the most impactful engineering\nteams are developing AI and LLM-powered applications, and\nhow to build the right tools to enable them to do their best\nwork. Our product solutions range from clean APIs that\nmagically instrument applications, interactive playgrounds\nfor prompt engineering and agent development, or scaling up\nreal-time evaluation infrastructure to handle millions of\nannotations per second.\n\nWhat You’ll Do\n\n- Write maintainable, scalable, and performant backend code\n  primarily in Go, Java, and Python, with opportunities to\n  work in TypeScript.\n- Build high-volume and highly available analytics systems.\n- Design and build APIs specific to our customers’ Machine\n  Learning and LLM workflows.\n- Prototype, optimize, and maintain scalable backend services\n  that power the Arize core platform.\n- Extend, and contribute back to, open source OLAP databases\n  and distributed message queue frameworks.\n- Develop and integrate collection tools for robust monitoring\n  of ML and LLM pipelines.\n- Research and implement cutting-edge visualization &\n  dimensionality reduction algorithms in a distributed\n  environment.\n- Collaborate with our product, design, and directly with\n  customer engineering teams to enhance and expand our\n  product offerings.\n- Contribute to the build our own in-house AI Agents\n\nWhat We’re Looking For\n\n- 5+ years of experience working with high-performance backend\n  systems.\n- Strong experience writing Go, Python, TypeScript/Node, Java,\n  or similar server programming languages.\n- Enthusiasm and interest in the AI and LLM ecosystem, with a\n  desire to learn and stay updated on emerging technologies.\n- Previous work building and operating highly complex SaaS\n  platforms/systems.\n- Knowledge of working with public clouds & container\n  orchestration - AWS, GCP, Azure, Kubernetes, etc.\n\nBonus Points, But Not Required\n\n- Experience with distributed stream processing - Kafka,\n  Gazette, or similar.\n- Experience with OLAP systems.\n- Familiarity with system observability tooling like\n  Prometheus.\n- Working knowledge of Machine Learning and/or Data Science.\n- First-hand experience working with large language models\n  (LLMs) or developing AI products.\n\nThe estimated annual salary for this role is between\n$125,000 - $225,000, plus a competitive equity package.\nActual compensation is determined based on a variety of job-\nrelated factors that may include transferable work\nexperience, skill sets, and qualifications. Total\ncompensation also includes a comprehensive benefits package,\nincluding medical, dental, vision, a 401(k) plan, unlimited\npaid time off, a generous parental leave plan, and\nadditional support for mental health and wellness.\n\nWhile we are a remote-first company, we have opened offices\nin New York City and the San Francisco Bay Area, as an\noption for those in those cities who wish to work in-person.\nFor all other employees, there is a WFH monthly stipend to\npay for co-working spaces.\n\nMore About Arize\n\nArize’s mission is to make the world’s AI work—and work for\npeople. Our founders came together through a shared\nfrustration: while investments in AI are growing rapidly\nacross every industry, organizations face a critical\nchallenge—understanding whether AI is performing and how to\nimprove it at scale.\n\nLearn more about what we're doing here:\n\nhttps://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-\nfirst-mover-advantage-in-ai-observability/\n\nhttps://arize.com/blog/arize-ai-raises-70m-series-c-to-\nbuild-the-gold-standard-for-ai-evaluation-observability/\n\nDiversity & Inclusion @ Arize\n\nOur company's mission is to make AI work and make AI work\nfor the people, we hope to make an impact in bias industry-\nwide and that's a big motivator for people who work here. We\nactively hope that individuals contribute to a good culture\n\n- Regularly have chats with industry experts, researchers, and\n  ethicists across the ecosystem to advance the use of\n  responsible AI\n- Culturally conscious events such as LGBTQ trivia during\n  pride month\n- We have an active Lady Arizers subgroup\n",
+  "skills_required": [
+    "LLMs",
+    "dimensionality reduction"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Write maintainable, scalable, and performant backend code primarily in Go, Java, and Python, with opportunities to work in TypeScript",
+    "Build high-volume and highly available analytics systems",
+    "Design and build APIs specific to customers' Machine Learning and LLM workflows",
+    "Prototype, optimize, and maintain scalable backend services that power the Arize core platform",
+    "Extend and contribute back to open source OLAP databases and distributed message queue frameworks",
+    "Develop and integrate collection tools for robust monitoring of ML and LLM pipelines",
+    "Research and implement cutting-edge visualization & dimensionality reduction algorithms in a distributed environment",
+    "Collaborate with product, design, and customer engineering teams to enhance and expand product offerings"
+  ],
+  "use_cases": [
+    "Monitoring and observability for AI/LLM systems and agents",
+    "Model evaluation metrics computation across billions of data points",
+    "Real-time evaluation infrastructure handling millions of annotations per second",
+    "Prompt engineering and agent development playgrounds",
+    "Instrumentation APIs for ML and LLM-powered applications",
+    "Dimensionality reduction and visualization for ML model insights"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Kafka",
+    "Kubernetes",
+    "OLAP databases",
+    "Prometheus",
+    "distributed systems"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "dimensionality reduction"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Node.js",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is building backend infrastructure, APIs, and\nobservability platforms for AI/ML systems - it's an enabler\nrole that supports AI engineers rather than directly\nbuilding, training, or deploying models. The engineer is\ncreating tools, databases, and monitoring systems that OTHER\nteams use to work with AI/LLMs.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs"
+    ],
+    "ml": [
+      "dimensionality reduction"
+    ],
+    "web": [
+      "API design"
+    ],
+    "databases": [
+      "OLAP databases"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Prometheus",
+      "distributed systems"
+    ],
+    "languages": [
+      "Go",
+      "Python",
+      "Java",
+      "TypeScript",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:36+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

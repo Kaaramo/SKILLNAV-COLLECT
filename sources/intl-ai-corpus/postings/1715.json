@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-1715",
+  "source": "intl-ai-corpus",
+  "source_ref": "8585761",
+  "source_url": "https://builtin.com/job/senior-ai-ml-developer/8585761",
+  "title": "Senior AI/ML Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Everway",
+  "company_type": "entité morale privée",
+  "location": "GBR",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "332 Employees",
+  "company_stage": "Growth (600+ employees)",
+  "company_focus": "Neurotechnology software helping understand and communicate",
+  "industries": [],
+  "description": "At Everway, our goal is to lead the world in Neurotechnology\nsoftware, helping transform the way we understand and are\nunderstood.\n\nWe’re a global community of over 600 team members spanning\nseven countries, including the UK, USA, Norway, Denmark,\nSweden, Australia, and New Zealand. By understanding and\naddressing the unique needs of each individual, we're\ncreating a world where differences are recognized and\nvalued. A world where everyone can thrive.\n\nWe can only achieve our goals and continue to grow by having\nhigh performing people in our team, people who share our\ngoals and are passionate about our mission. We pride\nourselves on our core values that are embedded within our\nculture. These are to be curious, have courage, and commit\nfully.\n\nJoin us at Everway - together, we can unlock the full\npotential of every mind.\n\nAbout the role\n\nAt Everway, we're building AI capabilities that serve 250M+\nusers and transform how 1,500+ employees work. We're looking\nfor a Senior AI Engineer to be the founding engineer for AI\nEnablement — building MCP infrastructure, agentic workflows,\nand driving AI adoption across the business.\n\nThis is a founding role with significant growth potential.\nYou'll be the engineer who builds the core infrastructure\nthat connects AI agents to our internal systems. You'll ship\nproduction solutions and contribute to the roadmap as the\nfunction evolves. As we scale, you'll have the opportunity\nto grow into a leadership position and help build a team.\n\nYou'll build MCP servers that securely connect LLMs to\nSalesforce, Snowflake, Google Workspace, and internal tools.\nYou'll develop agentic workflows that automate business\nprocesses across sales, marketing, customer success, and\noperations. And you'll work directly with stakeholders\nacross the organisation to understand requirements and\ndeliver working solutions.\n\nWe've already demonstrated strong traction: 400+ weekly\nactive AI users, tools delivering measurable ROI, and\nexecutive support for ambitious next steps. You'll join at\nthe right moment to take on a critical growth area and make\nit your own.\n\nMain Responsibilities\n\n- MCP Development: Build and maintain Model Context Protocol\n  servers that securely connect LLMs to enterprise systems\n  (Salesforce, HubSpot, Snowflake, Google Workspace,\n  internal APIs)\n- Agentic Workflow Development: Develop and ship production-\n  grade agentic workflows with appropriate orchestration,\n  guardrails, and observability\n- Systems Integration: Build robust, secure integrations\n  between AI systems and enterprise tools, handling\n  authentication, rate limiting, and data governance\n  requirements ● Stakeholder Collaboration: Work with teams\n  across Sales, Marketing, Operations, and Customer Success\n  to understand automation needs and deliver solutions\n- Technical Documentation: Create documentation and reusable\n  patterns that enable broader AI adoption across\n  engineering teams\n- Grow with the Function: As we scale, help recruit and mentor\n  team members to expand AI Enablement capabilities\n\nEssential Criteria\n\n- BSc in Computer Science, Software Engineering, or a related\n  technical discipline (or equivalent practical experience)\n- 3+ years of software engineering experience, with meaningful\n  exposure to AI/ML systems in production\n- Hands-on experience with MCP (Model Context Protocol) —\n  you've built MCP servers or have deep familiarity with the\n  architecture and specification\n- Experience building agentic AI systems: multi-step\n  workflows, tool use, orchestration frameworks (LangGraph,\n  CrewAI, or similar)\n- Strong production Python skills — API development, async\n  programming, systems integration\n- Experience integrating with enterprise systems (CRM, data\n  warehouses, productivity tools) via APIs\n- Solid engineering fundamentals: CI/CD, testing,\n  containerisation, cloud deployment (AWS preferred)\n- Comfortable working autonomously and delivering in a fast-\n  moving environment\n- Clear communicator — able to work with non-technical\n  stakeholders and translate requirements into working\n  solutions\n\nDesirable Criteria\n\n- Experience with multiple LLM providers (OpenAI, Anthropic,\n  AWS Bedrock)\n- Interest in growing into team leadership and mentoring\n- Knowledge of AI governance, data protection, and responsible\n  AI practices\n- Background in internal tooling, platform engineering, or\n  developer experience\n- Experience in EdTech, SaaS, or scaling organisations\n\nPlease submit your application on out website by 1st March\n2026.\n\nPlease note: applications may close early due to high\ndemand, so early submission is encouraged.\n\nJoin our team and enjoy a competitive salary with bonus\nopportunities, flexible work schedules, and comprehensive\nhealth and wellness benefits. We offer flexible time off\nplans, career growth through development programs, and a\ncollaborative, innovative culture where your ideas matter.\nReady to make an impact? Apply today and be part of a\ncompany that invests in your success!\n\nWe are committed to providing a Drug-Free Workplace for all\nemployees.\n\nWe are an Equal Opportunity Employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, sex, national origin,\ndisability status, protected veteran status or any other\ncharacteristic protected by law.\n\nYou can view our Recruitment and Selection Policy here.\n\nPlease click the link for our Privacy Notice\n",
+  "skills_required": [
+    "AI governance",
+    "Agentic AI systems",
+    "CrewAI",
+    "LLM providers (OpenAI, Anthropic, AWS Bedrock)",
+    "LangGraph",
+    "MCP (Model Context Protocol)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain Model Context Protocol (MCP) servers that securely connect LLMs to enterprise systems including Salesforce, HubSpot, Snowflake, Google Workspace, and internal APIs",
+    "Develop and ship production-grade agentic workflows with appropriate orchestration, guardrails, and observability",
+    "Build robust, secure integrations between AI systems and enterprise tools, handling authentication, rate limiting, and data governance requirements",
+    "Work with teams across Sales, Marketing, Operations, and Customer Success to understand automation needs and deliver solutions",
+    "Create technical documentation and reusable patterns that enable broader AI adoption across engineering teams",
+    "Help recruit and mentor team members to expand AI Enablement capabilities as the function scales"
+  ],
+  "use_cases": [
+    "Enterprise AI integration connecting LLMs to business systems via MCP",
+    "Business process automation across sales, marketing, customer success, and operations using agentic workflows",
+    "Internal AI enablement serving 400+ weekly active users and 250M+ end users",
+    "Secure LLM-to-enterprise-system connectivity with proper governance"
+  ],
+  "tools_mentioned": [
+    "API development",
+    "AWS",
+    "CI/CD",
+    "Containerization",
+    "Docker",
+    "Google Workspace API",
+    "HubSpot API",
+    "Salesforce API",
+    "Snowflake",
+    "Testing"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI systems",
+    "CrewAI",
+    "LLM providers (OpenAI, Anthropic, AWS Bedrock)",
+    "LangGraph",
+    "MCP (Model Context Protocol)"
+  ],
+  "languages_programming": [
+    "Async programming",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is building AI systems directly - MCP servers,\nagentic workflows, and LLM integrations. The engineer is\nhands-on with AI/LLM technology, not just supporting\ninfrastructure for ML teams. While it's internal tooling,\nthey're deploying and orchestrating AI agents, which\nqualifies as ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP (Model Context Protocol)",
+      "LangGraph",
+      "CrewAI",
+      "Agentic AI systems",
+      "LLM providers (OpenAI, Anthropic, AWS Bedrock)"
+    ],
+    "ml": [],
+    "web": [
+      "API development",
+      "Salesforce API",
+      "HubSpot API",
+      "Google Workspace API"
+    ],
+    "databases": [
+      "Snowflake"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "CI/CD",
+      "Docker",
+      "Containerization",
+      "Testing"
+    ],
+    "languages": [
+      "Python",
+      "Async programming"
+    ],
+    "domains": [],
+    "other": [
+      "AI governance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

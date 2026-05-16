@@ -1,0 +1,40 @@
+company:
+  name: Devoteam
+  stage: null
+  focus: null
+position:
+  title: Lead Consultant Data Engineer (MS Fabric) (H/F)
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai:
+    - genai
+    ml: []
+    web: []
+    databases: []
+    data:
+    - data lake
+    - data warehouse
+    - databricks
+    - spark
+    - sql
+    cloud:
+    - azure
+    ops: []
+    languages: []
+    domains:
+    - cybersecurity
+    other:
+    - Git
+    - power bi
+    - PySpark
+    - statistics
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '4317921046'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

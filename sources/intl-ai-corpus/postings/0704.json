@@ -1,0 +1,142 @@
+{
+  "job_id": "intl-ai-corpus-0704",
+  "source": "intl-ai-corpus",
+  "source_ref": "8360020",
+  "source_url": "https://builtin.com/job/ai-machine-learning-engineer/8360020",
+  "title": "AI / Machine Learning Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Cybermedia Technologies (CTEC)",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "215 Employees",
+  "company_stage": "Growth stage",
+  "company_focus": "Federal government digital transformation and IT\nmodernization",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "CTEC is a leading technology firm that provides\nmodernization, digital transformation, and application\ndevelopment services to the U.S. Federal Government.\nHeadquartered in McLean, VA, CTEC has over 300 team members\nworking on mission-critical systems and projects for\nagencies such as the Department of Homeland Security,\nInternal Revenue Service, and the Office of Personnel\nManagement. The work we do effects millions of U.S. citizens\ndaily as they interact with the systems we build. Our best-\nin-class commercial solutions, modified for our customers’\nbespoke mission requirements, are enabling this future every\nday.\n\nThe Company has experienced rapid growth over the past 3\nyears and recently received a strategic investment from Main\nStreet Capital Corporation (NYSE: MAIN). In addition to our\nrecent growth in Federal Civilian agencies, we are seeking\nto expand our capabilities in cloud development and\nfootprint in national-security focused agencies within the\nDepartment of Defense and U.S. Intelligence Community.\n\nWe are seeking to hire a AI/Machine Learning Engineer to our\nteam!\n\nRole Overview: As an AI/ML Engineer for CTEC, you will\ndevelop Agentic AI systems designed to automate and optimize\nhealth benefits determinations for the Office of Personnel\nManagement (OPM). Unlike traditional \"black-box\" models,\nyour work will focus on marrying the reasoning capabilities\nof Large Language Models (LLMs) with deterministic, rule-\ndriven patterns to ensure accuracy, auditability, and\ncompliance in complex decision-making workflows.\n\nDuties and Responsibilities:\n\n- Agentic System Architecture: Design and deploy autonomous AI\n  agents capable of multi-step reasoning, tool-use, and\n  self-correction to navigate complex federal benefit\n  policies.\n- Deterministic Logic Integration: Develop \"Guardrail\" layers\n  that synchronize probabilistic LLM outputs with rigid\n  business rules, ensuring benefit determinations adhere\n  strictly to legal and regulatory frameworks.\n- RAG & Knowledge Engineering: Implement advanced Retrieval-\n  Augmented Generation (RAG) solutions, utilizing layout-\n  aware parsing to extract information from dense\n  manuals/documentation and unstructured data.\n- Hybrid Model Development: Design and evaluate machine\n  learning models that support both data-driven predictions\n  and symbolic/rule-based automation.\n- MLOps & Agent Monitoring: Deploy models into cloud\n  environments with a focus on LLM-specific observability\n  (tracing reasoning loops, monitoring for hallucinations,\n  and detecting data drift in logic).\n- Auditability & Explainability: Ensure every AI-driven\n  determination has a clear, human-readable \"audit trail\" or\n  reasoning chain that justifies the outcome based on source\n  documentation.\n- Collaboration: Work alongside solution architects and\n  business stakeholders to translate complex health\n  insurance policies into executable AI logic.\n\nSkills & Work Experience:\n\n- Professional Experience: 5–8+ years in Machine Learning or\n  Data Science, with at least 2 years of hands-on experience\n  with LLM orchestration and Generative AI frameworks.\n- Agentic Frameworks: Proficiency with tools such as\n  LangChain, LangGraph, CrewAI, or Semantic Kernel for\n  building multi-step agent workflows.\n- Core Development: Strong proficiency in Python and\n  experience with standard frameworks (PyTorch, TensorFlow,\n  or Scikit-learn)\n- Data Engineering: Strong SQL skills and experience with\n  distributed data processing (Spark/PySpark) to handle\n  large-scale enterprise data.\n- Analytical Rigor: Ability to debug non-deterministic systems\n  and implement rigorous evaluation frameworks (e.g., RAGAS,\n  LLM-as-a-judge) data platforms.\n\nPreferred:\n\n- Experience with Azure Machine Learning, Azure AI services,\n  or similar cloud AI platforms.\n- Experience implementing Generative AI, LLM, or RAG-based\n  solutions.\n- Experience supporting federal IT modernization or data\n  transformation programs.\n- Familiarity with healthcare, insurance, or benefits\n  administration data environments.\n- Experience applying data governance, privacy, and security\n  best practices in AI/ML solutions.\n\nEducation:\n\nBachelor’s degree in Computer Science, Data Science,\nEngineering, or a related discipline. Master’s degree\npreferred. Equivalent professional experience will be\nconsidered in lieu of a degree.\n\nClearance: Must be a U.S. citizen and be able to obtain an\nOPM Public Trust clearance.\n\nIf you are looking for a fun and challenging environment\nwith talented, motivated people to work with, CTEC is the\nright place for you. In addition to employee salary, we\noffer an array of employee benefits including:\n\n- Paid vacation & Sick leave\n- Health insurance coverage\n- Career training\n- Performance bonus programs\n- 401K contribution & Employer Match\n- 11 Federal Holidays\n",
+  "skills_required": [
+    "CrewAI",
+    "Generative AI",
+    "LLM orchestration",
+    "LLM-as-a-judge",
+    "LangChain",
+    "LangGraph",
+    "PyTorch",
+    "RAG",
+    "RAGAS",
+    "Scikit-learn",
+    "Semantic Kernel",
+    "TensorFlow",
+    "agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deploy autonomous AI agents with multi-step reasoning, tool-use, and self-correction for federal benefit policies",
+    "Develop guardrail layers that synchronize probabilistic LLM outputs with deterministic business rules for regulatory compliance",
+    "Implement advanced Retrieval-Augmented Generation (RAG) solutions with layout-aware parsing for document processing",
+    "Design and evaluate hybrid machine learning models combining data-driven predictions with rule-based automation",
+    "Deploy models to cloud environments with LLM-specific observability including tracing, hallucination monitoring, and drift detection",
+    "Ensure AI determinations have clear, human-readable audit trails and explainable reasoning chains",
+    "Collaborate with architects and stakeholders to translate health insurance policies into executable AI logic"
+  ],
+  "use_cases": [
+    "Automating health benefits determinations for the Office of Personnel Management (OPM)",
+    "Navigating and interpreting complex federal benefit policies using AI agents",
+    "Extracting and processing information from dense federal manuals and unstructured documentation",
+    "Ensuring compliance and auditability in automated government decision-making workflows",
+    "Hybrid decision-making combining LLM reasoning with deterministic rule validation"
+  ],
+  "tools_mentioned": [
+    "Azure AI services",
+    "Azure Machine Learning",
+    "PySpark",
+    "SQL",
+    "Spark"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "Generative AI",
+    "LLM orchestration",
+    "LangChain",
+    "LangGraph",
+    "PyTorch",
+    "RAG",
+    "Scikit-learn",
+    "Semantic Kernel",
+    "TensorFlow",
+    "agents"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building AI systems: developing\nAgentic AI with LLMs, implementing RAG, and deploying\nautonomous agents with multi-step reasoning. The engineer\ndirectly constructs, integrates, and monitors AI models and\nagents for automated decision-making.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "Semantic Kernel",
+      "RAG",
+      "LLM orchestration",
+      "Generative AI",
+      "agents"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn"
+    ],
+    "web": [],
+    "databases": [
+      "SQL"
+    ],
+    "data": [
+      "Spark",
+      "PySpark"
+    ],
+    "cloud": [
+      "Azure Machine Learning",
+      "Azure AI services"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "RAGAS",
+      "LLM-as-a-judge"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

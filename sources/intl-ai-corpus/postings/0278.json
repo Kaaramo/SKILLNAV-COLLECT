@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-0278",
+  "source": "intl-ai-corpus",
+  "source_ref": "7615796",
+  "source_url": "https://builtin.com/job/senior-context-engineer-ai-systems/7615796",
+  "title": "Senior Context Engineer, AI Systems",
+  "title_normalized": "AI_ENGINEER",
+  "company": "MagicSchool AI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "95 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Generative AI platform for teachers and educators",
+  "industries": [
+    "Artificial Intelligence",
+    "Edtech"
+  ],
+  "description": "WHO WE ARE: MagicSchool is the premier generative AI\nplatform for teachers. We're just over 2 years old, and more\nthan 7 million teachers from all over the world have joined\nour platform. Join a top team at a fast growing company that\nis working towards real social impact. Make an account and\ntry us out at our website and connect with our passionate\ncommunity on our Wall of Love.\n\nThe Role\n\nAs a Senior Context Engineer for AI Systems, you'll\narchitect and optimize how MagicSchool's AI agents reason,\nremember, and operate within complex educational workflows.\nYou'll design context management systems that determine what\ninformation our agents see, how they maintain state across\nmulti-turn interactions, and how they retrieve knowledge\nwithout overwhelming their attention budget—ensuring\nreliable, coherent AI assistance for educators.\n\nIn this role you'll implement the technical foundation of\nhow AI agents manage their \"mental workspace\", and ensure\nour agentic capabilities remain accurate and focused in\nclassroom scenarios.\n\nWhat You'll Do\n\nContext Pipeline Architecture\n\n- Context Architecture & Token Optimization: Architect and\n  implement adaptive context curation pipelines that\n  determine what information enters each agent inference\n  step, balancing comprehensiveness with the finite\n  attention budget of LLMs to prevent context rot.\n- Long-Horizon Task Management: Invent and operationalize\n  memory compaction mechanisms and state management patterns\n  that allow agents to maintain coherence across extended\n  teaching workflows (lesson planning, differentiation,\n  assessment creation).\n- Context Evaluation & Monitoring: Design evaluation pipelines\n  that measure retrieval precision, token relevance, and\n  reasoning coherence as context evolves across sessions.\n  Work with the evaluations team on developing frameworks\n  for measuring attention allocation and agent performance\n  degradation.\n\nDynamic Information Retrieval\n\n- Just-in-Time Knowledge Retrieval: Build dynamic, runtime\n  data fetching systems that enable agents to autonomously\n  pull relevant curriculum content, student data, and\n  educational resources exactly when needed, rather than\n  pre-loading context with unnecessary information.\n\nTooling & Integration Design\n\n- Tool & Integration Design: Engineer token-efficient tool\n  APIs and retrieval layers where each tool earns its place\n  in the context window through clear utility and minimal\n  overlap, with robust metadata to guide agent decision-\n  making.\n\nCross-Functional & Educational Domain Collaboration\n\n- Cross-Functional Collaboration: Partner with Product,\n  Research, and Education teams to translate complex\n  educational workflows into optimal context configurations,\n  understanding which information signals matter most for\n  different teaching scenarios.\n- Model & Platform Integration: Collaborate with ML\n  researchers and platform engineers to co-design\n  architectures that integrate memory modules, retrieval\n  adapters, and human-in-the-loop correction systems.\n\nMentorship & Standards\n\n- Technical Mentorship: Guide engineers on context engineering\n  patterns, teaching the shift from prompt-first thinking to\n  holistic context management, token budget awareness, and\n  dynamic information curation.\n\nWhat We're Looking For\n\n- 4+ years building distributed systems. Hands-on experience\n  with RAG systems, knowledge graphs, or semantic search\n  platforms in production environments.\n- Strong coding skills in Python, TypeScript/Node.js.\n  Experience with our stack (TypeScript, Node.js,\n  PostgreSQL, NextJS, Supabase) or similar. Proficiency with\n  LLM APIs (OpenAI, Anthropic, etc.) and their context\n  management patterns.\n- Experience with Model Context Protocol (MCP), context window\n  optimization for specific model families, or building\n  context-aware agent frameworks.\n- Understanding of or interest in how educational content is\n  structured (standards, curricula, taxonomies), privacy\n  requirements (FERPA/COPPA), and how context needs differ\n  across teaching scenarios.\n- Experience with agent evaluation, measuring context\n  quality/relevance, or instrumentation for attention budget\n  tracking.\n- Knowledge of curriculum standards, learning progressions, or\n  educational metadata schemas that inform context design.\n\nNice to Have\n\n- Familiarity with educational technology platforms,\n  curriculum databases, or EdTech content management\n- Background in semantic search or hybrid retrieval systems\n- Knowledge of curriculum standards, learning progressions, or\n  educational metadata schemas that inform context design\n\nApplication Notice:\n\nNotice: Priority Deadline and Review Start Date\n\nPlease note that applications for this position will be\naccepted until 2/8/26 - applications received after this\ndate will be reviewed on an intermittent basis. While we\nencourage early submissions, all applications received by\nthe priority deadline will receive equal consideration.\nThank you for your interest, and we look forward to\nreviewing your application.\n\nWhy Join Us?\n\n- Work on cutting-edge AI technology that directly impacts\n  educators and students.\n- Join a mission-driven team passionate about making education\n  more efficient and equitable.\n- Flexibility of working from home, while fostering a unique\n  culture built on relationships, trust, communication, and\n  collaboration with our team - no matter where they live.\n\nFor full time employees:\n\n- Unlimited time off to empower our employees to manage their\n  work-life balance. We work hard for our teachers and\n  users, and encourage our employees to rest and take the\n  time they need.\n- Choice of employer-paid health insurance plans so that you\n  can take care of yourself and your family. Dental and\n  vision are also offered at very low premiums.\n- Every employee is offered generous stock options, vested\n  over 4 years.\n- 401k match & monthly wellness stipend.\n\nOur Values:\n\n- Educators are Magic:  Educators are the most important\n  ingredient in the educational process - they are the\n  magic, not the AI. Trust them, empower them, and put them\n  at the center of leading change in service of students and\n  families.\n- Joy and Magic: Bring joy and magic into every learning\n  experience - push the boundaries of what’s possible with\n  AI.\n- Community:  Foster community that supports one another\n  during a time of rapid technological change. Listen to\n  them and serve their needs.\n- Innovation:  The education system is outdated and in need of\n  innovation and change - AI is an opportunity to bring\n  equity, access, and serve the individual needs of students\n  better than we ever have before.\n- Responsibility: Put responsibility and safety at the\n  forefront of the technological change that AI is bringing\n  to education.\n- Diversity: Diversity of thought, perspectives, and\n  backgrounds helps us serve the wide audience of educators\n  and students around the world.\n- Excellence:  Educators and students deserve the best - and\n  we strive for the highest quality in everything we do.\n",
+  "skills_required": [
+    "Anthropic API",
+    "LLM APIs",
+    "Model Context Protocol",
+    "OpenAI API",
+    "RAG systems",
+    "agent frameworks",
+    "prompt engineering",
+    "retrieval systems",
+    "semantic search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and implement adaptive context curation pipelines that determine what information enters each agent inference step",
+    "Invent and operationalize memory compaction mechanisms and state management patterns for agents across extended teaching workflows",
+    "Design evaluation pipelines that measure retrieval precision, token relevance, and reasoning coherence across sessions",
+    "Build dynamic runtime data fetching systems for agents to autonomously pull relevant curriculum content and educational resources",
+    "Engineer token-efficient tool APIs and retrieval layers with robust metadata to guide agent decision-making",
+    "Partner with Product, Research, and Education teams to translate educational workflows into optimal context configurations",
+    "Collaborate with ML researchers and platform engineers to co-design architectures integrating memory modules and retrieval adapters",
+    "Guide engineers on context engineering patterns including holistic context management and token budget awareness"
+  ],
+  "use_cases": [
+    "Lesson planning and curriculum development assistance for teachers",
+    "Differentiation and personalized learning support for diverse student needs",
+    "Assessment creation and automated grading workflows",
+    "Educational content retrieval and knowledge management for classroom scenarios",
+    "Multi-turn conversational AI assistance with maintained context across teaching workflows",
+    "Real-time access to curriculum standards and educational resources during instruction"
+  ],
+  "tools_mentioned": [
+    "NextJS",
+    "Node.js",
+    "PostgreSQL",
+    "Supabase",
+    "agent evaluation",
+    "context management",
+    "context window optimization",
+    "distributed systems",
+    "knowledge graphs",
+    "token optimization"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LLM APIs",
+    "Model Context Protocol",
+    "OpenAI API",
+    "RAG systems",
+    "agent frameworks",
+    "prompt engineering",
+    "retrieval systems",
+    "semantic search"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and optimizing AI agent\nsystems, specifically focusing on context management, RAG\nimplementations, and agent memory systems. The engineer is\nimplementing the technical foundation for how AI agents\nreason and operate, not just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG systems",
+      "semantic search",
+      "LLM APIs",
+      "OpenAI API",
+      "Anthropic API",
+      "Model Context Protocol",
+      "agent frameworks",
+      "prompt engineering",
+      "retrieval systems"
+    ],
+    "ml": [],
+    "web": [
+      "Node.js",
+      "NextJS"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Supabase"
+    ],
+    "data": [
+      "knowledge graphs"
+    ],
+    "cloud": [],
+    "ops": [
+      "context window optimization",
+      "token optimization",
+      "distributed systems",
+      "context management",
+      "agent evaluation"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

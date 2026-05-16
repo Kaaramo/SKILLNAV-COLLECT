@@ -1,0 +1,117 @@
+{
+  "job_id": "intl-ai-corpus-0419",
+  "source": "intl-ai-corpus",
+  "source_ref": "8004295",
+  "source_url": "https://builtin.com/job/head-gtm-engineering/8004295",
+  "title": "Senior Software Engineer, Applied AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "TLDR",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-11",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "20 Employees",
+  "company_stage": "Bootstrapped and profitable startup",
+  "company_focus": "Tech newsletter network with 7M subscribers",
+  "industries": [
+    "AdTech",
+    "Digital Media"
+  ],
+  "description": "We're hiring the first engineer on TLDR's new Applied AI\nteam. You'll build production AI agents and design modular,\ncomposable Claude Skills to let non-technical teammates\ncreate their own AI workflows.\n\nWho We Are\n\n🏔Product: TLDR is the largest network of tech newsletters in\nthe world, with over 7M subscribers covering everything from\nstartups and software engineering to AI, cybersecurity,\nproduct, and more. Every issue is written by builders in\ntech. Both TLDR Crypto writers both work at Coinbase, TLDR\nDev is written by engineers from DeepMind and Meta, TLDR AI\nis written by researchers from Anthropic and Adobe. That’s\nwhy TLDR is the best way to stay current on what truly\nmatters in tech.\n\n💪Team: Our 24-person full time team includes alumni of\nTikTok, Business Insider, Morning Brew, and other top media\nbrands.\n\n📈Traction: We doubled our revenue from 2024 to 2025 and are\nlooking to double revenue again in 2026. We are supported by\nadvertisers who want to reach tech’s decision makers,\nincluding AWS, Google Cloud, Anthropic, Slack, Notion, and\nGitHub.\n\nAbout the Role\n\nIn this role, you will:\n\n- Build Claude Skills and internal AI tooling. Design and\n  implement modular Claude Skills that connect to our core\n  systems (HubSpot, Google Drive, Slack, Sponsy). Create\n  clean abstractions that let non-technical users compose\n  these primitives into useful workflows without writing\n  code.Ship autonomous AI agents. Use workflow automation\n  platforms like n8n to build agents that operate\n  independently across sales, marketing, and\n  operations—handling research, data enrichment, proposal\n  generation, and routine decision-making without human\n  intervention.Own the AI development environment. Establish\n  and maintain the infrastructure that lets the team build\n  with AI tools—whether that's Claude Code, Cursor, or\n  whatever emerges next. Create templates, patterns, and\n  documentation that accelerate everyone's ability to\n  ship.Design for composability. Think deeply about\n  interface design between AI components. Build systems\n  where outputs from one tool become inputs to another,\n  where complex capabilities emerge from simple, well-\n  designed primitives.\n\nWhat Success Looks Like\n\nWithin 6 months you will have built the foundation of TLDR's\nAI-native operating system:\n\nA Skills Library That Ships: A catalog of production Claude\nSkills covering our core workflows—CRM analysis, proposal\ngeneration, knowledge base search, competitive research—with\nclear documentation and examples.\n\nNon-Technical Users Building Things: Marketing, sales, and\nops teammates regularly creating their own AI workflows by\ncombining your primitives, without filing engineering\ntickets.\n\nAutonomous Agents in Production: Multiple n8n-based agents\nrunning daily that handle tasks previously requiring human\nattention—lead enrichment, content research, data hygiene,\nreporting.\n\nA Reproducible Development Environment: Any team member can\nspin up Claude Code or equivalent tooling and start building\nwithin an hour, with patterns and templates ready to go.\n\nAbout You\n\n- You've built AI agents that run in production, not demos,\n  but systems that operate autonomously, handle edge cases,\n  and know when to escalate. You understand prompt\n  engineering, context management, and structured outputs at\n  a practical level.\n\n- You code fluently with AI tools like Claude Code or Cursor\n  and modern LLM APIs.\n- You have strong product instincts. You build backwards from\n  user needs, and you've shipped internal tools that non-\n  technical teammates actually enjoy using.\n- You think in composable systems, small, well-designed pieces\n  that combine into powerful capabilities.\n- You ship fast and iterate in the open.\n\nYou’re Not a Fit If You…\n\n- Haven't used AI-assisted coding tools extensively in your\n  own work.\n- Prefer building for technical users only. Half this job is\n  making AI capabilities accessible to people who don't\n  write code.\n- Don't enjoy operating in ambiguity or startup environments.\n\nWhy You'll Love It\n\n🤑Compensation: $200,000 - 300,000\n\n🌎Location: We’re a 100% remote company distributed across\nthe US and Canada\n\n🤝Team Events: Annual team offsite. Tell us where we should\ngo next!\n\n🏝️Time to Recharge: Flexible PTO. Most team members will\nenjoy 2-3 weeks off per year + holidays\n\n🏥Health Benefits: Comprehensive medical, dental and vision\nbenefits with 100% paid option\n\n📈401(k) Plan: Empower 401(k)\n\n🍼Paid Parental Leave\n\n💻Home Office Stipend: We're on Macbook Air M4s. Get a new\nmonitor, headset, and chair on us.\n\n🔰Learning & Development Stipend: We are a curious group that\nbelieves in learning.\n\n💪Autonomy and Agency: Contribute to the growth of one of the\nlargest newsletters in the world.\n\n📥 If you're ready to make a tremendous impact at a\nbootstrapped and profitable startup, please apply. Please\nlet us know if you need any accommodation during any part of\nthe interview process.\n\nPress and Publications\n\n- Inc story on how TLDR was founded\n- Pricing and demographic information in TLDR’s latest media\n  kit\n",
+  "skills_required": [
+    "AI-assisted coding tools",
+    "Claude Code",
+    "Claude Skills",
+    "LLM APIs",
+    "autonomous agents",
+    "context management",
+    "prompt engineering",
+    "structured outputs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and implement modular Claude Skills that connect to core systems like HubSpot, Google Drive, Slack, and Sponsy",
+    "Design clean abstractions enabling non-technical users to compose AI primitives into workflows without writing code",
+    "Ship autonomous AI agents using workflow automation platforms like n8n to handle sales, marketing, and operations tasks",
+    "Establish and maintain AI development infrastructure including tooling, templates, patterns, and documentation",
+    "Design composable interfaces between AI components where outputs from one tool become inputs to another",
+    "Create a production-ready Skills Library covering CRM analysis, proposal generation, knowledge base search, and competitive research"
+  ],
+  "use_cases": [
+    "CRM analysis and proposal generation for sales workflows",
+    "Knowledge base search and competitive research automation",
+    "Lead enrichment and content research through autonomous agents",
+    "Data hygiene and reporting without human intervention",
+    "Internal tooling for non-technical teammates to create AI workflows",
+    "Marketing and operations task automation using autonomous agents"
+  ],
+  "tools_mentioned": [
+    "Google Drive",
+    "HubSpot",
+    "Slack",
+    "n8n",
+    "workflow automation"
+  ],
+  "frameworks_mentioned": [
+    "AI-assisted coding tools",
+    "Claude Code",
+    "Claude Skills",
+    "LLM APIs",
+    "autonomous agents",
+    "context management",
+    "prompt engineering",
+    "structured outputs"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building production AI agents, designing\nClaude Skills, and implementing autonomous systems that\nhandle real business workflows. The engineer will directly\nwork on AI components including prompt engineering, context\nmanagement, and LLM APIs, rather than just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude Skills",
+      "Claude Code",
+      "prompt engineering",
+      "context management",
+      "LLM APIs",
+      "AI-assisted coding tools",
+      "structured outputs",
+      "autonomous agents"
+    ],
+    "ml": [],
+    "web": [
+      "HubSpot",
+      "Google Drive",
+      "Slack"
+    ],
+    "databases": [],
+    "data": [
+      "n8n",
+      "workflow automation"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

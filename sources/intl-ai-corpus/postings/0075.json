@@ -1,0 +1,131 @@
+{
+  "job_id": "intl-ai-corpus-0075",
+  "source": "intl-ai-corpus",
+  "source_ref": "6907294",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/6907294",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Translucent",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "18 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered accounting and finance tools",
+  "industries": [
+    "Fintech",
+    "Software"
+  ],
+  "description": "About Translucent\n\nTranslucent is building the future of accounting with AI.\nWe're reimagining how companies handle their finances by\nmaking AI a trusted teammate for finance teams—safe,\ntransparent, and always with humans in control.\n\nWe're not starting from zero. We've built an established\nbusiness that processes Xero and QuickBooks data at the\ntransaction level for thousands of companies across multiple\nentities. Our users rely on our consolidation, intercompany,\nand search tools daily—and their feedback is driving exactly\nwhat we build next.\n\nSmall team, big ownership, high bar. If you like working\nclose to customers, in a high quality team shipping fast,\nand the challenge of building something really different,\nyou will fit right in.\n\n\n\nRole overview\n\nYou will design and build production LLM applications and\nagent infrastructure, own our eval and reliability stack,\nand help shape both architecture and product direction.\n\n\n\nWhat you will do\n\n- Collaborate with product and domain experts to tackle messy\n  problems, define what to build, then lead the building of\n  it.\n- Stand up an evaluation harness: curate golden datasets from\n  real user intents and MCP responses, run offline unit-\n  style evals and online canary evals, and gate releases in\n  CI on eval outcomes.\n- Define and track LLM quality metrics: groundedness,\n  correctness, refusal correctness, tool-use success rate,\n  context precision and recall for RAG, latency budgets, and\n  cost per successful task.\n- Implement prompt and tool versioning with experiment\n  tracking, pairwise comparisons, PR checks, and rollback.\n- Instrument and monitor production systems for performance,\n  reliability, and cost-effectiveness.\n- Build guardrails: schema-validated structured outputs, auth\n  scopes for writeback, PII redaction before logging,\n  moderation and confidence checks, and circuit breakers.\n- Drive RAG quality: chunking and indexing strategy, filters\n  and hybrid search, document attribution and deduplication,\n  plus retriever evaluation vs latency and cost.\n- Manage cost and latency: caching, streaming UX, model\n  routing, and token accounting. Compare models with the\n  eval harness before changing defaults.\n\nWhat you will bring\n\n- Curiosity, pragmatism, and genuine excitement to build\n  something that doesn't exist today but should.\n- 4+ years of software engineering with strong backend and API\n  design. Full-stack profile with TypeScript (and modern\n  frontend frameworks) plus Python and Kotlin experience.\n- Shipped LLM apps or agents in production, including hands-on\n  evals using LangSmith, Promptfoo, TruLens, Phoenix,\n  DeepEval, or an equivalent home-grown setup.\n- Practical prompt engineering and tool-use design, including\n  structured outputs and function calling.\n- RAG experience: embeddings, vector stores, retrieval\n  patterns, and measurement of relevance and faithfulness.\n- System design for secure, observable, and scalable services\n  handling sensitive business data.\n- High ownership, clear communication, and comfort in a fast-\n  moving startup environment.\n",
+  "skills_required": [
+    "LLM applications",
+    "MCP",
+    "RAG",
+    "agents",
+    "embeddings",
+    "function calling",
+    "prompt engineering",
+    "structured outputs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build production LLM applications and agent infrastructure",
+    "Implement evaluation harness with golden datasets, offline and online evals, and CI-gated releases",
+    "Define and track LLM quality metrics including groundedness, correctness, tool-use success, and RAG context metrics",
+    "Implement prompt and tool versioning with experiment tracking and rollback capabilities",
+    "Build guardrails including schema-validated outputs, PII redaction, auth scopes, and circuit breakers",
+    "Drive RAG quality through chunking strategies, hybrid search, document attribution, and retriever evaluation",
+    "Manage cost and latency through caching, streaming, model routing, and token accounting"
+  ],
+  "use_cases": [
+    "AI-powered accounting assistant for finance teams",
+    "Intelligent processing and analysis of Xero and QuickBooks transaction data",
+    "Financial consolidation and intercompany transaction handling with AI assistance",
+    "Automated document retrieval and attribution for financial records",
+    "Safe and transparent AI teammate for sensitive financial operations"
+  ],
+  "tools_mentioned": [
+    "DeepEval",
+    "LangSmith",
+    "PII redaction",
+    "Phoenix",
+    "Promptfoo",
+    "TruLens",
+    "vector stores"
+  ],
+  "frameworks_mentioned": [
+    "LLM applications",
+    "MCP",
+    "RAG",
+    "agents",
+    "embeddings",
+    "function calling",
+    "prompt engineering",
+    "structured outputs"
+  ],
+  "languages_programming": [
+    "Kotlin",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role involves designing and building production LLM\napplications, agent infrastructure, and RAG systems. Hands-\non work with prompt engineering, tool versioning, LLM evals,\nand implementing guardrails directly on models, not\nsupporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM applications",
+      "agents",
+      "prompt engineering",
+      "RAG",
+      "function calling",
+      "MCP",
+      "structured outputs"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [],
+    "databases": [
+      "vector stores"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "LangSmith",
+      "Promptfoo",
+      "TruLens",
+      "Phoenix",
+      "DeepEval",
+      "PII redaction"
+    ],
+    "languages": [
+      "TypeScript",
+      "Python",
+      "Kotlin"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

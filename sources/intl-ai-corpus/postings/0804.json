@@ -1,0 +1,98 @@
+{
+  "job_id": "intl-ai-corpus-0804",
+  "source": "intl-ai-corpus",
+  "source_ref": "7167756",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/7167756",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Pattern",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-19",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "501 Employees",
+  "company_stage": null,
+  "company_focus": "E-commerce marketplace intelligence and automation",
+  "industries": [
+    "eCommerce",
+    "Logistics",
+    "Software",
+    "Analytics"
+  ],
+  "description": "About the Team\n\nWe’re a builder team at Pattern that ships products to\nstreamline operations and open new markets. We move quickly,\niterate directly with users, and give engineers real\nautonomy and ownership. AI is part of our daily toolkit—used\nto speed up product management, elevate experience design,\nand increase engineering velocity. We share what works and\ncontinually raise the bar together.\n\nThe Role\n\n- We’re looking for a Senior Software Engineer who enjoys\n  building innovative, scalable solutions for ambiguous\n  problems. You’ll work across the stack, collaborate with\n  product and design, and own projects from architecture\n  through launch and iteration.\n\nProblem Spaces You May Work In\n\n- You won’t be limited to a single domain. Recent and ongoing\n  initiatives include:\n- Short-Form Video Intelligence & Creative Tooling -Analyze\n  patterns in social video and power data-driven creative\n  workflows (insight extraction, content scoring, generation\n  pipelines).\n- Marketplace Content Optimization at Scale -Synthesize/enrich\n  product listings, normalize attributes and taxonomies, and\n  enable rapid experimentation to improve conversion.\n- Applied Automation & Robotics Enablement - Connect\n  perception, workflow orchestration, and operator tools to\n  improve reliability and throughput in physical operations.\n- AI Platform & Agentic Workflows - Retrieval, evaluation,\n  guardrails, and observability services that integrate AI\n  deeply into product experiences with the right\n  cost/latency/quality trade-offs.\n\nOur Preferred Stack\n\n- We hire senior engineering ability and adaptability. If\n  you’re willing to adopt our tools, we want to talk—even if\n  your background differs.\n- Languages & Frameworks: Python, FastAPI, React/Next.js(Good\n  to know)\n- Cloud & Infrastructure: AWS (Terraform (Good to know))\n- Data: SQL\n\nWhat You’ll Do\n\n- Design, build, and operate production systems with clear\n  interfaces, tests, and observability.\n- Partner directly with users and stakeholders to validate\n  value and iterate quickly.\n- Apply AI thoughtfully to accelerate development and improve\n  outcomes, and share your approach with the team.\n- Make pragmatic architecture decisions and own projects end-\n  to-end.\n\nWhat We’re Looking For\n\n- Senior-level experience delivering and operating production\n  software (typically 4+ years).\n- Strong backend skills (APIs, data modeling, cloud services)\n  and comfort working across the stack.\n- Product mindset: bias to action, care for UX, reliability,\n  and maintainability.\n- Curiosity and sound judgment in applying AI to real\n  workflows.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and operate production systems with clear interfaces, tests, and observability",
+    "Partner directly with users and stakeholders to validate value and iterate quickly",
+    "Apply AI thoughtfully to accelerate development and improve outcomes",
+    "Make pragmatic architecture decisions and own projects end-to-end",
+    "Work across the stack collaborating with product and design teams",
+    "Build AI platform services including retrieval, evaluation, guardrails, and observability"
+  ],
+  "use_cases": [
+    "Short-form video intelligence and creative tooling with insight extraction and content scoring",
+    "Marketplace content optimization at scale including product listing synthesis and attribute normalization",
+    "Applied automation and robotics enablement connecting perception and workflow orchestration",
+    "AI platform and agentic workflows with retrieval, evaluation, and guardrails"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "FastAPI",
+    "Next.js",
+    "React",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves building AI Platform & Agentic Workflows\nincluding retrieval, guardrails, and evaluation services,\nplus generation pipelines for video intelligence. This is\nhands-on work deploying and implementing AI systems, not\njust infrastructure support.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "React",
+      "Next.js"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

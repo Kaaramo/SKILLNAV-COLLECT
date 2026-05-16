@@ -1,0 +1,104 @@
+{
+  "job_id": "intl-ai-corpus-2821",
+  "source": "intl-ai-corpus",
+  "source_ref": "9028310",
+  "source_url": "https://www.builtinla.com/job/ai-engineer-agents-lead/9028310",
+  "title": "AI Engineer (Agents Lead)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Tambo",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-13",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Pre-seed",
+  "company_focus": "Open-source toolkit for building AI agents with React\ncomponents",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software",
+    "Generative AI"
+  ],
+  "description": "AI Engineer (Agent Lead)\n\nLocation: Remote (Pacific Time preferred) Type: Full-time\n\nAbout Tambo\n\nTambo is an open-source toolkit for building agents that\nrender your React components. We're five people, pre-seed,\nbuilding infrastructure for AI-native apps. Everyone\noperates like a mini-founder for their area.\n\nThe Role\n\nYou'll own the agent systems that make Tambo work. That\nmeans building the runtime, improving how agents reason and\nact, and figuring out what's possible when AI meets visual\ninterfaces.\n\nWe're not looking for someone who's \"interested in agents.\"\nWe want someone who's built them.\n\nWhat You'll Do\n\n- Build agent architectures that are fast, reliable, and\n  actually pleasant to work with\n- Research and ship techniques for agent reasoning, planning,\n  and tool use\n- Create evaluation pipelines so we can measure whether agents\n  are getting better or worse\n- Talk to users. Understand what's broken. Fix it.\n\nWhat We're Looking For\n\n- 5+ years shipping software\n- You've actually built agents or LLM-powered apps (not just\n  played with them)\n- You understand what LLMs can and can't do\n- You're comfortable with ambiguity. We're five people.\n  There's no playbook.\n\nBonus Points\n\n- Experience with TypeScript\n- Open-source or developer tools background\n- You've written or published stuff about agents\n- You've built or worked on coding agents\n\nComp may shift based on location and experience.\n",
+  "skills_required": [
+    "LLM-powered apps",
+    "agents",
+    "developer tools",
+    "open-source"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build agent architectures that are fast, reliable, and developer-friendly",
+    "Research and ship techniques for agent reasoning, planning, and tool use",
+    "Create evaluation pipelines to measure agent performance improvements",
+    "Talk to users to understand issues and fix them",
+    "Own the agent runtime and core agent systems",
+    "Improve how agents reason and act within visual interfaces"
+  ],
+  "use_cases": [
+    "Building agent runtime infrastructure for AI-native apps",
+    "Agent reasoning, planning, and tool use in production",
+    "AI agents that render and interact with visual UI components",
+    "Coding agents",
+    "Open-source developer toolkit for AI agent development"
+  ],
+  "tools_mentioned": [
+    "React",
+    "evaluation pipelines"
+  ],
+  "frameworks_mentioned": [
+    "LLM-powered apps",
+    "agents"
+  ],
+  "languages_programming": [
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly about building agent systems —\ndesigning agent architectures, implementing\nreasoning/planning/tool-use techniques, and creating\nevaluation pipelines for agents. The core work is hands-on\ndevelopment of AI agent infrastructure, making this clearly\nai-first.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "agents",
+      "LLM-powered apps"
+    ],
+    "ml": [],
+    "web": [
+      "React"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "evaluation pipelines"
+    ],
+    "languages": [
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "open-source",
+      "developer tools"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,101 @@
+{
+  "job_id": "intl-ai-corpus-0190",
+  "source": "intl-ai-corpus",
+  "source_ref": "7360718",
+  "source_url": "https://builtin.com/job/ai-software-engineer/7360718",
+  "title": "AI Software Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "HelpFlow",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "67 Employees",
+  "company_stage": "Established (10-year-old company)",
+  "company_focus": "AI-empowered virtual assistant service",
+  "industries": [
+    "Artificial Intelligence",
+    "eCommerce",
+    "Software"
+  ],
+  "description": "Position: AI Software Engineer\n\nWorking Hours: US Business Hours\n\nHiring Company: We are a 10 year old remote staffing\nbusiness with a fully remote team of 100+ employees. We\nstarted as a customer service agency, but have leveraged our\nclient experience and technical acumen to become the\nindustry's first AI empowered (human) virtual assistant\nservice.\n\nAbout the Role: We’re seeking an AI Software Engineer to\nbuild a multi-agent system that integrates AI Agents into\nbusiness teams. You’ll work directly with our CEO (a highly\ntechnical domain expert, but non-coder) to turn a clear\nvision and technical spec into a live system. This is a\nstrategic project to be spun out of a 10-year-old remote\nstaffing business with over 100 clients—giving us the\nability to innovate with you and the ability to invest in\ngrowth at launch.\n\nKey Responsibilities:\n\n- Planning‬‭ - Collaborate to translate vision and initial\n  technical specs into a development plan that you are\n  confident in building.‬\n- ‭ Decisions‬‭ - As part of developing the plan, make\n  architecture and strategy decisions that may need to\n  change from initial spec.‬\n- ‭ Process‬‭ - Execute best practice development process\n  against the plan, leveraging your development experience‬‭\n  and‬‭ AI coding.‬\n- ‭ Collaboration‬‭ - You will be primarily building, but\n  collaboration on product strategy and project management\n  will be important.‬\n\nRequirements\n\n‬\n\nExperience based: ( * are required)‬\n\n- * Strong programming skills (without AI) - real-world\n  experience writing and shipping production code\n- ‭* Deep experience with AI-powered software development -\n  primarily using Cursor in a systematic and scalable way.‬\n- * Technical experience building on OpenAI APIs and multi\n  agent SDKs (CrewAI, Vercel, and recently OpenAI Agents\n  SDK).‬\n- Experience working with cross functional cofounding teams -\n  including non coders that are involved in technical work.‬\n- Proven ability to build for short‬‭ AND long term - high-\n  leverage, modular systems, balancing technical debt vs\n  momentum.‬\n\n‭ Mindset based:‬\n\n- ‬All In on AI Development - you already build with AI, and\n  you’re pushing the edges of what’s possible.‬\n- You Know The AI Space - You’re listening to AI podcasts and\n  are active on X, testing and applying new insights\n  regularly.‬\n- Obsessively Innovating with AI - always refining how you use\n  AI tools to reduce friction and increase quality.‬\n- Curious and Optimistic - You approach novel problems and new\n  technology with excitement, not skepticism.‬\n- Entrepreneurial - You love building, but you love seeing\n  what you’ve built drive results. You thrive in the fast-\n  moving‬ startup environment and get energy from the grind\n  of building something quickly.‬\n\nBenefits\n\nThis is a 3 month contract role, with the opportunity to\nmove to full time employment in the future.\n\nNotes:\n\nOur CEO will be heavily involved in hiring, with the support\nof our recruitment team. Please expect communication from\nmultiple parties.\n",
+  "skills_required": [
+    "AI-powered software development",
+    "CrewAI",
+    "Cursor",
+    "OpenAI APIs",
+    "OpenAI Agents SDK",
+    "multi-agent systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate to translate vision and initial technical specs into a development plan",
+    "Make architecture and strategy decisions that may need to change from initial spec",
+    "Execute best practice development process against the plan using development experience and AI coding",
+    "Build primarily while collaborating on product strategy and project management",
+    "Design high-leverage, modular systems balancing technical debt vs momentum for short and long term success"
+  ],
+  "use_cases": [
+    "Building multi-agent systems that integrate AI Agents into business teams",
+    "Creating AI-empowered virtual assistant services for clients",
+    "Deploying AI solutions that augment human virtual assistants in customer service contexts",
+    "Implementing agent-based systems to automate and enhance business workflows",
+    "Developing AI-powered tools that integrate with existing remote staffing operations"
+  ],
+  "tools_mentioned": [
+    "Vercel"
+  ],
+  "frameworks_mentioned": [
+    "AI-powered software development",
+    "CrewAI",
+    "OpenAI APIs",
+    "OpenAI Agents SDK",
+    "multi-agent systems"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building a multi-agent system using\nOpenAI Agents SDK, CrewAI, and other AI frameworks. The\nengineer will directly work on implementing AI agents,\nintegrating AI APIs, and deploying AI-powered solutions,\nwhich aligns with ai-first classification.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI APIs",
+      "CrewAI",
+      "OpenAI Agents SDK",
+      "AI-powered software development",
+      "multi-agent systems"
+    ],
+    "ml": [],
+    "web": [
+      "Vercel"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [],
+    "domains": [],
+    "other": [
+      "Cursor"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

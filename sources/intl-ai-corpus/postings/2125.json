@@ -1,0 +1,153 @@
+{
+  "job_id": "intl-ai-corpus-2125",
+  "source": "intl-ai-corpus",
+  "source_ref": "8769189",
+  "source_url": "https://www.builtinla.com/job/senior-forward-deployed-engineer-ai-enablement/8769189",
+  "title": "Forward Deployed Engineer, AI Enablement",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Stord",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-16",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B+",
+  "company_focus": "Cloud-based supply chain and logistics platform for commerce\nbrands",
+  "industries": [
+    "Logistics",
+    "Software"
+  ],
+  "description": "Stord is The Consumer Experience Company, powering seamless\ncheckout through delivery for today's leading brands. Stord\nis rapidly growing and is on track to double our revenue in\nthe next 18 months. To meet and exceed this target, Stord is\nstrategically scaling teams across the entire company, and\nseeking energetic experts to help us achieve our mission.\n\nBy combining comprehensive commerce-enablement technology\nwith high-volume fulfillment services, Stord provides brands\na platform to compete with retail giants. Stord manages over\n$10 billion of commerce annually through its fulfillment,\nwarehousing, transportation, and operator-built software\nsuite including OMS, Pre- and Post-Purchase, and WMS\nplatforms. Stord is leveling the playing field for all\nbrands to deliver the best consumer experience at scale.\n\nWith Stord, brands can increase cart conversion, improve\nunit economics, and drive sustained customer loyalty.\nStord’s end-to-end commerce solutions combine best-in-class\nomnichannel fulfillment and shipping with leading technology\nto ensure fast shipping, reliable delivery promises, easy\naccess to more channels, and improved margins on every\norder.\n\nHundreds of leading DTC and B2B companies like AG1, True\nClassic, Native, Seed Health, quip, goodr, Sundays for Dogs,\nand more trust Stord to deliver industry-leading consumer\nexperiences on every order. Stord is headquartered in\nAtlanta with facilities across the United States, Canada,\nand Europe. Stord is backed by top-tier investors including\nKleiner Perkins, Franklin Templeton, Founders Fund, Strike\nCapital, Baillie Gifford, and Salesforce Ventures.\n\nStord is building the operating system for the modern supply\nchain — a unified platform that powers order management,\nwarehousing, transportation, and consumer experience for\nbrands doing over $10B in commerce annually. Behind that\nplatform is a large, fast-moving organization where ops\nteams, finance, CX, and logistics are still doing work that\nshould not require a human. That is where you come in. As a\nSenior Forward Deployed Engineer on the AI Enablement team,\nyour job is to get close to the people doing that work,\nunderstand exactly where the friction lives, and build\nagentic AI systems that make it disappear permanently. Not\nprototypes. Not internal demos. Production tools that change\nhow Stord operates — with your fingerprints on the outcome.\nThis role is not a traditional product engineering position.\nYou will operate more like an embedded problem-solver than a\nmember of a feature team — pairing engineering depth with\nthe curiosity and judgment to identify what is actually\nworth building. If you have shipped internal AI tooling at\nscale, move fast without breaking things, and get energy\nfrom seeing the people around you work better because of\nwhat you built — this role was designed for you.\n\nWhy This Role\n\n- Your users are Stord employees — you get direct, immediate\n  feedback on what works and what doesn't\n- Greenfield scope: we are early in systematically automating\n  internal workflows with AI, and you will define how it's\n  done\n- High autonomy: embed, identify the problem, propose the\n  approach, ship it — with minimal bureaucratic drag\n- Your work compounds: every reusable pattern and module you\n  build makes the next automation faster\n- AI investment is a company-level mandate — you will have\n  organizational support and real visibility\n\nWhat You'll Build\n\nThis is a sample of what you'll work on — the problems will\nevolve as the team grows and as you find the next highest-\nleverage target.\n\nTools for Internal Teams (CX, Finance, Ops, Logistics)\n\n- AI-powered tooling for Customer Experience teams — triaging\n  issues, surfacing context, automating resolution workflows\n- Finance automation — reconciliation, exception handling, and\n  reporting workflows that currently require manual effort\n- Ops and logistics tooling — dashboards, alerting, and\n  intelligent interfaces that reduce the manual burden on\n  warehouse and transportation teams\n- LLM-powered interfaces that let non-technical teams query,\n  act on, and get answers from operational data without\n  needing engineering support\n\nWorkflow Automation\n\n- End-to-end automation pipelines: observe workflow →\n  prototype → validate with domain experts → harden → ship\n  to production\n- Agentic systems with proper logging, retries, monitoring,\n  and edge case handling — not scripts that break silently\n- Integrations with internal systems (OMS, WMS, TMS, Billing)\n  via APIs and event streams\n- Reusable automation modules that accelerate future workflow\n  projects across the organization\n\nDeveloper Productivity Tooling\n\n- Internal AI-powered tools that reduce friction across the\n  engineering development lifecycle\n- Lightweight APIs and integrations that connect the systems\n  engineers rely on daily\n- Tooling that helps engineers at Stord write, review, and\n  ship code faster using agentic workflows\n\nInternal Data and Analytics Products\n\n- Automated reporting and alerting that replaces manual data\n  pulling and analysis\n- Dashboards and data products that surface operational\n  intelligence to the teams who need it\n- Self-serve data interfaces that reduce the back-and-forth\n  between operational teams and engineering\n\nHow You Work\n\n- Embed with a team, map the workflow end-to-end, identify the\n  highest-leverage automation target\n- Ship small, validate with domain experts, iterate fast —\n  production discipline from the very first commit\n- Collaborate with Product Engineering when automations touch\n  core platform systems; operate independently everywhere\n  else\n- Document and publish reusable patterns so the next engineer\n  — or the next automation — goes faster\n\nWhat We're Looking For\n\nRequired\n\n- LLM and agentic AI development (2+ years): Proven production\n  experience building AI agents and LLM-powered tools that\n  automate real workflows — not toys, not demos. You have\n  shipped them, monitored them, and fixed them when they\n  broke.\n- TypeScript / Node.js (3+ years): Production backend\n  experience. You reach for the right tool, and this is your\n  primary one.\n- AI-augmented development: You use AI coding tools (Claude\n  Code, Cursor, Codex, or equivalent) as a core part of your\n  workflow — not occasionally, but as the reason you can\n  move faster than a traditional engineering team.\n- LLM integration depth: Proven experience with OpenAI,\n  Anthropic, or equivalent — tool use, structured outputs,\n  prompt engineering, fallback handling, cost controls.\n- Embedded working style: You are comfortable sitting with\n  non-technical teams, earning their trust quickly, and\n  translating messy operational problems into clean\n  engineering solutions.\n- API design and integration: You have built RESTful APIs from\n  scratch and integrated with complex, sometimes poorly\n  documented internal systems.\n- Observability: You instrument your systems in production.\n  You know when something is broken before the user does.\n- Database: Advanced SQL with PostgreSQL. You can model data\n  and write queries that matter.\n- High agency: You identify the problem worth solving, propose\n  the approach, and drive to done with minimal direction.\n- Production discipline: Fast iteration does not mean fragile\n  systems. You build things that stay running.\n\nStrongly Preferred\n\n- Experience automating workflows in operational or back-\n  office contexts (finance, support, logistics, CX)\n- Vector databases and semantic search for internal knowledge\n  retrieval\n- Experience building internal developer tools or platforms\n- Python for scripting, data wrangling, or model integration\n- Familiarity with Stord's stack: Elixir/Phoenix, TypeScript,\n  Kafka, GCP\n\nNice to Have\n\n- Workflow orchestration tools (Temporal, Prefect, Airflow, or\n  similar)\n- Early-stage startup background — you have worn many hats and\n  shipped under pressure\n- Domain knowledge in logistics, supply chain, or operations-\n  heavy B2B environments\n- Hackathon experience or open source contributions\n\nWhat Success Looks Like\n\nIn your first 30 days, you have embedded with at least one\ninternal team, mapped a workflow end-to-end, and shipped\nsomething real into production. By 90 days, you have\nmeasurably reduced manual work that was previously just\naccepted as the cost of doing business — and people in that\nteam can point to it. By six months, internal teams are\ncoming to you with problems before they even think to file a\nticket, you have a library of reusable patterns that others\nare building on, and you are the person who set the standard\nfor how AI-powered internal tooling gets built at Stord.\n\nAbout Stord\n\nStord is a cloud-based supply chain platform that enables\nbrands to compete and grow through end-to-end logistics\nsolutions. We process over $10B in commerce annually and\noperate across Order Management (OMS), Warehouse Management\n(WMS), Transportation Management (TMS), Consumer Experience,\nand Demand Planning. We are backed by leading investors and\nare rapidly scaling our engineering organization to match\nour ambitions.\n",
+  "skills_required": [
+    "AI coding tools (Claude Code, Cursor, Codex)",
+    "Agentic AI systems",
+    "Anthropic API",
+    "Function calling / Tool use",
+    "LLM development",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG",
+    "Semantic search",
+    "Structured outputs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Embed with internal teams (CX, Finance, Ops, Logistics) to identify high-leverage automation opportunities and map workflows end-to-end",
+    "Build and deploy production agentic AI systems that automate internal workflows with proper logging, retries, monitoring, and edge case handling",
+    "Develop LLM-powered interfaces enabling non-technical teams to query and act on operational data",
+    "Create AI-powered tooling for Customer Experience teams including triaging issues and automating resolution workflows",
+    "Build finance automation systems for reconciliation, exception handling, and reporting workflows",
+    "Design and implement integrations with internal systems (OMS, WMS, TMS, Billing) via APIs and event streams",
+    "Develop reusable automation modules and patterns that accelerate future workflow projects",
+    "Build internal developer productivity tools and AI-powered coding assistance"
+  ],
+  "use_cases": [
+    "Customer experience issue triage and automated resolution workflows",
+    "Financial reconciliation, exception handling, and automated reporting",
+    "Warehouse and transportation operations dashboards with intelligent alerting",
+    "Natural language interfaces for non-technical teams to query operational data",
+    "Developer productivity tooling for faster code writing and review",
+    "Automated data pulling and analysis replacing manual reporting"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "GCP",
+    "Kafka",
+    "Observability / Monitoring",
+    "Phoenix",
+    "PostgreSQL",
+    "Prefect",
+    "RESTful APIs",
+    "Temporal",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AI coding tools (Claude Code, Cursor, Codex)",
+    "Agentic AI systems",
+    "Anthropic API",
+    "Function calling / Tool use",
+    "LLM development",
+    "OpenAI API",
+    "Prompt engineering",
+    "RAG",
+    "Semantic search",
+    "Structured outputs"
+  ],
+  "languages_programming": [
+    "Elixir",
+    "Node.js",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and deploying production agentic\nAI systems and LLM-powered tools that automate internal\nworkflows. The position requires hands-on work with AI\nagents, LLM integrations (OpenAI, Anthropic), prompt\nengineering, and shipping production AI tooling - not just\nsupporting infrastructure for others' AI work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM development",
+      "Agentic AI systems",
+      "OpenAI API",
+      "Anthropic API",
+      "Prompt engineering",
+      "Function calling / Tool use",
+      "Structured outputs",
+      "RAG",
+      "Semantic search",
+      "AI coding tools (Claude Code, Cursor, Codex)"
+    ],
+    "ml": [],
+    "web": [
+      "RESTful APIs",
+      "Phoenix"
+    ],
+    "databases": [
+      "Vector databases",
+      "PostgreSQL"
+    ],
+    "data": [
+      "Kafka",
+      "Temporal",
+      "Prefect",
+      "Airflow"
+    ],
+    "cloud": [
+      "GCP"
+    ],
+    "ops": [
+      "Observability / Monitoring"
+    ],
+    "languages": [
+      "TypeScript",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Elixir"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

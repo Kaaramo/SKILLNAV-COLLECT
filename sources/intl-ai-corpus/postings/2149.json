@@ -1,0 +1,174 @@
+{
+  "job_id": "intl-ai-corpus-2149",
+  "source": "intl-ai-corpus",
+  "source_ref": "8779536",
+  "source_url": "https://www.builtinla.com/job/ai-engineer/8779536",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Knotch",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Growth-stage",
+  "company_focus": "B2B content intelligence and AI-powered marketing\noptimization platform",
+  "industries": [
+    "AdTech",
+    "Big Data",
+    "Enterprise Web",
+    "Marketing Tech",
+    "Software"
+  ],
+  "description": "About Knotch\n\nWe're a growth-stage technology company helping brands\noptimize their content performance and harness AI for\nmarketing success. With a fast-paced, agile, entrepreneurial\nculture, we move quickly, adapt constantly, and thrive in\ndynamic environments. Through our Knotch platform, we meet\nour clients where they are and enable them to prove and\nimprove their content. With our newest innovation, AgentC—a\nmanaged AI service for marketers—we're transforming how\nmarketing teams plan, adapt, and execute across digital\nchannels.\n\nAbout the Role\n\nMost companies building AI agents are starting from scratch.\nKnotch isn't. We've spent years accumulating one of the\nrichest proprietary datasets in B2B content intelligence —\ndeep signals on how content performs, what drives\nengagement, and what separates great content from noise.\nThat data is our unfair advantage, and we're now ready to\nunleash it.\n\nWe're at the beginning of an exponential shift — moving from\na platform that surfaces insights to one that autonomously\nacts on them through Gen AI and Agentic AI. As a Sr. AI\nEngineer, you'll have access to a unique data foundation and\na leadership team fully committed to making AI central to\neverything Knotch does. This is a rare chance to build\nconsequential AI — not demos, not experiments, but\nproduction-grade agents that enterprise clients depend on.\n\nThis isn't an AI layer bolted onto an existing product. This\nis a ground-up reimagining of what content intelligence can\nbe in the age of large language models and agentic AI.\nYou'll shape not just how we build, but what we build and\nwhy. If you want to own the architecture, influence the\nroadmap, and watch your work directly move the needle for\nenterprise clients — this is that role.\n\nResponsibilities\n\n- Develop and deploy AI agents that automate complex workflows\n  across the Knotch platform.\n- Build the internal tools and infrastructure that power,\n  monitor, and maintain these agents in production.\n- Design and implement backend and frontend services, APIs,\n  and data pipelines, integrating AI functionality into\n  user-facing features.\n- Contribute to system architecture and core platform design\n  alongside the broader engineering team.\n- Collaborate closely with Product, Data Engineering, Backend,\n  and Frontend teams to align AI capabilities with product\n  direction and ensure seamless integration across the\n  stack.\n- Design and maintain a suite of evaluations and benchmarks to\n  measure agent accuracy, reliability, and cost-\n  effectiveness.\n- Optimize inference pipelines and backend systems for speed,\n  scalability, and cost.\n- Own the AI safety and governance layer — guardrails, audit\n  logging, fallback logic, and access controls that ensure\n  our agents operate reliably and responsibly.\n\nQualifications\n\nYou have at least 3+ years of software engineering\nexperience building and shipping LLM-powered applications,\nwithin within SaaS startup environments (marketing or\ndigital analytics experience is considered an asset).\n\nMust Haves\n\n- Prior startup, growth-stage, or SaaS platform experience\n  working in fast-paced, agile environments.\n\n- Hands-on experience building production AI agents using LLM\n  orchestration frameworks — LangGraph, LangChain, or\n  similar.\n- Deep familiarity with agentic patterns — tool/function\n  calling, multi-agent orchestration, memory management, and\n  MCP.\n- Strong Python proficiency and backend API development\n  experience.\n- Data Engineering and/or analytics background, including\n  building pipelines, transformations, and querying data\n  warehouses like Snowflake.\n- Solid grounding in NLP concepts — tokenization, embeddings,\n  semantic similarity, and how language models process and\n  generate text.\n- Experience building RAG pipelines and integrating LLMs\n  against structured data sources.\n- Prompt engineering fluency — systematic design, structured\n  outputs, and schema definitions.\n- An evaluation and observability mindset — you think about\n  how to measure and monitor agent behavior, not just ship\n  it.\n\nNice-to-Haves (not mandatory)\n\n- Experience with vector databases (Pinecone, pgvector,\n  Weaviate) or data warehouses like Snowflake.\n- Familiarity with AI guardrail frameworks — Guardrails AI,\n  NeMo Guardrails, or LlamaGuard.\n- Exposure to fine-tuning techniques — LoRA, PEFT, or\n  instruction tuning.\n- Prior experience in a founding or first AI engineer role.\n\nHow to be Successful\n\n- Have hands-on experience building and shipping LLM-powered\n  applications: you’ve moved beyond prototypes and\n  understand what it takes to run reliable AI systems in\n  production.\n- Strong intuition for agentic design patterns: you can\n  effectively leverage tool calling, multi-agent\n  orchestration, memory, and MCP to solve real-world\n  problems.\n- Fluency in modern AI frameworks and backend systems: you’re\n  comfortable working with tools like LangGraph or\n  LangChain, and building robust Python-based APIs.\n- Deep understanding of NLP and LLM behavior: you grasp\n  concepts like embeddings, tokenization, and semantic\n  similarity, and use that knowledge to build better\n  systems.\n- Thoughtful prompt and system design: you approach prompt\n  engineering methodically, with an emphasis on structured\n  outputs and reliability.\n- Evaluation and observability focus: you don’t just ship\n  agents; you think critically about how to measure,\n  monitor, and improve their performance over time.\n- Ownership and initiative: you take responsibility for your\n  work, influence technical direction, and proactively\n  identify opportunities to improve systems.\n- Adaptability and curiosity: you stay on top of a rapidly\n  evolving AI landscape and are eager to experiment, learn,\n  and apply new techniques.\n\nWhy Join Knotch We offer a unique opportunity to work with a\npowerful data moat built on years of proprietary B2B content\nintelligence, fuelling AI capabilities that competitors\nsimply can’t replicate. Our modern AI stack includes tools\nlike LangGraph, Claude, and Snowflake, supported by a team\nalready executing on an AI-native architecture. You’ll have\nreal ownership, with direct influence over system design,\nproduct direction, and roadmap decisions. The work is deeply\nconsequential: the agents you build will be deployed in\nproduction for enterprise clients from day one, not confined\nto a sandbox. Most importantly, you’ll be backed by\ncommitted leadership — at Knotch, AI isn’t a side\ninitiative; it’s the company’s next chapter. The expected\nsalary range for this opportunity is $140,000–$220,000 USD\ndepending on experience.\n\nOur Benefits and Perks\n\nKnotch is a fully remote company. Candidates may work from\nanywhere in the U.S., Eastern time zone are preferred. Some\nof our other great benefits include:\n\n- Comprehensive medical, dental, and vision insurance\n  eligibility\n- 401(k) plan\n- Unlimited PTO\n- 10+ company-paid holidays\n- A daily company-wide break, and more!\n\nEqual Opportunity Employer\n\nKnotch is a US-based equal opportunity employer. We strive\nto provide equal opportunities in all of our processes,\nincluding our hiring and employee experience. We pride\nourselves on our three values: transparency, relentlessness,\nand inclusiveness.\n\n\n\nWe commit to daily work towards leading with empathy,\nreducing bias through periodic training, and engaging with\nand uplifting communities of marginalized groups. We condemn\nall forms of racism and discrimination on the basis of race,\nreligion, ethnicity, nationality, gender identity, sexual\norientation, age, marital status, pregnancy or parenthood\nstatus, veteran status, disability status, or any other\nidentifier. We encourage all employees, clients, investors,\ncandidates, vendors, and friends of Knotch to deliver honest\nfeedback directly or anonymously so that we may always seek\nto improve as an organization dedicated to diversity,\nequity, inclusion, and belonging.\n",
+  "skills_required": [
+    "Claude API",
+    "Embeddings",
+    "Guardrails AI",
+    "LangChain",
+    "LangGraph",
+    "LlamaGuard",
+    "LoRA",
+    "MCP",
+    "Multi-agent orchestration",
+    "NLP concepts",
+    "NeMo Guardrails",
+    "PEFT",
+    "Prompt engineering",
+    "RAG pipelines",
+    "Semantic similarity",
+    "Tokenization",
+    "Tool/function calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and deploy AI agents that automate complex workflows across the Knotch platform",
+    "Build the internal tools and infrastructure that power, monitor, and maintain these agents in production",
+    "Design and implement backend and frontend services, APIs, and data pipelines, integrating AI functionality into user-facing features",
+    "Contribute to system architecture and core platform design alongside the broader engineering team",
+    "Design and maintain a suite of evaluations and benchmarks to measure agent accuracy, reliability, and cost-effectiveness",
+    "Optimize inference pipelines and backend systems for speed, scalability, and cost",
+    "Own the AI safety and governance layer including guardrails, audit logging, fallback logic, and access controls",
+    "Collaborate closely with Product, Data Engineering, Backend, and Frontend teams to align AI capabilities with product direction"
+  ],
+  "use_cases": [
+    "Content performance optimization for enterprise brands",
+    "Marketing automation through AI agents",
+    "Content intelligence and engagement analytics",
+    "Autonomous content planning and execution across digital channels",
+    "B2B content strategy optimization using proprietary data"
+  ],
+  "tools_mentioned": [
+    "Agent monitoring and observability",
+    "Data pipelines",
+    "Docker",
+    "ETL",
+    "FastAPI",
+    "Inference optimization",
+    "Kubernetes",
+    "Pinecone",
+    "REST APIs",
+    "Snowflake",
+    "Weaviate",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Claude API",
+    "Embeddings",
+    "Guardrails AI",
+    "LangChain",
+    "LangGraph",
+    "LlamaGuard",
+    "LoRA",
+    "MCP",
+    "Multi-agent orchestration",
+    "NLP concepts",
+    "NeMo Guardrails",
+    "PEFT",
+    "Prompt engineering",
+    "RAG pipelines",
+    "Semantic similarity",
+    "Tokenization",
+    "Tool/function calling"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying\nproduction AI agents using LLM orchestration frameworks\n(LangGraph, LangChain). The engineer will work on agentic\npatterns, RAG pipelines, and build consequential AI systems\nthat enterprise clients depend on—clearly hands-on work\nbuilding and deploying AI/ML systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "RAG pipelines",
+      "Prompt engineering",
+      "Multi-agent orchestration",
+      "Tool/function calling",
+      "MCP",
+      "Claude API",
+      "PEFT",
+      "LoRA",
+      "Guardrails AI",
+      "NeMo Guardrails",
+      "LlamaGuard"
+    ],
+    "ml": [
+      "NLP concepts",
+      "Tokenization",
+      "Embeddings",
+      "Semantic similarity"
+    ],
+    "web": [
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [
+      "Snowflake",
+      "Pinecone",
+      "pgvector",
+      "Weaviate"
+    ],
+    "data": [
+      "Data pipelines",
+      "ETL"
+    ],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Inference optimization",
+      "Agent monitoring and observability"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

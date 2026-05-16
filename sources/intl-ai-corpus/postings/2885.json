@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-2885",
+  "source": "intl-ai-corpus",
+  "source_ref": "9053124",
+  "source_url": "https://builtin.com/job/lead-ai-engineer/9053124",
+  "title": "Lead AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Razorpay",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,200 Employees",
+  "company_stage": "Series F / Late Stage (raised $740M+)",
+  "company_focus": "Full-stack fintech company powering payments and financial\nservices",
+  "industries": [
+    "eCommerce",
+    "Fintech",
+    "Payments",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "Razorpay is one of India’s leading full-stack financial\ntechnology companies, powering the way businesses move,\nmanage, and grow money. Founded in 2014 by Harshil Mathur\nand Shashank Kumar with a simple vision - to simplify\npayments for Indian businesses - we’ve since grown into a\nfintech powerhouse driving India’s digital payment\nrevolution.\n\nRazorpay powers millions of businesses with a smarter,\nscalable stack that goes beyond transactions to help them\ntruly build and grow.\n\nFrom building AI-native agentic payments, to AI-assisted\nfraud detection and real-time risk intelligence to automated\nreconciliation, smart payouts, and predictive financial\ninsights, we are embedding intelligence across our stack to\nmake money movement faster, safer, and more efficient. In\nclose collaboration with ecosystem partners - including\nbanks, networks, regulators - we are pioneering industry-\nfirst solutions that are shaping the next era of fintech\n\nAcross India, Singapore and Malaysia, our products span\neverything from seamless checkouts to payroll automation -\npowering a fintech ecosystem that’s redefining how money\nmoves across Asia.\n\nToday, that ecosystem supports everyone from early-stage\nstartups to some of India’s largest enterprises, enabling\nthem to accept, process, and disburse payments at scale\nwhile expanding into new ways of managing money more\nefficiently.\n\nOur scale speaks volumes: Razorpay processes $180+ billion\nin annualized transactions, powering leading businesses like\nAirbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow,\nZomato, Swiggy, Lenskart, Mirae Asset Capital markets,\nIndian Oil, National Pension Scheme - and over 100 of\nIndia’s unicorns. With strong roots in India and growing\noperations in Southeast Asia, we are shaping the next\nchapter of financial technology across the region.\n\nWe are backed by global investors including GIC, Peak XV\nPartners (formerly Sequoia Capital India & SEA), Tiger\nGlobal, Ribbit Capital, Matrix Partners, MasterCard, and\nSalesforce Ventures, having raised over $740 million to\ndate. Strategic acquisitions - including Ezetap (POS and\noffline payments), Curlec (Malaysia expansion), BillMe\n(digital invoicing), and POP (rewards-first UPI) - along\nwith earlier moves in fraud prevention, payroll, and\nlending, have further strengthened our platform and widened\nour footprint across Asia.\n\nBut what truly sets Razorpay apart is our culture. At\nRazorpay, ownership is our oxygen - you own what you build,\nwith no micromanagement or red tape, just the runway to make\nyour ideas fly. Learning is a lifestyle - if you’re curious,\nyou’ll feel at home here. People > Pedigree - we hire for\nattitude, hustle, and hunger more than degrees. Transparency\nthrives over titles - this is where interns question CXOs\nand CXOs say “thank you.” Guided by our values of Customer\nFirst, Autonomy & Ownership, Agility with Integrity,\nTransparency, Challenging the status quo and a strong belief\nthat Razorpay grows with Razors,  you’ll be part of a 3000+\nstrong team building not just products, but the financial\ninfrastructure of the future.\n\nAbout the Team\n\nRazorpay's agentic products are scaling fast. Agent-powered\nonboarding, dashboard experiences, and automation workflows\nare live and growing, and the engineering teams building\nthem are moving quickly. As we scale, we need shared\ninfrastructure that lets every product team access the best\nmodel for each task without having to build routing,\nobservability, or resilience logic themselves.\n\nWe are building an AI Inference Platform: a centralized\nlayer that handles intelligent model routing, cost\noptimization, and quality observability across all of\nRazorpay's agentic products. The goal is simple. Product\nteams declare what kind of task they need done. The platform\ntakes care of picking the right model, managing fallbacks,\nand tracking cost and quality. Teams stay focused on\nshipping features.\n\n\n\nAbout the Role\n\nAs Lead AI Engineer on the platform side, you build the\ninference orchestration layer that sits between our product\nteams and their model providers. Routing, fallbacks, cost\ntracking, A/B testing for model swaps, and observability are\nall yours. Your customers are internal engineering teams,\nand your job is to give them a single reliable interface to\nevery model the org uses while keeping the complexity of\nthat routing layer off their plates.\n\nYou also own the observability and eval-in-production\ninfrastructure: standardized tracing and cost dashboards\nacross all agentic products, and the shadow-testing\ninfrastructure that lets us validate model swaps safely\nbefore they reach production traffic.\n\nWhat You’ll Build\n\n- Build and operate a unified model gateway that abstracts\n  provider complexity for product teams. Teams work with a\n  clean interface; the platform handles routing, provider\n  selection, and fallback logic under the hood\n- Design and implement intelligent routing that matches each\n  request to the right model based on task complexity,\n  latency requirements, and cost targets. Not every call\n  needs the same model\n- Build resilience into the platform so provider outages, rate\n  limits, and latency spikes are handled transparently.\n  Agentic workflows stay up regardless of what happens\n  upstream\n- Own the observability layer across all AI-powered products:\n  cost per call, latency distributions, token usage, and\n  quality signals. Give product teams and leadership a clear\n  view of how AI is performing and what it costs\n- Build the infrastructure for safe model transitions: run new\n  models alongside production, compare outputs, and roll out\n  changes gradually with automated quality checks at every\n  stage\n- Drive continuous cost efficiency through caching strategies,\n  request optimization, and per-team spend attribution so\n  the org can scale AI usage without costs growing linearly\n  with traffic\n\n\n\nWhat We’re Looking For\n\n- 5 to 8 years as a backend or platform engineer, with a track\n  record of building API gateways, middleware, or developer\n  platform services at scale. Strong in Go or Python\n- Experience building high-availability, low-latency\n  distributed systems: load balancing, circuit breakers,\n  graceful degradation, retry logic, and observability using\n  Prometheus, Grafana, OpenTelemetry, or equivalent\n- Solid understanding of LLM APIs and token economics. You can\n  design routing rules based on input/output token pricing,\n  streaming vs. batch tradeoffs, and how prompt length\n  affects both cost and latency\n- You think in platform terms. You know the difference between\n  building for end users and building for engineers, and you\n  know that internal platform quality shows up in other\n  teams’ velocity\n- Familiarity with LLM orchestration and observability\n  tooling: LiteLLM, Portkey, Langfuse, LangChain, or\n  similar. You do not need to have used all of them, but you\n  need to understand the landscape well enough to make good\n  choices\n- Experience with Kubernetes and distributed systems. GPU\n  workload scheduling or ML serving infrastructure is a\n  meaningful bonus\n\nWhy This Role is Different\n\n- The platform you build becomes the backbone of every AI-\n  powered product at Razorpay. Good infrastructure decisions\n  here compound across every team and every workflow that\n  ships on top of it\n- You work on real scale from day one. The problems are\n  concrete, the feedback loop is tight, and the impact of\n  what you build shows up in production metrics quickly\n- This role combines deep platform engineering with the\n  emerging discipline of LLM infrastructure. It is a rare\n  combination that puts you at the leading edge of how AI\n  systems are built in production\n- You are embedded in the decision-making, not downstream of\n  it. You work directly with ML engineers and product teams,\n  and your input shapes how the org approaches model\n  selection, cost, and quality at every level\n- You get genuine ownership over the architecture. This is a\n  space where the right patterns are still being defined,\n  and you have the scope to make meaningful design decisions\n  rather than inherit them\n\nCompensation & Benefits\n\nCompetitive compensation with ESOPs, comprehensive health\ninsurance, learning and development budget, and all the\nperks of working at one of India’s leading fintech\ncompanies.\n\nRazorpay believes in and follows an equal employment\nopportunity policy that doesn't discriminate on gender,\nreligion, sexual orientation, colour, nationality, age, etc.\nWe welcome interests and applications from all groups and\ncommunities across the globe.\n\n\n\nFollow us on LinkedIn & Twitter\n",
+  "skills_required": [
+    "LLM API routing and orchestration",
+    "LangChain",
+    "Langfuse",
+    "LiteLLM",
+    "Portkey",
+    "Prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and operate a unified model gateway that abstracts provider complexity for internal product teams, handling routing, provider selection, and fallback logic",
+    "Design and implement intelligent routing that matches each request to the right model based on task complexity, latency requirements, and cost targets",
+    "Build resilience into the platform to handle provider outages, rate limits, and latency spikes transparently for agentic workflows",
+    "Own the observability layer across all AI-powered products including cost per call, latency distributions, token usage, and quality signals",
+    "Build infrastructure for safe model transitions including shadow testing, output comparison, and gradual rollouts with automated quality checks",
+    "Drive continuous cost efficiency through caching strategies, request optimization, and per-team spend attribution",
+    "Work directly with ML engineers and product teams to shape org-wide model selection, cost, and quality decisions"
+  ],
+  "use_cases": [
+    "AI-native agentic payments processing",
+    "AI-assisted fraud detection and real-time risk intelligence",
+    "Agent-powered onboarding and dashboard experiences",
+    "Automated reconciliation and smart payouts",
+    "Predictive financial insights for businesses",
+    "Centralized LLM inference orchestration for all agentic products"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "API Gateway design",
+    "Caching strategies",
+    "Circuit breakers",
+    "Distributed systems",
+    "Docker",
+    "GPU workload scheduling",
+    "Grafana",
+    "Kubernetes",
+    "Load balancing",
+    "ML serving infrastructure",
+    "OpenTelemetry",
+    "Prometheus",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "LLM API routing and orchestration",
+    "LangChain",
+    "Langfuse",
+    "LiteLLM",
+    "Portkey",
+    "Prompt engineering"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is ai-first because it involves building and\noperating a centralized AI inference platform that directly\nhandles LLM model routing, fallbacks, cost optimization, and\nquality observability. While it's a platform role, the\nengineer is working directly ON the infrastructure that\norchestrates and serves AI/LLM models — designing routing\nrules based on token economics, building model gateways, and\nmanaging LLM-specific infrastructure like shadow testing for\nmodel swaps.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LiteLLM",
+      "Portkey",
+      "Langfuse",
+      "LangChain",
+      "LLM API routing and orchestration",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "API Gateway design",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Caching strategies",
+      "A/B testing"
+    ],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Prometheus",
+      "Grafana",
+      "OpenTelemetry",
+      "Docker",
+      "Distributed systems",
+      "Load balancing",
+      "Circuit breakers",
+      "GPU workload scheduling",
+      "ML serving infrastructure"
+    ],
+    "languages": [
+      "Go",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:01+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

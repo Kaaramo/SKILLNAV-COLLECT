@@ -1,0 +1,102 @@
+{
+  "job_id": "intl-ai-corpus-0320",
+  "source": "intl-ai-corpus",
+  "source_ref": "7774049",
+  "source_url": "https://builtin.com/job/fullstack-engineer-generative-ai-backend-focus/7774049",
+  "title": "Fullstack Engineer, Generative AI (Backend Focus)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cracken",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "19 Employees",
+  "company_stage": "Seed",
+  "company_focus": "Agentic AI copilot for cybersecurity assessments",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "About Company\n\nCracken is a fast-growing Silicon Valley-based startup built\nby elite nation-state and commercial operators who defended\ncritical cyber infrastructure during the war in Ukraine,\nresearched AI and cybersecurity at MIT and Kyiv Polytechnic,\nand led teams at Apple, Google, Palo Alto Networks,\nHackerOne, DIU, Comcast, HP, and more.\n\nWe tame Cracken, an AI Agent for Cybersecurity with human-\nin-the-loop. Our flagship product, is an agentic AI copilot\ndrastically scaling cyber assessments for enterprises and\ngovernments.\n\nWe are growing and seeking an extremely talented software\nengineer to help us pioneer the future of cybersecurity.\n\nResponsibilities\n\n- Product Software Engineering: Hands-on engineering and\n  testing of the product in various capacities, focusing on\n  AI Agent features.\n- Agents Framework Engineering: Hands-on engineering and\n  testing of the internal agent’s framework (similar to\n  LangChain / Haystack and others).\n- Research & Development: Stay updated with the latest in AI\n  and AI Agents. Provide relevant insights to the team and\n  integrate innovations.\n\nRequirements\n\n- Ideally 5+ years of experience in Python (we can consider\n  less experienced engineers, who learn very quickly and are\n  ready to work in the startup environment)\n- Experience with Generative AI\n- Experience with Generative AI Agents will be a huge plus,\n  specifically:\n\n   — implementation of Generative AI Agents using Langchain\n/ Haystack and others\n\n   — implementation of RAG using LlamaIndex and other\nAdvanced RAG frameworks\n\n   — evaluation of AI Agent Performance\n\n   — integration of AI Agents into Existing Systems\n\n- Cybersecurity product background: worked on security-focused\n  software or platforms.\n\nNice To Have\n\n- Master’s or Ph.D. in Computer Science, Cybersecurity, or\n  related fields.\n- Interest or active participation in cybersecurity-related\n  activities.\n- Contributions to AI / CS/ Cybersecurity research, blogs, or\n  whitepapers showcasing expertise.\n- Experience in developing or contributing to open-source\n  developer tools or frameworks.\n\nWhy Cracken?\n\n- Real-World Impact: Validated in nation-state operations and\n  supported by internal researches.\n- Team's Unique Motivation & Expertise: Ukrainian-heavy\n  international team with Ph.D.s, professors, and top-tier\n  industry veterans, driven by intrinsic passion forged\n  through exposure to the hardships of war.\n- Impeccable Timing & Positioning: At the cutting edge of AI,\n  cybersecurity, and autonomous systems, Cracken is best\n  positioned to win the race against adversaries.\n",
+  "skills_required": [
+    "AI Agent evaluation",
+    "AI Agents",
+    "Haystack",
+    "LangChain",
+    "LlamaIndex",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Hands-on engineering and testing of the product, focusing on AI Agent features",
+    "Engineering and testing of the internal agent's framework (similar to LangChain/Haystack)",
+    "Research and development to stay updated with AI and AI Agents innovations",
+    "Integrate new AI technologies and insights into the product"
+  ],
+  "use_cases": [
+    "AI Agent copilot for cybersecurity assessments",
+    "Agentic AI system for enterprise and government cyber assessments",
+    "Human-in-the-loop AI cybersecurity operations",
+    "Autonomous cyber assessment scaling"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "AI Agent evaluation",
+    "AI Agents",
+    "Haystack",
+    "LangChain",
+    "LlamaIndex",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role is building, testing, and implementing AI Agents\nand an internal agent framework similar to\nLangChain/Haystack. This is hands-on work directly on AI\nsystems - implementing RAG, evaluating agent performance,\nand integrating agents into existing systems, which\nqualifies as ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Haystack",
+      "LlamaIndex",
+      "RAG",
+      "AI Agents",
+      "AI Agent evaluation"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "cybersecurity"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

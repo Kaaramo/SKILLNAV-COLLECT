@@ -1,0 +1,98 @@
+{
+  "job_id": "intl-ai-corpus-2344",
+  "source": "intl-ai-corpus",
+  "source_ref": "8854116",
+  "source_url": "https://builtin.com/job/senior-software-engineer-infrastructure-well-funded-series-b-ai-startup/8854116",
+  "title": "Senior Software Engineer (Infrastructure) at well-funded Series B AI startup",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Jack & Jill AI",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Multi-modal AI data curation and indexing platform",
+  "industries": [
+    "Artificial Intelligence",
+    "HR Tech",
+    "Productivity",
+    "Software"
+  ],
+  "description": "This is a job that Jill, our AI Recruiter, is recruiting for\non behalf of one of our customers. She will pick the best\ncandidates from Jack's network\n\nThe next step is to speak to Jack.\n\nSenior Software Engineer\n\nCompany Description: Well-funded Series B AI startup\n\nJob Description: You will architect and build the backend\nfor high-performance systems managing billions of data\npoints. This role involves scaling infrastructure to handle\nmassive volumes of unstructured data for machine learning\nworkflows. Working with a veteran team, you will ensure the\nplatform remains fast and reliable as the company enters a\nstage of hyper-growth.\n\nLocation: London, UK\n\nWhy this role is remarkable:\n\n- Join a high-performing engineering team including ex-\n  founders and veterans from elite tech firms\n- Impact the frontier of multi-modal AI by building the core\n  infrastructure for data curation and indexing\n- Benefit from a culture of high autonomy, end-to-end\n  ownership, and rapid career progression during expansion\n\nWhat you will do:\n\n- Design and maintain performant systems using a modern stack\n  including Python, Rust, and Clickhouse\n- Take full ownership of projects from initial architectural\n  decisions through to deployment and monitoring\n- Solve complex scaling challenges related to querying and\n  manipulating massive datasets at global scale\n\nThe ideal candidate:\n\n- Extensive experience building and maintaining large-scale,\n  reliable backend systems from the ground up\n- Deep technical proficiency with PostgreSQL and column-\n  oriented analytics systems like Clickhouse\n- A builder mindset that thrives on solving technical\n  ambiguity with simple, maintainable, and robust solutions\n\nWho are Jack & Jill? Ok, I'll go first. I'm Jack, an AI that\ngets to know you on a quick call, learning what you're great\nat and what you want from your career. Then I help you land\nyour dream job by finding unmissable opportunities as they\ncome up, supporting you with applications, interview prep,\nand moral support. And I'm Jill, an AI Recruiter who talks\nto companies to understand who they're looking to hire. Then\nI recruit from Jack's network, making an introduction when I\nspot an excellent candidate.\n\nNext steps Step 1. Visit our website Step 2. Click 'Talk to\nJack' Step 3. Talk to Jack so he can understand your\nexperience and ambitions Step 4. Jack will make sure Jill\n(the AI agent working for the company) considers you for\nthis role Step 5. If Jill thinks you're a great fit and her\nclient wants to meet you, they will make the introduction\nStep 6. If not, Jack will find you excellent alternatives.\nAll for free\n\nWe never post fake jobs This isn't a trick. This is an open\nrole that Jill is currently recruiting for from Jack's\nnetwork. Sometimes Jill's clients ask her to anonymize their\njobs when she advertises them, which means she can't share\nall the details in the job description. We appreciate this\ncan make them look a bit suspect, but there isn't much we\ncan do about it.\n\nGive Jack a spin! You could land this role. If not, most\npeople find him incredibly helpful with their job search,\nand we're giving his services away for free.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and build backend systems for high-performance data management handling billions of data points",
+    "Design and maintain performant systems using Python, Rust, and Clickhouse",
+    "Scale infrastructure to handle massive volumes of unstructured data for machine learning workflows",
+    "Take full ownership of projects from architectural decisions through deployment and monitoring",
+    "Solve complex scaling challenges related to querying and manipulating massive datasets at global scale",
+    "Ensure platform remains fast and reliable during hyper-growth phase"
+  ],
+  "use_cases": [
+    "Managing billions of data points for ML workflows",
+    "Processing and indexing massive volumes of unstructured data",
+    "Multi-modal AI data curation and indexing",
+    "High-performance querying and manipulation of global-scale datasets"
+  ],
+  "tools_mentioned": [
+    "Backend systems design",
+    "Clickhouse",
+    "Large-scale distributed systems",
+    "PostgreSQL"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "Rust",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role builds backend infrastructure and data systems\nthat SUPPORT machine learning workflows, but does not\ninvolve directly building, training, fine-tuning, or\ndeploying AI/ML models. The work focuses on scaling data\ninfrastructure, not hands-on ML engineering.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "Backend systems design"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Clickhouse"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Large-scale distributed systems"
+    ],
+    "languages": [
+      "Python",
+      "Rust",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

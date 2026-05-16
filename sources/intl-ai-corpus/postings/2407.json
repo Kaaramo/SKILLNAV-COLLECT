@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-2407",
+  "source": "intl-ai-corpus",
+  "source_ref": "8874849",
+  "source_url": "https://builtin.com/job/solution-engineer-ai-automation/8874849",
+  "title": "Solution Engineer (AI & Automation)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Boku",
+  "company_type": "entité morale privée",
+  "location": "Mumbai, IND",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "513 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global mobile-first payments solutions provider",
+  "industries": [
+    "Payments",
+    "Financial Services"
+  ],
+  "description": "Boku Inc. (BOKU.L) is the leading global provider of local\nmobile-first payments solutions. Global brands including\nAmazon, DAZN, Meta, Google, Microsoft, Netflix, Sony,\nSpotify, and Tencent rely on Boku to reach millions of new\npaying consumers who do not use credit cards with our\npurpose-built payment network of more than 300 local payment\nmethods across 70+ countries. Every year, Boku processes\nover $10 billion in value for our customers. Incorporated in\n2008, Boku is headquartered in London and San Francisco and\nhas employees in over 39 countries around the world,\nincluding Brazil, China, Estonia, Germany, Ireland, Japan,\nSingapore, and the UAE. Boku is a truly global company that\ntakes pride in its diversity and thriving equal opportunity\nworkplace.\n\nRole Purpose\n\nBoku is building a next-generation enterprise automation and\nAI platform to serve the whole organisation. This platform\ncombines an AI-native agent and chat layer with a dedicated\nworkflow automation capability, delivered as a shared\nAutomation-as-a-Service (AaaS) model across Global IT and\nthe wider business. The Solution Engineer is a hands-on\ntechnical role responsible for designing and delivering the\nplatform and the automation and integration solutions built\non and around it. The role spans full-stack engineering -\nfrom backend integration and agent configuration through to\nfrontend tooling — and requires the ability to translate\nreal business problems into scoped, well-architected\nautomation solutions. This is a senior individual\ncontributor role that demands autonomy, critical thinking,\nand clear ownership of delivery.\n\nKey Responsibilities\n\n- Design and deliver the AaaS platform alongside automation\n  and integration solutions that support business and IT\n  processes, working across both the core platform and\n  solutions built on top of it.\n- Translate cross-functional business problems into scoped\n  automation use cases — defining inputs, outputs, required\n  tools, decision points, and appropriate human confirmation\n  gates.\n- Contribute to the development and evolution of the AaaS\n  capability, including reusable components, integration\n  patterns, and shared standards.\n- Work with stakeholders across IT and the business to\n  identify automation opportunities and gather clear\n  requirements.\n- Build, test, deploy, and support automation and integration\n  solutions to a production-ready standard.\n- Design, configure, and orchestrate AI agent behaviours —\n  including tool scoping, skill composition, guardrail\n  design, and agent orchestration — in line with platform\n  architecture and governance requirements.\n- Create and maintain technical documentation, runbooks, and\n  solution design artefacts.\n- Apply AI and intelligent automation where it adds clear,\n  demonstrable value — and advise stakeholders honestly on\n  where it does not.\n- Collaborate with Global IT teams to ensure solutions meet\n  security, compliance, and operational requirements.\n\nSkills & Experience\n\nRequired\n\n- Hands-on experience designing and building automation and\n  integration solutions in real-world enterprise\n  environments.\n- Strong working knowledge of TypeScript and Python;\n  comfortable with SQL for querying and schema\n  understanding.\n- Frontend development experience with React, including\n  building functional interfaces and understanding of SSO /\n  MSAL authentication flows.\n- Practical experience with Azure-native services, including\n  serverless compute, Azure App Service, Azure SQL, and\n  Entra ID / RBAC.\n- Strong understanding of REST API design, OAuth 2.0,\n  webhooks, and enterprise SaaS integration patterns.\n- Experience integrating with enterprise platforms across\n  service delivery, HR, finance, sales, marketing, and\n  collaboration functions (e.g. ITSM tooling, ERP, Microsoft\n  365 / Graph).\n- Understanding of LLM orchestration, agent framework\n  composition, tool call design, and agent orchestration\n  across enterprise AI platforms — including experience with\n  API-based and cloud-hosted model providers.\n- Familiarity with MCP (Model Context Protocol), A2A patterns,\n  and other emerging agent integration standards.\n- Experience with RAG pipeline design, prompt engineering, and\n  applying AI in constrained, governed environments.\n- Ability to scope automation use cases from ambiguous\n  business requirements — identifying boundaries, risks, and\n  decision points before building.\n- Comfortable owning delivery end-to-end as an individual\n  contributor — from design through to production support —\n  with a solid approach to testing, structured logging, and\n  operational observability.\n- Awareness of RPA and AI-powered process automation\n  principles, and where they apply versus custom-built\n  solutions.\n- Understanding of security requirements in regulated\n  environments, including audit trails, PII handling, access\n  control, and human confirmation gates for side-effecting\n  actions.\n- Confident engaging with stakeholders across business domains\n  to surface automation opportunities, define requirements,\n  and set realistic expectations.\n- Works well as part of a wider team while maintaining clear\n  personal accountability for their own goals and\n  deliverables.\n\nDesirable\n\n- Experience working with shared automation platforms or AaaS\n  models.\n- Experience in a global or enterprise IT environment.\n- Familiarity with compliance frameworks such as ISO 27001,\n  SOC 2, or DORA.\n- Contribution to platform or capability build in a greenfield\n  or evolving environment\n- Experience working in a product-led technology organisation.\n\nTechnologies & Tools\n\n- TypeScript / Node.js, Python, SQL\n- React (frontend tooling and internal interfaces)\n- Azure: App Service, Azure Functions, Azure SQL, Entra ID /\n  RBAC\n- REST APIs, OAuth 2.0, webhooks\n- LLM and AI agent platforms (API-based and cloud-hosted model\n  providers)\n- MCP (Model Context Protocol), A2A agent integration patterns\n- RAG pipelines and prompt engineering tooling\n- Enterprise automation and workflow platforms\n- Structured logging, observability, and monitoring tooling\n",
+  "skills_required": [
+    "A2A agent patterns",
+    "API-based model providers",
+    "LLM orchestration",
+    "MCP (Model Context Protocol)",
+    "RAG pipeline design",
+    "RPA",
+    "agent framework composition",
+    "prompt engineering",
+    "tool call design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deliver the AaaS platform alongside automation and integration solutions that support business and IT processes",
+    "Translate cross-functional business problems into scoped automation use cases with defined inputs, outputs, tools, and decision points",
+    "Design, configure, and orchestrate AI agent behaviours including tool scoping, skill composition, and guardrail design",
+    "Build, test, deploy, and support automation and integration solutions to production-ready standard",
+    "Contribute to development of reusable components, integration patterns, and shared standards for the AaaS capability",
+    "Work with stakeholders across IT and business to identify automation opportunities and gather requirements",
+    "Create and maintain technical documentation, runbooks, and solution design artefacts",
+    "Apply AI and intelligent automation where it adds value and advise stakeholders on appropriate use cases"
+  ],
+  "use_cases": [
+    "Enterprise workflow automation across business and IT processes",
+    "AI agent orchestration for organizational tasks",
+    "Cross-functional automation spanning HR, finance, sales, marketing, and service delivery",
+    "Integration with enterprise platforms including ITSM, ERP, and Microsoft 365",
+    "RAG-based knowledge retrieval and automation"
+  ],
+  "tools_mentioned": [
+    "Azure App Service",
+    "Azure Functions",
+    "Azure SQL",
+    "Entra ID / RBAC",
+    "OAuth 2.0",
+    "REST APIs",
+    "React",
+    "SSO / MSAL authentication",
+    "webhooks"
+  ],
+  "frameworks_mentioned": [
+    "A2A agent patterns",
+    "API-based model providers",
+    "LLM orchestration",
+    "MCP (Model Context Protocol)",
+    "RAG pipeline design",
+    "agent framework composition",
+    "prompt engineering",
+    "tool call design"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying AI\nagents, designing agent behaviors, implementing RAG\npipelines, and orchestrating LLM-based solutions. The\nposition is specifically for designing and delivering an\n\"AI-native agent and chat layer\" and requires direct work\nwith agent frameworks, tool call design, and prompt\nengineering.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM orchestration",
+      "agent framework composition",
+      "tool call design",
+      "MCP (Model Context Protocol)",
+      "A2A agent patterns",
+      "RAG pipeline design",
+      "prompt engineering",
+      "API-based model providers"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "REST APIs",
+      "OAuth 2.0",
+      "webhooks",
+      "SSO / MSAL authentication"
+    ],
+    "databases": [
+      "Azure SQL"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure App Service",
+      "Azure Functions",
+      "Entra ID / RBAC"
+    ],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "RPA"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

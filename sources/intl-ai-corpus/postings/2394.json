@@ -1,0 +1,157 @@
+{
+  "job_id": "intl-ai-corpus-2394",
+  "source": "intl-ai-corpus",
+  "source_ref": "8870710",
+  "source_url": "https://www.builtinla.com/job/senior-ai-ml-software-engineer/8870710",
+  "title": "Senior AI/ML Software Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Fullsteam",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Growth/Established",
+  "company_focus": "Vertical software and embedded payments technology for SMBs",
+  "industries": [
+    "Fintech",
+    "Software"
+  ],
+  "description": "It's fun to work in a company where people truly BELIEVE in\nwhat they're doing!\n\nFullsteam is a leading provider of vertical software and\nembedded payments technology dedicated to helping businesses\nflourish by providing their customers with seamless\nexperiences. With a dynamic and growing team of over 1,900\nemployees, we are committed to driving innovation and\ndelivering best-in-class software and payment solutions that\nempower small and medium-sized businesses across numerous\nindustries. Our purpose is to help our customers grow their\nbusinesses and delight their customers. Join us and be a\npart of a forward-thinking company that values growth,\nexcellence, and the success of our clients.\n\nWe are seeking a talented and experienced Senior AI Software\nEngineer specializing in Artificial Intelligence to lead the\ndevelopment and integration of advanced AI solutions into\nour products.  As a Lead Engineer, you will be responsible\nfor designing and implementing high-quality, scalable AI.\nModels and collaborating with cross-functional teams to push\nthe boundaries of AI in software development.  Your work\nwill focus on building cutting-edge applications leveraging\nMachine Learning (ML), Natural Language Processing (NLP) and\nGenerative AI to deliver exceptional experiences and\nsolutions to our users.\n\nPrimary Responsibilities:\n\n- Build production software – Design and implement scalable\n  backend services, APIs, and data pipelines with a focus on\n  reliability, performance, and maintainability\n- Develop agentic systems – Create autonomous agents that\n  leverage LLMs to reason, use tools, and orchestrate\n  complex multi-step workflows\n- Architect for scale – Design systems that handle real-time\n  AI inference, converation state, and tool execution with\n  proper error handling and recovery\n- Design, develop, and deploy machine learning models that\n  drive product features, improve user engagement, and\n  enhance decision-making processes\n- Collaborate cross-functionally – Partner with Product,\n  Design, and Engineering teams to define requirements and\n  deliver AI-powered features.\n- Maintain engineering excellence – Write clean, well-tested\n  code; conduct thorough code reviews; champion best\n  practices across the team\n- Stay current – Evaluate emerging agentic frameworks,\n  patterns, and tools; prototype new approaches to solve\n  real problems\n\nSkills & Competencies:\n\nSoftware Engineering (Core):\n\n- Strong fundamentals in system design, API design, and\n  distributed systems\n- Clean code practices, SOLID principles, and testable\n  architecture\n- Async programming, concurrency, and performance\n  optimization, Caching\n- Database design (relational and vector stores)\n- CI/CD, observability, and production operations\n\nAgentic Systems:\n\n- Agent architecture – orchestration, planning, tool use,\n  memory management\n- LLM integration – prompt engineering, function calling,\n  context management\n- RAG pipelines – embeddings, vector search, retrieval\n  strategies\n- Reliability patterns for non-deterministic AI systems\n\nML:\n\n- Basic understanding of ML concepts – training, inference,\n  evaluation, overfitting/underfitting\n- Familiarity with embeddings and how vector representations\n  work\n- Experience fine-tuning or adapting pre-training models for\n  specific use cases\n- Exposure to ML frameworks (PyTorch, Hugging Face\n  Transformers, scikit-learn) at a foundational level\n- Understanding of model evaluation metrics (precision recall,\n  F1, perplexity)\n- Awareness of when to use off-the-shelf models vs. custom\n  training\n\nNice to Have:\n\n- Experience with agent orchestration frameworks (LangGraph,\n  AutoGen, custom implementations)\n- Background in vector databases and semantic search\n- Familiarity with AI safety and guardrail patterns\n- Experience mentoring engineers or leading technical\n  initiatives\n\nMinimum Qualifications:\n\n- Bachelor’s Degree in computer science, engineering or\n  related technical field\n- 6+ years in professional software engineering experience\n- 2+ years building applications that integrate LLMs or\n  agentic systems\n- Proficiency in Python with experience in modern frameworks\n  (FastAPI, async/await)\n- Experience with cloud platforms (AWS preferred – Lambda,\n  Bedrock, OpenSearch)\n- Proven track record of shipping and operating production\n  systems\n- Strong debugging, troubleshooting, and problem-solving\n  skills\n- Excellent communication skills with an ability to work with\n  global, cross-functional teams, and stakeholders\n\nFullsteam supports an inclusive workplace that values\ndiversity of thought, experience, and background. Fullsteam\nis an Equal Opportunity/Affirmative Action employer. All\nqualified applicants will receive consideration for\nemployment without regard to race, religion, color, national\norigin, ancestry, age, physical or mental disability, sex,\nsexual orientation, gender identity/expression, pregnancy,\nveteran status, marital status, creed, status with regard to\npublic assistance, genetic status or any other status\nprotected by federal, state, or local law.\n",
+  "skills_required": [
+    "Agent architecture",
+    "Async programming",
+    "AutoGen",
+    "Caching",
+    "Distributed systems",
+    "Function calling",
+    "Hugging Face Transformers",
+    "LLM integration",
+    "LangGraph",
+    "Model fine-tuning",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "SOLID principles",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement scalable backend services, APIs, and data pipelines with focus on reliability, performance, and maintainability",
+    "Create autonomous agents that leverage LLMs to reason, use tools, and orchestrate complex multi-step workflows",
+    "Design systems that handle real-time AI inference, conversation state, and tool execution with proper error handling and recovery",
+    "Design, develop, and deploy machine learning models that drive product features and enhance decision-making processes",
+    "Partner with Product, Design, and Engineering teams to define requirements and deliver AI-powered features",
+    "Write clean, well-tested code and conduct thorough code reviews while championing best practices",
+    "Evaluate emerging agentic frameworks, patterns, and tools and prototype new approaches to solve real problems"
+  ],
+  "use_cases": [
+    "Autonomous agents for complex multi-step workflow orchestration",
+    "Natural language processing and understanding",
+    "Conversational AI systems with real-time inference",
+    "AI-powered product features for small and medium-sized businesses",
+    "Semantic search and retrieval-augmented generation",
+    "Decision-making enhancement through ML models"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "AWS",
+    "AWS Bedrock",
+    "AWS Lambda",
+    "AWS OpenSearch",
+    "CI/CD",
+    "FastAPI",
+    "Observability",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent architecture",
+    "AutoGen",
+    "Function calling",
+    "Hugging Face Transformers",
+    "LLM integration",
+    "LangGraph",
+    "Model fine-tuning",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying AI\nsystems including agentic systems with LLMs, RAG pipelines,\nand fine-tuning models. The engineer will create autonomous\nagents, implement ML models, and design real-time AI\ninference systems - all hands-on work with AI/ML systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "AutoGen",
+      "Prompt engineering",
+      "Function calling",
+      "RAG",
+      "LLM integration",
+      "Agent architecture"
+    ],
+    "ml": [
+      "PyTorch",
+      "Hugging Face Transformers",
+      "scikit-learn",
+      "Model fine-tuning"
+    ],
+    "web": [
+      "FastAPI",
+      "API design"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS Lambda",
+      "AWS Bedrock",
+      "AWS OpenSearch"
+    ],
+    "ops": [
+      "CI/CD",
+      "Observability"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": [
+      "SOLID principles",
+      "Distributed systems",
+      "Async programming",
+      "Caching"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

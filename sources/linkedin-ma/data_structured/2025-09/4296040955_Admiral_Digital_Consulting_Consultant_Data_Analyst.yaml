@@ -1,0 +1,44 @@
+company:
+  name: Admiral Digital Consulting
+  stage: null
+  focus: null
+position:
+  title: Consultant Data Analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web:
+    - angular
+    - html5
+    - rest api
+    - vue
+    databases:
+    - postgresql
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - java
+    - javascript
+    - python
+    - R
+    domains: []
+    other:
+    - consulting
+    - power bi
+    - powerbi
+    - qlik
+    - statistics
+    - tableau
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4296040955'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

@@ -1,0 +1,31 @@
+company:
+  name: Leyton CognitX
+  stage: null
+  focus: null
+position:
+  title: Associate Data Science Manager
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - agile
+    - product management
+    - scrum
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '4403938615'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

@@ -1,0 +1,157 @@
+{
+  "job_id": "intl-ai-corpus-3064",
+  "source": "intl-ai-corpus",
+  "source_ref": "9120781",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/9120781",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Esko",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-22",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,654 Employees",
+  "company_stage": "Public",
+  "company_focus": "Integrated software and hardware for packaging design and\nprint processes",
+  "industries": [],
+  "description": "Imagine yourself…\n\n- Growing your expertise and expanding your skillset with\n  every project.\n- Collaborating with a vibrant, inclusive, global team.\n- Joining a company with a proven track record of success and\n  an exciting future.\n\nIt’s all possible with a role at Esko. Esko, a Veralto\ncompany, is a global provider of integrated software and\nhardware solutions that accelerate the go-to-market process\nof packaged goods. Our integrated platform and comprehensive\ntools empower retailers, pre-media and trade shops,\nmanufacturers, and converters to manage best-in-class\npackaging design and print processes.\n\nInnovation in the is built into the DNA of our business:\nevery day, we challenge ourselves to be better by seeking\nout new ways to elevate our products, our processes, and our\npeople.\n\nWe also know that innovation and ingenuity starts with\nprioritizing a diverse workforce and a deeply inclusive\nworkplace. We encourage people from all backgrounds to apply\nto our positions. \n\nReporting to the Engineering Manager, the Senior AI Engineer\nis responsible for leading the design, optimization, and\ngovernance of Esko’s Generative AI ecosystem, enabling\nscalable, reliable, and production-grade AI capabilities\nacross products. This role is in Bangalore, India on Hybrid\nmodel, with (Quarterly once visit to the office for 2\nweeks).\n\nIn this role, a typical day will look like:\n\n- Design and scale agentic AI systems to support long-running,\n  complex workflows using orchestration frameworks such as\n  LangGraph, CrewAI, or AutoGen.\n- Develop systematic evaluation and benchmarking pipelines\n  using G‑Eval, RAGAS, and LLM‑as‑a‑Judge approaches to\n  measure performance, hallucinations, and latency.\n- Implement advanced retrieval-augmented generation (RAG)\n  strategies, including multi-stage re‑ranking, hybrid\n  search, and query expansion for high-precision knowledge\n  retrieval.\n- Optimize model inference performance using quantization\n  approaches such as AWQ and GGUF, along with caching\n  strategies for cost‑efficient high throughput.\n- Collaborate closely with Data Science and DevOps teams to\n  transition experimental prototypes into hardened,\n  production-ready APIs.\n- Implement safety guardrails, red‑teaming workflows, and\n  alignment mechanisms to ensure outputs meet industry\n  regulations and brand‑safety standards.\n\nWe offer\n\n- Flexible working hours\n- Professional onboarding and training options\n- Powerful team looking forward to working with you\n- Career coaching and development opportunities\n- Health and Insurance benefits.\n\nThe essential requirements of the job include:\n\n- Bachelor’s or Master’s degree in Computer Science,\n  Artificial Intelligence, or a related quantitative field.\n- Minimum of 6 years of overall software engineering\n  experience, with at least 3 years focused on LLM\n  application development and deployment.\n- Hands-on experience with parameter-efficient fine-tuning\n  techniques such as LoRA and QLoRA.\n- Strong proficiency in PyTorch or JAX.\n- Expert-level experience with LangChain, LlamaIndex, or\n  Haystack, along with scaling vector databases such as\n  Pinecone, Weaviate, or Milvus.\n- Proven experience building custom evaluation datasets and\n  tracking experiments using tools such as Weights & Biases\n  or MLflow.\n- Strong understanding of LLMOps, including CI/CD pipelines,\n  prompt versioning, and model endpoint management.\n\nEsko is proud to be part of the Product Quality & Innovation\nsegment of Veralto (NYSE: VLTO), a $5B global leader\ndedicated to ensuring access to clean water, safe food and\nmedicine, and trusted essential goods. When you join\nVeralto’s global network of associates, you join a culture\nwhere purpose meets possibility—where the work you do has an\neveryday impact on the resources the world relies on.\nTogether, we’re Safeguarding the World’s Most Vital\nResources™.\n\n@KaranGadi\n\nAt Veralto, we value diversity and the existence of\nsimilarities and differences, both visible and not, found in\nour workforce, workplace and throughout the markets we\nserve.  Our associates, customers and shareholders\ncontribute unique and different perspectives as a result of\nthese diverse attributes.\n\n\nUnsolicited Assistance\n\nWe do not accept unsolicited assistance from any headhunters\nor recruitment firms for any of our job openings. All\nresumes or profiles submitted by search firms to any\nemployee at any of the Veralto companies, in any form\nwithout a valid, signed search agreement in place for the\nspecific position, approved by Talent Acquisition, will be\ndeemed the sole property of Veralto and its companies. No\nfee will be paid in the event the candidate is hired by\nVeralto and its companies because of the unsolicited\nreferral.\n",
+  "skills_required": [
+    "AutoGen",
+    "CrewAI",
+    "G-Eval",
+    "Haystack",
+    "JAX",
+    "LLM-as-a-Judge",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "LoRA",
+    "PyTorch",
+    "QLoRA",
+    "RAG",
+    "RAGAS",
+    "parameter-efficient fine-tuning",
+    "prompt versioning",
+    "quantization (AWQ, GGUF)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and scale agentic AI systems using orchestration frameworks such as LangGraph, CrewAI, or AutoGen for complex workflows",
+    "Develop evaluation and benchmarking pipelines using G-Eval, RAGAS, and LLM-as-a-Judge to measure performance, hallucinations, and latency",
+    "Implement advanced RAG strategies including multi-stage re-ranking, hybrid search, and query expansion for high-precision knowledge retrieval",
+    "Optimize model inference performance using quantization approaches (AWQ, GGUF) and caching strategies for cost-efficient throughput",
+    "Collaborate with Data Science and DevOps teams to transition prototypes into production-ready APIs",
+    "Implement safety guardrails, red-teaming workflows, and alignment mechanisms for regulatory and brand-safety compliance"
+  ],
+  "use_cases": [
+    "Packaging design workflow automation using agentic AI systems",
+    "High-precision knowledge retrieval for packaging and print domain",
+    "Production-grade Generative AI capabilities across Esko's product line",
+    "Safe and compliant AI outputs meeting industry regulations and brand standards"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "LLMOps",
+    "MLflow",
+    "Milvus",
+    "Pinecone",
+    "REST APIs",
+    "Weaviate",
+    "Weights & Biases",
+    "model endpoint management",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "G-Eval",
+    "Haystack",
+    "JAX",
+    "LLM-as-a-Judge",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "LoRA",
+    "PyTorch",
+    "QLoRA",
+    "RAG",
+    "RAGAS",
+    "parameter-efficient fine-tuning",
+    "prompt versioning",
+    "quantization (AWQ, GGUF)"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on designing, building, and\ndeploying Generative AI systems including agentic AI, RAG\npipelines, model inference optimization, and fine-tuning.\nThe engineer works hands-on with LLMs, orchestration\nframeworks, and production-grade AI capabilities.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "CrewAI",
+      "AutoGen",
+      "G-Eval",
+      "RAGAS",
+      "LLM-as-a-Judge",
+      "RAG",
+      "LangChain",
+      "LlamaIndex",
+      "Haystack",
+      "LoRA",
+      "QLoRA",
+      "prompt versioning"
+    ],
+    "ml": [
+      "PyTorch",
+      "JAX",
+      "quantization (AWQ, GGUF)",
+      "parameter-efficient fine-tuning"
+    ],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Weights & Biases",
+      "MLflow",
+      "CI/CD",
+      "LLMOps",
+      "model endpoint management"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,110 @@
+{
+  "job_id": "intl-ai-corpus-0207",
+  "source": "intl-ai-corpus",
+  "source_ref": "7416503",
+  "source_url": "https://builtin.com/job/ml-engineer-voice-ai/7416503",
+  "title": "ML Engineer, Voice & AI",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Freed",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "59 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-powered medical documentation scribe for clinicians",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Software"
+  ],
+  "description": "ABOUT FREED:\n\nDoctors are overworked, burnt out, and are quitting in\nmasses.\n\nAt Freed, we combine clinician love with the latest AI tech\nand intense execution to create products that make\nclinicians happier.\n\nOur first product is an AI scribe that automates medical\ndocumentation.\n\nSince May of 2023, we have:\n\n- Acquired 26,000 paying and loving clinicians\n- Generated 100,000 patient notes daily and over 3 million\n  monthly\n- Made thousands of clinicians happier\n\nWith the backing of Sequoia Capital and other world-class\nVC’s, we are rapidly expanding our product offering.\nPatient-facing assistants, patient insights, EHR\nintegrations, and other products are being built and used by\nthousands of clinicians every day.\n\nWe are looking for entrepreneurs. Fast, ambitious, and smart\nindividuals who want to take care of the people who care for\nour health. Expect intense, clinician-focused, and\ninteresting co-workers who want to win.\n\nWith an office in San Francisco, we embrace a hybrid\nschedule that brings out the best in teamwork and\ninnovation. Our teams come together in person three days a\nweek to collaborate, connect, and have a little fun along\nthe way.\n\nAbout the Role:\n\nWe're on the hunt for talented, high-caliber individuals to\njoin our elite team of engineers. As part of our team,\nyou'll play a pivotal role in restoring joy to medicine\nwhile pushing the boundaries of what's possible with AI\ntechnology. Our engineering culture emphasizes speed, end-\nto-end ownership, responsibility, and independence,\nattracting top-tier talent and promoting exceptional\nperformance.\n\nHow You’ll Have Impact:\n\n- Evaluate and fine-tune open source speech recognition models\n  to provide new capabilities and better quality.\n- Optimize inference infrastructure (WhisperX, Kubernetes,\n  NATS) for stability and performance.\n- Since the team is small, it’s likely you’ll have\n  opportunities to work with Open Source large language\n  models as well.\n\nWhat You’ll Bring:\n\n- 2+ years working with speech recognition models.\n- 5+ years of Machine Learning or Software experience.\n- A history of consistent top performance and a desire for a\n  mission-driven work culture.\n\nNice to Haves:\n\n- Experience using TypeScript. While our ASR infrastructure is\n  Python, the rest of our production infrastructure (LLM\n  evaluations, web infrastructure) uses TypeScript.\n- Experience shipping models that power specific products,\n  adapting models to feedback from customers or users, and\n  analyzing the impact of ML improvements on business\n  outcomes.\n- Experience in data preparation and synthetic data\n  generation.\n\nWhat We’ll Bring:\n\n- Competitive salary and equity in a high-growth company\n- Opportunity to make an immediate impact\n- Medical, dental, and vision coverage\n- Unlimited paid time off\n- Company-sponsored annual retreats\n- 401(k) plan to support your long-term financial goals\n- Commuter stipend for our San Francisco based employees\n",
+  "skills_required": [
+    "WhisperX",
+    "fine-tuning",
+    "open source LLMs",
+    "speech recognition models"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Evaluate and fine-tune open source speech recognition models to provide new capabilities and improve transcription quality",
+    "Optimize inference infrastructure including WhisperX, Kubernetes, and NATS for stability and performance",
+    "Work with open source large language models to expand AI capabilities",
+    "Contribute to speech recognition model adaptation based on user feedback and product requirements"
+  ],
+  "use_cases": [
+    "AI medical scribe that automates clinical documentation by transcribing patient encounters",
+    "Generating over 100,000 patient notes daily across 26,000 clinicians",
+    "Patient-facing assistants and patient insights through AI-powered analysis",
+    "EHR integrations to seamlessly incorporate AI-generated documentation into clinical workflows"
+  ],
+  "tools_mentioned": [
+    "Kubernetes",
+    "NATS",
+    "data preparation",
+    "inference optimization",
+    "synthetic data generation"
+  ],
+  "frameworks_mentioned": [
+    "WhisperX",
+    "fine-tuning",
+    "open source LLMs",
+    "speech recognition models"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role involves hands-on work fine-tuning speech recognition\nmodels and optimizing inference infrastructure for WhisperX,\nindicating direct work ON AI models and deployment. The role\nalso mentions opportunities to work with open source LLMs,\nfurther confirming ai-first classification.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "open source LLMs"
+    ],
+    "ml": [
+      "WhisperX",
+      "speech recognition models",
+      "fine-tuning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "data preparation",
+      "synthetic data generation"
+    ],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "NATS",
+      "inference optimization"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

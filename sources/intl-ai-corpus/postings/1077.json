@@ -1,0 +1,118 @@
+{
+  "job_id": "intl-ai-corpus-1077",
+  "source": "intl-ai-corpus",
+  "source_ref": "8111735",
+  "source_url": "https://builtin.com/job/senior-ai-engineer/8111735",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Doctronic",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-01",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "22 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered direct-to-patient healthcare consultations",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech"
+  ],
+  "description": "Senior AI Engineer\n\nDoctronic | New York City ONSITE (Hybrid) | Reports to CEO\n\nThe Mission\n\nLet's make healthcare free and accessible to everyone\nthrough AI. We're building an AI doctor that already handles\nmillions of consultations - our goal is to scale this to\nbillions while maintaining medical safety and accuracy.\n\nWhat You'll Build\n\nCore AI Systems\n\n- Multi-agent consensus architectures where specialized models\n  debate cases before conclusions\n- RAG pipelines processing thousands of clinical guidelines\n  built for LLM consumption\n- Fine tuning and model distillation to support efficient\n  performance\n- Real-time inference systems handling millions of medical\n  consultations each month\n- Custom workflows for domain-specific medical reasoning\n\nClinical Data Infrastructure\n\n- NLP pipelines extracting structured data from patient\n  conversations (HIPAA-compliant)\n- QHIN integrations for automated EHR data retrieval and\n  reconciliation\n- Intelligent triage systems routing between AI and human\n  providers\n- Documentation generation matching provider-specific\n  protocols\n\nSafety & Scale\n\n- Emergency detection with sub-second escalation to human\n  oversight\n- Validation layers ensuring 99%+ treatment plan accuracy\n- Distributed systems handling rapid growth and peak loads\n- Fail-safe mechanisms for critical path decisions in\n  regulated environments\n\nYou'll also work on voice/video AI interfaces, multilingual\nmedical NLP, predictive health modeling, and infrastructure\nfor the next billion patient interactions.\n\nHow We Work\n\n- Engineering-first org: no project managers, just senior\n  engineers\n- Flat structure with direct CEO reporting and high autonomy\n- Own features end-to-end from minimal specs to production\n- AI coding tools encouraged\n- Ship fast with good judgment; daily standups for alignment,\n  not micromanagement\n\nRequired Qualifications\n\nEducation & Background\n\n- CS degree OR equivalent demonstrated expertise\n- Hard science degrees (Physics, Math, Engineering) welcomed\n  with strong technical foundation\n- Preference for graduates from top programs at top\n  universities\n- Preference for founders, founding engineers, or extensive\n  startup experience\n- Independent problem solver who collaborates well cross-\n  functionally\n\nTechnical Expertise\n\n- 7+ years engineering with LLM and generative AI expertise\n- Deep knowledge of OpenAI GPT, Anthropic Claude, Meta LLaMA,\n  and foundation models\n- Production AI systems with real-time inference requirements\n- Python, TensorFlow/PyTorch, modern AI frameworks\n- Prompt engineering, fine-tuning, model optimization for\n  specialized domains\n\nPreferred Qualifications\n\n- AI systems for healthcare, medical, or life sciences\n  applications\n- Medical terminology, clinical workflows, healthcare data\n  standards (HL7, FHIR)\n- Medical AI safety, bias detection, fairness in healthcare\n- NLP for domain-specific applications\n- Work with medical professionals or regulated healthcare\n  environments\n- Published research in AI/ML, especially healthcare or\n  safety-critical applications\n- Seed/Series A experience in AI or healthcare\n- Advanced degree in CS, AI/ML, or related field\n\nWhat We Offer\n\n- Competitive salary plus significant equity\n- Build AI systems transforming healthcare for millions\n- Direct CEO reporting with significant autonomy\n- Access to leading AI technologies and medical experts\n- Benefits reimbursement\n\nFunding & Momentum\n\n- Union Square Ventures led our seed (Feb 2025)\n- Lightspeed Venture Partners preempted our Series A six\n  months later (Aug 2025)\n- Significant equity stake in fast-moving, well-backed company\n\nAbout Doctronic\n\nDoctronic is the #1 AI Doctor, revolutionizing direct-to-\npatient healthcare through our proprietary AI system.\nDoctronic is the first AI legally authorized to practice\nmedicine. We're processing millions of consultations monthly\nwith 99%+ treatment plan accuracy validated by board-\ncertified clinicians. Our platform (doctronic.ai) provides\nfree, anonymous, HIPAA-compliant AI consultations alongside\naffordable human physician visits ($40) available 24/7\nacross all 50 states via instant video, scheduled video, or\nasync text.\n",
+  "skills_required": [
+    "OpenAI/Anthropic APIs",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "fine-tuning",
+    "model distillation",
+    "model optimization",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build multi-agent consensus architectures with specialized models debating cases before conclusions",
+    "Develop RAG pipelines processing thousands of clinical guidelines for LLM consumption",
+    "Fine-tune and distill models for efficient performance in medical applications",
+    "Implement real-time inference systems handling millions of medical consultations monthly",
+    "Create NLP pipelines extracting structured data from patient conversations with HIPAA compliance",
+    "Build emergency detection and validation layers ensuring 99%+ treatment plan accuracy"
+  ],
+  "use_cases": [
+    "AI doctor handling millions of medical consultations with human oversight",
+    "Multi-agent consensus system for medical case review and decision accuracy",
+    "Intelligent triage routing between AI and human healthcare providers",
+    "Automated clinical documentation generation matching provider-specific protocols",
+    "Real-time emergency detection with sub-second escalation to human oversight",
+    "Multilingual medical NLP for accessible healthcare across diverse populations"
+  ],
+  "tools_mentioned": [
+    "real-time inference"
+  ],
+  "frameworks_mentioned": [
+    "OpenAI/Anthropic APIs",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "fine-tuning",
+    "model distillation",
+    "model optimization",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building multi-agent consensus\narchitectures, RAG pipelines, fine-tuning models, and real-\ntime inference systems. The engineer works directly with\nLLMs (GPT, Claude, LLaMA), handles model optimization, and\ndeploys AI systems for medical consultations.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI/Anthropic APIs",
+      "RAG",
+      "prompt engineering",
+      "fine-tuning",
+      "model distillation"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "model optimization"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "real-time inference"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

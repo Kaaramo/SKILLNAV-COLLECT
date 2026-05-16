@@ -1,0 +1,154 @@
+{
+  "job_id": "intl-ai-corpus-1503",
+  "source": "intl-ai-corpus",
+  "source_ref": "8496942",
+  "source_url": "https://www.builtinla.com/job/senior-ai-engineer/8496942",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Sidecar Health",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-13",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B",
+  "company_focus": "Health insurance company making healthcare affordable and\naccessible",
+  "industries": [
+    "Fintech",
+    "Healthtech",
+    "Insurance",
+    "Mobile"
+  ],
+  "description": "Sidecar Health is redefining health insurance. Our mission\nis to make excellent healthcare affordable and accessible\nfor everyone. We know that to accomplish this lofty mission,\nwe need driven people who will make things happen.\n\nThe passionate people who make up Sidecar Health’s team come\nfrom all over, with backgrounds as tech leaders, policy\nmakers, healthcare professionals, and beyond. And they all\nhave one thing in common—the desire to fix a broken system\nand make it more personalized, affordable, and transparent.\n\nIf you want to use your talents to transform healthcare in\nthe United States, come join us!\n\nAbout the Role\n\nOur AI Platform team is central to our mission. We build\nintelligent, production-grade systems that power member\nexperiences, operational efficiency, and core business\nworkflows.\n\nWe’re looking for builders. Not architects who only\nwhiteboard. Not managers who delegate. Builders — engineers\nwho ship high-quality production code, move quickly, and\ntake full ownership from design to deployment.\n\nAs a Senior AI Engineer on our AI Platform team, you will\ndesign, architect, and deploy AI-powered systems that\ndirectly impact real members and real business outcomes. You\nwill operate across the full lifecycle — from system design\nand prompt architecture to production deployment and\nobservability. This role requires deep expertise in LLM\nsystems, distributed cloud infrastructure, and the ability\nto ship reliable, scalable AI applications in production.\n**MUST BE BASED IN CALIFORNIA**\n\nWhat You'll Do\n\n- Design, architect, and deploy AI-powered systems that\n  directly impact member experience and operational\n  efficiency\n- Build and optimize LLM-driven applications using advanced\n  prompt engineering, RAG architectures, and agentic\n  workflows\n- Design scalable AI pipelines using modern orchestration\n  frameworks (LangChain, LangSmith, LlamaIndex, etc.)\n- Architect multi-agent systems capable of reasoning,\n  planning, and executing complex multi-step tasks\n- Implement evaluation and monitoring frameworks to measure AI\n  performance, detect hallucinations, and ensure reliability\n  at scale\n- Own cloud-native AI infrastructure for performance,\n  scalability, cost efficiency, and security\n- Partner with Product and Engineering leadership to identify\n  and execute high-impact AI initiatives\n- Stay at the frontier of the AI ecosystem and translate\n  emerging capabilities into production-ready systems\n- Establish internal standards, tooling, and best practices\n  for AI development across the organization\n\nWhat You'll Bring\n\n- Bachelor’s or Master’s degree in Computer Science,\n  Information Systems, Business Administration, or a related\n  field\n- 5+ years of professional software engineering experience,\n  including meaningful ownership of production systems\n- Significant hands-on experience building and deploying AI/ML\n  systems in production\n- Strong proficiency in Python and TypeScript (Next.js a plus)\n- Deep experience with LLM APIs (OpenAI, Anthropic, AWS\n  Bedrock) and orchestration frameworks (LangChain,\n  LangSmith, LlamaIndex)\n- Strong understanding of advanced prompt engineering\n  techniques and LLM optimization strategies\n- Experience designing and deploying RAG systems, vector\n  databases, and semantic search applications\n- Cloud infrastructure expertise (AWS preferred): Lambda, Step\n  Functions, API Gateway, DynamoDB, S3\n- Strong understanding of LLM behavior: tokenization,\n  embeddings, context limits, evaluation, and hallucination\n  mitigation\n- Demonstrated track record of shipping scalable, production-\n  grade AI systems — not prototypes or demos\n\nNice to Have\n\n- Experience with infrastructure as code (AWS CDK, SAM,\n  Terraform)\n- Experience in healthcare, insurance, or regulated\n  environments\n- Experience fine-tuning models or building custom model\n  pipelines\n- Familiarity with observability tools (DataDog, CloudWatch,\n  LangSmith)\n- Contributions to open-source AI projects or published\n  technical work\n\nThe Reality\n\nThis is a startup. We move fast. We prioritize impact over\npolish. We expect:\n\n- Bias for action — ship, learn, iterate\n- Ownership — you design it, build it, run it\n- Pragmatism — solve real problems, not theoretical ones\n- Resilience — ambiguity comes with the territory\n\nHealthcare is complex and broken. The work matters.\n\nWhat You'll Get\n\n- Competitive salary, bonus opportunity, and equity package\n- Comprehensive Medical, Dental, and Vision benefits\n- A 401k retirement plan\n- Paid vacation and company holidays\n- Opportunity to make an impact at a rapidly growing mission-\n  driven company transforming healthcare in the U.S.\n\nSidecar Health is an Equal Opportunity employer committed to\nbuilding a diverse team. We do not discriminate on the basis\nof race, religion, color, national origin, gender, sexual\norientation, age, marital status, veteran status or\ndisability status.\n",
+  "skills_required": [
+    "AWS Bedrock",
+    "Anthropic API",
+    "LangChain",
+    "LangSmith",
+    "LlamaIndex",
+    "Model fine-tuning",
+    "Multi-agent systems",
+    "OpenAI API",
+    "Prompt Engineering",
+    "RAG",
+    "Semantic search"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, architect, and deploy AI-powered systems that directly impact member experience and operational efficiency",
+    "Build and optimize LLM-driven applications using advanced prompt engineering, RAG architectures, and agentic workflows",
+    "Design scalable AI pipelines using modern orchestration frameworks like LangChain, LangSmith, and LlamaIndex",
+    "Architect multi-agent systems capable of reasoning, planning, and executing complex multi-step tasks",
+    "Implement evaluation and monitoring frameworks to measure AI performance, detect hallucinations, and ensure reliability at scale",
+    "Own cloud-native AI infrastructure for performance, scalability, cost efficiency, and security",
+    "Partner with Product and Engineering leadership to identify and execute high-impact AI initiatives",
+    "Establish internal standards, tooling, and best practices for AI development across the organization"
+  ],
+  "use_cases": [
+    "Member experience enhancement for health insurance customers",
+    "Operational efficiency automation in healthcare workflows",
+    "Core business workflow automation and optimization",
+    "Healthcare cost and coverage determination",
+    "Claims processing and adjudication support"
+  ],
+  "tools_mentioned": [
+    "AWS API Gateway",
+    "AWS CDK",
+    "AWS Lambda",
+    "AWS SAM",
+    "AWS Step Functions",
+    "Amazon S3",
+    "CloudWatch",
+    "DataDog",
+    "DynamoDB",
+    "Next.js",
+    "Terraform",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "AWS Bedrock",
+    "Anthropic API",
+    "LangChain",
+    "LangSmith",
+    "LlamaIndex",
+    "Model fine-tuning",
+    "Multi-agent systems",
+    "OpenAI API",
+    "Prompt Engineering",
+    "RAG",
+    "Semantic search"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, deploying, and\noptimizing AI/LLM systems including RAG architectures,\nmulti-agent systems, and LLM-driven applications. The\nposition requires hands-on work with prompt engineering,\norchestration frameworks, and production deployment of AI\nmodels.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangSmith",
+      "LlamaIndex",
+      "OpenAI API",
+      "Anthropic API",
+      "AWS Bedrock",
+      "Prompt Engineering",
+      "RAG",
+      "Multi-agent systems",
+      "Semantic search"
+    ],
+    "ml": [
+      "Model fine-tuning"
+    ],
+    "web": [
+      "Next.js"
+    ],
+    "databases": [
+      "Vector databases",
+      "DynamoDB"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Lambda",
+      "AWS Step Functions",
+      "AWS API Gateway",
+      "Amazon S3"
+    ],
+    "ops": [
+      "AWS CDK",
+      "AWS SAM",
+      "Terraform",
+      "DataDog",
+      "CloudWatch"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

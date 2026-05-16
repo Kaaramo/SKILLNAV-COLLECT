@@ -1,0 +1,42 @@
+company:
+  name: Saham Bank (Officiel)
+  stage: null
+  focus: null
+position:
+  title: Data scientist Audit
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai:
+    - genai
+    - llm
+    ml:
+    - deep learning
+    - machine learning
+    - scikit-learn
+    web: []
+    databases: []
+    data:
+    - pandas
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains:
+    - finance
+    - nlp
+    other:
+    - power bi
+    - statistics
+    - tableau
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4408403862'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

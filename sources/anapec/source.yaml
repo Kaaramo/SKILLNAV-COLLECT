@@ -1,0 +1,83 @@
+source_id: anapec
+source_name: ANAPEC — Agence Nationale de Promotion de l'Emploi et des Compétences
+source_url: https://www.anapec.org/
+country: MA
+language: fr
+
+# ─── Classification SKILLNAV (sources/scraping_map/sources.json) ─────────────
+tier: T1
+priority: true
+category: job_board_maroc
+mcp_tool: firecrawl  # production · sample fait avec playwright
+collection_frequency: weekly
+
+# ─── Conformité (CLAUDE.md §N4) ──────────────────────────────────────────────
+robots_txt_compliant: true
+robots_txt_checked_at: 2026-05-14
+tos_reviewed_at: 2026-05-14
+rate_limit_seconds: 5
+user_agent: "SkillnavBot/1.0 (Academic; M242 ENSA-Tetouan)"
+personal_data_policy: stripped  # jamais de noms candidats / contacts
+entity_focus: morale_only
+
+# ─── URL patterns ────────────────────────────────────────────────────────────
+url_patterns:
+  search: "https://www.anapec.org/sigec-app-rv/chercheurs/resultat_recherche/motclee:{keyword}/appcle:toutlesmot"
+  detail: "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/{id}/display"
+  ref_pattern: "^[A-Z]{2}\\d{8}\\d{6,7}$"  # ex: ET1303261098335
+
+# ─── Sample sprint 1 ─────────────────────────────────────────────────────────
+sample_collected_at: 2026-05-14T20:27:00Z
+sample_count: 2
+sample_scope: data_ai_strict_only  # généralistes (Full-stack, Consultant IT, Technicien) éliminés
+sample_queries:
+  - motclee: "data analyst"
+    total_results: 5
+    matches_relevant: 2  # 1098335 (Data Analyst) + 815622 (Analyste Data Center Pharma)
+  - motclee: "data scientist"
+    total_results: 0
+    matches_relevant: 0
+  - motclee: "machine learning"
+    total_results: 3
+    matches_relevant: 0  # tous éliminés (faux positifs)
+  - motclee: "intelligence artificielle"
+    total_results: 5
+    matches_relevant: 0  # tous éliminés (Full-stack avec IA en bonus, technicien, etc.)
+  - motclee: "data"
+    total_results: 129
+    note: trop large — à filtrer en aval
+eliminated:
+  - ref: ET1306251014879
+    reason: Consultant IT — conseil généraliste avec data en simple appétence
+  - ref: ET2002261088985
+    reason: Développeur Full-stack — IA mentionnée comme bonus uniquement
+  - ref: EL0605261117324
+    reason: Technicien Développement Informatique — généraliste hors scope
+
+# ─── État production ─────────────────────────────────────────────────────────
+production_status: sample_complete
+next_action: élargir à 30 postings + Wayback snapshots 2023-2025
+estimated_total_data_jobs_active: 10-15  # vs 129 résultats "data" bruts
+estimated_quality_score: 0.85  # données structurées + salaires + dates fiables
+
+# ─── Stack pipeline ──────────────────────────────────────────────────────────
+production_pipeline:
+  scraper_module: skillnav.scrapers.anapec
+  persistence: mongodb.raw_jobs
+  dedup_strategy: sha256(company + title + location + posted_date)
+  extraction_strategy: pydantic_ai_claude_sonnet_4_5
+  fallback_tool: firecrawl_then_crawl4ai
+
+# ─── Limites identifiées ─────────────────────────────────────────────────────
+limitations:
+  - Volume Data/IA spécialisé très faible (≤ 5 par query précise)
+  - Employeurs majoritairement anonymisés (60-70 %)
+  - Profils plutôt junior / mid · peu de roles Senior+
+  - Filtre `motclee` matche le texte entier → faux positifs à filtrer en aval
+
+# ─── Notes opérationnelles ───────────────────────────────────────────────────
+notes: |
+  Site PHP legacy ("Adobe Flash Player" mentionné — gracefully ignoré).
+  Formulaire GET sur /resultat_recherche avec champs motclee + appcle + region.
+  Structure DOM très uniforme — extraction par body.innerText + regex fiable.
+  IDs de fiche stables (utilisés depuis 2021+) → bonne base pour dédoublonnage temporel.

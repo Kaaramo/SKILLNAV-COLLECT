@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-2279",
+  "source": "intl-ai-corpus",
+  "source_ref": "8837837",
+  "source_url": "https://builtin.com/job/senior-python-developer-databricks-ai-platform-alerting-monitoring/8837837",
+  "title": "Senior Python Developer: Databricks AI Platform, Alerting & Monitoring",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Xenon Seven",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-23",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "11 Employees",
+  "company_stage": "unknown",
+  "company_focus": "Consulting firm partnering with enterprises on Data,\nInfrastructure, and AI projects",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology"
+  ],
+  "description": "About Xenon7\n\nWhere elite tech talent meets world-class opportunities! At\nXenon7, we partner with leading enterprises and innovative\nstartups on transformative projects across Data,\nInfrastructure, and AI. We are building an exclusive\ncommunity of top-tier experts ready to solve real-world\nproblems and shape the future of intelligent systems.\n\nRole Overview\n\nWe are seeking a Senior Python Developer who thrives at the\nintersection of AI Platform Engineering and System\nObservability. This is a unique \"hybrid\" role where you will\nbe responsible for building automated, scalable Databricks\nenvironments for AI/ML workloads, while simultaneously\nengineering a robust, Python-based AWS monitoring and\nalerting ecosystem.\n\nYou aren't just building the engine; you are designing the\nhigh-tech dashboard and fail-safes that ensure it runs\nperfectly at scale.\n\nKey Responsibilities1. Databricks Automation & AI\nIntegration\n\n- Workload Automation: Build Python-based workflows for MLOps,\n  LLMOps, and application deployment within Databricks.\n- Workspace Governance: Enhance workspace onboarding including\n  Unity Catalog, permissions, and environment setup using\n  reusable Python modules.\n- AI Deployment: Integrate Mosaic AI components (Gateway,\n  Model Serving, Agents) into platform automation.\n- Architecture: Support Delta Lake (Bronze/Silver/Gold)\n  architecture and MLflow model lifecycles.\n\n2. Python-Driven Alerting & Monitoring\n\n- Observability Frameworks: Implement automated health checks\n  for AWS resources and Databricks applications.\n- Event-Driven Alerting: Develop and configure alerting\n  mechanisms using AWS CloudWatch, SNS, and EventBridge.\n- Consistency & Compliance: Build Python automations to\n  validate configuration consistency across multiple AWS\n  accounts and detect anomalies or misconfigurations.\n- Workflow Integration: Create automated service request\n  workflows that bridge alerting with ticketing systems\n  (Slack, Jira, etc.).\n\nRequirementsRequired Technical Expertise\n\n- Python Mastery (6+ Years): Deep understanding of Python\n  internals, including GIL behavior, multiprocessing vs.\n  multithreading, and memory overhead trade-offs.\n- Databricks Ecosystem: Hands-on experience with Unity\n  Catalog, MLflow, and Mosaic AI.\n- AWS Automation: Strong proficiency in AWS Lambda, API\n  Gateway, CloudWatch, and EventBridge.\n- Reliability Engineering: Experience with Docker image\n  immutability, automated rollback strategies, and\n  production stability patterns.\n- Authentication: Experience with Service Principal-based\n  authentication for secure Databricks/AWS bridging.\n\nIdeal Candidate Profile\n\n- 6+ years of professional Python development and cloud\n  automation experience.\n- A dual mindset: You love building new AI capabilities but\n  are equally obsessed with proactive monitoring and 99.9%\n  uptime.\n- Ability to work independently in a remote, global\n  environment.\n- Immediate availability is highly preferred.\n\nBenefits\n\n- Ecosystem of Opportunity: Be part of a network where client\n  engagements, thought leadership, and mentorship paths are\n  interconnected.\n- Outcome-Focused Culture: We value smart execution, autonomy,\n  and ownership over \"hours at a desk.\"\n- Leading Edge: Contribute to projects that shape the\n  direction of AI and high-scale cloud infrastructure.\n",
+  "skills_required": [
+    "Jira",
+    "Mosaic AI",
+    "Slack"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build Python-based workflows for MLOps, LLMOps, and application deployment within Databricks",
+    "Enhance workspace onboarding including Unity Catalog, permissions, and environment setup using reusable Python modules",
+    "Integrate Mosaic AI components including Gateway, Model Serving, and Agents into platform automation",
+    "Support Delta Lake architecture and MLflow model lifecycles",
+    "Implement automated health checks for AWS resources and Databricks applications",
+    "Develop and configure alerting mechanisms using AWS CloudWatch, SNS, and EventBridge",
+    "Build Python automations to validate configuration consistency across multiple AWS accounts",
+    "Create automated service request workflows that bridge alerting with ticketing systems"
+  ],
+  "use_cases": [
+    "MLOps and LLMOps workflow automation on Databricks",
+    "AI platform governance and workspace management",
+    "Observability and monitoring for AI infrastructure",
+    "Event-driven alerting for cloud resources",
+    "Configuration compliance across multi-account AWS environments",
+    "Automated incident management and ticketing integration"
+  ],
+  "tools_mentioned": [
+    "AWS API Gateway",
+    "AWS CloudWatch",
+    "AWS EventBridge",
+    "AWS Lambda",
+    "Amazon SNS",
+    "Databricks",
+    "Delta Lake",
+    "Docker",
+    "MLflow",
+    "Service Principal authentication",
+    "Unity Catalog"
+  ],
+  "frameworks_mentioned": [
+    "Mosaic AI"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building infrastructure and monitoring\nsystems that support AI/ML workloads, not on building or\ntraining models themselves. The work involves Databricks\nautomation, alerting, and observability frameworks -\nenabling others to run AI workloads, rather than hands-on\nmodel development or deployment.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Mosaic AI"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Databricks",
+      "Unity Catalog",
+      "Delta Lake"
+    ],
+    "cloud": [
+      "AWS Lambda",
+      "AWS API Gateway",
+      "AWS CloudWatch",
+      "AWS EventBridge",
+      "Amazon SNS"
+    ],
+    "ops": [
+      "MLflow",
+      "Docker",
+      "Service Principal authentication"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Jira",
+      "Slack"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

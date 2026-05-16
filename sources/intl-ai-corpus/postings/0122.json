@@ -1,0 +1,153 @@
+{
+  "job_id": "intl-ai-corpus-0122",
+  "source": "intl-ai-corpus",
+  "source_ref": "7105692",
+  "source_url": "https://builtin.com/job/ai-engineer/7105692",
+  "title": "Senior Software Engineer - AI Platform Engineering",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Dojo",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-18",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,449 Employees",
+  "company_stage": "Public",
+  "company_focus": "Payments infrastructure for in-person commerce",
+  "industries": [
+    "Fintech",
+    "Payments",
+    "Financial Services"
+  ],
+  "description": "We’re reinventing payments. In less than four years, Dojo\ndisrupted the market to become the largest and most loved\nacquirer in the UK. Our payments infrastructure, purpose-\nbuilt for in-person commerce, is game changing.\n\nNow, over 150,000 customers across four countries choose to\ntransact billions with us every year. But we’re just getting\nstarted.\n\nOur people are the driving force behind our success. They\nare our greatest investment and our ultimate competitive\nadvantage. We hire exceptional people and give them the\nautonomy, trust, and ownership to thrive. The results take\ncare of themselves.\n\n\n\nThe Role...\n\nAs an AI Platform Engineer, you’ll be part of the team\ndesigning and running the core AI platform. You’ll work on\nAPIs, pipelines, observability, security, and orchestration,\nensuring our AI solutions can move from experiment to\nproduction smoothly. This role is about building the\nfoundations of AI adoption — if you enjoy combining\ndistributed systems, cloud engineering, and AI tooling into\nsomething bigger, this is it.\n\n\n\nWe are looking for someone who takes pride & ownership in\nwhat they build, being able to voice their opinion and share\ntheir expertise, but also listen and make the correct\ndecision. They shouldn’t be afraid to celebrate their\nsuccesses, admit their mistakes and turn to others for help,\nmaintaining a sense of honesty and humility. They should be\nlooking to improve each day, caring about the tech,\narchitecture, and people they interact with, understanding\nboth the small details and the big picture in everything we\ndo. Finally, they should be able to coach, mentor, and\ninspire those around them, embedding excellence, a sense of\nsafety, and a desire to succeed in their teams, ensuring\nthese values are adhered to at all levels. What you will do…\n\n- Design and build the AI platform that powers LLMs, agents,\n  and other AI solutions across Dojo.\n- Develop APIs, SDKs, and tooling that allow product teams to\n  consume AI capabilities at scale while having great\n  developer experience\n- Implement orchestration for multi-model and multi-service\n  workflows (e.g., LangGraph, Crew AI , Google Agent\n  Development Kit, agentic frameworks).\n- Build and Manage vector search and retrieval systems to\n  support RAG and knowledge integration.\n- Build robust monitoring, logging, and guardrails to ensure\n  AI systems are safe, observable, and compliant using\n  solutions like Langsmith , Opik, Prometheus and Grafana.\n- Automate infrastructure and model deployment with\n  Kubernetes, Terraform, and CI/CD pipelines.\n- Partner with security, compliance, and product to ensure\n  safe use of AI in production.\n- Stay on top of AI platform trends, open-source tools, and\n  emerging patterns — bringing best practices into our\n  stack.\n\nWhat you'll bring...\n\n- Strong software engineering or Platform engineering\n  background (Python/GO/Java; Go/Java/.NET a bonus).\n- Solid experience with distributed systems, microservices,\n  and cloud-native architecture (GCP preferred).\n- Hands-on experience with Kubernetes, service mesh, and\n  event-driven systems.\n- Familiarity with LLM orchestration frameworks (LangChain,\n  LangGraph, CrewAI, GCP ADK or similar).\n- Experience with vector databases (FAISS, Pinecone, Weaviate,\n  Vertex Vector Search) and RAG pipelines.\n- Knowledge of MLOps/AI infra tools (MLflow, VertexAI, Ollama,\n  OpenRouter etc).\n- Strong CI/CD and infrastructure-as-code skills (Terraform,\n  Helm, etc.).\n- Good understanding of AI governance, monitoring, and\n  responsible AI practices.\n- Comfort balancing speed (PoCs) with robustness (production-\n  ready systems).\n\nDojo home and away\n\nWe believe our best work happens when we collaborate in-\nperson. These “together days” foster communication, drive\ninnovation and spark our brightest ideas.\n\nThat's why we have an office-first culture. This means\nworking from the office 4+ days per week.\n\nWith offices across Europe, we know a thing or two about\nstaying dynamic. Need deep focus? Head to a quiet zone. Big\nideas? Collaboration spaces have you covered. Just here for\na catch-up? Our social hubs make it easy. Do work that\ncounts, in spaces made for you.\n\nQuestion: what’s curious, relentless, and customer obsessed?\n\nIf you’re keen to know the answer, you’re a third of the way\nto meeting our Dojo values.\n\nIf the following speak to you, let’s talk:\n\n- You’re curious. You have a real desire to learn and create.\n- You’re relentless. You keep going even when it’s easier not\n  to.\n- You’re customer-obsessed. You know how important customers\n  are to what you do.\n\n\n\nDiversity, equity, and inclusion at Dojo\n\nFrom local bakeries to well-known eateries, Dojo payments\nserve over 150,000 places across the UK.\n\nAnd something that’s fundamental to creating relevant,\ninnovative products at Dojo is to build teams to reflect the\ndiversity of the businesses we serve.\n\nOur drive to improve diversity, equity, and inclusion is\nclosely linked to helping employees thrive and innovating\nfor better customer experiences.\n\nIf you care about your work, you’re curious, and you think\ncustomer-first, you have a place at Dojo.\n\nTo make sure you’re the best you can be throughout the\nrecruitment process, let us know if you need any extra\nadjustments to help you thrive.\n\n\n\nVisit dojo.careers to find out more about our benefits and\nwhat it’s like to work at Dojo, or check out our LinkedIn\nand Instagram pages.\n\n#LI-Hybrid\n",
+  "skills_required": [
+    "CrewAI",
+    "Google Agent Development Kit",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "distributed systems",
+    "event-driven systems",
+    "microservices"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build the AI platform that powers LLMs, agents, and other AI solutions across Dojo",
+    "Develop APIs, SDKs, and tooling that allow product teams to consume AI capabilities at scale",
+    "Implement orchestration for multi-model and multi-service workflows using frameworks like LangGraph, Crew AI, and agentic frameworks",
+    "Build and manage vector search and retrieval systems to support RAG and knowledge integration",
+    "Build robust monitoring, logging, and guardrails to ensure AI systems are safe, observable, and compliant",
+    "Automate infrastructure and model deployment with Kubernetes, Terraform, and CI/CD pipelines",
+    "Partner with security, compliance, and product teams to ensure safe use of AI in production"
+  ],
+  "use_cases": [
+    "Enabling product teams to consume LLM capabilities at scale through APIs and SDKs",
+    "Orchestrating multi-model and multi-service AI workflows using agentic frameworks",
+    "Supporting RAG implementations with vector search and retrieval systems",
+    "Monitoring and ensuring safety of AI systems in production environments",
+    "Deploying and managing AI models through automated infrastructure pipelines"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "FAISS",
+    "GCP",
+    "Grafana",
+    "Helm",
+    "Kubernetes",
+    "Langsmith",
+    "MLflow",
+    "Ollama",
+    "OpenRouter",
+    "Pinecone",
+    "Prometheus",
+    "Terraform",
+    "Vertex Vector Search",
+    "VertexAI",
+    "Weaviate",
+    "service mesh"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "Google Agent Development Kit",
+    "LangChain",
+    "LangGraph",
+    "RAG"
+  ],
+  "languages_programming": [
+    ".NET",
+    "Go",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an AI Platform Engineering role focused on building\ninfrastructure, APIs, orchestration, and tooling to enable\nother teams to consume AI capabilities. The engineer builds\nplatforms and foundations for AI adoption rather than\ndirectly building, training, or fine-tuning models\nthemselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "Google Agent Development Kit",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "FAISS",
+      "Pinecone",
+      "Weaviate",
+      "Vertex Vector Search"
+    ],
+    "data": [],
+    "cloud": [
+      "VertexAI",
+      "GCP"
+    ],
+    "ops": [
+      "Langsmith",
+      "Prometheus",
+      "Grafana",
+      "MLflow",
+      "Ollama",
+      "OpenRouter",
+      "Kubernetes",
+      "Terraform",
+      "Helm",
+      "CI/CD",
+      "service mesh"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "Java",
+      ".NET"
+    ],
+    "domains": [],
+    "other": [
+      "distributed systems",
+      "microservices",
+      "event-driven systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

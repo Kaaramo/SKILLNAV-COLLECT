@@ -1,0 +1,125 @@
+source_id: intl-ai-corpus
+source_name: Corpus Tech International — scraping multi-villes (USA + Europe + Inde)
+source_url: https://builtin.com/jobs
+country: multi  # US, GB, NL, DE, IN
+language: en
+tier: T1
+priority: true
+category: international_aggregator
+mcp_tool: firecrawl
+fallback_tool: playwright
+collection_frequency: snapshot  # collecte par vagues mensuelles
+
+robots_txt_compliant: yes
+tos_reviewed_at: 2026-05-15
+rate_limit_seconds: 5
+user_agent: "SkillnavBot/1.0 (Academic; M242 ENSA-Tetouan)"
+personal_data_policy: stripped
+entity_focus: morale_only
+
+# ─── Méthodologie de collecte ───────────────────────────────────────────────
+collection_methodology:
+  pipeline: |
+    1. Scrape Built In listings (5 villes US+EU+IN) via Firecrawl + proxy
+    2. Dedup (title, company) + spam filter
+    3. Download HTML full (parallélisé)
+    4. Extract YAML raw via JSON-LD + BeautifulSoup
+    5. Enrichissement LLM (classification ai-first/ai-support/ml-first,
+       skills catégorisés en 10 dimensions, responsibilities, use_cases)
+  cities: [Los Angeles, New York, London, Amsterdam, Berlin, India]
+  scrape_period: 2026-02 → 2026-04
+  focus: AI Engineer (Q1 2026)
+
+# ─── Volume produit ─────────────────────────────────────────────────────────
+sample_collected_at: 2026-05-15T14:30:00Z
+sample_count: 3087
+total_postings_count: 3087
+postings_id_range: "0001-3087"
+
+phase_a_status: completed_2026-05-15  # Pipeline 3-couches complet
+production_status: phase_a_complete_3087_fiches
+estimated_quality_score: 0.91
+
+# ─── Résultats Phase A ──────────────────────────────────────────────────────
+phase_a_results:
+  total_unique_jobs: 3087
+  by_country:
+    US: 1381    # 44.7%
+    IN: 835     # 27.0%
+    INTL: 495   # 16.0%  (location vide ou ambiguë)
+    GB: 283     # 9.2%
+    DE: 53      # 1.7%
+    NL: 40      # 1.3%
+  by_job_family:
+    AI_ENGINEER: 2760           # 89.4% (focus AI Engineer)
+    ML_ENGINEER: 116            # 3.8%
+    DATA_ENGINEER: 68           # 2.2%
+    RESEARCH_SCIENTIST: 52      # 1.7%
+    GENAI_LLM_ENGINEER: 40      # 1.3%
+    MLOPS_ENGINEER: 26          # 0.8%
+    OTHER: 16                   # 0.5%
+    CV_ENGINEER: 8
+    DATA_ANALYST: 1
+  by_ai_classification:
+    ai-first: 2258              # 73.2%
+    ai-support: 742             # 24.0%
+    ml-first: 66                # 2.1%
+    unknown: 21
+  by_publication_month:
+    "2025-08": 2
+    "2025-11": 2
+    "2026-01": 709
+    "2026-02": 1055             # pic d'activité
+    "2026-03": 721
+    "2026-04": 597
+  invariants_observed:
+    rgpd_compliant_pct: 100
+    personal_data_stripped_pct: 100
+    description_non_empty_pct: 99.97
+
+reorganisation_log:
+  date: 2026-05-15
+  description: |
+    Réorganisation des YAML (data_raw/ et data_structured/) par
+    MOIS DE PUBLICATION (posted_date) au lieu de date de scrape.
+    Script: _reorg_by_publication_month.py
+    Vérification: 3 090 fichiers raw + 3 087 structured déplacés, ZERO perte.
+  rationale: |
+    L'organisation par mois de publication est plus pertinente analytiquement :
+    - alignée avec l'axe Usage Mining (time-series d'émergence des skills)
+    - indépendante de la date de scrape (artefact technique)
+    - permet d'inférer la "fraîcheur" relative d'une fiche
+
+# ─── Mapping data_raw → SKILLNAV ────────────────────────────────────────────
+schema_mapping:
+  data_raw_fields_used:
+    - job_id          # → source_ref + part of job_id
+    - title           # → title
+    - company         # → company
+    - location        # → location + inferred country
+    - work_type       # → custom work_type
+    - level           # → experience_level_text
+    - company_size    # → custom company_size_raw
+    - description     # → description (full text, source de vérité NER)
+    - industries      # → custom industries
+    - posted_date     # → posted_date
+    - url             # → source_url
+  data_structured_fields_used:
+    - company.stage             # → custom company_stage
+    - company.focus             # → custom company_focus
+    - position.ai_type.type     # → custom ai_classification
+    - position.ai_type.reasoning # → custom ai_classification_reasoning
+    - position.responsibilities # → responsibilities
+    - position.use_cases        # → custom use_cases
+    - position.skills.languages # → languages_programming
+    - position.skills.genai     # → tools_mentioned + flag genai_skills
+    - position.skills.ml        # → frameworks_mentioned + flag ml_skills
+    - position.skills.web       # → tools_mentioned
+    - position.skills.databases # → tools_mentioned
+    - position.skills.data      # → tools_mentioned
+    - position.skills.cloud     # → tools_mentioned
+    - position.skills.ops       # → tools_mentioned
+    - position.skills.domains   # → domains_iaml (via mapping)
+    - position.skills.other     # → skills_required
+    - position.is_customer_facing # → custom
+    - position.is_management    # → custom

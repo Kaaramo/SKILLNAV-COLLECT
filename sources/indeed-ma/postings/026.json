@@ -1,0 +1,40 @@
+{
+  "job_id": "indeed-ma-2026-026",
+  "source": "indeed-ma",
+  "source_url": "https://ma.indeed.com/viewjob?jk=9f42679ad19ae42c",
+  "source_ref": "9f42679ad19ae42c",
+  "title": "Google Cloud Data Engineer",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Müller`s Solutions",
+  "company_type": "entité morale privée",
+  "location": "Casablanca",
+  "country": "MA",
+  "remote_policy": "on-site",
+  "posted_date": "2026-03-03T07:42:22.512Z",
+  "deadline_date": null,
+  "contract_type": "CDI",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "description": "Müller’s Solutions is actively searching for a Google Cloud Data Engineer to enhance our data processing capabilities. In this vital role, you will be responsible for designing and implementing data pipelines leveraging Google Cloud technologies. You will work closely with data analysts, business stakeholders, and other engineering teams to ensure data is accurately processed, integrated, and made available for analysis and reporting.\n\nKey Responsibilities:\n\nDesign, develop, and optimize data pipelines using Google Cloud Dataflow, Pub/Sub, and other GCP data services.\nImplement data lakes and data warehouses using Google BigQuery, ensuring efficient data storage, retrieval, and processing.\nCollaborate with data scientists and analysts to understand data requirements and provide solutions that meet business needs.\nMonitor and evaluate data pipeline performance, implementing necessary optimizations and troubleshooting issues as they arise.\nEnsure data quality by developing and implementing validation routines and data profiling techniques.\nDocument data architecture, ETL processes, and operational procedures to facilitate knowledge sharing within the team.\nStay informed of emerging trends and best practices in data engineering and GCP technologies.\nParticipate in team efforts to define and enhance data governance and management practices.\n\nRequirements\n\nRequirements:\n\nBachelor's degree in Computer Science, Information Technology, Data Science, or a related field.\n3+ years of experience in data engineering, with a focus on Google Cloud Platform.\nProficient in designing and implementing data pipelines using Google Cloud Dataflow, BigQuery, and related tools.\nStrong SQL skills and experience in data modeling and data warehousing concepts.\nFamiliarity with programming languages such as Python or Java for data processing tasks.\nAbility to work with various data sources, including structured and unstructured data.\nStrong analytical and problem-solving skills with attention to detail.\nAbility to effectively communicate technical concepts to both technical and non-technical stakeholders.\n\nPreferred Qualifications:\n\nGoogle Cloud certifications (e.g., Google Cloud Professional Data Engineer) are highly desirable.\nExperience with real-time data processing using Apache Beam and Google Cloud Pub/Sub.\nUnderstanding of CI/CD practices in data engineering workflows.\nKnowledge of data visualization tools and techniques to present data insights effectively.\n\nBenefits\n\n1- Attractive Package.\n\n2- Family Benefits.\n\n3- Visa.\n\n4-Air Tickets.",
+  "skills_required": [
+    "GCP"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [
+    "GCP"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [],
+  "domains_iaml": [],
+  "job_family": "DATA_ENGINEER",
+  "scraped_at": "2026-05-14T21:30:00Z",
+  "scraper": "skillnav-apify-indeed-recovery-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.92,
+  "extraction_method": "playwright listing only",
+  "query_used": "data engineer",
+  "recovery_via": "apify_misceres_indeed_scraper"
+}

@@ -1,0 +1,137 @@
+{
+  "job_id": "intl-ai-corpus-2172",
+  "source": "intl-ai-corpus",
+  "source_ref": "8787986",
+  "source_url": "https://builtin.com/job/principal-ai-engineer/8787986",
+  "title": "Principal AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PhysicsX",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-18",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "67 Employees",
+  "company_stage": null,
+  "company_focus": "AI-driven simulation software for engineering and\nmanufacturing across advanced industries",
+  "industries": [
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "About us\n\nPhysicsX is a deep-tech company with roots in numerical\nphysics and Formula One, dedicated to accelerating hardware\ninnovation at the speed of software.\n\nWe are building an AI-driven simulation software stack for\nengineering and manufacturing across advanced industries. By\nenabling high-fidelity, multi-physics simulation through AI\ninference across the entire engineering lifecycle, PhysicsX\nunlocks new levels of optimization and automation in design,\nmanufacturing, and operations — empowering engineers to push\nthe boundaries of possibility. Our customers include leading\ninnovators in Aerospace & Defense, Materials, Energy,\nSemiconductors, and Automotive.\n\nThe Mission\n\nWe’re looking for an enthusiastic and opinionated Principal\nAI Engineer to define how AI agents transform Engineering\nworkflows across industries such as Manufacturing,\nAerospace, and Semi-conductor. You'll be building the\nfoundations that power next-generation simulation and design\ntools used by industry-leading engineering teams. Our\nplatform allows Forward Deployed Engineers (FDEs) and\ncustomers to build and deploy deep learning surrogates that\nsolve massive engineering challenges.\n\nYour mission is to architect the Agentic stack within this\nwider ecosystem. You will build a production-grade platform\nthat enables our Product teams, FDEs, and customers to\ncompose advanced AI workflows safely, transparently, and\nreliably.\n\n- You will set the strategic direction for our platform's\n  critical infrastructure and lead key implementation\n  efforts.\n- You are someone with the scar tissue of running agents in\n  production.\n- You have strong, reasoned opinions on emerging open\n  standards (such as MCP, A2A, and ACP) and deep expertise\n  in complex architectural patterns like durable execution\n  and agent memory.\n- You are passionate about building a world-class developer\n  experience that transforms complex research into robust,\n  deployed engineering solutions.\n\nCore Responsibilities\n\nYou will serve as the principal architect for our Agentic\necosystem, responsible for the high-level design choices\nthat define how agents run at PhysicsX. You will cover\ntopics such as:\n\n- Agent Observability: Own the implementation to enforce deep\n  tracing, granular cost tracking, and observability across\n  the lifecycle.\n- Agent Deployment: Deliver an intuitive deployment lifecycle\n  which simplifies questions around auth, discoverability\n  and resource requirements.\n- Agent Sandboxing: Architect secure environments to isolate\n  and allow agents to operate safely.\n- Agent Evals: Implement a stack that empowers domain experts\n  to efficiently annotate traces, turning qualitative\n  feedback into quantitative, reproducible evaluation\n  datasets.\n- Agent Governance: Implement robust identity and access\n  patterns to ensure agents can safely and correctly act on\n  behalf of users in a regulated enterprise environment.\n\nThe Tech Stack\n\n- Core Platform: Python (Primary), Go or TypeScript\n  (Secondary), Kubernetes, Docker, Terraform.\n- Agentic Infrastructure: LangGraph/LangChain, Temporal\n  (Durable Execution), Vector DBs (Pinecone/Weaviate).\n- Observability & Evals: OTel, LangSmith, Arize, Braintrust.\n\nWho You Are\n\n- An Architect at Heart: You have strong, reasoned opinions on\n  Durable Execution vs. Standard Async, Vector Search vs.\n  Keyword Search, and Prompt Management strategies.\n- Platform-First: You care deeply about the Developer\n  Experience (DevEx) of the Customers, FDEs consuming your\n  platform. You build tools that make the \"right way\" the\n  \"easy way.\"\n- Security-Minded: You understand the risks of allowing LLMs\n  to execute code and access data, and you know how to\n  mitigate them via rigid sandboxing and permissioning.\n\nQualifications\n\n- Platform & Backend Foundations:\n  - 4+ years of experience in Platform Engineering, Backend, or\n    SRE.\n  - Strong proficiency in Python/Go, Kubernetes, Docker, and IaC\n    (Terraform).\n- Agentic & AI Engineering:\n  - Production experience designing Agentic architectures\n    (chains, tools, memory).\n  - Familiarity with Agentic frameworks (LangGraph, PydanticAI)\n    and patterns like durable execution.\n  - Understanding of LLM-specific lifecycle issues: non-\n    determinism, systematic evals, and token-based cost\n    tracking.\n\nBonus Points\n\n- Background in Engineering workflows or simulation platforms.\n- Experience building internal developer platforms (IDPs).\n\n\n\nWe value diversity and are committed to equal employment\nopportunity regardless of sex, race, religion, ethnicity,\nnationality, disability, age, sexual orientation or gender\nidentity. We strongly encourage individuals from groups\ntraditionally underrepresented in tech to apply. To help\nmake a change, we sponsor bright women from disadvantaged\nbackgrounds through their university degrees in science and\nmathematics.\n\n\n\nWe collect diversity and inclusion data solely for the\npurpose of monitoring the effectiveness of our equal\nopportunities policies and ensuring compliance with UK\nemployment and equality legislation. This information is\nconfidential, used only in aggregate form, and will not\ninfluence the outcome of your application.\n",
+  "skills_required": [
+    "Agentic architectures",
+    "Deep learning",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "Prompt engineering",
+    "PydanticAI",
+    "Temporal"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect the Agentic stack within the PhysicsX simulation platform ecosystem",
+    "Build production-grade platform enabling Product teams, FDEs, and customers to compose advanced AI workflows",
+    "Own agent observability implementation including deep tracing, cost tracking, and lifecycle monitoring",
+    "Deliver intuitive agent deployment lifecycle with auth, discoverability, and resource management",
+    "Architect secure sandboxing environments to isolate and allow agents to operate safely",
+    "Implement agent evaluation stack empowering domain experts to annotate traces and create reproducible evaluation datasets",
+    "Implement robust agent governance with identity and access patterns for regulated enterprise environments",
+    "Set strategic direction for platform critical infrastructure and lead key implementation efforts"
+  ],
+  "use_cases": [
+    "AI-driven multi-physics simulation for engineering and manufacturing",
+    "Deep learning surrogates for solving massive engineering challenges",
+    "Simulation and design tools for Aerospace & Defense industries",
+    "Engineering workflow automation in Manufacturing and Semiconductor sectors",
+    "Hardware innovation acceleration through AI inference across engineering lifecycle"
+  ],
+  "tools_mentioned": [
+    "Arize",
+    "Docker",
+    "Kubernetes",
+    "LangSmith",
+    "OTel",
+    "Pinecone",
+    "Terraform",
+    "Vector databases",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "Agentic architectures",
+    "Deep learning",
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "Prompt engineering",
+    "PydanticAI",
+    "Temporal"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an ai-first role focused on building and deploying\nAI agents, agentic infrastructure, and LLM-based systems.\nThe position involves architecting production-grade agent\nplatforms, working with frameworks like LangGraph/LangChain,\nand implementing agent observability, deployment, and\ngovernance - all direct hands-on work with AI/LLM systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "PydanticAI",
+      "MCP",
+      "Prompt engineering",
+      "Agentic architectures",
+      "Temporal"
+    ],
+    "ml": [
+      "Deep learning"
+    ],
+    "web": [],
+    "databases": [
+      "Vector databases",
+      "Pinecone",
+      "Weaviate"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "LangSmith",
+      "Arize",
+      "OTel"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

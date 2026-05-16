@@ -1,0 +1,173 @@
+{
+  "job_id": "intl-ai-corpus-2014",
+  "source": "intl-ai-corpus",
+  "source_ref": "8699455",
+  "source_url": "https://builtin.com/job/llm-ops-engineer/8699455",
+  "title": "AI Ops Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Parspec",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-10",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "43 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-native platform for construction materials supply chain -\nproduct discovery, quoting, and procurement",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About Parspec\n\nParspec is building the AI and digital infrastructure for\nthe construction materials supply chain.\n\nConstruction is a $15 trillion industry, yet the systems\nthat underpin the buying and selling of materials remain\nfragmented, manual, and disconnected. Distributors and rep\nagencies rely on spreadsheets, PDFs, phone calls, and siloed\ntools to find new products and quote and manage projects;\ncreating delays, errors, and margin erosion across the\nsupply chain.\n\nParspec is an AI-native platform that powers how\nconstruction products are discovered, bought, and sold.\nTrusted by more than 300 MEP distributors and rep agencies,\nParspec helps project-driven businesses bid faster, win more\nwork, and operate more profitably. By combining product\nintelligence, AI-powered workflows, and a connected\necosystem, Parspec is laying the foundation for a more\nintelligent, efficient construction supply chain.\n\nFounded in 2021 and headquartered in San Mateo, California,\nParspec has raised $31 million from leading deep-tech and\nconstruction-technology investors.\n\nThe Opportunity\n\nWe are looking for an experienced AIOps / LLMOps Engineer to\nhelp design, deploy, and manage the AI infrastructure that\npowers Parspec’s next-generation AI systems.\n\nThis role will focus on building and maintaining scalable,\nsecure, and observable AI platforms that support generative\nAI applications and document intelligence workflows. You\nwill work on self-hosted large language models, asynchronous\ninference pipelines, and production-grade ML infrastructure\non AWS.\n\nYou will collaborate closely with AI researchers, product\nteams, and backend engineers to ensure reliable and\nefficient deployment of AI systems across Parspec’s\nplatform.\n\nPreferred location: Bengaluru, with regular in-office\ncollaboration.\n\nWhat You Will Achieve and Key Responsibilities\n\nAI Infrastructure & LLM Platform Development\n\n- Design and build document AI platforms powered by generative\n  AI, leveraging asynchronous architectures for scalable\n  inference.\n- Implement event-driven and queue-based systems to support\n  elastic scaling and non-blocking AI workflows.\n- Architect and maintain self-hosted LLM infrastructure using\n  tools such as vLLM or Ollama on Kubernetes or EC2 with GPU\n  orchestration.\n\nLLM Operations & Model Governance\n\n- Manage production systems for LLM serving, inference\n  pipelines, and AI workflow orchestration.\n- Implement LLM gateways and routing systems (e.g., LiteLLM,\n  Portkey) to ensure proper model usage and governance.\n- Develop guardrails and monitoring systems to reduce\n  hallucinations, misuse, and unsafe outputs in generative\n  AI systems.\n\nObservability & AI System Monitoring\n\n- Implement end-to-end observability for AI/ML pipelines using\n  distributed tracing and monitoring tools.\n- Monitor AI system health using platforms such as\n  OpenTelemetry, AWS X-Ray, Prometheus, and Grafana.\n- Track performance metrics including latency, token usage,\n  inference quality, and model drift.\n\nML Platform & Workflow Management\n\n- Manage machine learning workflows using tools such as\n  MLflow, Kubeflow, or SageMaker MLFlow setups.\n- Enable experiment tracking, model versioning, and deployment\n  pipelines for production AI systems.\n- Work closely with engineering teams to integrate AI\n  workflows into scalable backend systems.\n\nSecurity & Infrastructure Optimization\n\n- Implement AI platform security controls including Bedrock\n  Guardrails, KMS encryption, IAM least-privilege policies,\n  VPC endpoints, and CloudTrail auditing.\n- Optimize AWS infrastructure—including Bedrock, SageMaker,\n  and EKS—for cost efficiency, performance, and reliability.\n- Ensure production AI systems maintain high availability and\n  security standards.\n\nWhy This Matters\n\nGenerative AI systems are only as powerful as the\ninfrastructure that supports them. Building reliable,\nscalable AI platforms, especially those that serve complex\ndocument intelligence workloads, requires deep expertise in\ndistributed systems, observability, and model operations.\n\nAt Parspec, this infrastructure powers AI systems that\nextract and organize construction product data at scale.\nYour work will enable the next generation of document AI and\ngenerative workflows that make critical industry information\naccessible, searchable, and actionable.\n\nWho You Are\n\nRequired Qualifications\n\n- Strong experience with AWS cloud infrastructure including\n  services such as EC2, Lambda, S3, EKS, Bedrock, Step\n  Functions, API Gateway, EventBridge, and SQS/SNS.\n- Experience building ML infrastructure using Infrastructure-\n  as-Code tools such as Terraform or CloudFormation.\n- Hands-on experience deploying and operating LLM serving\n  infrastructure using platforms such as vLLM or Text\n  Generation Inference.\n- Experience managing vector databases and retrieval systems\n  such as Pinecone, PGVector, or Weaviate.\n- Strong experience designing event-driven or asynchronous\n  systems using queues (SQS, Kafka) and micro-batching\n  patterns.\n- Experience implementing observability and monitoring for\n  distributed AI systems using tools such as ELK,\n  Prometheus, Grafana, and OpenTelemetry.\n- Strong programming experience in Python, including\n  frameworks such as FastAPI and asynchronous programming\n  patterns (asyncio).\n- Experience with Docker, Kubernetes, and CI/CD pipelines\n  using tools such as GitHub Actions or ArgoCD.\n\nExperience\n\n- 5+ years of experience in MLOps, LLMOps, AIOps, or DevOps\n  supporting machine learning or AI systems.\n- Proven track record building production generative AI\n  systems with high availability and scalability.\n- Experience deploying self-hosted LLMs on AWS infrastructure\n  and building production-grade document AI platforms.\n- Experience operating AI systems with >99.9% uptime and cost-\n  efficient infrastructure management.\n  JobRequirements_AIOPS_Engineer\n\nPreferred Qualifications\n\n- Bachelor’s or Master’s degree in Computer Science, Data\n  Science, or a related technical field.\n- Experience working with multimodal LLMs or agent-based AI\n  workflows.\n- Familiarity with cost-optimized inference hardware and\n  infrastructure such as AWS Trainium.\n\nWhat We Offer\n\n- Competitive salary and benefits, including family insurance\n  coverage, free health teleconsultations, and\n  learning/upskilling budgets\n- Equity in the company\n- Flexible hours and a hybrid work setup\n- Unlimited PTO\n- Opportunity to grow with a fast-scaling company transforming\n  a large market\n- Preferred Location: San Mateo, with regular in-office\n  presence\n\nJoin Us\n\nAt Parspec, we recognize that traditional job descriptions\ndon’t always capture the full range of your unique\nabilities—and that’s perfectly okay. You may not meet every\nrequirement, but if you bring a mix of experiences, fresh\nperspectives, and a passion that aligns with our mission, we\nwant to hear from you!\n\nThe Parspec team believes that varied backgrounds drive\nbetter outcomes and fuel innovation. We are a team of self-\nstarters that lead from every seat. We think big, set a\nstandard of excellence and are committed to diversity and a\ndiscrimination-free workplace. We welcome applicants from\nall walks of life to join us and help shape the future at\nParspec.\n\nHow to Apply\n\nSubmit your application and resume highlighting your\nachievements. Apply now and help drive transformative change\nin one of the world’s oldest and largest industries!\n",
+  "skills_required": [
+    "LiteLLM",
+    "Portkey"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build document AI platforms powered by generative AI with asynchronous architectures for scalable inference",
+    "Architect and maintain self-hosted LLM infrastructure using vLLM or Ollama on Kubernetes or EC2 with GPU orchestration",
+    "Implement event-driven and queue-based systems to support elastic scaling and non-blocking AI workflows",
+    "Manage production systems for LLM serving, inference pipelines, and AI workflow orchestration",
+    "Implement LLM gateways and routing systems with guardrails and monitoring to reduce hallucinations and unsafe outputs",
+    "Implement end-to-end observability for AI/ML pipelines using distributed tracing and monitoring tools",
+    "Manage machine learning workflows using MLflow, Kubeflow, or SageMaker for experiment tracking and model versioning",
+    "Implement AI platform security controls and optimize AWS infrastructure for cost efficiency and reliability"
+  ],
+  "use_cases": [
+    "Document intelligence and extraction for construction product data",
+    "Self-hosted LLM inference for construction materials workflows",
+    "Generative AI workflows for product discovery and quoting",
+    "AI-powered document processing at scale",
+    "Construction product data organization and searchability"
+  ],
+  "tools_mentioned": [
+    "AWS API Gateway",
+    "AWS Bedrock",
+    "AWS EC2",
+    "AWS EKS",
+    "AWS EventBridge",
+    "AWS KMS",
+    "AWS Lambda",
+    "AWS S3",
+    "AWS Step Functions",
+    "AWS Trainium",
+    "AWS VPC",
+    "AWS X-Ray",
+    "ArgoCD",
+    "CloudFormation",
+    "CloudTrail",
+    "Docker",
+    "ELK Stack",
+    "FastAPI",
+    "GitHub Actions",
+    "Grafana",
+    "Kafka",
+    "Kubeflow",
+    "Kubernetes",
+    "MLflow",
+    "Ollama",
+    "OpenTelemetry",
+    "PGVector",
+    "Pinecone",
+    "Prometheus",
+    "SNS",
+    "SQS",
+    "SageMaker",
+    "Terraform",
+    "Weaviate",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "LiteLLM",
+    "Portkey"
+  ],
+  "languages_programming": [
+    "Python",
+    "asyncio"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves deploying, operating, and managing LLM\ninfrastructure including self-hosted models with\nvLLM/Ollama, building inference pipelines, and implementing\nLLM gateways and governance. While it's infrastructure-\nfocused, the work is directly on AI systems—serving,\nmonitoring, and optimizing LLMs in production rather than\njust enabling others to work on AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LiteLLM",
+      "Portkey"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "Pinecone",
+      "PGVector",
+      "Weaviate"
+    ],
+    "data": [
+      "SQS",
+      "Kafka"
+    ],
+    "cloud": [
+      "SageMaker",
+      "AWS Bedrock",
+      "AWS X-Ray",
+      "AWS EC2",
+      "AWS Lambda",
+      "AWS S3",
+      "AWS EKS",
+      "AWS Step Functions",
+      "AWS API Gateway",
+      "AWS EventBridge",
+      "SNS",
+      "AWS KMS",
+      "AWS VPC",
+      "CloudTrail",
+      "AWS Trainium"
+    ],
+    "ops": [
+      "vLLM",
+      "Ollama",
+      "Kubernetes",
+      "MLflow",
+      "Kubeflow",
+      "OpenTelemetry",
+      "Prometheus",
+      "Grafana",
+      "Terraform",
+      "CloudFormation",
+      "Docker",
+      "GitHub Actions",
+      "ArgoCD",
+      "ELK Stack"
+    ],
+    "languages": [
+      "Python",
+      "asyncio"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

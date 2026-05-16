@@ -1,0 +1,102 @@
+{
+  "job_id": "intl-ai-corpus-2123",
+  "source": "intl-ai-corpus",
+  "source_ref": "8767899",
+  "source_url": "https://builtin.com/job/agentic-ai-developer-engineer/8767899",
+  "title": "Agentic AI Developer / Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Frazier & Deeter, LLC",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-16",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "434 Employees",
+  "company_stage": "Established",
+  "company_focus": "Accounting and advisory firm serving global clients with\ntax, audit, and advisory services",
+  "industries": [],
+  "description": "Frazier & Deeter (FD) is an award-winning accounting &\nadvisory firm. FD and our family of brands serve clients\nworldwide, from the Fortune Global 500 companies to growing\nsmall businesses. Frazier & Deeter cultivates a growth\nmindset and instils in our people the belief that we must be\nadaptive and entrepreneurial, and we make a difference for\nour clients and each other. We focus on our brand promise of\nInvesting in Relationships to Make a Difference.\n\nFD offers a full range of tax, audit, accounting, and\nadvisory services through our offices in Atlanta, Charlotte,\nLas Vegas, Nashville, Alpharetta, and Tampa, in addition to\nLondon and India. We have been recognized repeatedly as a\nTop 50 firm, a Best of the Best Accounting firm, a Best Firm\nto Work For® and a Best Firm for Women in Leadership.\n\nFD recently opened its own entity in India to support our\nexpanding international and cross-border client base. We are\nnot your typical firm of accountants and we like doing\nthings differently. Our team members have the opportunity to\nbe involved in global consulting and advisory client facing\nroles in a fast growing and exciting new business in India,\nwhich is part of our established and highly regarded\naccountancy firms in the US and UK.\n\nAbout the Role\n\nThe Agentic AI Developer is responsible for building\nintelligent automations and streamlining processes across\nthe firm using Microsoft Copilot Studio, Power Automate, and\nother generative AI tools. As part of a global development\nteam, this individual contributor will help automate manual\nworkflows, integrate AI-driven efficiencies, and support\nagentic AI capabilities at scale.\n\nResponsibilities\n\n- Design and implement AI-augmented automations using\n  Microsoft Copilot Studio and Power Automate.\n- Develop solutions that streamline manual tasks across\n  compliance, audit, and operational workflows.\n- Leverage AI tools to parse documents, validate policies, and\n  automate routine decision-making steps.\n- Integrate agentic AI capabilities into existing\n  applications, enhancing overall firm productivity.\n- Work within a CI/CD pipeline, ensuring code is reviewed,\n  tested, and deployed following best practices.\n- Collaborate with internal development teams to align AI\n  solutions with broader initiatives.\n- Document automation designs, conduct testing, and iterate\n  based on team feedback.\n\nSkills & Experience\n\n- Proficiency in Python for automation tasks and scripting.\n- Experience developing or integrating solutions using AI\n  technologies and RESTful APIs.\n- Experience using Microsoft Power Automate and low-code/no-\n  code platforms.\n- Familiarity with CI/CD pipelines, version control, and code\n  reviews.\n- Understanding of AI application patterns, though model\n  building isn’t required.\n- Ability to collaborate with technical teams while working\n  independently on implementation.\n\nAdditional Qualifications\n\n- Prior experience with business process automation or\n  operational efficiency projects is a plus.\n- Familiarity with compliance workflows (e.g., audit\n  processes) is beneficial.\n- Strong communication for test/feedback phases, though\n  primary focus is on development.\n\nWhat FD offers\n\n- Competitive salary\n- Clear career growth path within the firm\n- Personal and professional skills development and training\n  support\n",
+  "skills_required": [
+    "Generative AI tools",
+    "Low-code/no-code platforms",
+    "Microsoft Copilot Studio",
+    "Power Automate"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement AI-augmented automations using Microsoft Copilot Studio and Power Automate",
+    "Develop solutions that streamline manual tasks across compliance, audit, and operational workflows",
+    "Leverage AI tools to parse documents, validate policies, and automate routine decision-making steps",
+    "Integrate agentic AI capabilities into existing applications to enhance firm productivity",
+    "Work within CI/CD pipelines ensuring code is reviewed, tested, and deployed",
+    "Collaborate with internal development teams to align AI solutions with broader initiatives",
+    "Document automation designs, conduct testing, and iterate based on feedback"
+  ],
+  "use_cases": [
+    "Document parsing and policy validation for accounting workflows",
+    "Compliance and audit process automation",
+    "Operational workflow streamlining for accounting firm",
+    "Automated decision-making for routine business tasks",
+    "Firm-wide productivity enhancement through agentic AI"
+  ],
+  "tools_mentioned": [
+    "CI/CD pipelines",
+    "RESTful APIs",
+    "Version control"
+  ],
+  "frameworks_mentioned": [
+    "Generative AI tools",
+    "Microsoft Copilot Studio"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role focuses on building agentic AI systems using\nMicrosoft Copilot Studio and integrating AI capabilities\ninto applications. The developer will implement AI-driven\ndocument parsing, policy validation, and automated decision-\nmaking using generative AI tools - this is hands-on work\ndeploying and implementing AI/agent solutions.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Microsoft Copilot Studio",
+      "Generative AI tools"
+    ],
+    "ml": [],
+    "web": [
+      "RESTful APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD pipelines",
+      "Version control"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Power Automate",
+      "Low-code/no-code platforms"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

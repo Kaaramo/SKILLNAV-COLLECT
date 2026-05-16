@@ -1,0 +1,33 @@
+company:
+  name: Digital Virgo
+  stage: null
+  focus: null
+position:
+  title: Stage Data Analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - Autonomie et proactivité
+    - Bonne communication
+    - Curiosité et capacité à apprendre rapidement
+    - Esprit analytique et rigueur
+    - 'French, English: good level'
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010091301591'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

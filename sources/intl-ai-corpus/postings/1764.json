@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-1764",
+  "source": "intl-ai-corpus",
+  "source_ref": "8599719",
+  "source_url": "https://builtin.com/job/lead-ai-platform-engineer/8599719",
+  "title": "Lead AI Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ecolab",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "29,154 Employees",
+  "company_stage": "Public",
+  "company_focus": "Water treatment and hygiene solutions",
+  "industries": [],
+  "description": "Lead Databricks Data Engineer\n\nEcolab is looking for a Data Engineer to be part of a\ndynamic team that's at the forefront of technological\ninnovation. We're leveraging cutting-edge AI to create novel\nsolutions that optimize operations for our clients,\nparticularly within the restaurant industry. Our work is\ntransforming how restaurants operate, making them more\nefficient and sustainable.\n\n As a key player in our new division, you'll have the unique\nopportunity to help shape its culture and direction. Your\ncontributions will directly impact the success of our\ninnovative projects and help define the future of our\nproduct offerings.  Additionally, you will experience the\nbest of both worlds with this team at Ecolab: the agility\nand creativity of a startup paired with the stability and\nresources of a global leader. Our collaborative environment\nfosters innovation while providing the support and security\nyou need to thrive.\n\nResponsibilities\n\n- Design, develop, and maintain scalable and robust data\n  pipelines on Databricks (Spark SQL, PySpark, Delta Lake).\n- Collaborate with data scientists and analysts to understand\n  data requirements and deliver solutions.\n- Optimize and troubleshoot existing data pipelines for\n  performance and reliability.\n- Ensure data quality and integrity across various data\n  sources.\n- Implement data security and compliance best practices.\n- Monitor data pipeline performance, implement data quality\n  checks, and conduct necessary maintenance and updates.\n- Document data pipeline processes and technical\n  specifications.\n\n- Implement robust pipeline orchestration using tools like\n  Databricks Workflows, dbt, or similar.\n- Generate and maintain data quality reports and dashboards.\n- Implement Infrastructure as Code (IaC) principles for\n  managing Databricks infrastructure.\n\nMinimum Qualifications\n\n- Bachelor’s degree and 8 years work experience; or no degree\n  and 12 years combined education and equivalent work\n  experience.\n- 3 years of experience (work or educational) with a data\n  engineering focus.\n- Proven experience in Databricks (Delta Lake, Workflows,\n  Asset Bundles).\n- Proven experience in distributed data processing\n  technologies (Spark SQL, PySpark).\n- Strong knowledge in designing and developing ETL pipelines.\n- Experience with data quality monitoring and reporting.\n- Experience working in a collaborative environment with data\n  scientists and software engineers.\n\nPreferred Qualifications\n\n- Master’s degree (MS) in Computer Science or related\n  engineering field.\n- Proficiency in Databricks (Delta Lake, Workflows, Asset\n  Bundles).\n- Proficiency in distributed data processing technologies\n  (Spark SQL, PySpark).\n- Experience with pipeline orchestration tools (Databricks\n  Workflows, dbt, etc.).\n- Experience with data visualization tools (e.g., Tableau,\n  Power BI).\n- Working experience with machine learning platforms and\n  tools.\n- Experience with real-time data streaming technologies (e.g.,\n  Kafka, Kinesis).\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and maintain scalable and robust data pipelines on Databricks using Spark SQL, PySpark, and Delta Lake",
+    "Collaborate with data scientists and analysts to understand data requirements and deliver solutions",
+    "Optimize and troubleshoot existing data pipelines for performance and reliability",
+    "Ensure data quality and integrity across various data sources",
+    "Implement robust pipeline orchestration using Databricks Workflows, dbt, or similar tools",
+    "Implement Infrastructure as Code principles for managing Databricks infrastructure"
+  ],
+  "use_cases": [
+    "Restaurant operations optimization through AI-powered solutions",
+    "Efficiency and sustainability improvements for restaurant clients",
+    "Data-driven decision making for operational optimization"
+  ],
+  "tools_mentioned": [
+    "Data quality monitoring",
+    "Databricks",
+    "Delta Lake",
+    "ETL pipelines",
+    "Infrastructure as Code",
+    "Kafka",
+    "Kinesis",
+    "Power BI",
+    "Spark SQL",
+    "Tableau",
+    "dbt"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "PySpark",
+    "Python"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The role is focused on building and maintaining data\npipelines using Databricks, Spark, and Delta Lake to support\ndata scientists and analysts. The position involves\ninfrastructure and data engineering work that enables AI/ML\ninitiatives but does not directly involve building,\ntraining, or deploying models.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Delta Lake"
+    ],
+    "data": [
+      "Spark SQL",
+      "ETL pipelines",
+      "dbt",
+      "Kafka",
+      "Kinesis",
+      "Tableau",
+      "Power BI"
+    ],
+    "cloud": [
+      "Databricks"
+    ],
+    "ops": [
+      "Data quality monitoring",
+      "Infrastructure as Code"
+    ],
+    "languages": [
+      "PySpark",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,44 @@
+company:
+  name: Collective.work
+  stage: null
+  focus: null
+position:
+  title: Data Engineer - Permanent
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Data pipeline engineering
+  skills:
+    genai: []
+    ml:
+    - ml
+    web:
+    - next
+    databases:
+    - bigquery
+    data:
+    - airflow
+    - dataflow
+    - etl
+    - kafka
+    - pipeline
+    - prefect
+    - spark
+    - sql
+    cloud:
+    - azure
+    - gcp
+    ops:
+    - docker
+    languages:
+    - python
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4407825356'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

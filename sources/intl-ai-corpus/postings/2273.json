@@ -1,0 +1,153 @@
+{
+  "job_id": "intl-ai-corpus-2273",
+  "source": "intl-ai-corpus",
+  "source_ref": "8834912",
+  "source_url": "https://www.builtinla.com/job/ml-ops-engineer-data-lake-ai-infrastructure/8834912",
+  "title": "ML Ops Engineer - Data Lake & AI Infrastructure",
+  "title_normalized": "MLOPS_ENGINEER",
+  "company": "Worldly",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-23",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B or later",
+  "company_focus": "ESG and sustainability intelligence platform for supply\nchains",
+  "industries": [],
+  "description": "ML Ops Engineer - Data Lake & AI Infrastructure\n\nUS - Remote\n\nAbout Worldly\n\nWorldly is the world’s most comprehensive impact\nintelligence platform — delivering real data to businesses\non impacts within their supply chain. Worldly is trusted by\n40,000 global brands, retailers, and manufacturers to\nprovide the single source of ESG intelligence they need to\naccelerate business and industry transformation.\n\nThrough strategic and meaningful customer relationships,\nWorldly provides key insights into supplier performance,\nproduct impact, trends analysis, and compliance. When a\ncompany wants to change how business is done, we enable that\nsystemic shift.\n\nBacked by a dedicated global team of individuals aligned by\nvalues, Worldly proudly operates as a public benefit\ncorporation with backing from mission-aligned investors.\nWant to learn more? Read our story.\n\nAbout The Role\n\nWorldly is the most comprehensive platform for measuring\nsustainability performance across the apparel, footwear, and\nconsumer goods industries. We are rapidly expanding our data\ninfrastructure and AI capabilities to help companies unlock\ninsights, build credible sustainability claims, and power\ncompliance with evolving regulations worldwide — all while\nmanaging complex global data challenges.\n\nWe’re looking for an MLOps Engineer to design, deploy, and\nsupport the next-generation data infrastructure and AI\nsystems that unify structured and unstructured data at scale\n— across regions, including China.\n\nWhat You'll Do\n\n- Design and deploy data lakehouse infrastructure using open-\n  source technologies (e.g., MinIO, Apache Iceberg, Trino)\n  to ingest and manage high-volume structured and\n  unstructured data.\n- Build and scale ML pipelines using modern tools such as\n  MLflow, LangChain/Haystack, and orchestrate them via\n  Airflow or Dagster.\n- Implement data ingestion and transformation workflows using\n  tools like Apache NiFi, Airbyte, and dbt.\n- Support federated querying and real-time analytics via\n  Trino, ClickHouse, or StarRocks.\n- Enable retrieval-augmented generation (RAG) and other LLM-\n  powered applications by integrating the data lake with\n  AI/ML systems.\n- Develop CI/CD pipelines for ML models, infrastructure-as-\n  code, and data pipeline deployments.\n- Monitor, debug, and optimize data and ML services running\n  across distributed environments (including mainland\n  China).\n- Collaborate cross-functionally with data scientists,\n  platform & DevOps engineers, and sustainability analysts\n  to translate real-world use cases into scalable MLOps\n  workflows.\n\nWe'd Like to See\n\n- 4+ years of experience in ML engineering, MLOps, or data\n  infrastructure roles.\n- Proven hands-on experience with containerized open-source\n  data tools such as:\n  - Object stores: MinIO, Ceph, or HDFS\n  - Table formats: Apache Iceberg, Hudi, or Delta Lake\n  - Query engines: Trino/Presto, ClickHouse, or DuckDB\n  - Workflow orchestration: Airflow, Dagster, or Prefect\n  - ML tools: MLflow, LangChain, Hugging Face, or vLLM\n  - ETL/ELT tools: Airbyte, NiFi, dbt\n- Experience managing infrastructure across multiple regions,\n  including self-hosted deployments (Kubernetes, Docker\n  Compose, Terraform, etc.).\n- Experience monitoring ML prediction performance, drift\n  metrics, and pipeline tools\n- Strong understanding of data engineering best practices,\n  including security, governance, and versioning.\n\nIt Helps If You Have\n\n- Experience deploying AI/ML infrastructure in China-\n  compatible cloud environments (e.g., Alibaba Cloud, Huawei\n  Cloud).\n- Familiarity with retrieval-augmented generation (RAG)\n  pipelines and unstructured document indexing.\n- Exposure to sustainability or supply chain data models.\n- Contributions to open-source data or MLOps projects.\n- Experience supporting data quality pipelines and/or data\n  privacy frameworks (GDPR, CSRD, etc.).\n\nWhat We Can Offer You\n\n- Comprehensive benefits offerings. 90% employee premium and\n  75% spouse/dependent premium covered by Worldly.\n- Company-sponsored 401k with up to 4% match.\n- Incentive Stock Options\n- 100% Parental Paid Leave\n- Unlimited PTO\n- 13 company holidays\n\nLife at Worldly\n\nOur team is motivated to transform the way products are\nmade. By helping our customers succeed in a new era of\nsustainable production, we can build technology that makes a\ndifference on a planetary level.\n\nOur team represents over 15 countries and brings unique\nexperiences from technology to farming to the table.\nSurround yourself with kind, enthusiastic, and dedicated\npeople who put collaboration and growth at the center of our\nshared goals.\n\nBenefits and Perks\n\n- Earn a competitive salary and performance-based bonuses. Get\n  healthcare, retirement matching, and equity for US\n  employees.\n- Use our work-from-home stipend to get the supplies you need.\n- Flexible time off. Take the time you need to recharge. Our\n  culture encourages team members to explore and rest to be\n  their best selves.\n- We're remote, not lonely. Join the culture committee, coffee\n  chats, or a variety of other interest groups.\n\nTravel Notice\n\nRoles at Worldly may require occasional travel to support\nbusiness needs, including but not limited to team\ncollaboration, customer engagement, or company events.\n\nEquity Statement\n\nWe believe it’s essential to reflect the diversity of those\nwe strive to serve. True innovation happens when everyone\nhas room at the table, including the tools, resources, and\nopportunity to excel. We’re dedicated to building a\nculturally and experientially diverse team that leads and\nworks with empathy and respect.\n\nCompensation Overview\n\nBase Rate: $145,000 - $185,000 USD\n\nBonus: 10% Annually\n\nEquity: Equity Stock Option Program\n\n*Final compensation details will be determined based on a\nwide variety of factors, including experience and location.\nThese factors will be evaluated and considered by Worldly\nthroughout the entirety of this process.\n",
+  "skills_required": [
+    "Haystack",
+    "Hugging Face",
+    "LangChain",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deploy data lakehouse infrastructure using open-source technologies to ingest and manage high-volume structured and unstructured data",
+    "Build and scale ML pipelines using modern tools such as MLflow, LangChain/Haystack, and orchestrate them via Airflow or Dagster",
+    "Implement data ingestion and transformation workflows using Apache NiFi, Airbyte, and dbt",
+    "Support federated querying and real-time analytics via Trino, ClickHouse, or StarRocks",
+    "Enable retrieval-augmented generation (RAG) and other LLM-powered applications by integrating the data lake with AI/ML systems",
+    "Develop CI/CD pipelines for ML models, infrastructure-as-code, and data pipeline deployments",
+    "Monitor, debug, and optimize data and ML services running across distributed environments including mainland China"
+  ],
+  "use_cases": [
+    "Sustainability performance measurement and impact intelligence across supply chains",
+    "Real-time analytics on structured and unstructured ESG data",
+    "Retrieval-augmented generation for sustainability insights and document indexing",
+    "Compliance monitoring with evolving global regulations",
+    "Trend analysis and supplier performance tracking for consumer goods industries"
+  ],
+  "tools_mentioned": [
+    "Airbyte",
+    "Airflow",
+    "Alibaba Cloud",
+    "Apache Iceberg",
+    "Apache NiFi",
+    "CI/CD",
+    "Ceph",
+    "ClickHouse",
+    "Dagster",
+    "Delta Lake",
+    "Docker",
+    "DuckDB",
+    "HDFS",
+    "Huawei Cloud",
+    "Hudi",
+    "Kubernetes",
+    "MLflow",
+    "MinIO",
+    "Prefect",
+    "Presto",
+    "StarRocks",
+    "Terraform",
+    "Trino",
+    "dbt",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "Haystack",
+    "Hugging Face",
+    "LangChain",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "BIG_DATA",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and scaling ML pipelines using\nLangChain/Haystack, enabling RAG and LLM-powered\napplications, and integrating AI/ML systems with data\ninfrastructure. While it has strong infrastructure and data\nengineering components, it includes direct hands-on work\nwith LLM tools and RAG implementation, making it ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Haystack",
+      "RAG"
+    ],
+    "ml": [
+      "Hugging Face"
+    ],
+    "web": [],
+    "databases": [
+      "Apache Iceberg",
+      "MinIO",
+      "Trino",
+      "ClickHouse",
+      "StarRocks",
+      "Ceph",
+      "HDFS",
+      "Hudi",
+      "Delta Lake",
+      "Presto",
+      "DuckDB"
+    ],
+    "data": [
+      "Airflow",
+      "Dagster",
+      "Apache NiFi",
+      "Airbyte",
+      "dbt",
+      "Prefect"
+    ],
+    "cloud": [
+      "Alibaba Cloud",
+      "Huawei Cloud"
+    ],
+    "ops": [
+      "MLflow",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "CI/CD",
+      "vLLM"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,150 @@
+{
+  "job_id": "intl-ai-corpus-0045",
+  "source": "intl-ai-corpus",
+  "source_ref": "6659050",
+  "source_url": "https://builtin.com/job/ai-product-research-engineer/6659050",
+  "title": "AI Product & Research Engineer",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Capital",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-11",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "18 Employees",
+  "company_stage": null,
+  "company_focus": "Leading trading platform with digital assets",
+  "industries": [],
+  "description": "We are a leading trading platform that is ambitiously\nexpanding to the four corners of the globe. Our top-rated\nproducts have won prestigious industry awards for their\ncutting-edge technology and seamless client experience. We\ndeliver only the best, so we are always in search of the\nbest people to join our ever-growing talented team.\n\nWe’re spinning up a brand-new AI department and need a\nfirst-on-the-ground engineer who can turn wild LLM ideas\ninto working demos overnight, teach everyone around you why\nautomation matters, and have fun doing it.\n\nIf you can ship Python or TypeScript prototypes, keep\nreading.\n\nResponsibilities:\n\n- Prompt Engineering & Orchestration: Craft, iterate, and\n  optimize prompts for APIs (OpenAI, Cohere, Anthropic).\n  Build multi-step “chains” using LangChain, LlamaIndex, or\n  custom controllers. Develop and maintain AI microservices\n  using Docker, Kubernetes, and FastAPI, ensuring smooth\n  model serving and error handling;\n- Vector Search & Retrieval: Implement retrieval-augmented\n  workflows: ingest documents, index embeddings (Pinecone,\n  FAISS, Weaviate), and build similarity search features.\n- Rapid Prototyping: Create interactive AI demos and proofs-\n  of-concept with Streamlit, Gradio, or Next.js for\n  stakeholder feedback;\n- MLOps & Deployment: Implement CI/CD pipelines (e.g., GitLab\n  Actions, Apache Airflow), experiment tracking (MLflow),\n  and model monitoring for reliable production workflows;\n- Cross-Functional Collaboration: Participate in code reviews,\n  architectural discussions, and sprint planning to deliver\n  features end-to-end.\n\nRequirements:\n\n- Master’s degree in AI and/or Computer Science;\n- Hands-on experience integrating LLM APIs (e.g. OpenAI,\n  Hugging Face Inference);\n- Practical experience fine-tuning LLMs via OpenAI,\n  HuggingFace or similar APIs;\n- Strong proficiency in Python;\n- Deep expertise in prompt engineering and tooling like\n  LangChain or LlamaIndex;\n- Proficiency with vector databases (Pinecone, FAISS,\n  Weaviate) and document embedding pipelines;\n- Proven rapid-prototyping skills using Streamlit or\n  equivalent frameworks for UI demos.\n- Familiarity with containerization (Docker) and at least one\n  orchestration/deployment platform;\n- Excellent communication and ability to frame AI solutions in\n  business terms.\n\nNice-to-have:\n\n- Familiarity with database systems (PostgreSQL, MongoDB) and\n  caching layers (Redis);\n- Open-source contributions or published AI demos;\n- Understanding of cost-optimization, monitoring for LLM usage\n  and model-API trade-offs;\n- Familiarity with prompt engineering best practices and\n  “vibe-coding” tools (e.g., GitHub Copilot, Cursor IDE);\n- Willingness to travel occasionally for team offsites or\n  workshops.\n\nWhat you will get in return:\n\n- Competitive Salary: We believe great work deserves great\n  pay! Your skills and talents will be rewarded with a\n  salary that makes you feel valued and motivated.\n- Work-Life Harmony: Join a company that genuinely cares about\n  you - because your life outside of work matters just as\n  much as your time on the clock. #LI-Hybrid\n- Annual Performance Bonus: Your hard work doesn’t go\n  unnoticed! Celebrate your achievements with a well-\n  deserved annual bonus tied to your performance.\n- Generous Time Off: Need a breather? Our annual leave policy\n  lets you recharge and enjoy life outside of work without a\n  worry.\n- Employee Referral Program: Love working here? Share the\n  love! Bring your talented friends on board and get\n  rewarded for growing our awesome team.\n- Comprehensive Health & Pension Benefits: From medical\n  insurance to pension plans, we’ve got your back. Plus,\n  location-specific benefits and perks!\n- Workation Wonderland: Live your digital nomad dreams with 30\n  extra days to work remotely from anywhere in the world\n  (some restrictions apply). Adventure awaits!\n- Volunteer Days: Make a difference! Take two additional paid\n  days each year to support causes you care about and give\n  back to the community.\n\nBe a key player at the forefront of the digital assets\nmovement, propelling your career to new heights! Join a\ndynamic and rapidly expanding company that values and\nrewards talent, initiative, and creativity. Work alongside\none of the most brilliant teams in the industry.\n",
+  "skills_required": [
+    "Anthropic",
+    "Cohere",
+    "Hugging Face",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI",
+    "RAG",
+    "embeddings",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Craft, iterate, and optimize prompts for LLM APIs and build multi-step chains using LangChain or LlamaIndex",
+    "Implement retrieval-augmented workflows with document ingestion, embedding indexing, and similarity search",
+    "Create interactive AI demos and proofs-of-concept using Streamlit, Gradio, or Next.js",
+    "Develop and maintain AI microservices using Docker, Kubernetes, and FastAPI for model serving",
+    "Implement CI/CD pipelines, experiment tracking, and model monitoring for production workflows",
+    "Participate in code reviews, architectural discussions, and sprint planning to deliver features end-to-end"
+  ],
+  "use_cases": [
+    "LLM-powered automation and orchestration for trading platform workflows",
+    "Retrieval-augmented generation for document search and information access",
+    "Rapid prototyping of AI applications for stakeholder validation",
+    "AI microservices integration into existing trading platform infrastructure"
+  ],
+  "tools_mentioned": [
+    "Apache Airflow",
+    "Docker",
+    "FAISS",
+    "FastAPI",
+    "Gradio",
+    "Kubernetes",
+    "MLflow",
+    "MongoDB",
+    "Next.js",
+    "Pinecone",
+    "PostgreSQL",
+    "Redis",
+    "Streamlit",
+    "Weaviate",
+    "model serving"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic",
+    "Cohere",
+    "Hugging Face",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI",
+    "RAG",
+    "embeddings",
+    "fine-tuning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying LLM\napplications - prompt engineering, fine-tuning models,\nimplementing RAG workflows, and building AI microservices.\nThe engineer is directly working ON AI systems (LLMs, vector\ndatabases, model serving) rather than supporting others who\ndo.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI",
+      "Anthropic",
+      "Cohere",
+      "LangChain",
+      "LlamaIndex",
+      "Hugging Face",
+      "prompt engineering",
+      "RAG"
+    ],
+    "ml": [
+      "fine-tuning",
+      "embeddings"
+    ],
+    "web": [
+      "FastAPI",
+      "Next.js",
+      "Streamlit",
+      "Gradio"
+    ],
+    "databases": [
+      "Pinecone",
+      "FAISS",
+      "Weaviate",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "data": [
+      "Apache Airflow"
+    ],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "model serving"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

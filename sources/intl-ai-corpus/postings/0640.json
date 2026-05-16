@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-0640",
+  "source": "intl-ai-corpus",
+  "source_ref": "8309905",
+  "source_url": "https://builtin.com/job/ai-engineer/8309905",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Epistemix",
+  "company_type": "entité morale privée",
+  "location": "US",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-27",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "21 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Simulation and modeling platform for forecasting outcomes\nand risk",
+  "industries": [
+    "Information Technology",
+    "Software",
+    "Analytics"
+  ],
+  "description": "The AI Engineer plays a critical role in making modeling and\nsimulation accessible to non-data scientists. You will be\ndesigning, developing, and deploying AI-driven applications\nto make our software more accessible which will have a\ndirect impact on the number of organizations we are able to\nserve. This position plays a critical role in our product\nroadmap and will directly contribute to the company's\nsuccess and growth. Ideal candidates exhibit a high\nwillingness to experiment and empathy for users.\n\nAbout Epistemix\n\nEpistemix helps organizations forecast outcomes and manage\nrisk by modeling how people behave. Our platform consists of\ntwo core products: Populus, which provides access to\nrealistic, high-resolution synthetic population data, and\nPolaris, which enables scenario planning through advanced\ndata science and simulation. Together, they empower\ncustomers to evaluate the potential impact of strategies\nbefore deploying them in the real world.\n\nOrganizations across healthcare, consumer industries,\ninsurance, and government use Epistemix to reduce\nuncertainty, optimize decisions, and accelerate time to\nvalue. Whether estimating total addressable market, testing\npublic health interventions, or forecasting behavior change,\nour tools help teams make confident decisions when pre-\nexisting data may not exist.\n\nLeading up to our Series B financing, we are hiring key\nroles onto the team and entering an exciting phase of growth\nand innovation. Join us to combine cutting-edge technology\nwith a purpose-driven mission to make the world a better\nplace.\n\nResponsibilities\n\n- Craft clean, testable, and maintainable code to enable AI-\n  generated agent-based models.\n- Own the software from requirements development through\n  deployment and maintenance that enable decision makers to\n  generate agent-based models that address critical business\n  questions and data scientists to build agent-based models\n  more quickly that answer the questions of decision makers.\n- Design, build, test, and deploy a scalable system\n  architecture so that AI-generated models can be validated\n  by data scientists and deliver results back to decision\n  makers quickly.\n- Own the engineering solution and collaborate with internal\n  teams to ensure alignment with company strategy.\n\nQualifications\n\n- Bachelor’s or Master’s degree in Computer Science,\n  Artificial Intelligence, Data Science, or a related field\n  (or equivalent experience).\n- 3+ years of experience developing AI/ML applications in\n  production environments.\n- Proven track record of working with LLMs, NLP models, or AI-\n  driven systems.\n- Experience designing and optimizing high-performance,\n  scalable APIs.\n- Strong problem-solving skills and ability to work in a fast-\n  paced environment.\n- Must be legally authorized to work in the United States and\n  not require employer sponsorship now or in the future.\n\nRequired Skills\n\n- Python – Advanced proficiency in writing clean, efficient,\n  and scalable code.\n- Pydantic – Strong experience in data validation,\n  serialization, and structured model definition.\n- LLM Evaluation – Ability to assess model performance,\n  optimize outputs, and fine-tune AI behavior.\n- Prompt Optimization – Expertise in crafting, refining, and\n  iterating prompts for optimal AI performance.\n- SQLAlchemy – Hands-on experience with database modeling, ORM\n  techniques, and performance tuning.\n- FastAPI – Proven ability to develop and maintain APIs with\n  FastAPI for AI-driven applications.\n\nNice to Have Experience\n\n- Experience with vector databases (e.g., Pinecone, Weaviate,\n  FAISS) for efficient AI retrieval.\n- Familiarity with Docker & Kubernetes for containerized AI\n  application deployment.\n- Knowledge of cloud platforms (AWS, GCP, or Azure) for\n  scaling AI infrastructure.\n- Understanding of retrieval-augmented generation (RAG)\n  techniques.\n- Background in MLOps practices for automating AI model\n  deployment and monitoring.\n\nWhy Join Epistemix?\n\nBy joining Epistemix, you will become part of a\ncollaborative and rapidly growing team that values curiosity\nand creativity. We are fully remote, with team members in\nthe United States and Europe. Benefits include:\n\n- Equity & Incentives – Participation in our stock option\n  program.\n- Flexible Time Off – Autonomy to manage your schedule and\n  work-life balance.\n- Health, Welfare and 401(k) Programs – Eligibility for\n  benefits (for U.S. employees).\n- Meaningful Impact – Apply your creative talents to\n  revolutionize data-driven decision-making and make a real-\n  world difference.\n\nThis is a remote position open to applicants located in the\nUnited States. Candidates must possess the legal right to\nwork in their intended work location, as we are currently\nunable to sponsor or transfer employment visas for any\ncountry, including the United States.\n",
+  "skills_required": [
+    "LLM Evaluation",
+    "Prompt Optimization",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Craft clean, testable, and maintainable code to enable AI-generated agent-based models",
+    "Own the software from requirements development through deployment and maintenance for AI systems",
+    "Design, build, test, and deploy scalable system architecture for AI-generated models",
+    "Own the engineering solution and collaborate with internal teams to ensure alignment with company strategy"
+  ],
+  "use_cases": [
+    "Making modeling and simulation accessible to non-data scientists through AI-driven applications",
+    "Enabling decision makers to generate agent-based models that address critical business questions",
+    "Helping data scientists build agent-based models more quickly using AI generation",
+    "Forecasting outcomes and managing risk through behavior modeling",
+    "Scenario planning through advanced data science and simulation for healthcare, insurance, and government sectors"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "FastAPI",
+    "GCP",
+    "Kubernetes",
+    "MLOps",
+    "Pydantic",
+    "SQLAlchemy",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "LLM Evaluation",
+    "Prompt Optimization",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves direct hands-on work with LLMs, prompt\noptimization, LLM evaluation, and fine-tuning AI behavior.\nThe engineer is responsible for building and deploying AI-\ndriven applications and AI-generated agent-based models,\nwhich is core AI/ML development work rather than supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM Evaluation",
+      "Prompt Optimization",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "SQLAlchemy",
+      "Vector Databases"
+    ],
+    "data": [
+      "Pydantic"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

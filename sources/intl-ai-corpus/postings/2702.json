@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-2702",
+  "source": "intl-ai-corpus",
+  "source_ref": "8976178",
+  "source_url": "https://builtin.com/job/senior-engineer-ai/8976178",
+  "title": "Senior AI Engineer – Applied AI (Python / LLM / RAG)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Accelya",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-07",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,028 Employees",
+  "company_stage": "Public",
+  "company_focus": "Airline financial and commercial process software",
+  "industries": [
+    "Aerospace",
+    "Software",
+    "Transportation"
+  ],
+  "description": "For more than 40 years, Accelya has been the industry’s\npartner for change, simplifying airline financial and\ncommercial processes and empowering the air transport\ncommunity to take better control of the future. Whether\npartnering with IATA on industry-wide initiatives or\nenabling digital transformation to simplify airline\nprocesses, Accelya drives the airline industry forward and\nproudly puts control back in the hands of airlines so they\ncan move further, faster.\n\nRole Context\n\nAs a Senior AI Engineer – Applied AI, you will lead the\ndesign and implementation of AI-powered capabilities across\nFLX ONE Cargo (F1C), focusing on embedding AI into core\nplatform workflows and engineering systems.\n\nThis role is centred on turning AI capabilities into\nproduction-grade systems at scale. You will work on\nintegrating LLMs, retrieval systems, and AI-assisted\nworkflows into backend services and developer tooling.\n\nYou will operate as a senior individual contributor, driving\ntechnical direction for AI integrations, shaping\nimplementation patterns, and ensuring solutions are\nscalable, reliable, and aligned with platform architecture.\n\nHands-On AI Engineering\n\n● Design and build scalable AI-enabled services integrated\ninto core Cargo platform workflows.\n\n● Lead implementation of AI-assisted automation across\nengineering and operational use cases.\n\n● Drive production readiness of AI systems, balancing\nexperimentation with reliability.\n\nModel Integration & Enablement\n\n● Integrate language models or ML components into backend\nservices via clean APIs.\n\n● Apply techniques such as prompt engineering, retrieval-\naugmented generation (RAG), and lightweight orchestration\nwhere appropriate.\n\n● Ensure AI components are modular, observable, and safe to\noperate in production.\n\nPlatform & Developer Enablement\n\n● Work with engineers to adopt AI-assisted tooling that\nimproves development speed, testing, or debugging.\n\n● Collaborate with architects to ensure AI integrations\nalign with platform standards and security expectations.\n\n● Support gradual adoption of AI capabilities without\ndisrupting core delivery.\n\nOperational Readiness\n\n● Contribute to monitoring, evaluation, and continuous\nimprovement of AI-enabled features.\n\n● Help define basic guardrails around performance, cost, and\nreliability of AI components.\n\n● Participate in production support and incident resolution\nfor AI-related services.\n\nWhat You Must Bring\n\n● 5+ years of professional software engineering experience,\nwith strong hands-on experience building or integrating\nAI/ML systems into production environments.\n\n● Strong proficiency in Python, with hands-on experience\nworking with LLMs, RAG pipelines, or AI service integration.\n\n● Solid understanding of APIs, cloud services, and\ndistributed systems.\n\n● Practical mindset with a focus on building usable,\nreliable solutions.\n\nNice to Have\n\n● Experience with LLM platforms or frameworks (e.g. AWS\nBedrock, OpenAI APIs, LangChain).\n\n● Familiarity with retrieval-augmented generation (RAG) or\nvector search concepts.\n\n● Exposure to MLOps practices such as monitoring,\nversioning, or deployment pipelines.\n\n● Experience in airline, logistics, or other data- and\nintegration-heavy domains.\n\nWhy This Role Matters\n\nAI Engineers help FLX ONE Cargo move faster by turning AI\nideas into working software. This role ensures AI is applied\nwhere it adds real value—improving productivity,\nreliability, and decision-making—without compromising\nplatform stability.\n\nHands-on experience with LLMs, RAG, or AI service\nintegration is required.\n\nProfiles focused only on research or experimentation without\nproduction experience will not be considered.\n\nWhat does the future of the air transport industry look like\nto you? Whether you’re an industry veteran or someone with\nexperience from other industries, we want to make your\nambitions a reality!\n",
+  "skills_required": [
+    "Distributed Systems",
+    "LLMs",
+    "LangChain",
+    "OpenAI APIs",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build scalable AI-enabled services integrated into core Cargo platform workflows",
+    "Lead implementation of AI-assisted automation across engineering and operational use cases",
+    "Integrate language models and ML components into backend services via clean APIs",
+    "Apply prompt engineering, RAG, and lightweight orchestration techniques to production systems",
+    "Work with engineers to adopt AI-assisted tooling for development speed, testing, and debugging",
+    "Collaborate with architects to ensure AI integrations align with platform standards and security",
+    "Contribute to monitoring, evaluation, and continuous improvement of AI-enabled features",
+    "Participate in production support and incident resolution for AI-related services"
+  ],
+  "use_cases": [
+    "AI-assisted automation for airline cargo operational workflows",
+    "LLM-powered retrieval-augmented generation for cargo platform intelligence",
+    "AI-assisted developer tooling to improve development speed and debugging",
+    "Automated decision-making and productivity improvement for airline logistics",
+    "AI-enabled backend services for the FLX ONE Cargo platform"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "AWS Bedrock",
+    "CI/CD",
+    "Cloud Services",
+    "MLOps",
+    "Monitoring",
+    "Vector Search"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "LangChain",
+    "OpenAI APIs",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely ai-first: the engineer will design,\nbuild, and integrate LLMs, RAG pipelines, and AI-assisted\nworkflows into production backend services. The job\nexplicitly requires hands-on experience building AI/ML\nsystems into production and rejects research-only profiles,\nconfirming the role is about deploying AI systems, not just\nsupporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "Prompt Engineering",
+      "LangChain",
+      "OpenAI APIs"
+    ],
+    "ml": [],
+    "web": [
+      "APIs"
+    ],
+    "databases": [
+      "Vector Search"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Bedrock",
+      "Cloud Services"
+    ],
+    "ops": [
+      "MLOps",
+      "Monitoring",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed Systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

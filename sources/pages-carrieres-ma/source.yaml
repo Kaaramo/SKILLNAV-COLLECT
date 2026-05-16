@@ -1,0 +1,123 @@
+source_id: pages-carrieres-ma
+source_name: Pages carrières directes — entreprises Maroc
+source_url: multi  # une URL par entreprise
+country: MA
+language: multi  # fr/en/ar selon entreprise
+
+tier: T1
+priority: true
+category: career_pages_direct
+mcp_tool: firecrawl  # firecrawl-scrape + firecrawl-map principalement
+fallback_tool: playwright  # pour pages JS dynamiques (ATS Workday/Taleo/SmartRecruiters)
+collection_frequency: weekly
+
+robots_txt_compliant: per_site  # vérifié individuellement par entreprise (cf. companies/)
+tos_reviewed_at: 2026-05-15
+rate_limit_seconds: 5
+user_agent: "SkillnavBot/1.0 (Academic; M242 ENSA-Tetouan)"
+personal_data_policy: stripped
+entity_focus: morale_only
+
+# ─── Stratégie ───────────────────────────────────────────────────────────────
+# Constat: LinkedIn MA saturé après 8 runs Apify ($3.83 → 207 fiches).
+# Hypothèse: les grandes entreprises MA postent en direct sur leurs pages
+# carrière (banques, telecom, OCP) avec historique 6-12 mois conservé,
+# souvent invisible dans le LinkedIn search live.
+#
+# Méthode: 3 phases
+#   Phase 1: reconnaissance URLs canoniques + faisabilité (en cours)
+#   Phase 2: scraping listings via Firecrawl
+#   Phase 3: Wayback Machine pour récupérer 2023-2024 archivés
+
+collection_strategy: career_pages_direct_plus_wayback
+
+# ─── Entreprises ciblées (15 prioritaires) ──────────────────────────────────
+companies_targeted:
+  banques:
+    - {name: Attijariwafa Bank, sector: banque, url_root: https://attijariwafabank.com}
+    - {name: BMCE Bank of Africa, sector: banque, url_root: https://bankofafrica.ma}
+    - {name: Banque Populaire (BCP), sector: banque, url_root: https://gbp.ma}
+    - {name: CIH Bank, sector: banque, url_root: https://cihbank.ma}
+    - {name: Société Générale Maroc, sector: banque, url_root: https://sgmaroc.com}
+    - {name: Crédit du Maroc, sector: banque, url_root: https://creditdumaroc.ma}
+  telecom:
+    - {name: Maroc Telecom (IAM), sector: telecom, url_root: https://iam.ma}
+    - {name: INWI, sector: telecom, url_root: https://inwi.ma}
+    - {name: Orange Maroc, sector: telecom, url_root: https://orangejobs.orange.com}
+  industrie_holdings:
+    - {name: OCP Group, sector: industrie, url_root: https://ocpgroup.ma}
+    - {name: Holmarcom, sector: holding, url_root: https://holmarcom.ma}
+    - {name: Stellantis Morocco, sector: automobile, url_root: https://stellantis.com}
+  esn:
+    - {name: Capgemini Maroc, sector: esn, url_root: https://capgemini.com}
+    - {name: Atos Maroc, sector: esn, url_root: https://atos.net}
+
+# Reconnaissance en cours par agent général-purpose (Phase 1)
+phase_1_status: completed_2026-05-15
+phase_2_status: completed_2026-05-15  # 6 fiches retenues
+phase_3_status: pending  # Wayback Machine pour historique 2023-2024
+
+sample_collected_at: 2026-05-15T03:00:00Z
+sample_count: 6
+total_postings_count: 6
+postings_id_range: "001-006"
+
+# ─── Phase 2 — résultats du scraping V2 ─────────────────────────────────────
+phase_2_results:
+  total_offers_all_sources: 257
+  total_data_ai_retained: 6
+  signal_ratio_pct: 2.3
+  by_source:
+    credit_du_maroc:
+      ats: TalentSoft
+      url: https://carriere.creditdumaroc.ma
+      total_offers: 196
+      data_ai_count: 4
+      titles_data_ai:
+        - "Data Scientist (H/F) ref 3282 — 2026-01-13"
+        - "Lead Data Engineer ref 3261 — 2025-12-10"
+        - "Data Manager ref 3267 — 2026-02-16"
+        - "Data Scientist ref 3256 — 2026-02-19"
+    stellantis_morocco:
+      ats: TalentSoft (Groupe PSA)
+      url: https://jobs.groupe-psa.com (filtre Maroc)
+      total_offers: 34
+      data_ai_count: 2
+      titles_data_ai:
+        - "Senior Software Engineer Perception Radar/ML H/F"
+        - "AI Machine Learning Optimization Engineer H/F"
+    bcp:
+      ats: TalentSoft
+      url: https://bcp-cand.talent-soft.com
+      total_offers: 7
+      data_ai_count: 0
+      note: "Aucune fiche Data/IA — 7 offres exclusivement commerciales"
+    inwi:
+      ats: TeamTailor
+      url: https://jobs.inwi.ma
+      total_offers: 20
+      data_ai_count: 0
+      note: "20 fiches scrapées — toutes managériales/clientèle, pas de Data/IA active"
+
+# ─── Sources non-exploitées (audit Phase 1) ─────────────────────────────────
+sources_not_yet_scraped:
+  - {name: Attijariwafa Bank, ats: Cornerstone OnDemand, blocker: "JS rendering, API à reverse-engineer"}
+  - {name: Bank of Africa, ats: Cornerstone OnDemand, blocker: "Same as Attijariwafa"}
+  - {name: CIH Bank, ats: Custom HTML, blocker: "Anti-bot 403 — Playwright requis"}
+  - {name: Société Générale Maroc, ats: Phenom People, blocker: "Cert SSL expirée + JS rendering"}
+  - {name: Maroc Telecom, ats: SharePoint custom, blocker: "HTTP 403 anti-bot — Playwright requis"}
+  - {name: Orange Maroc, ats: Phenom People, blocker: "JS rendering, API endpoint à identifier"}
+  - {name: OCP Group, ats: Workday CXS, blocker: "API renvoie seulement 1 spontaneous app — peu de jobs publiques"}
+  - {name: Capgemini Maroc, ats: Custom Drupal, blocker: "JS rendering"}
+  - {name: Atos Maroc, ats: SAP SuccessFactors, blocker: "Volume très faible (1 offre, 0 Data)"}
+
+production_status: phase_2_complete_6_fiches
+next_action: |
+  Phase 3 (à venir) :
+  1. Wayback Machine sur Crédit du Maroc TalentSoft (URLs stables)
+     → récupérer l'historique 2023-2024 des fiches Data/IA
+  2. Tenter Maroc Telecom + Société Générale via Playwright (bypass anti-bot)
+  3. Reverse-engineer API Cornerstone OnDemand (Attijariwafa + BoA)
+  4. Sweep Rekrute massif 2023-2026 (gratuit, gros gain potentiel)
+  5. Dédoublonnage cross-sources SHA-256
+estimated_quality_score: 0.93  # 6 fiches premium avec descriptions complètes + dates précises

@@ -1,0 +1,42 @@
+company:
+  name: Anonyme (entreprise pharma — secteur Industrie chimique)
+  stage: null
+  focus: null
+position:
+  title: Analyste Data Center — Pharma
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities:
+  - Recueil et extraction sources de données
+  - Traitement et intégration en data warehouse
+  - Création dashboards + KPIs + reporting
+  - Process / requêtes / automatisation
+  - Analyses métiers et recommandations
+  - Gestion outils d'analyse
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web: []
+    databases: []
+    data:
+    - data warehouse
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - Automatisation
+    - Dashboards
+    - KPIs
+    - Reporting
+    - Statistiques
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: ET161222815622
+  extracted_at: '2026-05-15T15:53:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

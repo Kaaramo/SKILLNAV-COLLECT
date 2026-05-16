@@ -1,0 +1,50 @@
+company:
+  name: Coface
+  stage: null
+  focus: Coface — référence assurance-crédit + gestion des risques · 70 ans · ~50 000 clients dans 200 pays · présence directe/indirecte
+    12 pays Maghreb + Afrique de l'Ouest et Centrale. Data Lab international (Paris, Toronto, Casablanca, ~30 personnes)
+position:
+  title: Data Scientist / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: Title explicitly indicates AI/ML engineering role
+  responsibilities:
+  - Intégrer l'équipe Data Lab Coface
+  - Travailler binôme + équipes réduites projets innovants
+  - Concevoir + développer complètement solutions ML jusqu'au déploiement
+  - Containers + cloud + monitoring production
+  - Veille technologique
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    - Machine Learning non-supervisé
+    - Machine Learning supervisé
+    web:
+    - react
+    databases: []
+    data:
+    - airflow
+    - Apache Airflow
+    cloud: []
+    ops:
+    - docker
+    - kubernetes
+    languages:
+    - java
+    - python
+    domains:
+    - nlp
+    other:
+    - CI
+    - Clustering
+    - Code review
+    - Git
+    - Linux
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '181033'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-0206",
+  "source": "intl-ai-corpus",
+  "source_ref": "7416435",
+  "source_url": "https://builtin.com/job/platform-engineer-ai-ml-infrastructure/7416435",
+  "title": "Platform Engineer – AI/ML Infrastructure",
+  "title_normalized": "MLOPS_ENGINEER",
+  "company": "Deepgram",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "150 Employees",
+  "company_stage": "Series C",
+  "company_focus": "Voice AI platform with speech-to-text and text-to-speech\nAPIs",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Software",
+    "Conversational AI"
+  ],
+  "description": "Company Overview\n\nDeepgram is the leading platform underpinning the emerging\ntrillion-dollar Voice AI economy, providing real-time APIs\nfor speech-to-text (STT), text-to-speech (TTS), and building\nproduction-grade voice agents at scale. More than 200,000\ndevelopers and 1,300+ organizations build voice offerings\nthat are ‘Powered by Deepgram’, including Twilio,\nCloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola,\nand Jack in the Box. Deepgram’s voice-native foundation\nmodels are accessed through cloud APIs or as self-hosted and\non-premises software, with unmatched accuracy, low latency,\nand cost efficiency. Backed by a recent Series C led by\nleading global investors and strategic partners, Deepgram\nhas processed over 50,000 years of audio and transcribed\nmore than 1 trillion words. There is no organization in the\nworld that understands voice better than Deepgram.\n\nCompany Operating Rhythm\n\nAt Deepgram, we expect an AI-first mindset—AI use and\ncomfort aren’t optional, they’re core to how we operate,\ninnovate, and measure performance.\n\nEvery team member who works at Deepgram is expected to\nactively use and experiment with advanced AI tools, and even\nbuild your own into your everyday work. We measure how\neffectively AI is applied to deliver results, and\nconsistent, creative use of the latest AI capabilities is\nkey to success here. Candidates should be comfortable\nadopting new models and modes quickly, integrating AI into\ntheir workflows, and continuously pushing the boundaries of\nwhat these technologies can do.\n\nAdditionally, we move at the pace of AI. Change is rapid,\nand you can expect your day-to-day work to evolve just as\nquickly. This may not be the right role if you’re not\nexcited to experiment, adapt, think on your feet, and learn\nconstantly, or if you’re seeking something highly\nprescriptive with a traditional 9-to-5.\n\nOpportunity:\n\nWe're looking for an expert (Senior/Staff-level) Platform\nEngineer to build and operate the hybrid infrastructure\nfoundation for our advanced AI/ML research and product\ndevelopment. You'll architect, build, and run the platform\nspanning AWS and our bare metal data centers, empowering our\nteams to train and deploy complex models at scale. This role\nis focused on creating a robust, self-service environment\nusing Kubernetes, AWS, and Infrastructure-as-Code\n(Terraform), and orchestrating high-demand GPU workloads\nusing schedulers like Slurm.\n\nWhat You’ll Do\n\n- Architect and maintain our core computing platform using\n  Kubernetes on AWS and on-premise, providing a stable,\n  scalable environment for all applications and services.\n- Develop and manage our entire infrastructure using\n  Infrastructure-as-Code (IaC) principles with Terraform,\n  ensuring our environments are reproducible, versioned, and\n  automated.\n- Design, build, and optimize our AI/ML job scheduling and\n  orchestration systems, integrating Slurm with our\n  Kubernetes clusters to efficiently manage GPU resources.\n- Provision, manage, and maintain our on-premise bare metal\n  server infrastructure for high-performance GPU computing.\n- Implement and manage the platform's networking (CNI, service\n  mesh) and storage (CSI, S3) solutions to support high-\n  throughput, low-latency workloads across hybrid\n  environments.\n- Develop a comprehensive observability stack (monitoring,\n  logging, tracing) to ensure platform health, and create\n  automation for operational tasks, incident response, and\n  performance tuning.\n- Collaborate with AI researchers and ML engineers to\n  understand their infrastructure needs and build the tools\n  and workflows that accelerate their development cycle.\n\n- Automate the life cycle of single-tenant, managed\n  deployments\n\nYou’ll Love This Role If You\n\n- Are passionate about building platforms that empower\n  developers and researchers.\n- Enjoy creating elegant, automated solutions for complex\n  infrastructure challenges in both cloud and data center\n  environments.\n- Thrive on optimizing hybrid infrastructure for performance,\n  cost, and reliability.\n- Are excited to work at the intersection of modern platform\n  engineering and cutting-edge AI.\n- Love to treat infrastructure as a product, continuously\n  improving the developer experience.\n\nIt’s Important To Us That You Have\n\n- 5+ years of experience in Platform Engineering, DevOps, or\n  Site Reliability Engineering (SRE).\n- Proven, hands-on experience building and managing production\n  infrastructure with Terraform.\n- Expert-level knowledge of Kubernetes architecture and\n  operations in a large-scale environment.\n- Experience with high-performance compute (HPC) job\n  schedulers, specifically Slurm, for managing GPU-intensive\n  AI workloads.\n- Experience managing bare metal infrastructure, including\n  server provisioning (e.g., PXE boot, MAAS), configuration,\n  and lifecycle management.\n- Strong scripting and automation skills (e.g., Python, Go,\n  Bash).\n\n\n\nIt Would Be Great if You Had\n\n- Experience with CI/CD systems (e.g., GitLab CI, Jenkins,\n  ArgoCD) and building developer tooling.\n- Familiarity with FinOps principles and cloud cost\n  optimization strategies.\n- Knowledge of Kubernetes networking (e.g., Calico, Cilium)\n  and storage (e.g., Ceph, Rook) solutions.\n- Experience in a multi-region or hybrid cloud environment.\n\nBenefits & Perks\n\nHolistic health\n\n- Medical, dental, vision benefits\n- Annual wellness stipend\n- Mental health support\n- Life, STD, LTD Income Insurance Plans\n\nWork/life blend\n\n- Unlimited PTO\n- Generous paid parental leave\n- Flexible schedule\n- 12 Paid US company holidays\n- Quarterly personal productivity stipend\n- One-time stipend for home office upgrades\n- 401(k) plan with company match\n- Tax Savings Programs\n\nContinuous learning\n\n- Learning / Education stipend\n- Participation in talks and conferences\n- Employee Resource Groups\n- AI enablement workshops / sessions\n\nBacked by prominent investors including Y Combinator,\nMadrona, Tiger Global, Wing VC and NVIDIA, Deepgram has\nraised over $215M in total funding. If you're looking to\nwork on cutting-edge technology and make a significant\nimpact in the AI industry, we'd love to hear from you!\n\nDeepgram is an equal opportunity employer. We want all\nvoices and perspectives represented in our workforce. We are\na curious bunch focused on collaboration and doing the right\nthing. We put our customers first, grow together and move\nquickly. We do not discriminate on the basis of race,\nreligion, color, national origin, gender, sexual\norientation, gender identity or expression, age, marital\nstatus, veteran status, disability status, pregnancy,\nparental status, genetic information, political affiliation,\nor any other status protected by the laws or regulations in\nthe locations where we operate.\n\nWe are happy to provide accommodations for applicants who\nneed them.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and maintain Kubernetes-based computing platform across AWS and on-premise environments",
+    "Develop and manage infrastructure using Terraform with Infrastructure-as-Code principles",
+    "Design and optimize AI/ML job scheduling systems using Slurm for efficient GPU resource management",
+    "Provision and maintain on-premise bare metal server infrastructure for high-performance GPU computing",
+    "Implement networking and storage solutions including CNI, service mesh, CSI, and S3 for hybrid environments",
+    "Develop comprehensive observability stack with monitoring, logging, and tracing for platform health",
+    "Collaborate with AI researchers and ML engineers to build tools and workflows that accelerate development",
+    "Automate the lifecycle of single-tenant, managed deployments"
+  ],
+  "use_cases": [
+    "Voice AI platform providing real-time speech-to-text APIs",
+    "Text-to-speech synthesis and voice agent building",
+    "Production-grade voice agent deployment at scale",
+    "Training and deploying voice-native foundation models",
+    "Self-hosted and on-premises voice AI software solutions",
+    "High-throughput, low-latency audio processing and transcription"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "ArgoCD",
+    "CI/CD",
+    "CNI",
+    "CSI",
+    "Calico",
+    "Ceph",
+    "Cilium",
+    "Docker",
+    "GitLab CI",
+    "Jenkins",
+    "Kubernetes",
+    "MAAS",
+    "PXE boot",
+    "Rook",
+    "S3",
+    "Service mesh",
+    "Slurm",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Bash",
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "MLOPS"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Platform Engineer role focused on building and\noperating the infrastructure foundation for AI/ML teams. The\nrole involves creating platforms, managing Kubernetes\nclusters, orchestrating GPU workloads, and supporting\nresearchers/engineers, but does not involve directly\nbuilding, training, or deploying AI models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "S3",
+      "Ceph"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Terraform",
+      "Slurm",
+      "Docker",
+      "CI/CD",
+      "CNI",
+      "Service mesh",
+      "CSI",
+      "GitLab CI",
+      "Jenkins",
+      "ArgoCD",
+      "Calico",
+      "Cilium",
+      "Rook",
+      "PXE boot",
+      "MAAS"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "Bash"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,38 @@
+company:
+  name: SQLI
+  stage: null
+  focus: null
+position:
+  title: Ingénieur Data GCP (Google Cloud Platform) (F/H)
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web: []
+    databases:
+    - bigquery
+    data:
+    - dataflow
+    - sql
+    cloud:
+    - gcp
+    - google cloud
+    ops:
+    - terraform
+    languages:
+    - python
+    domains: []
+    other:
+    - looker
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4314994258'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

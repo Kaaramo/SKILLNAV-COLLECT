@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-1421",
+  "source": "intl-ai-corpus",
+  "source_ref": "8452731",
+  "source_url": "https://builtin.com/job/backend-engineer/8452731",
+  "title": "Backend Engineer (AI Analyst)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Modo Energy",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-10",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "40 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Benchmarking and valuing electrification assets for energy\ntransition",
+  "industries": [
+    "Fintech",
+    "Information Technology",
+    "Payments",
+    "Consulting",
+    "Energy",
+    "Financial Services"
+  ],
+  "description": "At Modo Energy, we're building the global standard for\nbenchmarking and valuing the world's electrification assets\n- unlocking returns for battery energy storage, solar, wind\nand data centres.\n\nAt Modo Energy, we're on a mission to build the information\narchitecture for the energy transition - we want to be the\nonly place to come to for information on the global journey\nto net zero. Take a look at our platform, where we provide\nopen access to an array of content on the energy transition.\n\nWe're a dedicated and passionate team building a category-\ndefining business, working on one of the world's most\nimportant priorities. We are looking for individuals who\nlove product-building, want to work with pace at a mission-\noriented startup, and will collaborate with us in shaping\nthe culture of a rapidly growing team.\n\nThe role\n\nWe are hiring a Backend Engineer to join our AI Analyst\nteam. The AI Analyst is an LLM-powered product embedded in\nthe Modo Terminal that helps customers interrogate our data\nand research using natural language. Think of it as a domain\nexpert colleague who knows everything Modo has ever\npublished and can pull live data on demand.\n\nWe’re building an agentic system that retrieves articles,\nqueries databases, interprets energy market data, and writes\nanswers that our customers can trust.\n\nYou’ll work in a small cross-functional team with a lot of\nautonomy.\n\nResponsibilities\n\n- Building and improving our agentic backend: LangChain-based\n  orchestration, tool design, retrieval pipelines, and\n  prompt engineering, running on FastAPI.\n- Designing tools (MCPs, CLIs, APIs, etc) that let LLMs work\n  with energy market data effectively: strict guardrails,\n  sensible aggregation, and outputs that fit within token\n  budgets.\n- Building monitoring and evaluation infrastructure.\n- Working directly with domain experts (energy analysts, data\n  scientists) to ensure the system gives answers that are\n  accurate and useful.\n- AWS infrastructure and deployment. We use Terraform and\n  you’ll be involved in the full lifecycle from local\n  development to production.\n\nAbout you\n\n- 5+ years Python. Strong backend engineering fundamentals:\n  you write clean, well-structured Python and you’re\n  comfortable owning services end-to-end from API design\n  through to deployment and monitoring.\n- Real experience with AWS and infrastructure-as-code\n  (Terraform). You’ve deployed and maintained production\n  services.\n- Hands-on experience building LLM-powered applications,\n  ideally with LangChain, but any serious work with agentic\n  systems, RAG pipelines, or tool-calling architectures\n  counts.\n- Proficiency with FastAPI or similar async Python frameworks.\n- Expert-level use of AI coding tools (Cursor, Claude Code,\n  GitHub Copilot, or similar). Obsessive about keeping up to\n  speed with AI coding developments. We write a lot of code\n  with these tools and expect you to be fluent with them:\n  knowing when to trust them, when to intervene, and how to\n  get the most out of them.\n- Good taste and judgment. This matters more than it might\n  sound. You’ll be making constant decisions about how to\n  structure LLM interactions, what data to surface, and when\n  something is good enough to ship. We want someone who\n  cares about the end result.\n- Comfort working in a small, fast-moving team where you’ll be\n  expected to figure things out, make tradeoffs, and ship.\n\nNice to have:\n\n- Experience with energy markets.\n\nImportant Details\n\n- Hybrid Work Environment: This role is hybrid, with time\n  split between working from home and our London office,\n  with in-office days from Tuesday through Thursday.\n- Compensation & Benefits: Modo Energy offers a competitive\n  salary along with a comprehensive benefits package,\n  including private top-tier healthcare and dental coverage\n  with Bupa, a pension scheme with employer contribution, 25\n  days of annual leave (excluding bank holidays), 5 flexible\n  days to be taken on a Monday or Friday, and a day off for\n  your birthday.\n\nModo Energy is an equal opportunity employer. Our employment\ndecisions are made on the basis of qualifications, merit and\nbusiness need. We do not discriminate against age, national\norigin, physical or mental disability, race, religion,\npregnancy, sexual orientation, gender identity, veteran\nstatus or any other characteristic protected by federal,\nstate, or local law. If you need assistance or a reasonable\naccommodation with an application or the interview process\nplease contact us via email at careers@modo.energy.\n\nWhat you can expect from Modo Energy\n\nWe want to attract and retain the best talent at Modo\nEnergy, and we give our people the freedom and opportunity\nto develop themselves and flourish.\n\nWe are committed to building a diverse and inclusive team at\nModo Energy, as we believe a variety of backgrounds, skills\nand interests is what makes our company stronger. If you\nshare our values and our enthusiasm for supporting the\ntransition to greener energy systems, we encourage you to\napply. We have a number of positions open which could be for\na range of backgrounds and experience levels. Please get in\ntouch if you are interested and you don’t meet all the\nrequirements, or if you exceed them!\n",
+  "skills_required": [
+    "LangChain",
+    "MCP",
+    "RAG",
+    "agents",
+    "prompt engineering",
+    "tool calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Building and improving agentic backend with LangChain-based orchestration, tool design, retrieval pipelines, and prompt engineering running on FastAPI",
+    "Designing tools (MCPs, CLIs, APIs) that enable LLMs to work with energy market data effectively including guardrails and token budget optimization",
+    "Building monitoring and evaluation infrastructure for AI systems",
+    "Collaborating with domain experts (energy analysts, data scientists) to ensure system accuracy and usefulness",
+    "Managing AWS infrastructure and deployment using Terraform across full development lifecycle"
+  ],
+  "use_cases": [
+    "Natural language data interrogation for energy market data",
+    "Retrieval of energy research articles and publications",
+    "Live energy market data querying and analysis",
+    "Energy asset benchmarking and valuation insights",
+    "Automated domain-expert quality answers for energy transition questions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Docker",
+    "FastAPI",
+    "Postgres",
+    "REST APIs",
+    "Terraform",
+    "monitoring"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "MCP",
+    "RAG",
+    "agents",
+    "prompt engineering",
+    "tool calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying LLM-\npowered agentic systems, including LangChain orchestration,\nRAG pipelines, tool design, and prompt engineering. The\nengineer will work hands-on with LLMs to create an AI\nanalyst product that retrieves data and generates answers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "RAG",
+      "prompt engineering",
+      "agents",
+      "MCP",
+      "tool calling"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [
+      "Postgres"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform",
+      "Docker",
+      "monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "energy markets"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,144 @@
+{
+  "job_id": "intl-ai-corpus-3045",
+  "source": "intl-ai-corpus",
+  "source_ref": "9114814",
+  "source_url": "https://www.builtinla.com/job/sr-software-ai-engineer-3-context-engineering/9114814",
+  "title": "Sr Software AI Engineer 3 - Context Engineering",
+  "title_normalized": "AI_ENGINEER",
+  "company": "WEX Inc.",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-21",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Financial technology and payment processing solutions",
+  "industries": [
+    "Fintech",
+    "Payments"
+  ],
+  "description": "As an AI Platform Engineer (SDE 3), you will be a key\nbuilder of the high-performance software foundation that\npowers our enterprise AI. While your expertise lies in\ndistributed systems and cloud-native architecture, you will\napply these skills specifically to the \"Context Layer\"—the\nspecialized infrastructure required to fuel next-generation\nAgentic AI workflows. You will work at the intersection of\nsystems programming and modern AI infrastructure to solve\npractical problems in real-time data orchestration and\nmulti-cloud compute optimization. This is a \"platform-as-a-\nproduct\" role where you build the tools and SDKs that enable\nother engineers to build autonomous agents with ease.\n\nKey Responsibilities\n\n- AI Infrastructure Implementation: Contribute to the\n  development of a high-scale, AI-ready Data Lakehouse\n  optimized for AI Agent operations and low-latency context\n  retrieval.\n- Agentic R&D & Prototyping: Hands-on prototyping of emerging\n  architectural patterns, such as Multi-Agent Orchestration\n  and autonomous long-term memory management.\n- Engineering Excellence: Maintain high standards for code\n  quality and CI/CD, participating in cross-functional\n  architecture reviews and troubleshooting complex system\n  bottlenecks.\n- Agentic Ecosystem Development: Build platform-level\n  interfaces for agentic workflows, focusing on \"Host-to-\n  Server\" communication and tool-execution environments.\n- Contextual Fabric Construction: Develop systems that move\n  beyond basic search into Reasoning-based Retrieval,\n  helping the platform understand the intent behind an\n  agent's query.\n- Protocol Integration: Implement emerging standards like the\n  Model Context Protocol (MCP) and Agentic RAG to ensure\n  interoperability between the platform and various LLM\n  providers.\n\nQualifications & Experience\n\nSoftware Engineering & Systems\n\n- Experience: 6+ years of software engineering experience with\n  a focus on distributed systems.\n- Core Languages: Proficiency in Java or Scala and Python.\n- Framework Development: Experience building extensible APIs\n  and libraries used by other developers.\n- Software-Defined Infrastructure: A preference for building\n  automated, software-defined infrastructure over manual\n  configuration.\n\nAgentic Development & AI Trends\n\n- Agentic Design: Hands-on experience with agent development\n  frameworks such as LangGraph or CrewAI and the transition\n  from static RAG to Agentic RAG.\n- Interoperability: Knowledge of the Model Context Protocol\n  (MCP) and how it allows AI agents to interact with diverse\n  data sources.\n- AI-Ops: Experience building \"AI-native\" features, including\n  automated LLM-based evaluations within the CI/CD pipeline.\n- Safety & Governance: Understanding of Human-in-the-Loop\n  (HITL) triggers to ensure safety in autonomous systems.\n\nCI/CD & Cloud Operations\n\n- GitOps & Delivery: Experience with GitOps workflows (e.g.,\n  ArgoCD or Flux) to manage versioned platform\n  configurations and AI prompt templates.\n- Infrastructure-as-Code (IaC): Proficiency in Terraform to\n  build reusable modules that enforce organizational\n  standards across cloud accounts.\n- Modern Pipelines: Ability to design CI/CD pipelines (e.g.,\n  GitHub Actions) that integrate automated testing and\n  security scanning.\n- Cloud Mastery (AWS & Azure): Hands-on experience navigating\n  and configuring AWS and Azure Management Consoles,\n  including core services like IAM, EC2/VMs, and S3/Blob\n  storage.\n- Observability: Experience using OpenTelemetry (OTel) to\n  track system performance and AI-specific success metrics.\n\nLeadership & Education\n\n- Collaboration: A proven track record of collaborating across\n  autonomous teams to drive the adoption of new\n  technologies.\n- Communication: Ability to clearly communicate technical\n  trade-offs to both fellow engineers and stakeholders.\n\nEducation: Bachelor’s or Master’s degree in Computer Science\n(Distributed Systems focus) preferred, or equivalent deep\nindustry experience.\n\nThe base pay range represents the anticipated low and high\nend of the pay range for this position. Actual pay rates\nwill vary and will be based on various factors, such as your\nqualifications, skills, competencies, and proficiency for\nthe role. Base pay is one component of WEX's total\ncompensation package. Most sales positions are eligible for\ncommission under the terms of an applicable plan. Non-sales\nroles are typically eligible for a quarterly or annual bonus\nbased on their role and applicable plan. WEX's comprehensive\nand market competitive benefits are designed to support your\npersonal and professional well-being. Benefits include\nhealth, dental and vision insurances, retirement savings\nplan, paid time off, health savings account, flexible\nspending accounts, life insurance, disability insurance,\ntuition reimbursement, and more. For more information, check\nout the \"About Us\" section.Pay Range: $140,200.00 -\n$185,800.00\n",
+  "skills_required": [
+    "Agentic RAG",
+    "CrewAI",
+    "Distributed Systems",
+    "Human-in-the-Loop (HITL)",
+    "LangGraph",
+    "Model Context Protocol (MCP)",
+    "Prompt Engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop a high-scale AI-ready Data Lakehouse optimized for AI Agent operations and low-latency context retrieval",
+    "Prototype emerging architectural patterns including Multi-Agent Orchestration and autonomous long-term memory management",
+    "Build platform-level interfaces and SDKs for agentic workflows focusing on Host-to-Server communication and tool-execution environments",
+    "Develop reasoning-based retrieval systems that understand the intent behind agent queries beyond basic search",
+    "Implement emerging standards like Model Context Protocol (MCP) and Agentic RAG for interoperability with LLM providers",
+    "Maintain high engineering standards for code quality, CI/CD, and participate in cross-functional architecture reviews",
+    "Design and manage GitOps workflows, Infrastructure-as-Code with Terraform, and CI/CD pipelines with automated testing and security scanning"
+  ],
+  "use_cases": [
+    "Enterprise agentic AI workflow infrastructure",
+    "Real-time data orchestration for autonomous AI agents",
+    "Reasoning-based context retrieval for AI agent operations",
+    "Multi-agent orchestration platform",
+    "Interoperability layer between enterprise data and multiple LLM providers",
+    "Automated LLM-based evaluations in CI/CD pipelines"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "ArgoCD",
+    "Azure",
+    "CI/CD",
+    "Data Lakehouse",
+    "Docker",
+    "FastAPI",
+    "GitHub Actions",
+    "GitOps",
+    "IAM",
+    "OpenTelemetry",
+    "REST APIs",
+    "S3/Blob Storage",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Agentic RAG",
+    "CrewAI",
+    "LangGraph",
+    "Model Context Protocol (MCP)",
+    "Prompt Engineering"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves building agentic AI\ninfrastructure, implementing Multi-Agent Orchestration,\nAgentic RAG, Model Context Protocol (MCP), and reasoning-\nbased retrieval systems. While it has a\nplatform/infrastructure angle, the engineer works hands-on\nwith agent frameworks (LangGraph, CrewAI), LLM integrations,\nand context engineering for autonomous agents—making it ai-\nfirst.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "CrewAI",
+      "Model Context Protocol (MCP)",
+      "Agentic RAG",
+      "Prompt Engineering"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Data Lakehouse"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "IAM",
+      "S3/Blob Storage"
+    ],
+    "ops": [
+      "Terraform",
+      "Docker",
+      "ArgoCD",
+      "GitHub Actions",
+      "CI/CD",
+      "GitOps",
+      "OpenTelemetry"
+    ],
+    "languages": [
+      "Java",
+      "Scala",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed Systems",
+      "Human-in-the-Loop (HITL)"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

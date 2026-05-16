@@ -1,0 +1,37 @@
+company:
+  name: Scalian
+  stage: null
+  focus: null
+position:
+  title: Tech Lead Data Snowflake
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - snowflake
+    data:
+    - airflow
+    - dbt
+    - sql
+    cloud:
+    - aws
+    - azure
+    ops:
+    - ci/cd
+    languages: []
+    domains:
+    - retail
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '4361674414'
+  extracted_at: '2026-05-15T15:53:14+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

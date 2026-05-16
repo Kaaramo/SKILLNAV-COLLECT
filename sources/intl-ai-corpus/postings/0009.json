@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-0009",
+  "source": "intl-ai-corpus",
+  "source_ref": "3564658",
+  "source_url": "https://builtin.com/job/founding-aidata-engineer-remote/3564658",
+  "title": "Founding AI/Data Engineer (Remote)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Glass Health",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "48 Employees",
+  "company_stage": "Seed (raised $6.5M including $5M seed, planning Series A)",
+  "company_focus": "AI-powered clinical decision support for healthcare",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech"
+  ],
+  "description": "About Glass Health\n\nGlass Health was physician co-founded because we believe\nthat technology should be fully leveraged to optimize the\npractice of medicine and improve patient care. We’re\nbuilding the better tools we as physicians want, so we can\nspend more quality time with our patients.\n\nTo this end, we have set out to empower clinicians with the\nbest-in-class AI for clinical decision support (CDS).\n\nWe aim to increase diagnostic accuracy, improve the\nimplementation of evidence-based medicine, accelerate the\nachievement of health equity, eliminate clinician burnout,\nand improve patient outcomes worldwide.\n\nAbout the role:\n\nWe’re looking for experienced, problem-solving engineers\nacross the stack (Product, Full-Stack, Backend, Applied\nAI/LLM) to build new products and grow existing products.\nOur success depends on our ability to quickly iterate on\nproducts, while also ensuring that they are performant and\nreliable. You’ll work in a deeply iterative, collaborative,\nfast-paced environment to bring our technology to tens of\nthousands of users, and ensure it’s delivered with finesse\nand reliability in mind.\n\nWhile we have a head-start, this is a Founding engineering\nrole - you will have expanded ownership, a defining impact\non the success of the company, and play a crucial part in\nshaping the future of healthcare.\n\nDepending on the role, you will:\n\n- Design and build the development and production platforms\n  that power our new products, enabling reliability and\n  security at scale\n- Own the development of new user-facing generative AI\n  features and product experiences end-to-end\n- Partner with researchers, engineers, product managers, and\n  designers to bring new features and research capabilities\n  to the world\n- Accelerate engineering productivity by empowering your\n  fellow engineers with excellent tooling and systems\n- Help create a diverse, equitable, and inclusive culture that\n  makes all feel welcome while enabling radical candor and\n  the challenging of group think\n- Like all other teams, we are responsible for the reliability\n  of the systems we build. This includes an on-call rotation\n  to respond to critical incidents as needed\n\nYou might thrive in this role, if you:\n\n- Have 5+ years of engineering experience in various tech\n  environments, including product-driven companies.\n- Have experience with TypeScript/React on the frontend,\n  Python on the backend, adaptability, and a drive to learn\n  new technologies.\n- Are comfortable taking ownership in an ambitious, fast-paced\n  and diverse startup environment.\n- Possess significant experience in designing, building, and\n  scaling production systems to deliver new product\n  capabilities and manage increasing demand.\n- Are committed to creating outstanding user experiences and\n  take pride in developing solutions that meet customer\n  needs.\n- You are excited about and stay up-to-date with rapidly\n  advancing changes in AI and LLM technology.\n- Demonstrate humility, a collaborative spirit, and a\n  willingness to support your colleagues to ensure team\n  success.\n- Take ownership of challenges from start to finish, and are\n  proactive in learning new skills as needed.\n- Build tools to accelerate your own (and your teammates’)\n  workflows, but only when off-the-shelf solutions won’t do.\n- Have experience in startup environments, either as a founder\n  or an early-stage engineer (bonus points, not required).\n- Are familiar with healthcare, EHR, HIPAA & other healthcare\n  regulatory structures (bonus points, not required).\n\nTech Stack\n\n- LLMs: OpenAI & similar\n- Backend: Python, Django, Postgres\n- Frontend: React, Typescript\n- Infrastructure: GCP, Docker\n- On the data/AI side: Relatively greenfield ELT+RAG setup\n  that enables us to answer specialist user queries using\n  millions of medical articles that we've compiled and\n  processed ourselves.\n\nCompensation, Benefits and Perks\n\n- Flexible work hours & generous PTO\n- High autonomy and support from a collaborative team\n- New Macbook Pro\n- Work from home stipend\n- Personal development stipend\n\nWhy join Glass?\n\n- You dream of improving healthcare with us for both patients\n  and physicians.\n- You want to join a company that’s always been focused on\n  improving patient care. Since 2022, Glass has already\n  helped physicians-in-training and physicians with better\n  tools including our DDx, Clinical Plan and Glass\n  Notebooks. We have just launched our game-changing AI CDS\n  to provide doctors with real-time suggestions and\n  insights.\n- You’re passionate to serve our growing, immensely loving and\n  respectful community, including 150+ physicians &\n  physicians-in-training.\n- Be on the bleeding-edge of AI. We strive to be the best-in-\n  class AI CDS, and we’ll be harnessing and developing novel\n  approaches along the way.\n- We are at an inflection point on our startup journey. We’ve\n  raised 6.5M (including 5M seed round) from:\n- Top-tier investors, such as YCombinator and Initialized\n- Our first health system partner, Kaiser Permanente Mid\n  Atlantic\n- Top healthcare CEOs, including Tom Lee of One Medical,\n  Heather Hasson & Trina Spear of FIGS, Connor Landgraf of\n  Eko Health, Othman Lararki of Color Genomics, and Dan\n  Siroker of Rewind and Optimizely. We will raise our Series\n  A this year.\n\nInterview process\n\n- Initial background/light technical interview (45 mins)\n- Live coding challenge (1 hr)\n- Final interview: System design problem + realistic work\n  simulation challenge (live; ~1.5-2 hr)\n\nGlass Health is an equal opportunity employer. We celebrate\nour diversity and are committed to creating an equitable and\ninclusive team environment that reflects the patient\ncommunities we serve. We especially encourage applicants\nfrom historically under-represented and under served\ncommunities to apply.\n\nFor US Based Candidates: Pursuant to the San Francisco Fair\nChance Ordinance, we will consider qualified applicants with\narrest and conviction records.\n",
+  "skills_required": [
+    "OpenAI",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build development and production platforms powering new AI products with reliability and security",
+    "Own end-to-end development of user-facing generative AI features and product experiences",
+    "Partner with researchers, engineers, product managers, and designers to bring new AI features to market",
+    "Accelerate engineering productivity by building excellent tooling and systems for the team",
+    "Build and maintain ELT and RAG systems to answer specialist medical queries using millions of processed articles",
+    "Participate in on-call rotation to ensure system reliability and respond to critical incidents"
+  ],
+  "use_cases": [
+    "AI-powered clinical decision support providing real-time suggestions and insights to physicians",
+    "Differential diagnosis (DDx) generation to increase diagnostic accuracy",
+    "Evidence-based clinical plan generation and recommendations",
+    "Medical literature search and retrieval using RAG over millions of processed articles",
+    "AI clinical note generation and documentation assistance"
+  ],
+  "tools_mentioned": [
+    "Django",
+    "Docker",
+    "ELT",
+    "GCP",
+    "Postgres",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "OpenAI",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves owning the development of user-facing\ngenerative AI features end-to-end and working with LLMs\n(OpenAI & similar) and RAG systems. The engineer will\ndirectly build and deploy AI capabilities for clinical\ndecision support, not just support infrastructure for AI\nwork.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "Django",
+      "React"
+    ],
+    "databases": [
+      "Postgres"
+    ],
+    "data": [
+      "ELT"
+    ],
+    "cloud": [
+      "GCP"
+    ],
+    "ops": [
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:36+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

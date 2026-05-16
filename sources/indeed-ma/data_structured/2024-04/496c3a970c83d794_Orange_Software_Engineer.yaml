@@ -1,0 +1,41 @@
+company:
+  name: Orange
+  stage: null
+  focus: null
+position:
+  title: Software Engineer
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - elasticsearch
+    - mongodb
+    - oracle
+    - postgresql
+    data:
+    - hadoop
+    - spark
+    - sql
+    cloud: []
+    ops:
+    - ansible
+    - docker
+    - jenkins
+    languages:
+    - scala
+    domains: []
+    other:
+    - agile
+    - scrum
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 496c3a970c83d794
+  extracted_at: '2026-05-16T01:30:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

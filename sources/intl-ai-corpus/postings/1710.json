@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-1710",
+  "source": "intl-ai-corpus",
+  "source_ref": "8584089",
+  "source_url": "https://builtin.com/job/senior-ai-engineer-ml-deep-learning-genai/8584089",
+  "title": "Senior AI Engineer (ML / Deep Learning / GenAI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PairSoft",
+  "company_type": "entité morale privée",
+  "location": "Ahmedabad, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "111 Employees",
+  "company_stage": "Growing/Rapidly growing",
+  "company_focus": "Enterprise AI solutions and workflow automation",
+  "industries": [],
+  "description": "Senior AI Engineer (ML / Deep Learning / GenAI) Location:\nIndia Job Type: Full-time, Remote Experience Level:\n4+yrs(Hands-on IC) About the Role We are looking for a\nSenior AI Engineer to help us turn complex, time-consuming\nworkflows into AI capabilities that customers can trust and\nuse in day-to-day operations. The work spans classical\nmachine learning, deep learning, and generative AI. You’ll\nbe hands-on across the full lifecycle: shaping the solution,\nbuilding or configuring models, deploying and keeping them\nhealthy through retraining and strong observability as data\nand usage evolve. What makes this role especially\ninteresting is the “last mile”: taking AI features beyond a\nsingle implementation and making them work repeatedly across\ncustomers. You’ll help harden the patterns that enable\nsecure, reliable, and measurable multi-customer deployments,\nbacked by practical guardrails and evaluation so quality\nholds up as usage grows. This role is supported by and\ncollaborates closely with DevOps/MLOps and Data/AI\nArchitecture to deliver production outcomes and establish\nrepeatable standards as the team scales significantly over\ntime. Most of this runs on Azure today, with room to explore\nOCI as our platform evolves. Key Responsibilities\n\n- Build and deliver AI solutions using ML/DL and GenAI\n  services based on problem needs.\n- Develop and maintain pipelines for training, evaluation,\n  deployment, monitoring, and retraining.\n- Build GenAI applications (e.g., RAG/agents) with strong\n  evaluation and guardrails.\n- Deploy AI workloads for real-time inference and/or batch\n  processing.\n- Implement automated retraining (scheduling/triggers,\n  validation, versioning, rollout).\n- Scale GenAI-enabled solutions so multiple customers can use\n  them safely and reliably, with multi-tenant controls,\n  guardrails, evaluation, and tuning\n- Set up model observability: performance metrics, drift\n  detection, data quality checks, alerting, and production\n  troubleshooting.\n- Partner with engineering and platform teams to integrate\n  solutions into production and CI/CD workflows.\n\nRequirements\n\n- 5+ years overall experience in AI/ML engineering, including\n  2+ years with GenAI/LLM systems.\n- Strong proficiency in Python for model development,\n  automation, and production-grade services.\n- Experience building GenAI applications (e.g., RAG/agents)\n  with evaluation and guardrails.\n- Proven experience running models in production with\n  monitoring, retraining, and observability practices.\n- Hands-on experience with Azure (Azure ML preferred); OCI\n  exposure is a plus.\n- Experience with MLOps practices/tools such as MLflow and\n  CI/CD pipelines.\n- Hands-on experience deploying AI services on Azure using\n  Azure App Service and Azure Container Apps, with\n  monitoring via Application Insights.\n- Experience containerizing services using Docker in\n  production environments.\n- Hands-on experience with orchestration using Apache Airflow\n  (open-source) or Azure-native alternatives (Azure Data\n  Factory / Azure ML pipelines).\n- Working knowledge of scalable service design (latency/cost\n  optimization, caching, batching, rate limiting).\n- Experience with deep learning frameworks (PyTorch or\n  TensorFlow) is a plus.\n\nStrong communication skills and ability to work effectively\nin a collaborative environment. What We Offer\n\n\n- Opportunity to grow your career with a rapidly growing\n  organisation.\n- Exposure to working with a Microsoft gold partner\n  organization with the latest technologies.\n- People first organisation culture\n- Company Paid Group Mediclaim Insurance for employee, spouse\n  and up to 2 Kids of INR 400,000 per annum\n- Company Paid Group Personal accidental insurance for\n  employees of INR 1,000,000 per annum.\n- Company Paid & Manager approved Career Advancement\n  Opportunities\n- Best in the Industry referral bonus policy.\n- 29 Paid leaves throughout the year\n- Company-paid Maternity leaves for female employees\n",
+  "skills_required": [
+    "AI Agents",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and deliver AI solutions using ML/DL and GenAI services based on problem needs",
+    "Develop and maintain pipelines for training, evaluation, deployment, monitoring, and retraining",
+    "Build GenAI applications (e.g., RAG/agents) with strong evaluation and guardrails",
+    "Deploy AI workloads for real-time inference and batch processing",
+    "Implement automated retraining with scheduling, validation, versioning, and rollout",
+    "Scale GenAI-enabled solutions for multi-customer deployments with tenant controls and guardrails",
+    "Set up model observability including performance metrics, drift detection, and alerting",
+    "Partner with engineering and platform teams to integrate solutions into production and CI/CD workflows"
+  ],
+  "use_cases": [
+    "Automating complex, time-consuming enterprise workflows with AI",
+    "Multi-tenant GenAI deployments (RAG/agents) for multiple customers",
+    "Real-time and batch AI inference at scale",
+    "Enterprise workflow automation and transformation",
+    "Production ML systems with continuous retraining and monitoring"
+  ],
+  "tools_mentioned": [
+    "Apache Airflow",
+    "Application Insights",
+    "Azure",
+    "Azure App Service",
+    "Azure Container Apps",
+    "Azure Data Factory",
+    "Azure ML",
+    "CI/CD",
+    "Docker",
+    "MLflow",
+    "OCI"
+  ],
+  "frameworks_mentioned": [
+    "AI Agents",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is clearly an ai-first role focused on building and\ndeploying AI/ML systems directly - including GenAI\napplications (RAG/agents), training/fine-tuning models,\nimplementing retraining pipelines, and deploying models for\ninference. The role requires hands-on work across the full\nML lifecycle from development through production deployment.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "AI Agents"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Apache Airflow",
+      "Azure Data Factory"
+    ],
+    "cloud": [
+      "Azure ML",
+      "Azure",
+      "Azure App Service",
+      "Azure Container Apps",
+      "OCI"
+    ],
+    "ops": [
+      "Application Insights",
+      "MLflow",
+      "Docker",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

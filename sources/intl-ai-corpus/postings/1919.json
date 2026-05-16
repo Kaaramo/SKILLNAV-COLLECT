@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-1919",
+  "source": "intl-ai-corpus",
+  "source_ref": "8637050",
+  "source_url": "https://www.builtinla.com/job/founding-data-engineer-ai-infrastructure/8637050",
+  "title": "Founding Data Engineer (AI Infrastructure)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "Skiffra",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-03",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Seed",
+  "company_focus": "AI-native orchestration systems for physical industries like\nmining and natural resources",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Business Intelligence",
+    "Financial Services",
+    "Big Data Analytics",
+    "Manufacturing"
+  ],
+  "description": "About Skiffra\n\nSkiffra is building the intelligence layer for the physical\nworld. We translate complex, real-world environments into\nclear, actionable data. While most AI companies focus on\ndigital industries, we design AI native orchestration\nsystems for the sectors that extract, move, and build\necosystems around us. We turn messy, high stakes operations\ninto intelligent, adaptive workflows that improve decisions\nin real time. Our first proving ground is mining and natural\nresources, but the platform is modular by design and built\nto scale into any industry where decisions are expensive and\nthe consequences are real.\n\nThe Role\n\nAs the Data Engineer, you will build the circulatory system\nof Skiffra’s AI-native orchestration platform. This is a\nhands-on, high-autonomy role where you’ll bridge the gap\nbetween messy enterprise reality and clean AI reasoning. You\nwon’t just move data; you will architect the foundation that\nallows autonomous agents to understand and act on complex\nindustrial systems. You’ll work directly with the founding\nteam to ship zero-to-one systems where reliability isn't a\ngoal, it’s the baseline.\n\nWhat You’ll Do\n\n- Design and maintain a robust semantic layer that translates\n  raw database schemas into high-context metadata, allowing\n  LLMs and autonomous agents to reason across enterprise\n  data\n- Integrate ERPs, operational tools, and legacy systems into a\n  clean, unified internal data layer that powers Skiffra’s\n  orchestration engine\n- Design the schemas and data contracts consumed by LLMs and\n  workflow engines to ensure predictable, high-fidelity\n  inputs from varied, often \"messy\" sources\n- Ensure every data point carries the necessary lineage and\n  metadata for an LLM to understand its business\n  significance\n- Architect the end-to-end ingestion and normalization\n  pipelines for structured, semi-structured, and\n  unstructured data, transforming fragmented enterprise\n  fragments into a high-fidelity stream for AI agents\n- Implement the monitoring, observability, and automated data\n  quality gates necessary to ensure our orchestration engine\n  doesn't act on stale or corrupted enterprise context\n- Partner closely with product and engineering to translate\n  complex operational needs into scalable data systems\n- Operate with speed and rigor in environments where\n  reliability matters\n\nWhat We’re Looking For\n\n- 7+ years building production-grade data engineering or\n  backend systems\n- Strong Python and SQL mastery\n- Experience with ETL/ELT pipelines and API-based integrations\n- Experience with cloud data infrastructure and streaming or\n  event-driven systems\n- Ability to work independently and make sound technical\n  tradeoffs\n- Proven track record building systems where data discovery\n  and cataloging were core features\n- Ability to make sound technical tradeoffs and thrive in\n  \"zero-to-one\" environments without a roadmap or perfect\n  documentation\n\nNice to Have\n\n- Experience with industrial, operational, or enterprise data\n  systems\n- Experience designing data contracts or vector stores\n  specifically consumed by LLMs, RAG systems, or autonomous\n  agents\n- Experience managing data access controls and identity within\n  data pipelines\n- Startup or founding-team experience\n\nHow We Work\n\nWe value speed, clarity, and technical rigor. We favor\nsimple systems over clever ones, prototypes over over-\nplanning, and ownership over handoffs. You’ll work directly\nwith founders and ship things that matter quickly.\n\nLocation & Work Model\n\nThis is a hybrid role with regular in-person collaboration\nin Los Angeles or the San Francisco Bay Area. We are not a\nremote-only company.\n\nWork Authorization\n\nCandidates must be authorized to work in the United States.\nWe are not able to offer visa sponsorship for this role.\n\nBenefits & Eligibility\n\nThis position is eligible for Skiffra’s standard benefits,\nincluding health insurance and retirement plans, and may\nalso qualify for participation in the Company’s bonus and\nincentive programs.\n\nEqual Opportunity\n\nSkiffra is an equal opportunity employer. We value diversity\nand do not discriminate on the basis of race, color,\nreligion, sex, gender identity or expression, sexual\norientation, age, national origin, disability, veteran\nstatus, or any other protected characteristic.\n",
+  "skills_required": [
+    "Data contracts for LLMs",
+    "RAG systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and maintain a semantic layer that translates raw database schemas into high-context metadata for LLMs and autonomous agents",
+    "Integrate ERPs, operational tools, and legacy systems into a unified internal data layer powering the orchestration engine",
+    "Design schemas and data contracts consumed by LLMs and workflow engines for predictable, high-fidelity inputs",
+    "Ensure data lineage and metadata enable LLMs to understand business significance of data points",
+    "Architect end-to-end ingestion and normalization pipelines for structured, semi-structured, and unstructured data",
+    "Implement monitoring, observability, and automated data quality gates for the orchestration engine",
+    "Partner with product and engineering to translate operational needs into scalable data systems"
+  ],
+  "use_cases": [
+    "AI-native orchestration for physical world industries",
+    "Intelligent adaptive workflows for mining and natural resources",
+    "Real-time decision support for high-stakes industrial operations",
+    "Autonomous agents reasoning across enterprise data",
+    "Data integration from legacy systems and ERPs for AI consumption"
+  ],
+  "tools_mentioned": [
+    "API integrations",
+    "Cloud data infrastructure",
+    "Data cataloging",
+    "Data lineage",
+    "Data quality gates",
+    "ETL/ELT pipelines",
+    "Event-driven systems",
+    "Monitoring and observability",
+    "Streaming systems",
+    "Vector stores"
+  ],
+  "frameworks_mentioned": [
+    "Data contracts for LLMs",
+    "RAG systems"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building data infrastructure and\npipelines that enable AI/ML systems, but does not directly\nbuild, train, or deploy models. The work involves creating\nsemantic layers, data contracts, and ingestion pipelines\nthat power downstream AI agents and LLMs - classic enabling\ninfrastructure work rather than hands-on model development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Data contracts for LLMs",
+      "RAG systems"
+    ],
+    "ml": [],
+    "web": [
+      "API integrations"
+    ],
+    "databases": [
+      "Vector stores"
+    ],
+    "data": [
+      "ETL/ELT pipelines",
+      "Streaming systems",
+      "Event-driven systems",
+      "Data cataloging",
+      "Data lineage",
+      "Data quality gates"
+    ],
+    "cloud": [
+      "Cloud data infrastructure"
+    ],
+    "ops": [
+      "Monitoring and observability"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

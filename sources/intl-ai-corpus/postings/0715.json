@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-0715",
+  "source": "intl-ai-corpus",
+  "source_ref": "3688691",
+  "source_url": "https://builtin.com/job/system-engineer-servers-hardware-rd-team/3688691",
+  "title": "Senior Hardware Engineer (R&D / GPI / AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nebius",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam, NLD",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-13",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "473 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI cloud infrastructure and GPU-based computing",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Why work at Nebius Nebius is leading a new era in cloud\ncomputing to serve the global AI economy. We create the\ntools and resources our customers need to solve real-world\nchallenges and transform industries, without massive\ninfrastructure costs or the need to build large in-house\nAI/ML teams. Our employees work at the cutting edge of AI\ncloud infrastructure alongside some of the most experienced\nand innovative leaders and engineers in the field.\n\nWhere we work Headquartered in Amsterdam and listed on\nNasdaq, Nebius has a global footprint with R&D hubs across\nEurope, North America, and Israel. The team of over 800\nemployees includes more than 400 highly skilled engineers\nwith deep expertise across hardware and software\nengineering, as well as an in-house AI R&D team.\n\nThe role\n\nNebius is looking for a Senior Hardware Engineer (R&D / GPI\n/ AI). You’re welcome to work in our data center in\nAmsterdam, the Netherlands.\n\nYour responsibilities will include:\n\n- Participate in the design, deployment, and maintenance of\n  high-performance cloud systems tailored for AI workloads.\n- Arranging and performing hardware R&D tests and experiments\n  on site in data center\n- Troubleshoot and resolve complex system issues related to\n  GPUs, networking (InfiniBand, NVLink), PCIe, and server\n  infrastructure.\n- Conduct deep investigations into hardware, software, and\n  networking problems to ensure optimal system performance\n  and reliability.\n- Participate in development of tests and test methodologies\n  for advanced GPU, InfiniBand, and Compute systems to\n  benchmark and validate performance.\n- Collaborate with cross-functional teams to improve system\n  performance and reliability.\n- Monitor system performance and continuously fine-tune\n  configurations for maximum efficiency\n\nRequired Skills & Qualifications:\n\n- Strong knowledge of modern server architecture, especially\n  in high-performance GPU-based environments.\n- Hands-on experience with GPUs, Network, NVLink, and PCIe.\n- Proficient in Linux systems, with expertise in Python and\n  Bash scripting for automation.\n- Demonstrated ability to troubleshoot complex system issues,\n  including hardware, software, and networking problems.\n- Experience with deep problem investigation, root cause\n  analysis, and resolving performance issues in cloud-based\n  or high-performance computing environments.\n- Strong analytical and problem-solving skills, with a focus\n  on optimizing system performance.\n- Basic electronics modification by soldering and wiring\n\nIt will be an added bonus if you have:\n\n- Knowledge of the Linux kernel and experience with kernel-\n  level troubleshooting.\n- Familiarity with electronic measurement equipment:\n  oscilloscope, multimeter.\n\nWhat we offer\n\n- Competitive salary and comprehensive benefits package.\n- Opportunities for professional growth within Nebius.\n- Flexible working arrangements.\n- A dynamic and collaborative work environment that values\n  initiative and innovation.\n\nWe’re growing and expanding our products every day. If\nyou’re up to the challenge and are excited about AI and ML\nas much as we are, join us!\n",
+  "skills_required": [
+    "GPUs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Participate in the design, deployment, and maintenance of high-performance cloud systems tailored for AI workloads",
+    "Arrange and perform hardware R&D tests and experiments on site in data center",
+    "Troubleshoot and resolve complex system issues related to GPUs, networking (InfiniBand, NVLink), PCIe, and server infrastructure",
+    "Conduct deep investigations into hardware, software, and networking problems to ensure optimal system performance and reliability",
+    "Participate in development of tests and test methodologies for advanced GPU, InfiniBand, and Compute systems to benchmark and validate performance",
+    "Collaborate with cross-functional teams to improve system performance and reliability",
+    "Monitor system performance and continuously fine-tune configurations for maximum efficiency"
+  ],
+  "use_cases": [
+    "High-performance GPU-based cloud infrastructure for AI workloads",
+    "AI/ML model training and inference on optimized server hardware",
+    "High-performance computing systems with GPU clusters",
+    "Cloud-based AI infrastructure reducing infrastructure costs for customers"
+  ],
+  "tools_mentioned": [
+    "InfiniBand",
+    "Linux",
+    "Linux kernel",
+    "NVLink",
+    "PCIe",
+    "networking",
+    "root cause analysis",
+    "server architecture"
+  ],
+  "frameworks_mentioned": [
+    "GPUs"
+  ],
+  "languages_programming": [
+    "Bash",
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a hardware engineering role focused on GPU server\ninfrastructure and high-performance cloud systems for AI\nworkloads. The role involves deploying, maintaining,\ntroubleshooting, and benchmarking hardware systems (GPUs,\nInfiniBand, NVLink, PCIe) but does not involve building,\ntraining, fine-tuning, or deploying AI models or ML\nalgorithms. The position supports AI workloads by optimizing\nthe underlying hardware infrastructure that enables others\nto run AI/ML systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "GPUs"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "InfiniBand",
+      "NVLink",
+      "PCIe",
+      "Linux",
+      "server architecture",
+      "networking",
+      "Linux kernel",
+      "root cause analysis"
+    ],
+    "languages": [
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,41 @@
+company:
+  name: Unknown
+  stage: null
+  focus: null
+position:
+  title: Data Analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities:
+  - '![Marjane Holding Logo](https://media.glassdoor.com/sql/543824/marjane-squarelogo-1648551047429.png)'
+  - '[Data Analyst (H/F)](https://www.glassdoor.com/job-listing/data-analyst-hf-JV_IC3941674_KO0,15.htm?jl=1010121908400)'
+  - '![Smile Group Logo](https://media.glassdoor.com/sql/1044716/smile-group-squarelogo-1559548963549.png)'
+  - '![PETIT FORESTIER DIGITAL SOLUTIONS Logo](https://media.glassdoor.com/sql/26021/petit-forestier-group-squareLogo-1701857768356.png)'
+  - '![label vie Logo](https://media.glassdoor.com/sql/4748557/label-vie-morocco-squarelogo-1645163333212.png)'
+  - '![ALTEN Logo](https://media.glassdoor.com/sql/12800/alten-squareLogo-1688051896731.png)'
+  - '![Smile Group Logo](https://media.glassdoor.com/sql/1044716/smile-group-squarelogo-1559548963549.png)'
+  - '![Devoteam Logo](https://media.glassdoor.com/sql/12966/devoteam-squarelogo-1596018186314.png)'
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web:
+    - next
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - Excel
+    - power bi
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '1010110832598'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

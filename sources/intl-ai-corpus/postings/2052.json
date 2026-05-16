@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-2052",
+  "source": "intl-ai-corpus",
+  "source_ref": "8721705",
+  "source_url": "https://www.builtinla.com/job/principal-cyber-ai-engineer/8721705",
+  "title": "Principal Cyber AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Phizenix",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-11",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "unknown",
+  "company_focus": "AI security and cybersecurity solutions",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "The Cyber AI Engineer will drive the development and\noptimization of advanced tools, processes, and workflows to\npredict, detect, and prevent AI-specific threats. This\nhands-on technical leadership role combines deep research in\nAI security with close collaboration across teams to\nintegrate AI security capabilities into robust cybersecurity\narchitectures\n\n\n\nKey Responsibilities:\n\n\n\n• Design, develop, and optimize AI-security-specific threat\nmodels, tools, and solutions for threat identification,\nprediction, and prevention.\n\n • Implement and secure machine learning models, GenAI\nmodels, and AI techniques to enhance threat detection,\nmonitoring, and risk scoring.\n\n • Integrate AI security tools and technologies across\ncybersecurity architectures, collaborating with data\nscientists, security engineers, and other stakeholders.\n\n • Analyze AI security incident data to refine and improve\nAI models and methodologies.\n\n • Provide technical leadership and mentorship to junior\nengineers in AI and machine learning.\n\n • Ensure alignment and compliance with industry standards\n(NIST AI-RMF, ISO 42001, OWASP Top 10 for LLMs) and advanced\nsecurity architectures (Agentic, MCP).\n\n • Stay abreast of emerging trends and advancements in AI\nand cybersecurity.\n\n\n\nRequired Qualifications:\n\n\n\n• A Bachelor’s or Master’s degree in Computer Science,\nEngineering, or a closely related discipline is required.\n\n• 5+ years of experience in AI-focused cybersecurity in an\nenterprise environment.\n\n• Expertise in Python, R, Java, or similar programming\nlanguages.\n\n• Deep understanding of machine learning, neural networks,\nand application to security systems.\n\n• Hands-on experience with AI security technologies\n(intrusion detection, anomaly detection, threat\nintelligence).\n\n• 3+ years’ experience in Azure or AWS cloud-native\nservices, architectures, and tools.\n\n• Expertise in enterprise architectures (including cloud-\nnative and AI architecture patterns).\n\n• Advanced knowledge of security and governance frameworks\n(NIST AI-RMF, ISO 42001, OWASP Top 10 for LLM).\n\n • Strong communication and collaboration skills.\n\n\n\nPreferred Qualifications\n\n\n\n• Experience with implementing OWASP Top 10 LLM Threats in\npractice with any industry or open-source product.\n\n• Working experience in Threat Modeling\n\n• Experience with agentic and Model Context Protocol (MCP)\narchitectures.\n\n• Demonstrated ability to lead cross-functional technical\nteams.\n\n• Track record of published research or thought leadership\nin AI security.\n",
+  "skills_required": [
+    "Agentic architectures",
+    "Anomaly detection",
+    "GenAI models",
+    "ISO 42001",
+    "Intrusion detection",
+    "Machine learning",
+    "Model Context Protocol (MCP)",
+    "NIST AI-RMF",
+    "Neural networks",
+    "OWASP Top 10 for LLMs",
+    "Threat modeling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and optimize AI-security-specific threat models, tools, and solutions for threat identification, prediction, and prevention",
+    "Implement and secure machine learning models, GenAI models, and AI techniques to enhance threat detection, monitoring, and risk scoring",
+    "Integrate AI security tools and technologies across cybersecurity architectures, collaborating with data scientists, security engineers, and other stakeholders",
+    "Analyze AI security incident data to refine and improve AI models and methodologies",
+    "Provide technical leadership and mentorship to junior engineers in AI and machine learning",
+    "Ensure alignment and compliance with industry standards (NIST AI-RMF, ISO 42001, OWASP Top 10 for LLMs) and advanced security architectures (Agentic, MCP)",
+    "Stay abreast of emerging trends and advancements in AI and cybersecurity"
+  ],
+  "use_cases": [
+    "AI-specific threat detection and prevention",
+    "Intrusion detection using AI/ML",
+    "Anomaly detection for cybersecurity",
+    "Threat intelligence and prediction",
+    "Risk scoring for AI systems",
+    "LLM security and threat modeling"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure"
+  ],
+  "frameworks_mentioned": [
+    "Agentic architectures",
+    "Anomaly detection",
+    "GenAI models",
+    "Machine learning",
+    "Model Context Protocol (MCP)",
+    "Neural networks",
+    "OWASP Top 10 for LLMs"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "R"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves implementing and securing ML/GenAI\nmodels, developing AI-specific threat detection tools, and\nworking hands-on with AI security technologies. The engineer\ndirectly builds and optimizes AI-based security systems\nrather than just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "GenAI models",
+      "OWASP Top 10 for LLMs",
+      "Agentic architectures",
+      "Model Context Protocol (MCP)"
+    ],
+    "ml": [
+      "Machine learning",
+      "Neural networks",
+      "Anomaly detection"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Azure",
+      "AWS"
+    ],
+    "ops": [],
+    "languages": [
+      "Python",
+      "R",
+      "Java"
+    ],
+    "domains": [],
+    "other": [
+      "NIST AI-RMF",
+      "ISO 42001",
+      "Threat modeling",
+      "Intrusion detection"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

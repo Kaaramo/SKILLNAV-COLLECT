@@ -1,0 +1,100 @@
+{
+  "job_id": "intl-ai-corpus-0628",
+  "source": "intl-ai-corpus",
+  "source_ref": "8297866",
+  "source_url": "https://builtin.com/job/staff-ai-engineer/8297866",
+  "title": "Staff AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Loop AI - Delivery Intelligence Platform",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-25",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "79 Employees",
+  "company_stage": "Seed/Series A (founded 2022, startup)",
+  "company_focus": "Delivery Intelligence Platform for food-tech brands",
+  "industries": [
+    "Artificial Intelligence",
+    "On-Demand",
+    "Software"
+  ],
+  "description": "About Loop:\n\nLoop AI is a San Francisco-based tech company founded in\n2022. We provide a Delivery Intelligence Platform for data-\ndriven digital food brands, helping them optimize operations\nand make informed decisions. Loop is at the forefront of\ninnovation in the food-tech sector.\n\nAbout the Role:\n\nAt Loop, we value a growth mindset, passion for startups,\nproduct curiosity, and a hunger for continuous learning. We\nbelieve that the collaborative spirit among our peers is the\nlifeblood of our startup. As a Senior Backend Engineer, you\nwill play a crucial role in designing the ideal backend\nsystem architecture, addressing customer pain points, and\ncontributing to the overall success of our platform.\n\nKey Responsibilities:\n\n- System Architecture:Develop an ideal backend system\n  architecture to solve problems efficiently.Create\n  strategic plans to achieve the long-term vision while\n  delivering shorter-term solutions that provide immediate\n  value to our customers.\n- Customer Interaction:Engage with customers to understand\n  their pain points. Collaborate on brainstorming sessions\n  to devise innovative solutions that enhance the customer\n  experience\n- Critical Thinking: Apply critical thinking to problem-\n  solving, starting from the ground up. Challenge existing\n  solutions and propose novel approaches free from bias.\n\nWhat We're Seeking:\n\n- 8+ years of relevant professional full-time experience\n  building backend systems for Senior roles.\n- Proactive self-starter capable of independently solving\n  problems.\n- Write clean and maintainable code using Python, Django,\n  PostGreSQL / any relevant backend stack\n- Troubleshoot and debug issues in the backend system\n- Optimize the performance of the backend services (GCP , DBT)\n",
+  "skills_required": [
+    "backend systems",
+    "system architecture"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop ideal backend system architecture to solve problems efficiently and create strategic plans for long-term vision",
+    "Engage with customers to understand pain points and collaborate on innovative solutions",
+    "Apply critical thinking to problem-solving from the ground up and challenge existing solutions",
+    "Write clean and maintainable code using Python and Django backend stack",
+    "Troubleshoot and debug issues in the backend system",
+    "Optimize performance of backend services using GCP and dbt"
+  ],
+  "use_cases": [
+    "Delivery intelligence platform for data-driven digital food brands",
+    "Optimize operations for food-tech companies",
+    "Enable data-driven decision making for food brands",
+    "Enhance customer experience through innovative backend solutions"
+  ],
+  "tools_mentioned": [
+    "Django",
+    "GCP",
+    "PostgreSQL",
+    "dbt"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "The job description describes a backend engineering role\nwith no mention of building, training, fine-tuning, or\ndeploying AI/ML models. The title mentions \"AI Engineer\" but\nall responsibilities and requirements focus on backend\nsystem architecture, Python/Django development, and database\noptimization - this is general software engineering for an\nAI company, not hands-on AI work.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "Django"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [
+      "dbt"
+    ],
+    "cloud": [
+      "GCP"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "backend systems",
+      "system architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

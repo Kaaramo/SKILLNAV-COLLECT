@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-0203",
+  "source": "intl-ai-corpus",
+  "source_ref": "7411453",
+  "source_url": "https://builtin.com/job/junior-ai-engineer/7411453",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BlueCrest Capital Management",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "491 Employees",
+  "company_stage": null,
+  "company_focus": "Quantitative hedge fund and financial trading",
+  "industries": [],
+  "description": "Job Title: AI Engineer\n\nDivision: Front Office Technology\n\nReports To: Quantitative Developer AI\n\nLocation: London\n\nDepartment Overview:\n\nWe are part of the Front Office Technology team responsible\nfor delivering advanced AI and machine learning solutions\nthat enable the business through LLM-powered applications,\nincluding retrieval-augmented generation (RAG) systems,\nagentic process automation, and scalable internal AI tools.\nThe team collaborates closely with Quant Research, Data\nTechnology, and Rapid Application Development, forming the\ncentral AI capability that supports both research and\noperational efficiency across the firm.\n\nRole Overview:\n\nAs BlueCrest continues to integrate AI across its front-\noffice and research workflows, we are seeking a Junior AI\nEngineer to join our central FO Tech Team. This position\nsits at the intersection of technology and innovation,\ncontributing directly to how AI is applied to enhance\ntrading, research, and operational efficiency across the\nfirm.\n\nThis role offers a rare opportunity to work hands-on with\ncutting-edge large language models (LLMs) and emerging AI\narchitectures while helping to shape the foundations of\nenterprise-scale AI adoption. You’ll design and implement\nframeworks that make advanced AI capabilities widely\naccessible across teams — enabling improved knowledge\nretrieval, intelligent process automation, and enhanced\ndecision support.\n\nYou’ll collaborate closely with Front Office Technology,\nQuant Research, and business teams to develop robust AI\nsystems that align with the firm’s strategic innovation\ngoals. The successful candidate will play a key role in\nbuilding, deploying, and maintaining scalable AI\ninfrastructure — ensuring that the firm can securely\nleverage generative and analytical AI to support\nquantitative researchers, analysts, and operational users.\n\nIn this role, you’ll gain exposure to real-world financial\napplications of AI, contribute to the firm’s software\ndevelopment lifecycle, and help shape the tools and\nstandards that underpin responsible, high-performance AI\nengineering at BlueCrest.\n\nExperience Required:\n\nEssential:\n\n- Degree in Computer Science, Engineering, or related\n  technical field, or equivalent industry experience.\n- Proficiency in Python and experience with frameworks such as\n  OpenAI Agents SDK, LangChain, LlamaIndex, or Hugging Face\n  Transformers.\n- Understanding of RAG and LLM orchestration techniques.\n- Experience working with APIs, vector databases (e.g.,\n  Qdrant, Pinecone, FAISS, Weaviate), and embedding models.\n- Familiarity with cloud platforms (AWS, Azure) and\n  containerized environments.\n- Strong grasp of software engineering fundamentals — version\n  control, modular design, testing, and documentation.\n- Exposure to agentic AI systems or multi-agent orchestration\n  frameworks.\n- Experience building internal tools, SDKs, or developer\n  platforms.\n- Experience with MLOps, CI/CD for models, and monitoring\n  pipelines.\n\nDesirable:\n\n- Previous experience working in financial markets or\n  investment firms.\n- Interest in financial technology or data-rich enterprise\n  environments.\n\nAbout You:\n\nIn this role you must be self-motivated and able to learn\nquickly. This is a highly technical role, you need to be a\ncurious and motivated technologist with a strong interest in\nhow AI can transform workflows across complex organisations.\nYou thrive in collaborative, fast-moving environments and\nare eager to learn. You are comfortable with hands-on\nengineering, take initiative in problem-solving, and enjoy\nthe challenge of scaling new technologies responsibly.\n\nBlueCrest is committed to providing an inclusive environment\nfor its workforce. As an employer, we provide equal\nopportunities to all people regardless of their gender,\nmarital or civil partnership status, race, religion or\nethnicity, disability, age, sexual orientation or\nnationality.\n",
+  "skills_required": [
+    "Hugging Face Transformers",
+    "LLM orchestration",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI Agents SDK",
+    "RAG",
+    "agentic AI systems",
+    "embedding models",
+    "multi-agent orchestration"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement frameworks for LLM-powered applications and RAG systems",
+    "Build scalable AI infrastructure that supports agentic process automation",
+    "Develop and deploy internal AI tools and SDKs for enterprise use across teams",
+    "Implement vector databases, embedding models, and API integrations for knowledge retrieval",
+    "Collaborate with Front Office Technology and Quant Research to align AI systems with business goals",
+    "Maintain MLOps pipelines, CI/CD for models, and monitoring for production AI systems",
+    "Enable improved knowledge retrieval, intelligent process automation, and enhanced decision support"
+  ],
+  "use_cases": [
+    "LLM-powered knowledge retrieval and search systems for quantitative research",
+    "Agentic process automation to streamline operational workflows across the firm",
+    "Internal AI tools and developer platforms that make advanced AI capabilities accessible to non-technical teams",
+    "Decision support systems for traders, analysts, and operational users",
+    "Enterprise-scale AI adoption for enhanced trading and research capabilities"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "FAISS",
+    "MLOps",
+    "Pinecone",
+    "Qdrant",
+    "Weaviate",
+    "documentation",
+    "monitoring",
+    "testing",
+    "version control"
+  ],
+  "frameworks_mentioned": [
+    "Hugging Face Transformers",
+    "LLM orchestration",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI Agents SDK",
+    "RAG",
+    "agentic AI systems",
+    "embedding models",
+    "multi-agent orchestration"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building, deploying, and\nmaintaining RAG systems, LLM-powered applications, and\nagentic AI frameworks. The engineer will directly implement\nAI solutions using OpenAI Agents SDK, LangChain, LlamaIndex,\nand vector databases to create AI tools for the firm.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI Agents SDK",
+      "LangChain",
+      "LlamaIndex",
+      "RAG",
+      "LLM orchestration",
+      "agentic AI systems",
+      "multi-agent orchestration"
+    ],
+    "ml": [
+      "Hugging Face Transformers",
+      "embedding models"
+    ],
+    "web": [],
+    "databases": [
+      "Qdrant",
+      "Pinecone",
+      "FAISS",
+      "Weaviate"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "version control",
+      "testing",
+      "documentation",
+      "MLOps",
+      "CI/CD",
+      "monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

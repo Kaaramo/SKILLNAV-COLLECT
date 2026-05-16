@@ -1,0 +1,163 @@
+{
+  "job_id": "intl-ai-corpus-2771",
+  "source": "intl-ai-corpus",
+  "source_ref": "9006059",
+  "source_url": "https://builtin.com/job/applied-ai-engineer-hybrid/9006059",
+  "title": "Applied AI Engineer (Hybrid)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "CrowdStrike",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-09",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI-native cybersecurity platform protecting against breaches",
+  "industries": [
+    "Cloud",
+    "Computer Vision",
+    "Information Technology",
+    "Sales",
+    "Security",
+    "Cybersecurity"
+  ],
+  "description": "As a global leader in cybersecurity, CrowdStrike protects\nthe people, processes and technologies that drive modern\norganizations. Since 2011, our mission hasn’t changed —\nwe’re here to stop breaches, and we’ve redefined modern\nsecurity with the world’s most advanced AI-native platform.\nWe work on large scale distributed systems, processing\nalmost 3 trillion events per day and this traffic is growing\ndaily. Our customers span all industries, and they count on\nCrowdStrike to keep their businesses running, their\ncommunities safe and their lives moving forward. We’re also\na mission-driven company. We cultivate a culture that gives\nevery CrowdStriker both the flexibility and autonomy to own\ntheir careers. We’re always looking to add talented\nCrowdStrikers to the team who have limitless passion, a\nrelentless focus on innovation and a fanatical commitment to\nour customers, our community and each other. Ready to join a\nmission that matters? The future of cybersecurity starts\nwith you.\n\nAbout the Role:\n\nWe are building an AI-first applied engineering team focused\non transforming how operations and infrastructure teams work\nat scale. As a Senior Applied AI Engineer, you will take\ncutting-edge AI methods and turn them into production\nsystems that directly improve reliability, velocity, and\nefficiency for engineering organizations.\n\nThis role requires a blend of deep AI engineering expertise\nand strong software engineering discipline. You will work\nwith LLMs, orchestration frameworks (LangChain, LangGraph,\nMCP), retrieval pipelines, and evaluation harnesses to build\ncopilots, automated decision engines, and large-scale\nmigration frameworks. You’ll be responsible for ensuring\nthese systems are trustworthy, measurable, and safe—with\nclear evaluation gates, grounding, and hallucination\ndetection before rollout.\n\nSuccess in this role means moving beyond prototypes and\ndelivering AI applications that engineers rely on daily:\ncopilots that triage incidents, systems that recommend\nadaptive configurations, services that automate multi-repo\ncode migrations, and evaluators that keep models\naccountable. You will collaborate closely with SRE,\nSecurity, and various Infrastructure Foundations teams.\n\nWhat You’ll Do:\n\n- Build and ship LLM-powered systems that reduce toil,\n  accelerate remediation, and improve decision-making in\n  operations contexts.\n- Design and maintain evaluation frameworks: hallucination\n  tests, regression harnesses, benchmarks, and quality gates\n  for safe rollout.\n- Develop retrieval-augmented pipelines (RAG) and data\n  strategies for grounding on logs, telemetry, runbooks, and\n  system metadata.\n- Engineer AI copilots and natural-language interfaces to\n  interact with operational data and workflows.\n- Create frameworks for large-scale automation such as safe\n  code migration and transformation pipelines.\n- Apply adaptive AI techniques to optimize system\n  configurations, predict anomalies, and recommend\n  preventive actions.\n- Partner across teams — collaborate with AI Platform\n  (inference/serving), SRE/Infra/Data Service/DC\n  (operational context), and Security (safe usage) while\n  focusing your work on application logic, correctness,\n  evaluation, and safety.\n- Implement guardrails and safety systems: prompt injection\n  defenses, PII filtering, constrained decoding, and model\n  observability.\n- Build developer-facing SDKs and APIs in Python/Go;intuitive\n  UIs in JavaScript/React for human-in-the-loop workflows.\n- Leverage modern orchestration frameworks (LangChain,\n  LangGraph, MCP, semantic routers) to coordinate multi-\n  step, tool-augmented workflows.\n\nWhat You'll Need:\n\n- 6+ years of total experience in development with strong\n  programming skills in JS, Python or Go.Proven experience\n  shipping LLM-based systems into production with measurable\n  impact.\n- Expertise in evaluation and testing of LLMs (benchmarks,\n  hallucination/regression tests, grounding metrics).\n- Hands-on experience with LLM orchestration frameworks:\n  LangChain, LangGraph, MCP, agent frameworks, or\n  equivalent.\n- Deep understanding of RAG pipelines: embeddings, retrieval\n  quality metrics, re-ranking, and grounding\n  precision/recall.\n- Ability to translate ambiguous operational problems into AI-\n  first solutions with clear KPIs.\n\nBonus:\n\n- Experience with fine-tuning/adapters (LoRA, QLoRA, continual\n  learning) and safety tuning.\n- Exposure to inference optimization and serving, partnering\n  with platform teams on latency, scaling, and resilience.\n- Experience building AI copilots/assistants for engineers.\n- Frontend development in JavaScript/React for lightweight\n  human-in-the-loop tooling.\n- Knowledge of reinforcement learning, adaptive systems, or\n  optimization methods\n\n#LI-SM2\n\n#LI-VJ1\n\nBenefits of Working at CrowdStrike:\n\n- Market leader in compensation and equity awards\n- Comprehensive physical and mental wellness programs\n- Competitive vacation and holidays for recharge\n- Paid parental and adoption leaves\n- Professional development opportunities for all employees\n  regardless of level or role\n- Employee Networks, geographic neighborhood groups, and\n  volunteer opportunities to build connections\n- Vibrant office culture with world class amenities\n- Great Place to Work Certified™ across the globe\n\nCrowdStrike is proud to be an equal opportunity employer. We\nare committed to fostering a culture of belonging where\neveryone is valued for who they are and empowered to\nsucceed. We support veterans and individuals with\ndisabilities through our affirmative action program.\n\nCrowdStrike is committed to providing equal employment\nopportunity for all employees and applicants for employment.\nThe Company does not discriminate in employment\nopportunities or practices on the basis of race, color,\ncreed, ethnicity, religion, sex (including pregnancy or\npregnancy-related medical conditions), sexual orientation,\ngender identity, marital or family status, veteran status,\nage, national origin, ancestry, physical disability\n(including HIV and AIDS), mental disability, medical\ncondition, genetic information, membership or activity in a\nlocal human rights commission, status with regard to public\nassistance, or any other characteristic protected by law. We\nbase all employment decisions--including recruitment,\nselection, training, compensation, benefits, discipline,\npromotions, transfers, lay-offs, return from lay-off,\nterminations and social/recreational programs--on valid job\nrequirements.\n\nIf you need assistance accessing or reviewing the\ninformation on this website or need help submitting an\napplication for employment or requesting an accommodation,\nplease contact us at recruiting@crowdstrike.com for further\nassistance.\n",
+  "skills_required": [
+    "Agent Frameworks",
+    "Constrained Decoding",
+    "Embeddings",
+    "LLM Evaluation",
+    "LangChain",
+    "LangGraph",
+    "LoRA",
+    "MCP",
+    "Prompt Engineering",
+    "QLoRA",
+    "RAG",
+    "Re-ranking",
+    "Reinforcement Learning",
+    "Semantic Routers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and ship LLM-powered systems that reduce toil, accelerate remediation, and improve decision-making in operations contexts",
+    "Design and maintain evaluation frameworks including hallucination tests, regression harnesses, benchmarks, and quality gates for safe rollout",
+    "Develop retrieval-augmented pipelines (RAG) and data strategies for grounding on logs, telemetry, runbooks, and system metadata",
+    "Engineer AI copilots and natural-language interfaces to interact with operational data and workflows",
+    "Create frameworks for large-scale automation such as safe code migration and transformation pipelines",
+    "Apply adaptive AI techniques to optimize system configurations, predict anomalies, and recommend preventive actions",
+    "Implement guardrails and safety systems including prompt injection defenses, PII filtering, constrained decoding, and model observability",
+    "Build developer-facing SDKs and APIs in Python/Go and intuitive UIs in JavaScript/React for human-in-the-loop workflows"
+  ],
+  "use_cases": [
+    "AI copilots that triage incidents and accelerate remediation for operations teams",
+    "Automated multi-repo code migration and transformation pipelines",
+    "Adaptive configuration recommendation and anomaly prediction for infrastructure systems",
+    "Natural-language interfaces for querying operational data and workflows",
+    "Evaluation and safety systems to keep LLM outputs trustworthy and grounded",
+    "Large-scale automation frameworks for engineering organizations"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "FastAPI",
+    "Inference Optimization",
+    "Kubernetes",
+    "Model Observability",
+    "Postgres",
+    "REST APIs",
+    "React",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Agent Frameworks",
+    "Constrained Decoding",
+    "Embeddings",
+    "LLM Evaluation",
+    "LangChain",
+    "LangGraph",
+    "LoRA",
+    "MCP",
+    "Prompt Engineering",
+    "QLoRA",
+    "RAG",
+    "Re-ranking",
+    "Reinforcement Learning",
+    "Semantic Routers"
+  ],
+  "languages_programming": [
+    "Go",
+    "JavaScript",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely focused on building, deploying, and\nevaluating LLM-powered production systems including\ncopilots, RAG pipelines, automated decision engines, and\nmigration frameworks. The engineer works directly with LLMs,\norchestration frameworks, retrieval pipelines, and\nevaluation harnesses — core AI system building work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "MCP",
+      "RAG",
+      "Prompt Engineering",
+      "LoRA",
+      "QLoRA",
+      "Agent Frameworks",
+      "Semantic Routers",
+      "Constrained Decoding",
+      "LLM Evaluation",
+      "Embeddings",
+      "Re-ranking"
+    ],
+    "ml": [
+      "Reinforcement Learning"
+    ],
+    "web": [
+      "React",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "databases": [
+      "Postgres",
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Inference Optimization",
+      "Model Observability"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "JavaScript"
+    ],
+    "domains": [
+      "Cybersecurity"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

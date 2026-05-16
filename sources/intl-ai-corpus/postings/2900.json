@@ -1,0 +1,156 @@
+{
+  "job_id": "intl-ai-corpus-2900",
+  "source": "intl-ai-corpus",
+  "source_ref": "9057021",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer/9057021",
+  "title": "Senior AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "TransPerfect",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "11,565 Employees",
+  "company_stage": "Public",
+  "company_focus": "Translation and language services for global enterprises",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "TransPerfect Is More Than Just a Job… Our greatest asset is\nour people, and nothing is more important to us than\nensuring that everyone knows that. Each of our 100+ offices\nhas its own individual identity, and each also has its own\nunique rewards.\n\nContract: 12 months (with potential extension based on\nperformance)\n\nClient: A leading multinational telecommunications company –\nMotorola\n\nWe are seeking a Senior AI/ML Engineer to join our client’s\nAI team and contribute to the development of cutting-edge\nintelligent systems. In this role, you’ll be responsible for\ndesigning, training, and deploying machine learning models\nthat power innovative features across devices and services.\nThis is an exciting opportunity to work with a global\ntechnology leader in the telecommunications sector, applying\nyour expertise to real-world applications that impact\nmillions of users.\n\nResponsibilities\n\n- Develop and fine-tune machine learning algorithms.\n- Conduct experiments, evaluate model performance, and suggest\n  improvements.\n- Lead and collaborate with engineers to implement production-\n  ready AI solutions.\n- Document processes and results for scalability.\n\nRequirements\n\n- Bachelor’s or Master’s degree in Computer Science, Data\n  Science, Artificial Intelligence, or related field.\n- 5-7 years of experience in developing and deploying machine\n  learning models.\n- At least 3 years of experience leading a team.\n- Proficiency in Python and popular ML frameworks such as\n  TensorFlow, PyTorch, and scikit-learn.\n- Strong understanding of data preprocessing, model\n  evaluation, and hyperparameter tuning.\n- Experience with SQL, Pandas, NumPy, and working with\n  structured and unstructured data.\n- Familiarity with MLOps tools (Docker, Kubernetes, MLflow,\n  Airflow) is a plus.\n- Experience with cloud platforms (AWS, Azure, or GCP)\n  preferred.\n\nTech Stack\n\n- Programming & ML Frameworks\n- Python\n- TensorFlow\n- PyTorch\n- scikit-learn\n- XGBoost / LightGBM (common in practical ML pipelines)\n- Data & Analytics\n- NumPy, Pandas\n- SQL\n- Jupyter Notebooks\n- Data preprocessing & feature engineering tools\n- Cloud / Infrastructure\n- AWS (S3, SageMaker, Lambda, ECS)\n- Azure (ML Studio, Blob Storage)\n- GCP (AI Platform, BigQuery)\n- (Any of the three—whichever the client prefers)\n- Version Control & CI/CD\n- Git / GitHub / GitLab\n- Jenkins, GitHub Actions, or GitLab CI\n\n- Development & Experimentation Tools\n- TensorBoard\n- Weights & Biases (W&B) or Neptune.ai\n- ONNX (optional but common for deployment/optimization)\n- Other Useful Skills (common for telecom/edge AI)\n- Experience with edge AI model optimization (TensorRT,\n  CoreML, TFLite)\n",
+  "skills_required": [
+    "CoreML",
+    "Jupyter Notebooks",
+    "LightGBM",
+    "PyTorch",
+    "TFLite",
+    "TensorFlow",
+    "XGBoost",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and fine-tune machine learning algorithms for device and service features",
+    "Conduct experiments, evaluate model performance, and suggest improvements",
+    "Lead and collaborate with engineers to implement production-ready AI solutions",
+    "Document processes and results for scalability",
+    "Work with structured and unstructured data for model training",
+    "Deploy ML models to edge devices and cloud infrastructure"
+  ],
+  "use_cases": [
+    "Intelligent systems powering features across telecommunications devices and services",
+    "Edge AI model optimization for mobile/telecom hardware",
+    "Real-world ML applications impacting millions of users in the telecom sector",
+    "Production ML pipelines for device-level inference"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "BigQuery",
+    "Docker",
+    "GCP",
+    "Git",
+    "GitHub",
+    "GitHub Actions",
+    "GitLab",
+    "Jenkins",
+    "Kubernetes",
+    "MLflow",
+    "NumPy",
+    "ONNX",
+    "Pandas",
+    "SQL",
+    "SageMaker",
+    "TensorBoard",
+    "TensorRT",
+    "Weights & Biases"
+  ],
+  "frameworks_mentioned": [
+    "CoreML",
+    "LightGBM",
+    "PyTorch",
+    "TFLite",
+    "TensorFlow",
+    "XGBoost",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on designing, training, and deploying\ntraditional machine learning models (TensorFlow, PyTorch,\nscikit-learn, XGBoost) for a telecommunications client.\nThere is no mention of LLMs, agents, RAG, or GenAI tools.\nThe emphasis is on classical ML/DL model development and\nedge AI optimization, making it ml-first.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "XGBoost",
+      "LightGBM",
+      "CoreML",
+      "TFLite"
+    ],
+    "web": [],
+    "databases": [
+      "SQL",
+      "BigQuery"
+    ],
+    "data": [
+      "NumPy",
+      "Pandas",
+      "Airflow"
+    ],
+    "cloud": [
+      "AWS",
+      "SageMaker",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Jenkins",
+      "GitHub Actions",
+      "TensorBoard",
+      "Weights & Biases",
+      "ONNX",
+      "TensorRT",
+      "Docker",
+      "Kubernetes",
+      "MLflow"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Jupyter Notebooks"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

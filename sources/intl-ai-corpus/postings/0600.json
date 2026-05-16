@@ -1,0 +1,99 @@
+{
+  "job_id": "intl-ai-corpus-0600",
+  "source": "intl-ai-corpus",
+  "source_ref": "8277537",
+  "source_url": "https://builtin.com/job/software-engineer-ai-enabled-product-autonomy/8277537",
+  "title": "Software Engineer — AI-Enabled Product Autonomy",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PostHog",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "60 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "Product analytics and business operating system",
+  "industries": [
+    "Software",
+    "Analytics"
+  ],
+  "description": "Help us to increase the number of successful products in the\nworld!\n\n- 🌍 Location: We are full-remote and globally distributed! Our\n  current team is distributed between GMT-8 and GMT+2, so we\n  currently only hire in these timezones.\n- 🎤 Interview process: 1) Call with one of our Talent\n  Partners, 2) 60min technical interview, and 3) 15min call\n  with a co-founder, 4) PostHog SuperDay (paid day of work).\n  Read more about our interview process.\n- 🖥️ Team: New team, Twig - with Peter\n- 💰 Compensation: Please check our compensation calculator.\n- 🦔 Read more about how we hire and how we think about\n  diversity & inclusion.\n\nAbout PostHog\n\nWe're shipping every product that companies need to run\ntheir business from their first day, to the day they IPO,\nand beyond. The operating system for folks who build\nsoftware.\n\nWe started with open-source product analytics, launched out\nof Y Combinator's W20 cohort. We've since shipped more than\na dozen products, including:\n\n- A built-in data warehouse, so users can query product and\n  customer data together using custom SQL insights.\n- A customer data platform, so they can send their data\n  wherever they need with ease.\n- PostHog AI, an AI-powered analyst that answers product\n  questions, helps users find useful session recordings, and\n  writes custom SQL queries.\n\nNext on the roadmap are CRM, Workflow, revenue analytics,\nand support products. When we say every product that\ncompanies need to run their business, we really mean it!\n\nWe are:\n\n- Product-led. More than 100,000 companies have installed\n  PostHog, mostly driven by word-of-mouth. We have intensely\n  strong product-market fit.\n- Default alive. Revenue is growing 10% MoM on average, and\n  we're very efficient. We raise money to push ambition and\n  grow faster, not to keep the lights on.\n- Well-funded. We've raised more than $100m from some of the\n  world's top investors. We're set up for a long, ambitious\n  journey.\n\nWe're focused on building an awesome product for end users,\nhiring exceptional teammates, shipping fast, and being as\nweird as possible.\n\nThings we care about\n\n- Transparency: Everyone can read about our roadmap, how we\n  pay (or even let go of) people, our strategy, and how we\n  work, in our public company handbook. Internally, we share\n  revenue, notes and slides from board meetings, and\n  fundraising plans, so everyone has the context they need\n  to make good decisions.\n- Autonomy: We don’t tell anyone what to do. Everyone chooses\n  what to work on next based on what's going to have the\n  biggest impact on our customers, and what they find\n  interesting and motivating to work on. Engineers lead\n  product teams and make product decisions. Teams are\n  flexible and easy to change when needed.\n- Shipping fast: Why not now? We want to build a lot of\n  products; we can't do that shipping at a normal pace.\n  We've built the company around small teams – autonomous,\n  highly-efficient groups of cracked engineers who can\n  outship much larger companies because they own their\n  products end-to-end.\n- Time for building: Nothing gets shipped in a meeting. We're\n  a natively remote company. We default to async\n  communication – PRs > Issues > Slack. Tuesdays and\n  Thursdays are meeting-free days, and we prioritize heads\n  down building time over perfect coordination. This will be\n  the most productive job you've ever had.\n- Ambition: We want to solve big problems. We strongly believe\n  that aiming for the best possible upside, and sometimes\n  missing, is better than never trying. We're optimistic\n  about what's possible and our ability to get there.\n- Being weird: Weird means redesigning an already world-class\n  website for the 5th time. It means shipping literally\n  every product that relates to customer data. It means\n  building an objectively unnecessary developer toy with\n  dubious shareholder value. Doing weird stuff is a\n  competitive advantage. And it's fun.\n\nWho we're looking for\n\nYou'll join the Twig team, which is building an AI-enabled\nproduct development loop to achieve \"product autonomy\". Our\nvision is to replace the current human-driven cycle with an\nAI-first workflow. We're creating a desktop app alternative\nto IDEs, designed as an agentic development environment.\nThis means orchestrating multiple AI agents (not just\nstateless coding assistants) and enriching them with PostHog\nproduct data. You'll scale the language model gateway to\nhandle 10K–100K requests/second, ensuring low latency and\nhigh reliability. You'll build and optimize coding sandboxes\nfor AI agents, enabling safe, isolated execution of\ngenerated code. You'll contribute to the AI-first product\ndevelopment loop, from analysis to auto-merge, with a focus\non robustness and scalability.\n\nYou'll fit right in if\n\n- You're a backend-focused builder. You have professional\n  experience with Python and TypeScript, and you're open to\n  other languages (no tech stack zealotry here)\n- You thrive in scale-up environments. You've experienced the\n  journey from unicorn to decacorn growth and understand the\n  real challenges of scaling (not just Big Tech\n  abstractions)\n- You love solving hard problems. Whether it's optimizing\n  gateway performance or designing sandboxing systems,\n  you're driven by impact\n- You believe in engineering-led decision-making. You want to\n  work where engineering and product teams function as one\n  unified unit\n- You're excited about AI-enabled autonomy. You'll help build\n  the infrastructure that powers AI analysis, coding, and\n  review, and ultimately, auto-merged features\n\nIf you have a disability, please let us know if there's any\nway we can make the interview process better for you - we're\nhappy to accommodate!\n\n#LI-DNI\n",
+  "skills_required": [
+    "OpenAI/Anthropic APIs",
+    "agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build an AI-enabled product development loop achieving product autonomy through AI-first workflows",
+    "Create a desktop app alternative to IDEs as an agentic development environment with multiple AI agents",
+    "Scale the language model gateway to handle 10K-100K requests per second with low latency and high reliability",
+    "Build and optimize coding sandboxes for AI agents enabling safe, isolated code execution",
+    "Orchestrate multiple stateful AI agents enriched with PostHog product data",
+    "Develop the end-to-end AI product development pipeline from analysis to auto-merge features"
+  ],
+  "use_cases": [
+    "Agentic development environment that replaces human-driven product development cycles with AI-first workflows",
+    "Multiple autonomous AI agents that perform product analysis, coding, and review tasks",
+    "Desktop app alternative to traditional IDEs for AI-powered software development",
+    "Auto-merged features generated by AI agents with robustness and scalability",
+    "AI-powered analyst using PostHog product data to answer product questions and write SQL queries",
+    "Isolated execution environment for AI-generated code ensuring safety and reliability"
+  ],
+  "tools_mentioned": [
+    "LLM gateway",
+    "inference/serving"
+  ],
+  "frameworks_mentioned": [
+    "OpenAI/Anthropic APIs",
+    "agents"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is building an AI-first product development loop\nwith agentic development environments, orchestrating\nmultiple AI agents for autonomous software development. The\nengineer will directly build and optimize the infrastructure\nfor AI agents, including LLM gateways handling 10K-100K\nrequests/second and coding sandboxes for generated code\nexecution. This is hands-on work implementing AI/ML systems,\nnot supporting other AI practitioners.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI/Anthropic APIs",
+      "agents"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "LLM gateway",
+      "inference/serving"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

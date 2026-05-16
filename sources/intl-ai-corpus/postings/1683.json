@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-1683",
+  "source": "intl-ai-corpus",
+  "source_ref": "8575029",
+  "source_url": "https://builtin.com/job/ai-llm-engineer-python-london-243/8575029",
+  "title": "AI / LLM Engineer (Python) - London (243)",
+  "title_normalized": "GENAI_LLM_ENGINEER",
+  "company": "Maven Securities",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "314 Employees",
+  "company_stage": "Public",
+  "company_focus": "Proprietary trading firm for derivatives",
+  "industries": [
+    "Financial Services",
+    "Quantitative Trading"
+  ],
+  "description": "AI / LLM Engineer (Python)\n\nMaven is a market-leading proprietary trading firm\nallocating internal capital across discretionary,\nsystematic, and market-making strategies. Our collective\nexpertise spans traders, engineers, and technologists,\nunified by an unwavering dedication to enhance our\nefficiency as a premier liquidity provider for globally\nlisted derivatives. Our engineering teams design and build\ngroundbreaking execution, pricing, and data systems that\nelevate and improve how financial markets operate.\n\nJob Summary\n\nAs an AI Engineer you will be part of a small team\nresponsible for the design, implementation, and optimization\nof AI workflows, as well as managing the organization’s AI\ninfrastructure. The role will involve working closely with\nteams across the organisation to deliver robust, scalable,\nand effective AI solutions that support key business\nobjectives. As an AI Engineer you are also expected to stay\nabreast of the rapidly evolving landscape of large language\nmodels (LLMs) and related AI technologies, applying this\nknowledge to drive innovation and best practices throughout\nthe company.\n\nKey Responsibilities\n\n- AI Workflow Implementation: Work with business and IT\n  stakeholders to identify and scope use cases for\n  application of AI across the firm. Deliver technical\n  solutions to implement the identified AI use cases.\n  Provide support and maintenance.\n- Infrastructure Evaluation: Analyse current AI infrastructure\n  and deliver improvements in internal platforms, end user\n  applications and tools.\n- Cross-Department Collaboration & Training: Provide training,\n  guidance, and support to stakeholders in all departments\n  to facilitate understanding and adoption of AI systems.\n  Work closely with product, engineering, and business units\n  to integrate AI solutions into business processes.\n- LLM & Industry Awareness: Stay current with advancements in\n  large language models (LLMs) and emerging AI technologies.\n  Evaluate and recommend adoption or integration of new\n  models, frameworks, or tools as appropriate.\n- Documentation & Best Practices: Maintain clear documentation\n  on workflows, infrastructure decisions, and operational\n  procedures. Champion best practices in reproducibility,\n  scalability, and security.\n- Performance & Cost Optimization: Assess and optimize AI\n  workloads for performance and cost-effectiveness across\n  different infrastructure options.\n\nThe Skills you will have\n\n- Excellent Python skills, with significant experience\n  designing, developing, testing, and deploying complex and\n  robust production systems\n- Solid experience using LLMs\n- Very strong business communication skills and the ability to\n  present information clearly and concisely\n- Enthusiasm to rapidly learn new technologies and skills\n- An efficient and diligent approach with a strong attention\n  to detail\n- The ability to solve new and unfamiliar problems quickly and\n  creatively\n- An interest in trading and finance\n\nIdeal experience will include\n\n- Deploying and managing key AI OSS projects such as LiteLLM,\n  OpenWebUI, LibreChat, in a production environment\n- Integrating LLMs in production systems\n- Software engineering best practices for regression and\n  integration testing\n- Knowledge of tokenization, RAG, one-shot prompting, prompt\n  engineering\n- Containerisation and orchestration techniques (Docker,\n  Kubernetes)\n- Knowledge of financial markets & securities, especially\n  equities and options\n\nWe pride ourselves on being able to rapidly deliver well-\nengineered software into production. You will be able to see\nthe impact of your work immediately and will be in a unique\nposition to have a direct impact on trading revenue. We make\nextensive use of automated testing and peer code review to\nensure quality and maintainability while keeping time-to-\nmarket short.\n\nWHAT WE CAN OFFER YOU\n\n- Competitive compensation\n- Group Pension plan\n- Annual discretionary bonus\n- Fully catered breakfast, lunch and snacks.\n- 25 days’ annual leave\n- Informal dress code\n- Private healthcare and life assurance\n- Cycle-to-work scheme\n- Monthly company events\n- Private Gym\n",
+  "skills_required": [
+    "LLMs",
+    "LibreChat",
+    "LiteLLM",
+    "OpenWebUI",
+    "Prompt Engineering",
+    "RAG",
+    "Tokenization"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and optimize AI workflows across the firm",
+    "Manage and improve the organization's AI infrastructure and platforms",
+    "Collaborate with business and IT stakeholders to identify and scope AI use cases",
+    "Provide training and guidance to stakeholders on AI system adoption",
+    "Evaluate and recommend new LLMs, frameworks, and tools for integration",
+    "Maintain documentation and champion best practices for reproducibility and security",
+    "Optimize AI workloads for performance and cost-effectiveness"
+  ],
+  "use_cases": [
+    "AI-powered solutions for trading and market-making strategies",
+    "Large language model integration for financial data analysis",
+    "RAG-based systems for knowledge retrieval across trading operations",
+    "AI workflows supporting business process automation",
+    "Internal platforms and tools for AI model deployment and serving"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "LibreChat",
+    "LiteLLM",
+    "OpenWebUI",
+    "Prompt Engineering",
+    "RAG",
+    "Tokenization"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "GENAI_LLM_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work with LLMs including\ndeploying and managing AI OSS projects (LiteLLM, OpenWebUI,\nLibreChat), integrating LLMs into production systems, and\nimplementing AI workflows using RAG, prompt engineering, and\ntokenization. This is direct work building and deploying AI\nsolutions rather than just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "Prompt Engineering",
+      "Tokenization",
+      "LiteLLM",
+      "OpenWebUI",
+      "LibreChat"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

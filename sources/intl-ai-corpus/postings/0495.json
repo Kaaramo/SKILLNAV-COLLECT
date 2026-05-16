@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-0495",
+  "source": "intl-ai-corpus",
+  "source_ref": "8167425",
+  "source_url": "https://builtin.com/job/ai-ml-solutions-engineer/8167425",
+  "title": "AI / ML Solutions Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Anyscale",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-10",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "115 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Distributed computing platform for scalable AI/ML",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "About Anyscale\n\nAt Anyscale, we're on a mission to democratize distributed\ncomputing and make it accessible to software developers of\nall skill levels. We’re commercializing Ray, a popular open-\nsource project that's creating an ecosystem of libraries for\nscalable machine learning. Companies like OpenAI, Uber,\nSpotify, Instacart, Cruise, and many more, have Ray in their\ntech stacks to accelerate the progress of AI applications\nout into the real world.\n\nWith Anyscale, we’re building the best place to run Ray, so\nthat any developer or data scientist can scale an ML\napplication from their laptop to the cluster without needing\nto be a distributed systems expert.\n\nProud to be backed by Andreessen Horowitz, NEA, and Addition\nwith $250+ million raised to date.\n\nAbout the role\n\nWe are looking for an AI / ML Solutions Engineer to join\nAnyscale’s Professional Services team and work directly with\ncustomers to design, implement, and scale machine learning\nand AI workloads using Ray and Anyscale.\n\nThis role is ideal for a hands-on Machine Learning Engineer\nor MLOps Engineer who enjoys solving real-world production\nproblems alongside customer teams. You will guide customers\nthrough architectural decisions, application refactors, and\noperational best practices as they adopt Ray for distributed\ntraining, data processing, inference, and ML workflows.\n\nIn addition to implementation work, you’ll play a key role\nin enabling customer ML and MLOps teams—helping them\nunderstand why architectural changes are needed and how to\nsuccessfully operate Ray-based systems in production.\n\nWhat You’ll Do\n\nCustomer Delivery & Implementation\n\n- Implement production AI / ML workloads using Ray and\n  Anyscale, such as:\n  - Distributed model training\n  - Scalable inference and serving\n  - Data preprocessing and feature pipelines\n- Work hands-on with customer codebases to refactor or adapt\n  existing workloads to Ray\n\nArchitecture & Technical Guidance\n\n- Advise customers on ML system architecture, including:\n  - Application design for distributed execution\n  - Resource management and scaling strategies\n  - Reliability, fault tolerance, and performance tuning\n- Guide customers through architectural and operational\n  changes required to adopt Ray and Anyscale effectively\n\nMLOps Enablement\n\n- Partner with customer MLE and MLOps teams to integrate Ray\n  into existing platforms and workflows\n- Support CI/CD, monitoring, retraining, and operational best\n  practices\n- Help customers transition from experimentation to\n  production-grade ML systems\n\nTechnical Enablement & Knowledge Transfer\n\n- Enable customer teams through working sessions, design\n  reviews, training delivery, and hands-on guidance\n- Contribute feedback from the field to product, engineering,\n  and education teams\n- Help develop reference architectures, examples, and best\n  practices based on real customer use cases\n\nWhat We’re Looking For\n\nRequired Experience\n\n- 5+ years of experience as a Machine Learning Engineer, MLOps\n  Engineer, or ML Systems Engineer\n- Strong proficiency in Python and experience building\n  production ML systems\n- Hands-on experience with distributed systems or scalable ML\n  frameworks (Ray, Spark, Dask, Kubernetes, etc.)\n- Experience with one or more of:\n  - Distributed training (multi-node / multi-GPU)\n  - Model serving and scalable inference\n  - Data pipelines and workflow orchestration\n- Comfort working directly with customers in a consultative,\n  problem-solving role\n- Strong communication skills and ability to explain technical\n  tradeoffs clearly\n\nPreferred Experience\n\n- Experience supporting or deploying ML platforms or internal\n  ML infrastructure\n- Familiarity with cloud environments (AWS, GCP, Azure)\n- Exposure to MLOps tooling (MLflow, Airflow, Dagster,\n  Kubeflow, etc.)\n- Prior experience in Professional Services, Consulting, or\n  Customer Engineering roles\n\nWhy Join Anyscale Professional Services\n\n- Work directly on real-world AI / ML systems at scale\n- Partner with leading ML teams across industries\n- Influence how Ray and Anyscale are adopted in production\n  environments\n- Combine deep engineering work with customer impact\n- Competitive compensation, equity, and flexible remote work\n\nAnyscale Inc. is an Equal Opportunity Employer. Candidates\nare evaluated without regard to age, race, color, religion,\nsex, disability, national origin, sexual orientation,\nveteran status, or any other characteristic protected by\nfederal or state law.\n\nAnyscale Inc. is an E-Verify company and you may review the\nNotice of E-Verify Participation and the Right to Work\nposters in English and Spanish\n",
+  "skills_required": [
+    "Distributed training"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement production AI/ML workloads using Ray and Anyscale including distributed training, scalable inference, and data preprocessing",
+    "Work hands-on with customer codebases to refactor existing workloads for distributed execution on Ray",
+    "Advise customers on ML system architecture, resource management, scaling strategies, and performance tuning",
+    "Partner with customer MLE and MLOps teams to integrate Ray into existing platforms and workflows with CI/CD and monitoring support",
+    "Enable customer teams through working sessions, design reviews, training delivery, and hands-on guidance",
+    "Contribute field feedback to product and engineering teams and develop reference architectures and best practices"
+  ],
+  "use_cases": [
+    "Distributed model training across multi-node and multi-GPU environments",
+    "Scalable model inference and serving for production ML workloads",
+    "Data preprocessing and feature pipelines at scale",
+    "ML workflow orchestration and operational best practices",
+    "MLOps platform integration including CI/CD, monitoring, and retraining pipelines"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "CI/CD",
+    "Dagster",
+    "Dask",
+    "Data pipelines",
+    "GCP",
+    "Kubeflow",
+    "Kubernetes",
+    "MLOps",
+    "MLflow",
+    "Model serving",
+    "Ray",
+    "Spark"
+  ],
+  "frameworks_mentioned": [
+    "Distributed training"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Solutions Engineer role focused on implementing\nRay/Anyscale platform infrastructure for customers. While\nthe work involves AI/ML workloads, the role is primarily\nabout enabling distributed computing infrastructure, MLOps\npipelines, and platform integration rather than directly\nbuilding, training, or fine-tuning models. The engineer\nimplements and scales workloads ON Anyscale's infrastructure\nbut doesn't work directly ON the AI models themselves.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "Distributed training"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Ray",
+      "Spark",
+      "Dask",
+      "Data pipelines"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Kubernetes",
+      "MLflow",
+      "Airflow",
+      "Dagster",
+      "Kubeflow",
+      "Model serving",
+      "CI/CD",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

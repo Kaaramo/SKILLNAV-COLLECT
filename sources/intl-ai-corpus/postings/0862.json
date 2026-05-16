@@ -1,0 +1,101 @@
+{
+  "job_id": "intl-ai-corpus-0862",
+  "source": "intl-ai-corpus",
+  "source_ref": "7470703",
+  "source_url": "https://builtin.com/job/ai-enablement-engineer/7470703",
+  "title": "AI Enablement Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cognition",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "49 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Applied AI lab building software agents and AI development\ntools",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "We are an applied AI lab building end-to-end software\nagents.\n\nWe're the makers of Devin, the first AI software engineer,\nand Windsurf, the AI-native IDE. Together, they represent\nour vision for collaborative AI teammates that enable\nengineers to focus on more interesting problems and empower\nteams to strive for more ambitious goals.\n\nOur team is small and talent-dense. Among our founding team,\nwe have world-class competitive programmers, former\nfounders, and leaders from companies at the cutting edge of\nAI including Scale AI, Palantir, Cursor, Waymo, Tesla,\nLunchclub, Modal, Google DeepMind, and Nuro.\n\nBuilding Devin and Windsurf is just the first step—our\nhardest challenges still lie ahead. If you’re excited to\nsolve some of the world’s biggest problems and build AI that\ncan reason on real-world tasks, apply to join us.\n\nAbout the Role\n\nCognition’s AI Enablement Engineers help teams adopt Devin\nand integrate agentic workflows into their day-to-day\ndevelopment. They combine deep technical expertise,\nconsulting intuition, and a teacher’s mindset to guide teams\nthrough real work—building software alongside them while\nteaching how to use Devin to do the same.\n\nAs one of the first AI Enablement Engineers, you’ll also\nplay a key role in shaping how the program scales\nglobally—turning individual training engagements into\nrepeatable playbooks, digital learning content, and partner-\ndriven enablement models that allow Cognition to reach\nhundreds of thousands of engineers worldwide. You’ll help\ndefine how AI Enablement becomes a product in itself:\nstructured, measurable, and continuously improving in\nimpact.\n\nThis role is perfect for someone who has strong engineering\nfundamentals, enjoys working directly with customers, and\nfinds deep satisfaction in teaching others and unlocking\ntheir potential—while also thinking systematically about how\nto scale those learnings to the next 100 teams.\n\nIn this role, you will:\n\n- Lead interactive programs for enterprise engineering teams\n  (live workshops, pair programming sessions)\n- Guide customers through installing, configuring, and\n  optimizing Devin and its associated tools (DeepWiki, MCP\n  integrations, etc.)\n- Pair-program with engineers at varying experience levels,\n  helping them build, debug, and automate real projects\n- Identify high-ROI workflows for Devin across engineering,\n  QA, support, data, and product teams\n- Create enablement materials, best practices, and shared\n  playbooks based on customer learnings\n- Work with leadership to scale AI Enablement into a\n  repeatable and productized offering—through digital\n  learning content, partner certifications, and scalable\n  training models\n- Collaborate with Cognition Engagement Managers and\n  Engineering teams to continuously refine onboarding and\n  provide feedback on new features\n\nRequirements for the Role:\n\n- Degree in a STEM field or equivalent hands-on experience\n- 3+ years as a software engineer or technical consultant with\n  strong coding proficiency (Python, JavaScript/TypeScript,\n  or similar)\n- Proven ability to communicate complex technical topics to\n  diverse audiences\n- Strong customer-service orientation and ability to thrive in\n  interactive, people-facing environments\n- Excellent verbal and written communication skills\n- Demonstrated ability to learn and adapt exceptionally fast\n\nYou might excel if you…\n\n- Have experience leading technical workshops, internal\n  enablement programs, or developer onboarding initiatives\n- Have deployed or integrated LLM or agent-based systems in\n  production settings\n- Are energized by teaching, coaching, and helping others\n  reach “aha” moments\n- Have previously founded or joined early-stage startups where\n  autonomy and execution speed were critical\n",
+  "skills_required": [
+    "DeepWiki",
+    "LLM integration",
+    "MCP",
+    "agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead interactive programs for enterprise engineering teams including live workshops and pair programming sessions",
+    "Guide customers through installing, configuring, and optimizing Devin and associated tools like DeepWiki and MCP integrations",
+    "Pair-program with engineers at varying experience levels to help them build, debug, and automate real projects",
+    "Identify high-ROI workflows for Devin across engineering, QA, support, data, and product teams",
+    "Create enablement materials, best practices, and shared playbooks based on customer learnings",
+    "Collaborate with leadership to scale AI Enablement into a repeatable productized offering through digital learning and partner certifications",
+    "Work with Engagement Managers and Engineering teams to refine onboarding and provide feedback on new features"
+  ],
+  "use_cases": [
+    "AI software engineering agents that can build end-to-end software",
+    "AI-native IDEs for collaborative development workflows",
+    "Agentic workflows integrated into day-to-day development processes",
+    "Automated coding, debugging, and project assistance for engineering teams",
+    "Knowledge management through DeepWiki and tool integrations via MCP",
+    "Scalable AI adoption and enablement programs for enterprise engineering organizations"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "LLM integration",
+    "MCP",
+    "agents"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Forward Deployed/Enablement Engineer role that\nhelps customers adopt AI tools (Devin, Windsurf) and\nintegrate agentic workflows. The engineer teaches others to\nuse AI systems and provides infrastructure enablement rather\nthan building, training, or fine-tuning the AI models\nthemselves.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP",
+      "agents",
+      "LLM integration"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": [
+      "DeepWiki"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

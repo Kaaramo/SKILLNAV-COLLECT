@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-2170",
+  "source": "intl-ai-corpus",
+  "source_ref": "8787567",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer/8787567",
+  "title": "Senior AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Abstrabit Technologies",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-18",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "12 Employees",
+  "company_stage": null,
+  "company_focus": "Building intelligent AI agents for customer engagement,\nsales automation, knowledge management and workflow\noptimization",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning"
+  ],
+  "description": "Company Description\n\nWe specialize in building intelligent AI agents that\ntransform the way businesses operate. Our focus is on\ndesigning AI-driven solutions tailored to real-world use\ncases across industries – from customer engagement and sales\nautomation to knowledge management and workflow\noptimization.\n\nJob Description\n\nJob Overview We are seeking a highly skilled Senior AI\nEngineer specializing in agent-based systems and advanced AI\narchitectures. The ideal candidate will have deep expertise\nin designing scalable, production-grade multi-agent systems,\nimplementing advanced reasoning capabilities, and building\nrobust, secure, and intelligent AI solutions.\n\nKey Responsibilities:\n\nArchitecture & System Design\n\n- Designing multi-agent architectures (supervisor,\n  hierarchical, collaborative patterns)\n- Building fault-tolerant, production-grade agent systems with\n  error recovery, fallback strategies, and human-in-the-loop\n  escalation\n- Architecting scalable RAG systems (hybrid search, query\n  decomposition, agentic retrieval)\n- Designing agent evaluation and benchmarking frameworks from\n  scratch\n- Security and safety patterns for autonomous agents\n  (sandboxing, permission scoping, content filtering)\n\nAdvanced Agent Capabilities\n\n- Complex workflow orchestration — agents that plan, delegate,\n  self-correct, and iterate\n- Multi-modal agent development (vision, audio, document\n  understanding)\n- Implementing advanced reasoning patterns (ReAct, reflection,\n  tree-of-thought, self-critique loops)\n- Building custom tool ecosystems — MCP servers, plugin\n  architectures, dynamic tool selection\n- Knowledge graph integration and structured knowledge\n  management for agents\n- Fine-tuning and distillation of models for domain-specific\n  agent behaviors\n\nQualifications\n\nRequired Qualifications\n\n- Bachelor’s or Master’s degree in Computer Science,\n  Artificial Intelligence, or a related field\n- 2- 5 years of experience in AI/ML engineering, with a focus\n  on LLMs or agent-based systems\n- Strong experience in system design and scalable architecture\n- Proficiency in Python and modern AI frameworks\n- Hands-on experience with RAG pipelines and vector databases\n- Familiarity with model fine-tuning, evaluation, and\n  deployment\n\nAdditional Information\n\nWhy Join Us\n\n- Work on cutting-edge AI agent technologies\n- Opportunity to design next-generation intelligent systems\n- Collaborative and innovation-driven environment\n",
+  "skills_required": [
+    "LangChain",
+    "LangGraph",
+    "MCP servers",
+    "Model distillation",
+    "Model fine-tuning",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG",
+    "ReAct reasoning",
+    "System design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design multi-agent architectures including supervisor, hierarchical, and collaborative patterns",
+    "Build fault-tolerant production-grade agent systems with error recovery, fallback strategies, and human-in-the-loop escalation",
+    "Architect scalable RAG systems with hybrid search, query decomposition, and agentic retrieval",
+    "Design agent evaluation and benchmarking frameworks from scratch",
+    "Implement advanced reasoning patterns including ReAct, reflection, tree-of-thought, and self-critique loops",
+    "Develop multi-modal agents with vision, audio, and document understanding capabilities",
+    "Build custom tool ecosystems including MCP servers, plugin architectures, and dynamic tool selection",
+    "Fine-tune and distill models for domain-specific agent behaviors"
+  ],
+  "use_cases": [
+    "Customer engagement automation",
+    "Sales automation",
+    "Knowledge management",
+    "Workflow optimization",
+    "Document understanding and processing",
+    "Multi-modal AI applications"
+  ],
+  "tools_mentioned": [
+    "Knowledge graphs",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LangGraph",
+    "MCP servers",
+    "Model distillation",
+    "Model fine-tuning",
+    "Multi-agent systems",
+    "Prompt engineering",
+    "RAG",
+    "ReAct reasoning"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building, designing, and\ndeploying AI agent systems. Key responsibilities include\ndesigning multi-agent architectures, implementing advanced\nreasoning patterns, fine-tuning models, and building\nproduction-grade AI agent solutions with RAG systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "Multi-agent systems",
+      "MCP servers",
+      "ReAct reasoning",
+      "Prompt engineering"
+    ],
+    "ml": [
+      "Model fine-tuning",
+      "Model distillation"
+    ],
+    "web": [],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [
+      "Knowledge graphs"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "System design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

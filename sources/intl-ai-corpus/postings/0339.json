@@ -1,0 +1,150 @@
+{
+  "job_id": "intl-ai-corpus-0339",
+  "source": "intl-ai-corpus",
+  "source_ref": "7789643",
+  "source_url": "https://builtin.com/job/principal-ai-software-engineer-enterprise-ai-platform/7789643",
+  "title": "Principal AI Software Engineer, Enterprise AI Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Natera",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-14",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,721 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cell-free DNA testing for genetic diagnostics and\npersonalized medicine",
+  "industries": [],
+  "description": "Role Overview\n\nThe Enterprise AI Platform Engineer is responsible for build\nand delivery of Natera’s enterprise agentic AI platform. The\nenterprise AI platform will be used to prototype and build\nmultiple agentic AI solutions using low code across Natera\nin a federated approach.This is a hands-on technical\nleadership role at the intersection of engineering\nexcellence, low code platform design, and applied GenAI\nengineering.\n\nYou will architect and build the core AI operating system\nthat powers modular, low-code  enterprise AI agentic\nautomation that is complete with agent templates, agent\norchestration engine, data and MCP connectors, prompt\noptimization capabilities, evaluation guardrails, abstracted\nAI services, intelligent data extraction and reasoning\ncapabilities. The platform empowers citizen developers,\nbusiness analysts, and engineers to prototype and test AI-\npowered workflows using a low-code interface, while enabling\ndevelopers to extend functionality through a pro-code\nframework.\n\nKey Responsibilities Platform Architecture & Core\nInfrastructure\n\n- Design: Design and implement the core architecture of the\n  Enterprise AI Platform — low code, modular, scalable, and\n  secure.\n- Agentic Orchestration: Build the agent orchestration\n  runtime, including task queues, state management, and\n  inter-agent communication.\n- Complexity: Architect for long-running, resilient AI\n  workflows, enabling agents to execute and monitor multi-\n  step, asynchronous processes.\n- Low code abstraction: Develop APIs and services for\n  automation, evaluation, and agent lifecycle management.\n- Deployment: Establish DevOps, CI/CD pipelines, and\n  configuration management to ensure smooth deployment at\n  scale.\n\nLow-Code/Pro-Code Experience\n\n- Low-Code Interface: Build an intuitive visual builder that\n  allows business users to compose agent workflows through\n  drag-and-drop and configuration.\n- Pro-Code Mode: Provide a developer extension layer where\n  engineers can author and deploy agents in code (Python,\n  TypeScript) directly into the same framework.\n- Unified Runtime: Ensure both low-code and pro-code workflows\n  share common infrastructure for orchestration, evaluation,\n  and governance.\n- Transparency & Debugging: Surface workflow traces, model\n  evaluations, and output explanations directly in the user\n  interface.\n- Experimentation & Versioning: Support iterative\n  experimentation, evaluation-based comparison, and rollback\n  through integrated version control.\n\nAgentic Orchestration & Long-Running Agents\n\n- Orchestration Engine: Build a robust orchestration system\n  supporting both short-lived agent calls and long-running\n  AI agents that persist over time to automate complex\n  processes.\n- Workflow Automation: Enable orchestration of multiple agents\n  with shared state, scheduling, dependency resolution, and\n  event-driven execution.\n- Enterprise Integration: Connect agents to core enterprise\n  systems to perform real-world actions securely.\n- Autonomy & Resilience: Implement mechanisms for persistence,\n  checkpointing, recovery, and human-in-the-loop\n  interventions.\n- Human in the Loop Feedback: Design human-in-the-loop and\n  self-assessment mechanisms for continuous prompt and\n  workflow improvement.\n- Evaluation as a Core Layer: Architect an evaluation-first\n  framework for monitoring and improving AI agent\n  performance across all workflows.\n\nAI Services & Capabilities\n\n- MCP Integration: Integrate with Model Context Protocols\n  (MCPs) to enable plug-and-play connectivity with external\n  systems and actions.\n- Retrieval-Augmented Generation (RAG): Build services to\n  retrieve information from unstructured data using vector\n  databases and retrieval pipelines.\n- Prompt Optimization & Evaluation: Implement automated\n  systems for prompt tuning, evaluation, and feedback loops\n  to ensure reliable results.\n- Abstracted AI Services: Build modular APIs for AI services\n  such as unstructured document processing, information\n  retrieval, information summarization, data extraction,\n  content generation, classification etc.\n- Evaluation as a Core Layer: Architect an evaluation-first\n  framework for monitoring and improving AI agent\n  performance across all workflows.\n- Reusable Components: Create shared, composable AI primitives\n  (e.g., document loaders, semantic routers, extractors) to\n  accelerate workflow design.\n\nGovernance, Security & Observability\n\n- Enforce governance, security, and compliance principles\n  (SOC2, HIPAA, GDPR) across all platform operations.\n- Implement RBAC, audit logging, and lineage tracking for all\n  data and agent interactions.\n- Build observability tools for tracing, cost monitoring, and\n  system performance metrics.\n- Integrate evaluation-based guardrails that detect\n  hallucinations, bias, or policy violations in real time.\n- Metric Tracking: Create structured metrics dashboards\n  (precision, recall, task success rate, cost efficiency)\n  for every deployed agent.\n\nTechnical Leadership & Collaboration\n\n- Establish technical standards, documentation, and\n  engineering patterns for future platform development.\n- Collaborate with business stakeholders, data scientists, and\n  product teams to identify automation use cases and measure\n  ROI via evaluation metrics.\n- Mentor future engineers and contribute to an engineering\n  culture centered on safety, transparency, and impact.\n- Continuously explore emerging agent frameworks, vector\n  stores, and evaluation methodologies.\n\nQualifications\n\nRequired\n\n- 12+ years of software engineering experience, with 8+ years\n  in platform or distributed systems architecture.\n- Proven expertise in implementing workflow orchestration or\n  automation systems\n- Proficiency in Python with deep experience in backend\n  architecture and API design.\n- Experience with low-code/no-code automation platforms\n  (Zapier, n8n etc.), internal developer platforms (IDPs),\n  or workflow engines (Temporal, Airflow).\n- Experience in working with well known agentic cloud\n  platforms (e.g. AWS Bedrock agents, AgentCore etc.).\n- Hands-on experience with LLMs, RAG, vector databases, and\n  orchestration frameworks (LangChain, LlamaIndex, AutoGen,\n  DSPy).\n- Fluency in cloud infrastructure, Kubernetes, Docker, and\n  CI/CD automation.\n- Knowledge of observability and telemetry systems for event-\n  driven environments.\n- Familiarity with AI governance and evaluation frameworks,\n  LLM safety, drift detection, bias detection,\n  hallucination, explainability, and compliance (e.g.,\n  HIPAA, CLIA, FDA).\n\nPreferred:\n\n- Advanced degree (MS/PhD) in Computer Science, AI/ML,\n  engineering or related field.\n- Experience in healthcare, pharma, diagnostics, or other\n  regulated industries.\n\nThe pay range is listed and actual compensation packages are\nbased on a wide array of factors unique to each candidate,\nincluding but not limited to skill set, years & depth of\nexperience, certifications and specific office location.\nThis may differ in other locations due to cost of labor\nconsiderations.\n\nRemote USA\n\n$174,400—$218,000 USD\n\nOUR OPPORTUNITY\n\nNatera™ is a global leader in cell-free DNA (cfDNA) testing,\ndedicated to oncology, women’s health, and organ health. Our\naim is to make personalized genetic testing and diagnostics\npart of the standard of care to protect health and enable\nearlier and more targeted interventions that lead to longer,\nhealthier lives.\n\nThe Natera team consists of highly dedicated statisticians,\ngeneticists, doctors, laboratory scientists, business\nprofessionals, software engineers and many other\nprofessionals from world-class institutions, who care deeply\nfor our work and each other. When you join Natera, you’ll\nwork hard and grow quickly. Working alongside the elite of\nthe industry, you’ll be stretched and challenged, and take\npride in being part of a company that is changing the\nlandscape of genetic disease management.\n\nWHAT WE OFFER\n\nCompetitive Benefits - Employee benefits include\ncomprehensive medical, dental, vision, life and disability\nplans for eligible employees and their dependents.\nAdditionally, Natera employees and their immediate families\nreceive free testing in addition to fertility care benefits.\nOther benefits include pregnancy and baby bonding leave,\n401k benefits, commuter benefits and much more. We also\noffer a generous employee referral program!\n\nFor more information, visit www.natera.com.\n\nNatera is proud to be an Equal Opportunity Employer. We are\ncommitted to ensuring a diverse and inclusive workplace\nenvironment, and welcome people of different backgrounds,\nexperiences, abilities and perspectives. Inclusive\ncollaboration benefits our employees, our community and our\npatients, and is critical to our mission of changing the\nmanagement of disease worldwide.\n\nAll qualified applicants are encouraged to apply, and will\nbe considered without regard to race, color, religion,\ngender, gender identity or expression, sexual orientation,\nnational origin, genetics, age, veteran status, disability\nor any other legally protected status. We also consider\nqualified applicants regardless of criminal histories,\nconsistent with applicable laws.\n\nIf you are based in California, we encourage you to read\nthis important information for California residents.\n\nLink: https://www.natera.com/notice-of-data-collection-\ncalifornia-residents/\n\nPlease be advised that Natera will reach out to candidates\nwith a @natera.com email domain ONLY. Email communications\nfrom all other domain names are not from Natera or its\nemployees and are fraudulent. Natera does not request\ninterviews via text messages and does not ask for personal\ninformation until a candidate has engaged with the company\nand has spoken to a recruiter and the hiring team. Natera\ntakes cyber crimes seriously, and will collaborate with law\nenforcement authorities to prosecute any related cyber\ncrimes.\n\nFor more information:\n- BBB announcement on job scams\n- FBI Cyber Crime resource page\n",
+  "skills_required": [
+    "AutoGen",
+    "DSPy",
+    "GDPR",
+    "HIPAA",
+    "LangChain",
+    "LlamaIndex",
+    "MCP",
+    "RAG",
+    "RBAC",
+    "SOC2",
+    "agents",
+    "governance",
+    "low-code platforms",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement the core architecture of the Enterprise AI Platform including low-code interfaces, modular components, and secure infrastructure",
+    "Build the agent orchestration runtime with task queues, state management, inter-agent communication, and long-running workflow capabilities",
+    "Develop unified low-code and pro-code interfaces for agent workflow composition with shared runtime infrastructure",
+    "Implement AI services including RAG pipelines, vector database integrations, prompt optimization, and evaluation guardrails",
+    "Integrate Model Context Protocols (MCPs) and build enterprise system connectors for secure agent operations",
+    "Establish DevOps pipelines, observability tools, and governance frameworks including RBAC, audit logging, and compliance monitoring",
+    "Architect evaluation-first framework with automated monitoring, hallucination detection, bias detection, and performance metrics"
+  ],
+  "use_cases": [
+    "Agentic AI automation platform for enterprise workflow orchestration and task execution across multiple business domains",
+    "Low-code citizen developer platform enabling business users and analysts to prototype and deploy AI-powered workflows",
+    "Intelligent document processing including unstructured data extraction, summarization, classification, and information retrieval",
+    "Enterprise system integration connecting AI agents to core business systems for automated real-world actions and decision support",
+    "Healthcare and diagnostics automation with regulatory compliance (HIPAA, SOC2, GDPR) for genetic testing and patient data workflows"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "Airflow",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "Temporal",
+    "observability",
+    "telemetry",
+    "vector databases",
+    "workflow orchestration"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "DSPy",
+    "LangChain",
+    "LlamaIndex",
+    "MCP",
+    "RAG",
+    "agents",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building an enterprise agentic AI\nplatform with hands-on implementation of RAG systems, agent\norchestration engines, LLM integrations, and prompt\noptimization. The engineer will develop core AI services\nincluding vector database integrations, MCP connectors, and\nevaluation frameworks, which are core AI/ML engineering\ntasks rather than support functions.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "AutoGen",
+      "DSPy",
+      "RAG",
+      "agents",
+      "MCP",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "workflow orchestration",
+      "Temporal",
+      "Airflow"
+    ],
+    "cloud": [
+      "AWS Bedrock"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "observability",
+      "telemetry",
+      "Kubernetes",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "governance",
+      "HIPAA",
+      "SOC2",
+      "GDPR",
+      "RBAC",
+      "low-code platforms"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

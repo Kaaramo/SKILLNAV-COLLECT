@@ -1,0 +1,152 @@
+{
+  "job_id": "intl-ai-corpus-2500",
+  "source": "intl-ai-corpus",
+  "source_ref": "7750442",
+  "source_url": "https://builtin.com/job/senior-machine-learning-engineer-ai-enabler-team/7750442",
+  "title": "Senior Machine Learning Engineer - AI Enabler Team",
+  "title_normalized": "ML_ENGINEER",
+  "company": "CAST AI",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-15",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "325 Employees",
+  "company_stage": "Unicorn (valued over $1 billion, January 2026)",
+  "company_focus": "Autonomous cloud-native and AI infrastructure optimization\nplatform for Kubernetes",
+  "industries": [
+    "Big Data",
+    "Cloud",
+    "Software"
+  ],
+  "description": "Why Cast AI?\n\nCast AI is an automation platform that operates cloud-native\nand AI infrastructure at scale. By embedding autonomous\ndecision-making directly into Kubernetes and cloud\nenvironments, Cast AI continuously optimizes performance,\nreliability, and efficiency in production. The old way\ndoesn't work. As Kubernetes and AI environments grow, manual\ndecisions don’t. Cast AI replaces tickets, alerts, and\nmanual tuning with continuous automation that adapts\ninfrastructure as conditions change. Efficiency and cost\nsavings follow naturally from that automation. Over 2,100\ncompanies already rely on Cast AI, including Akamai, BMW,\nCisco, FICO, HuggingFace, NielsenIQ, Swisscom, and TGS.\nGlobal team, diverse perspectives\n\nWe're headquartered in Miami, but our impact is\ninternational. We take a global and intentional approach to\ndiversity. Today, Cast AI operates across 34 countries\nspanning Europe, North America, Latin America, and APAC,\nbringing a wide range of perspectives into how we build and\nlead. Unicorn momentum\n\nIn January 2026, we achieved unicorn status with a strategic\ninvestment from Pacific Alliance Ventures, the corporate\nventure arm of Shinsegae Group (a $50+ billion Korean\nconglomerate). Our valuation now exceeds $1 billion, and\nwe're just getting started.\n\nJoin us as we build the future of autonomous infrastructure.\n\nAbout the role\n\nIn the AI Enabler team, our day is usually full of R&D\nchallenges. Have you ever encountered a situation where you\nneed to expand your AI infrastructure so that the\napplications can automatically pick the right large language\nmodels (LLMs) that are both more cost-efficient and better\nperforming? Most of us probably do nowadays, or at least\nunderstand the complexity of making such decisions while\nkeeping track of our cloud budget.\n\nOne of the team's responsibilities is ensuring that whenever\na customer makes AI-related decisions regarding their K8s\ninfrastructure, they are implemented automatically without\nunnecessary costs or hassle. This is just one small piece of\na bigger puzzle. To get into a more detailed perspective,\nask yourself the following questions:\n\n- How often do you use LLMs?\n- What is the least expensive LLM you can pick for a given\n  prompt without degrading the quality of the response?\n- How much do your applications cost per 1 million tokens and\n  how can you improve it?\n- Which API keys have the biggest waste?\n- How can you improve your frequently running prompt to use\n  fewer tokens?\n- What is fine-tuning and how to do it efficiently?\n- What is a transformer?\n\nThese are just several of the many questions that are part\nof the daily work of this team.\n\nBeing a part of this team would involve design and decision-\nmaking end-to-end while collaborating with colleagues from\nother teams. Cast AI, being a technical product, encourages\nnot only coding something as written in the JIRA ticket but\nalso coming up with new features and potential solutions to\ncustomers' problems. Given that the team is working on a\ntechnical greenfield project, you will have the opportunity\nto impact it in many ways positively.\n\nHere are some of the tools we use daily:\n\n- Python\n- vLLM, SGLang, TensorRT, PyTorch\n- ClickHouse and PostgreSQL for persistence\n- GCP Pub/Sub for messaging\n- gRPC for internal communication\n- REST for public APIs\n- Kubernetes, which our product is evolving around\n- AWS, GCP, and Azure cloud providers, which are currently\n  supported in our platform\n- We use GitLab CI with ArgoCD as our GitOps CD engine\n- Prometheus, Grafana, Loki, and Tempo for observability.\n\nRequirements:\n\n- 5+ years of hands-on experience in Data Science and Machine\n  Learning, with a proven track record, demonstrated through\n  a robust portfolio of projects.\n- Strong software engineering skills in Python.\n- Ability to move fast in an environment where things are\n  sometimes loosely defined and may have competing\n  priorities or deadlines.\n- Expertise in ML inference optimizations, including\n  techniques such as:\n  - Reducing initialization time and memory requirements;\n  - Utilizing reduced precision and weight quantization;\n  - Inference engine tuning (vLLM, SGLang, TensorRT).\n- Knowledge of network optimization for distributed ML\n  training and inference.\n- Understanding of distributed training patterns and\n  checkpointing strategies.\n- You have to be physically in any of the European countries\n  GMT 0 to GMT +3.\n- Strong English skills.\n- Strong verbal and written communication skills.\n- Ability to work independently and collaborate in a group.\n\nResponsibilities:\n\n- Evaluate and Analyze LLM performance.\n- Architect and build inference and training pipelines,\n  directly contributing through hands-on design, model\n  training pipeline, and deployment strategies.\n- Stay up to date with industry trends.\n\nWhat’s in it for you?\n\n- Competitive salary (€6,500 - €9,000 gross, depending on the\n  level of experience)\n- Enjoy a flexible, remote-first global environment.\n- Collaborate with a global team of cloud experts and\n  innovators, passionate about pushing the boundaries of\n  Kubernetes technology\n- Equity options.\n- Private health insurance.\n- Get quick feedback with a fast-paced workflow. Most feature\n  projects are completed in 1 to 4 weeks.\n- Spend 10% of your work time on personal projects or self-\n  improvement.\n- Learning budget for professional and personal development -\n  including access to international conferences and courses\n  that elevate your skills.\n- Annual hackathon to spark new ideas and strengthen team\n  bonds.\n- Team-building budget and company events to connect with your\n  colleagues.\n- Equipment budget to ensure you have everything you need.\n- Extra days off to help maintain a healthy work-life balance.\n\nHiring process\n\n- Screening call with Recruiter\n- Hiring Manager interview\n- Technical interview (system design)\n- Live coding\n- Culture Check interview with an executive\n\n*As part of our standard hiring process, we would like to\ninform you that a background check may be conducted at the\nfinal stage of recruitment through our third-party provider,\nCheckr. *Please note that Cast AI does not provide any form\nof visa sponsorship/work permit.\n\n#LI-Remote\n",
+  "skills_required": [
+    "Distributed training",
+    "Fine-tuning",
+    "LLM evaluation",
+    "ML inference optimization",
+    "PyTorch",
+    "Weight quantization"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Evaluate and analyze LLM performance across cost, quality, and efficiency dimensions",
+    "Architect and build LLM inference pipelines with optimization techniques like quantization and reduced precision",
+    "Design and implement model training pipelines including fine-tuning strategies",
+    "Deploy and tune inference engines (vLLM, SGLang, TensorRT) for production workloads on Kubernetes",
+    "Optimize distributed ML training and inference with network and checkpointing strategies",
+    "Collaborate cross-team on greenfield AI infrastructure features for automatic LLM selection and cost optimization",
+    "Stay current with industry trends and propose new features and solutions to customer problems"
+  ],
+  "use_cases": [
+    "Automatic LLM selection balancing cost-efficiency and performance for customer applications",
+    "Cloud cost optimization for AI workloads running on Kubernetes infrastructure",
+    "Token usage optimization and waste reduction across LLM API keys and prompts",
+    "ML inference optimization including reduced precision, weight quantization, and engine tuning",
+    "Distributed training and fine-tuning of large language models at scale"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "ArgoCD",
+    "Azure",
+    "ClickHouse",
+    "GCP",
+    "GCP Pub/Sub",
+    "GitLab CI",
+    "Grafana",
+    "Kubernetes",
+    "Loki",
+    "PostgreSQL",
+    "Prometheus",
+    "REST",
+    "SGLang",
+    "Tempo",
+    "TensorRT",
+    "gRPC",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "Distributed training",
+    "Fine-tuning",
+    "LLM evaluation",
+    "ML inference optimization",
+    "PyTorch",
+    "Weight quantization"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, optimizing, and\ndeploying LLM inference and training pipelines, including\nhands-on model training, fine-tuning, and inference engine\noptimization (vLLM, SGLang, TensorRT). The engineer works\ndirectly ON AI/ML systems — evaluating LLM performance,\narchitecting training pipelines, and implementing model\noptimization techniques like quantization and reduced\nprecision.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM evaluation"
+    ],
+    "ml": [
+      "PyTorch",
+      "ML inference optimization",
+      "Weight quantization",
+      "Distributed training",
+      "Fine-tuning"
+    ],
+    "web": [
+      "gRPC",
+      "REST"
+    ],
+    "databases": [
+      "ClickHouse",
+      "PostgreSQL"
+    ],
+    "data": [
+      "GCP Pub/Sub"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "vLLM",
+      "SGLang",
+      "TensorRT",
+      "Kubernetes",
+      "GitLab CI",
+      "ArgoCD",
+      "Prometheus",
+      "Grafana",
+      "Loki",
+      "Tempo"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

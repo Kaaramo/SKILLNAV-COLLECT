@@ -1,0 +1,113 @@
+{
+  "job_id": "intl-ai-corpus-1830",
+  "source": "intl-ai-corpus",
+  "source_ref": "8386521",
+  "source_url": "https://builtin.com/job/front-end-engineer/8386521",
+  "title": "Front End Engineer – AI & LLM Powered Data Platforms",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Modo Energy",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "40 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Data platform for energy market benchmarking, forecasting,\nand valuation tools",
+  "industries": [
+    "Fintech",
+    "Information Technology",
+    "Payments",
+    "Consulting",
+    "Energy",
+    "Financial Services"
+  ],
+  "description": "About Modo Energy\n\nThe energy transition is the biggest infrastructure buildout\nin human history. Modo Energy is the data platform at the\ncentre of it.\n\nWe build the benchmarking, forecasting, and valuation tools\nthat the world's most serious energy investors, developers,\nand operators depend on to make decisions. If a battery gets\nfinanced, built, or traded anywhere in the world, there's a\ngood chance Modo data was in the room.\n\nFounded in 2019, we're 75+ people across London, New York,\nSydney, and Madrid; $30M Series B, AI-native, and moving\nfast.\n\nThis is a rare chance to join a category-defining company at\nthe moment it's scaling globally.\n\nThe Role\n\nWe're hiring a Frontend Engineer to lead the architectural\nevolution of our UI. You'll define the design patterns,\ncomponent abstractions, and typing contracts that allow the\nwider engineering team to ship features quickly without\ncompromising the architecture.\n\nOur frontend is where massive datasets, predictive models,\nand AI systems become usable - fast, data-heavy interfaces\nthat let users explore energy markets, interrogate datasets,\nand interact with complex forecasting models in real time.\nThe stack is TypeScript, React, and Next.js in a modern\nmonorepo architecture built for rapid, AI-assisted\ndevelopment.\n\nWhat You'll Do\n\n- Lead the technical direction for our frontend monorepo -\n  state management, routing, and module boundaries within\n  Next.js and TypeScript\n- Design and develop our internal UI component library (built\n  on MUI) - reusable, strictly typed abstractions that serve\n  as building blocks for the engineering team and AI agents\n- Build and improve high-performance, low-latency interfaces -\n  profiling performance, minimising re-renders, and keeping\n  the platform responsive under heavy data loads\n- Set the architectural patterns and coding standards that\n  govern development, including oversight of high-volume AI-\n  assisted contributions\n- Act as the primary technical authority for frontend -\n  guiding the team on UI best practices and effective use of\n  AI coding tools\n\nWhat We're Looking For\n\nThe Essentials\n\n- 3+ years of professional frontend development experience\n- Strong proficiency in TypeScript, React, and modern\n  JavaScript\n- Hands-on experience with Next.js\n- Experience with Material UI (MUI) or a comparable component\n  library\n- Strong eye for UI/UX - you can bridge the gap between design\n  and engineering and build polished, production-quality\n  interfaces\n- Solid understanding of testing principles with frameworks\n  such as Jest, Cypress, or Playwright\n- Proficient with Git, Docker, and CI/CD workflows\n- Familiarity with monorepo structures and tools (Turborepo,\n  Yarn Workspaces, or similar)\n\nNice To Have\n\n- Familiarity with Python and/or energy forecasting models\n- Experience in energy markets or data-heavy analytical\n  products\n- Startup or scale-up background\n\nCompensation, Legal, & Equal Opportunity\n\n- Benefits: Salary sacrifice pension with 3% employer\n  contribution; 25 days annual leave (excluding bank\n  holidays), plus 5 flexible days to be taken on a Monday or\n  a Friday; top-tier private healthcare and dental coverage.\n- Compensation: £70k - £90k per year\n- The salary range listed reflects industry benchmarks for\n  this role. Modo Energy's policy is to pay top of personal\n  market - if you're exceptional, we'll make it work.\n- Modo Energy is an equal opportunity employer. Employment\n  decisions are made on the basis of qualifications, merit,\n  and business need. We do not discriminate on the basis of\n  age, national origin, physical or mental disability, race,\n  religion, pregnancy, sexual orientation, gender identity,\n  veteran status, or any other characteristic protected\n  under applicable UK law, including the Equality Act 2010.\n\nIf you require assistance or a reasonable accommodation\nduring the application or interview process, please contact\nus at careers@modoenergy.com\n\nWhat You Can Expect From Us\n\nAt Modo Energy, we believe that exceptional work deserves\nexceptional reward. We're a high-performance team;\nambitious, collaborative, and genuinely motivated by the\nscale of what we're trying to build.\n\nYou'll have real ownership from day one, work alongside some\nof the brightest people in the industry, and be part of a\ncompany that's defining a new category in the global energy\nmarket. We're hybrid: everyone works Tuesday to Thursday in\noffice, with Monday and Friday flexible. We offer top-of-\nmarket compensation, equity for every employee, and the\nspace to take your career wherever you want it to go.\n\nWe're looking for people who want to do the best work of\ntheir careers. If that's you, we want to talk.\n",
+  "skills_required": [
+    "Cypress",
+    "Jest",
+    "Playwright",
+    "Turborepo",
+    "Yarn Workspaces"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead technical direction for frontend monorepo including state management, routing, and module boundaries within Next.js and TypeScript",
+    "Design and develop internal UI component library built on MUI with reusable, strictly typed abstractions",
+    "Build and improve high-performance, low-latency interfaces with performance profiling and optimization",
+    "Set architectural patterns and coding standards governing development including AI-assisted contributions",
+    "Act as primary technical authority for frontend guiding team on UI best practices and AI coding tools"
+  ],
+  "use_cases": [
+    "Energy market benchmarking for investors, developers, and operators",
+    "Forecasting tools for battery and energy asset valuation",
+    "Real-time data exploration and analysis of energy markets",
+    "Interactive interfaces for complex predictive and forecasting models",
+    "Decision support for energy infrastructure financing and trading"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "Git",
+    "Material UI",
+    "Next.js",
+    "React"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a frontend engineering role focused on building UI\narchitecture and components. While the platform displays\noutputs from AI/ML systems (forecasting models, predictive\nmodels), the role itself involves creating interfaces to\nvisualize this data, not building, training, or deploying\nthe AI models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "React",
+      "Next.js",
+      "Material UI"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Git",
+      "Docker",
+      "CI/CD"
+    ],
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Jest",
+      "Cypress",
+      "Playwright",
+      "Turborepo",
+      "Yarn Workspaces"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

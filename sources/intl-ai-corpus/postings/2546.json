@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-2546",
+  "source": "intl-ai-corpus",
+  "source_ref": "8835953",
+  "source_url": "https://builtin.com/job/software-engineer-test-iii/8835953",
+  "title": "Software Engineer in Test III- Agentic AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "TraceLink",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-18",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "942 Employees",
+  "company_stage": "Growth/Mature",
+  "company_focus": "Cloud-based pharmaceutical supply chain platform and network",
+  "industries": [],
+  "description": "Company overview:\n\nTraceLink’s software solutions and Opus Platform help the\npharmaceutical industry digitize their supply chain and\nenable greater compliance, visibility, and decision making.\nIt reduces disruption to the supply of medicines to patients\nwho need them, anywhere in the world.\n\n\n\nFounded in 2009 with the simple mission of protecting\npatients, today Tracelink has 8 offices, over 800 employees\nand more than 1300 customers in over 60 countries around the\nworld. Our expanding product suite continues to protect\npatients and now also enhances multi-enterprise\ncollaboration through innovative new applications such as\nMINT.\n\n\n\nTracelink is recognized as an industry leader by Gartner and\nIDC, and for having a great company culture by Comparably.\n\nAbout Tracelink:\n\nDigital information sharing is the future of medicine.\nTraceLink is building the first-ever cloud-based network and\napplication platform that helps our global customers share\ncrucial business information while collaborating on\nmanufacturing and distributing billions of medical products\n\nworldwide.\n\nWho you are:\n\nTraceLink is looking for talented full-time software\nengineers to build products at one of the fastest growing\ncompanies in the Pune area. If you’re self-motivated,\nintellectually curious, and motivated by designing and\ndeveloping innovative products for global organizations, you\ncould be a good fit for our team.\n\nThis is an excellent opportunity to learn and/or extend your\nknowledge in building large-scale multi-agent systems,\ndefine effective strategies for evaluating such systems, and\ngain hands-on experience in creating and testing non-\ndeterministic software components.\n\nResponsibilities :\n\nThe Software Development Engineer in Test assists in\nbuilding and executing automated tests for\n\nthe Company's software products. The SDET will build testing\ntools to enable automated testing of\n\nthe TraceLink platform and application.\n\n- Execute tests on the TraceLink platform and application.\n- Extend and maintain automation frameworks.\n- Prepare and present clear reports on defect findings that\n  allow developers to quickly and accurately reproduce\n  problems and allow the Quality Engineering team to verify\n  that fixes are complete.\n- Verify defect fixes.\n- Build tooling for automated testing of the TraceLink\n  platform and application.\n- Programmatically interface testing tools with the TraceLink\n  platform and application.\n- Create testing tools that can be configured and used by non-\n  developers and can simulate real-world transaction volumes\n  involving potentially millions of transactions per day.\n- Provide high-level analysis to apply appropriate\n  technologies and architecture to solve conceptual problems\n- Research and remain informed of new technology and tools,\n  and how such technologies could be applied at TraceLink.\n- Work closely with engineers building the core TraceLink\n  product to ensure that testability concerns are factored\n  into the design of the product.\n\nQualifications :\n\nCandidates must possess the following skills and traits:\n\n- Bachelor's degree or foreign equivalent in computer science,\n  software engineering, or related discipline.\n- 2-5 years of progressive, post-baccalaureate experience in a\n  test automation engineering role involving programmatic\n  interaction with a system under test.\n- 2-5 years of experience utilizing Java,\n  JavaScript/TypeScript, Eclipse, Ant or Maven, Unix, and an\n  automated unit test framework, such as TestNG.\n- 2-5 years of experience developing against web services and\n  Web-based APIs.\n- 2-5 years of experience developing and executing formal test\n  plans, data sets, and test configurations for assigned\n  feature areas\n- 2-5 years of experience testing web-based enterprise-class\n  business applications.Helpful skills and experience:\n\nHelpful skills and experience:\n\n- Familiarity with the concepts involved in running cloud-\n  based applications on platforms such as Amazon Web\n  Services.\n- Experience with the pharmaceutical industry.\n- Basic understanding of Large Language Models (LLMs) and\n  generative AI systems.\n- Exposure to testing LLM-based applications, including prompt\n  validation and response evaluation.\n- Familiarity with multi-agent LLM workflows and coordination\n  patterns (e.g., agent orchestration, tool usage,\n  chaining).\n- Experience designing test scenarios for AI systems,\n  including edge cases, hallucination detection, and output\n  consistency checks.\n- Knowledge of evaluation metrics for LLM outputs (e.g.,\n  accuracy, relevance, latency, and robustness).\n- Exposure to automation frameworks or tools for validating\n  AI/ML model behavior.\n\nPlease see the Tracelink Privacy Policy for more information\non how Tracelink processes your personal information during\nthe recruitment process and, if applicable based on your\nlocation, how you can exercise your privacy rights. If you\nhave questions about this privacy notice or need to contact\nus in connection with your personal data, including any\nrequests to exercise your legal rights referred to at the\nend of this notice, please contact Candidate-\nPrivacy@tracelink.com.\n",
+  "skills_required": [
+    "Agent orchestration",
+    "Eclipse",
+    "Hallucination detection",
+    "LLM evaluation",
+    "Multi-agent LLM workflows",
+    "Prompt validation",
+    "Unix"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and execute automated tests for agentic AI systems and the TraceLink platform",
+    "Design testing strategies for evaluating multi-agent LLM systems and non-deterministic software components",
+    "Extend and maintain automation frameworks with tooling that simulates real-world transaction volumes",
+    "Create testing tools that can be configured by non-developers for validating AI outputs including hallucination detection and consistency checks",
+    "Prepare and present clear defect reports and verify fixes",
+    "Programmatically interface testing tools with the TraceLink platform and application",
+    "Research new technologies and tools for evaluating AI/ML model behavior and apply them at TraceLink",
+    "Collaborate with core engineers to ensure testability of agentic AI product features"
+  ],
+  "use_cases": [
+    "Pharmaceutical supply chain digitization and compliance",
+    "Multi-enterprise collaboration through agentic AI systems",
+    "Automated testing and quality assurance of LLM-based applications",
+    "Evaluation of multi-agent LLM workflows including prompt validation and response evaluation",
+    "Hallucination detection and output consistency verification for AI systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ant",
+    "Maven",
+    "REST APIs",
+    "Test automation frameworks",
+    "TestNG"
+  ],
+  "frameworks_mentioned": [
+    "Agent orchestration",
+    "Hallucination detection",
+    "LLM evaluation",
+    "Multi-agent LLM workflows",
+    "Prompt validation"
+  ],
+  "languages_programming": [
+    "Java",
+    "JavaScript",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This SDET role is specifically titled for \"Agentic AI\" and\ninvolves testing multi-agent LLM systems, prompt validation,\nresponse evaluation, hallucination detection, and agent\norchestration. While the core role is test engineering, the\nfocus is directly on evaluating and testing AI/LLM/agent\nsystems — working hands-on with non-deterministic AI\ncomponents. This qualifies as ai-first because the engineer\nis directly interfacing with and validating agentic AI\nsystems, not merely building infrastructure for others who\nwork on AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM evaluation",
+      "Prompt validation",
+      "Multi-agent LLM workflows",
+      "Agent orchestration",
+      "Hallucination detection"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "TestNG",
+      "Test automation frameworks",
+      "Maven",
+      "Ant"
+    ],
+    "languages": [
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Eclipse",
+      "Unix"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

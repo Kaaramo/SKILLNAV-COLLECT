@@ -1,0 +1,138 @@
+{
+  "job_id": "intl-ai-corpus-1008",
+  "source": "intl-ai-corpus",
+  "source_ref": "7957101",
+  "source_url": "https://builtin.com/job/computer-vision-ai-ml-engineer/7957101",
+  "title": "Computer Vision AI & ML Engineer",
+  "title_normalized": "CV_ENGINEER",
+  "company": "Skild AI",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-01",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "24 Employees",
+  "company_stage": null,
+  "company_focus": "General purpose robotic intelligence",
+  "industries": [
+    "Artificial Intelligence",
+    "Robotics",
+    "Business Intelligence"
+  ],
+  "description": "Company Overview\n\nAt Skild AI, we are building the world's first general\npurpose robotic intelligence that is robust and adapts to\nunseen scenarios without failing. We believe massive scale\nthrough data-driven machine learning is the key to unlocking\nthese capabilities for the widespread deployment of robots\nwithin society. Our team consists of individuals with\nvarying levels of experience and backgrounds, from new\ngraduates to domain experts. Relevant industry experience is\nimportant, but ultimately less so than your demonstrated\nabilities and attitude. We are looking for passionate\nindividuals who are eager to explore uncharted waters and\ncontribute to our innovative projects.\n\nPosition Overview\n\nWe are seeking a Computer Vision AI & ML Engineer to design,\nbuild, and deploy advanced perception systems for real-world\nrobotics and automation. You will work across the full\nmachine learning lifecycle—model development, data strategy,\nevaluation, and production integration—to deliver robust,\nhigh-performance vision capabilities. This role combines\napplied research with hands-on engineering and offers the\nopportunity to influence both architecture and roadmap\ndecisions.\n\nResponsibilities\n\n- Develop and optimize deep learning models for object\n  detection, segmentation, tracking, and 3D scene\n  understanding using multi-modal sensor data.\n- Build scalable pipelines for data processing, training,\n  evaluation, and deployment into real-world and real-time\n  systems.\n- Design labeling strategies and tooling for automated\n  annotation, QA workflows, dataset management,\n  augmentation, and versioning.\n- Implement monitoring and reliability frameworks, including\n  uncertainty estimation, failure detection, and automated\n  performance reporting.\n- Conduct proof-of-concept experiments to evaluate new\n  algorithms and perception techniques; translate research\n  insights into practical prototypes.\n- Collaborate with robotics, systems, and simulation teams to\n  integrate perception models into production pipelines and\n  improve end-to-end performance.\n\nPreferred Qualifications\n\n- Strong experience with deep learning frameworks (PyTorch,\n  TensorFlow, or JAX).\n- Background in computer vision tasks such as detection,\n  segmentation, tracking, or 3D scene understanding.\n- Proficiency in Python; familiarity with C++ is a plus.\n- Experience building training pipelines, evaluation\n  frameworks, and ML deployment workflows.\n- Knowledge of 3D geometry, sensor processing, or multi-sensor\n  fusion (RGB-D, LiDAR, stereo).\n- Experience with data annotation tools, dataset management,\n  and augmentation techniques.\n- Familiarity with robotics, simulation environments (Isaac\n  Sim, Gazebo, Blender), or real-time systems.\n- Understanding of uncertainty modeling, reliability\n  engineering, or ML monitoring/MLOps practices.\n",
+  "skills_required": [
+    "Blender",
+    "Data Annotation Tools",
+    "Data Augmentation",
+    "Gazebo",
+    "Isaac Sim",
+    "JAX",
+    "PyTorch",
+    "TensorFlow",
+    "Uncertainty Modeling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and optimize deep learning models for object detection, segmentation, tracking, and 3D scene understanding using multi-modal sensor data",
+    "Build scalable pipelines for data processing, training, evaluation, and deployment into real-world and real-time systems",
+    "Design labeling strategies and tooling for automated annotation, QA workflows, dataset management, augmentation, and versioning",
+    "Implement monitoring and reliability frameworks, including uncertainty estimation, failure detection, and automated performance reporting",
+    "Conduct proof-of-concept experiments to evaluate new algorithms and perception techniques; translate research insights into practical prototypes",
+    "Collaborate with robotics, systems, and simulation teams to integrate perception models into production pipelines and improve end-to-end performance"
+  ],
+  "use_cases": [
+    "General purpose robotic intelligence for widespread deployment",
+    "Real-world robotics and automation perception systems",
+    "Multi-modal sensor fusion for scene understanding",
+    "Robust perception adapting to unseen scenarios",
+    "Real-time computer vision for robotics applications"
+  ],
+  "tools_mentioned": [
+    "Dataset Management",
+    "ML Monitoring",
+    "MLOps",
+    "Real-time Systems",
+    "Reliability Engineering"
+  ],
+  "frameworks_mentioned": [
+    "Data Augmentation",
+    "JAX",
+    "PyTorch",
+    "TensorFlow",
+    "Uncertainty Modeling"
+  ],
+  "languages_programming": [
+    "C++",
+    "Python"
+  ],
+  "domains_iaml": [
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "CV_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on development and deployment of\ndeep learning models for computer vision perception systems\nin robotics. The engineer will work across the full ML\nlifecycle including model development, optimization,\ntraining, and real-time deployment, which directly aligns\nwith building AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "JAX",
+      "Data Augmentation",
+      "Uncertainty Modeling"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Dataset Management"
+    ],
+    "cloud": [],
+    "ops": [
+      "Real-time Systems",
+      "Reliability Engineering",
+      "ML Monitoring",
+      "MLOps"
+    ],
+    "languages": [
+      "Python",
+      "C++"
+    ],
+    "domains": [
+      "Computer Vision",
+      "Object Detection",
+      "Segmentation",
+      "Tracking",
+      "3D Scene Understanding",
+      "3D Geometry",
+      "Sensor Processing",
+      "Multi-sensor Fusion",
+      "RGB-D",
+      "LiDAR",
+      "Stereo",
+      "Robotics"
+    ],
+    "other": [
+      "Data Annotation Tools",
+      "Isaac Sim",
+      "Gazebo",
+      "Blender"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

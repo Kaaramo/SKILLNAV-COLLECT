@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-0398",
+  "source": "intl-ai-corpus",
+  "source_ref": "7932089",
+  "source_url": "https://builtin.com/job/ai-engineer/7932089",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Quadrivia AI",
+  "company_type": "entité morale privée",
+  "location": "London",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "29 Employees",
+  "company_stage": null,
+  "company_focus": "Healthcare AI assistant for clinicians",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech"
+  ],
+  "description": "About Us\n\nQuadrivia is the health technology company behind Qu, a\ncomprehensive, controllable, and customizable assistant AI\nbuilt by clinicians, for clinicians. Addressing the urgent\nshortage of healthcare professionals, Qu provides real-time,\npersonal, and reliable support for clinical tasks across the\ncare continuum. Designed for providers, payers, and\npharmaceutical companies, Qu is easy to customize and\nintegrates seamlessly into workflows, delivering precise\nassistance across the care spectrum.\n\nThe Role\n\nOwn and evolve the core “brain” service that powers Qu.\nDesign, build, and operate multi-agent LLM systems that\ncommunicate in real time over text and voice. Ship fast\nPython services with FastAPI, keep latency low, quality\nhigh, and evaluation continuous.\n\nWhat You’ll Do\n\n- Own Qu’s brain service end to end: architecture, SLAs,\n  latency budgets, error modes, rollouts.\n- Low-latency comms: streaming text and voice, VAD, barge-in,\n  turn-taking, interruption handling. WebRTC, SIP, and\n  LiveKit experience is a strong plus.\n- Multi-agent orchestration: planner–executor–critic patterns,\n  role routing, shared memory, tool routers, coordination\n  protocols and evaluation.\n- Reasoning & optimization: ReAct, Chain-of-Thought, plus\n  Tree-/Graph-of-Thoughts when useful.\n- Programmatic prompt optimization: DSPy for prompt/program\n  compilation; integrate MiPRO and GEPA for iterative prompt\n  evolution under eval constraints.\n- RAG engineering: high-signal retrieval (chunking, hybrid\n  search, re-ranking), query rewriting, compression,\n  caching, freshness, and strong grounding; evaluate\n  faithfulness, context precision/recall, and answer\n  relevancy.\n- Evaluation & observability: Pre-call validate inputs,\n  enforce safety, and verify retrieval quality for RAG; in-\n  call trace prompts, tool calls, token/latency/cost and\n  enforce streaming guardrails; post-call run automated task\n  evals (faithfulness, relevancy, hallucination, safety),\n  regressions, red-teaming, and CI/CD gates. Instrument with\n  structured logs and OpenTelemetry, surface dashboards and\n  alerts, and feed live traffic slices into shadow evals for\n  drift detection.\n\nMinimum Qualifications\n\n- 5+ years in ML or backend engineering in product\n  environments; recent focus on LLM systems.\n- Expert Python. Strong FastAPI, asyncio, pydantic, and\n  production observability.\n- Real-time systems: you’ve built or integrated low-latency\n  text/voice. You have used LiveKit, Pipecat or similar\n  tech.\n- Working knowledge of agent patterns and eval-driven\n  development.\n- Hands-on with ReAct and CoT; pragmatic with ToT/GoT\n  tradeoffs.\n- Prior startup experience.\n\nNice To Have\n\n- DSPy for compilation and self-improving workflows;\n  MiPRO/GEPA integration.\n- Experience with evaluation tooling and LLM-as-judge setups.\n- WebRTC/SRTP, jitter buffers, SIP basics; LiveKit a plus.\n- LiveKit Agents, SIP–WebRTC gateways, TURN/SFU tuning.\n- GCP: Cloud Run/GKE, Pub/Sub, Vertex AI, GCS, Secret Manager,\n  Cloud Logging/Trace.\n- Healthcare data familiarity.\n\nExample Problems You’ll Tackle\n\n- Push median voice round-trip under 2 seconds while\n  preserving turn-taking and barge-in.\n- Set up OTEL-first tracing for the agent graph with automated\n  eval triggers on production traffic slices.\n- Improve our RAG pipeline with hybrid retrieval and re-\n  ranking, then prove gains via faithfulness and context\n  metrics with regression harnesses.\n- Turn EHR integrations into LLM tools.\n\nTech Stack\n\nPython, FastAPI, pydantic, asyncio, Redis, Postgres, vector\nstores, WebRTC stacks, LiveKit, SIP gateways, STT/TTS,\nDocker, Terraform, K8s, OTEL, DeepEval.\n\nWhat You Get\n\n- Work on cutting-edge real-time agent tech with a best-in-\n  class team in healthtech.\n- Fun off-sites in Barcelona.\n- High-tech laptop and solid dev ergonomics.\n- Flexibility: work from home or hybrid in Barcelona/London.\n",
+  "skills_required": [
+    "Chain-of-Thought",
+    "DSPy",
+    "RAG",
+    "ReAct",
+    "STT/TTS",
+    "agents",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and evolve the core brain service powering Qu including architecture, SLAs, latency budgets, and rollouts",
+    "Build low-latency real-time text and voice communication systems with streaming, VAD, and interruption handling",
+    "Design and implement multi-agent orchestration systems using planner-executor-critic patterns with role routing and tool coordination",
+    "Implement reasoning frameworks including ReAct, Chain-of-Thought, and Tree/Graph-of-Thoughts optimization patterns",
+    "Develop programmatic prompt optimization using DSPy, MiPRO, and GEPA for iterative prompt evolution under evaluation constraints",
+    "Engineer RAG systems with hybrid search, re-ranking, query rewriting, and evaluate faithfulness, context precision/recall metrics",
+    "Build comprehensive evaluation and observability systems with OpenTelemetry tracing, automated evals, regression testing, and CI/CD gates for production LLM systems"
+  ],
+  "use_cases": [
+    "Real-time clinical AI assistant that provides text and voice support for healthcare professionals across the care continuum",
+    "Multi-agent system for handling clinical tasks through coordinated planning, execution, and critic patterns",
+    "RAG-powered system for retrieving and synthesizing medical knowledge with strong grounding and faithfulness guarantees",
+    "Voice-enabled interactive system with turn-taking, interruption handling, and sub-2-second response latency for clinical workflows",
+    "EHR integration system that transforms healthcare data into LLM-accessible tools for clinical decision support"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "FastAPI",
+    "GCP",
+    "Kubernetes",
+    "LiveKit",
+    "OpenTelemetry",
+    "Postgres",
+    "Redis",
+    "Terraform",
+    "Vertex AI",
+    "WebRTC",
+    "asyncio",
+    "pydantic",
+    "vector stores"
+  ],
+  "frameworks_mentioned": [
+    "Chain-of-Thought",
+    "DSPy",
+    "RAG",
+    "ReAct",
+    "agents",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and deploying AI/ML systems -\nspecifically multi-agent LLM systems with real-time text and\nvoice capabilities. The engineer will own the core \"brain\"\nservice, implementing RAG, agent orchestration, prompt\noptimization with DSPy, and LLM reasoning patterns.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "DSPy",
+      "RAG",
+      "agents",
+      "ReAct",
+      "Chain-of-Thought",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "asyncio",
+      "pydantic",
+      "WebRTC"
+    ],
+    "databases": [
+      "vector stores",
+      "Postgres",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "GCP",
+      "Vertex AI"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "OpenTelemetry",
+      "LiveKit"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "STT/TTS"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

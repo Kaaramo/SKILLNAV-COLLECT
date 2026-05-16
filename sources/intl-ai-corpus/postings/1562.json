@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-1562",
+  "source": "intl-ai-corpus",
+  "source_ref": "8522368",
+  "source_url": "https://builtin.com/job/software-engineer-ai-compiler/8522368",
+  "title": "Software Engineer, AI Compiler",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Normal Computing",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-18",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "51 Employees",
+  "company_stage": "Startup",
+  "company_focus": "AI accelerator and compiler infrastructure",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Software",
+    "Semiconductor"
+  ],
+  "description": "Normal Computing | Incredible Opportunities\n\nThe Normal Team builds foundational software and hardware\nthat help move technology forward - supporting the\nsemiconductor industry, critical AI infrastructure, and the\nbroader systems that power our world. We work as one team\nacross New York, San Francisco, Copenhagen, Seoul, and\nLondon. Your Role in Our Mission:\n\nWe're building an AI accelerator from the ground up, and we\nneed a strong ML compiler engineer to be at the heart of\nhardware-software co-design. This isn't about inheriting a\nmature compiler stack - it's about creating one.\n\nYou'll join at the architecture definition stage, directly\ninfluencing ISA design and the trade-offs that determine\nwhat our hardware can do. As we progress toward hardware\nbringup, you'll build the complete compiler toolchain that\ntakes machine learning models from high-level frameworks\ndown to efficient execution on our novel architecture.\n\nThis role offers the rare opportunity to shape both silicon\nand software simultaneously. You'll work alongside hardware\narchitects and researchers to co-design compiler strategies\nthat unlock the full potential of our accelerator, building\ninfrastructure that bridges the gap between ML model graphs\nand custom ISA primitives. Your compiler decisions will\ndirectly inform hardware features, and hardware capabilities\nwill open new optimisation frontiers for your toolchain.\n\nIf you want to architect a compiler stack from first\nprinciples, optimise ML workloads on new hardware, and see\nyour decisions realised in silicon, this is the role.\n\nResponsibilities:\n\n- Work across the full stack with software, systems, and\n  hardware teams to ensure correctness, performance, and\n  deployment readiness for real workloads\n- Contribute to shaping the long-term compiler architecture\n  and tooling strategy in a fast-moving startup environment\n- Design and implement parts of the compiler stack targeting\n  our novel AI accelerator, including front-end lowering, IR\n  transformations, optimization passes, and backend code\n  generation\n- Build and evolve MLIR/LLVM based infrastructure to support\n  graph lowering, hardware-aware optimizations, and\n  performance-centric code emission\n- Collaborate closely with hardware architects,\n  microarchitects, and research teams to co-design compiler\n  strategies that align with evolving ISA and hardware\n  constraints\n- Develop profiling and analysis tools to identify performance\n  bottlenecks, validate generated code, and ensure high\n  throughput/low latency execution of AI workloads\n- Enable efficient mapping of high-level ML models to hardware\n  by working with model frameworks and graph representations\n  (e.g., ONNX, JAX, PyTorch)\n- Drive performance tuning strategies including kernel\n  authoring, schedule generation, and hardware-specific\n  optimization passes\n\nWhat Makes You A Great Fit:\n\n- BS, MS, or PhD in Computer Science, Electrical/Computer\n  Engineering, or related field\n- 4+ years of hands-on ML compiler or systems engineering\n  experience\n- Demonstrated experience building and owning an end-to-end\n  compiler stack (front-end, IR, optimization, and backend\n  code generation)\n- Experience working with machine learning models, neural\n  network graphs, and graph optimizations as part of\n  lowering and acceleration, using frameworks like TVM, XLA,\n  or Glow\n- Comfortable collaborating with hardware teams to map novel\n  architectural primitives from IR to efficient lowerings,\n  kernel implementations, and runtime support\n- Strong understanding of compiler performance trade-offs,\n  profiling, bottleneck analysis, and optimization\n  strategies for ML workloads\n\nBonus Points For:\n\n- Prior experience on compilers for AI/ML accelerators, GPUs,\n  DSPs, or domain-specific architectures\n- Contributions to LLVM, MLIR, XLA, TVM, or related open-\n  source compiler projects\n- Experience in kernel performance optimization and\n  accelerator-specific code generation\n- Demonstrated work in hardware-software co-design where\n  compiler insights shaped ISA or architectural decisions\n- Experience building or contributing to cycle-accurate\n  simulators for performance modeling\n- Prior work building profiling tools, performance evaluation\n  suites, or bottleneck analyzers for compiler or runtime\n  stacks\n- Familiarity with deep learning frameworks and model formats\n  (e.g., JAX, ONNX**, PyTorch, TensorFlow**) and graph\n  transformations\n- Experience designing custom IR dialects, optimization\n  passes, and domain-specific lowering transformations\n\nEqual Employment Opportunity Statement\n\nNormal Computing is an Equal Opportunity Employer. We\ncelebrate diversity and are committed to creating an\ninclusive environment for all employees. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, sex, sexual orientation,\ngender identity, national origin, disability, veteran\nstatus, or any other legally protected status.\n\nAccessibility Accommodations\n\nNormal Computing is committed to providing reasonable\naccommodations to individuals with disabilities. If you need\nassistance or an accommodation due to a disability, please\nlet us know at accomodations@normalcomputing.ai.\n\nPrivacy Notice\n\nBy submitting your application, you agree that Normal\nComputing may collect, use, and store your personal\ninformation for employment-related purposes in accordance\nwith our Privacy Policy.\n",
+  "skills_required": [
+    "JAX",
+    "ONNX",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Work across the full stack with software, systems, and hardware teams to ensure correctness, performance, and deployment readiness for real workloads",
+    "Contribute to shaping the long-term compiler architecture and tooling strategy in a fast-moving startup environment",
+    "Design and implement parts of the compiler stack targeting our novel AI accelerator, including front-end lowering, IR transformations, optimization passes, and backend code generation",
+    "Build and evolve MLIR/LLVM based infrastructure to support graph lowering, hardware-aware optimizations, and performance-centric code emission",
+    "Collaborate closely with hardware architects, microarchitects, and research teams to co-design compiler strategies that align with evolving ISA and hardware constraints",
+    "Develop profiling and analysis tools to identify performance bottlenecks, validate generated code, and ensure high throughput/low latency execution of AI workloads",
+    "Enable efficient mapping of high-level ML models to hardware by working with model frameworks and graph representations",
+    "Drive performance tuning strategies including kernel authoring, schedule generation, and hardware-specific optimization passes"
+  ],
+  "use_cases": [
+    "Machine learning model acceleration on custom hardware",
+    "Efficient execution of AI workloads on novel accelerator architecture",
+    "Graph lowering and optimization from high-level ML frameworks",
+    "Hardware-aware code generation for neural network workloads",
+    "Performance optimization and profiling for ML inference"
+  ],
+  "tools_mentioned": [
+    "Code generation",
+    "Compiler design",
+    "Glow",
+    "Hardware-software co-design",
+    "IR transformations",
+    "Kernel optimization",
+    "LLVM",
+    "MLIR",
+    "Performance profiling",
+    "TVM",
+    "XLA"
+  ],
+  "frameworks_mentioned": [
+    "JAX",
+    "ONNX",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "C++",
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an ML compiler engineer role building compiler\ninfrastructure to support AI accelerator hardware. The role\nfocuses on developing compiler toolchains, IR\ntransformations, and code generation infrastructure that\nenables ML models to run on hardware, rather than building,\ntraining, or fine-tuning models themselves. This is\ninfrastructure work that supports AI/ML workloads.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "ONNX",
+      "PyTorch",
+      "TensorFlow",
+      "JAX"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "MLIR",
+      "LLVM",
+      "TVM",
+      "XLA",
+      "Glow",
+      "Compiler design",
+      "IR transformations",
+      "Code generation",
+      "Hardware-software co-design",
+      "Kernel optimization",
+      "Performance profiling"
+    ],
+    "languages": [
+      "C++",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

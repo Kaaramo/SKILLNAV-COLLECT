@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-1884",
+  "source": "intl-ai-corpus",
+  "source_ref": "8611948",
+  "source_url": "https://builtin.com/job/applied-ai-engineer/8611948",
+  "title": "Software Engineer - Applied AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "WorkOS",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "48 Employees",
+  "company_stage": "Series C",
+  "company_focus": "Developer tools and APIs for enterprise authentication,\nidentity, and authorization",
+  "industries": [],
+  "description": "About WorkOS 🚀\n\nWorkOS builds modern developer tools and APIs that make it\neasy for companies to become Enterprise Ready. Our platform\npowers authentication, identity, authorization, and other\ncritical infrastructure that developers need to securely\nscale their products to large organizations. We recently\nraised a $100M Series C, valuing the company at $2B, led by\nMeritech and Sapphire with participation from Greenoaks,\nCraft, Abstract, and Audacious. WorkOS powers enterprise\nfeatures for many of the fastest-growing AI companies,\nincluding OpenAI, Cursor, and Perplexity, Vercel, and Plaid.\nAs AI reshapes software, WorkOS is at the frontier of Human\nand Agent Authentication, Identity, and Access\nControl—helping companies answer a new critical question:\nwho are your agents, and what are they allowed to do? Our\nfast-growing customer base includes hundreds of modern\nsoftware companies building the next generation of\nenterprise-ready products.\n\nAbout the Role\n\nWe’re building an Applied AI team to dramatically increase\nproductivity across Engineering, Sales, Support, and\nOperations.\n\nAs an Applied AI Engineer, you’ll design and ship production\nAI systems that change how WorkOS builds, sells, and\nsupports software. Your focus is internal: building durable\ntools and workflows that teammates rely on every day.\n\nYou’ll work on a small, high‑ownership team that:\n\n- Chooses problems based on measurable impact.\n- Moves from idea → prototype → production in days or weeks.\n- Adapts quickly as models, tools, and best practices evolve.\n\nThis is a 0→1 role with company‑wide visibility.\n\nWhat you’ll do\n\n- Work closely with Engineering, Sales, Support, and Ops to\n  uncover high‑leverage internal problems where AI can\n  remove bottlenecks or unlock new workflows.\n- Design and build tools that become part of people’s daily\n  work – agents, automations, and workflows that are stable,\n  observable, and easy to maintain.\n- Use LLMs, embeddings, retrieval, and tool‑calling to plug\n  into docs, Slack, GitHub, CRM, analytics, support systems,\n  and internal services.\n- Replace repetitive, multi‑step manual processes with\n  orchestrated, AI‑driven flows that span multiple apps and\n  data sources.\n- Stay current on new models and tooling, run focused\n  experiments, and help the team converge on patterns,\n  libraries, and infra that compound over time.\n\nExample problems you might work on\n\n- Turning noisy, cross‑tool workflows (tickets, Slack threads,\n  docs) into a single agent that handles triage, routing,\n  and suggested actions.\n- Building AI‑assisted engineering workflows that shorten the\n  loop from “bug report or idea in Slack” to changes safely\n  deployed in production.\n- Designing a GTM agent that helps reps research accounts,\n  prepare meetings, and follow up using context from CRM,\n  product usage, and prior conversations.\n\nWhat we’re looking for\n\n- You’ve taken AI‑powered systems from idea to production and\n  through at least one iteration cycle with real users.\n- Strong engineering fundamentals. You’re comfortable owning\n  services, data flows, and integrations end‑to‑end. This\n  role must pass our engineering interview loop.\n- Experience with LLM APIs, embeddings, retrieval / RAG‑style\n  architectures, and structured tool‑calling (or agents),\n  even if not all in production yet.\n- You’re comfortable stitching together APIs, webhooks, event\n  systems, and internal tools, and you think about failure\n  modes, observability, and ownership.\n- Bias toward action. You care less about showing off a model\n  and more about removing real bottlenecks, saving hours, or\n  unlocking workflows the company couldn’t do before.\n- Comfort with ambiguity and fast change. You enjoy working in\n  areas where the problem, the tools, and the “right”\n  patterns are evolving quickly – and you’re excited to help\n  define them.\n\nNice to have\n\n- Prior work with enterprise SaaS, identity / auth, or\n  security‑sensitive systems.\n- Exposure to MCP or similar protocols for connecting AI\n  agents to real systems.\n\nBenefits (US Only) 💖\n\nAt WorkOS, we offer resources that emphasize personal and\nfamilial well-being. We offer healthcare coverage for you\nand your family, including medical, dental, and vision. We\noffer parental leave, paid-time off and fully remote working\narrangements.\n\nBenefits include:\n\n- Competitive pay\n\n- Substantial equity grants\n\n- Healthcare insurance (Medical, Dental and Vision) for you\n  and your family\n\n- 401k matching\n\n- Wellness and fitness monthly allowances\n\n- PTO + paid holidays + unlimited sick leave\n\n- Autonomy and flexibility with remote work\n\nPlease inquire directly with our recruiting team for\nbenefits available to those working outside the US.\n\nEqual Opportunity Employer\n\nWorkOS is an equal opportunity employer, committed to\ndiversity and inclusiveness. We will consider all qualified\napplicants without regard to race, color, nationality,\ngender, gender identity or expression, sexual orientation,\nreligion, disability or age.\n\nWe may use artificial intelligence (AI) tools to support\nparts of the hiring process, such as reviewing applications,\nanalyzing resumes, or assessing responses. These tools\nassist our recruitment team but do not replace human\njudgment. Final hiring decisions are ultimately made by\nhumans. If you would like more information about how your\ndata is processed, please contact us.\n",
+  "skills_required": [
+    "CRM integrations",
+    "LLM APIs",
+    "MCP",
+    "agents",
+    "embeddings",
+    "retrieval / RAG",
+    "tool-calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate with Engineering, Sales, Support, and Ops to identify high-impact internal problems where AI can remove bottlenecks",
+    "Design and build production AI tools including agents, automations, and workflows that are stable, observable, and maintainable",
+    "Implement LLM-powered systems using embeddings, retrieval, and tool-calling to integrate with docs, Slack, GitHub, CRM, analytics, and support systems",
+    "Replace repetitive manual processes with orchestrated AI-driven flows spanning multiple apps and data sources",
+    "Stay current on new models and tooling, run experiments, and help establish patterns and infrastructure that scale",
+    "Own services, data flows, and integrations end-to-end with focus on failure modes and observability"
+  ],
+  "use_cases": [
+    "Internal workflow automation across engineering, sales, support, and operations",
+    "Triage and routing agents that handle cross-tool workflows from tickets, Slack threads, and docs",
+    "AI-assisted engineering workflows to shorten the loop from bug reports to production deployments",
+    "GTM agents that help sales reps research accounts, prepare meetings, and follow up using CRM and product context",
+    "Enterprise-ready agent authentication and access control systems"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "GitHub API",
+    "Slack API",
+    "observability tools",
+    "webhooks"
+  ],
+  "frameworks_mentioned": [
+    "LLM APIs",
+    "MCP",
+    "agents",
+    "embeddings",
+    "retrieval / RAG",
+    "tool-calling"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing and building production AI\nsystems including agents, automations, and workflows using\nLLMs, embeddings, retrieval/RAG, and tool-calling. The\nengineer will own end-to-end AI-powered systems from idea to\nproduction, which is hands-on work building and deploying AI\nsolutions.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs",
+      "embeddings",
+      "retrieval / RAG",
+      "tool-calling",
+      "agents",
+      "MCP"
+    ],
+    "ml": [],
+    "web": [
+      "Slack API",
+      "GitHub API",
+      "webhooks",
+      "APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "observability tools"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [
+      "enterprise SaaS",
+      "identity / auth"
+    ],
+    "other": [
+      "CRM integrations"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,109 @@
+{
+  "job_id": "intl-ai-corpus-0384",
+  "source": "intl-ai-corpus",
+  "source_ref": "7902150",
+  "source_url": "https://builtin.com/job/senior-full-stack-engineer-python-ts-ai-project/7902150",
+  "title": "Senior Full Stack Engineer (Python+TS, AI Project)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "South Geeks",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "27 Employees",
+  "company_stage": null,
+  "company_focus": "Commercial real estate technology platform for brokers with\nautomated document workflows and AI-driven analysis",
+  "industries": [
+    "Information Technology",
+    "Software",
+    "Consulting"
+  ],
+  "description": "Hi there :)\n\nThanks for checking in to find out about our open position.\nWe´ll provide as much information as possible, but please\nfeel free to reach us if you have further questions. We´ll\nbe happy to see your application, even if there are skills\nyou don't quite master!\n\nAbout Us\n\nAt South Geeks, we connect top LATAM engineers with global\nteams that value autonomy, technical excellence, and long-\nterm collaboration. We focus on building strong\nrelationships with our partners and providing meaningful,\nchallenging work for our talent.\n\nAbout the Client\n\nOur client is a commercial real estate technology company\nbuilding a modern platform for brokers. Their product\nautomates complex document workflows and integrates advanced\nAI-driven analysis. They prioritize engineering rigor,\nthoughtful architecture, and strong communication across\ntheir team.\n\nAbout the Role\n\nWe’re seeking a highly independent Senior Full Stack\nEngineer to design and deliver core functionality for a\nlarge-scale web application built with React/TypeScript,\nPython/FastAPI, and PostgreSQL. This role is ideal for\nsomeone who excels at architectural planning, anticipates\ndownstream impact, and thrives in an environment where\nalignment and communication are essential.\n\nYou’ll join two other senior engineers, each owning\nsubstantial parallel features, and contribute to a fast-\nmoving team with high expectations for clarity, initiative,\nand iterative delivery.\n\nKey Responsibilities\n\n- Lead architectural planning, create technical proposals, and\n  secure alignment with other senior engineers before\n  implementation.\n- Architect, design, and implement full-stack features across\n  React/TypeScript, FastAPI, and PostgreSQL.\n- Develop and maintain complex UI components, including\n  CKEditor integrations and DocX formatting workflows.\n- Build and optimize a multi-LLM orchestration layer that\n  triggers hundreds of model calls per operation. Work with\n  a sophisticated AI layer using multiple LLM\n  orchestrations, not just single-call ChatGPT wrappers.\n- Break down work into GitHub issues, maintain transparent\n  progress, and ship verifiable features weekly.\n\nRequired Skills & Experience\n\n- Advanced proficiency in React/TypeScript, Python/FastAPI,\n  and PostgreSQL.\n- Proven ability to architect systems, document plans, and\n  communicate technical decisions clearly.\n- Experience integrating or orchestrating LLM APIs (OpenAI,\n  Anthropic, etc.).\n- Experience with CKEditor and document manipulation\n  workflows.\n- Excellent communication, planning, and independent execution\n  skills.\n\nNice to Have\n\n- Experience with data-heavy or document-heavy platforms.\n- Background with AI workflow automation beyond basic chat\n  interfaces.\n\nOur Team\n\nWe strive to create an inspiring and growth-oriented\nenvironment where everyone feels valued, heard, and\nempowered. We promote both personal and professional\ndevelopment, with individualized support for your needs and\ngoals. We aim to build a space where everyone can thrive.\n\nWhat We Offer\n\n- Long-term projects\n- 100% remote work\n- Payment in USD\n- Paid Time Off (PTO)\n- Work-from-home & training reimbursement\n- English lessons\n- Technical training\n- Career coaching\n",
+  "skills_required": [
+    "Anthropic API",
+    "DocX formatting",
+    "LLM orchestration",
+    "OpenAI API"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead architectural planning, create technical proposals, and secure alignment with other senior engineers before implementation",
+    "Architect, design, and implement full-stack features across React/TypeScript, FastAPI, and PostgreSQL",
+    "Develop and maintain complex UI components, including CKEditor integrations and DocX formatting workflows",
+    "Build and optimize a multi-LLM orchestration layer that triggers hundreds of model calls per operation",
+    "Work with a sophisticated AI layer using multiple LLM orchestrations, not just single-call ChatGPT wrappers",
+    "Break down work into GitHub issues, maintain transparent progress, and ship verifiable features weekly"
+  ],
+  "use_cases": [
+    "Automates complex document workflows for commercial real estate brokers",
+    "AI-driven analysis integration for real estate document processing",
+    "Document formatting workflows including DocX manipulation",
+    "Multi-LLM orchestration for handling hundreds of model calls per operation",
+    "Rich text editing capabilities through CKEditor integration"
+  ],
+  "tools_mentioned": [
+    "CKEditor",
+    "FastAPI",
+    "PostgreSQL",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LLM orchestration",
+    "OpenAI API"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work with AI systems,\nspecifically building and optimizing a multi-LLM\norchestration layer that triggers hundreds of model calls\nper operation. The engineer will integrate LLM APIs (OpenAI,\nAnthropic) and work with sophisticated AI orchestrations\nbeyond simple chat wrappers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "LLM orchestration"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "FastAPI",
+      "CKEditor"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "DocX formatting"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

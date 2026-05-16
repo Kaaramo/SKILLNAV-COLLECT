@@ -1,0 +1,145 @@
+{
+  "job_id": "intl-ai-corpus-1753",
+  "source": "intl-ai-corpus",
+  "source_ref": "8596569",
+  "source_url": "https://builtin.com/job/applied-ai-engineer/8596569",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Embedding VC",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "17 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI-powered creative tools and canvas for professionals",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Generative AI"
+  ],
+  "description": "About FLORA\n\nWe build creative tools for the new creative class—an\nintelligent canvas where the best AI models enable\nprofessional craft. We're a team of ~20, backed by\nexceptional investors like Hanabi Capital, Menlo Ventures,\nJustin Kan, and Gabe Whaley (founder of MSCHF). Our\ncustomers span a variety of creative industries and include\nPentagram, Lionsgate, and Nike.\n\nWe’re looking to bring on an Applied AI Engineer who will\narchitect and build the agentic systems powering FLORA.\n\nAs part of the founding team, you will work closely with the\nfounders to invent how creative professionals interact with\nAI in a generative age. This is a first-principles role:\nyou’ll design, implement, and scale the backbone of agentic\nworkflows that let creatives orchestrate text, image, and\nvideo models seamlessly on FLORA’s infinite canvas.\n\nWhat You’ll Do As an Applied AI Engineer, you’ll design and\nbuild the intelligence layer of FLORA — systems that make\nmulti-modal creative workflows powerful, reliable, and\nintuitive. You’ll work on problems at the intersection of\nAI, orchestration, and interaction design: bringing together\ntext, image, and video models into seamless workflows that\ncreatives can actually trust and enjoy using.\n\nYou’ll collaborate across product, infra, and design to\nbuild agentic features that let creatives speak their idea\ninto existence while maintaining control.\n\nRequirements\n\n- Hands-on experience building agentic systems — e.g. multi-\n  step pipelines, tool-using agents, assistants with memory,\n  or similar.\n- Familiarity with evaluation frameworks (automated checks,\n  regression testing, human-in-the-loop scoring) to ensure\n  system reliability.\n- Experience with memory and retrieval (vector DBs,\n  embeddings, summarization, context management).\n- Strong background in orchestration across models, APIs, and\n  tools — including handling retries, fallbacks, and edge\n  cases.\n- Comfortable reasoning about multi-modal workflows (text,\n  image, video) and their integration in a user-facing\n  product.\n- Ability to work across the stack (frontend, backend, infra)\n  and collaborate closely with product and design.\n- Product-minded — you care as much about usability and\n  creative control as you do about technical novelty.\n- 3+ years of engineering experience\n- Bonus: experience with creative tools, generative models, or\n  node-based interfaces.\n\nWorking at FLORA\n\nOffice policy\n\nWe work in-person at the Domino Refinery building in\nWilliamsburg, Brooklyn—with views of the East River.\n\nCompensation and benefits\n\nCompetitive salary and meaningful equity. We also offer an\nEquinox membership and comprehensive health and dental\ncoverage.\n",
+  "skills_required": [
+    "Anthropic API",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "RAG",
+    "agents",
+    "context management",
+    "function calling",
+    "multi-modal workflows",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and build the agentic systems powering FLORA",
+    "Design and implement the intelligence layer with multi-modal creative workflows",
+    "Build agentic features that integrate text, image, and video models",
+    "Implement evaluation frameworks including automated checks and human-in-the-loop scoring",
+    "Develop memory and retrieval systems using vector databases and embeddings",
+    "Create orchestration logic across models, APIs, and tools with retries and fallbacks",
+    "Collaborate across frontend, backend, and infrastructure to ship AI features"
+  ],
+  "use_cases": [
+    "Generative AI canvas for creative professionals",
+    "Multi-modal creative workflows orchestrating text, image, and video models",
+    "Agentic systems that enable creatives to speak ideas into existence",
+    "Node-based interfaces for AI-powered creative tools",
+    "Enterprise creative workflows for brands and agencies"
+  ],
+  "tools_mentioned": [
+    "Chroma",
+    "Pinecone",
+    "REST APIs",
+    "React",
+    "Weaviate",
+    "embeddings",
+    "evaluation frameworks",
+    "human-in-the-loop",
+    "pgvector",
+    "regression testing"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "OpenAI API",
+    "RAG",
+    "agents",
+    "context management",
+    "function calling",
+    "multi-modal workflows",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an ai-first role focused on building agentic\nsystems, multi-step pipelines, and tool-using agents. The\nengineer will architect and deploy AI systems that\norchestrate text, image, and video models directly for end-\nusers.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "OpenAI API",
+      "Anthropic API",
+      "RAG",
+      "agents",
+      "function calling",
+      "prompt engineering",
+      "context management",
+      "multi-modal workflows"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "React"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Chroma",
+      "pgvector",
+      "embeddings"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "evaluation frameworks",
+      "human-in-the-loop",
+      "regression testing"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

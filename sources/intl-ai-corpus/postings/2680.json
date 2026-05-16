@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2680",
+  "source": "intl-ai-corpus",
+  "source_ref": "8966221",
+  "source_url": "https://www.builtinla.com/job/senior-ai-engineer/8966221",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cellebrite",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-06",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Digital forensics and intelligence investigation platform",
+  "industries": [
+    "Software",
+    "Analytics",
+    "Cybersecurity"
+  ],
+  "description": "Description\n\nAbout Cellebrite:\n\nCellebrite’s (Nasdaq: CLBT) mission is to enable its global\ncustomers to protect and save lives by enhancing digital\ninvestigations and intelligence gathering to accelerate\njustice in communities around the world. Cellebrite’s AI-\npowered Digital Investigation Platform enables customers to\nlawfully access, collect, analyze and share digital evidence\nin legally sanctioned investigations while preserving data\nprivacy. Thousands of public safety organizations,\nintelligence agencies and businesses rely on Cellebrite’s\ndigital forensic and investigative solutions-available via\ncloud, on-premises and hybrid deployments-to close faster\nand safeguard communities. To learn more, visit us at www.ce\nllebrite.com, https://investors.cellebrite.com/investors and\nfind us on social media @Cellebrite.\n\n﻿What is your mission?\n\nWe are seeking a talented and driven developer to join our\nteam and help build scalable, cloud-native solutions on AWS.\nThis role sits at the intersection of modern software\nengineering and applied AI — leveraging AI-powered\ndevelopment tools to enhance engineering productivity while\nalso designing and delivering AI-driven capabilities within\nour product.\n\nYou will be developing and maintaining a product to\ntransform complex forensic data from diverse sources into\nmeaningful investigative leads and intelligence insights.\nThis platform will analyze large-scale datasets to uncover\npatterns, anomalies, and relationships across entities —\nenabling users to see the bigger picture and act with\nconfidence.\n\nResponsibilities:\n\n- Design and implement features for our AWS-based AI solution,\n  including job orchestration, manifest generation, and API\n  integrations.\n- Build and maintain AI-powered product features that extract\n  insights from complex, multi-source forensic datasets.\n- Leverage AI-assisted development tools to accelerate\n  delivery while maintaining high standards of quality,\n  security, and performance.\n- Ensure code quality and reliability through comprehensive\n  unit testing, performance testing, and observability\n  enhancements.\n- Collaborate with cross-functional teams to integrate AI\n  services into broader investigation workflows and runtime\n  environments.\n- Troubleshoot deployment issues and contribute to the\n  continuous improvement of dashboards and monitoring tools.\n- Contribute to data modelling, algorithm exploration, and\n  proof-of-concept development.\n\nRequirements:\n\n- Strong proficiency in Python and TypeScript, with experience\n  building APIs and cloud‑native architecture.\n- Knowledge of Node.js, Next.js, and React preferred;\n  experience with Go is a plus.\n- Hands‑on experience with AWS services such as SageMaker and\n  Lambda.\n- Ability to produce clear, maintainable code and contribute\n  to shared documentation and engineering standards.\n- Working knowledge of GitHub workflows, secrets handling, and\n  secure release practices.\n- Experience with Amazon EKS and Kubernetes‑based deployment\n  environments.\n- Exposure to GenAI platforms, including LLM integration and\n  semantic caching techniques.\n- Familiarity with observability platforms such as Datadog and\n  structured log aggregation.\n\nCellebrite is an equal opportunity/affirmative action\nemployer. All qualified applicants will receive\nconsideration for employment without regard to sex, gender\nidentity, sexual orientation, race, colour, religion,\nnational origin, disability, protected Veteran status, age,\nor any other characteristic protected by law.\n\n#LI-DT1\n",
+  "skills_required": [
+    "GenAI platforms",
+    "LLM integration",
+    "Semantic caching"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement features for AWS-based AI solution, including job orchestration, manifest generation, and API integrations",
+    "Build and maintain AI-powered product features that extract insights from complex, multi-source forensic datasets",
+    "Leverage AI-assisted development tools to accelerate delivery while maintaining quality, security, and performance",
+    "Ensure code quality and reliability through comprehensive unit testing, performance testing, and observability enhancements",
+    "Collaborate with cross-functional teams to integrate AI services into broader investigation workflows and runtime environments",
+    "Troubleshoot deployment issues and contribute to continuous improvement of dashboards and monitoring tools",
+    "Contribute to data modelling, algorithm exploration, and proof-of-concept development"
+  ],
+  "use_cases": [
+    "Transform complex forensic data from diverse sources into meaningful investigative leads and intelligence insights",
+    "Analyze large-scale datasets to uncover patterns, anomalies, and relationships across entities",
+    "AI-powered digital investigation platform for law enforcement and intelligence agencies",
+    "Digital evidence collection, analysis, and sharing in legally sanctioned investigations"
+  ],
+  "tools_mentioned": [
+    "API development",
+    "AWS",
+    "AWS Lambda",
+    "AWS SageMaker",
+    "Amazon EKS",
+    "Cloud-native architecture",
+    "Datadog",
+    "GitHub workflows",
+    "Kubernetes",
+    "Next.js",
+    "Node.js",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "GenAI platforms",
+    "LLM integration",
+    "Semantic caching"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves building AI-powered product features that\nextract insights from forensic datasets, integrating AI\nservices (including LLMs via GenAI platforms) into the\nproduct, and working with AWS SageMaker. This is hands-on\nwork implementing and deploying AI capabilities within the\nproduct, not just supporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM integration",
+      "Semantic caching",
+      "GenAI platforms"
+    ],
+    "ml": [],
+    "web": [
+      "Node.js",
+      "Next.js",
+      "React",
+      "API development"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "AWS SageMaker",
+      "AWS Lambda",
+      "Amazon EKS",
+      "Cloud-native architecture"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Datadog",
+      "GitHub workflows"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

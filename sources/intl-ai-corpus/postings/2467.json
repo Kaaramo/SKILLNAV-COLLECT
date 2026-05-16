@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2467",
+  "source": "intl-ai-corpus",
+  "source_ref": "8903829",
+  "source_url": "https://builtin.com/job/devops-engineer-se-ii-gcp-ai/8903829",
+  "title": "DevOps Engineer SE II - GCP & AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Keywords Studios",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "4,788 Employees",
+  "company_stage": "Public",
+  "company_focus": "Game development services and player support platform\n(Helpshift)",
+  "industries": [
+    "Digital Media",
+    "Gaming",
+    "Software"
+  ],
+  "description": "Responsibilities:\n\n- Infrastructure Ownership: Own Helpshift production services\n  and ensure complete monitoring coverage, troubleshoot and\n  fix production issues.\n- Infrastructure as Code (IaC): Design and maintain scalable\n  GCP infrastructure using Terraform o\n- AI Orchestration & LLMOps: Build deployment pipelines for AI\n  agents, managing vector databases (e.g., Vertex AI Search,\n  Pinecone, Weaviate, ElasticSearch) and model endpoints.\n- Security (DevSecOps): Implement \"Security-by-Design,\"\n  including IAM least-privilege access, secret management\n  (Secret Manager), and automated vulnerability scanning for\n  AI workloads.\n- CI/CD Excellence: Architect high-velocity pipelines for both\n  traditional microservices and AI model\n  prompts/configurations. Design, implement, and maintain\n  secure CI/CD pipelines for automating deployment,\n  configuration, and testing processes.\n- Observability: Set up comprehensive monitoring for system\n  health and LLM-specific metrics (latency, token usage, and\n  cost)\n- Cloud Governance: Optimise GCP costs and manage resource\n  quotas, especially for GPU/TPU-intensive AI tasks.\n- Cross Cloud Deployment: Establish & Optimise the\n  connectivity among apps deployed in different cloud\n  environments (AWS <> GCP)\n\nRequirementsRequirements\n\n- Relevant experience of 6+ years and above\n- Expert-level Google Cloud Platform (GCP) administration\n  skills: GKE, Cloud Run, Vertex AI, GCS, NEG etc\n- Experience deploying Vector Databases (Pinecone, Weaviate,\n  ElasticSearch or Vertex Search) and managing API rate\n  limits/throttling for LLM providers.\n- Setting up Cloud Monitoring/Logging specifically for AI\n  metrics: token consumption, inference latency, and model\n  error rates.\n- In-depth knowledge of running/managing UNIX-like operating\n  systems (we use Ubuntu)\n- Strong knowledge of networking protocols, security\n  architectures, and identity and access management (IAM)\n  principles.\n- Experience with containerisation technologies (e.g., Docker,\n  Kubernetes) and securing containerised environments.\n- Proficiency in Python and Bash\n- Experience in designing and building solutions that are\n  highly scalable, fault tolerant and cost-effective\n- Experience with IaaC tools like Ansible, Terraform.\n- Ability to analyse bottlenecks in architecture and quickly\n  debug to reach a resolution for issues\n- Have an automation mindset and ability to reason and work\n  with complex systems.\n- Excellent communication and documentation skills\n- Quick learner and good mentor for junior team members\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own Helpshift production services with complete monitoring coverage, troubleshoot and fix production issues",
+    "Design and maintain scalable GCP infrastructure using Terraform and Infrastructure as Code practices",
+    "Build deployment pipelines for AI agents, managing vector databases (Vertex AI Search, Pinecone, Weaviate, ElasticSearch) and model endpoints",
+    "Implement Security-by-Design including IAM least-privilege access, secret management, and automated vulnerability scanning for AI workloads",
+    "Architect high-velocity CI/CD pipelines for traditional microservices and AI model prompts/configurations",
+    "Set up comprehensive monitoring for system health and LLM-specific metrics (latency, token usage, cost)",
+    "Optimize GCP costs and manage resource quotas for GPU/TPU-intensive AI tasks",
+    "Establish and optimize cross-cloud connectivity between AWS and GCP deployments"
+  ],
+  "use_cases": [
+    "Deploying and serving AI agents and LLM-based applications at scale",
+    "Managing vector databases for semantic search and retrieval-augmented generation",
+    "Monitoring LLM inference performance including token consumption, latency, and error rates",
+    "Cost-optimized GPU/TPU resource management for AI workloads on GCP",
+    "Secure CI/CD automation for AI model configurations and microservices"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ansible",
+    "CI/CD",
+    "Cloud Run",
+    "DevSecOps",
+    "Docker",
+    "ElasticSearch",
+    "GCP",
+    "GCS",
+    "GKE",
+    "IAM",
+    "Kubernetes",
+    "LLMOps",
+    "Pinecone",
+    "Terraform",
+    "Vertex AI",
+    "Vertex AI Search",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Bash",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "While this role involves building deployment pipelines for\nAI agents and managing vector databases and model endpoints,\nthe core function is DevOps/infrastructure engineering. The\nengineer is not building, training, or fine-tuning models\nthemselves — they are enabling and supporting AI workloads\nthrough infrastructure, CI/CD, monitoring, and security.\nThis is platform/infrastructure work that supports AI teams\nrather than hands-on AI/ML development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "ElasticSearch",
+      "Vertex AI Search"
+    ],
+    "data": [],
+    "cloud": [
+      "GCP",
+      "GKE",
+      "Cloud Run",
+      "Vertex AI",
+      "AWS",
+      "GCS"
+    ],
+    "ops": [
+      "Terraform",
+      "Ansible",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "LLMOps",
+      "DevSecOps",
+      "IAM"
+    ],
+    "languages": [
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,136 @@
+{
+  "job_id": "intl-ai-corpus-1285",
+  "source": "intl-ai-corpus",
+  "source_ref": "8374506",
+  "source_url": "https://builtin.com/job/senior-ai-ml-platform-engineer/8374506",
+  "title": "Senior AI/ML Platform Engineer",
+  "title_normalized": "MLOPS_ENGINEER",
+  "company": "IMTF - Excellence in RegTech Solutions",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-02",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "193 Employees",
+  "company_stage": null,
+  "company_focus": "RegTech - Anti-Money Laundering and Anti-Fraud solutions",
+  "industries": [
+    "Fintech",
+    "Software",
+    "Financial Services",
+    "Cybersecurity"
+  ],
+  "description": "As a leading global software product company in the field of\nCompliance & Automation, IMTF Group develops cutting-edge\nRegTech solutions with a focus on Anti-Money Laundering and\nAnti-Fraud. We are dedicated to automating manual processes\nthrough the use of machine learning and data science,\nensuring our clients have the most efficient and effective\ncompliance solutions on the market.\n\nWe value innovation, excellence, and continuous learning at\nIMTF Group. We provide a dynamic, collaborative work\nenvironment where your ideas will be heard and your skills\nwill be put to the test. If you are passionate about\ntechnology and motivated to make a significant impact in the\ncompliance industry, this is the perfect opportunity for you\nto thrive and advance your career with us.\n\nResponsibilities\n\n- Design, develop, test, maintain and improve the AI/ML\n  infrastructure for our enterprise software solution based\n  on a scalable micro service architecture running on\n  Kubernetes\n- Write high-quality, clean, maintainable, secure and reliable\n  DevOps routines and Helm Charts\n- Work across the entire backend stack, from integrating with\n  event-driven architectures using Kafka, gRPC as well as\n  REST APIs and robust data engineering pipelines\n- Leverage modern AI/ML lifecycle technologies (MLFlow) and\n  integrate with scalable data pipelines (Spark)\n- Drive the evolution of our architecture and technology\n  stack, ensuring scalability, performance, reliability and\n  security at ISO 27001 level\n- Support the deployment, monitoring, and optimization of\n  models in complex and varied production environments,\n  including air-gaped product usage scenarios with or\n  without GPU availability\n- Contribute to model and data pipeline design decisions to\n  ensure the customer deployed Kubernetes stack reliability\n\nRequirements\n\n- University degree in Computer Science, Platform Engineering,\n  or equivalent work experience\n- 5+ years of hands-on AI/ML platform engineering experience,\n  with Kubernetes, Spark, and data engineering technologies\n- Experience in security sensitive product deployment\n  scenarios such as health, defense, intelligence or finance\n  is an advantage\n- Strong understanding of distributed system design, AI\n  platforms (LangChain, PyTorch, SparkML), and MLops\n  practices including MLFlow and Kubernetes\n- Experienced in writing clean, maintainable, and testable\n  code, applying principles such as clean architecture,\n  agile methodologies, cloud-native development Kubernetes,\n  and modern software engineering practices\n- Familiarity with our ML/AI stack (Spark, MLFlow, Delta Lake,\n  PyTorch incl. Distributed, TensorFlow, ONNX) and backend\n  technologies such as Helm and Kubernetes is a strong asset\n- Ability to collaborate effectively within cross-functional\n  teams\n- Excellent problem-solving, debugging, and troubleshooting\n  skills\n- Strong verbal and written communication skills in English\n\nBenefits\n\n- Make the world safer: Help prevent financial crime and\n  support our customers in creating a safer world\n- Be part of a leading RegTech: Contribute to a well-\n  established, innovative company in Switzerland\n- International exposure: Work with global clients on diverse,\n  challenging projects in a multicultural team\n- Ownership and growth: Take responsibility from day one and\n  develop your skills and career\n- Flexible work environment: Enjoy hybrid work and flexible\n  hours\n- Paid education: Access opportunities for further training to\n  enhance your expertise\n\nAt IMTF, we are committed to treating all candidates with\nrespect and equality, regardless of gender, religion,\nnationality, or any other characteristic. We embrace\ndiversity and inclusion as integral components of our\norganizational culture, and we welcome candidates from all\nbackgrounds to apply and contribute to our team.\n",
+  "skills_required": [
+    "Distributed Systems",
+    "ISO 27001",
+    "LangChain",
+    "Microservices",
+    "ONNX",
+    "PyTorch",
+    "SparkML",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, test, maintain and improve the AI/ML infrastructure for enterprise software solution based on scalable microservice architecture running on Kubernetes",
+    "Write high-quality, clean, maintainable, secure and reliable DevOps routines and Helm Charts",
+    "Work across the entire backend stack, integrating with event-driven architectures using Kafka, gRPC, REST APIs and robust data engineering pipelines",
+    "Leverage modern AI/ML lifecycle technologies (MLFlow) and integrate with scalable data pipelines (Spark)",
+    "Drive the evolution of architecture and technology stack, ensuring scalability, performance, reliability and security at ISO 27001 level",
+    "Support the deployment, monitoring, and optimization of models in complex and varied production environments, including air-gapped scenarios with or without GPU availability",
+    "Contribute to model and data pipeline design decisions to ensure customer deployed Kubernetes stack reliability"
+  ],
+  "use_cases": [
+    "Automating manual compliance processes through machine learning and data science",
+    "Anti-Money Laundering (AML) detection and monitoring",
+    "Anti-Fraud detection and prevention systems",
+    "RegTech solutions for financial crime prevention",
+    "Enterprise compliance automation for regulated industries"
+  ],
+  "tools_mentioned": [
+    "Delta Lake",
+    "DevOps",
+    "Helm",
+    "Kafka",
+    "Kubernetes",
+    "MLFlow",
+    "MLOps",
+    "REST APIs",
+    "Spark",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "ONNX",
+    "PyTorch",
+    "SparkML",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a platform engineering role focused on building\ninfrastructure, tooling, and DevOps capabilities to support\nAI/ML workloads. The responsibilities center on\ninfrastructure, deployment, monitoring, and platform\ndevelopment rather than hands-on model building, training,\nor fine-tuning.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain"
+    ],
+    "ml": [
+      "SparkML",
+      "PyTorch",
+      "TensorFlow",
+      "ONNX"
+    ],
+    "web": [
+      "gRPC",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Spark",
+      "Delta Lake",
+      "Kafka"
+    ],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Helm",
+      "MLFlow",
+      "DevOps",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "ISO 27001",
+      "Microservices",
+      "Distributed Systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

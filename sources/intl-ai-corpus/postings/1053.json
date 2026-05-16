@@ -1,0 +1,139 @@
+{
+  "job_id": "intl-ai-corpus-1053",
+  "source": "intl-ai-corpus",
+  "source_ref": "8069857",
+  "source_url": "https://builtin.com/job/lead-backend-engineer-calendar-ai/8069857",
+  "title": "Lead Backend Engineer - Calendar AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "HighLevel",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-15",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "974 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered sales and marketing platform",
+  "industries": [
+    "Information Technology",
+    "Internet of Things",
+    "Marketing Tech"
+  ],
+  "description": "About HighLevel:\n\nHighLevel is an AI powered, all-in-one white-label sales &\nmarketing platform that empowers agencies, entrepreneurs,\nand businesses to elevate their digital presence and drive\ngrowth. We are proud to support a global and growing\ncommunity of over 2 million businesses, comprised of\nagencies, consultants, and businesses of all sizes and\nindustries. HighLevel empowers users  with all the tools\nneeded to capture, nurture, and close new leads into repeat\ncustomers. As of mid 2025, HighLevel processes over 4\nbillion API hits and handles more than 2.5 billion message\nevents every day. Our platform manages over 470 terabytes of\ndata distributed across five databases, operates with a\nnetwork of over 250 microservices, and supports over 1\nmillion hostnames.\n\nOur People:\n\nWith over 1,500 team members across 15+ countries, we\noperate in a global, remote-first environment. We are\nbuilding more than software; we are building a global\ncommunity rooted in creativity, collaboration, and impact.\nWe take pride in cultivating a culture where innovation\nthrives, ideas are celebrated, and people come first, no\nmatter where they call home.\n\nOur Impact:\n\nAs of mid 2025, our platform powers over 1.5 billion\nmessages, helps generate over 200 million leads, and\nfacilitates over 20 million conversations for the more than\n2 million businesses we serve each month. Behind those\nnumbers are real people growing their companies, connecting\nwith customers, and making their mark - and we get to help\nmake that happen.\n\nAbout the Role:\n\nWe are building an AI-first scheduling and booking\nintelligence layer on top of a universal Calendars &\nAvailability Platform. As the Lead Engineer for the Calendar\nAI Team, you will architect and deliver AI systems that\nassist users during setup, configuration, and optimization\nof their booking systems - and evolve this into a full AI-\ndriven scheduling engine that optimizes capacity,\nutilisation, and resource allocation.\n\nYou will lead the design of LLM workflows, RAG pipelines,\nretrieval layers, embeddings, context builders, scheduling-\naware reasoning modules, optimisation algorithms, and\nbackend integrations. You will also guide and mentor\nengineers as the AI team grows.\n\nThis is a deeply technical role with a strong emphasis on AI\nengineering + System Design + scheduling domain logic.\n\nResponsibilities:\n\n- Design and implement LLM-powered onboarding assistants using\n  Google/OpenAI/Anthropic models with deterministic\n  orchestration (LangChain, LlamaIndex, custom pipelines)\n- Build RAG workflows using vector databases (Pinecone,\n  Weaviate, Qdrant, pgvector) to inject contextual booking\n  data into model prompts\n- Develop AI-driven configuration engines that translate\n  natural language into structured booking primitives\n  (services, schedules, resources, capacity, pricing rules)\n- Design optimization models for resource utilization,\n  workload distribution, capacity forecasting, and conflict\n  reduction\n- Integrate AI pipelines into backend systems using\n  Node.js/TypeScript/Go services\n- Build scheduling-aware reasoning modules that handle\n  constraints, buffers, lead times, resource availability,\n  and business rules\n- Create scalable data pipelines for embeddings generation,\n  context indexing, and model fine-tuning/hybrid retrieval\n- Implement latency-optimized inference orchestration with\n  streaming responses, caching, and hybrid decision engines\n- Own the AI Runtime Layer enabling vertical-specific booking\n  logic, plugins, actions, and smart suggestions\n- Lead and mentor the engineering team, enforce architectural\n  standards, and drive long-term AI roadmap\n\nRequirements:\n\n- 5+ years of backend engineering experience, with at least 2\n  years building LLM, RAG or intelligent systems\n- Experience with OpenAI/Anthropic/Google/Meta LLMs (GPT-4+,\n  Claude, Gemini, Llama)\n- Strong with LangChain, LlamaIndex, or custom LLM\n  orchestration frameworks\n- Expertise with RAG architectures\n- Experience building prompt pipelines, tools/agents, and\n  compound reasoning workflows\n- Comfort with guardrails, validation layers, hallucination\n  reduction, and safety\n- Strong proficiency in Node.js/TypeScript/Go for platform\n  integration\n\nEEO Statement:\n\nThe company is an Equal Opportunity Employer. As an employer\nsubject to affirmative action regulations, we invite you to\nvoluntarily provide the following demographic information.\nThis information is used solely for compliance with\ngovernment recordkeeping, reporting, and other legal\nrequirements. Providing this information is voluntary and\nrefusal to do so will not affect your application status.\nThis data will be kept separate from your application and\nwill not be used in the hiring decision.\n\n#LI-Remote #LI-HB1\n",
+  "skills_required": [
+    "Anthropic API",
+    "Google LLM",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI API",
+    "RAG",
+    "agents",
+    "embeddings",
+    "function calling",
+    "model fine-tuning",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement LLM-powered onboarding assistants using Google/OpenAI/Anthropic models with deterministic orchestration",
+    "Build RAG workflows using vector databases to inject contextual booking data into model prompts",
+    "Develop AI-driven configuration engines that translate natural language into structured booking primitives",
+    "Design optimization models for resource utilization, workload distribution, capacity forecasting, and conflict reduction",
+    "Build scheduling-aware reasoning modules that handle constraints, buffers, lead times, resource availability, and business rules",
+    "Create scalable data pipelines for embeddings generation, context indexing, and model fine-tuning/hybrid retrieval",
+    "Implement latency-optimized inference orchestration with streaming responses, caching, and hybrid decision engines",
+    "Lead and mentor the engineering team, enforce architectural standards, and drive long-term AI roadmap"
+  ],
+  "use_cases": [
+    "AI-first scheduling and booking intelligence layer",
+    "LLM-powered onboarding and configuration assistance for booking systems",
+    "Natural language to structured booking primitives conversion",
+    "Resource optimization and capacity forecasting for scheduling",
+    "Conflict reduction and workload distribution for bookings"
+  ],
+  "tools_mentioned": [
+    "Pinecone",
+    "Qdrant",
+    "Weaviate",
+    "inference optimization",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "Google LLM",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI API",
+    "RAG",
+    "agents",
+    "embeddings",
+    "function calling",
+    "model fine-tuning",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Go",
+    "Node.js",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building AI systems including\nLLM-powered assistants, RAG pipelines, embeddings, and LLM\norchestration workflows. The engineer is responsible for\ndesigning and implementing models, fine-tuning, and\ninference optimization - all hands-on work with AI/ML\nsystems rather than just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "OpenAI API",
+      "Anthropic API",
+      "Google LLM",
+      "RAG",
+      "prompt engineering",
+      "agents",
+      "function calling"
+    ],
+    "ml": [
+      "embeddings",
+      "model fine-tuning"
+    ],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "pgvector"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "inference optimization"
+    ],
+    "languages": [
+      "Node.js",
+      "TypeScript",
+      "Go"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

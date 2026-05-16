@@ -1,0 +1,146 @@
+{
+  "job_id": "intl-ai-corpus-0934",
+  "source": "intl-ai-corpus",
+  "source_ref": "7730986",
+  "source_url": "https://builtin.com/job/principal-ai-ml-engineer/7730986",
+  "title": "Principal AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Onebrief",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "300 Employees",
+  "company_stage": "Series B+",
+  "company_focus": "AI-powered collaboration software for military staffs and\nmission planning",
+  "industries": [
+    "Software",
+    "Defense"
+  ],
+  "description": "About Onebrief\n\nOnebrief is collaboration and AI-powered workflow software\ndesigned specifically for military staffs. By transforming\nthis work, Onebrief makes the staff as a whole superhuman -\nmeaning faster, smarter, and more efficient.\n\nWe take ownership, seek excellence, and play to win with the\nseriousness and camaraderie of an Olympic team. Onebrief\noperates as an all-remote company, though many of our\nemployees work alongside our customers at military commands\naround the world.\n\nFounded in 2019 by a group of experienced planners, today,\nOnebrief’s team spans veterans from all forces and global\norganizations, and technologists from leading-edge software\ncompanies. We’ve raised $320m+ from top-tier investors,\nincluding Battery Ventures, General Catalyst, Sapphire\nVentures, Insight Partners, and Human Capital, and today,\nOnebrief is valued at $2.15B. With this continued growth,\nOnebrief is able to make an impact where it matters most.\n\nAbout the Role\n\nWe're hiring a Principal AI/ML Engineer to lead the design\nand implementation of enterprise-grade AI systems that power\nmission-critical operations. In this role, you will\narchitect scalable AI infrastructure, deliver practical AI\nsolutions that solve real operational challenges, and drive\ntechnical strategy for our AI-powered products.\n\nYou'll apply cutting edge AI to transform complex military\nrequirements for planning critical operations into robust\nproduction-ready systems. You will have the opportunity to\nredefine distributed human-AI collaboration at scale with\nthe use of multi modal foundation models, multi-agent\norchestration and knowledge graph driven reasoning.\n\nExpect to lead cross-functional technical initiatives,\nmentor engineers, and establish technical standards that\nenable rapid innovation while ensuring reliability. The\nsolutions you design must be robust, scalable, and able to\nsupport thousands of users in regulated, offline-capable\nenvironments.\n\nWhat You'll Do\n\n- Partner with product, domain experts, and leadership to\n  translate operational needs into technical roadmaps.\n- Define system-level standards for model development,\n  evaluation, and deployment, while mentoring senior and\n  staff level engineers through collaboration.\n- Drive long term AI/ML architecture at Onebrief.\n- Agent Orchestration: Design systems that coordinate multiple\n  AI agents, tools, and workflows to accomplish complex\n  operational tasks.\n- Design and implement enterprise-scale AI infrastructure\n  supporting retrieval, generation, and multi-modal\n  reasoning.\n- Build and scale graph-based systems for structured\n  representation, reasoning, and integration with generative\n  models.\n- Apply LLM practices like RAG & prompt engineering to deliver\n  grounded & reliable outputs for mission planning\n- Establish evaluation frameworks and SLO's for RAG quality,\n  agent reliability, and system performance in production\n- Collaborate with infrastructure teams to ensure high quality\n  data pipelines to power AI applications\n\nWhat We Look For\n\n- M.S. in Computer Science, Engineering, or equivalent\n  practical experience\n- 10+ years in large scale distributed systems, ideally\n  supporting more than 100k concurrent users\n- Proven experience designing and deploying AI systems at\n  scale in distributed, production environments\n- Strong background in integrating LLMs with retrieval systems\n  for real-world use cases\n- Understanding of data governance, model safety evaluations,\n  red-teaming, and secure ML practices for regulated domains\n- Experience with building systems with information retrieval\n  (relevance & ranking), natural language processing\n  techniques like Named Entity Recognition (NER)\n\nPreferred Qualifications\n\n- Background in defense, national security, or other mission-\n  critical domains\n- Experience with orchestrating systems that combine text,\n  structured data, and domain-specific signals\n\nNotice to Third Party Recruitment Agencies Please note that\nOnebrief does not accept unsolicited resumes from recruiters\nor employment agencies. In the absence of an executed\nRecruitment Services Agreement, there will be no obligation\nto any referral compensation or recruiter fee. In the event\na recruiter or agency submits a resume or candidate without\nan agreement Onebrief explicitly reserves the right to\npursue and hire those candidate(s) without any financial\nobligation to the recruiter or agency. Any unsolicited\nresumes, including those submitted to hiring managers, shall\nbe deemed the property of Onebrief.\n",
+  "skills_required": [
+    "LLMs",
+    "NER",
+    "NLP",
+    "RAG",
+    "fine-tuning",
+    "information retrieval",
+    "knowledge graphs",
+    "model evaluation",
+    "model safety evaluations",
+    "model training",
+    "multi-agent orchestration",
+    "multi-modal foundation models",
+    "prompt engineering",
+    "red-teaming",
+    "relevance and ranking",
+    "secure ML practices"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Partner with product and domain experts to translate operational needs into technical roadmaps",
+    "Define system-level standards for model development, evaluation, and deployment while mentoring engineers",
+    "Drive long-term AI/ML architecture including agent orchestration systems coordinating multiple AI agents, tools, and workflows",
+    "Design and implement enterprise-scale AI infrastructure supporting retrieval, generation, and multi-modal reasoning",
+    "Build and scale graph-based systems for structured representation and reasoning integrated with generative models",
+    "Apply LLM practices like RAG and prompt engineering to deliver grounded outputs for mission planning",
+    "Establish evaluation frameworks and SLOs for RAG quality, agent reliability, and system performance in production",
+    "Collaborate with infrastructure teams to ensure high-quality data pipelines powering AI applications"
+  ],
+  "use_cases": [
+    "Transform complex military requirements for planning critical operations into robust production-ready systems",
+    "Enable distributed human-AI collaboration at scale using multi-modal foundation models",
+    "Coordinate AI agents to accomplish complex operational tasks in mission-critical environments",
+    "Support thousands of users in regulated, offline-capable environments for military operations",
+    "Combine text, structured data, and domain-specific signals for orchestrated AI systems",
+    "Deliver grounded and reliable AI outputs for military mission planning workflows"
+  ],
+  "tools_mentioned": [
+    "data governance",
+    "data pipelines",
+    "distributed systems"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "NER",
+    "NLP",
+    "RAG",
+    "fine-tuning",
+    "information retrieval",
+    "knowledge graphs",
+    "model evaluation",
+    "model safety evaluations",
+    "model training",
+    "multi-agent orchestration",
+    "multi-modal foundation models",
+    "prompt engineering",
+    "red-teaming",
+    "relevance and ranking",
+    "secure ML practices"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building AI systems\nincluding multi-agent orchestration, RAG implementation,\nknowledge graph integration, and deploying LLMs in\nproduction. The Principal AI/ML Engineer will architect and\nimplement these AI solutions directly, not just support\ninfrastructure for them.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG",
+      "prompt engineering",
+      "multi-agent orchestration",
+      "multi-modal foundation models",
+      "knowledge graphs"
+    ],
+    "ml": [
+      "model training",
+      "fine-tuning",
+      "model evaluation",
+      "NER",
+      "information retrieval",
+      "relevance and ranking",
+      "NLP",
+      "model safety evaluations",
+      "red-teaming",
+      "secure ML practices"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "data governance",
+      "data pipelines"
+    ],
+    "cloud": [
+      "distributed systems"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

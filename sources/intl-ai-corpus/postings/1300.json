@@ -1,0 +1,160 @@
+{
+  "job_id": "intl-ai-corpus-1300",
+  "source": "intl-ai-corpus",
+  "source_ref": "8385923",
+  "source_url": "https://builtin.com/job/lead-ai-developer/8385923",
+  "title": "Lead AI Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Hitachi Vantara",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "9,542 Employees",
+  "company_stage": "Public",
+  "company_focus": "Digital transformation services and enterprise IT solutions",
+  "industries": [
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Our Company\n\n\n\nWe’re Hitachi Digital, a company at the forefront of digital\ntransformation and the fastest growing division of Hitachi\nGroup. We’re crucial to the company’s strategy and ambition\nto become a premier global player in the massive and fast-\nmoving digital transformation market.\n\n\n\nOur group companies, including GlobalLogic, Hitachi Digital\nServices, Hitachi Vantara and more, offer comprehensive\nservices that span the entire digital lifecycle, from\ninitial idea to full-scale operation and the infrastructure\nto run it on. Hitachi Digital represents One Hitachi,\nintegrating domain knowledge and digital capabilities, and\nharnessing the power of the entire portfolio of services,\ntechnologies, and partnerships, to accelerate synergy\ncreation and make real-world impact for our customers and\nsociety as a whole.\n\n\n\nImagine the sheer breadth of talent it takes to unleash a\ndigital future. We don’t expect you to ‘fit’ every\nrequirement – your life experience, character, perspective,\nand passion for achieving great things in the world are\nequally as important to us.\n\n\n\nThe Team\n\nHitachi Digital is a leader in digital transformation,\nleveraging advanced AI technologies to drive innovation and\nefficiency across our global operating companies (OpCos) and\ncorporate functions. We are seeking an experienced Lead AI\nDeveloper to spearhead new AI initiatives and strengthen our\nAgentic AI capabilities. You will build new AI products and\nrefine existing models to meet evolving business needs, with\na primary focus on GCP and Gemini Enterprise.\n\n\n\nThe role\n\nDesign, develop, and implement production-grade AI models,\nagents, and algorithms using Agentic AI frameworks\n(multi‑agent orchestration, tool‑use, memory, judge/ranker\npatterns). Lead delivery of Gemini Enterprise solutions\n(including Agent Workspace/Agent Builder or equivalent),\ndefining agent roles, toolchains, and safety guardrails for\nenterprise workflows. Drive new AI initiatives across OpCos\nand corporate functions, ensuring secure integration with\nexisting systems, data sources, and processes. Enhance and\nscale current Agentic AI capabilities for improved\nperformance, latency, reliability, and cost efficiency.\nImplement RAG (retrieval‑augmented generation)\npipelines—document ingestion, embeddings, vector search,\ngrounding, and citations. Collaborate with product,\nengineering, data, and business teams to translate\nrequirements into high‑impact AI features and APIs.\nEstablish LLMOps/MLOps practices (CI/CD, versioning,\nevaluation harnesses, rollback, prompt/test suites) and AI\nOps observability (latency, accuracy, cost, drift/bias).\nTroubleshoot complex production issues across models,\nagents, tooling, and integrations; drive root‑cause analysis\nand corrective actions. Produce clear technical\ndocumentation—architecture decisions, model cards,\nplaybooks, and best practices; mentor junior engineers and\nlead code/design reviews. Stay current on the latest\ndevelopments in LLMs/SLMs, embeddings, vector databases,\nsafety/guardrails, and evaluation methodologies.\n\nWhat you’ll bring\n\nRequirements (Must‑Have)\n\nBachelor’s or Master’s in Computer Science, Artificial\nIntelligence, Machine Learning, or related field. 7+ years\nin AI/ML development, including production delivery of\nLLM‑powered applications. Hands‑on experience with Gemini\nEnterprise in real‑world deployments (prompting, tool‑use,\nsafety, evaluation, cost/latency tuning). Deep experience\nwith Agentic AI frameworks (multi‑agent design,\norchestration, tool/plugin ecosystems, agent memory,\njudge/critic patterns). Primary experience on Google Cloud\nPlatform (GCP), including Vertex AI (Pipelines,\nEndpoints/Model Serving, Model Registry/Monitoring, Vector\nSearch) and secure service integration (IAM, Secret Manager,\nVPC‑SC). Strong programming skills in Python (preferred) and\none of Java/C++/TypeScript; proficiency building REST/gRPC\nservices and event‑driven workflows. Prior, demonstrable\nexperience with Generative AI (GenAI) and Large Language\nModels (LLMs), including grounding/RAG and evaluation.\nPractical expertise with AI/ML frameworks (e.g., TensorFlow,\nPyTorch) and NLP techniques. Solid understanding of\nMLOps/LLMOps and AI Ops (observability, explainability,\nbias/drift monitoring, rollback strategies). Excellent\nproblem‑solving skills and the ability to work independently\nand within cross‑functional teams; strong written and verbal\ncommunication skills.\n\nPreferred Qualifications\n\nExperience integrating agents with enterprise systems (ERP,\nCRM, ITSM, Finance, Procurement) via APIs and eventing\n(Pub/Sub). Background in vector databases, embeddings, and\nknowledge graphs (e.g., Neo4j) for contextual intelligence.\nExposure to GPU‑based training/inference, prompt\noptimization, and cost‑aware routing/ensembling of\nLLMs/SLMs. Familiarity with orchestration libraries and\nevaluation tooling (e.g., LangChain/Graph, custom harnesses,\njudge/ranker patterns). Certifications such as Google\nProfessional Cloud Architect or Machine Learning Engineer.\n\nWhat Success Looks Like (First 6–12 Months)\n\nLaunch of production Agentic AI features on GCP with\nmeasurable improvements in user satisfaction and business\noutcomes. Established LLMOps/AI Ops dashboards and SLIs/SLOs\n(quality, latency, cost), with automated testing and safe\nrollback. Documented guardrails and governance artifacts\n(model cards, policy checks, audit logs) meeting enterprise\ncompliance standards. Demonstrable reduction in latency/cost\nand uplift in answer quality via prompt tuning, retrieval\noptimization, and agent orchestration.\n\nCore Competencies\n\nArchitectural thinking with a product mindset—balancing\ninnovation, reliability, and compliance. Operational\nexcellence—instrumentation, telemetry, and continuous\nimprovement. Collaboration & leadership—clear communication\nacross engineering, data, product, and business\nstakeholders. Ownership & bias for action—ability to turn\nambiguous problems into shipped AI capabilities.\n\nTools & Tech You’ll Use\n\nCloud & AI: GCP, Vertex AI (Pipelines, Endpoints, Model\nRegistry/Monitoring, Vector Search), Gemini Enterprise.\nAgentic AI: Multi‑agent orchestration, tool‑use frameworks,\nsafety/guardrails, memory, judge/ranker patterns. Retrieval:\nEmbeddings, vector databases, RAG pipelines with grounding\nand citations. Engineering: Python, Java/C++/TypeScript,\nREST/gRPC, Pub/Sub, CI/CD, containerized services.\n\n\n\n\n\nAbout us\n\n\n\nWe’re a global, 1000-stong, diverse team of professional\nexperts, promoting and delivering Social Innovation through\nour One Hitachi initiative (OT x IT x Product) and working\non projects that have a real-world impact. We’re curious,\npassionate and empowered, blending our legacy of 110 years\nof innovation with our shaping our future. Here you’re not\njust another employee; you’re part of a tradition of\nexcellence and a community working towards creating a\ndigital future.\n\n\n\n#LI-AP1\n\nFostering innovation through diverse perspectives\n\nHitachi is a global company operating across a wide range of\nindustries and regions. One of the things that sets Hitachi\napart is the diversity of our business and people, which\ndrives our innovation and growth.\n\nWe are committed to building an inclusive culture based on\nmutual respect and merit-based systems. We believe that when\npeople feel valued, heard, and safe to express themselves,\nthey do their best work.\n\nHow we look after you\n\nWe help take care of your today and tomorrow with industry-\nleading benefits, support, and services that look after your\nholistic health and wellbeing. We’re also champions of life\nbalance and offer flexible arrangements that work for you\n(role and location dependent). We’re always looking for new\nways of working that bring out our best, which leads to\nunexpected ideas. So here, you’ll experience a sense of\nbelonging, and discover autonomy, freedom, and ownership as\nyou work alongside talented people you enjoy sharing\nknowledge with.\n\nWe’re proud to say we’re an equal opportunity employer and\nwelcome all applicants for employment without attention to\nrace, colour, religion, sex, sexual orientation, gender\nidentity, national origin, veteran, age, disability status\nor any other protected characteristic. Should you need\nreasonable accommodations during the recruitment process,\nplease let us know so that we can do our best to set you up\nfor success.\n",
+  "skills_required": [
+    "Agentic AI frameworks",
+    "Gemini Enterprise",
+    "LangChain",
+    "LangGraph",
+    "Multi-agent orchestration",
+    "NLP",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and implement production-grade AI models, agents, and algorithms using Agentic AI frameworks",
+    "Lead delivery of Gemini Enterprise solutions including Agent Workspace/Agent Builder with defined agent roles, toolchains, and safety guardrails",
+    "Drive new AI initiatives across OpCos and corporate functions with secure integration to existing systems",
+    "Enhance and scale Agentic AI capabilities for improved performance, latency, reliability, and cost efficiency",
+    "Implement RAG pipelines including document ingestion, embeddings, vector search, grounding, and citations",
+    "Establish LLMOps/MLOps practices including CI/CD, versioning, evaluation harnesses, and AI Ops observability",
+    "Troubleshoot complex production issues across models, agents, tooling, and integrations",
+    "Produce technical documentation and mentor junior engineers"
+  ],
+  "use_cases": [
+    "Enterprise workflow automation through multi-agent AI systems",
+    "Digital transformation initiatives across global operating companies",
+    "Production deployment of Gemini Enterprise AI solutions",
+    "RAG-based retrieval and knowledge systems with grounding and citations",
+    "Enterprise system integration (ERP, CRM, ITSM) via AI agents"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "GCP",
+    "Google Cloud Platform",
+    "Kubernetes",
+    "LLMOps",
+    "MLOps",
+    "Neo4j",
+    "Pub/Sub",
+    "REST APIs",
+    "Vector Search",
+    "Vector databases",
+    "Vertex AI",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI frameworks",
+    "Gemini Enterprise",
+    "LangChain",
+    "LangGraph",
+    "Multi-agent orchestration",
+    "NLP",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves building and deploying AI/ML\nsystems - specifically designing and implementing\nproduction-grade AI models, agents, and algorithms using\nAgentic AI frameworks, implementing RAG pipelines, and\nleading Gemini Enterprise solutions delivery. The position\nrequires hands-on work with LLMs, multi-agent orchestration,\nand model deployment on GCP Vertex AI.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "Gemini Enterprise",
+      "Agentic AI frameworks",
+      "Multi-agent orchestration",
+      "RAG",
+      "Prompt engineering",
+      "LangChain",
+      "LangGraph"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "NLP"
+    ],
+    "web": [
+      "REST APIs",
+      "gRPC"
+    ],
+    "databases": [
+      "Vector Search",
+      "Vector databases",
+      "Neo4j"
+    ],
+    "data": [
+      "Pub/Sub"
+    ],
+    "cloud": [
+      "GCP",
+      "Vertex AI",
+      "Google Cloud Platform"
+    ],
+    "ops": [
+      "LLMOps",
+      "MLOps",
+      "CI/CD",
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "C++",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

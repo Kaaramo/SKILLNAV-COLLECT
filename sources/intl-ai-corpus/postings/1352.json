@@ -1,0 +1,137 @@
+{
+  "job_id": "intl-ai-corpus-1352",
+  "source": "intl-ai-corpus",
+  "source_ref": "8412160",
+  "source_url": "https://builtin.com/job/application-engineer-sre-devops-aladdin-engineering-vice-president/8412160",
+  "title": "AI Platform Engineering (SRE & DevOps), Aladdin Engineering, Vice President",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BlackRock",
+  "company_type": "entité morale privée",
+  "location": "Gurugram, IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-05",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "25,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Investment, advisory, and risk management technology\nplatform",
+  "industries": [
+    "Fintech",
+    "Information Technology",
+    "Financial Services"
+  ],
+  "description": "About this role\n\nAbout the Role\n\nBlackRock is one of the world’s leading providers of\ninvestment, advisory, and risk management solutions, powered\nby Aladdin, our integrated investment and risk management\ntechnology platform. Aladdin unifies data, analytics, and\nworkflows across public and private markets, enabling scale,\ninsights, and transformation for BlackRock and our clients.\n\nAs part of Aladdin Engineering, you will join the AI\nPlatform Engineering team, which is building the next-\ngeneration AI infrastructure and services that power Aladdin\nand other firm-wide applications. This team sits at the\nintersection of backend systems, AI engineering, AI\ninfrastructure, and platform reliability, enabling advanced\nAI capabilities at scale.\n\nWe are looking for a senior leader who thrives on solving\ncomplex engineering challenges, shaping AI reliability and\nautomation strategy, and building robust, scalable\nplatforms. You will lead teams responsible for ensuring\noperational excellence, reliability, and automation across\nAI workloads, influencing the AI ecosystem across the firm.\n\nWhat You’ll Do\n\n- Define and execute the SRE and DevOps strategy for AI\n  platforms, ensuring high availability, scalability, and\n  security.\n- Architect and oversee cloud-native infrastructure across\n  AWS, GCP, and Azure for AI workloads.\n- Drive Kubernetes-based orchestration for AI models,\n  including GPU scheduling and resource optimization.\n- Establish CI/CD pipelines for AI platform and AI model\n  lifecycle management (training, testing, deployment) with\n  enterprise-grade security and compliance.\n- Implement observability frameworks and reliability standards\n  (SLIs, SLOs, SLAs) for distributed AI systems.\n- Lead incident management, root cause analysis, and\n  performance optimization across compute, storage, and\n  network layers.\n- Collaborate cross-functionally to translate business and\n  functional requirements into resilient technical designs.\n- Stay ahead of trends in SRE, DevOps, MLOps, and AI\n  infrastructure to drive innovation and operational\n  excellence.\n\nWhat We’re Looking For\n\n- Education: B.S./M.S. in Computer Science, Engineering, or\n  related field.\n- Experience: 8+ years in platform engineering, SRE, DevOps or\n  AIOps roles.\n- Technical Expertise:\n  - Proficiency in Python, Bash/Shell for automation,\n    orchestration, and AI workflows.\n  - Familiarity with Rust build and dependency management\n    frameworks.\n  - Hands-on expertise with CI/CD tools (e.g., Azure DevOps,\n    Jenkins, GitHub Actions etc.).\n  - Proven ability to design and scale fault-tolerant, cloud-\n    native systems for AI workloads.\n  - Deep proficiency in Kubernetes (Helm, Kustomize, CRDs) and\n    containerization (Docker, containerd).\n  - Hands-on experience with AWS, GCP, Azure, and IaC tools\n    (Terraform, CloudFormation).\n  - Strong knowledge of observability tools (Prometheus,\n    Grafana, ELK) and performance tuning.\n- Leadership Skills: Ability to build and lead high-performing\n  teams, drive cross-functional collaboration, and influence\n  technical strategy.\n- Mindset: Strategic thinker with strong problem-solving\n  skills, operational rigor, and adaptability.\n\nNice to Have\n\n- Experience with GPU orchestration and performance\n  optimization in Kubernetes clusters.\n- Exposure to secure model deployment practices and compliance\n  frameworks for regulated industries.\n- Practical experience with end-to-end ML lifecycle management\n  and automated pipelines for large models.\n- Familiarity with ML frameworks (PyTorch, JAX) and MLOps\n  concepts.\n- Hands-on expertise with CI/CD tools (e.g., Azure DevOps,\n  Jenkins, GitHub Actions etc.).\n\nOur benefits To help you stay energized, engaged and\ninspired, we offer a wide range of benefits including a\nstrong retirement plan, tuition reimbursement, comprehensive\nhealthcare, support for working parents and Flexible Time\nOff (FTO) so you can relax, recharge and be there for the\npeople you care about.\n\nOur hybrid work model\n\nBlackRock’s hybrid work model is designed to enable a\nculture of collaboration and apprenticeship that enriches\nthe experience of our employees, while supporting\nflexibility for all. Employees are currently required to\nwork at least 4 days in the office per week, with the\nflexibility to work from home 1 day a week. Some business\ngroups may require more time in the office due to their\nroles and responsibilities. We remain focused on increasing\nthe impactful moments that arise when we work together in\nperson – aligned with our commitment to performance and\ninnovation. As a new joiner, you can count on this hybrid\nmodel to accelerate your learning and onboarding experience\nhere at BlackRock.\n\nAbout BlackRock\n\nAt BlackRock, we are all connected by one mission: to help\nmore and more people experience financial well-being.  Our\nclients, and the people they serve, are saving for\nretirement, paying for their children’s educations, buying\nhomes and starting businesses. Their investments also help\nto strengthen the global economy: support businesses small\nand large; finance infrastructure projects that connect and\npower cities; and facilitate innovations that drive\nprogress.\n\nThis mission would not be possible without our smartest\ninvestment – the one we make in our employees. It’s why\nwe’re dedicated to creating an environment where our\ncolleagues feel welcomed, valued and supported with\nnetworks, benefits and development opportunities to help\nthem thrive.\n\nFor additional information on BlackRock, please visit\n@blackrock | Twitter: @blackrock | LinkedIn:\nwww.linkedin.com/company/blackrock\n\nBlackRock is proud to be an Equal Opportunity Employer.  We\nevaluate qualified applicants without regard to age,\ndisability, family status, gender identity, race, religion,\nsex, sexual orientation and other protected attributes at\nlaw.\n",
+  "skills_required": [
+    "JAX",
+    "PyTorch"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define and execute the SRE and DevOps strategy for AI platforms, ensuring high availability, scalability, and security",
+    "Architect and oversee cloud-native infrastructure across AWS, GCP, and Azure for AI workloads",
+    "Drive Kubernetes-based orchestration for AI models, including GPU scheduling and resource optimization",
+    "Establish CI/CD pipelines for AI platform and AI model lifecycle management with enterprise-grade security and compliance",
+    "Implement observability frameworks and reliability standards (SLIs, SLOs, SLAs) for distributed AI systems",
+    "Lead incident management, root cause analysis, and performance optimization across compute, storage, and network layers"
+  ],
+  "use_cases": [
+    "Investment and risk management platform powered by AI capabilities",
+    "Unified data, analytics, and workflows across public and private markets",
+    "Advanced AI capabilities at scale across firm-wide applications",
+    "Distributed AI systems requiring high availability and scalability",
+    "AI model lifecycle management including training, testing, and deployment"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Azure DevOps",
+    "CRDs",
+    "CloudFormation",
+    "Docker",
+    "ELK",
+    "GCP",
+    "GPU orchestration",
+    "GitHub Actions",
+    "Grafana",
+    "Helm",
+    "Jenkins",
+    "Kubernetes",
+    "Kustomize",
+    "MLOps",
+    "Prometheus",
+    "Terraform",
+    "containerd"
+  ],
+  "frameworks_mentioned": [
+    "JAX",
+    "PyTorch"
+  ],
+  "languages_programming": [
+    "Bash/Shell",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Platform Engineering/SRE leadership role focused\non building AI infrastructure and platforms that enable AI\nworkloads. The role involves architecting cloud-native\ninfrastructure, Kubernetes orchestration for GPU scheduling,\nCI/CD pipelines for AI models, and observability frameworks\n- all of which are platform/infrastructure support functions\nrather than hands-on work with building, training, or\ndeploying AI models.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "JAX"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Helm",
+      "Kustomize",
+      "CRDs",
+      "Docker",
+      "containerd",
+      "Azure DevOps",
+      "Jenkins",
+      "GitHub Actions",
+      "Prometheus",
+      "Grafana",
+      "ELK",
+      "Terraform",
+      "CloudFormation",
+      "GPU orchestration",
+      "MLOps"
+    ],
+    "languages": [
+      "Python",
+      "Bash/Shell",
+      "Rust"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,33 @@
+company:
+  name: Unknown
+  stage: null
+  focus: null
+position:
+  title: Data Engineer / Analytics Engineer (H/F) - CDI
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web:
+    - next
+    databases:
+    - postgresql
+    data:
+    - dbt
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010098893807'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

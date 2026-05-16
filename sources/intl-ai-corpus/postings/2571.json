@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-2571",
+  "source": "intl-ai-corpus",
+  "source_ref": "8890880",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer-python-scientific-computing/8890880",
+  "title": "Senior AI/ML Engineer: Python & Scientific Computing",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Swayable",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-22",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "20 Employees",
+  "company_stage": "Series A (backed by Y Combinator, post-2018 founding)",
+  "company_focus": "AI platform measuring public opinion and advertising impact",
+  "industries": [
+    "AdTech",
+    "Marketing Tech",
+    "Social Impact",
+    "Software",
+    "Analytics"
+  ],
+  "description": "About Swayable\n\nSwayable is a fast-growing AI and automated data science\nplatform that measures public opinion and the impact of\nmessages and advertising content on it. We are a 40-person\nteam backed by top technology and social impact investors,\nincluding Y Combinator. Founded in 2018 by physics PhDs, it\nis led by the former Executive Director for Digital Strategy\nat the New York Times. Clients include major consumer-facing\nbrands (American Express, Airbnb, Paramount Pictures),\ntechnology companies (Anthropic, Meta, Amazon), academic\nresearchers (MIT, Yale, Stanford) and mission-aligned civic\nadvocacy campaigns (e.g. on climate, human rights and\nelections).\n\nJoining Swayable means being on a team whose work changes\nthe course of history. The technology we develop is at the\nleading edge of transforming some of the world’s most\nimportant campaign organizations and enterprises: combatting\ndisinformation, protecting democracy, and supporting the\nsustainable growth of consumer-facing brands. Check our our\nvalues & culture deck to learn more:\nhttps://tinyurl.com/4zjchwzs\n\nTechnology stack\n\nSwayable uses Python (Numpy, Scipy, scikit-learn, Pandas,\nCelery, Flask), JavaScript (Vue.js, Node.js), MongoDB, and\nGraphQL.\n\nAbout the role\n\nSwayable is seeking a Senior Engineer blending Python\nsoftware development expertise with scientific computing,\nmachine learning, and AI experience to advance the state of\nthe art analytics engine that powers our core product. In\nthis role, you will be part of the team that productizes all\nAI, machine learning, and data analysis at Swayable. You\nwill be responsible for building, maintaining, and\ncontinuously improving our tools, techniques, and\narchitecture for high-performance computing. You will work\nwith a talented and diverse team of engineers, data\nscientists, and research staff to build new features and\nsolve novel problems across the spectrum of software\nengineering, data visualization, and science.\n\nRequirements\n\n- You have 5+ years of professional experience building\n  scientific or quantitative data-intensive software.\n- You have expertise in the scientific Python stack, object\n  oriented and test-driven development, vectorized code, and\n  machine learning.\n- You have excellent problem solving skills and attention to\n  detail.\n- You have expertise in architecting, maintaining, and\n  optimizing distributed, parallel computing systems.\n- You keep up with the constantly evolving toolset for ML and\n  AI Ops.\n- You are knowledgeable about software architecture and can\n  design scalable, performant solutions.\n- You value code quality and write maintainable, testable\n  code.\n\nPreferred qualifications\n\n- You have an advanced degree (MSc or Ph.D.) in STEM.\n- You have a thorough knowledge of the Linux operating system.\n- You have experience with Celery, and MongoDB.\n- You believe in the scientific method and use data to drive\n  decisions.\n- You can give and receive informed, actionable feedback on\n  technical and non-technical skills.\n- You are experienced at mentoring junior engineers.\n- You are a strong communicator, especially in text. You can\n  write documentation and discuss the tradeoffs of different\n  implementations.\n\nSalary range: $175k-$250k\n",
+  "skills_required": [
+    "Machine Learning",
+    "NumPy",
+    "Pandas",
+    "SciPy",
+    "Scientific Computing",
+    "Software Architecture",
+    "Test-Driven Development",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Advance the state-of-the-art analytics engine powering Swayable's core product",
+    "Productize AI, machine learning, and data analysis capabilities across the platform",
+    "Build, maintain, and continuously improve tools, techniques, and architecture for high-performance computing",
+    "Design and optimize distributed, parallel computing systems",
+    "Collaborate with engineers, data scientists, and research staff to build new features",
+    "Solve novel problems spanning software engineering, data visualization, and science",
+    "Maintain ML/AI Ops tooling and keep systems current with evolving best practices"
+  ],
+  "use_cases": [
+    "Measuring public opinion and message/advertising impact on audiences",
+    "Automated data science for campaign and brand analytics",
+    "Combatting disinformation and protecting democracy through data-driven insights",
+    "Supporting consumer brand growth through advertising effectiveness measurement",
+    "Academic and civic research analysis on climate, human rights, and elections"
+  ],
+  "tools_mentioned": [
+    "AI/ML Ops",
+    "Celery",
+    "Distributed Computing",
+    "Flask",
+    "GraphQL",
+    "MongoDB",
+    "Node.js",
+    "Parallel Computing",
+    "Vue.js"
+  ],
+  "frameworks_mentioned": [
+    "Machine Learning",
+    "NumPy",
+    "Pandas",
+    "SciPy",
+    "Scientific Computing",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and maintaining the AI,\nmachine learning, and data analysis engine that powers\nSwayable's core product. The engineer will productize AI/ML\nmodels and work on high-performance scientific computing\nsystems, placing them hands-on with ML model development and\ndeployment.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "NumPy",
+      "SciPy",
+      "scikit-learn",
+      "Pandas",
+      "Machine Learning",
+      "Scientific Computing"
+    ],
+    "web": [
+      "Flask",
+      "Vue.js",
+      "Node.js",
+      "GraphQL"
+    ],
+    "databases": [
+      "MongoDB"
+    ],
+    "data": [
+      "Celery"
+    ],
+    "cloud": [],
+    "ops": [
+      "Distributed Computing",
+      "Parallel Computing",
+      "AI/ML Ops"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Test-Driven Development",
+      "Software Architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "job_id": "rekrute-2026-013",
+  "source": "rekrute",
+  "source_url": "https://www.rekrute.com/offre-emploi-sr-machine-learning-engineer-recrutement-axa-gbs-morocco-rabat-180972.html",
+  "source_ref": "180972",
+  "title": "Sr Machine Learning Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "AXA GBS Morocco",
+  "company_type": "entité morale privée",
+  "company_description": "AXA Global Business Services Morocco — offshoring entity du groupe AXA · 300+ employés · centres d'expertise IT/PM/Finance/HR · présent au Maroc depuis 2009",
+  "location": "Rabat",
+  "country": "MA",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-19",
+  "deadline_date": "2026-05-19",
+  "contract_type": "CDI",
+  "experience_min_years": 5,
+  "experience_max_years": 10,
+  "salary_range": null,
+  "description": "Design, train, optimize ML/DL models (TensorFlow, PyTorch, Scikit-learn). Industrialization + deployment via CI/CD on Azure. Performance optimization in production. MLOps + cloud architecture. Build MLOps with versioning data/models, model registry, monitoring, incident management.",
+  "skills_required": [
+    "Python",
+    "SQL",
+    "PySpark",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "MLflow",
+    "Kubeflow",
+    "Azure ML",
+    "AKS",
+    "Azure Data Lake",
+    "Azure Data Factory",
+    "Databricks",
+    "Docker",
+    "GitHub Actions",
+    "Azure DevOps",
+    "Distributed systems",
+    "Model versioning"
+  ],
+  "skills_optional": [
+    "Terraform"
+  ],
+  "responsibilities": [
+    "Model Design and Development (TensorFlow, PyTorch, Scikit-learn)",
+    "Collaborate with Data Scientists to turn prototypes into production",
+    "CI/CD pipelines for training/evaluation/deployment on Azure",
+    "Performance optimization in production (latency, costs)",
+    "Build comprehensive MLOps architecture (versioning, registry, monitoring)",
+    "Documentation models, pipelines, processes",
+    "Collaborate Data Science + Data Engineering + DevOps in agile multicultural"
+  ],
+  "tools_mentioned": [
+    "Azure ML",
+    "AKS",
+    "Azure Data Lake",
+    "Azure Data Factory",
+    "Databricks",
+    "MLflow",
+    "Kubeflow",
+    "Docker",
+    "GitHub Actions",
+    "Azure DevOps",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "PySpark"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "PySpark"
+  ],
+  "domains_iaml": [
+    "ML_CLASSIC",
+    "DEEP_LEARNING",
+    "MLOPS",
+    "CLOUD_DATA"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "domain_specialization": "Assurance — AXA Global Business Services",
+  "education_required": "Bac+5 école d'ingénieur",
+  "languages_spoken": [],
+  "scraped_at": "2026-05-14T20:43:06Z",
+  "scraper": "skillnav-playwright-mcp-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.97
+}

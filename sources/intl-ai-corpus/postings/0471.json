@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-0471",
+  "source": "intl-ai-corpus",
+  "source_ref": "8067206",
+  "source_url": "https://builtin.com/job/flowfuse-full-stack-developer-ai-focused/8067206",
+  "title": "FlowFuse Full Stack Developer (AI-focused)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "FlowFuse",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-19",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "14 Employees",
+  "company_stage": null,
+  "company_focus": "FlowFuse platform for applied AI solutions",
+  "industries": [
+    "Information Technology",
+    "Internet of Things",
+    "Software"
+  ],
+  "description": "Fullstack Engineer (AI-Focused)Job Description\n\nAt FlowFuse, a Fullstack Engineer (AI-Focused) builds real\nproduct features and internal tooling that apply artificial\nintelligence to practical user and engineering problems.\nThis role is for a strong fullstack engineer with deep,\nhands-on experience shipping AI-powered features to\nproduction.\n\nThis is not a research role. You will focus on applied AI:\nintegrating large language models, embeddings, and\nautomation into FlowFuse in a way that is reliable,\nobservable, secure, and valuable to users. This role will be\na foundational contributor to establishing FlowFuse’s\ninitial AI patterns, tooling, and best practices.\n\nYou will collaborate closely with Product, Design, and other\nengineers to identify high-impact AI use cases and deliver\nthem end to end, while remaining a fullstack contributor\nacross the platform.\n\nA Fullstack Engineer (AI-Focused) is primarily responsible\nfor:\n\n- Applied AI Feature Development: Designing and building AI-\n  powered features and tooling used by customers and\n  internal teams.\n- End-to-End Delivery: Owning fullstack solutions that include\n  frontend, backend, and AI components.\n- Capability Building: Establishing patterns, guardrails, and\n  examples that other engineers can safely build on.\n- Reliability and Safety: Ensuring AI features behave\n  predictably in production, including fallback behavior and\n  observability.\n- Collaboration: Working closely with Product, Design, and\n  Engineering peers to scope and deliver AI-driven\n  solutions.\n\n\n\nCore Tasks and Responsibilities:\n\n- Integrate LLM APIs and AI services into FlowFuse features\n  and tooling.\n- Build backend services and frontend interfaces that support\n  AI-powered workflows.\n- Prototype, evaluate, and productionize AI features with\n  clear scope and guardrails.\n- Design for AI failure modes, latency, cost, and operational\n  constraints.\n- Ensure AI features align with privacy, security, and SOC 2\n  requirements.\n- Share best practices and patterns for applied AI across the\n  engineering team.\n- Contribute to broader fullstack product work as priorities\n  evolve.\n\n\n\nWhat is the Fullstack Engineer (AI-Focused) not responsible\nfor?\n\n- Training or fine-tuning foundational models.\n- Conducting academic or exploratory ML research.\n- Owning company-wide AI strategy.\n- Replacing sound engineering judgment with automation.\n\n\n\nSkills\n\nWhat a Fullstack Engineer (AI-Focused) brings to the table:\n\n- Strong experience working across the full stack.\n- Demonstrated experience shipping AI-powered features to\n  production.\n- Hands-on experience integrating LLM APIs into real systems.\n- Familiarity with embeddings, vector search, or retrieval-\n  augmented generation.\n- Strong judgment around AI tradeoffs, failure modes, cost,\n  and observability.\n- Ability to design AI systems that others can safely extend.\n- Experience shipping small, well-scoped changes\n  incrementally.\n- Comfort working in a remote, async-first environment across\n  multiple time zones.\n- Pragmatic use of AI tools to accelerate development and\n  improve outcomes.\n\n\n\nHiring Plan\n\n- Resume ReviewReview resumes and relevant experience.\n  Conducted by the hiring manager.\n- Screening Call (15 minutes)Initial screener focused on role\n  fit, communication, and alignment with how FlowFuse works.\n  Conducted by the hiring manager or recruiter.\n- Engineering Manager Call (45 minutes)A deeper alignment\n  conversation covering FlowFuse’s direction, applied AI use\n  cases, how the team works, and expectations for this role.\n- Take-Home Assignment (2–3 hours, unpaid) Candidates choose\n  one of the following options. Both are explicitly time-\n  boxed to 2–3 hours:\n  - Option A: Build a small AI-powered feature or tool (for\n    example: intelligent search, summarization, validation,\n    or an assistant-style workflow) using an LLM API.\n  - Option B: Contribute a small, scoped AI-related pull request\n    or prototype demonstrating applied AI integration in an\n    existing codebase.\n  - Note: AI tools are explicitly allowed and encouraged where\n    appropriate.\n- Technical Interview (60 minutes)Review the take-home work\n  with 2–3 team members. The discussion focuses on problem\n  understanding, AI design decisions and tradeoffs, system\n  structure, reliability considerations, and how the\n  solution would evolve over time rather than feature\n  completeness. There will be explicit discussion of where\n  AI was used, how it was used, and why those choices were\n  made.\n- Team Interview (45 minutes)Conversation focused on\n  collaboration, communication style, and working cross-\n  functionally.\n- OfferExtend an offer to the selected candidate.\n",
+  "skills_required": [
+    "Embeddings",
+    "LLM API integration",
+    "Privacy and security",
+    "Prompt engineering",
+    "Retrieval-augmented generation",
+    "SOC 2 compliance"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Integrate LLM APIs and AI services into FlowFuse features and tooling",
+    "Build backend services and frontend interfaces that support AI-powered workflows",
+    "Prototype, evaluate, and productionize AI features with clear scope and guardrails",
+    "Design for AI failure modes, latency, cost, and operational constraints",
+    "Ensure AI features align with privacy, security, and SOC 2 requirements",
+    "Share best practices and patterns for applied AI across the engineering team",
+    "Contribute to broader fullstack product work as priorities evolve"
+  ],
+  "use_cases": [
+    "Intelligent search capabilities using embeddings and vector search",
+    "Content summarization powered by large language models",
+    "Validation systems using AI for data quality checks",
+    "Assistant-style workflows to enhance user productivity",
+    "AI-powered features for customer and internal engineering problems"
+  ],
+  "tools_mentioned": [
+    "AI observability",
+    "Fullstack development",
+    "REST APIs",
+    "Vector search"
+  ],
+  "frameworks_mentioned": [
+    "Embeddings",
+    "LLM API integration",
+    "Prompt engineering",
+    "Retrieval-augmented generation"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building AI-powered features by\nintegrating LLM APIs, embeddings, and RAG systems into\nproduction. The engineer will design and implement AI\ncomponents, handle failure modes, and establish patterns for\nothers to extend - all hands-on work with AI systems, not\njust supporting infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM API integration",
+      "Embeddings",
+      "Retrieval-augmented generation",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "Fullstack development",
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector search"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "AI observability"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": [
+      "SOC 2 compliance",
+      "Privacy and security"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

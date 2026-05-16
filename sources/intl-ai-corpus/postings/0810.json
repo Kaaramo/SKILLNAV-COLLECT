@@ -1,0 +1,146 @@
+{
+  "job_id": "intl-ai-corpus-0810",
+  "source": "intl-ai-corpus",
+  "source_ref": "7191169",
+  "source_url": "https://builtin.com/job/lead-analyst-ai-engineer/7191169",
+  "title": "Lead Analyst, AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "KLA",
+  "company_type": "entité morale privée",
+  "location": "Chennai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,001 Employees",
+  "company_stage": "Public",
+  "company_focus": "Semiconductor manufacturing equipment and process control\ntechnology",
+  "industries": [],
+  "description": "Company Overview\n\nKLA is a global leader in diversified electronics for the\nsemiconductor manufacturing ecosystem. Virtually every\nelectronic device in the world is produced using our\ntechnologies. No laptop, smartphone, wearable device, voice-\ncontrolled gadget, flexible screen, VR device or smart car\nwould have made it into your hands without us. KLA invents\nsystems and solutions for the manufacturing of wafers and\nreticles, integrated circuits, packaging, printed circuit\nboards and flat panel displays. The innovative ideas and\ndevices that are advancing humanity all begin with\ninspiration, research and development. KLA focuses more than\naverage on innovation and we invest 15% of sales back into\nR&D. Our expert teams of physicists, engineers, data\nscientists and problem-solvers work together with the\nworld’s leading technology providers to accelerate the\ndelivery of tomorrow’s electronic devices. Life here is\nexciting and our teams thrive on tackling really hard\nproblems. There is never a dull moment with us.\n\nGroup/Division\n\nWith over 40 years of semiconductor process control\nexperience, chipmakers around the globe rely on KLA to\nensure that their fabs ramp next-generation devices to\nvolume production quickly and cost-effectively. Enabling the\nmovement towards advanced chip design, KLA's Global Products\nGroup (GPG), which is responsible for creating all of KLA’s\nmetrology and inspection products, is looking for the best\nand the brightest research scientist, software engineers,\napplication development engineers, and senior product\ntechnology process engineers. The Surfscan group includes a\nteam of engineers, technology development, apps engineers\nand product marketing focused on technology that enables\nwafer, IC and equipment manufacturers to develop, qualify\nand monitor their process tools. Defects and process non-\nuniformities detected on Surfscan equipment allow for early\nidentification of yield excursions. The flagship Surfscan\nproducts include the SPx platforms for wafer surface quality\nand wafer defect inspection tools and systems for inspection\nof polished wafers, epi wafers and engineered substrates\nduring the wafer fabrication process.\n\nJob Description/Preferred Qualifications\n\nRequired skills/Competencies\n\n- Programming Languages\n  - Strong in Python, data structures, and algorithms.\n  - Hands-on with NumPy, Pandas, Scikit-learn for ML\n    prototyping.\n- Machine Learning Frameworks\n  - Understanding of supervised/unsupervised learning,\n    regularization, feature engineering, model selection,\n    cross-validation, ensemble methods (XGBoost, LightGBM).\n- Deep Learning Techniques\n  - Proficiency with PyTorch or TensorFlow/Keras\n  - Knowledge of CNNs, RNNs, LSTMs, Transformers, Attention\n    mechanisms.\n  - Familiarity with optimization (Adam, SGD), dropout, batch\n    norm.\n- LLMs & RAG\n  - Hugging Face Transformers (tokenizers, embeddings, model\n    fine-tuning).\n  - Vector databases (Milvus, FAISS, Pinecone, ElasticSearch).\n  - Prompt engineering, function/tool calling, JSON schema\n    outputs.\n- Data & Tools\n  - SQL fundamentals; exposure to data wrangling and pipelines.\n  - Git/GitHub, Jupyter, basic Docker.\n\nWhat are we looking for?\n\n- Solid academic foundation with strong applied ML/DL\n  exposure.\n- Curiosity to learn cutting-edge AI and willingness to\n  experiment.\n- Clear communicator who can explain ML/LLM trade-offs simply.\n- Strong problem-solving and ownership mindset.\n\nMinimum Qualifications\n\nDoctorate (Academic) Degree and 2 years related work\nexperience; Master's Level Degree and related work\nexperience of 5 years; Bachelor's Level Degree and related\nwork experience of 7 years in building AI systems/solutions\nwith Machine Learning, Deep Learning, and LLMs.\n\nWe offer a competitive, family friendly total rewards\npackage. We design our programs to reflect our commitment to\nan inclusive environment, while ensuring we provide benefits\nthat meet the diverse needs of our employees.\n\nKLA is proud to be an equal opportunity employer\n\nBe aware of potentially fraudulent job postings or\nsuspicious recruiting activity by persons that are currently\nposing as KLA employees.  KLA never asks for any financial\ncompensation to be considered for an interview, to become an\nemployee, or for equipment. Further, KLA does not work with\nany recruiters or third parties who charge such fees either\ndirectly or on behalf of KLA. Please ensure that you have\nsearched KLA’s Careers website for legitimate job postings.\nKLA follows a recruiting process that involves multiple\ninterviews in person or on video conferencing with our\nhiring managers.  If you are concerned that a communication,\nan interview, an offer of employment, or that an employee is\nnot legitimate, please send an email to\ntalent.acquisition@kla.com to confirm the person you are\ncommunicating with is an employee. We take your privacy very\nseriously and confidentially handle your information.\n",
+  "skills_required": [
+    "CNNs",
+    "Hugging Face Transformers",
+    "Jupyter",
+    "Keras",
+    "LightGBM",
+    "Model fine-tuning",
+    "NumPy",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "Transformers",
+    "XGBoost",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and deploy AI systems and solutions using machine learning, deep learning, and LLM technologies",
+    "Develop and fine-tune deep learning models using PyTorch/TensorFlow including CNNs, RNNs, LSTMs, and Transformers",
+    "Implement LLM-based solutions including RAG systems, prompt engineering, and vector database integration",
+    "Prototype ML solutions using scikit-learn, XGBoost, and LightGBM for semiconductor process control applications",
+    "Apply supervised and unsupervised learning techniques with feature engineering and model selection",
+    "Collaborate with cross-functional teams to integrate AI solutions into semiconductor inspection and metrology products",
+    "Communicate ML/LLM trade-offs and technical decisions to stakeholders"
+  ],
+  "use_cases": [
+    "Semiconductor wafer defect detection and classification",
+    "Process monitoring and yield optimization for chip manufacturing",
+    "Wafer surface quality inspection and analysis",
+    "Early identification of yield excursions in fabrication processes",
+    "Process tool qualification and monitoring"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "ElasticSearch",
+    "FAISS",
+    "Git",
+    "Milvus",
+    "Pandas",
+    "Pinecone"
+  ],
+  "frameworks_mentioned": [
+    "CNNs",
+    "Hugging Face Transformers",
+    "Jupyter",
+    "Keras",
+    "LightGBM",
+    "Model fine-tuning",
+    "NumPy",
+    "Prompt engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow",
+    "Transformers",
+    "XGBoost",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires hands-on experience building AI systems\nwith ML, DL, and LLMs including model fine-tuning, RAG\nimplementation, and deep learning techniques. The minimum\nqualifications explicitly state experience \"building AI\nsystems/solutions\" which indicates direct work on AI models\nrather than support infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Hugging Face Transformers",
+      "RAG",
+      "Prompt engineering"
+    ],
+    "ml": [
+      "NumPy",
+      "scikit-learn",
+      "XGBoost",
+      "LightGBM",
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "CNNs",
+      "Transformers",
+      "Model fine-tuning",
+      "Jupyter"
+    ],
+    "web": [],
+    "databases": [
+      "Milvus",
+      "FAISS",
+      "Pinecone",
+      "ElasticSearch"
+    ],
+    "data": [
+      "Pandas"
+    ],
+    "cloud": [],
+    "ops": [
+      "Git",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

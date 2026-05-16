@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-0675",
+  "source": "intl-ai-corpus",
+  "source_ref": "8329804",
+  "source_url": "https://builtin.com/job/senior-machine-learning-engineer-ai-foundations/8329804",
+  "title": "Senior Machine Learning Engineer, AI Foundations",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Waymo",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,359 Employees",
+  "company_stage": "Public",
+  "company_focus": "Autonomous driving technology company",
+  "industries": [],
+  "description": "Waymo is an autonomous driving technology company with the\nmission to be the world's most trusted driver. Since its\nstart as the Google Self-Driving Car Project in 2009, Waymo\nhas focused on building the Waymo Driver—The World's Most\nExperienced Driver™—to improve access to mobility while\nsaving thousands of lives now lost to traffic crashes. The\nWaymo Driver powers Waymo’s fully autonomous ride-hail\nservice and can also be applied to a range of vehicle\nplatforms and product use cases. The Waymo Driver has\nprovided over ten million rider-only trips, enabled by its\nexperience autonomously driving over 100 million miles on\npublic roads and tens of billions in simulation across 15+\nU.S. states.\n\nThe mission of the Waymo AI Foundations team is to develop\nmachine learning solutions addressing open problems in\nautonomous driving, towards the goal of safely operating\nWaymo vehicles in dozens of cities and under all driving\nconditions. As part of our work, we also initiate and foster\ncollaborations with other research teams in Alphabet. AI\nFoundations areas that we are currently focusing on include\nreinforcement learning, learning from demonstration,\ngenerative modeling, Bayesian inference, hierarchical\nlearning, and robust evaluation.\n\nThis role follows a hybrid work schedule and you will report\nto a Staff Research Scientist.\n\nYou will:\n\n- Conduct applied foundation model research and development\n- Design compelling experiments by training and evaluating\n  large deep learning models\n- Write high quality code, unit tests, and documentation\n- Collaborate with other teams to deploy models to production\n\nYou have:\n\n- Masters or PhD in deep learning\n- Strong statistical / ML knowledge\n- Proficiency in Python\n- 3+ years of experience with modern deep learning frameworks:\n  JAX, TensorFlow/PyTorch\n\nWe prefer:\n\n- C++ experience\n- Proven track record of deploying ML models to production\n  environments\n- Deep learning experience, especially with generative models,\n  e.g., LLMs/VLMs, and/or reinforcement learning or\n  imitation learning, transformer models, autoencoders and\n  embeddings\n- Autonomous driving experience\n\nThe expected base salary range for this full-time position\nis listed below. Actual starting pay will be based on job-\nrelated factors, including exact work location, experience,\nrelevant training and education, and skill level.  Waymo\nemployees are also eligible to participate in Waymo’s\ndiscretionary annual bonus program, equity incentive plan,\nand generous Company benefits program, subject to\neligibility requirements.\n\nSalary Range\n\n£120,000—£130,000 GBP\n",
+  "skills_required": [
+    "Autoencoders",
+    "Bayesian inference",
+    "Deep learning",
+    "Generative models",
+    "JAX",
+    "PyTorch",
+    "TensorFlow",
+    "Transformer models"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Conduct applied foundation model research and development",
+    "Design compelling experiments by training and evaluating large deep learning models",
+    "Write high quality code, unit tests, and documentation",
+    "Collaborate with other teams to deploy models to production"
+  ],
+  "use_cases": [
+    "Autonomous driving safety and operation across cities and driving conditions",
+    "Reinforcement learning for autonomous driving decision making",
+    "Learning from demonstration to train autonomous driving models",
+    "Generative modeling for autonomous driving scenarios",
+    "Hierarchical learning for complex driving tasks",
+    "Robust evaluation of autonomous driving systems"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "Autoencoders",
+    "Bayesian inference",
+    "Deep learning",
+    "Generative models",
+    "JAX",
+    "PyTorch",
+    "TensorFlow",
+    "Transformer models"
+  ],
+  "languages_programming": [
+    "C++",
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "NLP",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "The role involves conducting applied foundation model\nresearch, training and evaluating large deep learning\nmodels, and working with frameworks like JAX, TensorFlow,\nand PyTorch. The focus is on traditional ML areas like\nreinforcement learning, learning from demonstration,\nBayesian inference, and hierarchical learning, rather than\nbuilding LLM-powered applications or agents, which aligns\nwith ml-first classification.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "JAX",
+      "TensorFlow",
+      "PyTorch",
+      "Generative models",
+      "Transformer models",
+      "Autoencoders",
+      "Deep learning",
+      "Bayesian inference"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "C++"
+    ],
+    "domains": [
+      "Reinforcement learning",
+      "Imitation learning"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

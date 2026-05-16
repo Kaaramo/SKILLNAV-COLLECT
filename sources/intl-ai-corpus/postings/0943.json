@@ -1,0 +1,137 @@
+{
+  "job_id": "intl-ai-corpus-0943",
+  "source": "intl-ai-corpus",
+  "source_ref": "7740286",
+  "source_url": "https://builtin.com/job/ai-engineer/7740286",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Capco",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "6,000 Employees",
+  "company_stage": null,
+  "company_focus": "Financial services consulting and technology delivery",
+  "industries": [
+    "Fintech",
+    "Professional Services",
+    "Consulting",
+    "Energy",
+    "Financial Services",
+    "Cybersecurity",
+    "Generative AI"
+  ],
+  "description": "About the team: \n\nAt the Capco Technology Delivery Center, we are dedicated to\nthe financial services industries. Our professionals combine\ninnovative thinking with unrivalled industry and domain\nexpertise to offer our clients consulting expertise, complex\ntechnology and package integration, transformation delivery,\nand managed services, to move their organizations forward.\nThrough our collaborative and efficient approach, we help\nour clients successfully innovate, increase revenue, manage\nrisk and regulatory change, reduce costs, and enhance\ncontrols. Our teams stay at the forefront of industry trends\nand technologies that are driving innovation. From strategy\nto launch, we are adept at delivering across the full\nproduct lifecycle.  \n\nAbout the Job: \n\nAs a member of the Capco Technology Delivery Team, you’ll\nbring practical knowledge of agile development methodologies\nand engineering best practices. As an AI Engineer, you’ll\nplay an integral role using your experience and skills to\ncontribute to the quality and implementation of our\nprojects. \n\nWe are seeking a highly skilled and experienced Senior GenAI\nEngineer who will be instrumental in designing, developing,\nand deploying modern generative AI solutions, leveraging\nexpertise in foundation models, agentic AI systems, and\nfull-stack application development. You will work across the\nentire AI lifecycle, from research and prototyping to\nproduction deployment and monitoring, contributing to high-\nimpact transformative projects.\n\nWhat You’ll Get to Do: \n\n- Build applications leveraging foundation models and advanced\n  GenAI techniques (Agentic RAG, KG-RAG)\n- Develop autonomous agents using modern agentic frameworks\n- Implement MCP integrations and Python-based full-stack\n  solutions\n- Create scalable REST APIs and deploy AI workloads on major\n  clouds\n- Apply LLMOps/MLOps best practices for CI/CD and monitoring\n- Work across teams, mentor others, and drive innovation in\n  embeddings, knowledge graphs, and ontologies\n\nWhat You’ll Bring with You: \n\n- Degree in CS, AI/ML, or related field\n- 5+ years of AI/ML-focused software engineering\n- Production experience with LLMs and agentic systems\n- Strong MCP knowledge and expert-level Python (zero Java)\n- Experience with embeddings at scale, knowledge graphs,\n  ontology extraction, and advanced RAG\n- Full-stack skills (Python back end + modern front end)\n- Cloud deployment experience (AWS, Azure, or GCP)\n- Familiarity with LLMOps tools and strong problem-\n  solving/communication skills\n- Willingness to work in the New York office 3 days/week.\n\nWhy Capco? \n\nA career at Capco is a chance to help reshape the\ncompetitive landscape in financial services. We launch new\nbanks, transform existing ones, and help our clients\nnavigate complex change. As consultants, we work on the\nfront-end business design all the way through to technology\nimplementation.  \n\nWe are the largest Financial Services focused consultancy in\nthe world, serving everyone from global banks to emerging\nFinTechs, from strategy through digital transformation,\ndesign, business consulting, data and analytics, cyber,\ncloud, technology architecture, and engineering.  \n\nCapco is a young and growing firm. We maintain an\nentrepreneurial spirit and growth mindset, and have minimal\nbureaucracy. We have no internal silos that get in the way\nof your career opportunities or ability to focus on our\nclients and make a difference to the business.  \n\nWe offer the opportunity for everyone to learn rapidly, take\non tough challenges, and get promoted quickly. We take pride\nin our creative, collaborative, diverse, and inclusive\nculture, where everyone can #BYAW. \n\nWe offer highly competitive benefits, including medical,\ndental, and vision insurance, a 401(k) plan, tuition\nreimbursement, and a work culture focused on innovation and\ncreation of lasting value for our clients and employees. \n\nReady to Take the Next Step? \n\nIf this sounds like you, we would love to hear from you.\nThis is an opportunity to make a difference and contribute\nto a highly successful company with a significant growth\ntrajectory. \n\nWe have been informed of several recruitment scams targeting\nthe public. We strongly advise you to verify identities\nbefore engaging in recruitment related communication. All\nofficial Capco communication will be conducted via a Capco\nrecruiter.\n\n#LI-MB1\n\n#LI-HYBRID\n\nUS Pay Range\n\n$125,000—$143,000 USD\n",
+  "skills_required": [
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build applications leveraging foundation models and advanced GenAI techniques including Agentic RAG and KG-RAG",
+    "Develop autonomous agents using modern agentic frameworks",
+    "Implement MCP integrations and Python-based full-stack solutions",
+    "Create scalable REST APIs and deploy AI workloads on major cloud platforms",
+    "Apply LLMOps/MLOps best practices for CI/CD and monitoring",
+    "Work across teams, mentor others, and drive innovation in embeddings, knowledge graphs, and ontologies"
+  ],
+  "use_cases": [
+    "Agentic RAG (Retrieval-Augmented Generation) systems",
+    "Knowledge Graph RAG (KG-RAG) implementations",
+    "Autonomous AI agent systems",
+    "MCP (Model Context Protocol) integrations",
+    "Embeddings and knowledge graph solutions",
+    "Full-stack AI applications for financial services"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "LLMOps",
+    "MLflow",
+    "REST",
+    "vector DBs"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work with LLMs, agentic systems,\nand RAG implementations. The engineer will design, develop,\nand deploy generative AI solutions from prototype to\nproduction, which is core AI engineering work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "agents",
+      "MCP",
+      "OpenAI/Anthropic APIs",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "REST"
+    ],
+    "databases": [
+      "vector DBs"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "MLflow",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "LLMOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

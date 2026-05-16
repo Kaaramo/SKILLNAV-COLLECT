@@ -1,0 +1,184 @@
+{
+  "job_id": "intl-ai-corpus-1953",
+  "source": "intl-ai-corpus",
+  "source_ref": "8660173",
+  "source_url": "https://builtin.com/job/senior-software-engineer-agentic-ai/8660173",
+  "title": "Senior Software Engineer - Agentic AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Guidewire Software",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-05",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,400 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud-based software platform for P&C insurance industry",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Insurance",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Summary\n\nJoin Guidewire as a Senior Software Engineer, Guidewire Data\nPlatform and be part of the team building our next-\ngeneration AI platform. This platform provides the analytics\nready dataset essential that power modern, intelligent\ninsurance applications.  You will design and scale multi-\nagent and RAG-based systems that power production features\nacross our Data Platform & Products. As part of Guidewire\nData Platform, you’ll help build the AI and data foundation\nthat enables these outcomes, working on high-impact\ninitiatives spanning Agentic AI, GraphRAG, and advanced\nanalytics that power next-generation insurance workflows. We\nare looking for a Senior Software Engineer, to design,\nimplement, and scale multi-agent AI systems and advanced RAG\narchitectures that power production features across\nGuidewire’s Data Platform products. You will own critical\nservices end-to-end—from architecture and experimentation\nthrough deployment, observability, and continuous\noptimization in cloud-native environments.\n\nJob Description\n\nWhat You Will Do\n\n- Design, implement, and operate multi-agent systems using\n  frameworks such as LangGraph, LangChain, or similar, to\n  solve complex, non-linear business workflows\n- Implement advanced reasoning patterns (Chain-of-Thought,\n  ReAct, Plan-and-Execute, tool-use) so agents can decompose\n  high-level goals into executable plans and coordinate\n  safely with tools, services, and data sources.\n- Build robust agentic loops using Python AsyncIO, including\n  concurrency control, timeout handling, and graceful\n  degradation strategies for long-running or multi-step\n  tasks.\n\n- Architect and optimize end-to-end RAG pipelines, including\n  document ingestion, chunking strategies tuned to insurance\n  documents, hybrid search (semantic + keyword), and\n  retrieval-time re-ranking.\n- Implement query expansion, result fusion, and\n  personalization strategies to maximize answer accuracy and\n  reliability for production use cases.\n\n- Use the Model Context Protocol (MCP) or similar standards to\n  define and implement connectors between agents and\n  Guidewire’s data sources, APIs, knowledge bases, and\n  external tools.\n\n- Optimize for token usage, latency, and throughput while\n  preserving reasoning quality, applying strategies such as\n  caching, retrieval pre-filtering, dynamic model routing,\n  and hierarchical prompting.\n\n- Uphold and model Guidewire’s culture of determination,\n  collaboration, continuous improvement, and bravery in how\n  you design, build, and ship AI systems.\n\nWhat We’re Looking For\n\n- Strong software engineering background (typically 8+ years)\n  with production experience in building distributed\n  systems, APIs, or data-intensive applications.\n- Expert-level Python skills, including AsyncIO for concurrent\n  and high-throughput workflows, plus familiarity with\n  TypeScript/Node.js for building modern AI middleware and\n  integration services.\n- Hands-on experience with at least one major AI orchestration\n  framework (e.g., LangChain, LangGraph, LlamaIndex,\n  AutoGen, CrewAI) and building multi-step or tool-using\n  agents in production.\n- Proven experience designing and operating RAG pipelines:\n  vector stores, embeddings, chunking strategies, hybrid\n  search (semantic + lexical), and re-ranking or scoring\n  strategies.\n- Experience with at least one vector database or search\n  engine (e.g., OpenSearch, Elasticsearch, Pinecone,\n  Weaviate, PGVector, or similar) and one relational or\n  NoSQL database.\n- Production experience integrating with one or more LLM APIs\n  (OpenAI, Anthropic, Gemini) and working with open-source\n  models (Llama 3+, Mistral, etc.), including evaluation and\n  prompt engineering.\n- Solid understanding of cloud-native development (Docker,\n  Kubernetes) and at least one major cloud platform (AWS,\n  Azure, or GCP), ideally including AI-specific services\n  (e.g., Bedrock).\n\nAbout Guidewire\n\nGuidewire is the platform P&C insurers trust to engage,\ninnovate, and grow efficiently. We combine digital, core,\nanalytics, and AI to deliver our platform as a cloud\nservice. More than 540+ insurers in 40 countries, from new\nventures to the largest and most complex in the world, run\non Guidewire.\n\nAs a partner to our customers, we continually evolve to\nenable their success. We are proud of our unparalleled\nimplementation track record with 1600+ successful projects,\nsupported by the largest R&D team and partner ecosystem in\nthe industry. Our Marketplace provides hundreds of\napplications that accelerate integration, localization, and\ninnovation.\n\nFor more information, please visit www.guidewire.com and\nfollow us on Twitter: @Guidewire_PandC.\n\nGuidewire Software, Inc. is proud to be an equal opportunity\nand affirmative action employer. We are committed to an\ninclusive workplace, and believe that a diversity of\nperspectives, abilities, and cultures is a key to our\nsuccess. Qualified applicants will receive consideration\nwithout regard to race, color, ancestry, religion, sex,\nnational origin, citizenship, marital status, age, sexual\norientation, gender identity, gender expression, veteran\nstatus, or disability. All offers are contingent upon\npassing a criminal history and other background checks where\nit's applicable to the position.\n",
+  "skills_required": [
+    "Anthropic API",
+    "AutoGen",
+    "Chain-of-Thought reasoning",
+    "CrewAI",
+    "Distributed systems",
+    "Embeddings",
+    "Gemini API",
+    "GraphRAG",
+    "Hybrid search",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "Model Context Protocol (MCP)",
+    "Open-source LLMs (Llama, Mistral)",
+    "OpenAI API",
+    "Plan-and-Execute reasoning",
+    "Prompt engineering",
+    "RAG",
+    "Re-ranking and scoring",
+    "ReAct reasoning",
+    "Tool-use/function calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, implement, and operate multi-agent systems using frameworks such as LangGraph and LangChain to solve complex business workflows",
+    "Implement advanced reasoning patterns including Chain-of-Thought, ReAct, Plan-and-Execute, and tool-use for agent coordination",
+    "Build robust agentic loops using Python AsyncIO with concurrency control and graceful degradation strategies",
+    "Architect and optimize end-to-end RAG pipelines including document ingestion, chunking, hybrid search, and re-ranking",
+    "Implement query expansion, result fusion, and personalization strategies for production use cases",
+    "Use Model Context Protocol (MCP) to define and implement connectors between agents and data sources, APIs, and tools",
+    "Optimize for token usage, latency, and throughput using caching, retrieval pre-filtering, and dynamic model routing"
+  ],
+  "use_cases": [
+    "Next-generation insurance workflow automation",
+    "Analytics-ready dataset generation for intelligent insurance applications",
+    "Complex non-linear business workflow automation for P&C insurers",
+    "Document intelligence and search for insurance documents",
+    "Production AI features across Guidewire's Data Platform products"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "Azure",
+    "Docker",
+    "Elasticsearch",
+    "GCP",
+    "Kubernetes",
+    "OpenSearch",
+    "REST APIs",
+    "Vector databases (Pinecone, Weaviate, PGVector)"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "AutoGen",
+    "Chain-of-Thought reasoning",
+    "CrewAI",
+    "Embeddings",
+    "Gemini API",
+    "GraphRAG",
+    "Hybrid search",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "Model Context Protocol (MCP)",
+    "Open-source LLMs (Llama, Mistral)",
+    "OpenAI API",
+    "Plan-and-Execute reasoning",
+    "Prompt engineering",
+    "RAG",
+    "Re-ranking and scoring",
+    "ReAct reasoning",
+    "Tool-use/function calling"
+  ],
+  "languages_programming": [
+    "AsyncIO",
+    "Node.js",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying multi-\nagent systems and RAG architectures using frameworks like\nLangGraph, LangChain, and implementing advanced reasoning\npatterns. The engineer will design, implement, and operate\nAI systems end-to-end, working hands-on with LLMs, agents,\nand RAG pipelines in production.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "LlamaIndex",
+      "AutoGen",
+      "CrewAI",
+      "Model Context Protocol (MCP)",
+      "Chain-of-Thought reasoning",
+      "ReAct reasoning",
+      "Plan-and-Execute reasoning",
+      "Tool-use/function calling",
+      "RAG",
+      "GraphRAG",
+      "Prompt engineering",
+      "OpenAI API",
+      "Anthropic API",
+      "Gemini API",
+      "Open-source LLMs (Llama, Mistral)",
+      "Hybrid search",
+      "Re-ranking and scoring"
+    ],
+    "ml": [
+      "Embeddings"
+    ],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector databases (Pinecone, Weaviate, PGVector)",
+      "OpenSearch",
+      "Elasticsearch"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "AWS Bedrock"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "AsyncIO",
+      "TypeScript",
+      "Node.js"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

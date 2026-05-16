@@ -1,0 +1,40 @@
+company:
+  name: Capgemini
+  stage: null
+  focus: null
+position:
+  title: Ingénieure/Ingénieur Data Databricks Senior
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - airflow
+    - databricks
+    - spark
+    - sql
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops:
+    - ci/cd
+    - terraform
+    languages: []
+    domains: []
+    other:
+    - agile
+    - Git
+    - PySpark
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4408577799'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

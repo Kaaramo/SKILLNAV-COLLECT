@@ -1,0 +1,149 @@
+{
+  "job_id": "intl-ai-corpus-1132",
+  "source": "intl-ai-corpus",
+  "source_ref": "8173266",
+  "source_url": "https://builtin.com/job/sr-ai-engineer-evergreen-sushrit/8173266",
+  "title": "Sr. AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Lyric - Clarity in motion.",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-07",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "315 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI-first healthcare payment accuracy platform",
+  "industries": [
+    "Information Technology",
+    "Payments"
+  ],
+  "description": "Lyric is an AI-first, platform-based healthcare technology\ncompany, committed to simplifying the business of care by\npreventing inaccurate payments and reducing overall waste in\nthe healthcare ecosystem, enabling more efficient use of\nresources to reduce the cost of care for payers, providers,\nand patients. Lyric, formerly ClaimsXten, is a market leader\nwith 35 years of pre-pay editing expertise, dedicated teams,\nand top technology. Lyric is proud to be recognized as 2025\nBest in KLAS for Pre-Payment Accuracy and Integrity and is\nHI-TRUST and SOC2 certified, and a recipient of the 2025\nCandE Award for Candidate Experience. Interested in shaping\nthe future of healthcare with AI? Explore opportunities at\nlyric.ai/careers and drive innovation with\n#YouToThePowerOfAI.\n\nJob Summary\n\nWe are looking for a highly skilled Machine Learning\nEngineer with hands-on experience in designing, building,\nand deploying ML models at scale. You will work on end-to-\nend ML pipelines—from data preprocessing to production\ndeployment—leveraging modern frameworks and MLOps practices.\nThis role is ideal for someone who thrives in solving\ncomplex problems, optimizing workflows, and applying AI to\ndeliver impactful business solutions. Additionally, you will\ncollaborate with analytics teams to design dashboards and\nvisualizations that provide actionable insights for\nstakeholders.\n\nModel Development & Deployment\n\n• Design, train, and optimize ML models using PyTorch or\nTensorFlow for production-grade applications.\n\n• Build scalable data pipelines for feature engineering and\nmodel training using Pandas, Dask, or equivalent frameworks.\n\n• Implement model evaluation, hyperparameter tuning, and\nperformance monitoring.\n\nMLOps & Automation\n\n• Develop and maintain ML workflows using Airflow, Kedro,\nand MLflow for reproducibility and traceability.\n\n• Automate model deployment and lifecycle management across\nenvironments (dev, staging, production).\n\n• Integrate CI/CD practices for ML pipelines using tools\nlike Azure DevOps, GitHub Actions, or similar.\n\nData Engineering & Processing\n\n• Handle large-scale datasets efficiently using distributed\ncomputing frameworks (Dask, Spark).\n\n• Ensure data quality, consistency, and compliance with\ngovernance standards.\n\n• Exposure to Snowflake or Databricks is a plus.\n\nAnalytics & Visualization\n\n• Collaborate with business and analytics teams to translate\nML outputs into actionable insights.\n\n• Design and develop dashboards and reports using Power BI\nor similar BI tools.\n\n• Perform exploratory data analysis (EDA) and communicate\nfindings effectively to stakeholders.\n\n• Build KPI-driven visualizations to monitor model\nperformance and business impact.\n\nMonitoring & Observability\n\n• Implement model drift detection, performance tracking, and\nautomated retraining strategies.\n\n• Use experiment tracking tools (MLflow, Weights & Biases)\nfor transparency and reproducibility.\n\nCollaboration & Documentation\n\n• Work closely with data scientists, software engineers, and\nproduct teams to align ML solutions with business goals.\n\n• Document ML workflows, best practices, and operational\nguidelines.\n\nRequired Qualifications\n\n•  5–7 years of experience in ML engineering or applied\nmachine learning.\n\n•  Strong proficiency in Python and libraries like Pandas,\nDask, NumPy, Scikit-learn.\n\n•  Hands-on experience with PyTorch or TensorFlow for model\ndevelopment.\n\n•  Solid understanding of MLOps tools: Airflow, Kedro,\nMLflow (or equivalents).\n\n•  Experience deploying ML models in production environments\n(APIs, batch jobs, streaming).\n\n•  Familiarity with containerization (Docker) and\norchestration (Kubernetes).\n\n•  Exposure to cloud platforms (Azure, AWS, or GCP) for ML\nworkloads.\n\n•  Experience with Power BI or similar BI tools for\nanalytics and visualization.\n\n•  Strong problem-solving skills and ability to work in\nagile, fast-paced environments.\n\nGood to haves\n\n\n\n•  Experience with feature stores (Feast, Tecton) and data\nversioning tools (DVC).\n\n•  Knowledge of distributed training and GPU optimization.\n\n•  Familiarity with experiment management tools (Weights &\nBiases, Neptune.ai).\n\n•  Understanding of model explainability and responsible AI\npractices.\n\n•  Contributions to open-source ML projects or technical\nblogs.\n",
+  "skills_required": [
+    "GPU optimization",
+    "PyTorch",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, train, and optimize ML models using PyTorch or TensorFlow for production-grade applications",
+    "Build scalable data pipelines for feature engineering and model training using distributed computing frameworks",
+    "Develop and maintain ML workflows using Airflow, Kedro, and MLflow for reproducibility and traceability",
+    "Automate model deployment and lifecycle management across dev, staging, and production environments",
+    "Implement model drift detection, performance tracking, and automated retraining strategies",
+    "Collaborate with business and analytics teams to design dashboards and visualizations for actionable insights",
+    "Ensure data quality, consistency, and compliance with governance standards for large-scale datasets"
+  ],
+  "use_cases": [
+    "Healthcare payment accuracy and pre-pay editing",
+    "Preventing inaccurate payments in healthcare claims",
+    "Reducing waste in the healthcare ecosystem",
+    "Optimizing resource use to reduce cost of care",
+    "Monitoring model performance and business impact through KPIs",
+    "Delivering actionable insights to stakeholders from ML outputs"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Azure",
+    "Azure DevOps",
+    "DVC",
+    "Dask",
+    "Databricks",
+    "Docker",
+    "Feast",
+    "GCP",
+    "GitHub Actions",
+    "Kedro",
+    "Kubernetes",
+    "MLflow",
+    "NumPy",
+    "Pandas",
+    "Power BI",
+    "Snowflake",
+    "Spark",
+    "Tecton",
+    "Weights & Biases"
+  ],
+  "frameworks_mentioned": [
+    "GPU optimization",
+    "PyTorch",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "The role focuses on traditional ML model development with\nPyTorch/TensorFlow, building ML pipelines, and MLOps\npractices. There is no mention of LLMs, RAG, agents, or\nmodern GenAI technologies like LangChain or OpenAI APIs.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "GPU optimization"
+    ],
+    "web": [
+      "Power BI"
+    ],
+    "databases": [
+      "Snowflake"
+    ],
+    "data": [
+      "Pandas",
+      "Dask",
+      "NumPy",
+      "Spark",
+      "Databricks",
+      "Feast",
+      "Tecton",
+      "DVC"
+    ],
+    "cloud": [
+      "Azure",
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Airflow",
+      "Kedro",
+      "MLflow",
+      "Azure DevOps",
+      "GitHub Actions",
+      "Weights & Biases",
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

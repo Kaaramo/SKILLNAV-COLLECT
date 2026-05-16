@@ -1,0 +1,36 @@
+company:
+  name: SymphonyAI
+  stage: null
+  focus: null
+position:
+  title: Data Scientist – Senior Consultant
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Forecasting
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops:
+    - docker
+    languages:
+    - python
+    domains:
+    - forecasting
+    - retail
+    other:
+    - statistics
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4402699249'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

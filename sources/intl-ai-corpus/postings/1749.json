@@ -1,0 +1,151 @@
+{
+  "job_id": "intl-ai-corpus-1749",
+  "source": "intl-ai-corpus",
+  "source_ref": "8594810",
+  "source_url": "https://builtin.com/job/ai-ml-engineer/8594810",
+  "title": "AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Optum",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "160,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Healthcare technology and services, pharmacy benefits,\nhealth optimization",
+  "industries": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Healthtech",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Requisition Number: 2345283 Optum is a global organization\nthat delivers care, aided by technology to help millions of\npeople live healthier lives. The work you do with our team\nwill directly improve health outcomes by connecting people\nwith the care, pharmacy benefits, data and resources they\nneed to feel their best. Here, you will find a culture\nguided by inclusion, talented peers, comprehensive benefits\nand career development opportunities. Come make an impact on\nthe communities we serve as you help us advance health\noptimization on a global scale. Join us to start Caring.\nConnecting. Growing together. Primary Responsibilities:\n\n- Design and build AI-powered features using NLP/LLMs and\n  classical ML for provider chat and voice workflows\n- Deliver end to end: data preparation,\n  modeling/experimentation, evaluation, API integration,\n  deployment, and monitoring in cloud environments\n- Implement responsible AI guardrails (content safety, PHI/PII\n  controls, prompt hygiene, evaluation suites) and\n  collaborate with governance/review partners\n- Develop and maintain web services and APIs that expose ML\n  capabilities; write clear documentation and runbooks\n- Apply MLOps practices (CI for ML, model registry,\n  reproducible experiments) and contribute to on\n  call/operational support with mentorship\n- Collaborate with product, architecture, security, data, and\n  platform teams to align with enterprise standards and\n  deliver measurable outcomes\n- Continuously improve code quality, test coverage, latency,\n  reliability, and cost per inference\n- Comply with the terms and conditions of the employment\n  contract, company policies and procedures, and any and all\n  directives (such as, but not limited to, transfer and/or\n  re-assignment to different work locations, change in teams\n  and/or work shifts, policies in regards to flexibility of\n  work benefits and/or work environment, alternative work\n  arrangements, and other decisions that may arise due to\n  the changing business environment). The Company may adopt,\n  vary or rescind these policies and directives in its\n  absolute discretion and without any limitation (implied or\n  otherwise) on its ability to do so\n\nRequired Qualifications:\n\n- 3+ years of total software engineering experience, including\n  2+ years hands on in AI/ML (e.g., NLP, GenAI, predictive\n  modeling, or recommendations)\n- Experience building and integrating model backed\n  APIs/services (Python/Node/Java) into production systems\n- Working knowledge of a major cloud (preferably AWS):\n  containers/serverless, IAM basics, storage/networking\n  fundamentals, logging/metrics\n- Understanding of security, access control,\n  monitoring/alerting, and foundational resiliency/DR\n  concepts for cloud applications\n- Solid software engineering practices: version control, code\n  reviews, automated testing, and CI/CD\n- Solid Python skills with one or more ML/DL frameworks\n  (PyTorch/TensorFlow; familiarity with Hugging Face or\n  LangChain is a plus)\n\nPreferred Qualifications:\n\n- Bachelor's degree in Computer Science, Engineering,\n  Mathematics, or related field (or equivalent practical\n  experience)\n- Exposure to healthcare data/processes (e.g., claims,\n  appeals, prior authorization, provider operations) or\n  other regulated industries\n- Experience with conversational AI (intent/entity models,\n  retrieval augmented generation, grounding) and vector\n  databases\n- Familiarity with MLOps toolchains (feature stores,\n  pipelines, model registry) and evaluation frameworks\n  (toxicity, hallucination, bias, drift)\n- Full stack curiosity (UI integrations, design systems) and a\n  habit of sharing learnings via demos, office hours, or\n  internal wikis\n\nAt UnitedHealth Group, our mission is to help people live\nhealthier lives and make the health system work better for\neveryone. We believe everyone-of every race, gender,\nsexuality, age, location and income-deserves the opportunity\nto live their healthiest life. Today, however, there are\nstill far too many barriers to good health which are\ndisproportionately experienced by people of color,\nhistorically marginalized groups and those with lower\nincomes. We are committed to mitigating our impact on the\nenvironment and enabling and delivering equitable care that\naddresses health disparities and improves health outcomes -\nan enterprise priority reflected in our mission.\n",
+  "skills_required": [
+    "Conversational AI",
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "NLP",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build AI-powered features using NLP/LLMs and classical ML for provider chat and voice workflows",
+    "Deliver end-to-end ML systems: data preparation, modeling/experimentation, evaluation, API integration, deployment, and monitoring in cloud environments",
+    "Implement responsible AI guardrails including content safety, PHI/PII controls, prompt hygiene, and evaluation suites",
+    "Develop and maintain web services and APIs that expose ML capabilities with clear documentation and runbooks",
+    "Apply MLOps practices including CI for ML, model registry, and reproducible experiments",
+    "Collaborate with product, architecture, security, data, and platform teams to align with enterprise standards",
+    "Continuously improve code quality, test coverage, latency, reliability, and cost per inference",
+    "Contribute to on-call/operational support with mentorship from senior team members"
+  ],
+  "use_cases": [
+    "Provider chat and voice workflows in healthcare",
+    "Conversational AI with retrieval augmented generation",
+    "Healthcare data processing and predictions",
+    "Content safety and PHI/PII protection in AI systems",
+    "Enterprise ML model deployment and serving"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "Feature Stores",
+    "Git",
+    "MLOps",
+    "Model Registry",
+    "REST APIs",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Conversational AI",
+    "Hugging Face",
+    "LLMs",
+    "LangChain",
+    "NLP",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Java",
+    "Node.js",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying AI-\npowered features using NLP/LLMs and classical ML models. The\nengineer will handle end-to-end ML work including data\npreparation, modeling, evaluation, API integration, and\ndeployment - clearly hands-on work with AI/ML systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "LangChain",
+      "RAG",
+      "Conversational AI",
+      "Prompt Engineering"
+    ],
+    "ml": [
+      "NLP",
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face"
+    ],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "MLOps",
+      "Feature Stores",
+      "Model Registry",
+      "Git"
+    ],
+    "languages": [
+      "Python",
+      "Node.js",
+      "Java"
+    ],
+    "domains": [
+      "Healthcare/Regulated Industry"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

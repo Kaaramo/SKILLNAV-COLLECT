@@ -1,0 +1,171 @@
+{
+  "job_id": "intl-ai-corpus-3019",
+  "source": "intl-ai-corpus",
+  "source_ref": "9109443",
+  "source_url": "https://builtin.com/job/staff-software-engineer-java-python-ai/9109443",
+  "title": "Staff Software Engineer (Java/Python with AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Uniphore",
+  "company_type": "entité morale privée",
+  "location": "India",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-21",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "465 Employees",
+  "company_stage": "Late-stage / Growth",
+  "company_focus": "B2B AI-native enterprise platform for customer experience",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning"
+  ],
+  "description": "Uniphore is one of the largest B2B AI-native\ncompanies—decades-proven, built-for-scale and designed for\nthe enterprise. The company drives business outcomes, across\nmultiple industry verticals, and enables the largest global\ndeployments.\n\nUniphore infuses AI into every part of the enterprise that\nimpacts the customer. We deliver the only multimodal\narchitecture centered on customers that combines Generative\nAI, Knowledge AI, Emotion AI, workflow automation and a co-\npilot to guide you. We understand better than anyone how to\ncapture voice, video and text and how to analyze all types\nof data.\n\nAs AI becomes more powerful, every part of the enterprise\nthat impacts the customer will be disrupted. We believe the\nfuture will run on the connective tissue between people,\nmachines and data: all in the service of creating the most\nhuman processes and experiences for customers and employees.\n\nJob Description:\n\n\nJob Overview\n\nAs a Staff Software Engineer at Uniphore, you will be\nintegral to the design, development, and scaling of the BAIC\n(Business AI Cloud) Platform — our enterprise-grade platform\nthat powers knowledge management, agent orchestration,\nunified data access, and model serving for customers. This\nis a 0-to-1 role: you will build new capabilities that are\nnot yet in production, take them to customers, and harden\nthem at enterprise scale. You will partner closely with\nengineering, product, design, and AI teams to deliver\nscalable, reliable, and high-performance backend systems\nacross both SaaS and on-premises deployments.\n\nKey ResponsibilitiesPlatform & Product Delivery\n\n- Own new platform capabilities end-to-end — from ambiguous\n  problem framing, through high-level and low-level design,\n  to production rollout and customer adoption.\n- Take products and major features from 0 to 1 and iterate\n  with real customers to drive adoption and scale.\n- Collaborate with cross-functional teams (product, design,\n  AI/ML, SRE) to translate business and customer needs into\n  pragmatic technical solutions.\n\nDesign & Engineering Excellence\n\n- Design and build scalable, reliable, low-latency backend\n  services in Java (Spring Boot) and Python (FastAPI).\n- Drive rigorous low-level design — API contracts, data\n  models, concurrency, failure modes, backpressure,\n  idempotency, and observability.\n- Write clean, maintainable, well-tested code and raise the\n  engineering bar through design reviews, code reviews, and\n  mentorship.\n- Participate in the full software development lifecycle:\n  requirements, design, implementation, testing, release,\n  and operations.\n\nDeployment, Infrastructure & Operability\n\n- Build for both SaaS and on-premises / customer-controlled\n  deployments; make deliberate trade-offs around topology,\n  secrets, network boundaries, and upgrade paths.\n- Partner with DevOps/SRE to codify infrastructure in\n  Terraform and ship through GitHub Actions; establish\n  deployment, rollback, and environment-promotion patterns.\n- Troubleshoot, debug, and optimize existing services for\n  performance, reliability, and scalability in cloud and on-\n  prem environments.\n- Ensure adherence to security and data-privacy standards,\n  particularly for customer-sensitive workloads.\n\nDeveloper Productivity & AI-assisted Engineering\n\n- Use coding agents and modern AI-assisted developer tooling\n  as a routine part of the workflow to amplify throughput —\n  while owning the final quality, design integrity, and\n  security of what ships.\n- Identify leverage points across the team's workflow and\n  invest in tooling, templates, and patterns that compound\n  productivity.\n\nRequired Skills and ExperienceExperience & Education\n\n- Bachelor's or Master's degree in computer science,\n  Information Technology, or equivalent practical\n  experience.\n- 7–10 years of software development experience, including\n  time spent taking products from 0 to 1 and delivering them\n  to customers at scale.\n\nBackend & Coding (Mandatory)\n\n- Backend depth (mandatory): Strong hands-on experience\n  building production backend services — distributed\n  systems, APIs, async processing, and performance tuning.\n  This is non-negotiable.\n- Low-level design: Demonstrated ability to design complex\n  modules and services — data modeling, concurrency, error\n  handling, API and schema evolution, and operability.\n- Python (mandatory): Strong, idiomatic, production-level\n  Python.\n- Java: Solid working experience in Java and one common\n  framework (e.g., Spring Boot, Vert.x).\n- API development: Practical experience with REST and,\n  ideally, gRPC/WebSockets.\n- Delivery at scale: Track record of shipping software that\n  real customers use in production — owning SLOs, incidents,\n  and iterations.\n\nData, Cloud & Deployment\n\n- Databases: Strong working knowledge of relational and NoSQL\n  databases (e.g., PostgreSQL, MongoDB) — schema design,\n  indexing, query performance, and transactions.\n- Cloud: Practical experience designing and operating services\n  on at least one major cloud (AWS, GCP, or Azure).\n- On-prem deployments: Experience packaging and deploying\n  software for customer-controlled / on-prem environments,\n  including the operational realities that come with it.\n- Infrastructure-as-code: Hands-on with Terraform — writing,\n  reviewing, and maintaining real IaC, not just consuming\n  it.\n- CI/CD: Hands-on with GitHub Actions (or equivalent) for\n  build, test, and deployment pipelines.\n\nWays of Working\n\n- Coding agents: Comfortable using modern coding agents and\n  AI-assisted developer tooling in daily work.\n- 0-to-1 mindset: Thrives in ambiguity, scopes ruthlessly,\n  ships in iterations, and is comfortable owning decisions\n  with incomplete information.\n- Communication: Clear written and verbal communication; can\n  write design docs that senior engineers and PMs can both\n  act on.\n- Startup energy: Motivated to thrive in a fast-moving,\n  product-driven environment.\n\nPreferred SkillsProduct Design & Platform Thinking\n\n- Prior work on developer-facing platforms, data platforms, or\n  AI platforms where product design and engineering are\n  tightly coupled.\n- Strong product sensibility — can partner with PM and design\n  on shaping the user experience of platform capabilities.\n\nAI/ML & GenAI (Good to Have, Not Mandatory)\n\n- RAG & vector search: Experience building or integrating\n  Retrieval-Augmented Generation pipelines and vector\n  stores.\n- Agentic systems: Hands-on with agent frameworks such as\n  LangGraph, LangChain, or crewAI — tool-use, planning, and\n  multi-agent orchestration.\n- LLM inference & observability: Multi-provider LLM serving,\n  guardrails, tracing, evaluations, and monitoring.\n- Fine-tuning: Familiarity with LoRA, QLoRA, instruction\n  tuning, or small language model (SLM) fine-tuning.\n\nAdditional Technical Breadth\n\n- Streaming and async systems (Kafka, WebSockets, gRPC, event-\n  driven architectures).\n- Containers and Kubernetes in production.\n- Observability tooling (OpenTelemetry, Prometheus, Grafana,\n  distributed tracing).\n- Familiarity with JavaScript or TypeScript for occasional\n  full-stack contributions.\n- Knowledge of Linux fundamentals and shell scripting.\n\n\n\nLocation preference:\n\nIndia - Bangalore, India - Chennai\n\nUniphore is an equal opportunity employer committed to\ndiversity in the workplace. We evaluate qualified applicants\nwithout regard to race, color, religion, sex, sexual\norientation, disability, veteran status, and other protected\ncharacteristics.\n\nFor more information on how Uniphore uses AI to unify—and\nhumanize—every enterprise experience, please\nvisit www.uniphore.com.\n",
+  "skills_required": [
+    "Agent frameworks and orchestration",
+    "CrewAI",
+    "Distributed systems design",
+    "Fine-tuning",
+    "LLM guardrails and evaluations",
+    "LLM inference and serving",
+    "LangChain",
+    "LangGraph",
+    "LoRA / QLoRA",
+    "RAG (Retrieval-Augmented Generation)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own new platform capabilities end-to-end on the BAIC (Business AI Cloud) Platform — from problem framing through design to production rollout",
+    "Design and build scalable, reliable, low-latency backend services in Java (Spring Boot) and Python (FastAPI)",
+    "Build and ship products from 0 to 1, iterating with real customers to drive adoption and scale at enterprise level",
+    "Design and implement RAG pipelines, agent orchestration systems, and LLM serving infrastructure",
+    "Build for both SaaS and on-premises/customer-controlled deployments with appropriate trade-offs around topology, secrets, and network boundaries",
+    "Partner with DevOps/SRE to codify infrastructure in Terraform and ship through CI/CD pipelines",
+    "Troubleshoot, debug, and optimize existing services for performance, reliability, and scalability",
+    "Use AI-assisted developer tooling and coding agents to amplify engineering throughput while maintaining quality"
+  ],
+  "use_cases": [
+    "Enterprise knowledge management powered by AI",
+    "Agent orchestration for multi-step AI workflows",
+    "Unified data access layer for customer-facing AI applications",
+    "Model serving infrastructure for LLM and GenAI workloads",
+    "Multimodal AI platform combining voice, video, and text analysis for customer experience"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "FastAPI",
+    "GCP",
+    "GitHub Actions",
+    "Grafana",
+    "Kafka",
+    "Kubernetes",
+    "MongoDB",
+    "OpenTelemetry",
+    "PostgreSQL",
+    "Prometheus",
+    "REST APIs",
+    "Spring Boot",
+    "Terraform",
+    "Vector search / Vector stores",
+    "WebSockets",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks and orchestration",
+    "CrewAI",
+    "Fine-tuning",
+    "LLM guardrails and evaluations",
+    "LLM inference and serving",
+    "LangChain",
+    "LangGraph",
+    "LoRA / QLoRA",
+    "RAG (Retrieval-Augmented Generation)"
+  ],
+  "languages_programming": [
+    "Java",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building the BAIC (Business AI Cloud)\nPlatform that powers agent orchestration, knowledge\nmanagement, model serving, and RAG pipelines. While\nprimarily a backend engineering role, it directly builds AI\nplatform capabilities including GenAI integration, agentic\nsystems, and LLM inference infrastructure — making it hands-\non with AI systems deployment and orchestration.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG (Retrieval-Augmented Generation)",
+      "LangGraph",
+      "LangChain",
+      "CrewAI",
+      "LLM inference and serving",
+      "Agent frameworks and orchestration",
+      "LLM guardrails and evaluations"
+    ],
+    "ml": [
+      "LoRA / QLoRA",
+      "Fine-tuning"
+    ],
+    "web": [
+      "Spring Boot",
+      "FastAPI",
+      "REST APIs",
+      "gRPC",
+      "WebSockets"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "Vector search / Vector stores"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Terraform",
+      "GitHub Actions",
+      "Kubernetes",
+      "Docker",
+      "Prometheus",
+      "Grafana",
+      "OpenTelemetry"
+    ],
+    "languages": [
+      "Python",
+      "Java",
+      "SQL",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

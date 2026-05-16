@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-2146",
+  "source": "intl-ai-corpus",
+  "source_ref": "8778108",
+  "source_url": "https://builtin.com/job/senior-staff-backend-engineer-applied-ai/8778108",
+  "title": "Senior/Staff Backend Engineer, Applied AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "TriEdge Investments",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "26 Employees",
+  "company_stage": "Early-stage (implied by \"early-stage startup experience\" mention and ownership scope)",
+  "company_focus": "AI-native asset management platform for healthcare\nfacilities and multifamily real estate",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Real Estate",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "About Hypha\n\nHypha is an AI-native platform transforming asset management\nacross the full lifecycle—acquisition, management, and exit.\nFocused on healthcare facilities and multifamily real\nestate, we're revolutionizing the industry through three key\npillars:\n\n- Observability: Providing real-time visibility into asset\n  performance, deal progress, and market conditions for all\n  stakeholders\n- Intelligence: Enabling AI-driven multidimensional\n  optimization with risk scores, tax strategies, and\n  benchmarking\n- Orchestration: Creating seamless workflows and a single\n  source of truth to eliminate inefficiencies\n\nRole Overview\n\nAs a Senior/Staff Backend Engineer, Applied AI at Hypha, you\nwill own the architecture and evolution of the AI systems at\nthe core of the platform. This includes designing and\nscaling document processing pipelines, extraction agents,\nentity resolution systems, computed attribute frameworks,\nand conversational interfaces that allow users to interact\nwith complex financial data.\n\nYou will lead the design of multi-step AI workflows that\ntransform unstructured information into structured,\nactionable insights, while building the backend\ninfrastructure, evaluation systems, and observability layers\nrequired to operate these systems reliably in production.\nThis role is for an engineer who can go beyond\nimplementation and make high-leverage decisions around\nsystem design, performance, reliability, and technical\ntradeoffs.\n\nYou will work closely with leadership, product, and\nengineering peers to shape technical direction, improve\nengineering standards, and help define the architecture and\nscaling strategy for Hypha’s applied AI stack over time.\n\nCore Competencies\n\n- Architect and scale AI-powered backend systems for document\n  extraction, entity resolution, retrieval, and structured\n  data generation\n- Design resilient pipelines, queues, orchestration layers,\n  and failure-handling mechanisms for production AI\n  workflows\n- Own data modeling and backend design decisions across\n  PostgreSQL and related storage systems for complex\n  financial and operational data\n- Establish observability, evaluation, and debugging standards\n  for AI systems, including tracing, monitoring, quality\n  analysis, and cost/performance tradeoffs\n- Improve platform reliability and developer velocity through\n  better abstractions, tooling, and engineering patterns\n- Partner with product and frontend teams to design backend\n  capabilities that translate into intuitive product\n  experiences\n- Provide technical leadership through architecture reviews,\n  design feedback, and mentorship of other engineers\n\nIdeal Candidate\n\n- 7+ years of backend or full-stack software engineering\n  experience, with meaningful time spent owning backend\n  systems in production\n- Strong backend fundamentals — You have deep experience with\n  Node.js/TypeScript, PostgreSQL, and building reliable\n  server-side systems in production. You understand\n  concurrency, queuing, data pipeline design, and the\n  tradeoffs involved in scaling backend systems over time.\n- Applied AI experience — You've built products with LLMs;\n  whether that's agent architectures, RAG systems,\n  extraction pipelines, or tool-use patterns. You understand\n  the practical challenges of working with non-deterministic\n  systems.\n- Systems thinking — You can reason about how components\n  interact at scale. You think about failure modes, retries,\n  observability, and cost when designing AI workflows.\n- Technical leadership — You help raise the quality bar\n  through architecture decisions, design reviews, code\n  quality, and mentorship of other engineers. You can lead\n  complex backend and applied AI initiatives and improve how\n  the team builds, operates, and scales critical systems\n  over time.\n- Pragmatic engineering — You ship working systems, not\n  research prototypes. You know when to optimize and when\n  good enough is good enough.\n- AI-fluent — You use AI coding tools daily and know how to\n  wield them effectively as a multiplier on top of strong\n  fundamentals.\n\nWhat Sets You Apart\n\n- Experience owning architecture for AI-native or data-\n  intensive backend platforms\n- Experience designing evaluation, observability, and\n  guardrail systems for LLM-based workflows\n- Experience with workflow orchestration tools such as\n  Inngest, Temporal, or Step Functions in production\n  environments\n- Experience with OCR, document intelligence, search, or\n  financial/legal data extraction at scale\n- Experience mentoring engineers and improving technical\n  standards across a team\n- Early-stage startup experience, especially in environments\n  requiring fast iteration and high ownership\n\nWhy Join Hypha\n\n- Be at the cutting edge of applied AI\n- Have a large scope and massive impact on the company\n- Work directly with the leadership team\n- Own critical systems and help shape the technical foundation\n  of the company as we scale\n- Competitive compensation package: $225-$350k base salary and\n  equity\n\nIf you're ready to help build the future of asset management\nand are excited by the challenge of bringing AI-driven\nsolutions to complex financial workflows, we want to hear\nfrom you.\n\nPlease note: We are proud to be an equal opportunity\nemployer, and we are committed to diversity and inclusion.\nAll qualified applicants will receive consideration for\nemployment without regard to race, color, religion,\nethnicity, sex, age, national origin, citizenship status,\ndisability, marital status, partnership status, sexual\norientation, gender identity and expression, military or\nveteran status, or any other characteristic protected by\nfederal, state or local law.\n",
+  "skills_required": [
+    "Document intelligence",
+    "Document processing",
+    "Extraction pipelines",
+    "LLM agents",
+    "OCR",
+    "RAG",
+    "Search systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and scale AI-powered backend systems for document extraction, entity resolution, retrieval, and structured data generation",
+    "Design resilient pipelines, queues, orchestration layers, and failure-handling mechanisms for production AI workflows",
+    "Own data modeling and backend design decisions across PostgreSQL and related storage systems for complex financial and operational data",
+    "Establish observability, evaluation, and debugging standards for AI systems, including tracing, monitoring, quality analysis, and cost/performance tradeoffs",
+    "Improve platform reliability and developer velocity through better abstractions, tooling, and engineering patterns",
+    "Design multi-step AI workflows that transform unstructured information into structured, actionable insights",
+    "Build conversational interfaces that allow users to interact with complex financial data",
+    "Partner with product and frontend teams to design backend capabilities that translate into intuitive product experiences"
+  ],
+  "use_cases": [
+    "Document processing and extraction for financial and legal data",
+    "Entity resolution and data reconciliation across asset management workflows",
+    "Conversational interfaces for complex financial data interaction",
+    "Risk scoring and multidimensional optimization for asset management",
+    "Real-time observability into asset performance and deal progress",
+    "AI-driven tax strategies and benchmarking"
+  ],
+  "tools_mentioned": [
+    "Inngest",
+    "Monitoring and observability",
+    "PostgreSQL",
+    "Queue systems",
+    "Step Functions",
+    "Temporal",
+    "Vector databases",
+    "Workflow orchestration"
+  ],
+  "frameworks_mentioned": [
+    "Document intelligence",
+    "Document processing",
+    "Extraction pipelines",
+    "LLM agents",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building and deployment of AI\nsystems including document processing pipelines, extraction\nagents, entity resolution systems, and conversational\ninterfaces. The engineer will architect and scale AI-powered\nsystems and design multi-step AI workflows that transform\nunstructured data into structured insights.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLM agents",
+      "Extraction pipelines",
+      "Document processing",
+      "Document intelligence"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "PostgreSQL",
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Inngest",
+      "Temporal",
+      "Step Functions",
+      "Workflow orchestration",
+      "Monitoring and observability",
+      "Queue systems"
+    ],
+    "languages": [
+      "TypeScript",
+      "Node.js",
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "OCR",
+      "Search systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

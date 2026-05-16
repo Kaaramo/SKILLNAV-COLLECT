@@ -1,0 +1,60 @@
+company:
+  name: Expleo Group
+  stage: null
+  focus: null
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities:
+  - 'Concevoir et développer des solutions basées sur les technologies Generative AI :'
+  - RAG (Retrieval-Augmented Generation)
+  - Chatbots intelligents
+  - systèmes multi-agents
+  - assistants IA et workflows intelligents
+  - Développer et intégrer des APIs REST en Python pour exposer les services IA
+  - Participer à la conception et à l’optimisation des pipelines IA et data
+  - Concevoir les modèles de données et interfacer les applications avec PostgreSQL et MongoDB
+  - Collaborer avec les équipes produit et développement pour définir les besoins techniques et fonctionnels
+  - Participer à l’amélioration continue des performances et de la qualité des solutions IA
+  - Assurer une veille technologique sur les innovations IA, LLM et architectures modernes
+  use_cases:
+  - Chatbot / conversational AI
+  skills:
+    genai:
+    - agents
+    - Bonne compréhension des concepts RAG, orchestration d’agents IA et prompting avancé
+    - Expérience confirmée sur les technologies Generative AI et LLM
+    - generative ai
+    - llm
+    - prompting
+    - rag
+    - retrieval-augmented
+    ml:
+    - deep learning
+    - Expérience appréciée en Machine Learning et Deep Learning
+    - machine learning
+    web:
+    - rest api
+    databases:
+    - Maîtrise des bases de données PostgreSQL et MongoDB
+    - mongodb
+    - postgresql
+    data: []
+    cloud: []
+    ops: []
+    languages:
+    - python
+    - Très bonne maîtrise de Python et des architectures API REST
+    domains: []
+    other:
+    - agile
+    - API
+    - REST
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010132138118'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

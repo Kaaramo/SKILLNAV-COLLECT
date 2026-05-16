@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-0937",
+  "source": "intl-ai-corpus",
+  "source_ref": "7733448",
+  "source_url": "https://builtin.com/job/backend-engineer-ai/7733448",
+  "title": "Backend Engineer - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Unifize",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "28 Employees",
+  "company_stage": null,
+  "company_focus": "AI-native product suite for regulated manufacturing",
+  "industries": [
+    "Software",
+    "Manufacturing"
+  ],
+  "description": "Backend Engineer - AI Platform\n\nJob Location: Bangalore, India\n\nExperience : 3 - 5 years\n\nAbout Unifize:\n\nAt Unifize, we’re building the AI-native product suite for\nregulated manufacturing companies. Our platform is designed\nto unify Quality, Operations, and R&D in a single\ncollaborative system.\n\nToday, life sciences and other regulated manufacturers rely\non a patchwork of disconnected tools, eg, QMS, DMS, PLM,\nMES, spreadsheets, and email, to manage their processes.\nThis fragmentation slows down innovation, increases\ncompliance risks, and forces teams to waste time manually\nconnecting the dots.\n\nUnifize changes that by bringing process, documentation, and\ncommunication together in one place. Whether it's managing\nCAPAs, resolving deviations, launching new products, or\npreparing for audits, Unifize enables teams to work faster\nwith full traceability and audit readiness built in.\n\nWhat makes Unifize different:\n\n- No-code configuration for rapid deployment and adaptation\n- Collaboration embedded in every record, not siloed in email\n  or chat\n- Context-aware AI that suggests actions, detects risks, and\n  enhances productivity\n- Flexible architecture that supports expansion across QMS,\n  DMS, MES, PLM, CMMS, and more\n\nWe’re already working with leading companies in the life\nsciences and manufacturing sectors. Our customers start with\none use case and consistently expand, with 100% net\nexpansion to date.\n\nCheck out our website, case studies, videos to learn more.\n\nThe Role:\n\nWe're building a new AI Platform microservice that\nintegrates tightly with our core Clojure-based system. This\nrole involves leading backend development for this service,\nprimarily in Python, working on AI/ML integrations and\nmicroservices architecture, and ensuring robust data\nhandling via PostgreSQL.\n\nWe don’t expect prior experience with Clojure but value\ncuriosity and a willingness to learn. This role is a good\nfit for engineers who enjoy ownership, functional\nprogramming principles, and building infrastructure that\npowers intelligent applications.\n\nResponsibilities:\n\n- Own and build Python-based backend services that interface\n  with AI models and core product workflows\n- Design and manage scalable PostgreSQL and vector database\n  schemas and queries\n- Develop and maintain RESTful APIs\n- Collaborate with the platform and frontend teams to ensure\n  clean integration with the larger Unifize system\n- Contribute to design decisions, including service\n  boundaries, API structure, and data pipelines\n- Write clean, well-tested code and proactively review others'\n  work\n\nQualifications:\n\n- Strong proficiency in Python, with emphasis on clean,\n  modular design\n- Solid understanding of relational databases, particularly\n  PostgreSQL\n- Experience designing and consuming LLM APIs and writing\n  integrations with them – having understanding of RAG,\n  vectorisation\n- Familiarity with architectural principles behind modern web\n  applications\n- Ability to work in a fast-paced environment with a\n  collaborative, product-focused team\n\nGood to have:\n\n- Understanding of AI/ML model integrations and workflows in\n  production environments\n- Experience with functional or functional-style programming\n  (e.g., Clojure, Elixir, Scala, Java 8+)\n- Exposure to distributed systems and microservices\n- Familiarity with message queues, job orchestration, or\n  asynchronous processing\n",
+  "skills_required": [
+    "LLM APIs",
+    "RAG",
+    "vectorization"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and build Python-based backend services that interface with AI models and core product workflows",
+    "Design and manage scalable PostgreSQL and vector database schemas and queries",
+    "Develop and maintain RESTful APIs",
+    "Collaborate with the platform and frontend teams to ensure clean integration with the larger Unifize system",
+    "Contribute to design decisions, including service boundaries, API structure, and data pipelines",
+    "Write clean, well-tested code and proactively review others' work"
+  ],
+  "use_cases": [
+    "Context-aware AI that suggests actions, detects risks, and enhances productivity",
+    "Quality management system integration with AI capabilities",
+    "CAPA management and deviation resolution",
+    "Product launch processes with AI assistance",
+    "Audit preparation and compliance management with traceability"
+  ],
+  "tools_mentioned": [
+    "PostgreSQL",
+    "RESTful APIs",
+    "asynchronous processing",
+    "distributed systems",
+    "job orchestration",
+    "message queues",
+    "microservices architecture",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LLM APIs",
+    "RAG",
+    "vectorization"
+  ],
+  "languages_programming": [
+    "Clojure",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building backend services that interface\ndirectly with AI models and LLM APIs, designing vector\ndatabase schemas for RAG implementations, and developing\nAI/ML integrations. The engineer will work on RAG,\nvectorization, and LLM API integrations - these are hands-on\ntasks of building AI systems rather than just supporting\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLM APIs",
+      "vectorization"
+    ],
+    "ml": [],
+    "web": [
+      "RESTful APIs",
+      "microservices architecture"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "vector databases"
+    ],
+    "data": [
+      "message queues",
+      "asynchronous processing"
+    ],
+    "cloud": [],
+    "ops": [
+      "distributed systems",
+      "job orchestration"
+    ],
+    "languages": [
+      "Python",
+      "Clojure"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

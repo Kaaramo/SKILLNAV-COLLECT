@@ -1,0 +1,134 @@
+{
+  "job_id": "intl-ai-corpus-0439",
+  "source": "intl-ai-corpus",
+  "source_ref": "8028307",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai-ml-platform/8028307",
+  "title": "Senior Software Engineer – AI/ML Platform",
+  "title_normalized": "MLOPS_ENGINEER",
+  "company": "Socure",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-13",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "386 Employees",
+  "company_stage": "Series D",
+  "company_focus": "Identity verification and fraud prevention platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Why Socure?\n\nSocure is building the identity trust infrastructure for the\ndigital economy — verifying 100% of good identities in real\ntime and stopping fraud before it starts. The mission is\nbig, the problems are complex, and the impact is felt by\nbusinesses, governments, and millions of people every day.\n\nWe hire people who want that level of responsibility. People\nwho move fast, think critically, act like owners, and care\ndeeply about solving customer problems with precision. If\nyou want predictability or narrow scope, this won’t be your\nplace. If you want to help build the future of identity with\na team that holds a high bar for itself — keep reading.\n\nAbout the Role\n\nAs a Senior Software Engineer on Socure’s AI Platform team,\nyou’ll design and build infrastructure that supports model\ntraining, validation, deployment, and serving at scale. You\nwill work with modern AWS-native technologies, focusing on\nlow-latency microservices, automated pipelines, and robust\ndeployment workflows to enable safe and efficient delivery\nof machine learning models into production.\n\nThis role is ideal for someone who enjoys building platforms\nand tools that abstract complexity for ML and data science\nteams, and who thrives in fast-paced environments where\nengineering excellence and reliability are paramount.\n\nWhat You'll Do\n\n- Build and maintain scalable systems and infrastructure for\n  deploying and serving ML models.\n- Design low-latency, fault-tolerant model inference systems\n  using Amazon SageMaker.\n- Implement safe deployment strategies like blue/green\n  deployments and rollbacks.\n- Create and manage CI/CD pipelines for ML workflows.\n- Monitor model performance and system health using AWS\n  observability tools (e.g., CloudWatch).\n- Develop internal tools and APIs to help ML teams deploy and\n  monitor models easily.\n- Collaborate with ML engineers, data scientists, and DevOps\n  to productionize new models.\n- Participate in code reviews, system design, and platform\n  roadmap discussions.\n- Continuously improve deployment reliability, speed, and\n  usability of the ML platform.\n\nWhat You Bring\n\n- 4+ years of experience as a software engineer, with at least\n  2 years focused on low latency and highly available\n  backend systems.\n- Bachelor’s or Master’s degree in Computer Science, Data\n  Science, AI, Machine Learning, or a related field with a\n  strong academic record.\n- Strong fundamentals in data structures, algorithms, and\n  distributed computing principles.\n- Strong analytical and problem-solving skills, with a passion\n  for AI and machine learning.\n- Strong programming skills in Python; familiarity with\n  Go/Rust is a plus.\n- Hands-on experience with model systems including low latency\n  model serving, registry, and pipeline\n  orchestration(preferably SageMaker)\n- Solid understanding of MLOps best practices, including model\n  versioning, testing, deployment, and reproducibility.\n- Experience building and maintaining CI/CD pipelines for ML\n  workflows.\n- Experience with ML frameworks such as TensorFlow, PyTorch,\n  or Scikit-learn.\n- Experience with database technologies (SQL, NoSQL, or data\n  warehouses like Snowflake or Redshift).\n\nPreferred Qualifications\n\n- Experience building internal ML platform services or self-\n  service tooling for model deployment and monitoring.\n- Understanding of model optimization techniques (e.g.,\n  TorchScript, ONNX, quantization, batching).\n- Experience with feature stores, real-time feature serving,\n  or caching systems for ML workloads.\n- Background in deploying ML models into high-availability,\n  mission-critical environments.\n\nPlease note that Socure cannot provide sponsorship now or in\nthe future for this opening.\n\nSocure is an equal opportunity employer that values\ndiversity in all its forms within our company. We do not\ndiscriminate based on race, religion, color, national\norigin, gender, sexual orientation, age, marital status,\nveteran status, or disability status. If you need an\naccommodation during any stage of the application or hiring\nprocess—including interview or onboarding support—please\nreach out to your Socure recruiting partner directly.\n\nFollow Us!\n\nYouTube | LinkedIn | X (Twitter) | Facebook\n",
+  "skills_required": [
+    "PyTorch",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain scalable systems and infrastructure for deploying and serving ML models",
+    "Design low-latency, fault-tolerant model inference systems using Amazon SageMaker",
+    "Implement safe deployment strategies like blue/green deployments and rollbacks",
+    "Create and manage CI/CD pipelines for ML workflows",
+    "Monitor model performance and system health using AWS observability tools",
+    "Develop internal tools and APIs to help ML teams deploy and monitor models easily",
+    "Collaborate with ML engineers, data scientists, and DevOps to productionize new models"
+  ],
+  "use_cases": [
+    "Real-time identity verification for fraud prevention",
+    "Model inference systems serving identity trust predictions",
+    "Automated ML model deployment pipelines for production systems",
+    "Monitoring and observability for deployed ML models",
+    "Feature serving and caching for ML workloads"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Amazon SageMaker",
+    "CI/CD",
+    "CloudWatch",
+    "Docker",
+    "Kubernetes",
+    "MLOps",
+    "MLflow",
+    "NoSQL",
+    "ONNX",
+    "Redshift",
+    "SQL",
+    "Snowflake",
+    "TorchScript"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an ML Platform engineering role focused on building\ninfrastructure, tools, and pipelines to enable ML teams to\ndeploy and serve models. The engineer works NEAR AI by\nbuilding deployment pipelines, CI/CD workflows, and serving\ninfrastructure, but does not directly build, train, or fine-\ntune models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn"
+    ],
+    "web": [],
+    "databases": [
+      "SQL",
+      "NoSQL",
+      "Snowflake",
+      "Redshift"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Amazon SageMaker"
+    ],
+    "ops": [
+      "MLflow",
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "CloudWatch",
+      "MLOps",
+      "TorchScript",
+      "ONNX"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "Rust"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

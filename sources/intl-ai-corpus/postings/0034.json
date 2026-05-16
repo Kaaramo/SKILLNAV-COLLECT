@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-0034",
+  "source": "intl-ai-corpus",
+  "source_ref": "6330562",
+  "source_url": "https://builtin.com/job/staff-software-engineer-ai-ml/6330562",
+  "title": "Staff Software Engineer – AI/ML",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Mastrics",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "28000 Employees",
+  "company_stage": null,
+  "company_focus": "Fertility-tech SaaS platforms for surrogacy, egg donation,\nand medical record automation",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "People. Technology. Ideas.\n\nOur Team takes pride in developing solutions that accelerate\nour clients' continued success. Our clients range from large\ncorporations to local, state, and federal government. To\nfulfill our obligations to our clients, we take great pride\nin hiring the right team. We offer exciting opportunities\nfor growth, education, and leadership and embrace diversity\nand inclusion.\n\nAbout Orchid Software Solutions\n\nOrchid Software Solutions is the product & engineering team\nbehind a portfolio of fertility‑tech SaaS\nplatforms—including Orchid JMS for agency journey\nmanagement, SeedTrust Escrow for transparent surrogacy and\negg‑donation funding, and GatherRecords, which automates\nmedical‑record review and background checks. Our mission is\nto deliver secure, transparent, and human‑centric software\nthat removes operational friction so families and\nprofessionals can focus on building families.\n\nWhy this role matters\n\nAI already powers some of our most loved features—but we’re\njust getting started. In this senior‑level position, you’ll\nset the technical direction for AI across all Orchid\nproducts, architect shared RAG services, and mentor\nengineers as we scale intelligent capabilities that delight\nthousands of users.\n\nKey Responsibilities\n\n- Architect & deliver next‑generation retrieval‑augmented\n  generation (RAG) services that power multiple SaaS\n  products.\n- Lead end‑to‑end design of chatbots, document summarization\n  pipelines, andLangChain workflows—owning performance,\n  observability, and security.\n- Mentor and up skill a small, high‑impact engineering team,\n  fostering best practices inAI/ML development and DevOps.\n- Collaborate deeply with product, design, and domain experts\n  to translate ambiguous ideas into shippable,\n  customer‑centric features.\n- Drive experimentation—use data to validate hypotheses and\n  iterate rapidly on model choice, prompt design, and UX.\n- Champion compliance and ethical AI usage, contributing to\n  SOC 2/HIPAA controls and internal governance guidelines\n\nMust ‑ Have Qualifications\n\n- 6+ years of professional software development, including 3+\n  years buildingAI/ML‑powered production features.\n- Deep hands‑on experience with vector databases, embeddings,\n  RAG, and orchestration frameworks (LangChain, LlamaIndex,\n  etc.).\n- Expert‑level Python and strong TypeScript skills;\n  comfortable moving across backend, infrastructure, and\n  front‑end layers.\n- Proven track record leading projects or small teams and\n  mentoring engineers.\n- Advanced cloud deployment expertise—serverless and\n  containerized workloads on AWS strongly preferred.\n- Excellent written and verbal communication, with a bias\n  toward collaboration and knowledge sharing.\n- Work Authorization: US Citizen or Permanent Resident\n\nNice ‑ to ‑ Haves\n\n- Familiarity with Amazon Bedrock, OpenAI fine‑tuning, or\n  multimodal model integrations.\n- Experience building streaming chat UIs and real‑time\n  analytics dashboards.\n- Ownership of CI/CD pipelines and infrastructure‑as‑code\n  (Terraform/CDK).\n- MLOps, data‑pipeline, or DevSecOps know‑how\n\nTech Stack\n\n- Python (Flask/FastAPI)\n- TypeScript (Next.js & React Server Components)\n- AWS (Lambda,Bedrock, SageMaker, ECS, S3)\n- Postgres & pg vector\n- LangChain\n- Terraform & GitHubActions for CI/CD.\n- We’re pragmatic—always open to the best tool for the job\n\nExperience\n\n- Typescript: 6 years (Required)\n- Python: 6 years (Required)\n- AI: 3 years (Required)\n\nJoin our team and grow with us!\n",
+  "skills_required": [
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI fine-tuning",
+    "RAG",
+    "embeddings"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and deliver next-generation RAG services that power multiple SaaS products",
+    "Lead end-to-end design of chatbots, document summarization pipelines, and LangChain workflows with ownership of performance, observability, and security",
+    "Mentor and upskill a small engineering team, fostering best practices in AI/ML development and DevOps",
+    "Collaborate with product, design, and domain experts to translate ambiguous ideas into shippable, customer-centric features",
+    "Drive experimentation using data to validate hypotheses and iterate rapidly on model choice, prompt design, and UX",
+    "Champion compliance and ethical AI usage, contributing to SOC 2/HIPAA controls and internal governance guidelines"
+  ],
+  "use_cases": [
+    "Retrieval-augmented generation (RAG) services for SaaS products",
+    "AI-powered chatbots for customer interaction",
+    "Document summarization pipelines for medical records and background checks",
+    "AI features for fertility-tech and agency journey management platforms",
+    "Transparent surrogacy and egg-donation funding automation"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Amazon Bedrock",
+    "CI/CD",
+    "DevSecOps",
+    "ECS",
+    "FastAPI",
+    "Flask",
+    "Lambda",
+    "MLOps",
+    "Next.js",
+    "Postgres",
+    "React",
+    "S3",
+    "SageMaker",
+    "Terraform",
+    "pg vector",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI fine-tuning",
+    "RAG",
+    "embeddings"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Role requires hands-on work building RAG services, LangChain\nworkflows, chatbots, and document summarization pipelines.\nThe engineer will directly architect, deploy, and iterate on\nAI/ML features including model choice and prompt design.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "RAG",
+      "OpenAI fine-tuning"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [
+      "Flask",
+      "FastAPI",
+      "Next.js",
+      "React"
+    ],
+    "databases": [
+      "vector databases",
+      "pg vector",
+      "Postgres"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Amazon Bedrock",
+      "SageMaker",
+      "Lambda",
+      "S3"
+    ],
+    "ops": [
+      "ECS",
+      "Terraform",
+      "CI/CD",
+      "MLOps",
+      "DevSecOps"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

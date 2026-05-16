@@ -1,0 +1,39 @@
+company:
+  name: ALTEN
+  stage: null
+  focus: null
+position:
+  title: Data Analyst expérimenté – BigQuery / BigTable / BI
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - bigquery
+    data:
+    - sql
+    cloud:
+    - gcp
+    ops: []
+    languages:
+    - R
+    domains:
+    - retail
+    other:
+    - data visualization
+    - Excel
+    - looker
+    - power bi
+    - tableau
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4406496132'
+  extracted_at: '2026-05-15T15:53:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

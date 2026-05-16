@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-1978",
+  "source": "intl-ai-corpus",
+  "source_ref": "8677035",
+  "source_url": "https://builtin.com/job/systems-engineer-6-months-2-years-experience-java-python-ansible-azure-aws-gcp-kubernetes-middleware-engineering-gen-ai/8677035",
+  "title": "Systems Engineer (6 months - 2 years experience - Java/Python/Ansible, Azure/AWS/GCP/Kubernetes, Middleware engineering, Gen AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Visa Inc,",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-06",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "33,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global payments technology and transaction processing",
+  "industries": [
+    "Fintech",
+    "Information Technology",
+    "Payments"
+  ],
+  "description": "Company Description\n\nVisa is a world leader in payments technology, facilitating\ntransactions between consumers, merchants, financial\ninstitutions and government entities across more than 200\ncountries and territories, dedicated to uplifting everyone,\neverywhere by being the best way to pay and be paid.\n\nAt Visa, you'll have the opportunity to create impact at\nscale — tackling meaningful challenges, growing your skills\nand seeing your contributions impact lives around the world.\nJoin Visa and do work that matters — to you, to your\ncommunity, and to the world.\n\nProgress starts with you.\n\nJob Description\n\nFor Visa to deliver on the vision of the best way to pay and\nbe paid for everyone, everywhere, the Operations &\nInfrastructure (O&I) group must provide best-in-class\ninfrastructure services that are secure, scalable,\ncontinuously available, and run on software-defined\ninfrastructures. The O&I group offers an exciting\nopportunity to work on latest technologies where the\nindustry is going through major innovations such as cloud\ncomputing. As part of O&I, the PaaS Middleware Engineering\nteam provides comprehensive design, build, and support\nservices for web and middle-tier platforms.\n\nThe selected candidate will join the PaaS Middleware\nEngineering team, working alongside other engineers to\ndesign, build, support (L3), and enhance internal and\nexternal middleware services built on various Middleware and\nIntegration platforms.\n\nWe are seeking a highly skilled and motivated Middleware\nEngineer to join our team. The ideal candidate will have\nextensive experience working with middleware technologies,\nspecifically Hazelcast, Qlik-Striim, Flink and Temporal. The\nMiddleware Engineer will be responsible for designing,\nbuilding, and supporting middleware solutions that enable\nseamless integration and high performance of our business-\ncritical applications.\n\n- Design and Development:\n  - Design and develop middleware solutions using Hazelcast,\n    Qlik, Flink, Temporal, and Striim to meet the business\n    requirements.\n  - Collaborate with application developers, architects, and\n    other stakeholders to design scalable and efficient\n    middleware architectures.\n- Implementation and Integration:\n  - Implement and integrate middleware components to ensure\n    seamless data flow and communication between different\n    systems and applications.\n  - Configure and fine-tune middleware platforms for optimal\n    performance and reliability.\n- Support and Maintenance:\n  - Provide Level 3 support for middleware platforms, addressing\n    complex issues and ensuring high availability and\n    stability of the systems.\n  - Perform regular maintenance tasks, including software\n    updates, patches, and performance tuning.\n\nThis is a hybrid position. Expectation of days in office\nwill be confirmed by your hiring manager.\n\nQualifications\n\nBasic Qualifications: 2 or more years of relevant work\nexperience with a bachelor’s degree or 1 years of work\nexperience with an Advanced degree (e.g. Masters, MBA, JD,\nMD) or PhD\n\nPreferred Qualifications: Proven experience as a Middleware\nEngineer or in a similar role. Experience with cloud\nplatforms such as AWS, Azure, or Google Cloud. Demonstrated\nexperience using GenAI tools for software development and\ncoding. Familiarity with DevOps practices and CI-CD\npipelines. Experience with containerization and\norchestration tools (e.g., Docker, Kubernetes). Proficiency\nin programming languages such as Java, Python, or Scala.\nStrong problem-solving and troubleshooting skills.\nExperience with Hazelcast-Redis, Flink-Spark, Temporal, and\nQlik-Striim. Good understanding of distributed systems, data\nintegration, and stream processing Understanding of Kerberos\nand SSL-based Security concepts & implementation and\nfamiliar with Opensource mentoring products (Prometheus,\nGrafana) with a good knowledge of OS (RHEL-Centos) Should be\nable to participate in the implementation and support (L3)\nof the Middleware technology products and work well within a\nglobally distributed team in a high-performance\norganization. Passion about cutting edge Opensource\ntechnology and staying current with industry trends\n\nAdditional Information\n\nVisa is an EEO Employer. Qualified applicants will receive\nconsideration for employment without regard to race, color,\nreligion, sex, national origin, sexual orientation, gender\nidentity, disability or protected veteran status. Visa will\nalso consider for employment qualified applicants with\ncriminal histories in a manner consistent with EEOC\nguidelines and applicable local law.\n",
+  "skills_required": [
+    "GenAI tools",
+    "Temporal"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop middleware solutions using Hazelcast, Qlik, Flink, Temporal, and Striim to meet business requirements",
+    "Collaborate with application developers, architects, and stakeholders to design scalable middleware architectures",
+    "Implement and integrate middleware components for seamless data flow between systems and applications",
+    "Configure and fine-tune middleware platforms for optimal performance and reliability",
+    "Provide Level 3 support for middleware platforms ensuring high availability and stability",
+    "Perform regular maintenance including software updates, patches, and performance tuning"
+  ],
+  "use_cases": [
+    "Middleware infrastructure for payment processing systems",
+    "Real-time data streaming and integration between business applications",
+    "High-performance distributed caching and data processing",
+    "Enterprise application integration and communication",
+    "Scalable platform services for financial transactions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ansible",
+    "Apache Flink",
+    "Apache Spark",
+    "Azure",
+    "CI/CD",
+    "Docker",
+    "Google Cloud",
+    "Grafana",
+    "Hazelcast",
+    "Kubernetes",
+    "Prometheus",
+    "Qlik-Striim",
+    "RHEL-CentOS",
+    "Redis"
+  ],
+  "frameworks_mentioned": [
+    "GenAI tools"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an infrastructure/platform engineering role focused\non middleware technologies (Hazelcast, Flink, Temporal) that\nSUPPORT AI work, not building AI systems directly. While\nGenAI tools are mentioned as preferred for development work,\nthe core responsibility is building and maintaining\nmiddleware infrastructure, not creating AI/ML models or\nagents.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "GenAI tools"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Redis"
+    ],
+    "data": [
+      "Hazelcast",
+      "Apache Flink",
+      "Apache Spark",
+      "Qlik-Striim"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "Google Cloud"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Ansible",
+      "CI/CD",
+      "Prometheus",
+      "Grafana",
+      "RHEL-CentOS"
+    ],
+    "languages": [
+      "Java",
+      "Python",
+      "Scala"
+    ],
+    "domains": [],
+    "other": [
+      "Temporal"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

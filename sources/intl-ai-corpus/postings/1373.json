@@ -1,0 +1,99 @@
+{
+  "job_id": "intl-ai-corpus-1373",
+  "source": "intl-ai-corpus",
+  "source_ref": "8423589",
+  "source_url": "https://builtin.com/job/principal-software-engineer-java-software-engineering/8423589",
+  "title": "Principal Engineer (Java/Agentic AI), Software Engineering",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Saviynt",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-06",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": null,
+  "company_focus": "Cloud Security and Identity Governance",
+  "industries": [],
+  "description": "Saviynt is a leading provider of Cloud Security and Identity\nGovernance solutions. Saviynt enables enterprises to secure\napplications, data, and infrastructure in a single platform\nfor Cloud (Office 365, AWS, Azure, Salesforce, Workday) and\nEnterprise (SAP, Oracle EBS). Saviynt is pioneering Identity\nGovernance Administration by integrating advanced risk\nanalytics and intelligence with fine-grained privilege\nmanagement.\n\nWHAT YOU WILL DOING\n\n- Platform Architecture: Design, develop, and enhance shared\n  Java-based frameworks that serve as the foundation for all\n  product development teams.\n- System Reliability: Improve platform stability, scalability,\n  and fault tolerance across distributed systems.\n- Innovation Leadership: Contribute to AI/agent-enablement\n  hooks at the foundation layer to support next-generation\n  capabilities.\n- AI/Agent Integration: Guide AI/agent framework integration\n  and extensibility at the platform foundation layer\n- Technical Mentorship: Guide and mentor engineering teams\n  while establishing and enforcing engineering best\n  practices.\n- Operational Excellence: Proactively identify and resolve\n  potential system issues to minimize operational incidents.\n- Cross-team Collaboration: Work closely with product scrum\n  teams to ensure framework adoption and effectiveness.\n\nWHAT YOU BRING\n\n- Experience: 10+ years of professional Java development and\n  platform engineering experience\n- Distributed Systems: Deep expertise in designing and\n  implementing large-scale distributed systems\n- Security Expertise: Strong background in enterprise security\n  patterns, authentication, and authorization frameworks\n- Framework Design: Proven experience designing and building\n  frameworks used by multiple development teams\n- Technical Leadership: Demonstrated ability to lead technical\n  initiatives and influence engineering decisions\n- Communication: Strong stakeholder communication skills with\n  ability to translate technical concepts to business\n  stakeholders\n",
+  "skills_required": [
+    "AI/agent framework integration",
+    "framework design",
+    "technical leadership"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and enhance shared Java-based frameworks for product development teams",
+    "Improve platform stability, scalability, and fault tolerance across distributed systems",
+    "Contribute to AI/agent-enablement hooks at the foundation layer for next-generation capabilities",
+    "Guide AI/agent framework integration and extensibility at the platform foundation layer",
+    "Mentor engineering teams and establish engineering best practices",
+    "Identify and resolve potential system issues to minimize operational incidents",
+    "Collaborate with product scrum teams to ensure framework adoption and effectiveness"
+  ],
+  "use_cases": [
+    "Identity Governance Administration for cloud and enterprise systems",
+    "Cloud security for platforms including Office 365, AWS, Azure, Salesforce, Workday, SAP, and Oracle",
+    "Risk analytics and intelligence integration with privilege management",
+    "Fine-grained privilege management for enterprise applications"
+  ],
+  "tools_mentioned": [
+    "authentication and authorization",
+    "distributed systems",
+    "enterprise security patterns"
+  ],
+  "frameworks_mentioned": [
+    "AI/agent framework integration"
+  ],
+  "languages_programming": [
+    "Java"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is a Principal Engineer focused on building Java-\nbased frameworks and platform infrastructure. While it\nmentions AI/agent-enablement hooks and integration at the\nfoundation layer, the work is enabling other teams to build\nAI capabilities rather than directly building, training, or\ndeploying models/agents. This is platform engineering that\nsupports AI work (ai-support).",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI/agent framework integration"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "enterprise security patterns",
+      "authentication and authorization"
+    ],
+    "ops": [
+      "distributed systems"
+    ],
+    "languages": [
+      "Java"
+    ],
+    "domains": [],
+    "other": [
+      "framework design",
+      "technical leadership"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

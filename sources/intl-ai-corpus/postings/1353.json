@@ -1,0 +1,105 @@
+{
+  "job_id": "intl-ai-corpus-1353",
+  "source": "intl-ai-corpus",
+  "source_ref": "8412318",
+  "source_url": "https://builtin.com/job/ai-research-engineer/8412318",
+  "title": "AI Research Engineer",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "PostHog",
+  "company_type": "entité morale privée",
+  "location": "GBR",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-05",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "60 Employees",
+  "company_stage": "Series B+ (raised $100M+, default alive, $150M in balance)",
+  "company_focus": "Product analytics and business operating system platform\nwith AI-powered analyst",
+  "industries": [
+    "Software",
+    "Analytics"
+  ],
+  "description": "About PostHog\n\nWe're shipping every product that companies need to run\ntheir business from their first day, to the day they IPO,\nand beyond. The operating system for folks who build\nsoftware.\n\nWe started with open-source product analytics, launched out\nof Y Combinator's W20 cohort. We've since shipped more than\na dozen products, including:\n\n- A built-in data warehouse, so users can query product and\n  customer data together using custom SQL insights.\n- A customer data platform, so they can send their data\n  wherever they need with ease.\n- PostHog AI, an AI-powered analyst that answers product\n  questions, helps users find useful session recordings, and\n  writes custom SQL queries.\n\nNext on the roadmap are CRM, Workflow, revenue analytics,\nand support products. When we say every product that\ncompanies need to run their business, we really mean it!\n\nWe are:\n\n- Product-led. More than 100,000 companies have installed\n  PostHog, mostly driven by word-of-mouth. We have intensely\n  strong product-market fit.\n- Default alive. Revenue is growing 10% MoM on average, and\n  we're very efficient. We raise money to push ambition and\n  grow faster, not to keep the lights on.\n- Well-funded. We've raised more than $100m from some of the\n  world's top investors. We're set up for a long, ambitious\n  journey.\n\nWe're focused on building an awesome product for end users,\nhiring exceptional teammates, shipping fast, and being as\nweird as possible.\n\nThings we care about\n\n- Transparency: Everyone can read about our roadmap, how we\n  pay (or even let go of) people, our strategy, and how we\n  work, in our public company handbook. Internally, we share\n  revenue, notes and slides from board meetings, and\n  fundraising plans, so everyone has the context they need\n  to make good decisions.\n- Autonomy: We don’t tell anyone what to do. Everyone chooses\n  what to work on next based on what's going to have the\n  biggest impact on our customers, and what they find\n  interesting and motivating to work on. Engineers lead\n  product teams and make product decisions. Teams are\n  flexible and easy to change when needed.\n- Shipping fast: Why not now? We want to build a lot of\n  products; we can't do that shipping at a normal pace.\n  We've built the company around small teams – autonomous,\n  highly-efficient groups of cracked engineers who can\n  outship much larger companies because they own their\n  products end-to-end.\n- Time for building: Nothing gets shipped in a meeting. We're\n  a natively remote company. We default to async\n  communication – PRs > Issues > Slack. Tuesdays and\n  Thursdays are meeting-free days, and we prioritize heads\n  down building time over perfect coordination. This will be\n  the most productive job you've ever had.\n- Ambition: We want to solve big problems. We strongly believe\n  that aiming for the best possible upside, and sometimes\n  missing, is better than never trying. We're optimistic\n  about what's possible and our ability to get there.\n- Being weird: Weird means redesigning an already world-class\n  website for the 5th time. It means shipping literally\n  every product that relates to customer data. It means\n  building an objectively unnecessary developer toy with\n  dubious shareholder value. Doing weird stuff is a\n  competitive advantage. And it's fun.\n\nWhat you'll be doing\n\nIt’s easy to look at how quickly coding is getting better\nand to think we’re already in an amazing place. But, we\nthink there’s far further to go, and we think we are\nuniquely able to help the world take the next step.\n\nPostHog is working on product (and then, later, business)\nautonomy.\n\nWhen you open an editor, you shouldn’t be typing “please\nbuild me X”, X should already be built for you.\n\nWe can do this because PostHog tracks more products across\nmore dimensions than any other company on earth. We have\nover a trillion data points across events, errors, session\nreplays, revenue data and more. We want to use this data to\nfix bugs, issues, listen to what customers are asking for,\nor internal conversations, and ship those things so\nengineering takes the next step forward - figuring out what\nyou want to keep or edit, not waiting for claude to run all\nday.\n\nWe have an exceptionally large amount of data relative to\nour company size. This means you can have autonomy, you can\nbe close to customers, work on scrappy teams, and greatly\ninfluence what we actually ship.\n\nOn the finance side, we have around $150M in balance, we’re\nsuper strongly default alive and have had a rapidly growing,\nreal business that makes good margin, runs exceptionally\nefficiently, and has already been scaling rapidly, for 6\nyears. This won’t be easy. Product autonomy is also the most\nchaotic part of our business - technologies and our own\nideas are changing rapidly. You will need to want to work on\nsomething that is uncertain, and may fail. People who are\nproactive, think for themselves, work fast, get product into\nusers’ hands and learn are those that are successful here.\nIt will be fast and intense. The job will involve training,\nfine tuning and running models to deepen our ability to\nachieve product autonomy. Crucially you will need to be able\nto help us figure out which areas to prioritize as there are\nso many possibilities for game changing things to ship. We\nare building a new team specifically for this purpose,\nworking closely with one of the founders. You will need\neither a strong background in maths (and able to code) or to\nhave worked on training models previously.\n\nIf you have a disability, please let us know if there's any\nway we can make the interview process better for you - we're\nhappy to accommodate!\n\n#LI-DNI\n",
+  "skills_required": [
+    "LLMs",
+    "PyTorch",
+    "fine-tuning",
+    "machine learning",
+    "mathematics",
+    "model training"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Train, fine-tune, and run models to achieve product autonomy",
+    "Use PostHog's vast data (trillion+ data points) to build systems that fix bugs, address issues, and ship features automatically",
+    "Work on product autonomy that anticipates what users want to build before they explicitly ask for it",
+    "Prioritize and identify high-impact areas for AI-driven product autonomy features",
+    "Work on a new team focused on product autonomy, collaborating closely with one of the founders",
+    "Iterate quickly in a rapidly changing, uncertain environment where technologies and approaches evolve fast"
+  ],
+  "use_cases": [
+    "Product autonomy - automatically building or suggesting features based on user intent and patterns",
+    "Automated bug detection and fixing using product telemetry data",
+    "AI-powered analyst that answers product questions and writes custom SQL queries",
+    "Session replay analysis to surface useful recordings to users",
+    "Customer request prioritization by analyzing internal conversations and feedback",
+    "Code generation and autonomous engineering assistance to reduce manual coding"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "LLMs",
+    "PyTorch",
+    "fine-tuning",
+    "machine learning",
+    "model training"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role explicitly involves training, fine-tuning, and\nrunning models to achieve product autonomy - building AI\nsystems that can autonomously fix bugs and ship features\nbased on customer data. This is hands-on work directly ON\nAI/ML models and systems, not just supporting AI\ninfrastructure or platforms.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs"
+    ],
+    "ml": [
+      "PyTorch",
+      "model training",
+      "fine-tuning",
+      "machine learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "mathematics"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

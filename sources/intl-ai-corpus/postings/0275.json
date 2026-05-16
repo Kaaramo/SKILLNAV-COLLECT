@@ -1,0 +1,144 @@
+{
+  "job_id": "intl-ai-corpus-0275",
+  "source": "intl-ai-corpus",
+  "source_ref": "7613012",
+  "source_url": "https://builtin.com/job/senior-ml-engineer-ai-research/7613012",
+  "title": "Senior ML Engineer (AI Research)",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Nebius",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "473 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI cloud infrastructure and applied AI research",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Why work at Nebius Nebius is leading a new era in cloud\ncomputing to serve the global AI economy. We create the\ntools and resources our customers need to solve real-world\nchallenges and transform industries, without massive\ninfrastructure costs or the need to build large in-house\nAI/ML teams. Our employees work at the cutting edge of AI\ncloud infrastructure alongside some of the most experienced\nand innovative leaders and engineers in the field.\n\nWhere we work Headquartered in Amsterdam and listed on\nNasdaq, Nebius has a global footprint with R&D hubs across\nEurope, North America, and Israel. The team of over 800\nemployees includes more than 400 highly skilled engineers\nwith deep expertise across hardware and software\nengineering, as well as an in-house AI R&D team.\n\nThe role\n\nThis role is for Nebius AI R&D, a team focused on applied\nresearch in AI. Examples of applied research that we have\nrecently published include:\n\n- applying reinforcement learning for agent training in long-\n  context multi-turn scenarios\n- dramatically scaling task data collection to power\n  reinforcement learning for SWE agents\n- building a decontaminated evaluation for SWE agents that is\n  regularly updated\n- investigating how test-time guided search can be used to\n  build more powerful agents\n\nThe results often lead to collaboration with adjacent teams\nwhere our research findings are applied in practice.\n\nWe are currently looking for senior- and staff-level ML\nengineers to work on research in areas such as:\n\n- Guided search and reinforcement learning for agentic systems\n- Reinforcement learning for reasoning models\n- Web-scale problem collection for training agents\n- Efficient model distillation\n\nSome examples of what your responsibilities might include\nare:\n\n- Conducting experiments to figure out efficient ways to train\n  a large language model on traces of interactions with\n  various environments\n- Exploring methods of guided generation and search in the\n  trajectory space\n- Coming up with ways to mine relevant data at web scale and\n  figuring out efficient ways to use this data in model\n  post-training\n- Conducting experiments with different reinforcement learning\n  configurations in verifiable domains\n- Exploring methods to train AI agents on tasks with non-\n  verifiable reward signals\n\nWe expect you to have:\n\n- A profound understanding of theoretical foundations of\n  machine learning and reinforcement learning\n- Deep expertise in modern deep learning for language\n  processing and generation\n- Substantial experience with training large models on\n  multiple computational nodes\n- Strong software engineering skills (we mostly use python)\n- Deep experience with modern deep learning frameworks (we use\n  jax)\n- Strong communication and leadership abilities\n- Experience designing, executing, and analyzing machine\n  learning experiments with proper statistical rigor\n- Ability to formulate research questions, design experiments\n  to test hypotheses, and draw meaningful conclusions from\n  results\n- Ability to document research findings clearly and contribute\n  to technical publications or report\n\nNice to have:\n\n- Experience with deep reinforcement learning for LLMs,\n  including techniques such as reward modeling, DPO, PPO etc\n- Familiarity with important ideas in LLM space, such as RoPE,\n  ZeRO/FSDP, Flash Attention, quantization\n- Bachelor’s degree in Computer Science, Artificial\n  Intelligence, Data Science, or a related field Master’s or\n  PhD preferred\n- Track record of building and delivering products (not\n  necessarily ML-related) in a dynamic startup-like\n  environment\n- Experience in engineering complex systems, such as large\n  distributed data processing systems or high-load web\n  services\n- Open-source projects that showcase your engineering prowess\n- Excellent command of the English language, alongside\n  superior writing, articulation, and communication skills\n- Proficiency in contemporary software engineering approaches,\n  including CI/CD, version control and unit testing\n\nWhat we offer\n\n- Competitive salary and comprehensive benefits package.\n- Opportunities for professional growth within Nebius.\n- Flexible working arrangements.\n- A dynamic and collaborative work environment that values\n  initiative and innovation.\n\nWe’re growing and expanding our products every day. If\nyou’re up to the challenge and are excited about AI and ML\nas much as we are, join us!\n",
+  "skills_required": [
+    "AI agents",
+    "DPO (Direct Preference Optimization)",
+    "Flash Attention",
+    "JAX",
+    "PPO (Proximal Policy Optimization)",
+    "RoPE (Rotary Position Embedding)",
+    "ZeRO/FSDP",
+    "deep learning",
+    "distributed training",
+    "large language model training",
+    "model distillation",
+    "quantization",
+    "reinforcement learning",
+    "reward modeling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Conducting experiments to figure out efficient ways to train a large language model on traces of interactions with various environments",
+    "Exploring methods of guided generation and search in the trajectory space",
+    "Coming up with ways to mine relevant data at web scale and figuring out efficient ways to use this data in model post-training",
+    "Conducting experiments with different reinforcement learning configurations in verifiable domains",
+    "Exploring methods to train AI agents on tasks with non-verifiable reward signals",
+    "Collaborating with adjacent teams to apply research findings in practice",
+    "Documenting research findings clearly and contributing to technical publications or reports"
+  ],
+  "use_cases": [
+    "Applying reinforcement learning for agent training in long-context multi-turn scenarios",
+    "Dramatically scaling task data collection to power reinforcement learning for SWE agents",
+    "Building decontaminated evaluation systems for SWE agents that are regularly updated",
+    "Using test-time guided search to build more powerful AI agents",
+    "Training agents and reasoning models using guided search and reinforcement learning techniques",
+    "Efficient model distillation for improving model performance"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "statistical analysis",
+    "unit testing",
+    "version control"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "DPO (Direct Preference Optimization)",
+    "Flash Attention",
+    "JAX",
+    "PPO (Proximal Policy Optimization)",
+    "RoPE (Rotary Position Embedding)",
+    "ZeRO/FSDP",
+    "deep learning",
+    "distributed training",
+    "large language model training",
+    "model distillation",
+    "quantization",
+    "reinforcement learning",
+    "reward modeling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "ML_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an applied AI research role focused on training,\nfine-tuning, and optimizing large language models and\nagentic systems. The responsibilities include reinforcement\nlearning for agents, guided search in trajectory space,\nmodel distillation, and web-scale data mining for model\npost-training - all hands-on work directly with AI models\nand training systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI agents"
+    ],
+    "ml": [
+      "JAX",
+      "reinforcement learning",
+      "large language model training",
+      "deep learning",
+      "reward modeling",
+      "DPO (Direct Preference Optimization)",
+      "PPO (Proximal Policy Optimization)",
+      "RoPE (Rotary Position Embedding)",
+      "ZeRO/FSDP",
+      "Flash Attention",
+      "quantization",
+      "model distillation",
+      "distributed training"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "statistical analysis"
+    ],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "version control",
+      "unit testing"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

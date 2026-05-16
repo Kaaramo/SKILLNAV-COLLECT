@@ -1,0 +1,31 @@
+company:
+  name: BROME Consulting & Technology
+  stage: null
+  focus: null
+position:
+  title: Data Scientist Confirmé
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 4043d14d7faeffe9
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

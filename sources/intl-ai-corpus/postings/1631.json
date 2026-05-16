@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-1631",
+  "source": "intl-ai-corpus",
+  "source_ref": "8550322",
+  "source_url": "https://builtin.com/job/software-engineer-applied-ai-all-levels/8550322",
+  "title": "Software Engineer, Applied AI (all levels)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Savvy Wealth",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "200 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-powered wealth management platform for financial advisors",
+  "industries": [
+    "Fintech",
+    "Financial Services"
+  ],
+  "description": "About Savvy Wealth:\n\nWealth management is a $545 billion industry in the US, yet\nremains archaic and inefficient with low technology\npenetration. 75% of financial advisors don’t offer digital\ncommunication beyond email, and 62% still build financial\nplans manually in Excel. This leads to a poor client\nexperience and results in financial advisors spending over\n70% of their time on non-client facing, manual work.\n\nSavvy is changing that. We’re building the most advisor-\ncentric platform in wealth management: a digital-first\nsolution that modernizes human financial advice. Advisors\nwho partner with Savvy tap into AI-powered software,\nautomated sales and marketing, and seamless back office\nworkflows to scale faster and spend more time with clients.\n\nWe’ve raised over $105M to date from Thrive Capital, Index\nVentures, Canvas Ventures, Mark Casady (former LPL Financial\nCEO), and other top-tier investors. Our team is made up of\nrepeat founders and operators who’ve helped build Airbnb,\nSquare, Brex, Carta, Facebook, $200B+ RIAs, and more.\n\nSavvy is at a pivotal point in its growth trajectory, having\nestablished strong product-market fit in providing a modern\nplatform to financial advisors. We’ve surpassed $2.2 billion\nin AUM in less than three years, grown 600%+ in the last 18\nmonths, and are entering the next phase of the company which\ninvolves rapid expansion of our product offering and\ncontinued revenue growth. Come help us scale!\n\nResponsibilities\n\n- Build AI-powered product features for advisors and Savvy\n  operations teams (e.g., copilots, skilled agents,\n  automations, summarization, routing, extraction,\n  recommendations), with a bias toward shipping quickly\n- Rapidly prototype and deliver using modern AI tooling (e.g.,\n  Claude Code, OpenAI Codex, Cursor, Devin, etc.) while\n  maintaining high engineering standards - from using\n  individual tools to get work done all the way up to\n  leveraging a complex orchestration layer to string\n  together a dozen tools to get things done even faster\n- Own the end-to-end product development lifecycle - identify\n  opportunities, design solutions, ship to production, and\n  iterate\n- Produce production-grade, readable, maintainable code with\n  good testing discipline\n- Partner tightly with Product, Design, Data, and business\n  stakeholders to define scope, de-risk execution, and\n  deliver high-impact outcomes\n- Work directly with our customers (financial advisors) to\n  learn their workflows and needs directly from the source\n- Run fast!\n\nLevel-specific expectationsMid-level\n\n- Implement AI workflows using established patterns\n  (prompting, tool/function calling, retrieval, evals) and\n  improve over time\n- Ship well-scoped features independently; break ambiguous\n  problems into concrete tasks\n- Contribute to code quality via reviews, tests, and\n  documentation across your team\n\nSenior\n\n- Build Savvy AI systems (RAG, classification/extraction\n  pipelines, agentic workflows)\n- Establish team patterns for rapid AI development\n  (prompt/versioning strats, eval harnesses (ours and/or\n  with vendors), rollouts, observability, testing)\n- Lead projects (medium to large) end-to-end\n- Mentor others on best practices as they emerge\n\nStaff\n\n- Set technical direction for applied AI across multiple\n  product areas\n- Drive roadmap shaping with\n  Engineering/Product/Design/Leadership (including CxO\n  leadership)\n- Define platform primitives for AI development (shared\n  tooling, libraries, evaluation frameworks, guardrails,\n  cost/perf opts)\n- Raise the bar org-wide, even beyond the reach of engineering\n\nMust have:\n\n- You’re in AI tools day and night, tinkering on work projects\n  as well as personal\n- You've built scaling web applications with obvious business\n  impact\n- System design expertise as it applies to emerging AI\n  software development trends, for example, system designs\n  that maximize the use of context windows with strong\n  separation between components\n- Full-stack proficiency (or evidence you can cover your gaps\n  via AI tools)\n  - We use Rails; React; Next, Postgres, GraphQL\n- Proven collaboration abilities in cross-functional startup\n  environments with mentoring experience and strong\n  technical communication skills\n\nNice to have:\n\n- Fintech domain knowledge including financial services,\n  wealth management, regulatory compliance, or financial\n  data integrations\n- Modern development ecosystem experience with macOS\n  toolchains, CI/CD pipelines, IaaS providers, and\n  observability platforms (eg, Datadog)\n\nBenefits:\n\n- Competitive salary and equity package\n- Unlimited PTO + paid company holidays\n- Access to holistic medical, dental, and vision plans\n- Company 401(k), Commuter, and HSA/FSA plans\n- NYC office in the heart of Manhattan\n- Lunch and snacks provided in the office\n- Access to virtual mental health care (Spring Health), vision\n  related benefits (XP Health), and health concierge\n  (Rightway) to help you find the right care\n- Access to counseling for stress management, dependent care,\n  nutrition, fitness, legal, and financial issues (Guardian\n  WorkLifeMatters EAP)\n",
+  "skills_required": [
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build AI-powered product features for advisors and operations teams including copilots, skilled agents, automations, summarization, routing, extraction, and recommendations",
+    "Rapidly prototype and deliver using modern AI tooling with complex orchestration layers to string together multiple tools",
+    "Own the end-to-end product development lifecycle from opportunity identification through production shipping and iteration",
+    "Build AI systems including RAG, classification/extraction pipelines, and agentic workflows",
+    "Establish team patterns for rapid AI development including prompt/versioning strategies, evaluation harnesses, rollouts, observability, and testing",
+    "Partner with Product, Design, Data, and business stakeholders to define scope, de-risk execution, and deliver high-impact outcomes",
+    "Work directly with financial advisors to learn their workflows and needs"
+  ],
+  "use_cases": [
+    "AI copilots for financial advisors to automate manual workflows",
+    "Document summarization and extraction for financial plans and client communications",
+    "Intelligent routing systems to direct client inquiries and tasks",
+    "RAG-based systems for retrieving relevant financial information and advice",
+    "Agentic workflows that automate multi-step financial advisor tasks",
+    "Sales and marketing automation powered by AI to help advisors scale"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Datadog",
+    "GraphQL",
+    "Next.js",
+    "Postgres",
+    "Rails",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an Applied AI role building AI-powered product\nfeatures including copilots, skilled agents, RAG systems,\nclassification/extraction pipelines, and agentic workflows.\nThe engineer directly implements AI systems using prompting,\ntool/function calling, retrieval, and orchestrates complex\nlayers of AI tools - not just supporting infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI/Anthropic APIs",
+      "prompt engineering",
+      "RAG",
+      "agents",
+      "function calling"
+    ],
+    "ml": [],
+    "web": [
+      "Rails",
+      "React",
+      "Next.js",
+      "GraphQL"
+    ],
+    "databases": [
+      "Postgres"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Datadog",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

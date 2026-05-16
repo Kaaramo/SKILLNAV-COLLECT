@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-2494",
+  "source": "intl-ai-corpus",
+  "source_ref": "7390727",
+  "source_url": "https://builtin.com/job/software-engineer-forward-deployed/7390727",
+  "title": "Software Engineer, Forward Deployed AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ramp",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-04-09",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "450 Employees",
+  "company_stage": "Series D+",
+  "company_focus": "Automating corporate spend management and financial\ninfrastructure",
+  "industries": [
+    "Fintech",
+    "Financial Services"
+  ],
+  "description": "About Ramp\n\nRamp is building the smart infrastructure for finance teams,\nembedded in the transaction flow of every dollar a business\nspends. We automate how over $100B in annualized spend flows\nin and out of 50,000+ companies: authorizing payments,\nflagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and high urgency. We look\nfor slope over intercept. We care less about where you\ntrained and more about what you’ve built. At Ramp, everyone\nis a builder who owns problems end to end and makes\nconsequential decisions that shape the outcome.\n\nThe median Ramp customer saves 5% and grows revenue 16% in\ntheir first year – far in excess of businesses operating\nwithout Ramp. We believe every ambitious company deserves\nthe same.\n\nIf you want to build systems that directly shape how\ncompanies move and manage billions, Ramp is the place to do\nit.\n\nAbout the Role\n\nBeing a part of Forward Deployed Engineering (FDE), you will\ndesign and build solutions to support our largest customers\nand scale our enterprise motion. FDE is a high-pace,\ncustomer-facing, business-focused engineering team, and we\npave the way for Ramp to support the largest and most\ncomplex organizations in the world.\n\nOn FDE, you will interact directly with customers and\ndeliver solutions end to end — from understanding pain\npoints and shaping product decisions to designing and\nimplementing scalable systems. We are a full stack team and\ncollaborate closely with sales and core product engineering.\n\nCheck out our Engineering Blog for more on our tech stack,\nmission and values!\n\nWhat You’ll Do\n\n- Deliver solutions end to end that meet the needs of our\n  largest, strategic customers — understanding user pain\n  points, scoping product specs, and designing and building\n  software.\n- Collaborate closely with our sales and go-to-market teams to\n  close exciting deals, activate customers, and expand the\n  value Ramp provides over time. We work with and support\n  huge, world-class companies at the scale of $100B+ in\n  valuation.\n- Drive our core product engineering roadmap and make\n  important prioritization and scoping decisions that\n  determine when we build custom solutions vs. accelerate\n  larger existing projects. Our team uses an embedding model\n  where FDEs embed within core product engineering teams to\n  develop expertise in the most relevant technical areas.\n- Solve technical challenges to support new levels of scale,\n  and help us develop and execute our strategy to grow our\n  enterprise platform. For example, extending our data model\n  for roles and permissions, seamlessly integrating with 3rd\n  party systems with generalized data exports, and ingesting\n  HRIS data at scale.\n\nWhat You Need\n\n- A minimum of 2 years of software engineering experience\n  preferred\n- Track record of shipping high-quality products and features\n  at scale\n- Ability to turn business and product ideas into engineering\n  solutions\n- Desire to work in a fast-paced environment, continuously\n  grow, and master your craft\n- Demonstrated hands-on, daily use of AI coding agents as the\n  primary development driver.\n- Comfort with agentic workflows, orchestration layers, and AI\n  tooling broadly\n\nBenefits (for U.S.-based full-time employees)\n\n- 100% medical, dental & vision insurance coverage for you\n  - Partially covered for your dependents\n  - One Medical annual membership\n- 401k (including employer match on contributions made while\n  employed by Ramp)\n- Flexible PTO\n- Fertility HRA (up to $10,000 per year)\n- Parental Leave\n- Unlimited AI token usage\n- Pet insurance\n- Centralized home-office equipment ordering for all employees\n- Health and Wellness stipend\n- In-office perks: lunch, snacks, drinks, and more\n- Budget for intra-office travel\n- Relocation support to NYC or SF (as needed)\n\nReferral Instructions\n\nIf you are being referred for the role, please contact that\nperson to apply on your behalf.\n\nOther notices\n\nPursuant to the San Francisco Fair Chance Ordinance, we will\nconsider for employment qualified applicants with arrest and\nconviction records.\n\nBeware of recruiting scams: Ramp will only contact you\nthrough official @Ramp.com email addresses and will never\nask for payment or sensitive personal information during the\nhiring process.\n\nRamp Applicant Privacy Notice\n",
+  "skills_required": [
+    "AI coding agents",
+    "AI orchestration layers",
+    "Agentic workflows",
+    "Data model design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build end-to-end solutions for Ramp's largest strategic customers, from understanding pain points to shipping software",
+    "Collaborate with sales and go-to-market teams to close deals, activate customers, and expand Ramp's value proposition",
+    "Drive core product engineering roadmap by making prioritization and scoping decisions between custom solutions and broader product features",
+    "Embed within core product engineering teams to develop deep expertise in relevant technical areas",
+    "Solve technical scaling challenges including extending data models, integrating with third-party systems, and ingesting HRIS data at scale",
+    "Use AI coding agents and agentic workflows as the primary development approach for building and delivering solutions"
+  ],
+  "use_cases": [
+    "Enterprise spend management and financial automation for large organizations",
+    "Third-party system integration with generalized data exports at scale",
+    "Roles and permissions data model extension for complex enterprise hierarchies",
+    "HRIS data ingestion at scale for enterprise customer onboarding",
+    "Risk flagging and payment authorization for high-volume corporate transactions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Docker",
+    "FastAPI",
+    "Kubernetes",
+    "Postgres",
+    "REST APIs",
+    "React",
+    "Redis"
+  ],
+  "frameworks_mentioned": [
+    "AI coding agents",
+    "AI orchestration layers",
+    "Agentic workflows"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role title explicitly includes \"Forward Deployed AI\" and\nrequires demonstrated hands-on daily use of AI coding agents\nas the primary development driver, plus comfort with agentic\nworkflows, orchestration layers, and AI tooling broadly. The\nengineer builds AI-driven solutions end-to-end for Ramp's\nlargest enterprise customers, making this an ai-first role\nfocused on deploying AI-powered systems.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI coding agents",
+      "Agentic workflows",
+      "AI orchestration layers"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "FastAPI",
+      "React"
+    ],
+    "databases": [
+      "Postgres",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Data model design"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,114 @@
+{
+  "job_id": "intl-ai-corpus-0867",
+  "source": "intl-ai-corpus",
+  "source_ref": "7484248",
+  "source_url": "https://builtin.com/job/research-engineer/7484248",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Sapien (sapien.ai)",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "9 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered autonomous finance operations platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "Who we are\n\nSapien is rethinking how finance teams operate in the age of\nAI. We’re building toward an autonomous CFO—systems that run\ncompany financials end-to-end. Our platform analyzes complex\nfinancial data in real time to increase decision cadence,\nprevent costly mistakes, and surface value. Sapien has\ncaught multi-million-dollar errors, saved thousands of jobs,\nand returned significant dollars to customers’ bottom lines.\n\nWe partner with traditional businesses—manufacturing,\nhealthcare, restaurants, and large enterprises—to deeply\nunderstand and automate their financial workflows. We’re\nHQ’d by Madison Square Park in NYC and backed by General\nCatalyst, Neo, and top operators from Google, OpenAI,\nMicrosoft, Ramp, and Stripe (over $9M raised).\n\nThe role\n\nYou'll build the AI agent capabilities that power Sapien's\nautonomous finance operations. This means designing novel\narchitectures for reasoning over complex financial data,\nimplementing verifiable and observable agent workflows, and\nbuilding systems that learn and adapt to each company's\nunique operations.\n\nThis is a research-meets-product role. You'll work on\ncutting-edge agent capabilities—from observability and\nlibrary learning to semantic search and multi-modal\nparsing—and ship them directly into production for\ncustomers.\n\nWhat you'll do\n\n- Design and implement agent architectures that enable\n  observability, human-in-the-loop verification, and precise\n  context control across complex financial workflows.\n- Build library learning systems that reduce LLM dependencies\n  by learning reusable patterns for planning, code\n  generation, and data localization from customer\n  interactions.\n- Create graph-based company representations and develop\n  efficient search methods using embeddings, semantic\n  clustering, and custom retrieval strategies.\n- Build multi-modal parsers that unify diverse financial data\n  sources (Excel, ERPs, CRMs) into coherent, queryable\n  schemas that agents can reason over.\n- Implement RL and fine-tuning pipelines based on user\n  feedback, pairwise preferences, and implicit interaction\n  signals to improve agent performance over time.\n- Design benchmarking and evaluation suites that quantify\n  Sapien's accuracy, reliability, and business impact across\n  different customer workflows.\n\nWhat we're looking for\n\n- Quality experience building production AI/ML\n  systems—deploying models at scale, ideally in complex,\n  data-intensive domains.\n- Strong algorithmic thinking. Demonstrated through ML\n  research, competitive programming, mathematics, or\n  building novel systems from scratch.\n- Deep experience with modern agent frameworks, LLMs, and AI\n  systems: fine-tuning, retrieval augmentation, tool use, or\n  agentic architectures.\n- Comfort working end-to-end: from implementing research ideas\n  and prototyping architectures to deploying production\n  systems and iterating on real customer feedback.\n- Ability to move between abstraction levels—designing high-\n  level agent workflows while debugging low-level\n  implementation details.\n- CS, Math, or Engineering degree or equivalent experience. We\n  care most about what you've built.\n\nHow you work (values we care about)\n\n- Adaptability: You thrive on diverse, open-ended problems.\n  One day you're implementing a new agent architecture, the\n  next you're debugging a customer data issue—and you bring\n  the same intensity to both.\n- Ownership: You take problems from research paper to\n  production. You don't wait for direction—you identify what\n  needs to happen and drive it to completion.\n- Opinionated: You have strong technical perspectives on what\n  works and what doesn't. You push back on approaches you\n  disagree with and make the team's thinking sharper.\n- Mission-driven: You're energized by building AI that\n  transforms how businesses run. You connect technical\n  decisions to real customer outcomes and care deeply about\n  the impact.\n- Collaborative excellence: You share knowledge, give\n  thoughtful feedback, and invest in making the team better.\n  You bring new ideas from papers and discussions to elevate\n  everyone's thinking.\n",
+  "skills_required": [
+    "LLMs",
+    "agent frameworks",
+    "agentic architectures",
+    "embeddings",
+    "fine-tuning",
+    "reinforcement learning",
+    "retrieval augmentation",
+    "semantic clustering",
+    "tool use"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement agent architectures with observability, human-in-the-loop verification, and context control for financial workflows",
+    "Build library learning systems that reduce LLM dependencies by learning reusable patterns for planning and code generation",
+    "Create graph-based company representations and develop efficient search methods using embeddings and semantic clustering",
+    "Build multi-modal parsers that unify diverse financial data sources into queryable schemas for agent reasoning",
+    "Implement RL and fine-tuning pipelines based on user feedback to improve agent performance over time",
+    "Design benchmarking and evaluation suites that quantify accuracy, reliability, and business impact across customer workflows"
+  ],
+  "use_cases": [
+    "Autonomous CFO system that runs company financials end-to-end with real-time analysis",
+    "AI-powered detection and prevention of costly financial errors in traditional business operations",
+    "Automated analysis of complex financial workflows in manufacturing, healthcare, and restaurant industries",
+    "Multi-modal financial data parsing and unification from Excel, ERPs, and CRMs into queryable formats",
+    "Agent-based financial decision support that surfaces value and increases decision cadence"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "LLMs",
+    "agent frameworks",
+    "agentic architectures",
+    "embeddings",
+    "fine-tuning",
+    "reinforcement learning",
+    "retrieval augmentation",
+    "semantic clustering",
+    "tool use"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building AI agents that\npower autonomous finance operations, including implementing\nagent architectures, library learning systems, semantic\nsearch, RL and fine-tuning pipelines, and deploying these\nsystems to production. This is direct work on AI/ML systems\n- building, deploying, and optimizing agent capabilities\nrather than supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "agent frameworks",
+      "LLMs",
+      "retrieval augmentation",
+      "tool use",
+      "agentic architectures"
+    ],
+    "ml": [
+      "fine-tuning",
+      "embeddings",
+      "semantic clustering",
+      "reinforcement learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,169 @@
+{
+  "job_id": "intl-ai-corpus-0229",
+  "source": "intl-ai-corpus",
+  "source_ref": "7525744",
+  "source_url": "https://builtin.com/job/ai-ml-engineer/7525744",
+  "title": "AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Profound",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "early stage",
+  "company_focus": "AI presence management and control",
+  "industries": [],
+  "description": "Profound is on a mission to help companies understand and\ncontrol their AI presence. As an AI and ML Engineer, you\nwill design, build, and ship large scale NLP and LLM systems\nthat power classification, ranking, clustering, topic\ndiscovery, and content generation. You will own workflows\nfrom data to deployment, partner across product and\nengineering, and turn real user conversations into\nproduction features and publish-ready content that drives\nvisibility, engagement, and conversion.\n\nWhat you’ll do\n\n- Build and deploy NLP models at scale for classification,\n  ranking, clustering, topic extraction, and summarization\n- Design LLM workflows for context and content generation end\n  to end, including topic discovery, brief creation,\n  outlines and drafts, revision loops, and publish-ready\n  assets\n- Develop prompt and template libraries aligned to brand voice\n  and channel, including blogs, landing pages, help docs,\n  and ads, with retrieval for evidence-grounded generation\n  and citations\n- Create evaluation frameworks for generated content,\n  including factuality, coverage, tone, safety, and\n  originality, with rubric-based LLM evaluations, human-in-\n  the-loop review, and red teaming\n- Instrument content performance across AEO and SEO\n  visibility, engagement, and conversion, and run\n  experiments to improve quality, cost, and latency\n- Transform large text datasets into production features and\n  signals that drive product insights\n- Partner with engineering to instrument events, maintain data\n  pipelines, and uphold high data quality and observability\n- Collaborate with product, data, and go-to-market teams on\n  success metrics and experiments that move customer-facing\n  KPIs\n\nWho you are\n\n- Proven experience shipping machine learning systems in\n  production at scale, especially with large text data\n- Hands-on experience building LLM content systems including\n  prompting, templating, retrieval or RAG, guardrails, and\n  evaluations\n- Fluency in SQL and strong Python skills with modern machine\n  learning tooling\n- Strong grasp of machine learning and generation quality\n  metrics, with the ability to design offline and online\n  evaluations and monitoring\n- Ability to innovate when off-the-shelf solutions do not fit\n  the problem\n- Experience working in cross-functional, high-performance\n  teams\n- Clear communication with both technical and non-technical\n  partners\n- Ownership mindset and comfort operating in a fast-paced\n  environment\n- Excited by ownership of the entire product analytics\n  function at an early stage company\n- Motivated by shaping how usage is measured and how product\n  decisions are made\n- Interested in close collaboration with product, engineering,\n  and go-to-market teams\n- Comfortable in a fast-paced environment with trust,\n  autonomy, and responsibility\n- Drawn to competitive compensation and meaningful equity\n\nLocation\n\nThis is an on-site role based in our Union Square, NYC\noffice, designed for builders who thrive on speed,\niteration, and meaningful impact.\n\nFor this role, the expected base salary range is $140,000 to\n$260,000. Profound’s total compensation package is designed\nto be competitive and includes base salary, equity, and a\nfull range of benefits and perks. Final compensation will\ndepend on factors such as your skills, experience,\nqualifications, and location, and will be determined during\nthe interview process. Our recruiting team will share more\ndetails about the full compensation package and benefits as\nyou move through hiring.\n",
+  "skills_required": [
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "fine-tuning",
+    "guardrails",
+    "huggingface",
+    "model training",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and deploy NLP models at scale for classification, ranking, clustering, topic extraction, and summarization",
+    "Design LLM workflows for context and content generation end to end, including topic discovery, brief creation, outlines and drafts, revision loops, and publish-ready assets",
+    "Develop prompt and template libraries aligned to brand voice and channel, including blogs, landing pages, help docs, and ads, with retrieval for evidence-grounded generation and citations",
+    "Create evaluation frameworks for generated content, including factuality, coverage, tone, safety, and originality, with rubric-based LLM evaluations, human-in-the-loop review, and red teaming",
+    "Instrument content performance across AEO and SEO visibility, engagement, and conversion, and run experiments to improve quality, cost, and latency",
+    "Transform large text datasets into production features and signals that drive product insights",
+    "Partner with engineering to instrument events, maintain data pipelines, and uphold high data quality and observability",
+    "Collaborate with product, data, and go-to-market teams on success metrics and experiments that move customer-facing KPIs"
+  ],
+  "use_cases": [
+    "AI presence management and control for companies",
+    "Content generation including blogs, landing pages, help docs, and ads",
+    "Text classification, ranking, clustering, and topic discovery for content organization",
+    "Content summarization and brief creation with evidence-grounded citations",
+    "AEO and SEO visibility optimization through AI-powered content",
+    "Content quality evaluation including factuality, tone, safety, and originality checks"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Airflow",
+    "Arize",
+    "Azure AI Studio",
+    "Bedrock",
+    "BigQuery",
+    "CI/CD",
+    "Docker",
+    "ETL",
+    "GCP",
+    "Kafka",
+    "Kubernetes",
+    "LangSmith",
+    "Postgres",
+    "Ray",
+    "SageMaker",
+    "Snowflake",
+    "Vertex AI",
+    "data pipelines",
+    "monitoring",
+    "vector DBs"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI/Anthropic APIs",
+    "RAG",
+    "fine-tuning",
+    "guardrails",
+    "huggingface",
+    "model training",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building LLM systems including RAG,\nprompt engineering, content generation workflows, and\nevaluation frameworks. The engineer directly designs and\ndeploys NLP/LLM models from data to deployment, not just\nsupporting infrastructure for AI teams.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI/Anthropic APIs",
+      "prompt engineering",
+      "RAG",
+      "LangChain",
+      "LlamaIndex",
+      "guardrails"
+    ],
+    "ml": [
+      "huggingface",
+      "model training",
+      "fine-tuning"
+    ],
+    "web": [],
+    "databases": [
+      "Postgres",
+      "vector DBs",
+      "Snowflake",
+      "BigQuery"
+    ],
+    "data": [
+      "Airflow",
+      "Kafka",
+      "Ray",
+      "ETL",
+      "data pipelines"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure AI Studio",
+      "Bedrock",
+      "SageMaker",
+      "Vertex AI"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "LangSmith",
+      "Arize",
+      "monitoring"
+    ],
+    "languages": [
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "domains": [
+      "NLP",
+      "CV"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

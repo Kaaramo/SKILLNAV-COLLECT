@@ -1,0 +1,115 @@
+{
+  "job_id": "intl-ai-corpus-0270",
+  "source": "intl-ai-corpus",
+  "source_ref": "7612216",
+  "source_url": "https://builtin.com/job/software-engineer-ai-infrastructure/7612216",
+  "title": "Software Engineer, AI Infrastructure",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Fireworks AI",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "63 Employees",
+  "company_stage": "Series C",
+  "company_focus": "Generative AI infrastructure and inference platform",
+  "industries": [
+    "Software",
+    "Generative AI"
+  ],
+  "description": "About Us:\n\nAt Fireworks, we’re building the future of generative AI\ninfrastructure. Our platform delivers the highest-quality\nmodels with the fastest and most scalable inference in the\nindustry. We’ve been independently benchmarked as the leader\nin LLM inference speed and are driving cutting-edge\ninnovation through projects like our own function calling\nand multimodal models. Fireworks is a Series C company\nvalued at $4 billion and backed by top investors including\nBenchmark, Sequoia, Lightspeed, Index, and Evantic. We’re an\nambitious, collaborative team of builders, founded by\nveterans of Meta PyTorch and Google Vertex AI.\n\nThe Role:\n\nAs a Software Engineer on our AI Infrastructure team, you\nwill help design the core systems that power Fireworks AI’s\ngenerative AI platform. You will help build infrastructure\nand tools that ensure the reliability, performance, quality,\nand availability of our AI system.\n\nOur mission is to make Fireworks AI the most reliable and\nuser friendly generative AI platform in the world. You will\npartner closely with our cloud infrastructure team, product\nteam, and performance team to deliver infrastructure that\nbridges the gap between our customer and the ultra-\nperformant proprietary Fireworks inference engine.\n\nKey Responsibilities:\n\n- Contribute to the design and development of scalable backend\n  infrastructure that supports distributed training,\n  inference, and data pipelines\n- Build and maintain core backend services such as LLM CI/CD\n  pipeline, control plane, and model serving systems\n- Support performance optimization, cost efficiency, and\n  reliability improvements across compute, storage, and\n  networking layers\n- Building frameworks and safeguards to ensure Fireworks AI\n  has the best model quality in the industry\n- Collaborate with performance, training, and product teams to\n  translate research and product needs into infrastructure\n  solutions\n- Participate in code reviews, technical discussions, and\n  continuous integration and deployment processes\n\nMinimum Qualifications:\n\n- Bachelor’s degree in Computer Science, Engineering, or a\n  related technical field (or equivalent practical\n  experience)\n- 3 years of experience in software engineering, with a focus\n  on infrastructure or machine learning systems\n- Strong programming skills in Python, Go, or a similar\n  language\n- Proven experience in ML infrastructure and tooling (e.g.,\n  PyTorch, MLflow, Vertex AI, SageMaker, Kubernetes, etc.).\n- Basic understanding of LLM knowledge (e.g., context length,\n  disaggregated prefill, KV cache memory estimation, etc)\n\nPreferred Qualifications:\n\n- 5+ years of experience in software engineering, with a focus\n  on infrastructure or machine learning systems\n- Experience with open source inference engine like vLLM,\n  Sglang, or TRT-LLM\n- Contributions to open-source infrastructure or ML projects\n- Experience in building large scale ML/MLOps infrastructure\n\nWhy Fireworks AI?\n\n- Solve Hard Problems: Tackle challenges at the forefront of\n  AI infrastructure, from low-latency inference to scalable\n  model serving.\n- Build What’s Next: Work with bleeding-edge technology that\n  impacts how businesses and developers harness AI globally.\n- Ownership & Impact: Join a fast-growing, passionate team\n  where your work directly shapes the future of AI—no\n  bureaucracy, just results.\n- Learn from the Best: Collaborate with world-class engineers\n  and AI researchers who thrive on curiosity and innovation.\n\nFireworks AI is an equal-opportunity employer. We celebrate\ndiversity and are committed to creating an inclusive\nenvironment for all innovators.\n",
+  "skills_required": [
+    "PyTorch",
+    "distributed systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Contribute to the design and development of scalable backend infrastructure that supports distributed training, inference, and data pipelines",
+    "Build and maintain core backend services such as LLM CI/CD pipeline, control plane, and model serving systems",
+    "Support performance optimization, cost efficiency, and reliability improvements across compute, storage, and networking layers",
+    "Building frameworks and safeguards to ensure Fireworks AI has the best model quality in the industry",
+    "Collaborate with performance, training, and product teams to translate research and product needs into infrastructure solutions",
+    "Participate in code reviews, technical discussions, and continuous integration and deployment processes"
+  ],
+  "use_cases": [
+    "High-speed LLM inference platform delivering the fastest and most scalable inference in the industry",
+    "Function calling capabilities for generative AI applications",
+    "Multimodal model serving across vision and language modalities",
+    "Distributed training infrastructure for large-scale model development",
+    "Enterprise-grade generative AI platform with reliability and quality safeguards"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Kubernetes",
+    "MLOps",
+    "MLflow",
+    "SageMaker",
+    "TRT-LLM",
+    "Vertex AI",
+    "model serving",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an AI Infrastructure role focused on building\nbackend systems, CI/CD pipelines, control planes, and model\nserving infrastructure that powers the AI platform. The\nengineer supports distributed training and inference through\ninfrastructure development but does not directly build,\ntrain, fine-tune, or deploy AI models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Vertex AI",
+      "SageMaker"
+    ],
+    "ops": [
+      "MLflow",
+      "Kubernetes",
+      "vLLM",
+      "TRT-LLM",
+      "MLOps",
+      "CI/CD",
+      "model serving"
+    ],
+    "languages": [
+      "Python",
+      "Go"
+    ],
+    "domains": [],
+    "other": [
+      "distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

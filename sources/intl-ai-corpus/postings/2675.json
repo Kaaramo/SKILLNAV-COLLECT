@@ -1,0 +1,131 @@
+{
+  "job_id": "intl-ai-corpus-2675",
+  "source": "intl-ai-corpus",
+  "source_ref": "8962214",
+  "source_url": "https://www.builtinla.com/job/applied-ai-engineer/8962214",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cadence (cadence.care)",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-06",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B+",
+  "company_focus": "Remote care delivery system for senior healthcare",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Machine Learning",
+    "Software",
+    "Telehealth"
+  ],
+  "description": "Re‑architecting U.S. healthcare demands speed, precision,\nand an obsession with details. Cadence is building a remote\ncare delivery system that keeps older people healthy, out of\nthe hospital, and at home. By pairing each patient with a\ndedicated clinical team that reviews their health every day,\nversus every few months, we catch issues early and intervene\nbefore they escalate. The result: measurably better outcomes\nfor patients and less administrative burden for clinicians.\n\nToday, Cadence supports tens of thousands of  active\npatients nationwide. Our AI‑powered system and scalable\nclinical model enable proactive, population‑level care.\nWe’re among the fastest‑growing companies in healthtech, and\nwe’re just getting started.\n\nWe're looking for an Applied AI Engineer to design and ship\nproduction agents that synthesize real-time clinical data,\nsurface proactive care recommendations, and take action on\nbehalf of clinicians. You will take agent architectures from\nprototype to production in a domain where reliability\ndirectly affects patient outcomes.\n\nYou'll own the full lifecycle of AI-powered clinical\nworkflows: retrieval, reasoning, tool use, evaluation, and\nsafety guardrails. If you've built agentic systems at scale\nand want your work to matter beyond engagement metrics, we’d\nlove to speak with you.\n\nWHAT YOU’LL DO:\n\n- Design, build, and deploy clinical AI agents that reason\n  over patient context, invoke tools, and generate care\n  recommendations.\n- Own reliability, observability, and cost efficiency of LLM-\n  powered workflows at scale.\n- Build and optimize RAG pipelines over clinical knowledge\n  bases, treatment protocols, and real-time patient data.\n- Develop evaluation frameworks: offline benchmarks, safety\n  tests, regression suites, and LLM-as-judge pipelines wired\n  into CI/CD.\n- Design multi-step agent orchestration: planning, memory,\n  tool use, error recovery, and human-in-the-loop escalation\n  paths.\n- Collaborate with clinical, product, and engineering teams to\n  translate patient care needs into AI system design.\n- Stay at the forefront of AI and engineering best practices,\n  continuously pushing the team to raise the bar on quality,\n  performance, and architecture.\n\nWHAT YOU’LL NEED:\n\n- Bachelor's or Master’s degree in Computer Science,\n  Engineering or related field, or equivalent work\n  experience\n- 3+ years of software engineering experience, with 2+ years\n  building AI/ML-powered systems in production\n- Hands-on experience with LLM APIs (OpenAI, Anthropic, open-\n  source models) including prompt engineering, tool use /\n  function calling, and structured outputs\n- Experience building RAG systems: embeddings, vector stores,\n  retrieval optimization, and grounding\n- Experience in a high-growth, fast-paced environment with\n  end-to-end ownership from design through production\n\nNICE TO HAVE:\n\n- Experience with agent frameworks or orchestration patterns\n  (tool calling, planners, multi-agent coordination)\n- Fine-tuning experience (SFT, RLHF, LoRA) on domain-specific\n  tasks\n- Healthcare or regulated-industry experience (HIPAA, SOC 2,\n  clinical data handling)\n\nWHO WE ARE:\n\nWe move fast, raise standards, and own outcomes. We hire\ndrivers, not passengers – people who take initiative, solve\nproblems, and sweat the details because lives depend on it.\nMomentum matters in healthcare where slow decisions cost\nlives. At Cadence, we set a high bar and back each other\nrelentlessly to clear it. If you’re ready to do the best\nwork of your career and make a real impact in healthcare,\njoin us.\n\nWHAT YOU’LL GET:\n\n- Autonomy to tackle big, complex problems that matter\n- An opportunity to improve lives every single day\n- A chance to shape a category‑defining company at scale\n- Medical, dental, and vision insurance\n- Competitive total compensation and meaningful equity\n- TelaDoc (virtual primary care)\n- National and local discounts powered by TriNet\n- Unlimited PTO and paid holidays\n- Remote equipment setup and home office stipend\n- Paid Parental Leave\n- 401K and 401K match\n- Charitable Donation Match program\n- Location: Remote\n\nNoteworthy Our job titles may span more than one career\nlevel. The base pay for this role typically ranges between\n$135,000 – $165,000 annual base salary. Total compensation\nincludes base salary and equity. The actual base pay is\ndetermined by a variety of factors, including experience,\nskills, training, and business needs. Compensation may vary\nbased on market location and is subject to change.\n\nCadence is committed to equal opportunity and fairness\nregardless of race, color, religion, sex, gender identity,\nsexual orientation, nation of origin, ancestry, age,\nphysical or mental disability, country of citizenship,\nmedical condition, marital or domestic partner status,\nfamily status, family care status, military or veteran\nstatus or any other basis protected by local, state or\nfederal laws.\n\nA notice to Cadence applicants: Our Talent team only directs\ncandidates to apply through our official careers page at\nhttps://www.cadence.care/our-team.  Cadence will never refer\nyou to external websites, ask for payment or personal\ninformation, or conduct interviews via messaging apps. We\nreceive all applications through our website and anyone\nsuggesting otherwise is not with Cadence.\n",
+  "skills_required": [
+    "Agent frameworks and orchestration",
+    "Fine-tuning (SFT, RLHF, LoRA)",
+    "HIPAA compliance",
+    "LLM APIs (OpenAI, Anthropic)",
+    "Multi-agent coordination",
+    "Prompt engineering",
+    "RAG systems",
+    "Structured outputs",
+    "Tool use / function calling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and deploy clinical AI agents that reason over patient context, invoke tools, and generate care recommendations",
+    "Own reliability, observability, and cost efficiency of LLM-powered workflows at scale",
+    "Build and optimize RAG pipelines over clinical knowledge bases, treatment protocols, and real-time patient data",
+    "Develop evaluation frameworks including offline benchmarks, safety tests, regression suites, and LLM-as-judge pipelines wired into CI/CD",
+    "Design multi-step agent orchestration including planning, memory, tool use, error recovery, and human-in-the-loop escalation paths",
+    "Collaborate with clinical, product, and engineering teams to translate patient care needs into AI system design",
+    "Continuously push the team to raise the bar on quality, performance, and architecture"
+  ],
+  "use_cases": [
+    "Synthesizing real-time clinical data for proactive care recommendations",
+    "Population-level proactive healthcare for elderly patients",
+    "Clinical decision support surfacing care recommendations to clinicians",
+    "Automated agent-driven actions on behalf of clinicians",
+    "RAG over clinical knowledge bases and treatment protocols",
+    "Patient monitoring and early intervention to prevent hospitalizations"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "LLM-as-judge evaluation",
+    "Observability and monitoring",
+    "Vector stores / embeddings"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks and orchestration",
+    "Fine-tuning (SFT, RLHF, LoRA)",
+    "LLM APIs (OpenAI, Anthropic)",
+    "Multi-agent coordination",
+    "Prompt engineering",
+    "RAG systems",
+    "Structured outputs",
+    "Tool use / function calling"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is squarely ai-first: the engineer will design,\nbuild, and deploy clinical AI agents with RAG pipelines,\nagent orchestration, tool use, and safety guardrails. The\nposition involves hands-on work building LLM-powered agentic\nsystems from prototype to production, directly working with\nmodels and agent architectures.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs (OpenAI, Anthropic)",
+      "Prompt engineering",
+      "Tool use / function calling",
+      "Structured outputs",
+      "RAG systems",
+      "Agent frameworks and orchestration",
+      "Multi-agent coordination"
+    ],
+    "ml": [
+      "Fine-tuning (SFT, RLHF, LoRA)"
+    ],
+    "web": [],
+    "databases": [
+      "Vector stores / embeddings"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "LLM-as-judge evaluation",
+      "Observability and monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Healthcare / clinical data handling"
+    ],
+    "other": [
+      "HIPAA compliance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

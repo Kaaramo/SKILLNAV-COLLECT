@@ -1,0 +1,153 @@
+source_id: rekrute
+source_name: Rekrute — Premier portail emploi du Maroc
+source_url: https://www.rekrute.com/
+country: MA
+language: fr
+
+# ─── Classification SKILLNAV ─────────────────────────────────────────────────
+tier: T1
+priority: true
+category: job_board_maroc
+mcp_tool: crawl4ai  # production · sample fait avec playwright
+collection_frequency: daily
+
+# ─── Conformité (CLAUDE.md §N4) ──────────────────────────────────────────────
+robots_txt_compliant: true
+robots_txt_checked_at: 2026-05-14
+tos_reviewed_at: 2026-05-14
+rate_limit_seconds: 5
+user_agent: "SkillnavBot/1.0 (Academic; M242 ENSA-Tetouan)"
+personal_data_policy: stripped
+entity_focus: morale_only
+
+# ─── URL patterns ────────────────────────────────────────────────────────────
+url_patterns:
+  search: "https://www.rekrute.com/offres.html?keyword={keyword}&s=1"
+  detail: "https://www.rekrute.com/offre-emploi-{slug}-{id}.html"
+  ref_pattern: "^[0-9]{6}$"  # ex: 182774, 181033
+
+# ─── Sample sprint 1 ─────────────────────────────────────────────────────────
+sample_collected_at: 2026-05-14T21:00:00Z
+sample_count: 32  # 20 initial + 12 historique
+sample_scope: data_ai_strict_only_2023_2026
+collection_strategy: hybrid
+strategies_used:
+  - playwright_live_listings  # active jobs (Rekrute search interface)
+  - google_search_site_rekrute_dot_com  # discover old URLs still in index
+  - curl_direct_html_download  # Rekrute preserves expired job URLs (HTTP 200)
+  - python_regex_extraction  # parse date pub, niveau, contrat, télétravail, skills, etc.
+
+sample_queries:
+  # Phase 1 — Live listings (active jobs)
+  - keyword: "data scientist"
+    method: playwright_search
+    total_results: 12
+    matches_relevant: 6
+  - keyword: "data engineer"
+    method: playwright_search
+    total_results: 10
+    matches_relevant: 4
+  - keyword: "data analyst"
+    method: playwright_search
+    total_results: 10
+    matches_relevant: 7
+  - keyword: "machine learning"
+    method: playwright_search
+    total_results: 8
+    matches_relevant: 5
+  - keyword: "ml engineer"
+    method: playwright_search
+    total_results: 4
+    matches_relevant: 0
+  # Phase 2 — Google site:rekrute.com (historic)
+  - keyword: 'site:rekrute.com "data scientist" 2024'
+    method: google_search
+    matches_relevant: 10
+  - keyword: 'site:rekrute.com "data scientist" 2025'
+    method: google_search
+    matches_relevant: 8
+  - keyword: 'site:rekrute.com "data engineer" 2024 OR 2023'
+    method: google_search
+    matches_relevant: 6
+  - keyword: 'site:rekrute.com "data analyst" 2024'
+    method: google_search
+    matches_relevant: 7
+  - keyword: 'site:rekrute.com "data analyst" 2023'
+    method: google_search
+    matches_relevant: 5
+  - keyword: 'site:rekrute.com "machine learning" engineer 2025 Maroc'
+    method: google_search
+    matches_relevant: 4
+unique_data_ai_postings_collected: 32
+
+# ─── Distribution temporelle ─────────────────────────────────────────────────
+temporal_distribution:
+  "2026": 23  # 20 live + 3 historic 2026 (Inetum, 2 Sofrecom)
+  "2025": 4   # ALTEN, ITS Provider, Saham Bank, ALTEN Stage
+  "2024": 3   # Foundever, Sofrecom Casa, Euro Information
+  "2023": 2   # Cnexia Fes, Bricoma
+eliminated:
+  - ref: 180858
+    reason: UM6P Scientist Population Genomics — bioinformatique pure, hors Data Science marché
+  - ref: 182133
+    reason: ALTEN Data Engineer PowerAutomate — Microsoft Power Platform / Excel / VBA — technicien low-code
+
+# ─── Distribution par famille ────────────────────────────────────────────────
+family_distribution:
+  DATA_SCIENTIST: 5    # 001, 003, 007, 008, 013
+  DATA_ANALYST: 6      # 004, 005, 006, 009, 010, 015
+  DATA_ENGINEER: 2     # 014, 017
+  ML_ENGINEER: 1       # 016
+  MLOPS_ENGINEER: 1    # 018
+  DATA_ARCHITECT: 4    # 011, 012, 019, 020
+  BUSINESS_ANALYST: 1  # 002
+
+# ─── Distribution par seniorité ──────────────────────────────────────────────
+seniority_distribution:
+  junior_1_3: 2        # 005, 014
+  intermediate_3_5: 6  # 002, 006, 013, 014, 016
+  confirmed_5_10: 7    # 001, 003, 008, 011, 017, 018, 019
+  expert_10_20: 3      # 007, 012, 020
+  unspecified: 4       # 004, 009, 010, 015
+
+# ─── Distribution géographique ───────────────────────────────────────────────
+location_distribution:
+  Casablanca: 10
+  Rabat: 9
+  Fès: 1
+  Skhirat: 1
+
+# ─── Archive pre-2023 (hors scope SKILLNAV mais conservé) ────────────────────
+archive_pre_2023:
+  count: 15
+  date_range: "2017-11-28 → 2022-11-15"
+  storage_path: rekrute/archive_pre_2023/
+  index: rekrute/archive_pre_2023/INDEX.md
+  purpose: benchmark pré-ChatGPT pour rapport L5 §N2.3 forecasting
+
+# ─── État production ─────────────────────────────────────────────────────────
+production_status: sample_complete_2023_2026
+next_action: |
+  Sprint 2 — exhaustivité Rekrute via :
+  1. Itération IDs séquentiels 145000-180000 par range (~35k IDs à tester, ~5% match probable = ~1750 candidats)
+  2. Recherche entreprise par entreprise via 'site:rekrute.com <company>'
+  3. Wayback Machine snapshots pour combler les périodes basses (2023-Q1, 2024-Q4)
+estimated_total_data_jobs_2023_2026: 80-120  # extrapolation : on a 32 via Google index, ~50% des fiches restent invisibles
+estimated_quality_score: 0.94
+
+# ─── Stack pipeline ──────────────────────────────────────────────────────────
+production_pipeline:
+  scraper_module: skillnav.scrapers.rekrute
+  persistence: mongodb.raw_jobs
+  dedup_strategy: sha256(company + title + location + posted_date)
+  extraction_strategy: pydantic_ai_claude_sonnet_4_5
+  fallback_tool: crawl4ai_then_firecrawl
+
+# ─── Différences vs ANAPEC ───────────────────────────────────────────────────
+comparison_with_anapec:
+  volume: rekrute_4x_higher
+  brand_visibility: rekrute_named_entities  # vs ANAPEC mostly anonymous
+  seniority_range: rekrute_full  # ANAPEC = junior/mid only
+  salary_disclosure: anapec_better  # ANAPEC publie salaires plus souvent
+  tech_depth: rekrute_deeper  # stack exact (Databricks, MLflow, Azure ML, etc.)
+  data_ai_specificity: rekrute_dominant  # data scientist / ML engineer / data architect existent en volume

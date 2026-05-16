@@ -1,0 +1,101 @@
+{
+  "job_id": "intl-ai-corpus-0035",
+  "source": "intl-ai-corpus",
+  "source_ref": "6351158",
+  "source_url": "https://builtin.com/job/software-engineer-applied-ai/6351158",
+  "title": "Software Engineer (Applied AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Column Tax",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-21",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "40 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Tax e-filing software platform",
+  "industries": [
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "Software Engineer (Applied AI)\n\nAt Column Tax, we’re building the next generation of tax\nsoftware. Our mission is to make it possible for every\ntaxpayer to file confidently in just one click. As the\nfastest-growing tax e-filer of all time, we’ve already\nhelped millions of Americans. Come help us build delightful,\ntransparent, and easy-to-use tax products — and bring that\nexperience to many, many millions more!\n\nWhat we are looking for at Column Tax\n\n- Improvise, adapt, overcome. We’re a startup — everyone jumps\n  in across teams to solve problems and create forward\n  motion.\n- Empathy, communication, and teamwork. Tax software isn’t a\n  solo effort. You’ll collaborate closely with engineers,\n  tax analysts, designers, and GTM on nearly every project.\n- Ownership mindset. Everyone shapes the product and\n  engineering roadmap\n- Fierce execution. We focus week to week, to deliver real\n  value to taxpayers and partners.\n\nWhat we are looking for in the role\n\n- 4-6+ years of professional experience in software\n  engineering or a related role.\n- Experience exploring, developing, and implementing advanced\n  AI technologies into shipped software such as our AI tax\n  development agent.\n- Experience building and deploying reinforcement learning\n  algorithms and machine learning pipelines.\n- Track record of taking full ownership of projects from spec\n  to ship to scale.\n- Regularly takes on work beyond their current comfort zone,\n  learning new languages, systems, or domains in order to\n  deliver real value.\n- Comfortable working and reasoning across the stack whether\n  frontend, backend, or infrastructure.\n- Bonus points for experience in tax, bookkeeping, embedded\n  fintech.\n- Bonus points for a blend of startup scrappiness and working\n  in high-scale systems.\n- Based in San Francisco 🌉 / New York City🗽, and excited to be\n  in-office at least 3 days a week. If you're not local but\n  are open to relocating, let us know!\n\nDay-to-day\n\n- Build agentic tooling that is able to understand tax law\n  turn it into software code, and test itself to achieve\n  correctness.\n- Ingest and process millions of data points from uploaded\n  documents, partner integrations, and external APIs to\n  accurately auto-fill tax returns so taxpayers don’t have\n  to.\n- Build and extend our APIs for our partners - Our partners\n  are key to our success. We empower our partners by\n  creating APIs that make integration seamless and\n  intuitive.\n- Create UI for our embedded tax platform - Work with Design\n  and the Tax teams to translate complicated tax code into a\n  delightful UI that anyone can use.\n\nWeek-to-week\n\n- Week 1: Meet the team, ship to prod on day one, fix 1–2 bugs\n  to get acclimated.\n- Month 1: Lead and ship a small feature, review PRs, and demo\n  at all-hands.\n- Month 3: Own a larger project, help scope future work,\n  mentor teammates, and lead process improvements.\n\nInterview ProcessStep 1: Intro call with our Head of\nEngineering (or a team member)\n\nThis is a two-way conversation. We’ll talk about your\nbackground, what you’re looking for next, and the kinds of\nproblems you enjoy solving. You’ll also get a chance to\nlearn more about Column — how we work, what we value, and\nhow we’d support you if you joined. Bring questions!\n\nStep 2: Take home challenge\n\nWe’ll ask you to complete a ~3-hour project that mirrors the\nkind of integration or tooling work we do every day. You’ll\nhave full freedom to do it your way — this is about\ndecision-making, clarity, and implementation, not code golf.\n\nStep 3: Interview panels\n\nThe interview panels are where you’ll meet several of us and\nwork through collaborative challenges. The interviews are\ndesigned to mimic real work — like redesigning a creaky\nsystem, debugging in a sandboxed environment, and walking\nthrough a past project. The interview panels are over video\ncalls and ~4.5 hours total over two days.\n\nStep 4: Offer\n\nBefore making a formal offer, we like to speak with a few\npeople you’ve worked closely with — usually a manager or\npeer. It helps us understand how to support you best. If all\nlooks good, we’ll move quickly to extend an offer and kick\noff what we hope is a long, rewarding partnership.\n\nHow to apply\n\nAt Column Tax, we’re committed to building a diverse,\ninclusive, and authentic workplace. If this sounds exciting\n— even if you’re not sure you meet every requirement — we\nhope you’ll apply. We’re looking for people, not checkboxes.\n\nEmail us at hiring@columntax.com with your LinkedIn/GitHub\nor apply here:\n",
+  "skills_required": [
+    "agents",
+    "machine learning pipelines",
+    "reinforcement learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build agentic tooling that understands tax law, converts it to software code, and tests itself for correctness",
+    "Ingest and process millions of data points from documents, partner integrations, and external APIs to auto-fill tax returns",
+    "Build and extend APIs for partners to enable seamless and intuitive integration",
+    "Create user interface for the embedded tax platform, translating complex tax code into accessible UI"
+  ],
+  "use_cases": [
+    "AI tax agent that understands tax law and generates code implementations",
+    "Automated tax form completion using document ingestion and data processing",
+    "Embedded tax platform APIs for partner integrations",
+    "Tax return auto-filling system powered by machine learning",
+    "Reinforcement learning algorithms for tax optimization and correctness"
+  ],
+  "tools_mentioned": [
+    "REST APIs",
+    "UI development"
+  ],
+  "frameworks_mentioned": [
+    "agents",
+    "machine learning pipelines",
+    "reinforcement learning"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building AI agents and ML\nsystems, specifically an \"AI tax development agent\" that\nunderstands tax law and generates software code. The role\nrequires experience with reinforcement learning algorithms,\nmachine learning pipelines, and deploying advanced AI\ntechnologies into production software.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "agents"
+    ],
+    "ml": [
+      "reinforcement learning",
+      "machine learning pipelines"
+    ],
+    "web": [
+      "REST APIs",
+      "UI development"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,150 @@
+{
+  "job_id": "intl-ai-corpus-0123",
+  "source": "intl-ai-corpus",
+  "source_ref": "7105962",
+  "source_url": "https://builtin.com/job/backend-platform-engineer-ai-analytic-engines/7105962",
+  "title": "Backend / Platform Engineer, AI Analytic Engines",
+  "title_normalized": "AI_ENGINEER",
+  "company": "ThirdLaw AI",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-17",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "4 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI safety, compliance, and observability infrastructure for\nenterprise",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About the Company\n\nThirdLaw is building the control layer for AI in the\nenterprise. As companies rush to adopt LLMs and AI agents,\nthey face new safety, compliance, and operational risks that\ntraditional observability tools were never designed to\ndetect. Metrics like latency or cost don’t capture when a\nmodel makes a bad decision, leaks sensitive data, or behaves\nunpredictably.\n\nWe help IT and Security teams answer the foundational\nquestion: \"Is this OK?\"—and take real-time action when it’s\nnot.\n\nBacked by top-tier venture firms and trusted by forward-\nlooking enterprise design partners, we’re building the\ninfrastructure to monitor, evaluate, and control AI behavior\nin real-world environments—at runtime, where it matters. If\nyou're excited to build systems that help AI work as\nintended—and stop it when it doesn’t—we’d love to meet you.\n\nAbout the Role\n\nYou won’t just be piping logs or tuning models—you’ll build\nand scale systems that reconcile latency, correctness, and\nobservability across distributed pipelines. You’ll be\ndesigning the nervous system of a new class of\nsoftware—where AI Agents reason, act, and fail in\nunpredictable ways. If you're excited by AI and want to\nshape its safe deployment—not just watch from the\nsidelines—this is your opportunity.\n\nWhat You’ll Do\n\n- Architect scalable, low-latency services for running\n  evaluations in real-time and batch, integrating with\n  streaming data pipelines and trace-based event models.\n- Design and build the core evaluation engine within ThirdLaw\n  that applies heuristics, semantic models, and foundation\n  model calls to detect violations across LLM inputs and\n  outputs.\n- Build a runtime intervention layer to determine and execute\n  appropriate enforcement actions—such as block, redact,\n  notify, escalate—based on evaluation results and risk\n  context.\n- Create reusable frameworks for pluggable evaluators and\n  intervention policies, supporting no-code authoring and\n  automated deployment pipelines.\n- Configure and operationalize a vector database pipeline for\n  RAG-like use cases.\n- Build for scale. Mitigate blocking gRPC threads, implement\n  micro-batching & streaming for LLM/embedding calls and add\n  reliability controls such as queue-based back-pressure and\n  graceful degradation paths.\n\nWho We Are Looking ForRequired\n\n- 5+ years of Backend software engineering experience,\n  including designing and shipping production software\n  services\n- Strong coding proficiency in Python and/or Go\n- Deep experience with streaming data pipelines (e.g. Kafka,\n  Pulsar, Redis Streams) and batch processing systems\n- Proven track record scaling high-QPS, low-latency services\n  (p95/p99 ownership a plus).\n- Familiarity with vector databases (e.g. FAISS, Weaviate,\n  Qdrant, pgvector) and embedding-based matching\n- Strong grasp of cloud-native infrastructure: containers,\n  Kubernetes, serverless functions, CI/CD pipelines\n- Exposure to structured observability patterns, including\n  OpenTelemetry (or similar tracing standards)\n- Comfortable designing—then defending—trade-offs around build\n  vs buy vs OSS.\n\nNice-to-Have\n\n- Experience with modern Python APIs & concurrency, e.g. gRPC,\n  FastAPI, asyncio, multithreading/processes\n- Familiarity with ClickHouse, Apache Arrow, or fast\n  analytical storage engines\n- Prior work on agent frameworks (e.g. LangChain, CrewAI,\n  AutoGen) or LLM orchestration\n- Experience in trust & safety, compliance, or AI safety\n  domains\n- Hands-on experience with secure enterprise integrations\n  (authorization/authentication, webhooks, SIEM, IAM)\n\nWhy Apply?\n\nOur team is small and focused, valuing autonomy and real\nimpact over titles and management. We need strong technical\nskills, a proactive mindset, and clear written\ncommunication, as much of our work is asynchronous. If\nyou're organized, take initiative, and want to work closely\nwith customers to shape our products, you'll fit in well\nhere.\n\nFinally, we pay market cash compensation and generally\nabove-market equity. The compensation package for this role\nis benchmarked using Carta Total Compensation and reflects\nreal-time market data for our company’s size, this role’s\nlevel, and your geographic location. We have well-designed\nand generous benefits.\n\nhttps://www.thirdlaw.io/\n",
+  "skills_required": [
+    "AutoGen",
+    "CrewAI",
+    "LLMs",
+    "LangChain",
+    "RAG",
+    "embeddings"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect scalable, low-latency services for running evaluations in real-time and batch, integrating with streaming data pipelines and trace-based event models",
+    "Design and build the core evaluation engine that applies heuristics, semantic models, and foundation model calls to detect violations across LLM inputs and outputs",
+    "Build a runtime intervention layer to determine and execute enforcement actions like block, redact, notify, and escalate based on evaluation results and risk context",
+    "Create reusable frameworks for pluggable evaluators and intervention policies, supporting no-code authoring and automated deployment pipelines",
+    "Configure and operationalize vector database pipelines for RAG-like use cases",
+    "Mitigate blocking gRPC threads, implement micro-batching and streaming for LLM/embedding calls, and add reliability controls like queue-based back-pressure and graceful degradation paths"
+  ],
+  "use_cases": [
+    "Real-time monitoring and evaluation of AI agent behavior to detect safety violations, data leaks, and unpredictable actions",
+    "Automated enforcement and intervention for AI systems to block, redact, or escalate when risks are detected",
+    "Compliance and security control for enterprise AI deployments, ensuring AI systems operate within safe boundaries",
+    "Observability for LLM-based systems beyond traditional metrics like latency and cost, capturing decision correctness and safety",
+    "Runtime safety layer that helps IT and Security teams answer whether AI behavior is acceptable and take action when it's not"
+  ],
+  "tools_mentioned": [
+    "Apache Arrow",
+    "CI/CD",
+    "ClickHouse",
+    "Docker",
+    "FAISS",
+    "FastAPI",
+    "Kafka",
+    "Kubernetes",
+    "OpenTelemetry",
+    "Pulsar",
+    "Qdrant",
+    "Redis Streams",
+    "Weaviate",
+    "gRPC",
+    "micro-batching",
+    "pgvector",
+    "streaming"
+  ],
+  "frameworks_mentioned": [
+    "AutoGen",
+    "CrewAI",
+    "LLMs",
+    "LangChain",
+    "RAG",
+    "embeddings"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "asyncio",
+    "multithreading"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a backend/platform engineering role building\ninfrastructure, observability systems, and evaluation\nengines that support AI deployment - not building or\ntraining AI models directly. The role focuses on streaming\npipelines, vector databases, runtime intervention layers,\nand scalable services that monitor and control AI behavior,\nwhich is enabling work for AI systems rather than hands-on\nmodel work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "CrewAI",
+      "AutoGen",
+      "RAG",
+      "LLMs"
+    ],
+    "ml": [
+      "embeddings"
+    ],
+    "web": [
+      "FastAPI",
+      "gRPC"
+    ],
+    "databases": [
+      "FAISS",
+      "Weaviate",
+      "Qdrant",
+      "pgvector",
+      "ClickHouse"
+    ],
+    "data": [
+      "Kafka",
+      "Pulsar",
+      "Redis Streams",
+      "Apache Arrow",
+      "streaming"
+    ],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "OpenTelemetry",
+      "micro-batching"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "asyncio",
+      "multithreading"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

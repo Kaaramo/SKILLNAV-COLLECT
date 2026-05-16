@@ -1,0 +1,158 @@
+{
+  "job_id": "intl-ai-corpus-2600",
+  "source": "intl-ai-corpus",
+  "source_ref": "8925497",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer-simulation/8925497",
+  "title": "Senior AI/ML Engineer - Simulation",
+  "title_normalized": "AI_ENGINEER",
+  "company": "A.P. Moller - Maersk",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-01",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "58,338 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global shipping and logistics conglomerate",
+  "industries": [
+    "Logistics",
+    "Transportation"
+  ],
+  "description": "Job Summary\n\nWe are seeking a talented Simulation Engineer to join our\nteam, specializing in Digital Twin Simulation and Network\nOptimization. This role involves designing and implementing\nsimulation models and optimization solutions to enhance\nwarehouse logistics, resource allocation, and network\nefficiency. The ideal candidate will bring strong technical\nexpertise in Python, simulation modeling, and optimization\ntechniques, along with a passion for solving complex\noperational challenges.\n\nResponsibilities\n\n- Develop and maintain digital twin simulations for warehouse\n  and logistics systems, modeling system states, events, and\n  resource interactions.\n- Create and optimize network models to improve flow, resource\n  allocation, and operational performance.\n- Collaborate with stakeholders to integrate simulation and\n  optimization solutions into existing workflows.\n- Analyze simulation outputs to pinpoint inefficiencies and\n  recommend actionable improvements.\n- Write modular, testable, and efficient code to support\n  simulation and optimization projects.\n- Document processes, methodologies, and findings for\n  technical and non-technical audiences.\n\nMust-Have Technical Skills\n\n- Core Python: OOP, data structures, algorithms; writing\n  modular, testable, efficient code\n- Data Manipulation & Numerical Computing: pandas for\n  cleaning/analysis; NumPy for computations\n- Data Ingestion: fetching from REST APIs (requests) and\n  databases (SQL)\n- Discrete-Event Simulation: DES principles; SimPy for\n  modeling states, events, resources (e.g. warehouse flows)\n- Operations Research & Optimization: LP/MIP formulation;\n  Python libraries (OR-Tools, Pyomo, PuLP); familiarity with\n  VRP basics and assignment problems\n- Graph Analytics: NetworkX for building/analyzing network\n  topologies and flows\n- DevOps & Version Control: Git with CI/CD pipelines; Docker\n  containerization\n- API Development: building/deploying REST services with Flask\n  or FastAPI\n- Visualization: creating plots and dashboards using\n  Matplotlib, Seaborn, or Plotly\n\nNice-to-Have Technical Skills\n\n- Advanced Routing & Heuristics: VRP variants (time windows,\n  Hours of Service); heuristics/meta-heuristics (Tabu\n  Search, Genetic Algorithms, Branch & Bound, Simulated\n  Annealing)\n- Commercial Solvers: Gurobi or CPLEX and their Python APIs\n- ML-Enhanced Simulations: integrating scikit-learn or\n  TensorFlow/PyTorch models for predictive maintenance or\n  anomaly detection in digital twins\n- Alternative Simulation Paradigms: agent-based modeling, etc.\n- Streaming & IoT: real-time data processing with kafka-\n  python; MQTT (paho-mqtt) for live twin updates\n- Geospatial Processing & Visualization: GeoPandas, Shapely;\n  routing engines/APIs (OSRM, Google Maps, HERE); Folium for\n  maps\n- Interactive Dashboards: Dash or Streamlit\n- 3D Visualization: pyvista or vedo for complex digital-twin\n  renderings\n\nMaersk is committed to a diverse and inclusive workplace,\nand we embrace different styles of thinking. Maersk is an\nequal opportunities employer and welcomes applicants without\nregard to race, colour, gender, sex, age, religion, creed,\nnational origin, ancestry, citizenship, marital status,\nsexual orientation, physical or mental disability, medical\ncondition, pregnancy or parental leave, veteran status,\ngender identity, genetic information, or any other\ncharacteristic protected by applicable law. We will consider\nqualified applicants with criminal histories in a manner\nconsistent with all legal requirements.\n\n\n\nWe are happy to support your need for any adjustments during\nthe application and hiring process. If you need special\nassistance or an accommodation to use our website, apply for\na position, or to perform a job, please contact us by\nemailing  accommodationrequests@maersk.com.\n",
+  "skills_required": [
+    "Agent-based modeling",
+    "CPLEX",
+    "Discrete-Event Simulation",
+    "GeoPandas",
+    "Gurobi",
+    "Linear Programming / Mixed-Integer Programming",
+    "MQTT",
+    "Matplotlib",
+    "Meta-heuristics (Tabu Search, Genetic Algorithms, Simulated Annealing)",
+    "NetworkX",
+    "OR-Tools",
+    "Plotly",
+    "PuLP",
+    "PyTorch",
+    "Pyomo",
+    "Seaborn",
+    "SimPy",
+    "TensorFlow",
+    "Vehicle Routing Problems (VRP)",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and maintain digital twin simulations for warehouse and logistics systems, modeling system states, events, and resource interactions",
+    "Create and optimize network models to improve flow, resource allocation, and operational performance",
+    "Collaborate with stakeholders to integrate simulation and optimization solutions into existing workflows",
+    "Analyze simulation outputs to pinpoint inefficiencies and recommend actionable improvements",
+    "Write modular, testable, and efficient code to support simulation and optimization projects",
+    "Document processes, methodologies, and findings for technical and non-technical audiences"
+  ],
+  "use_cases": [
+    "Digital twin simulation of warehouse and logistics systems",
+    "Network optimization for resource allocation and operational efficiency",
+    "Discrete-event simulation modeling of warehouse flows and resource interactions",
+    "Predictive maintenance and anomaly detection in digital twins via ML integration",
+    "Vehicle routing and assignment problem optimization for logistics"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Dash",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "Git",
+    "Kafka",
+    "NumPy",
+    "REST APIs",
+    "Streamlit",
+    "pandas"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "The role is focused on simulation modeling (digital twins,\ndiscrete-event simulation) and operations\nresearch/optimization for logistics. While ML frameworks\nlike TensorFlow, PyTorch, and scikit-learn appear as nice-\nto-have skills for enhancing simulations (e.g., predictive\nmaintenance, anomaly detection), the core work is simulation\nand optimization rather than building or deploying AI/ML\nmodels. The ML component is secondary and additive, making\nthis ml-first rather than ai-first.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "web": [
+      "REST APIs",
+      "Flask",
+      "FastAPI",
+      "Dash",
+      "Streamlit"
+    ],
+    "databases": [],
+    "data": [
+      "pandas",
+      "NumPy",
+      "Kafka"
+    ],
+    "cloud": [],
+    "ops": [
+      "Git",
+      "CI/CD",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "SimPy",
+      "Discrete-Event Simulation",
+      "OR-Tools",
+      "Pyomo",
+      "PuLP",
+      "Linear Programming / Mixed-Integer Programming",
+      "NetworkX",
+      "Matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Gurobi",
+      "CPLEX",
+      "MQTT",
+      "GeoPandas",
+      "Vehicle Routing Problems (VRP)",
+      "Meta-heuristics (Tabu Search, Genetic Algorithms, Simulated Annealing)",
+      "Agent-based modeling"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

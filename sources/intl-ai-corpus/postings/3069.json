@@ -1,0 +1,173 @@
+{
+  "job_id": "intl-ai-corpus-3069",
+  "source": "intl-ai-corpus",
+  "source_ref": "9123062",
+  "source_url": "https://builtin.com/job/senior-ai-systems-engineer/9123062",
+  "title": "Senior AI Systems Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Infrrd",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-22",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "227 Employees",
+  "company_stage": "Profitable/Independent (since 2016)",
+  "company_focus": "Enterprise AI for automated data extraction from complex\ndocuments",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "Hello there! Infrrd here — it’s pronounced In-fur-d.\n\nWe’re an Enterprise AI company that uses AI and Machine\nLearning to help global organisations automate data\nextraction from complex documents — invoices, contracts,\ninsurance claims, and more. Our customers are some of the\nworld’s leading enterprises in mortgage, insurance, and\nmanufacturing, and we’ve been profitable and independent\nsince 2016.\n\nJob Purpose:\n\nTo build the automated systems that measure, diagnose, and\nimprove document extraction and classification accuracy at\nscale. This role eliminates the manual bottleneck in the\naccuracy improvement cycle — replacing brute-force prompt\niteration with agentic evaluation pipelines, automated\nfeedback loops, and intelligent internal tooling. The\nengineer in this role makes the entire team faster without\nproportionally increasing headcount, and enables systematic\naccuracy improvement as a repeatable engineering capability\nrather than an ad-hoc effort.\n\nJob Duties and Responsibilities\n\n- Design and build agentic evaluation pipelines: error\n  detection → root cause → hypothesis generation → prompt\n  variant testing → A/B measurement → production promotion,\n  with minimal human intervention.Own the accuracy\n  measurement infrastructure — automate error analysis, data\n  quality pipelines, and batch evaluation frameworks across\n  document types and customer configurations.\n- Build and evolve internal accuracy tooling from manual\n  utilities into automated improvement platforms —\n  classification and extraction correction loops, NTP rule\n  generation, performance reporting.\n- Take prototype methodologies and productionize them into\n  reliable, scalable systems the team can operate\n  independently.\n- Build LLM-based extraction and classification pipelines\n  using few-shot and RAG strategies for complex, real-world\n  document types.\n- Design and maintain A/B testing infrastructure for prompt\n  and model changes — no untested changes go to production.\n- Create live dashboards tracking extraction accuracy, NTP\n  rates, and false positive rates across document types and\n  customer configurations.\n- Optimize LLM costs while maintaining quality: prompt\n  compression, output token minimization, model selection\n  and migration strategies.\n- Write production-grade data pipelines with error handling,\n  retries, logging, and monitoring.\n- Collaborate with platform engineering and applied research\n  functions on architecture and methodology translation.\n- Mentor 1–2 junior engineers; build tooling and documentation\n  they can operate independently.\n\nRequired Qualifications\n\nBE / MTech in Computer Science, AI/ML, Computational Data\nScience (CDS), Computer Science & Automation (CSA), or\nrelated discipline.\n\nExperience Range 8-10 years total; minimum 4-6 years\nbuilding production LLM or AI systems; minimum 4-6 years in\nevaluation, quality measurement, or accuracy improvement\nwork.\n\n\"Must-have\" Skills\n\n- Production-grade Python — clean, tested, maintainable\n  systems; not just scripts (pytest, FastAPI or Flask)\n- Hands-on LLM API experience (OpenAI, Anthropic, Gemini, AWS\n  Bedrock or equivalent) with systematic, measurement-driven\n  prompt engineering — methodology over instinct\n- Agentic pipeline design — multi-step reasoning, tool use,\n  orchestration frameworks (LangChain, LlamaIndex or\n  equivalent), automated evaluation and feedback loops\n- Evaluation framework design for LLM systems —\n  precision/recall/F1, confusion matrices, A/B testing, per-\n  class error analysis\n- Analytical depth sufficient to design meaningful accuracy\n  metrics and interpret why a model fails on a specific\n  document or field type\n- MongoDB or equivalent NoSQL — queries, aggregations,\n  indexing pandas / numpy for data processing and batch\n  analysis\n- Git, code reviews, CI/CD basics (GitHub Actions or Jenkins)\n- Clear written communication — able to explain model\n  behaviour and accuracy findings to non-technical\n  stakeholders\n\n\"Would-be-nice\" Skills\n\n- Document AI: PDF parsing, layout-aware extraction, OCR,\n  structured form extraction\n- RAG pipeline design and vector search (Pinecone, Weaviate,\n  or similar)\n- Classification systems with large label spaces (50+ classes)\n- Async Python (asyncio, aiohttp) for pipeline throughput\n- Embedding models and semantic similarity for document\n  matching\n- Prior experience working alongside a Research or Applied\n  Science team as the engineering counterpart\n\nWorking Knowledge (Tools) Python, FastAPI / Flask, MongoDB,\nGit, GitHub Actions / Jenkins, LLM APIs (OpenAI / Anthropic\n/ Gemini or equivalent), LangChain / LlamaIndex, Pandas /\nNumpy, Pytest, Docker\n\nGeneral Knowledge\n\nNLP concepts, LLM prompt engineering patterns, REST APIs,\nRAG pipelines, vector databases, JSON data structures\n\nThorough Knowledge\n\nAgentic workflow design and orchestration, LLM evaluation\nmetrics (F1 / Precision / Recall, per-class analysis,\nconfusion matrices), production Python systems (error\nhandling, retries, logging, monitoring), NoSQL aggregations,\nsystematic A/B testing for model changes, prompt\noptimization methodology\n\nBy submitting your application, you agree that your personal\ninformation and resume may be collected, processed, and\nstored by us for recruitment purposes, including\nconsideration for future roles.\n",
+  "skills_required": [
+    "A/B Testing",
+    "Agentic Pipelines",
+    "Anthropic API",
+    "Embedding Models",
+    "Evaluation Metrics (Precision/Recall/F1)",
+    "Few-shot Learning",
+    "Gemini API",
+    "LangChain",
+    "LlamaIndex",
+    "OCR",
+    "OpenAI API",
+    "PDF Parsing",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build agentic evaluation pipelines for error detection, root cause analysis, hypothesis generation, prompt variant testing, A/B measurement, and production promotion",
+    "Own the accuracy measurement infrastructure including automated error analysis, data quality pipelines, and batch evaluation frameworks across document types",
+    "Build and evolve internal accuracy tooling from manual utilities into automated improvement platforms with classification and extraction correction loops",
+    "Build LLM-based extraction and classification pipelines using few-shot and RAG strategies for complex document types",
+    "Design and maintain A/B testing infrastructure for prompt and model changes to ensure no untested changes reach production",
+    "Create live dashboards tracking extraction accuracy, NTP rates, and false positive rates across document types and customer configurations",
+    "Optimize LLM costs through prompt compression, output token minimization, model selection and migration strategies",
+    "Mentor 1-2 junior engineers and build tooling and documentation they can operate independently"
+  ],
+  "use_cases": [
+    "Automated data extraction from complex documents (invoices, contracts, insurance claims)",
+    "Document classification with large label spaces (50+ classes)",
+    "Agentic evaluation and automated accuracy improvement for document AI pipelines",
+    "A/B testing and production promotion of LLM prompt and model changes",
+    "Intelligent internal tooling for classification and extraction correction loops",
+    "Cost optimization of LLM-based document processing at enterprise scale"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "Git",
+    "GitHub Actions",
+    "Jenkins",
+    "MongoDB",
+    "NumPy",
+    "Pandas",
+    "Pinecone",
+    "Pytest",
+    "REST APIs",
+    "Vector Databases",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "Agentic Pipelines",
+    "Anthropic API",
+    "Embedding Models",
+    "Evaluation Metrics (Precision/Recall/F1)",
+    "Few-shot Learning",
+    "Gemini API",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI API",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "AsyncIO",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly builds LLM-based\nextraction/classification pipelines, agentic evaluation\npipelines, and RAG strategies. The engineer designs and\nimplements prompt variant testing, A/B measurement for model\nchanges, and automated feedback loops — all hands-on work\nbuilding and deploying AI systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "OpenAI API",
+      "Anthropic API",
+      "Gemini API",
+      "RAG",
+      "Prompt Engineering",
+      "Agentic Pipelines",
+      "Few-shot Learning"
+    ],
+    "ml": [
+      "Evaluation Metrics (Precision/Recall/F1)",
+      "Embedding Models"
+    ],
+    "web": [
+      "FastAPI",
+      "Flask",
+      "REST APIs"
+    ],
+    "databases": [
+      "MongoDB",
+      "Pinecone",
+      "Weaviate",
+      "Vector Databases"
+    ],
+    "data": [
+      "Pandas",
+      "NumPy"
+    ],
+    "cloud": [
+      "AWS Bedrock"
+    ],
+    "ops": [
+      "Pytest",
+      "Docker",
+      "Git",
+      "GitHub Actions",
+      "Jenkins",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "AsyncIO"
+    ],
+    "domains": [
+      "NLP",
+      "Document AI"
+    ],
+    "other": [
+      "OCR",
+      "PDF Parsing",
+      "A/B Testing"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

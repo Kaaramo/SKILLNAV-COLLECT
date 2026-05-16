@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-0358",
+  "source": "intl-ai-corpus",
+  "source_ref": "7847025",
+  "source_url": "https://builtin.com/job/founding-engineer-venture-backed-ai-native-law-firm/7847025",
+  "title": "Founding Engineer at Venture-Backed, AI-Native Law Firm",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Forum Ventures",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Venture-backed (Forum Ventures)",
+  "company_focus": "AI-native hybrid law firm for startups",
+  "industries": [],
+  "description": "About Us\n\nShepherd is the hybrid law firm for startups, combining AI-\npowered technology with experienced attorney oversight to\ndeliver faster, more affordable, and transparent legal\nservices. Built for early-stage companies from pre-seed\nthrough Series B, Shepherd provides fixed-cost pricing and\nglass-box transparency- eliminating the unpredictability of\ntraditional billable hours. The firm's contextual AI learns\neach client's business, risk appetite, and deal preferences,\nenabling personalized legal solutions at a fraction of\nBigLaw costs. Unlike pure technology platforms, Shepherd\nclients work directly with dedicated attorneys who provide\nstrategic guidance and relationship-driven counsel. Shepherd\nis building the future of legal services- where efficiency\nincreases client value, not just law firm margins.\n\nThe Opportunity\n\nWe’re looking for a Founding Engineer / Head of Engineering\nto own the technical vision and build the core product from\nthe ground up. This is a true founding team–level role:\nyou’ll architect the AI engine, shape the product’s data and\nworkflow systems, and lead the technical execution that\npowers the first AI-native law firm for startups.\n\nAs Founding Engineer / Head of Engineering, you’ll partner\nclosely with the CEO and CLO to turn complex legal workflows\ninto scalable, automated systems- blending LLMs, structured\ndata, and human-in-the-loop validation into a seamless,\nmodern startup experience.\n\nThis is a 0→1 product build, a leadership role, and an\nopportunity to define the technical foundations of a\ncategory-defining company.\n\nWhat You’ll Do\n\nTechnical Leadership\n\n- Architect the end-to-end technology stack for the Shepherd\n  platform (LLM infrastructure, workflow engine, database\n  design, API integrations (Slack, Docusign, ect).\n- Establish engineering best practices, technical roadmap, and\n  long-term architecture decisions.\n- Build the foundation for a secure, compliant system that\n  meets startup and enterprise legal standards.\n- Own the evaluation, fine-tuning, and deployment of LLMs for\n  contract analysis, summarization, redlining, and risk\n  scoring.\n\nProduct & AI Development\n\n- Build our core features:\n  - AI contract review and redlines\n  - Build and expand a context-aware AI\n  - Smart drafting and document automation\n  - Workflow automation (intake, tasking, approvals)\n  - Legal hub for requests, docs, alerts, and lawyer interaction\n- Design human-in-the-loop systems that blend AI speed with\n  attorney validation.\n- Translate ambiguous legal workflows into clean, reliable,\n  repeatable technical systems.\n- Work directly with early customers to validate and iterate\n  on features in real time.\n\nSecurity, Compliance & Infrastructure\n\n- Set up infrastructure that meets SOC-2 and privacy\n  standards.\n- Implement secure document storage, access controls, role-\n  based permissions, and audit trails.\n- Ensure ethical, compliant, and trustworthy use of AI models\n  across the platform.\n\nTeam & Culture\n\n- Hire and lead a world-class engineering team as we scale\n  (frontend, backend, ML/AI).\n- Build a culture of velocity, quality, and ownership.\n- Act as a technical co-founder who can communicate clearly\n  with investors, partners, and customers.\n\nWho You Are\n\n- 6–12+ years of experience as a full-stack engineer or\n  technical founder (AI/ML or workflow-heavy SaaS strongly\n  preferred).\n- Deep experience building production AI systems (LLM fine-\n  tuning, embeddings, RAG, evaluation).\n- Strong product instincts with a bias toward shipping quickly\n  and iterating.\n- Experience designing secure, scalable architectures for B2B\n  or workflow products.\n- Comfortable in ambiguity: able to turn undefined problems\n  into structured, elegant solutions.\n- Entrepreneurial DNA- you want to build, own, and scale\n  something from the ground up.\n- Bonus: experience with legal tech, fintech, compliance\n  systems, or other highly regulated verticals.\n\nWhy Join Us\n\n- Ground-Floor Equity: Ground-floor opportunity to build a\n  generational company redefining legal infrastructure.\n- Category Creation: Help build the first AI-native hybrid law\n  firm + SaaS platform for startups.\n- Technical Challenge: Blend LLMs, data, automation, and legal\n  reasoning into one seamless workflow engine.\n- Massive Market: Startups and SMBs spend $25B+ per year on\n  legal- and the shift toward automation is accelerating.\n- Mission-Driven Team: Work alongside founders building a more\n  accessible, modern, and scalable legal system.\n\nCompensation\n\n- Equity: Significant founding team equity stake\n- Cash: 140k-160k base to start, increasing with each\n  subsequent funding round\n",
+  "skills_required": [
+    "LLM deployment",
+    "LLM evaluation",
+    "LLM fine-tuning",
+    "RAG",
+    "embeddings",
+    "hiring and team building",
+    "human-in-the-loop systems",
+    "technical leadership"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect the end-to-end technology stack including LLM infrastructure, workflow engine, database design, and API integrations",
+    "Own evaluation, fine-tuning, and deployment of LLMs for contract analysis, summarization, redlining, and risk scoring",
+    "Build core AI features including contract review, context-aware AI, smart drafting, and workflow automation",
+    "Design human-in-the-loop systems that blend AI speed with attorney validation",
+    "Set up secure infrastructure meeting SOC-2 and privacy standards with proper access controls and audit trails",
+    "Hire and lead a world-class engineering team including frontend, backend, and ML/AI engineers",
+    "Work directly with early customers to validate and iterate on features in real time"
+  ],
+  "use_cases": [
+    "AI-powered contract review and automated redlining",
+    "Legal document summarization and risk scoring",
+    "Context-aware AI that learns client business preferences and risk appetite",
+    "Smart drafting and document automation for legal workflows",
+    "Workflow automation for intake, tasking, and approvals with attorney validation",
+    "Legal hub for managing requests, documents, alerts, and lawyer interactions"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "Docusign API",
+    "Kubernetes",
+    "MongoDB",
+    "Postgres",
+    "REST APIs",
+    "Redis",
+    "SOC-2 compliance",
+    "Slack API",
+    "audit trails",
+    "full-stack development",
+    "security and access controls"
+  ],
+  "frameworks_mentioned": [
+    "LLM deployment",
+    "LLM evaluation",
+    "LLM fine-tuning",
+    "RAG",
+    "embeddings",
+    "human-in-the-loop systems"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The Founding Engineer is responsible for building, fine-\ntuning, deploying, and evaluating LLMs for contract\nanalysis, summarization, redlining, and risk scoring. The\nrole involves hands-on work with RAG systems, embeddings,\nand model evaluation - directly working ON AI systems rather\nthan just supporting them.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLM fine-tuning",
+      "RAG",
+      "embeddings",
+      "LLM evaluation",
+      "LLM deployment",
+      "human-in-the-loop systems"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "Slack API",
+      "Docusign API",
+      "full-stack development"
+    ],
+    "databases": [
+      "Postgres",
+      "MongoDB",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "SOC-2 compliance"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "security and access controls",
+      "audit trails"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "technical leadership",
+      "hiring and team building"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

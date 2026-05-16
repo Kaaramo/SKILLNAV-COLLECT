@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0998",
+  "source": "intl-ai-corpus",
+  "source_ref": "7933255",
+  "source_url": "https://builtin.com/job/context-layer-gtm-engineer/7933255",
+  "title": "Marketing Platform Engineer (Data & AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Bloomreach",
+  "company_type": "entité morale privée",
+  "location": "GBR",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "600 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-powered personalization and marketing automation platform",
+  "industries": [],
+  "description": "Bloomreach is building the world’s premier agentic platform\nfor personalization.We’re revolutionizing how businesses\nconnect with their customers, building and deploying AI\nagents to personalize the entire customer journey.\n\n- We're taking autonomous search mainstream, making product\n  discovery more intuitive and conversational for customers,\n  and more profitable for businesses.\n- We’re making conversational shopping a reality, connecting\n  every shopper with tailored guidance and product expertise\n  — available on demand, at every touchpoint in their\n  journey.\n- We're designing the future of autonomous marketing, taking\n  the work out of workflows, and reclaiming the creative,\n  strategic, and customer-first work marketers were always\n  meant to do.\n\nAnd we're building all of that on the intelligence of a\nsingle AI engine — Loomi AI — so that personalization isn't\nonly autonomous…it's also consistent.From retail to\nfinancial services, hospitality to gaming, businesses use\nBloomreach to drive higher growth and lasting loyalty. We\npower personalization for more than 1,400 global brands,\nincluding American Eagle, Sonepar, and Pandora.\n\nBloomreach is seeking a Context Layer & Platform Engineer to\narchitect and maintain the intelligent data backbone\npowering our GTM AI ecosystem. In this role, you will work\nhand-in-hand with the AI Ops team, Sales, and Marketing to\ndesign and scale a centralized, real-time context retrieval\nsystem that serves 50-200 GTM agents with precision, speed,\nand minimal noise. You'll engineer the architecture so that\nagents call clean, versioned endpoints to access the right\ndata at the right time, in the right channel, at the right\nfreshness - without redundant work or data drift. You'll own\nSalesforce data quality, enrichment, and deduplication while\nsimultaneously building the infrastructure that makes our\nagents smarter, faster, and more reliable. The ideal\ncandidate combines deep technical expertise in data\npipelines and API architecture with product thinking about\nhow data flows through systems, thrives solving complex\norchestration challenges, and is motivated to turn messy\ndata into intelligence at scale.\n\nYour job will be to:\n\n- Own Salesforce data integrity: Take responsibility for data\n  quality, deduplication, and enrichment across Salesforce.\n  Use AI enriching accounts and contacts with the right\n  data, eliminating duplicates, standardizing fields,\n  validating data freshness, and ensuring that all context\n  flowing through the system is reliable. You are the keeper\n  of the single source of truth.\n- Engineer the context retrieval backbone: Design and ship\n  versioned, documented API endpoints that GTM agents call\n  to retrieve context - contacts, accounts, engagement\n  history, intent signals, enrichment data - with consistent\n  response contracts, fast latency, and intelligent\n  filtering/boosting/time-decay logic. These endpoints\n  become the foundation for scaling from 10 to 200 agents.\n- Optimize retrieval performance: Continuously tune query\n  logic, filters, boosts, and ranking algorithms so answers\n  are contextually relevant, fast (sub-second latency), and\n  cost-effective. Every agent query should return signal,\n  not noise.\n- Scale “GTM Brain” data sources without breaking agents: Add\n  new sources - product usage, web signals, third-party\n  enrichment, intent platforms - to the context layer\n  without forcing agents to rebuild their logic. Design the\n  system so agents stay stable while context grows richer.\n- Keep context fresh and resilient: Build and operate\n  background jobs that refresh context on schedule, detect\n  and fix failed re-embeddings, backfill deltas, and\n  maintain data pipelines that feed agents with up-to-date\n  intelligence without disruption or drift.\n- Enable agent developers and operators: Create starter\n  queries and templated context patterns that new agents can\n  adopt quickly. Coordinate with the enablement and AI Ops\n  teams to make context accessible to non-engineers.\n- Collaborate on vendor strategy: Help evaluate, integrate,\n  and own relationships with key vendors like N8N, Clay,\n  Rattle - ensuring their data flows cleanly into your\n  context architecture and meets our latency and freshness\n  requirements.\n- Participate in building the GTM data stack of the future:\n  Work with RevOps, and AI Ops to understand how Salesforce,\n  enrichment platforms, N8N, Supabase/Postgres, LLM tools,\n  and analytics integrate - co-creating a scalable,\n  maintainable system that can grow to support 200+ agents\n  without technical debt.\n\nYour success story will be:\n\n- Within the first 30-60 days: The first set of centralized\n  context endpoints are shipped, versioned, and documented.\n  At least 3 existing agents are migrated from custom\n  context logic to calling these endpoints. Salesforce data\n  quality audit is complete, enrichment roadmap is clear,\n  and foundational data cleanup is underway.\n- After 60-90 days: GTM Brain architecture designed, Clear\n  context layer roadmap to BigQuery, SFDC and others defined\n  and in works.\n- By 6 months: 15-20 agents are operating on the platform\n  connected to GTM Brain. Salesforce data quality has\n  improved by 40%+ (measured by duplicate rates, field\n  completeness, freshness). A new data source (usage\n  signals, enrichment vendor, etc.) has been integrated\n  without disrupting existing agents. The context layer is\n  stable and predictable enough that the AI Ops team\n  confidently plans to scale to 50+ agents.\n\nYou have the following experience and qualities:\n\n- You've built or scaled data pipelines, ETL systems, or API\n  backends that serve multiple downstream consumers - and\n  understand the discipline of versioning, backward\n  compatibility, and operational stability.\n- You know Salesforce deeply - data model, custom objects,\n  field governance, deduplication strategies, API\n  limitations - and can architect data quality processes\n  that scale.\n- You're expert with N8N, Supabase/Postgres, and API\n  integrations. You can design schemas, optimize queries,\n  version APIs, and think about performance at scale. You've\n  built systems that balance flexibility with simplicity.\n- You understand LLM-adjacent tooling and can reason about\n  prompt versioning, retrieval quality, latency trade-offs,\n  and how to structure data so agents consume it\n  predictably.\n- You love operational rigor - monitoring, alerting,\n  observability, runbooks. You believe that boring\n  infrastructure is good infrastructure, and you want to\n  measure and communicate it.\n- You're comfortable with ambiguity and can break down a big\n  architectural challenge (\"serve 200 agents with consistent\n  context\") into testable, shippable milestones.\n- You thrive in cross-functional environments and can\n  translate between data engineers, product teams, AI\n  researchers, and business stakeholders. You can speak both\n  technical and business language.\n- You're driven by the challenge of turning messy data into\n  clean intelligence - and seeing that intelligence power\n  products and decisions in real time.\n- You're curious about how GTM works and motivated to\n  understand not just the \"what\" but the \"why\" - so you\n  build systems that are useful, not just technically sound.\n- You have strong project ownership instincts - you see things\n  through from design to maintenance, and you take pride in\n  systems that run reliably at scale.\n\n#LI-KP1\n\nMore things you'll like about Bloomreach:Culture:\n\n- A great deal of freedom and trust. At Bloomreach we don’t\n  clock in and out, and we have neither corporate rules nor\n  long approval processes. This freedom goes hand in hand\n  with responsibility. We are interested in results from day\n  one.\n- We have defined our 5 values and the 10 underlying key\n  behaviors that we strongly believe in. We can only succeed\n  if everyone lives these behaviors day to day. We've\n  embedded them in our processes like recruitment,\n  onboarding, feedback, personal development, performance\n  review and internal communication.\n- We believe in flexible working hours to accommodate your\n  working style.\n- We work virtual-first with several Bloomreach Hubs available\n  across three continents.\n- We organize company events to experience the global spirit\n  of the company and get excited about what's ahead.\n- We encourage and support our employees to engage in\n  volunteering activities - every Bloomreacher can take 5\n  paid days off to volunteer*.\n- The Bloomreach Glassdoor page elaborates on our stellar\n  4.4/5 rating. The Bloomreach Comparably page Culture score\n  is even higher at 4.9/5\n\nPersonal Development:\n\n- We have a People Development Program -- participating in\n  personal development workshops on various topics run by\n  experts from inside the company. We are continuously\n  developing & updating competency maps for select\n  functions.\n- Our resident communication coach Ivo Večeřa is available to\n  help navigate work-related communications & decision-\n  making challenges.*\n- Our managers are strongly encouraged to participate in the\n  Leader Development Program to develop in the areas we\n  consider essential for any leader. The program includes\n  regular comprehensive feedback, consultations with a coach\n  and follow-up check-ins.\n- Bloomreachers utilize the $1,500 professional education\n  budget on an annual basis to purchase education products\n  (books, courses, certifications, etc.)*\n\nWell-being:\n\n- The Employee Assistance Program -- with counselors -- is\n  available for non-work-related challenges.*\n- Subscription to Calm - sleep and meditation app.*\n- We organize ‘DisConnect’ days where Bloomreachers globally\n  enjoy one additional day off each quarter, allowing us to\n  unwind together and focus on activities away from the\n  screen with our loved ones.\n- We facilitate sports, yoga, and meditation opportunities for\n  each other.\n- Extended parental leave up to 26 calendar weeks for Primary\n  Caregivers.*\n\nCompensation:\n\n- Restricted Stock Units or Stock Options are granted\n  depending on a team member’s role, seniority, and\n  location.*\n- Everyone gets to participate in the company's success\n  through the company performance bonus.*\n- We offer an employee referral bonus of up to $3,000 paid out\n  immediately after the new hire starts.\n- We reward & celebrate work anniversaries -- Bloomversaries!*\n\n(*Subject to employment type. Interns are exempt from marked\nbenefits, usually for the first 6 months.)\n\nExcited? Join us and transform the future of commerce\nexperiences!\n\nIf this position doesn't suit you, but you know someone who\nmight be a great fit, share it - we will be very grateful!\n\nAny unsolicited resumes/candidate profiles submitted through\nour website or to personal email accounts of employees of\nBloomreach are considered property of Bloomreach and are not\nsubject to payment of agency fees.\n\n#LI-Remote\n",
+  "skills_required": [
+    "LLM tooling",
+    "prompt versioning",
+    "retrieval optimization"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own Salesforce data integrity including data quality, deduplication, and enrichment while maintaining the single source of truth",
+    "Engineer the context retrieval backbone by designing versioned, documented API endpoints for GTM agents",
+    "Optimize retrieval performance through tuning query logic, filters, boosts, and ranking algorithms for sub-second latency",
+    "Scale GTM Brain data sources by integrating new sources without disrupting existing agents",
+    "Maintain context freshness through background jobs, re-embeddings, and data pipelines that prevent drift",
+    "Enable agent developers with starter queries and templated context patterns for rapid adoption",
+    "Collaborate on vendor strategy integrating tools like N8N, Clay, and Rattle into the context architecture",
+    "Build the GTM data stack coordinating with RevOps and AI Ops on Salesforce, enrichment platforms, and LLM tools integration"
+  ],
+  "use_cases": [
+    "Conversational shopping assistant providing personalized product guidance",
+    "Autonomous search for intuitive product discovery",
+    "AI-powered autonomous marketing workflow automation",
+    "Real-time customer journey personalization across touchpoints",
+    "Sales and marketing agent context retrieval and intelligence",
+    "Data enrichment and deduplication for customer relationship management"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "API versioning",
+    "BigQuery",
+    "ETL",
+    "N8N",
+    "Postgres",
+    "REST APIs",
+    "Salesforce",
+    "Supabase",
+    "alerting",
+    "data deduplication",
+    "data pipelines",
+    "data quality management",
+    "monitoring",
+    "observability",
+    "query optimization",
+    "schema design"
+  ],
+  "frameworks_mentioned": [
+    "LLM tooling",
+    "prompt versioning",
+    "retrieval optimization"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role builds the data infrastructure and API backbone\nthat enables AI agents to function, rather than building,\ntraining, or deploying the AI models themselves. The\nengineer is responsible for data pipelines, context\nretrieval systems, and API architecture that support AI\noperations - this is enabling work for AI systems, not\nhands-on AI/ML development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt versioning",
+      "retrieval optimization",
+      "LLM tooling"
+    ],
+    "ml": [],
+    "web": [
+      "API design",
+      "REST APIs",
+      "API versioning"
+    ],
+    "databases": [
+      "Salesforce",
+      "Supabase",
+      "Postgres",
+      "BigQuery",
+      "query optimization",
+      "schema design"
+    ],
+    "data": [
+      "N8N",
+      "ETL",
+      "data pipelines",
+      "data quality management",
+      "data deduplication"
+    ],
+    "cloud": [],
+    "ops": [
+      "monitoring",
+      "alerting",
+      "observability"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

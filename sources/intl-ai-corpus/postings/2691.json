@@ -1,0 +1,104 @@
+{
+  "job_id": "intl-ai-corpus-2691",
+  "source": "intl-ai-corpus",
+  "source_ref": "8971575",
+  "source_url": "https://www.builtinla.com/job/ai-engineer-intern-database-performance-knowledge/8971575",
+  "title": "AI Engineer Intern, Database Performance Knowledge",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Actian",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-04-07",
+  "publication_month": "2026-04",
+  "contract_type": "Stage",
+  "work_type_raw": "INTERN",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "unknown",
+  "company_focus": "Data management, integration, and analytics solutions",
+  "industries": [
+    "Cloud",
+    "Software",
+    "Database",
+    "Analytics"
+  ],
+  "description": "Company\n\nAt Actian we believe data should be a competitive advantage.\nThrough the deployment of data technology, underpinned by a\nrelentless and trusted service commitment, we help business\ncritical systems transact and integrate at their very best.\nAs a trusted leader in data management, integration, and\nanalytics, our mission is to helping businesses unlock the\nfull potential of their data to drive better decision-making\nand innovation wherever it resides — in the cloud, on-\npremises, or hybrid environments.\n\nWith a global team of experts and a culture of innovation,\nwe’re dedicated to helping our customers solve their most\ncomplex data challenges.\n\nInternship Overview\n\nWe are looking for interns to join us for our 2026 Summer\nInternship Program! This 12-week program is set to begin\nJune 8th, so if you are looking for an incredible\nopportunity to partner with the best and brightest minds in\nthe industry, apply today. This program has been designed\nwith our interns in mind and includes structured learning\nplans, a dedicated buddy, and a focused capstone project\nthat you will have the opportunity to present in our\nInternship Showcase!\n\nWhat It’s Like Interning with Us!\n\n- Intern Events— just because the internship is remote,\n  doesn’t mean we don’t have time for fun! Regular intern\n  events will be hosted throughout your 12-weeks with us!\n- Time with Executives— Interns all get a chance to connect\n  with our executive team through panel discussions, 1:1s,\n  Q&A meetings, and events\n- Workshops — Interns participate in workshops geared towards\n  helping new professionals\n- Opportunity to travel – we will fly you out for onsite\n  orientation at our Austin, Texas office location!\n\nPosition Overview\n\nThe position is to create a Results Augmented Generation\n(RAG) pipeline that can obtain system performance\ninformation, and relevant administrative documents for use\nby the LLM to recommend changes to the HCL Informix Database\nServer configuration.\n\nResponsibilities:\n\nNice to Haves:\n\nRequirements:\n",
+  "skills_required": [
+    "LLM integration",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build a RAG pipeline to retrieve system performance information and administrative documents",
+    "Integrate retrieved data with an LLM to generate configuration change recommendations for HCL Informix Database Server",
+    "Work with database performance metrics and documentation as knowledge sources for the RAG system",
+    "Present capstone project outcomes in the Internship Showcase at the end of the 12-week program"
+  ],
+  "use_cases": [
+    "Database performance optimization through AI-driven configuration recommendations",
+    "Automated analysis of system performance data for HCL Informix Database Server",
+    "Knowledge retrieval from administrative documents to support database tuning decisions",
+    "RAG-powered assistant for database administrators"
+  ],
+  "tools_mentioned": [
+    "HCL Informix Database Server",
+    "REST APIs",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LLM integration",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building a RAG (Retrieval-\nAugmented Generation) pipeline that integrates with an LLM\nto recommend database configuration changes. The intern will\nbe hands-on with GenAI techniques—specifically RAG\narchitecture and LLM integration—making this an ai-first\nrole.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLM integration",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "HCL Informix Database Server",
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [
+      "Database performance tuning"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

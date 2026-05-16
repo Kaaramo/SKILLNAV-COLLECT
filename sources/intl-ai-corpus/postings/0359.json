@@ -1,0 +1,150 @@
+{
+  "job_id": "intl-ai-corpus-0359",
+  "source": "intl-ai-corpus",
+  "source_ref": "7850039",
+  "source_url": "https://builtin.com/job/ai-application-engineer/7850039",
+  "title": "AI Application Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "SumerSports",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "80 Employees",
+  "company_stage": null,
+  "company_focus": "Football intelligence technology for NFL and NCAA",
+  "industries": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Sports"
+  ],
+  "description": "SumerSports is a leading football intelligence technology\ncompany that specializes in providing an innovative suite of\nproducts for football fans and NFL clubs. We are a\ncollection of executives, engineers, data scientists, and\nvisionaries from NFL clubs, technology startups, finance,\nand academia.\n\nOur data-driven platform empowers teams with insights and\ntools to make informed decisions within salary cap\nconstraints. The platform also serves the NCAA, offering\ninsights around the transfer portal and more.\n\nWhat sets us apart is our unique blend of big tech talent,\ndata scientists, and former NFL personnel, who have a\ncombined 600+ years of NFL experience. Our domain knowledge\nis augmented by AI and machine learning technologies to\ncreate a unique view into many aspects of Football.\n\nAs an AI App Engineer, you’ll be the hands-on builder behind\nthe intelligent products that make Sumer Sports unique.\nYou’ll own the end-to-end development of LLM-based\napplications — from prompt and retrieval design to\nevaluation, orchestration, and user interface integration.\n\nYou’ll work within a cross-functional product pod (with PMs,\ndesigners, and Eval Engineers) and partner closely with the\nLLMOps Platform team and Sports Data teams to ship high-\nquality, domain-aware, and trustworthy AI experiences.\n\nResponsibilities:\n\n- Design and build AI-powered user features: Implement prompt-\n  based and retrieval-augmented systems (RAG) that answer\n  complex sports questions and generate insights.\n- Build agents and workflows that combine deterministic logic\n  with LLM reasoning.\n- Prototype and iterate fast: Use prompting, tool\n  orchestration, and retrieval design to rapidly build and\n  refine AI behaviors. Collaborate with Eval Engineers to\n  build golden sets and automate quality checks before\n  release.\n- Work closely with the LLMOps Platform team: Use shared eval\n  frameworks, prompt registries, and model gateways. Provide\n  feedback loops to improve platform reliability, latency,\n  and safety.\n- Integrate with deep learning and data systems: Combine\n  structured stats, tracking data, and video-derived\n  features into AI-powered applications. Build APIs and UI\n  layers that expose insights to coaches, teams, and\n  partners.\n- Push the limits of applied AI: Explore how LLMs, retrieval,\n  and deterministic logic can create novel sports analytics\n  tools. Use AI internally to accelerate development (code\n  generation, testing, debugging).\n\nQualifications:\n\n- 5+ years of experience as a Software Engineer, ML Engineer,\n  or AI Developer.\n- Proficiency in Python and TypeScript/JavaScript (Node.js or\n  React).\n- Hands-on experience with LLM frameworks (LangChain,\n  LlamaIndex, Semantic Kernel, Haystack).\n- Strong understanding of prompt engineering, retrieval-\n  augmented generation, and evaluation workflows.\n- Ability to design robust backend systems integrating APIs,\n  vector databases, and orchestration layers.\n- Curiosity and creativity to turn ambiguous problems into\n  structured, production-quality systems.\n\nNice to Have:\n\n- Familiarity with vector databases (Pinecone, Weaviate,\n  Qdrant) and observability tools (Langfuse, Arize Phoenix,\n  Promptfoo).\n- Experience building multi-agent workflows or LLM tool-use\n  systems.\n- Understanding of sports data — especially football (tracking\n  data, player metrics, game logs).\n- Experience deploying on Vercel, AWS, or GCP with modern\n  CI/CD.\n- Comfortable working in a pod-based, cross-functional\n  environment with designers, PMs, and AI researchers.\n\nBenefits:\n\n- Competitive Salary and Bonus Plan\n- Comprehensive health insurance plan\n- Retirement savings plan (401k) with company match\n- Remote working environment\n- A flexible, unlimited time off policy\n- Generous paid holiday schedule - 13 in total including\n  Monday after the Super Bowl\n",
+  "skills_required": [
+    "Haystack",
+    "LangChain",
+    "LlamaIndex",
+    "RAG",
+    "Semantic Kernel",
+    "agents",
+    "prompt engineering",
+    "tool orchestration"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build AI-powered user features using prompt-based and retrieval-augmented systems (RAG) to answer sports questions",
+    "Build agents and workflows combining deterministic logic with LLM reasoning",
+    "Prototype and iterate rapidly using prompting, tool orchestration, and retrieval design with automated quality checks",
+    "Collaborate with LLMOps Platform team on eval frameworks, prompt registries, and model gateways",
+    "Integrate deep learning and data systems combining structured stats, tracking data, and video-derived features",
+    "Build APIs and UI layers exposing insights to coaches, teams, and partners",
+    "Explore novel sports analytics tools using LLMs, retrieval, and deterministic logic"
+  ],
+  "use_cases": [
+    "AI-powered sports analytics answering complex football questions",
+    "Domain-aware insights for NFL clubs within salary cap constraints",
+    "NCAA transfer portal analysis and recommendations",
+    "RAG systems for sports knowledge retrieval",
+    "Agent-based workflows combining structured sports data with AI reasoning",
+    "AI-assisted tools for coaches and team decision-making"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Arize Phoenix",
+    "CI/CD",
+    "GCP",
+    "Langfuse",
+    "Node.js",
+    "Pinecone",
+    "Promptfoo",
+    "Qdrant",
+    "REST APIs",
+    "React",
+    "Vercel",
+    "Weaviate",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Haystack",
+    "LangChain",
+    "LlamaIndex",
+    "RAG",
+    "Semantic Kernel",
+    "agents",
+    "prompt engineering",
+    "tool orchestration"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building LLM-based applications\nincluding RAG systems, agents, and prompt orchestration. The\nengineer is directly implementing AI features, not just\nsupporting infrastructure for other teams.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "Semantic Kernel",
+      "Haystack",
+      "prompt engineering",
+      "RAG",
+      "agents",
+      "tool orchestration"
+    ],
+    "ml": [],
+    "web": [
+      "Node.js",
+      "React",
+      "REST APIs"
+    ],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Vercel",
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Langfuse",
+      "Arize Phoenix",
+      "Promptfoo",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

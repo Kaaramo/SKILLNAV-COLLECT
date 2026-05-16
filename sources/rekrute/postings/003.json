@@ -1,0 +1,79 @@
+{
+  "job_id": "rekrute-2026-003",
+  "source": "rekrute",
+  "source_url": "https://www.rekrute.com/offre-emploi-data-scientist-recrutement-cnexia-tech-rabat-182468.html",
+  "source_ref": "182468",
+  "title": "Data Scientist",
+  "title_normalized": "DATA_SCIENTIST",
+  "company": "Cnexia Tech",
+  "company_type": "entité morale privée",
+  "location": "Rabat (Technopolis Sala-Al-Jadida)",
+  "country": "MA",
+  "remote_policy": "remote",
+  "posted_date": "2026-05-05",
+  "deadline_date": "2026-07-06",
+  "contract_type": "CDI",
+  "experience_min_years": 5,
+  "experience_max_years": 10,
+  "salary_range": null,
+  "description": "Analyze large datasets, build machine learning models including time series forecasting, generate actionable insights. Strong skills in Python (pandas, numpy), SQL, ML. Agile environment, virtual teams (EST business hours).",
+  "skills_required": [
+    "Python",
+    "pandas",
+    "numpy",
+    "scipy",
+    "SQL",
+    "SAS",
+    "Excel avancé",
+    "Machine Learning",
+    "Time Series Forecasting",
+    "Data mining"
+  ],
+  "skills_optional": [
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "responsibilities": [
+    "Data mining + extraction",
+    "ML classifiers feature selection + optimization",
+    "Data cleansing + validation",
+    "Pattern analysis sur grands volumes",
+    "Time series forecasting",
+    "Prediction systems",
+    "Stakeholder partnerships",
+    "Business flow anomaly investigations",
+    "Présentations technique + non-technique"
+  ],
+  "tools_mentioned": [
+    "pandas",
+    "numpy",
+    "scipy",
+    "SAS Enterprise Guide",
+    "Excel"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python",
+    "SAS",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "ML_CLASSIC",
+    "TIME_SERIES",
+    "BUSINESS_INTELLIGENCE"
+  ],
+  "job_family": "DATA_SCIENTIST",
+  "education_required": "Master's in software/computer engineering (Bac+5)",
+  "languages_spoken": [
+    "English",
+    "French"
+  ],
+  "scraped_at": "2026-05-14T20:38:59Z",
+  "scraper": "skillnav-playwright-mcp-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.94
+}

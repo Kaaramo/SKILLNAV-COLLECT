@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-0429",
+  "source": "intl-ai-corpus",
+  "source_ref": "8019065",
+  "source_url": "https://builtin.com/job/ai-software-engineer-python-m-f-x/8019065",
+  "title": "AI Software Engineer – Python (m/f/x)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Scalable Capital",
+  "company_type": "entité morale privée",
+  "location": "Berlin, DEU",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-12",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "488 Employees",
+  "company_stage": "Series B or later",
+  "company_focus": "Digital investment and banking platform",
+  "industries": [
+    "Fintech",
+    "Payments",
+    "Financial Services"
+  ],
+  "description": "Company Description\n\nScalable Capital is a leading digital investment and banking\nplatform with a full banking licence, empowering people\nacross Europe to shape their own finances. Scalable Broker\nmakes it easy and affordable for clients to invest\nprofessionally in stocks, ETFs, cryptocurrencies, and\nderivatives, as well as set up savings plans. Scalable\nWealth, the digital wealth management service, offers\nclients professional investment in ETF portfolios, and is\nalso adopted as a white-label solution by banks and other\nB2B partners. The company’s offerings are rounded off by\nattractive interest rates, loans, and private equity. With\nthe European Investor Exchange, Scalable Capital offers an\nexchange specifically for retail investors. Over one million\nclients have already entrusted more than €30 billion to the\nplatform.\n\nFounded in 2014, Scalable Capital now employs over 700\npeople across Munich, Berlin, Vienna, Milan, and London.\nTogether with the founding and management team, including\nErik Podzuweit and Florian Prucker, they are working on a\nnew generation of financial services.\n\nVisit our finance blog or check out our Social Media\nchannels to find out what our Expert Teams have to say.\n\nOur Company Values guide us every day in how we work and\ncollaborate. To learn more about them, you can find our\nvalues here (English).\n\nJob Description\n\nAs an AI Software Engineer in our Data Science team, you\nwill help design and deliver scalable backend and cloud\nsystems that power our AI-driven products and services.\n\nYou will design and build scalable, production-grade systems\nand APIs, with a focus on integrating modern AI capabilities\n(via APIs from OpenAI, Anthropic, Google, etc.) into real-\nworld applications.\n\nWe are not training models from scratch — instead, you will\nwork on agentic AI systems, orchestration workflows, and\ncloud-native architectures that bring AI into production at\nscale. In this newly formed work stream, you will have the\nunique opportunity to lay the foundations and set the right\ntechnical direction.\n\nResponsibilities:\n\n- Develop and maintain AI/LLM services for internal and\n  potential client-facing services, following software\n  engineering best practices\n- Design and develop appropriate architectures for deploying\n  and maintaining scalable AI-enabled solutions on AWS\n- Extend our Terraform infrastructure and CI/CD pipelines\n- Design and implement testing and monitoring components to\n  ensure the accuracy, reliability, and performance of AI-\n  integrated systems\n- Work with modern agentic workflow orchestration frameworks\n  (e.g., LangGraph) to build intelligent workflows\n- Collaborate with cross-functional teams to ensure the\n  successful integration of AI-driven features into our\n  product\n- Stay up to date with the latest industry developments in AI\n  integration, cloud architecture, and scalable backend\n  systems\n\nQualifications\n\n- Bachelor’s or Master’s degree in Computer Science, Software\n  Engineering, or a related field\n- Several years of professional software development\n  experience with Python\n- A generalist mindset with the ability to quickly learn,\n  adapt to new topics, and switch between domains such as\n  infrastructure and backend engineering\n- Experience with Docker, building CI/CD pipelines, and\n  version control systems\n- Confidence in working with cloud infrastructure (AWS\n  preferred) and Infrastructure as Code (Terraform)\n- Familiarity with modern agentic workflow orchestration\n  frameworks (e.g., LangGraph) would be a plus\n- Strong problem-solving skills, organizational skills, and a\n  hands-on mentality\n\nAdditional Information\n\n- Be part of one of the fastest-growing and most visible\n  Fintech startups in Europe, creating innovative services\n  that have a substantial impact on the lives of our\n  customers\n- Work with an international, diverse, inclusive, and ever-\n  growing team that loves creating the best products for our\n  clients\n- Be productive with the latest hardware and tools\n- Learn and grow by joining our in-house knowledge sharing or\n  career development sessions and spending your individual\n  Education Budget\n- Learn and experience German culture first hand by joining\n  our free German language classes\n- International relocation support is provided if required\n- Flexible vacation policy and the opportunity to work from\n  abroad\n- Benefit from an attractive compensation package and from the\n  company pension scheme\n- Monthly contribution of 50% for the ‘Deutschland Jobticket’\n- Say goodbye to order commissions and say hello to your\n  complimentary subscription of Scalable Capital's PRIME+\n  Broker\n- Enjoy flexible and discounted sports activities with Urban\n  Sports Club\n",
+  "skills_required": [
+    "Anthropic API",
+    "LangGraph",
+    "OpenAI API",
+    "RAG",
+    "agents"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and maintain AI/LLM services for internal and potential client-facing services, following software engineering best practices",
+    "Design and develop appropriate architectures for deploying and maintaining scalable AI-enabled solutions on AWS",
+    "Extend Terraform infrastructure and CI/CD pipelines for AI systems",
+    "Design and implement testing and monitoring components to ensure the accuracy, reliability, and performance of AI-integrated systems",
+    "Work with modern agentic workflow orchestration frameworks like LangGraph to build intelligent workflows",
+    "Collaborate with cross-functional teams to ensure the successful integration of AI-driven features into products"
+  ],
+  "use_cases": [
+    "Integrating AI capabilities into real-world financial applications and investment platforms",
+    "Building agentic AI systems for digital wealth management and brokerage services",
+    "Deploying AI-driven features for internal and client-facing financial services",
+    "Orchestrating intelligent workflows to enhance automated investment and banking operations"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Terraform",
+    "monitoring"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LangGraph",
+    "OpenAI API",
+    "RAG",
+    "agents"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building agentic AI systems and\norchestration workflows using frameworks like LangGraph,\nintegrating AI APIs (OpenAI, Anthropic, Google) into\nproduction applications. The engineer will directly\nimplement intelligent workflows and AI-enabled solutions,\nnot just support infrastructure for ML teams.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "OpenAI API",
+      "Anthropic API",
+      "agents",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform",
+      "Docker",
+      "CI/CD",
+      "monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:40+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

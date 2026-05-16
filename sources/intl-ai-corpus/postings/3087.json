@@ -1,0 +1,161 @@
+{
+  "job_id": "intl-ai-corpus-3087",
+  "source": "intl-ai-corpus",
+  "source_ref": "7412075",
+  "source_url": "https://builtin.com/job/7412075",
+  "title": "Full Stack + AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Gesture",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": null,
+  "publication_month": null,
+  "contract_type": null,
+  "work_type_raw": null,
+  "experience_level_text": null,
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Growth-stage",
+  "company_focus": "AI-powered platform connecting people and brands through\npersonalized experiences and loyalty programs",
+  "industries": [],
+  "description": "",
+  "skills_required": [
+    "LLM integration",
+    "LangChain",
+    "OpenAI API",
+    "Personalization algorithms",
+    "Predictive modeling",
+    "Prompt engineering",
+    "PyTorch",
+    "Recommendation systems",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead technical implementation of REAL.AI consumer intelligence engine including data modeling, predictive algorithms, and personalized recommendation pipelines",
+    "Architect and build loyalty program infrastructure that ties user behaviors to rewards and predictive engagement cycles",
+    "Collaborate with mobile team to implement AI-driven personalization across feeds, notifications, and product recommendations",
+    "Develop and integrate API layers between Firebase, Zoho CRM, Segment, Voucherify, and internal data warehouse (GCP)",
+    "Build scalable backend services supporting dynamic campaigns, A/B tests, and loyalty redemptions",
+    "Partner cross-functionally with data science, marketing, and product design to translate consumer behavior into actionable features",
+    "Optimize performance, ensure data integrity, and design systems for scalability across millions of users"
+  ],
+  "use_cases": [
+    "Consumer intelligence engine for predicting user intent and behavior",
+    "Personalized recommendation systems for feeds, notifications, and products",
+    "Gesture-based loyalty experiences with predictive engagement cycles",
+    "Real-time campaign optimization using behavioral data",
+    "Emotional intelligence-driven experiences that adapt to user interactions",
+    "First-party data segmentation and behavior scoring for marketing"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "BigQuery",
+    "CI/CD",
+    "Cloud Functions",
+    "Cloud Run",
+    "Docker",
+    "Express",
+    "FastAPI",
+    "Firebase",
+    "Firestore",
+    "Git",
+    "GitHub Actions",
+    "Google Cloud Platform",
+    "Jest",
+    "Node.js",
+    "PostgreSQL",
+    "Pub/Sub",
+    "React",
+    "React Native"
+  ],
+  "frameworks_mentioned": [
+    "LLM integration",
+    "LangChain",
+    "OpenAI API",
+    "Personalization algorithms",
+    "Predictive modeling",
+    "Prompt engineering",
+    "PyTorch",
+    "Recommendation systems",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on AI/ML engineering including\nbuilding REAL.AI consumer intelligence engine, implementing\npredictive modeling, personalization algorithms, and\nrecommendation systems. The engineer will integrate\nOpenAI/LangChain APIs, develop LLM-powered features, and\nwork with TensorFlow/PyTorch - directly building and\ndeploying AI models, not just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "LangChain",
+      "Prompt engineering",
+      "LLM integration"
+    ],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "Predictive modeling",
+      "Personalization algorithms",
+      "Recommendation systems"
+    ],
+    "web": [
+      "React",
+      "React Native",
+      "Node.js",
+      "FastAPI",
+      "Express"
+    ],
+    "databases": [
+      "Firestore",
+      "BigQuery",
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "Google Cloud Platform",
+      "Firebase",
+      "Cloud Functions",
+      "Pub/Sub",
+      "Cloud Run",
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "GitHub Actions",
+      "Git",
+      "Jest"
+    ],
+    "languages": [
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:03+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

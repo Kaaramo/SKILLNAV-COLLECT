@@ -1,0 +1,53 @@
+company:
+  name: IPANEMA Consulting
+  stage: null
+  focus: Cabinet d'accompagnement à la transformation numérique · 30+ ans expérience
+position:
+  title: Tech Lead Data
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities:
+  - Chaîne de livraison + coordination
+  - Planification
+  - Manager 1-4 développeurs
+  - KPI dashboards (Power BI, MS Fabrics)
+  - Modèles données analytics (cubes SSAS)
+  - Flux SSIS et Azure Data Factory
+  - Construction Datalake + catalogue données
+  - Databricks + architecture médaillon
+  - Architectures data robustes et scalables
+  use_cases:
+  - Dashboarding & reporting
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web: []
+    databases: []
+    data:
+    - databricks
+    - datalake
+    - hadoop
+    - spark
+    - sql
+    cloud:
+    - azure
+    - Azure Data Factory
+    - Azure SSAS
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - Architecture médaillon
+    - Data Science
+    - Microsoft Fabrics
+    - power bi
+    - SSIS
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '181714'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

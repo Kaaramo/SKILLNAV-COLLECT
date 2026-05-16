@@ -1,0 +1,117 @@
+{
+  "job_id": "intl-ai-corpus-1952",
+  "source": "intl-ai-corpus",
+  "source_ref": "8660156",
+  "source_url": "https://builtin.com/job/senior-software-engineer-agentic-ai/8660156",
+  "title": "Senior Software Engineer - Agentic AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Autodesk",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-05",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "13,285 Employees",
+  "company_stage": "Public",
+  "company_focus": "Design and make software for architecture, engineering,\nconstruction, manufacturing",
+  "industries": [
+    "Big Data",
+    "Cloud",
+    "Digital Media",
+    "Machine Learning",
+    "Mobile",
+    "Software",
+    "Industrial"
+  ],
+  "description": "Job Requisition ID #\n\n26WD94547\n\nPosition Overview Autodesk is building an AI-first\napplication platform that delivers a cohesive, unified\nexperience across our products—improving how users and\ninternal teams work in a modern, workflow-driven workspace.\nTo power this vision, we are growing our Pune team to build\nscalable services and core platform capabilities used across\nproducts. In this role, you will drive architectural\ndecisions, establish engineering best practices, and deliver\nhigh-impact, long-term initiatives that improve the\nplatform’s reliability, resiliency, and scalability.\nResponsibilities\n\n\n- Drive the technical vision and architecture for large-scale,\n  distributed collaboration systems\n- Diagnose complex system issues and deliver iterative, well-\n  designed solutions\n- Participate in and lead design and code reviews, upholding\n  engineering best practices\n- Automate cloud infrastructure, CI/CD pipelines, testing, and\n  observability\n- Provide technical leadership and mentor engineers while\n  fostering an inclusive, collaborative team culture\n\nMinimum Qualifications\n\n\n- 5–8 years of experience designing and building large-scale,\n  backend distributed systems in cloud environments\n- Strong proficiency in Node.js and TypeScript, with a focus\n  on writing high-quality, maintainable, and testable code\n- Deep experience with AWS, including cloud-native services,\n  infrastructure-as-code, containers, and automation (e.g.,\n  Terraform, CI/CD)\n- Solid understanding of distributed system fundamentals,\n  NoSQL databases, and non-functional requirements such as\n  performance, scalability, and resiliency\n- Proven ability to operate effectively in Agile environments,\n  contribute to technical design discussions, and make\n  sound, data-driven engineering decisions\n- Bachelor’s degree in computer science/engineering (or\n  equivalent practical experience\n\nPreferred Qualifications\n\n\n- Experience building AI-assisted or workflow automation\n  features (including agent-style workflows)\n- Exposure to Amazon Bedrock, SageMaker, or other ML/LLM\n  platforms\n- Familiarity with LLM application patterns (tool calling,\n  RAG, evaluation, guardrails)\n\n#LI-SB4\n\n#LI-Hybrid\n\nLearn More\n\nAbout Autodesk\n\nWelcome to Autodesk! Amazing things are created every day\nwith our software – from the greenest buildings and cleanest\ncars to the smartest factories and biggest hit movies. We\nhelp innovators turn their ideas into reality, transforming\nnot only how things are made, but what can be made.\n\nWe take great pride in our culture here at Autodesk – it’s\nat the core of everything we do. Our culture guides the way\nwe work and treat each other, informs how we connect with\ncustomers and partners, and defines how we show up in the\nworld.\n\nWhen you’re an Autodesker, you can do meaningful work that\nhelps build a better world designed and made for all. Ready\nto shape the world and your future? Join us!\n\nSalary transparency\n\nSalary is one part of Autodesk’s competitive compensation\npackage. Offers are based on the candidate’s experience and\ngeographic location. In addition to base salaries, our\ncompensation package may include annual cash bonuses,\ncommissions for sales roles, stock grants, and a\ncomprehensive benefits package.\n\nDiversity & Belonging We take pride in cultivating a culture\nof belonging where everyone can thrive. Learn more here:\nhttps://www.autodesk.com/company/diversity-and-belonging\n\nAre you an existing contractor or consultant with Autodesk?\n\nPlease search for open jobs and apply internally (not on\nthis external site).\n",
+  "skills_required": [
+    "Distributed systems",
+    "LLM application patterns",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Drive the technical vision and architecture for large-scale, distributed collaboration systems",
+    "Diagnose complex system issues and deliver iterative, well-designed solutions",
+    "Participate in and lead design and code reviews, upholding engineering best practices",
+    "Automate cloud infrastructure, CI/CD pipelines, testing, and observability",
+    "Provide technical leadership and mentor engineers while fostering an inclusive, collaborative team culture"
+  ],
+  "use_cases": [
+    "AI-first application platform for Autodesk products",
+    "Workflow-driven workspace for users and internal teams",
+    "Agent-style workflow automation features",
+    "Collaborative tools across design and engineering products"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Amazon Bedrock",
+    "CI/CD",
+    "Docker",
+    "NoSQL databases",
+    "SageMaker",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "LLM application patterns",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Node.js",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "Despite the \"Agentic AI\" title, the core responsibilities\nfocus on building distributed systems, cloud infrastructure,\nand platform scalability with no hands-on AI/ML work. AI is\nonly mentioned in preferred qualifications as optional\nexposure, making this an infrastructure/platform role that\nsupports AI applications.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLM application patterns"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "NoSQL databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Amazon Bedrock",
+      "SageMaker"
+    ],
+    "ops": [
+      "Terraform",
+      "CI/CD",
+      "Docker"
+    ],
+    "languages": [
+      "Node.js",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

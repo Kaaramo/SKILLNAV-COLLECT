@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-1974",
+  "source": "intl-ai-corpus",
+  "source_ref": "8675882",
+  "source_url": "https://builtin.com/job/associate-distinguished-engineer-enterprise-architect-azure-ai/8675882",
+  "title": "Associate Distinguished Engineer- Enterprise Architect (Azure AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nagarro",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-06",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "19,994 Employees",
+  "company_stage": null,
+  "company_focus": "Digital Product Engineering company building products,\nservices, and experiences at scale",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Virtual Reality",
+    "Analytics"
+  ],
+  "description": "Company Description\n\nWe are a Digital Product Engineering company that is scaling\nin a big way! We build products, services, and experiences\nthat inspire, excite, and delight. We work at scale — across\nall devices and digital mediums, and our people exist\neverywhere in the world (18000+ experts across 37 countries,\nto be exact). Our work culture is dynamic and non-\nhierarchical. We are looking for great new colleagues. That\nis where you come in!\n\nJob Description\n\n- Preferred location is NYC, but open to candidates located in\n  the East Coast\n\nRole Overview\n\nThe Solution Architect serves as the technical lead and\nplatform owner for the AI Adoption initiative. This role\ndesigns and governs the AI Landing Zone, oversees\nintegrations, ensures security and compliance, and provides\ntechnical direction for all AI use cases and platform\ncomponents. The Solution Architect ensures that the AI\nplatform is scalable, secure, interoperable, and aligned\nwith IT standards, supporting both pilot development and\nlong-term institutionalization.\n\nKey Responsibilities\n\nAI Platform & Landing Zone Architecture\n\n- Architect the AI Landing Zone, including Azure OpenAI, Azure\n  AI Foundry, Power Platform, Microsoft Fabric, and\n  Microsoft Copilot services.\n- Ensure the platform is secure, compliant, and designed to\n  scale across academic, administrative, research, and\n  healthcare environments.\n- Define and enforce governance, identity/SSO integration, and\n  infrastructure requirements.\n\nSecurity, Compliance & Responsible AI Controls\n\n- Implement architectural controls to support FERPA,\n  accessibility (WCAG/508), privacy, and institutional\n  policy requirements.\n- Ensure solutions incorporate responsible AI checks, fairness\n  validation, and observability.\n\nIntegration & Data Architecture\n\n- Design integration patterns with core client systems (SIS,\n  LMS, SSO, APIs, data sources).\n- Collaborate with the Data/Technology Lead to define secure\n  data pipelines, connectors, and access patterns.\n- Ensure interoperability and reliability across departments\n  and technical environments.\n\nUse Case Technical Design & Feasibility\n\n- Evaluate technology options (Azure OpenAI, Copilot, Power\n  Platform, Fabric) for each use case.\n- Define technical requirements, constraints, and\n  architectural components for low, medium, and high-\n  complexity use cases.\n- Provide technical guidance to developers and ML engineers\n  during design, build, and deployment.\n\nPlatform Maturity, Monitoring & MLOps\n\n- Establish CI/CD pipelines, monitoring dashboards, cost\n  transparency mechanisms, and lifecycle management\n  processes.\n- Set standards for performance, security, reliability, and\n  operational readiness.\n- Support the evolution of the platform from early pilots to\n  scalable enterprise services.\n\nTechnical Leadership & Quality Assurance\n\n- Review prototypes, solution designs, integrations, and\n  deployments for technical completeness and architectural\n  alignment.\n- Ensure consistency of implementation across teams and\n  phases.\n- Provide coaching and guidance to development and engineering\n  teams.\n\nCollaboration & Engagement\n\nThe Solution Architect works closely with the Functional\nConsultant to ensure technical designs meet functional\nneeds, with the Data/Technology Lead on integrations and\ndata architecture, and with developers on implementation.\nThe role supports the Project Manager with technical\nsequencing and risk mitigation and engages governance groups\nand ITS stakeholders as needed.\n\nQualifications\n\nRequired Skills & Experience\n\n- Expertise in cloud/enterprise architecture, preferably\n  across Azure AI services.\n- Strong understanding of identity, security, compliance\n  frameworks, and data governance.\n- Experience designing scalable AI or cloud platforms and\n  integrating enterprise systems.\n- Ability to evaluate technical feasibility, optimize\n  performance, and implement MLOps/CI-CD.\n- Strong communication skills for translating complex\n  technical concepts to non-technical stakeholders.\n\nGood to have skills: AI Application Solution Design\n(Strong), Metasonic, Microsoft Azure Artificial Inteligence\nand Machine Learning (Expert), Microsoft Fabric (Expert)\n\nAdditional Information\n\nSalary Range for NYC based candidates: $170K Gross - $220K\nGross (includes base + bonuses), depending on skills and\nyears of experience.\n\nDisclaimer: Nagarro is an equal opportunity employer. We\ncelebrate diversity and are committed to creating an\ninclusive environment for all employees. All qualified\napplicants will be afforded equal employment opportunities\nwithout discrimination based on race, creed, color, national\norigin, sex, age, disability, or marital status.\n",
+  "skills_required": [
+    "Azure OpenAI",
+    "Enterprise architecture",
+    "Microsoft Copilot",
+    "Security and compliance frameworks"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect the AI Landing Zone including Azure OpenAI, Azure AI Foundry, Power Platform, Microsoft Fabric, and Microsoft Copilot services",
+    "Implement architectural controls for FERPA, accessibility, privacy, and responsible AI compliance",
+    "Design integration patterns with core client systems (SIS, LMS, SSO, APIs, data sources)",
+    "Evaluate technology options and define technical requirements for AI use cases across different complexity levels",
+    "Establish CI/CD pipelines, monitoring dashboards, and MLOps lifecycle management processes",
+    "Review prototypes, solution designs, and deployments for architectural alignment",
+    "Provide technical guidance and coaching to developers and ML engineers",
+    "Define governance, identity/SSO integration, and infrastructure requirements"
+  ],
+  "use_cases": [
+    "Enterprise AI platform deployment across academic, administrative, research, and healthcare environments",
+    "AI adoption and institutionalization through scalable landing zone architecture",
+    "Integration of AI services with enterprise systems and data sources",
+    "Responsible AI implementation with compliance and fairness validation",
+    "Enterprise AI governance and security framework"
+  ],
+  "tools_mentioned": [
+    "API integration",
+    "Azure AI Foundry",
+    "Azure AI services",
+    "CI/CD",
+    "Data governance",
+    "MLOps",
+    "Microsoft Fabric",
+    "Power Platform",
+    "SSO integration"
+  ],
+  "frameworks_mentioned": [
+    "Azure OpenAI",
+    "Microsoft Copilot"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a platform/infrastructure architecture role focused\non designing and governing the AI Landing Zone and ensuring\nplatform scalability, security, and compliance. The role\nenables and supports AI use cases but does not directly\nbuild, train, or fine-tune AI models - it provides the\ninfrastructure and governance framework for others who\nimplement AI solutions.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Azure OpenAI",
+      "Microsoft Copilot"
+    ],
+    "ml": [],
+    "web": [
+      "API integration"
+    ],
+    "databases": [],
+    "data": [
+      "Data governance"
+    ],
+    "cloud": [
+      "Azure AI Foundry",
+      "Power Platform",
+      "Microsoft Fabric",
+      "Azure AI services",
+      "SSO integration"
+    ],
+    "ops": [
+      "CI/CD",
+      "MLOps"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": [
+      "Security and compliance frameworks",
+      "Enterprise architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-2462",
+  "source": "intl-ai-corpus",
+  "source_ref": "8903126",
+  "source_url": "https://builtin.com/job/technology-engineer-ai-ml-platform/8903126",
+  "title": "Technology Engineer - AI/ML Platform",
+  "title_normalized": "MLOPS_ENGINEER",
+  "company": "Global Software Solutions Group",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "160 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "Enterprise software solutions and AI platform engineering",
+  "industries": [
+    "Fintech",
+    "Payments",
+    "Software",
+    "Financial Services",
+    "Automation"
+  ],
+  "description": "We are seeking a highly skilled Technology Engineer\nspecializing in AI/ML Platforms, MLOps, and GenAI\ninfrastructure to design, build, and scale next-generation\nAI systems. The ideal candidate will have strong experience\nin containerized environments, model serving, and cloud-\nbased AI architecture, with a focus on performance,\nscalability, and resilience.\n\nRequirementsKey Responsibilities\n\n- Design, build, and maintain containerized applications using\n  OpenShift, OpenShift AI, Kubernetes, and Helm Charts\n- Deploy and optimize AI inference engines such as Triton\n  Inference Server and vLLM for high-performance model\n  serving\n- Lead end-to-end model lifecycle management, including\n  deployment, monitoring, scaling, and retraining workflows\n- Implement monitoring, logging, and alerting systems using\n  Prometheus and Grafana\n- Collaborate on GenAI and LLM-based projects, including\n  Agentic AI solutions\n- Build and automate CI/CD pipelines using Jenkins, Groovy,\n  Ansible, and Terraform\n- Develop automation scripts and internal tools using Python\n- Architect and manage AI/ML solutions on AWS, leveraging\n  services like SageMaker and Bedrock (preferred)\n- Build and enhance AI platforms across on-premise and cloud\n  environments\n- Ensure systems are highly scalable, fault-tolerant, and\n  performance-optimized\n- Contribute to architecture design, platform roadmap, and\n  strategic technical decisions\n\nRequired Skills & Qualifications\n\n- Bachelor’s or Master’s degree in Computer Science,\n  Engineering, or related field\n- Strong hands-on experience with:\n- Experience with CI/CD tools (Jenkins, Groovy, Ansible,\n  Terraform)\n- Proficiency in Python scripting and automation\n- Experience with monitoring tools like Prometheus and Grafana\n- Solid understanding of distributed systems, microservices,\n  and cloud-native architecture\n- Hands-on experience with AWS Cloud services (SageMaker,\n  Bedrock preferred)\n\nPreferred Qualifications\n\n- Experience working on GenAI / LLM / Agentic AI use cases\n- Knowledge of GPU acceleration and performance tuning\n- Exposure to hybrid cloud (on-prem + cloud) AI platforms\n- Familiarity with enterprise-scale AI platform engineering\n\nWhat We Offer\n\n- Opportunity to work on cutting-edge AI/GenAI platforms\n- Exposure to large-scale enterprise AI deployments\n- Collaborative and innovation-driven engineering environment\n- Competitive compensation and growth opportunities\n",
+  "skills_required": [
+    "Agentic AI",
+    "GPU acceleration",
+    "GenAI/LLM"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain containerized AI/ML applications using OpenShift, Kubernetes, and Helm Charts",
+    "Deploy and optimize AI inference engines such as Triton Inference Server and vLLM for high-performance model serving",
+    "Lead end-to-end model lifecycle management including deployment, monitoring, scaling, and retraining workflows",
+    "Implement monitoring, logging, and alerting systems using Prometheus and Grafana",
+    "Collaborate on GenAI, LLM-based, and Agentic AI solution projects",
+    "Build and automate CI/CD pipelines using Jenkins, Groovy, Ansible, and Terraform",
+    "Architect and manage AI/ML solutions on AWS leveraging SageMaker and Bedrock",
+    "Contribute to AI platform architecture design, roadmap, and strategic technical decisions"
+  ],
+  "use_cases": [
+    "High-performance model serving and inference at enterprise scale",
+    "GenAI and LLM-based application deployment",
+    "Agentic AI solution development and deployment",
+    "Enterprise AI platform engineering across hybrid cloud environments",
+    "Automated model lifecycle management and retraining workflows"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Ansible",
+    "Bedrock",
+    "CI/CD",
+    "Docker",
+    "Grafana",
+    "Helm Charts",
+    "Jenkins",
+    "Kubernetes",
+    "Microservices",
+    "OpenShift",
+    "OpenShift AI",
+    "Prometheus",
+    "SageMaker",
+    "Terraform",
+    "Triton Inference Server",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI",
+    "GPU acceleration",
+    "GenAI/LLM"
+  ],
+  "languages_programming": [
+    "Groovy",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "MLOPS_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves deploying and optimizing AI\ninference engines (Triton, vLLM), leading model lifecycle\nmanagement, collaborating on GenAI/LLM/Agentic AI solutions,\nand building AI platforms on AWS (SageMaker, Bedrock). The\nengineer is hands-on with model serving, inference\noptimization, and GenAI infrastructure — core AI/ML systems\nwork, not just support infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "GenAI/LLM",
+      "Agentic AI"
+    ],
+    "ml": [
+      "GPU acceleration"
+    ],
+    "web": [
+      "Microservices"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "SageMaker",
+      "Bedrock"
+    ],
+    "ops": [
+      "OpenShift",
+      "OpenShift AI",
+      "Kubernetes",
+      "Helm Charts",
+      "Triton Inference Server",
+      "vLLM",
+      "Prometheus",
+      "Grafana",
+      "Jenkins",
+      "Ansible",
+      "Terraform",
+      "CI/CD",
+      "Docker"
+    ],
+    "languages": [
+      "Groovy",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

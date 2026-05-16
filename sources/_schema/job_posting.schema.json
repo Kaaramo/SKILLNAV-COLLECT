@@ -1,0 +1,184 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://skillnav.example/schemas/job_posting.schema.json",
+  "title": "JobPosting",
+  "description": "Schéma d'une fiche d'offre d'emploi SKILLNAV — aligné Pydantic v2 (skillnav.schemas.job.JobExtraction). RGPD strict : aucune donnée personnelle de candidat.",
+  "type": "object",
+  "required": [
+    "job_id",
+    "source",
+    "source_url",
+    "title",
+    "company",
+    "location",
+    "country",
+    "scraped_at",
+    "scraper",
+    "rgpd_compliant",
+    "personal_data_stripped"
+  ],
+  "properties": {
+    "job_id": {
+      "type": "string",
+      "description": "Identifiant unique — format <source>-<YYYY-MM-DD>-<NNN>",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "source": {
+      "type": "string",
+      "enum": ["anapec", "emploitic", "rekrute", "linkedin-ma", "indeed-ma", "glassdoor-ma", "um6p-aim", "pages-carrieres-ma", "intl-ai-corpus"],
+      "description": "Identifiant de la source (cohérent avec sources/scraping_map/sources.json)"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL canonique de l'annonce"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "description": "Titre du poste tel que publié"
+    },
+    "title_normalized": {
+      "type": "string",
+      "description": "Titre normalisé via taxonomie (ex: 'Data Scientist Senior' → 'DATA_SCIENTIST')"
+    },
+    "company": {
+      "type": "string",
+      "description": "Nom de l'entreprise (entité morale uniquement)"
+    },
+    "company_type": {
+      "type": "string",
+      "enum": ["entité morale publique", "entité morale privée", "cabinet RH", "anonyme", "inconnu"]
+    },
+    "location": {
+      "type": "string",
+      "description": "Ville ou région du poste"
+    },
+    "country": {
+      "type": "string",
+      "description": "Code pays ISO-2",
+      "default": "MA"
+    },
+    "remote_policy": {
+      "type": "string",
+      "enum": ["on-site", "hybrid", "remote", "unknown"]
+    },
+    "posted_date": {
+      "type": ["string", "null"],
+      "description": "Date de publication ISO-8601 (YYYY-MM-DD)"
+    },
+    "contract_type": {
+      "type": ["string", "null"],
+      "enum": ["CDI", "CDD", "Stage", "Freelance", "Alternance", "Intérim", null]
+    },
+    "experience_min_years": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 30
+    },
+    "experience_max_years": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 30
+    },
+    "salary_range": {
+      "type": ["string", "null"],
+      "description": "Plage salariale en MAD ou autre devise — texte libre"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description complète du poste (texte brut)"
+    },
+    "skills_required": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Compétences explicitement requises"
+    },
+    "skills_optional": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "responsibilities": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "tools_mentioned": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Outils techniques (ex: Tableau, Power BI, Jira)"
+    },
+    "frameworks_mentioned": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Frameworks (ex: PyTorch, TensorFlow, Scikit-learn, FastAPI)"
+    },
+    "languages_programming": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "domains_iaml": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "ML_CLASSIC",
+          "DEEP_LEARNING",
+          "NLP",
+          "COMPUTER_VISION",
+          "GENERATIVE_AI",
+          "REINFORCEMENT_LEARNING",
+          "TIME_SERIES",
+          "DATA_ENGINEERING",
+          "MLOPS",
+          "BUSINESS_INTELLIGENCE",
+          "BIG_DATA",
+          "CLOUD_DATA",
+          "RESEARCH"
+        ]
+      },
+      "description": "Sous-domaines IA/ML identifiés"
+    },
+    "job_family": {
+      "type": "string",
+      "enum": [
+        "DATA_ANALYST",
+        "BUSINESS_ANALYST",
+        "DATA_SCIENTIST",
+        "DATA_ENGINEER",
+        "ML_ENGINEER",
+        "MLOPS_ENGINEER",
+        "AI_ENGINEER",
+        "NLP_ENGINEER",
+        "CV_ENGINEER",
+        "RESEARCH_SCIENTIST",
+        "GENAI_LLM_ENGINEER",
+        "DATA_ARCHITECT",
+        "OTHER"
+      ]
+    },
+    "scraped_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Datetime de scraping ISO-8601"
+    },
+    "scraper": {
+      "type": "string",
+      "description": "Version + outil scraper (ex: 'skillnav-playwright-v1.0')"
+    },
+    "rgpd_compliant": {
+      "type": "boolean",
+      "const": true
+    },
+    "personal_data_stripped": {
+      "type": "boolean",
+      "const": true,
+      "description": "Affirme qu'aucune donnée personnelle (nom recruteur, email, tél, photo) n'a été stockée"
+    },
+    "extraction_confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Score 0-1 de la qualité d'extraction (heuristique ou Pydantic AI)"
+    }
+  }
+}

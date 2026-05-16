@@ -1,0 +1,44 @@
+company:
+  name: Alten
+  stage: null
+  focus: null
+position:
+  title: Data Engineer Confirme Hf
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - bigquery
+    data:
+    - dbt
+    - etl
+    - kafka
+    - spark
+    - sql
+    cloud:
+    - gcp
+    ops:
+    - ci/cd
+    - docker
+    - kubernetes
+    languages:
+    - java
+    - python
+    - R
+    - scala
+    domains: []
+    other:
+    - Git
+    - NoSQL
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '171351'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

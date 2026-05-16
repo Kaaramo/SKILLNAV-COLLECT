@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-0512",
+  "source": "intl-ai-corpus",
+  "source_ref": "8191380",
+  "source_url": "https://builtin.com/job/ai-engineer-ii/8191380",
+  "title": "AI Engineer II",
+  "title_normalized": "AI_ENGINEER",
+  "company": "CareSource",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,668 Employees",
+  "company_stage": null,
+  "company_focus": "Healthcare and managed care services",
+  "industries": [
+    "Healthtech",
+    "Insurance"
+  ],
+  "description": "Job Summary: The AI Engineer II is responsible for software\ndevelopment related to generative AI solutions. The role\nwill work closely with cross-functional teams to ensure the\nsuccessful delivery of solutions within the defined scope,\ntimeline, and quality standards. Essential Functions:\n\n- Define and oversee the architecture for Generative AI\n  platforms, including LLMs, vector databases, and inference\n  pipelines.\n- Design and develop complex software systems, ensuring\n  scalability, reliability, and maintainability.\n- Develop and maintain a strong understanding of modern\n  generative AI tools and concepts including OpenAI, Llama,\n  Python, LangChain, vectorization, embeddings, semantic\n  search, RAG, IaC, and Streamlit.\n- Rapid development of proof of concepts to evaluate new\n  technology or value adding concepts.\n- Drive innovation and teamwork in a fast-paced, dynamic\n  environment through a hands-on, imaginative approach and a\n  self-motivated, curious mindset that explores the art of\n  the possible.\n- Embrace AI assisted software development including the use\n  of GitHub Copilot and internally developed tools.\n- Collaborate with leadership to systematically evaluate\n  currently deployed services; develop and manage plans to\n  optimize delivery and support mechanism.\n- Apply creative thinking in problem solving and identifying\n  opportunities for improvement.\n- Identify technical risks and propose effective mitigation\n  strategies to ensure project success.\n- Collaborate with product managers to prioritize and schedule\n  project deliverables based on business objectives and\n  resource availability.\n- Provide accurate and timely progress updates to project\n  stakeholders, highlighting achievements, challenges, and\n  proposed solutions.\n- Stay up to date with the latest industry trends,\n  technologies, and frameworks, and evaluate their potential\n  application in the organization.\n- Perform any other job related duties as requested.\n\nEducation and Experience:\n\n- Bachelor's degree in computer science, Information\n  Technology, or a related field required\n- Equivalent years of relevant work experience may be accepted\n  in lieu of required education\n- Three (3) years of experience working in medium to large\n  operating environment required\n- Experience with Agile methodologies required\n- Experience with cloud technologies including containers and\n  serverless preferred\n\nCompetencies, Knowledge and Skills:\n\n- Strong analytical, evaluative and problem-solving abilities\n- Knowledge of healthcare and managed care is preferred\n- Critical listening and thinking skills\n- Strong knowledge of best practices relative to application\n  development or infrastructure standards\n\nLicensure and Certification:\n\n- Cloud certification preferred\n\nWorking Conditions:\n\n- General office environment; may be required to sit or stand\n  for extended periods of time\n- Travel is not typically required\n\nCompensation Range:\n\n$83,000.00 - $132,800.00\n\nCareSource takes into consideration a combination of a\ncandidate’s education, training, and experience as well as\nthe position’s scope and complexity, the discretion and\nlatitude required for the role, and other external and\ninternal data when establishing a salary level. In addition\nto base compensation, you may qualify for a bonus tied to\ncompany and individual performance. We are highly invested\nin every employee’s total well-being and offer a substantial\nand comprehensive total rewards package.\n\nCompensation Type (hourly/salary):\n\nSalary\n\nOrganization Level Competencies\n\n- Fostering a Collaborative Workplace Culture\n- Cultivate Partnerships\n- Develop Self and Others\n- Drive Execution\n- Influence Others\n- Pursue Personal Excellence\n- Understand the Business\n\n\n\nThis job description is not all inclusive. CareSource\nreserves the right to amend this job description at any\ntime. CareSource is an Equal Opportunity Employer. We are\ndedicated to fostering an environment of belonging that\nwelcomes and supports individuals of all backgrounds.#LI-GM1\n",
+  "skills_required": [
+    "Agile methodologies",
+    "GitHub Copilot",
+    "LangChain",
+    "Llama",
+    "OpenAI",
+    "RAG",
+    "embeddings",
+    "semantic search",
+    "vectorization"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Define and oversee architecture for Generative AI platforms including LLMs, vector databases, and inference pipelines",
+    "Design and develop complex software systems ensuring scalability, reliability, and maintainability",
+    "Develop proof of concepts to evaluate new AI technologies and value-adding concepts",
+    "Drive innovation and teamwork through hands-on implementation and exploration of AI capabilities",
+    "Collaborate with leadership to evaluate deployed services and optimize delivery mechanisms",
+    "Provide progress updates to stakeholders and identify technical risks with mitigation strategies"
+  ],
+  "use_cases": [
+    "Generative AI platform architecture for enterprise applications",
+    "RAG-based semantic search systems for information retrieval",
+    "LLM-powered solutions leveraging OpenAI and Llama models",
+    "Vector database implementations for embedding-based search",
+    "AI-assisted software development workflows using GitHub Copilot and internal tools"
+  ],
+  "tools_mentioned": [
+    "IaC",
+    "Streamlit",
+    "containers",
+    "inference pipelines",
+    "serverless",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "Llama",
+    "OpenAI",
+    "RAG",
+    "embeddings",
+    "semantic search",
+    "vectorization"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building and deploying\ngenerative AI solutions including LLMs, RAG systems, vector\ndatabases, and inference pipelines. The engineer is\nresponsible for architecture design and proof of concept\ndevelopment using modern GenAI tools like LangChain and\nOpenAI APIs.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI",
+      "LangChain",
+      "Llama",
+      "RAG",
+      "embeddings",
+      "semantic search",
+      "vectorization"
+    ],
+    "ml": [],
+    "web": [
+      "Streamlit"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "serverless"
+    ],
+    "ops": [
+      "IaC",
+      "inference pipelines",
+      "containers"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "GitHub Copilot",
+      "Agile methodologies"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

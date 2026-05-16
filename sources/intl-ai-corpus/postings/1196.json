@@ -1,0 +1,163 @@
+{
+  "job_id": "intl-ai-corpus-1196",
+  "source": "intl-ai-corpus",
+  "source_ref": "8272875",
+  "source_url": "https://builtin.com/job/ai-data-knowledge-engineer/8272875",
+  "title": "AI Data & Knowledge Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Innovapptive",
+  "company_type": "entité morale privée",
+  "location": "Hyderabad, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-17",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "269 Employees",
+  "company_stage": "Series B+\"",
+  "company_focus": "AI-powered Connected Worker Platform for industrial sector",
+  "industries": [
+    "Logistics",
+    "Mobile",
+    "Software"
+  ],
+  "description": "AI Data & Knowledge Engineer (Vector + Semantic\nIntelligence)\n\nLocation: Hyderabad, IndiaEmployment Type: Full-Time;\nSalaried Compensation: Base Salary, Bonus, Stock Options,\nMedicalJob Description About Us\n\nInnovapptive is a category-defining SaaS company building\nthe world’s most advanced AI-powered Connected Worker\nPlatform for the industrial sector. Headquartered in\nHouston, TX, and backed by Vista Equity Partners,\nInnovapptive is on a mission to reimagine how industrial\nwork gets done — connecting frontline workers, back-office\nsystems, and assets in real time to drive higher safety,\nreliability, and productivity.\n\nOur platform is trusted by some of the world’s largest\nenterprises — including Shell, Hess, Cenovus Energy,\nW.R.Grace, Westlake Chemicals, UNICEF, Kimberly Clark, Scott\nMiracle Gro, and Newmont Mining to name a few, and across\nchemicals, energy, mining, and manufacturing industries.\nThese customers have achieved tangible, hard-dollar results,\nsuch as:\n\n- Over $40 million in annual EBITDA savings at a single\n  enterprise.\n- 10× frontline productivity improvements through mobile-first\n  and AI-enabled workflows.\n- 15–20% maintenance cost reductions and significant uptime\n  gains across plants and sites.\n\nInnovapptive is recognized by leading industry analysts for\nits differentiated value creation model:\n\n- Named a Leader in the Frost & Sullivan Industrial Connected\n  Worker Radar.\n- Featured by Gartner in “Connected Factory Worker” research\n  and the Hype Cycle for Manufacturing Operations Strategy.\n- Cited by LNS Research for delivering 3–5× greater value than\n  point solutions through unified OT–IT execution, AI/vision\n  innovation, and field-proven ROI.\n\nOur growth is backed by Tiger Global Management and Vista\nEquity Partners, one of the world’s premier software\ninvestors, known for scaling high-performance SaaS\ncompanies. Together, we are building the next-generation AI\nPowered Connected Worker Platform, combining cutting-edge\ntechnologies — SLM’s, Generative AI, Computer Vision, and\nIntelligent Orchestration — into a unified system that\ntransforms plant operations globally.\n\nToday, with over 300+ employees across the U.S., India, and\nANZ, Innovapptive stands at a pivotal inflection point: with\nan ambition to scale to $100M ARR within the next 3-4 years\nby industrializing every aspect of our product, engineering,\nand customer delivery systems.\n\nThe Role\n\n- The AI Data & Knowledge Engineer will architect and\n  operationalize Innovapptive’s semantic data intelligence\n  layer — building the pipelines, vector stores, and\n  retrieval frameworks that supply contextual understanding\n  to AI Agents and enterprise workflows.\n- Reporting to the VP of Technology & Architecture, this role\n  is responsible for designing the RAG (Retrieval-Augmented\n  Generation) and Vector Embedding pipelines that connect\n  industrial data (SOPs, manuals, logs, SCADA readings, SAP\n  records) with Innovapptive’s AI runtime.\n- This is a hands-on, cross-disciplinary engineering role,\n  blending data architecture, ML engineering, and semantic\n  search design to make Innovapptive’s AI Agents\n  contextually aware, accurate, and reliable.\n\nHow You Will Make An Impact\n\n1. Architect the AI Knowledge and Data Layer\n\n- Design and implement data ingestion and embedding pipelines\n  to convert structured and unstructured content into\n  vectorized representations.\n- Build a unified data schema connecting maintenance,\n  production, and safety data across SAP, Maximo, OSI PI,\n  and SCADA systems.\n- Integrate vector databases (Pinecone, Weaviate, Qdrant, or\n  Chroma) into the AI Platform (MCP) to enable context-aware\n  retrieval.\n- Optimize query efficiency and relevance through hybrid\n  search (semantic + keyword) and metadata tagging.\n\n2. Operationalize RAG (Retrieval-Augmented Generation)\n\n- Implement document chunking, embedding, and retrieval\n  pipelines for PDFs, work orders, shift logs, and incident\n  reports.\n- Develop automated retraining and re-indexing mechanisms to\n  ensure freshness of data.\n- Collaborate with AI Platform Architect to link retrieval\n  flows into agent orchestration layers.\n- Validate precision, recall, and latency metrics for semantic\n  retrieval using real production workloads.\n\n3. Build AI Data Governance and Observability\n\n- Define data lineage, quality metrics, and access control for\n  AI knowledge repositories.\n- Embed telemetry for data latency, embedding drift, and\n  retrieval accuracy into Datadog/Sentry dashboards.\n- Partner with the Chief AI Architect to enforce compliance,\n  explainability, and prompt context versioning standards.\n\n4. Collaborate Across Product and Engineering\n\n- Work with Product Managers and Solution Architects to\n  identify key use cases for AI-driven search and knowledge\n  retrieval.\n- Partner with QA to build automated test frameworks for\n  semantic accuracy and retrieval reliability.\n- Collaborate with industrial data teams to extract and\n  normalize sensor, historian, and SAP data for RAG\n  integration.\n\n5. Drive Continuous Innovation\n\n- Evaluate emerging frameworks for knowledge graphs,\n  embeddings, and contextual caching (e.g., LlamaIndex,\n  LangChain, FAISS).\n- Tune embeddings and hybrid retrieval strategies for domain-\n  specific industrial vocabulary.\n- Mentor developers on data preparation and retrieval design\n  for AI-integrated product features.\n\nWhat You Bring to The Team\n\n- 8 – 12 + years of data or ML engineering experience, with 3\n  + years in semantic search, RAG, or vector database\n  architecture.\n- Proficiency with Python, SQL, and frameworks such as\n  LangChain, LlamaIndex, or Haystack.\n- Hands-on experience with vector databases (Pinecone,\n  Weaviate, Qdrant, Chroma) and cloud data stores (AWS S3,\n  DynamoDB, Redshift).\n- Deep understanding of embedding models (OpenAI, Cohere,\n  Sentence Transformers) and performance tuning for large-\n  scale retrieval.\n- Strong data pipeline experience (Airflow, Kafka, Temporal)\n  and understanding of MLOps fundamentals.\n- Familiarity with industrial data (SAP, Maximo, OSI PI,\n  SCADA, MES) preferred.\n- Excellent communication and documentation skills — able to\n  translate data architecture into business and engineering\n  language.\n\nSuccess Metrics (FIRST 90-180 Days)\n\n- Vector Data Layer deployed with initial knowledge embeddings\n  across 2 core domains (Maintenance + Safety).\n- RAG pipelines operational, delivering ≥ 90 % retrieval\n  precision for selected test datasets.\n- Telemetry dashboards live, showing retrieval latency,\n  accuracy, and data freshness.\n- Data-to-Agent API integrated into MCP and adopted by 2+ AI\n  Agent families.\n- Knowledge Playbook published — reusable design patterns for\n  data ingestion, embeddings, and retrieval governance.\n\nWhy does this Role Matter?\n\n- The AI Data & Knowledge Engineer is the intelligence enabler\n  behind every AI Agent.Without a robust, governed, and\n  high-precision knowledge layer, AI features remain shallow\n  and disconnected.\n- This role transforms Innovapptive’s platform into a\n  contextually aware, continuously learning system — where\n  every AI decision is grounded in trusted enterprise and\n  field data.\n\nWhat We Offer\n\n- Competitive compensation and equity tied to measurable\n  impact on AI accuracy and performance.\n- A platform to shape the semantic intelligence layer of a\n  category-defining industrial SaaS company.\n- Hybrid work model — Hyderabad or remote with periodic travel\n  to Houston HQ.\n- Access to cutting-edge AI, data, and observability\n  toolchains for continuous learning and innovation.\n\nInnovapptive does not accept and will not review unsolicited\nresumes from search firms.\n\nInnovapptive is an equal opportunity employer and is\ncommitted to a diverse and inclusive workplace.  Qualified\napplicants will receive consideration for employment without\nregard to race, color, religion or creed, alienage or\ncitizenship status, political affiliation, marital or\npartnership status, age, national origin, ancestry, physical\nor mental disability, medical condition, veteran status,\ngender, gender identity, pregnancy, childbirth (or related\nmedical conditions), sex, sexual orientation, sexual and\nother reproductive health decisions, genetic disorder,\ngenetic predisposition, carrier status, military status,\nfamilial status, or domestic violence victim status and any\nother basis protected under federal, state, or local laws.\n",
+  "skills_required": [
+    "Cohere",
+    "Haystack",
+    "LangChain",
+    "LlamaIndex",
+    "Maximo",
+    "OSI PI",
+    "OpenAI Embeddings",
+    "RAG",
+    "SAP",
+    "SCADA",
+    "Semantic Search",
+    "Sentence Transformers",
+    "Vector Embeddings"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and implement data ingestion and embedding pipelines for structured and unstructured content",
+    "Build unified data schema connecting maintenance, production, and safety data across enterprise systems",
+    "Integrate vector databases into AI Platform for context-aware retrieval",
+    "Implement RAG pipelines for document chunking, embedding, and retrieval",
+    "Develop automated retraining and re-indexing mechanisms for data freshness",
+    "Build AI data governance and observability with telemetry dashboards",
+    "Collaborate with product and engineering teams on AI-driven search use cases",
+    "Evaluate and implement emerging frameworks for knowledge graphs and embeddings"
+  ],
+  "use_cases": [
+    "Industrial knowledge retrieval for frontline workers",
+    "Context-aware AI agents for maintenance operations",
+    "Semantic search across SOPs, manuals, logs, and work orders",
+    "RAG-powered question answering for industrial data",
+    "Safety and compliance information retrieval",
+    "Real-time integration of SCADA and sensor data for AI decision support"
+  ],
+  "tools_mentioned": [
+    "AWS S3",
+    "Airflow",
+    "Chroma",
+    "Datadog",
+    "DynamoDB",
+    "FAISS",
+    "Kafka",
+    "MLOps",
+    "Pinecone",
+    "Qdrant",
+    "Redshift",
+    "Sentry",
+    "Temporal",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "Cohere",
+    "Haystack",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI Embeddings",
+    "RAG",
+    "Semantic Search",
+    "Sentence Transformers",
+    "Vector Embeddings"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and operationalizing RAG\nsystems, vector embedding pipelines, and retrieval\nframeworks that directly power AI agents. The engineer works\nhands-on with vector databases, embedding models, and\nsemantic search to enable AI capabilities, making this an\nAI-first role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "Haystack",
+      "RAG",
+      "Vector Embeddings",
+      "Semantic Search"
+    ],
+    "ml": [
+      "OpenAI Embeddings",
+      "Cohere",
+      "Sentence Transformers"
+    ],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "Chroma",
+      "FAISS",
+      "DynamoDB",
+      "Redshift"
+    ],
+    "data": [
+      "Airflow",
+      "Kafka",
+      "Temporal"
+    ],
+    "cloud": [
+      "AWS S3"
+    ],
+    "ops": [
+      "Datadog",
+      "Sentry",
+      "MLOps"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "SAP",
+      "Maximo",
+      "OSI PI",
+      "SCADA"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

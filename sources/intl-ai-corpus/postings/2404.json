@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-2404",
+  "source": "intl-ai-corpus",
+  "source_ref": "8874731",
+  "source_url": "https://builtin.com/job/ai-backend-engineer/8874731",
+  "title": "AI Backend Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ford Motor Company",
+  "company_type": "entité morale privée",
+  "location": "Chennai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "175,633 Employees",
+  "company_stage": "Public",
+  "company_focus": "Automotive manufacturer with internal cyber red team",
+  "industries": [],
+  "description": "We are an internal Cyber Red Team pioneering the use of\nAgentic AI to simulate real-world adversaries. This AI-\ndriven role will heavily be dependent on automating real-\nworld attack workflows using Python and LLMs. We are looking\nfor a strong Python engineer who is curious about security\nand wants to work on automating offensive techniques using\nAI. Cyber Security background is NOT mandatory. You will\nwork directly with experienced Red Team professionals to\nconvert real attack logic into scalable, intelligent\nsystems.\n\n\nResponsibilities\n\nRESPONSIBILITIES:\n\n- Build Python-based automation around offensive security\n  tools\n- Integrate LLM APIs (OpenAI/Anthropic) into real workflows\n- Design multi-step workflows (input → tool → AI → decision →\n  next step)\n- Parse and enforce structured outputs (JSON) from AI models\n- Maintain context/state across tasks and executions\n- Develop internal APIs and wrappers for tools and services\n- Continuously improve reliability (error handling, retries,\n  edge cases)\n- Collaborate with security experts to translate attack\n  techniques into automation\n\nMUST HAVE SKILLS:\n\n- Strong Python experience (3–5 years)\n  - Experience in writing robust, production-grade Python. You\n    must be deeply comfortable with Object-Oriented\n    Programming, decorators, context managers, multi\n    threading and async logic.\n  - Write custom Python scripts and API wrappers (such as Model\n    Context Protocol servers)\n  - OOP, clean code, modular design\n  - Comfortable debugging real-world systems\n- Experience with Docker (containerization)\n- API & Backend Fundamentals\n  - REST APIs (build and consume)\n  - JSON handling, request/response lifecycle\n- Hands-on experience with LLM APIs\n  - Gemini/OpenAI\n  - Able to send prompts, parse structured responses\n  - Exposure to LangChain / LangGraph / agent frameworks\n- Familiarity with deploying code in GCP (Compute Engine or\n  Cloud Run)\n\nQualifications\n\nANY\n\nPosition Number: 75058076 Actual Date Of Posting by\ntraviraj: 18th March\n",
+  "skills_required": [
+    "Anthropic API",
+    "Gemini",
+    "LangChain",
+    "LangGraph",
+    "Model Context Protocol",
+    "OpenAI API",
+    "agent frameworks"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build Python-based automation around offensive security tools",
+    "Integrate LLM APIs (OpenAI/Anthropic) into real workflows",
+    "Design multi-step workflows (input → tool → AI → decision → next step)",
+    "Parse and enforce structured outputs (JSON) from AI models",
+    "Maintain context/state across tasks and executions",
+    "Develop internal APIs and wrappers for tools and services",
+    "Continuously improve reliability (error handling, retries, edge cases)",
+    "Collaborate with security experts to translate attack techniques into automation"
+  ],
+  "use_cases": [
+    "Automating offensive security techniques using AI",
+    "Simulating real-world cyber adversaries",
+    "Multi-step attack workflow automation",
+    "Red team operations and adversary emulation",
+    "Intelligent attack decision systems"
+  ],
+  "tools_mentioned": [
+    "Cloud Run",
+    "Compute Engine",
+    "Docker",
+    "GCP",
+    "JSON",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "Gemini",
+    "LangChain",
+    "LangGraph",
+    "Model Context Protocol",
+    "OpenAI API",
+    "agent frameworks"
+  ],
+  "languages_programming": [
+    "Object-Oriented Programming",
+    "Python",
+    "async programming",
+    "multi-threading"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building AI-powered attack automation\nsystems, integrating LLM APIs into workflows, designing\nmulti-step agent-like workflows (input → tool → AI →\ndecision → next step), and working with LangChain/LangGraph\nframeworks. The engineer is directly implementing AI agents\nthat execute adversarial simulations, not supporting\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "Gemini",
+      "LangChain",
+      "LangGraph",
+      "agent frameworks",
+      "Model Context Protocol"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "JSON"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "GCP",
+      "Compute Engine",
+      "Cloud Run"
+    ],
+    "ops": [
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Object-Oriented Programming",
+      "async programming",
+      "multi-threading"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

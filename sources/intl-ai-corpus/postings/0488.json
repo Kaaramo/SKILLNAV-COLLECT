@@ -1,0 +1,123 @@
+{
+  "job_id": "intl-ai-corpus-0488",
+  "source": "intl-ai-corpus",
+  "source_ref": "8104374",
+  "source_url": "https://builtin.com/job/ai-research-engineer/8104374",
+  "title": "AI Research Engineer",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "CSquared Labs",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-31",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "7 Employees",
+  "company_stage": null,
+  "company_focus": "LLM and agentic AI systems",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Business Intelligence",
+    "Generative AI",
+    "Big Data Analytics"
+  ],
+  "description": "About this role\n\nWe need a researcher who builds. You don't just read Arxiv;\nyou ship it. You are steeped in the nuances of LLMs and\nagentic AI, bridging the gap between training models and\napplying them to messy, real-world problems.\n\nYou are a pragmatic innovator who knows that \"State of the\nArt\" means nothing if it doesn't solve the business problem.\nYou quickly grok academic papers, but can cut through the\nnoise to deliver a working MVP. You obsess over evaluation,\nnot just principles.\n\nWhat You’ll Do\n\n- Advanced Agentic Systems: Architect and implement complex\n  agent behaviors, leveraging multi-agent hierarchies,\n  multi-trajectory inference, and RL environments to solve\n  open-ended tasks.\n- Automated Optimization: Move beyond manual prompt\n  engineering. Build and deploy automated optimization\n  pipelines (like DSPy or custom optimizers) to\n  systematically improve agent performance.\n- Rigorous Evaluation: Design and own the evaluation stack.\n  Implement LLM-as-a-judge frameworks and domain-specific\n  metrics to ensure our agents are reliable, safe, and\n  improving over time.\n- Applied Research: Translate the latest papers on RAG\n  techniques and cognitive architectures into production-\n  ready code that drives our product forward.\n\nExamples of Every-Day Work\n\n- From Paper to Prototype: Read a new paper on tree-of-thought\n  reasoning in the morning and have a working implementation\n  testing against our benchmarks by the afternoon.\n- Optimize the \"Brain\": Diagnose why an agent is hallucinating\n  in a specific edge case and deploy a targeted fix via\n  context engineering or fine-tuning, validating it with\n  regression tests.\n- Architect the Swarm: Design a communication protocol for a\n  hierarchy of agents where a \"Manager\" agent effectively\n  delegates sub-tasks to specialized \"Worker\" agents without\n  getting stuck in loops.\n- Cut the Fat: Reject a complex research proposal because a\n  simpler, heuristic-based approach solves 90% of the user's\n  problem with 10% of the compute.\n\nWhat We’re Looking For\n\n- Deep AI Fluency: You are steeped in the latest LLM research.\n  You understand the internals of Transformers, but more\n  importantly, the emergent behaviors of agentic systems.\n- Research agility: You can quickly digest papers on RAG,\n  multi-agent collaboration, and RLHF, and judge their\n  applicability to our stack.\n- Eval Obsession: You know best practices for evaluation like\n  the back of your hand. You don't trust a prompt until you\n  have the metrics to back it up.\n- Product Intuition: You grok business concepts. You propose\n  creative technical solutions that align with commercial\n  goals, not just academic curiosity.\n- MVP Mindset: You move fast. You prioritize speed of\n  iteration and learning over theoretical perfection.\n",
+  "skills_required": [
+    "DSPy",
+    "LLMs",
+    "RAG",
+    "RLHF",
+    "Transformers",
+    "agentic AI",
+    "fine-tuning",
+    "multi-agent systems",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and implement complex agent behaviors using multi-agent hierarchies, multi-trajectory inference, and RL environments",
+    "Build and deploy automated optimization pipelines for systematically improving agent performance",
+    "Design and implement evaluation frameworks including LLM-as-a-judge systems and domain-specific metrics",
+    "Translate research papers on RAG techniques and cognitive architectures into production-ready code",
+    "Diagnose and fix agent hallucinations through context engineering and fine-tuning with regression testing",
+    "Design communication protocols for hierarchical agent systems to enable effective task delegation"
+  ],
+  "use_cases": [
+    "Multi-agent collaboration systems where manager agents delegate tasks to specialized worker agents",
+    "Tree-of-thought reasoning and complex cognitive architectures for open-ended problem solving",
+    "RAG-enhanced agents with reliable information retrieval and reduced hallucination",
+    "Automated prompt optimization using frameworks like DSPy for systematic performance improvement",
+    "Rigorous evaluation systems using LLM-as-a-judge frameworks to ensure agent reliability and safety"
+  ],
+  "tools_mentioned": [
+    "LLM-as-a-judge",
+    "evaluation frameworks"
+  ],
+  "frameworks_mentioned": [
+    "DSPy",
+    "LLMs",
+    "RAG",
+    "RLHF",
+    "Transformers",
+    "agentic AI",
+    "fine-tuning",
+    "multi-agent systems",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building of AI systems including\nagent architectures, RAG implementation, automated prompt\noptimization, fine-tuning LLMs, and deploying multi-agent\nsystems. The engineer directly builds, tests, and optimizes\nAI models and agentic systems rather than supporting\ninfrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "agentic AI",
+      "multi-agent systems",
+      "RAG",
+      "DSPy",
+      "prompt engineering"
+    ],
+    "ml": [
+      "RLHF",
+      "fine-tuning",
+      "Transformers"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "evaluation frameworks",
+      "LLM-as-a-judge"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

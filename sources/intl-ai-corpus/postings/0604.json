@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-0604",
+  "source": "intl-ai-corpus",
+  "source_ref": "8281490",
+  "source_url": "https://builtin.com/job/ai-engineer/8281490",
+  "title": "Senior AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ethos",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "687 Employees",
+  "company_stage": "Series C",
+  "company_focus": "Life insurance technology and digital platform",
+  "industries": [
+    "Consumer Web",
+    "Fintech",
+    "Insurance"
+  ],
+  "description": "About Ethos\n\nEthos was built to make it faster and easier to get life\ninsurance for the next million families. Our approach blends\nindustry expertise, technology, and the human touch to find\nyou the right policy to protect your loved ones.\n\nWe leverage deep technology and data science to streamline\nthe life insurance process, making it more accessible and\nconvenient. Using predictive analytics, we are able to\ntransform a traditionally multi-week process into a modern\ndigital experience for our users that can take just minutes!\nWe’ve issued billions in coverage each month and eliminated\nthe traditional barriers, ushering the industry into the\nmodern age. Our full-stack technology platform is the\nbackbone of family financial health.\n\nWe make getting life insurance easier, faster and better for\neveryone.\n\nOur investors include General Catalyst, Sequoia Capital,\nAccel Partners, Google Ventures, SoftBank, and the\ninvestment vehicles of Jay-Z, Kevin Durant, Robert Downey Jr\nand others. This year, we were named on CB Insights' Global\nInsurtech 50 list and BuiltIn's Top 100 Midsize Companies in\nSan Francisco. We are scaling quickly and looking for\npassionate people to protect the next million families!\n\nAbout the Role\n\nWe’re building several LLM-powered copilots across critical\nworkflows (e.g., underwriting productivity, agent\nenablement, customer support, operations/compliance, fraud).\nWe need an AI engineer to own the LLM + retrieval + context\nlayer that makes these copilots accurate, auditable, fast,\nand cost-efficient.\n\nTypical stack: Python/FastAPI, Postgres + vector\n(pgvector/Pinecone/Weaviate), OpenSearch, optional graph DB,\nKubernetes + GPUs, OTEL/Datadog\n\nDuties and Responsibilities:\n\n- Production RAG: indexing, retrieval, hybrid search,\n  reranking, query rewriting, grounding, citations\n- Context Graph: entity resolution + linking + provenance;\n  graph + vector retrieval; supports multi-hop context\n- LLM orchestration: tool/function calling, structured\n  outputs, routing across model tiers, failure modes\n- GPU/inference cost optimization: batching, caching/KV reuse,\n  quantization, autoscaling; optimize $/session + latency\n- Safety + compliance: PII/PHI handling, redaction, audit\n  logs, deterministic replay, hallucination mitigation\n- LLMOps: eval harness (golden sets, regression, adversarial),\n  monitoring for quality/cost/drift\n- Design/ship the end-to-end pipeline: retrieve → assemble\n  context → generate → cite → log/monitor\n- Improve quality and trust via evaluation, feedback loops,\n  and clear evidence-backed outputs\n- Partner with product, security, and domain teams; write\n  crisp design docs; raise engineering bar\n- Ship RAG v1 with citations + measurable quality metrics\n- Deliver Context Graph v1 that improves retrieval on real\n  copilot tasks\n- Reduce cost/latency with a concrete inference optimization\n  plan shipped to prod\n\nQualifications and Skills:\n\n- 7+ years building production systems; 2+ years hands-on\n  LLMs/RAG\n- Proven RAG experience (embeddings, vector DBs, hybrid\n  search, reranking, eval)\n- Strong backend/distributed systems + observability\n- Track record shipping in high-stakes environments with\n  auditability/correctness\n- Knowledge graph / entity resolution / provenance systems\n- GPU inference optimization (vLLM/TGI/TensorRT-LLM,\n  quantization AWQ/GPTQ, batching)\n- Regulated domain experience (insurance/fintech/healthcare)\n\n#LI-Remote #LI-MK1\n\nThe US national base salary range for this full-time\nposition is $146,000 - $236,000. Our salary ranges are\ndetermined by role, level, and location. The range displayed\non each job posting reflects the minimum and maximum target\nfor new hire salaries for the position across all US\nlocations. Within the range, individual pay is determined by\nwork location and additional factors, including job-related\nskills, experience, and relevant education or training.\n\nPlease note that the compensation details listed in US role\npostings reflect the base salary only and do not include\napplicable bonus, equity, or benefits.\n\nYou can find further details of our US benefits at\nhttps://www.ethoslife.com/careers/\n\nDon’t meet every single requirement? If you’re excited about\nthis role but your past experience doesn’t align perfectly\nwith every qualification in the job description, we\nencourage you to apply anyway. At Ethos we are dedicated to\nbuilding a diverse, inclusive and authentic workplace.\n\nWe are an equal opportunity employer who values diversity\nand inclusion and look for applicants who understand,\nembrace and thrive in a multicultural world. We do not\ndiscriminate on the basis of race, religion, color, national\norigin, gender, sexual orientation, age, marital status,\nveteran status, or disability status. Pursuant to the SF\nFair Chance Ordinance, we will consider employment for\nqualified applicants with arrests and conviction records.\n\nTo learn more about what information we collect and how it\nmay be used, please refer to our California Candidate\nPrivacy Notice.\n\nRecruitment Notice: Please be aware of recruitment scams.\nAll legitimate communication from our team will only come\nfrom email addresses ending in @ethos.com or @getethos.com.\nWe will never ask for payment, banking details, or sensitive\npersonal information during the hiring process. If you are\ncontacted by someone claiming to represent us from a\ndifferent email address, please treat it as fraudulent.\n",
+  "skills_required": [
+    "LangChain",
+    "OpenAI APIs",
+    "PEFT",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and own the LLM + retrieval + context layer for multiple copilot applications across underwriting, agent enablement, customer support, and fraud workflows",
+    "Implement production RAG systems including indexing, retrieval, hybrid search, reranking, query rewriting, grounding, and citation management",
+    "Develop context graph with entity resolution, linking, provenance, graph + vector retrieval for multi-hop context",
+    "Orchestrate LLM operations with tool and function calling, structured outputs, routing across model tiers, and failure mode handling",
+    "Optimize GPU inference costs and latency through batching, caching, KV reuse, quantization, and autoscaling strategies",
+    "Implement safety and compliance features including PII/PHI handling, redaction, audit logs, deterministic replay, and hallucination mitigation",
+    "Build LLMOps infrastructure with evaluation harness using golden sets, regression testing, and adversarial testing, plus monitoring for quality, cost, and drift",
+    "Design and ship end-to-end pipelines from retrieve to assemble context to generate to cite to log/monitor with measurable quality metrics"
+  ],
+  "use_cases": [
+    "LLM-powered copilots for underwriting productivity to help insurance underwriters work more efficiently",
+    "Agent enablement tools that provide AI assistance to insurance agents during customer interactions",
+    "Customer support automation using AI to handle insurance-related inquiries and provide accurate, cited responses",
+    "Operations and compliance copilots to streamline internal workflows and ensure regulatory adherence",
+    "Fraud detection and prevention using AI to analyze patterns and identify suspicious activities in insurance applications",
+    "Multi-hop context retrieval across complex insurance documents to provide comprehensive, accurate answers to domain-specific questions"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Datadog",
+    "Docker",
+    "FastAPI",
+    "Kubernetes",
+    "OpenSearch",
+    "Pinecone",
+    "Postgres",
+    "REST",
+    "TGI",
+    "TensorRT-LLM",
+    "VLLM",
+    "Weaviate",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "OpenAI APIs",
+    "PEFT",
+    "RAG",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and deploying LLM-powered\ncopilots with hands-on work on RAG systems, LLM\norchestration, and GPU inference optimization. The engineer\ndirectly owns the LLM + retrieval + context layer,\nimplementing model-centric features like embeddings,\nreranking, and function calling.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "OpenAI APIs",
+      "RAG",
+      "prompt engineering",
+      "agents",
+      "function calling",
+      "PEFT"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "REST"
+    ],
+    "databases": [
+      "Postgres",
+      "pgvector",
+      "Pinecone",
+      "Weaviate",
+      "OpenSearch"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Datadog",
+      "VLLM",
+      "TensorRT-LLM",
+      "TGI"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

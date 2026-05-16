@@ -1,0 +1,42 @@
+company:
+  name: A2MAC1 - Decode the future
+  stage: null
+  focus: null
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai:
+    - langchain
+    ml: []
+    web:
+    - fastapi
+    databases:
+    - mongodb
+    - redis
+    data: []
+    cloud:
+    - azure
+    ops:
+    - ci/cd
+    - docker
+    - grafana
+    - prometheus
+    languages:
+    - python
+    domains:
+    - automotive
+    other:
+    - agile
+    - consulting
+    - scrum
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4363654234'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

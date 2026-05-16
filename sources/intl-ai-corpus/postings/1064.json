@@ -1,0 +1,136 @@
+{
+  "job_id": "intl-ai-corpus-1064",
+  "source": "intl-ai-corpus",
+  "source_ref": "8090210",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer/8090210",
+  "title": "Senior AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Unisys",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "22,588 Employees",
+  "company_stage": "Public",
+  "company_focus": "IT consulting and technology solutions",
+  "industries": [],
+  "description": "What success looks like in this role:\n\n- Rapidly converting ideas, business problems, and hypotheses\n  into working demonstrations & PoCs\n- Designing, building, and orchestrating Agentic AI systems,\n  including autonomous and semi-autonomous agents capable of\n  reasoning, planning, tool usage, and goal execution.\n- Leading the design and development of Generative AI\n  applications leveraging LLMs, embeddings, vector\n  databases, RAG, and multi-agent frameworks.\n- Working with Scrum/Agile teams to develop rapid prototypes\n  and work toward scalable enterprise solutions.\n- Evaluating, selecting, and integrating AI frameworks, agent\n  orchestration tools, and model providers relevant to\n  agentic and generative AI development.\n- Staying current on LLMs, agent architectures, reasoning,\n  memory, and AI best practices.\n- Learning, evaluating, and leveraging emerging AI tooling\n  ecosystems including copilots, agent builders,\n  orchestration platforms, and observability tools.\n- Self-starter working independently as well as\n  collaboratively to deliver high-impact outcomes.\n- Providing technical leadership, guidance, and mentorship to\n  junior AI engineers, fostering a culture of continuous\n  learning and innovation.\n- Demonstrating strong ownership of quality, reliability,\n  security, and productivity, using efficient development\n  practices, reusable components, and enterprise standards.\n\n#LI-LS1\n\nYou will be successful in this role if you have:\n\n- BS/BE Degree with 5-8 years of relevant experience.\n- Strong hands-on experience with Large Language Models (LLMs)\n  and their application in agent-based and autonomous\n  systems.\n- Solid understanding of Agentic AI concepts, including\n  planning, reasoning, and multi-agent collaboration.\n- Solid understanding and hands-on experience agent\n  orchestration frameworks and AI tooling ecosystems (e.g.,\n  CrewAI).\n- Proficiency with Azure AI Services, including Azure OpenAI,\n  Azure AI Doc Intelligence, Translator, etc\n- Strong understanding of Azure OpenAI GPT models, including\n  capabilities, limitations, prompt engineering, function\n  calling, tool use, and structured outputs.\n- Strong programming skills in Python, with experience\n  integrating AI services, APIs, and data pipelines.\n- Proficiency in back-end development using Python, and/or\n  Golang, with a focus on API-driven architecture.\n- Experience with databases such as PostgreSQL, and\n  familiarity with vector databases.\n- Working knowledge of at least one front-end framework such\n  as React or Angular for UI\n- Hands-on experience with cloud-native development,\n  containers, and microservices.\n- Demonstrated experience in cluster using Kubernetes, Docker,\n  Helm & platforms like Rancher\n- Familiarity with UI/UX tooling such as Figma for rapid\n  prototyping and design collaboration.\n- Cloud certifications (Azure Developer, Azure AI Engineer, or\n  equivalent) are an added advantage.\n\nUnisys is proud to be an equal opportunity employer that\nconsiders all qualified applicants without regard to age,\nblood type, caste, citizenship, color, disability, family\nmedical history, family status, ethnicity, gender, gender\nexpression, gender identity, genetic information, marital\nstatus, national origin, parental status, pregnancy, race,\nreligion, sex, sexual orientation, transgender status,\nveteran status or any other category protected by law.\n\nLocal employment practices and rights may vary by\njurisdiction and are subject to applicable local laws. This\ncommitment includes our efforts to provide for all those who\nseek to express interest in employment the opportunity to\nparticipate without barriers.\n\n\n\nIf you are a US job seeker unable to review the job\nopportunities herein, or cannot otherwise complete your\nexpression of interest, without additional assistance and\nwould like to discuss a request for reasonable\naccommodation, please contact our Global Recruiting\norganization at GlobalRecruiting@unisys.com. US job seekers\ncan find more information about Unisys’ EEO commitment here.\n",
+  "skills_required": [
+    "Agentic AI",
+    "CrewAI",
+    "Figma",
+    "Function Calling",
+    "LLMs",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and orchestrate Agentic AI systems with autonomous and semi-autonomous agents",
+    "Lead development of Generative AI applications using LLMs, embeddings, vector databases, RAG, and multi-agent frameworks",
+    "Rapidly convert business problems into working demonstrations and proof of concepts",
+    "Evaluate, select, and integrate AI frameworks, agent orchestration tools, and model providers",
+    "Develop rapid prototypes with Scrum/Agile teams and scale to enterprise solutions",
+    "Provide technical leadership, guidance, and mentorship to junior AI engineers"
+  ],
+  "use_cases": [
+    "Autonomous and semi-autonomous agent systems with reasoning, planning, tool usage, and goal execution",
+    "Enterprise Generative AI applications using RAG architecture and LLM-powered document intelligence",
+    "Multi-agent collaboration frameworks for complex problem-solving",
+    "AI-powered copilot and agent builder solutions",
+    "Cloud-native AI applications with microservices architecture"
+  ],
+  "tools_mentioned": [
+    "API-driven Architecture",
+    "Angular",
+    "Azure AI Doc Intelligence",
+    "Azure AI Services",
+    "Azure OpenAI",
+    "Docker",
+    "Helm",
+    "Kubernetes",
+    "Microservices",
+    "PostgreSQL",
+    "Rancher",
+    "React",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "Agentic AI",
+    "CrewAI",
+    "Function Calling",
+    "LLMs",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Golang",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building Agentic AI systems including\nautonomous agents, multi-agent frameworks, and Generative AI\napplications using LLMs, RAG, and vector databases. The\nhands-on work with LLMs, prompt engineering, function\ncalling, and agent orchestration tools clearly indicates\nthis is an AI-first role focused on constructing AI systems\nrather than supporting them.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "Agentic AI",
+      "RAG",
+      "Prompt Engineering",
+      "Function Calling",
+      "CrewAI"
+    ],
+    "ml": [],
+    "web": [
+      "React",
+      "Angular",
+      "Microservices",
+      "API-driven Architecture"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure OpenAI",
+      "Azure AI Services",
+      "Azure AI Doc Intelligence"
+    ],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Helm",
+      "Rancher"
+    ],
+    "languages": [
+      "Python",
+      "Golang"
+    ],
+    "domains": [],
+    "other": [
+      "Figma"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

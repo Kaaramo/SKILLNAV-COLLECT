@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-1288",
+  "source": "intl-ai-corpus",
+  "source_ref": "8380448",
+  "source_url": "https://builtin.com/job/software-engineer-ai-platform/8380448",
+  "title": "Software Engineer - AI Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Superblocks",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-02",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "60 Employees",
+  "company_stage": null,
+  "company_focus": "AI platform for non-engineers to create enterprise software",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Enterprise Web",
+    "Natural Language Processing",
+    "Software",
+    "App development",
+    "Automation"
+  ],
+  "description": "Superblocks is building the frontier platform that enables a\nbillion non engineers to create software with AI. We are\nreinventing how enterprises build internal systems and\nredefining the future of SaaS.\n\nOur platform is powered by Clark, an AI agent backed by\norganizational memory that can explore company data and\ngenerate enterprise software within strict security,\ncompliance, and execution boundaries. Clark executes\nuntrusted code in secure sandboxes and runs applications\nglobally with low latency. You’ll design the systems that\nmake Clark accurate, safe, and production-ready at scale.\n\nWhat you will work on\n\n- An AI memory system with short-term memory, persistent\n  memory, and organizational knowledge graphs, plus data\n  exploration for humans and agents.\n- AI agents that generate, execute, debug, and test code,\n  handling failures and feedback so non-engineers can ship\n  production applications.\n- A centralized governance layer where IT admins can see and\n  control apps, workflows, users, agents, secrets, and\n  policies.\n\nWhat we look for\n\n- Strong background in backend systems, platforms and database\n  design.\n- Experience building agentic systems, LLM applications, or\n  orchestration frameworks\n- Experience with security, sandboxing, or isolation in\n  distributed systems\n- Deep intuition for model behavior, evaluation, and\n  performance tradeoffs\n- Ability to design simple abstractions over complex AI and\n  systems problems\n\nWhy this role matters\n\n- You will define how AI agents run safely in production at\n  global scale\n- You will solve problems at the boundary of agentic AI,\n  security, and distributed systems\n- You will help build the platform that turns AI into\n  dependable software infrastructure\n\nCompensation\n\nThe base pay range for this role is $175,000 – $275,000 per\nyear.\n",
+  "skills_required": [
+    "Agentic systems",
+    "LLM applications",
+    "Model evaluation",
+    "Orchestration frameworks",
+    "Prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build AI memory systems with short-term memory, persistent memory, and organizational knowledge graphs",
+    "Develop AI agents that generate, execute, debug, and test code for non-engineers",
+    "Create data exploration capabilities for both humans and AI agents",
+    "Build a centralized governance layer for IT admins to control apps, workflows, users, agents, and policies",
+    "Design systems to ensure AI agents run safely in production at global scale",
+    "Implement security, sandboxing, and isolation for distributed AI systems"
+  ],
+  "use_cases": [
+    "Non-engineers creating enterprise software through AI-powered platform",
+    "AI agents exploring company data and generating applications within security boundaries",
+    "Executing untrusted code in secure sandboxes with low latency globally",
+    "Organizational memory and knowledge graphs for AI agent context",
+    "Centralized IT governance and control over AI-generated applications and workflows"
+  ],
+  "tools_mentioned": [
+    "Backend systems",
+    "Database design",
+    "Distributed systems",
+    "Knowledge graphs",
+    "Sandboxing",
+    "Security"
+  ],
+  "frameworks_mentioned": [
+    "Agentic systems",
+    "LLM applications",
+    "Model evaluation",
+    "Orchestration frameworks",
+    "Prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building AI agents, an AI memory\nsystem, and agentic systems powered by LLMs. The engineer\nwill work on making AI agents accurate, safe, and\nproduction-ready at scale, including code generation,\nexecution, debugging, and evaluation of model behavior.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Agentic systems",
+      "LLM applications",
+      "Orchestration frameworks",
+      "Prompt engineering"
+    ],
+    "ml": [
+      "Model evaluation"
+    ],
+    "web": [
+      "Backend systems"
+    ],
+    "databases": [
+      "Database design"
+    ],
+    "data": [
+      "Knowledge graphs"
+    ],
+    "cloud": [],
+    "ops": [
+      "Security",
+      "Sandboxing",
+      "Distributed systems"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,130 @@
+{
+  "job_id": "intl-ai-corpus-2171",
+  "source": "intl-ai-corpus",
+  "source_ref": "8787983",
+  "source_url": "https://builtin.com/job/senior-ai-engineer-platform/8787983",
+  "title": "Senior AI Engineer - Platform",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PhysicsX",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-18",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "67 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-driven simulation software for engineering and\nmanufacturing across advanced industries",
+  "industries": [
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "About us\n\nPhysicsX is a deep-tech company with roots in numerical\nphysics and Formula One, dedicated to accelerating hardware\ninnovation at the speed of software.\n\nWe are building an AI-driven simulation software stack for\nengineering and manufacturing across advanced industries. By\nenabling high-fidelity, multi-physics simulation through AI\ninference across the entire engineering lifecycle, PhysicsX\nunlocks new levels of optimization and automation in design,\nmanufacturing, and operations — empowering engineers to push\nthe boundaries of possibility. Our customers include leading\ninnovators in Aerospace & Defense, Materials, Energy,\nSemiconductors, and Automotive.\n\nThe Mission\n\nWe’re looking for a hands-on Senior AI Platform Engineer to\nbuild the foundations of how AI agents transform Engineering\nworkflows across industries such as Manufacturing,\nAerospace, and Semi-conductor. You'll be building the\nfoundations that power next-generation simulation and design\ntools used by industry-leading engineering teams. Our\nplatform allows Forward Deployed Engineers (FDEs) and\ncustomers to build and deploy deep learning surrogates that\nsolve massive engineering challenges.\n\nYour mission is to build and scale the Agentic stack within\nthis wider ecosystem. You will implement a production-grade\nplatform that enables our Product teams, FDEs, and customers\nto compose advanced AI workflows safely, transparently, and\nreliably.\n\n- You will own delivery of key workstreams within our\n  platform's critical infrastructure.\n- You have practical experience running agents in production\n  and understand the failure modes (\"scar tissue\").\n- You are familiar with emerging open standards (such as MCP,\n  A2A, and ACP) and have experience with patterns like\n  durable execution and agent memory.\n- You are passionate about building a world-class developer\n  experience.\n\nCore Responsibilities\n\nYou will own key workstreams within our Agentic ecosystem.\n\n- Full-Stack Observability: Implement deep tracing and cost\n  tracking to ensure visibility across the agent lifecycle.\n- Deployment Patterns: Build tooling that simplifies auth,\n  discoverability, and resource management for deployed\n  agents.\n- Sandboxing Implementation: Implement secure runtime\n  environments that isolate agents and enforce safety\n  policies.\n- Systematic Evals: Build the feedback loops that allow domain\n  experts to annotate traces and generate evaluation\n  datasets.\n- Enterprise Governance: Apply identity and access controls\n  (RBAC, OIDC) to ensure agents act securely in a multi-\n  tenant environment.\n\nThe Tech Stack\n\n- Core Platform: Python (Primary), Go or TypeScript\n  (Secondary), Kubernetes, Docker, Terraform.\n- Agentic Infrastructure: LangGraph/LangChain, Temporal\n  (Durable Execution), Vector DBs (Pinecone/Weaviate).\n- Observability & Evals: OTel, LangSmith, Arize, Braintrust.\n\nWho You Are\n\n- A Systems Builder: You care about code quality, reliability,\n  and maintainability. You prefer boring, working solutions\n  over complex, fragile ones.\n- Platform-First: You care deeply about the Developer\n  Experience (DevEx). You build tools that help other\n  engineers move faster.\n- Security-Minded: You understand the risks of executing LLM-\n  generated code and implementing proper safeguards.\n\nQualifications\n\n- Platform & Backend Foundations:\n  - 3+ years of experience in Platform Engineering, Backend, or\n    SRE.\n  - Strong proficiency in Python/Go, Kubernetes, Docker, and IaC\n    (Terraform).\n- Agentic & AI Engineering:\n  - Production experience designing Agentic architectures\n    (chains, tools, memory).\n  - Familiarity with Agentic frameworks (LangGraph, PydanticAI)\n    and patterns like durable execution.\n  - Understanding of LLM-specific lifecycle issues: non-\n    determinism, systematic evals, and token-based cost\n    tracking.\n\nBonus Points\n\n- Background in Engineering workflows or simulation platforms.\n- Experience building internal developer platforms (IDPs).\n\n\n\nWe value diversity and are committed to equal employment\nopportunity regardless of sex, race, religion, ethnicity,\nnationality, disability, age, sexual orientation or gender\nidentity. We strongly encourage individuals from groups\ntraditionally underrepresented in tech to apply. To help\nmake a change, we sponsor bright women from disadvantaged\nbackgrounds through their university degrees in science and\nmathematics.\n\n\n\nWe collect diversity and inclusion data solely for the\npurpose of monitoring the effectiveness of our equal\nopportunities policies and ensuring compliance with UK\nemployment and equality legislation. This information is\nconfidential, used only in aggregate form, and will not\ninfluence the outcome of your application.\n",
+  "skills_required": [
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "OIDC",
+    "PydanticAI",
+    "RBAC"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and scale the Agentic stack within the engineering simulation platform",
+    "Implement full-stack observability including deep tracing and cost tracking across the agent lifecycle",
+    "Build deployment patterns and tooling for auth, discoverability, and resource management for deployed agents",
+    "Implement secure sandboxing environments to isolate agents and enforce safety policies",
+    "Build systematic evaluation feedback loops for domain experts to annotate traces and generate evaluation datasets",
+    "Apply enterprise governance including identity and access controls (RBAC, OIDC) for multi-tenant security",
+    "Own delivery of key workstreams within the platform's critical infrastructure"
+  ],
+  "use_cases": [
+    "AI-driven multi-physics simulation for engineering and manufacturing",
+    "Deep learning surrogates for solving massive engineering challenges in Aerospace and Defense",
+    "Simulation and design optimization for Semiconductor and Materials industries",
+    "Automotive engineering design and manufacturing workflows",
+    "Enabling engineers to build and deploy AI-powered simulation tools"
+  ],
+  "tools_mentioned": [
+    "Arize",
+    "Braintrust",
+    "Docker",
+    "Kubernetes",
+    "LangSmith",
+    "OTel",
+    "Pinecone",
+    "Temporal",
+    "Terraform",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LangGraph",
+    "MCP",
+    "PydanticAI"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and scaling the Agentic\nstack that powers AI agents transforming engineering\nworkflows. The engineer will implement production-grade\nagent systems using LangGraph/LangChain, implement agent\nobservability, sandboxing, and deployment patterns - all\nhands-on work deploying and managing AI agents.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "LangChain",
+      "PydanticAI",
+      "MCP"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Pinecone",
+      "Weaviate"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Temporal",
+      "LangSmith",
+      "Arize",
+      "OTel",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Braintrust"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "OIDC",
+      "RBAC"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,142 @@
+{
+  "job_id": "intl-ai-corpus-2371",
+  "source": "intl-ai-corpus",
+  "source_ref": "8862359",
+  "source_url": "https://builtin.com/job/staff-engineer-crm-salesforce-ai-enabled-application-development/8862359",
+  "title": "Staff Engineer, CRM Salesforce (AI-enabled Application Development)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nagarro",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "19,994 Employees",
+  "company_stage": "Public",
+  "company_focus": "Digital product engineering and IT services",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Virtual Reality",
+    "Analytics"
+  ],
+  "description": "Company Description\n\n👋🏼We're Nagarro.\n\nWe are a Digital Product Engineering company that is scaling\nin a big way! We build products, services, and experiences\nthat inspire, excite, and delight. We work at scale across\nall devices and digital mediums, and our people exist\neverywhere in the world (17700+ experts across 39 countries,\nto be exact). Our work culture is dynamic and non-\nhierarchical. We're looking for great new colleagues. That's\nwhere you come in!\n\nJob Description\n\nREQUIREMENTS:\n\n- Total Experience 6+ Years\n- Strong hands-on experience in Salesforce development,\n  including Apex, LWC, Aura, Flows, SOQL/SOSL, and API\n  integrations.\n- Proficiency with Salesforce DX and DevOps processes.\n- Experience with AI-driven development tools, generative AI\n  assistants, prompt engineering, and AI-based testing.\n- Understanding of ML model integration, NLP, and predictive\n  analytics.\n- Hands-on experience with CI/CD pipelines, Git version\n  control, and static code analysis tools.\n- Excellent problem-solving, analytical, and communication\n  skills.\n- Preferred experience with Salesforce AI tools (Einstein GPT,\n  Einstein Next Best Action) and relevant Salesforce\n  certifications\n\nRESPONSIBILITIES:\n\n- Writing and reviewing great quality code\n- Integrate AI tools, including generative AI coding\n  assistants, into Salesforce development workflows.\n- Use AI for Apex, Lightning Web Components (LWC), Aura, and\n  integration code generation and optimization.\n- Implement AI-based code reviews, quality checks, and\n  automated documentation generation.\n- Design, develop, and maintain Salesforce solutions using\n  Apex, LWC, Aura Components, SOQL/SOSL, Salesforce Flows,\n  and REST/SOAP APIs.\n- Utilize Salesforce DX and DevOps tools to streamline\n  development, deployment, and CI/CD pipelines.\n- Work with AI-driven testing tools, prompt engineering, and\n  ML model integration via APIs.\n- Apply NLP and predictive analytics concepts where\n  applicable.\n- Manage source control using Git and implement CI/CD\n  pipelines using Jenkins, Azure DevOps, GitHub Actions, or\n  similar tools.\n- Use static code analysis tools to ensure code quality and\n  adherence to standards.\n- Collaborate with development, QA, and release teams to embed\n  AI-driven automation across the SDLC.\n- Provide guidance on best practices for AI integration in\n  Salesforce development to ensure scalable and maintainable\n  solutions.\n\nQualifications\n\nBachelor’s or master’s degree in computer science,\nInformation Technology, or a related field.\n",
+  "skills_required": [
+    "Einstein GPT",
+    "Einstein Next Best Action",
+    "Generative AI coding assistants",
+    "ML model integration via APIs",
+    "NLP",
+    "Predictive analytics",
+    "Prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Write and review high-quality Salesforce code",
+    "Integrate AI tools and generative AI coding assistants into Salesforce development workflows",
+    "Use AI for Apex, Lightning Web Components (LWC), Aura, and integration code generation and optimization",
+    "Implement AI-based code reviews, quality checks, and automated documentation generation",
+    "Design, develop, and maintain Salesforce solutions using Apex, LWC, Aura Components, SOQL/SOSL, Salesforce Flows, and REST/SOAP APIs",
+    "Utilize Salesforce DX and DevOps tools to streamline development, deployment, and CI/CD pipelines",
+    "Work with AI-driven testing tools, prompt engineering, and ML model integration via APIs",
+    "Provide guidance on best practices for AI integration in Salesforce development"
+  ],
+  "use_cases": [
+    "CRM application development with AI-assisted coding workflows",
+    "Salesforce solution development and customization",
+    "Automated code generation and optimization for Salesforce platforms",
+    "AI-enhanced software development lifecycle automation",
+    "Predictive analytics integration in CRM systems"
+  ],
+  "tools_mentioned": [
+    "AI-based testing tools",
+    "Aura Components",
+    "Azure DevOps",
+    "CI/CD pipelines",
+    "Git version control",
+    "GitHub Actions",
+    "Jenkins",
+    "Lightning Web Components (LWC)",
+    "REST/SOAP APIs",
+    "SOQL/SOSL",
+    "Salesforce Apex",
+    "Salesforce DX",
+    "Salesforce Flows",
+    "Static code analysis tools"
+  ],
+  "frameworks_mentioned": [
+    "Einstein GPT",
+    "Einstein Next Best Action",
+    "Generative AI coding assistants",
+    "ML model integration via APIs",
+    "NLP",
+    "Predictive analytics",
+    "Prompt engineering"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Salesforce CRM development role where AI tools are\nused to enhance the development workflow (code generation,\ntesting, documentation), not to build AI systems themselves.\nThe role focuses on Salesforce development with AI\nassistants augmenting the process rather than building,\ntraining, or deploying ML models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt engineering",
+      "Generative AI coding assistants",
+      "Einstein GPT",
+      "Einstein Next Best Action"
+    ],
+    "ml": [
+      "NLP",
+      "Predictive analytics",
+      "ML model integration via APIs"
+    ],
+    "web": [
+      "Salesforce Apex",
+      "Lightning Web Components (LWC)",
+      "Aura Components",
+      "Salesforce Flows",
+      "REST/SOAP APIs"
+    ],
+    "databases": [
+      "SOQL/SOSL"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Salesforce DX",
+      "CI/CD pipelines",
+      "Git version control",
+      "Jenkins",
+      "Azure DevOps",
+      "GitHub Actions",
+      "AI-based testing tools",
+      "Static code analysis tools"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

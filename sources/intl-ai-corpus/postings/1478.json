@@ -1,0 +1,127 @@
+{
+  "job_id": "intl-ai-corpus-1478",
+  "source": "intl-ai-corpus",
+  "source_ref": "8489789",
+  "source_url": "https://builtin.com/job/full-stack-developer-cloud-ai-automation/8489789",
+  "title": "Full Stack Developer (Cloud & AI Automation)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Unisys",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "22,588 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global IT services and solutions",
+  "industries": [],
+  "description": "What success looks like in this role:\n\n- Java Application (Enhancement & Support)· Provide ongoing\n  maintenance, bug fixing, and production support for the\n  existing application.· Analyze, design, and implement\n  feature enhancements to meet evolving business\n  requirements.· Ensure stable integration between front-end\n  and backend components.· Maintain and optimize code\n  quality, performance, and reliability through code\n  reviews, testing, and documentation.· Collaborate with\n  cross-functional teams including QA, Product,\n  andInfrastructure.\n\nTech Stack:\n\n· Front-end: Angular, TypeScript\n\n· Backend: Java/J2EE, Spring Boot\n\n· Database: MySQL\n\n· Messaging: RabbitMQ\n\n· APIs: REST API\n\nCloud Infrastructure & Automation\n\n· Work with Azure and AWS cloud platforms to deploy and\nmanage application infrastructure.\n\n· Design and implement Infrastructure as Code (IaC) using\nTerraform to automate resource provisioning and\nconfiguration.\n\n· Collaborate with DevOps teams to build and maintain CI/CD\npipelines, monitoring, and automation workflows.\n\n· Utilize cloud services to enhance system scalability,\nperformance, and cost efficiency.\n\n· Participate in infrastructure troubleshooting and\nenvironment optimization.\n\nAgentic AI Development\n\n· Contribute to building intelligent AI-driven agents using\nLarge Language Models (LLMs).\n\n· Leverage frameworks like LangChain, LangGraph, and ReAct\n(Reasoning and Acting) to enable contextual AI workflows.\n\n· Develop AI orchestration scripts and automation tools\nusing Python.\n\n· Apply prompt engineering principles to fine-tune AI\ninteractions.\n\n· Implement mechanisms for short-term and long-term memory\nin agentic systems\n\n#LI-BN1\n\nYou will be successful in this role if you have:\n\nBachelor of Engineering with over 6 years’ relevant\nexperience OR equivalent combination of education and\nexperience\n\n- · 5–8 years of proven experience in full-stack development\n  for production-grade enterprise applications.· Proficiency\n  in Angular, TypeScript, Java/J2EE, Spring Boot, MySQL,\n  RabbitMQ, and REST APIs.· Working knowledge of Azure\n  and/or AWS cloud services.· Hands-on experience with\n  Terraform for IaC and infrastructure automation.·\n  Understanding of DevOps principles, CI/CD pipelines, and\n  environment management.· Strong Python programming skills\n  for AI workflows or automation scripting.· Familiarity\n  with LLMs, LangChain, LangGraph, and ReAct frameworks.·\n  Understanding of prompt engineering and context management\n  concepts.· Experience with version control systems such as\n  Git.\n\nUnisys is proud to be an equal opportunity employer that\nconsiders all qualified applicants without regard to age,\nblood type, caste, citizenship, color, disability, family\nmedical history, family status, ethnicity, gender, gender\nexpression, gender identity, genetic information, marital\nstatus, national origin, parental status, pregnancy, race,\nreligion, sex, sexual orientation, transgender status,\nveteran status or any other category protected by law.\n\nLocal employment practices and rights may vary by\njurisdiction and are subject to applicable local laws. This\ncommitment includes our efforts to provide for all those who\nseek to express interest in employment the opportunity to\nparticipate without barriers.\n\n\n\nIf you are a US job seeker unable to review the job\nopportunities herein, or cannot otherwise complete your\nexpression of interest, without additional assistance and\nwould like to discuss a request for reasonable\naccommodation, please contact our Global Recruiting\norganization at GlobalRecruiting@unisys.com. US job seekers\ncan find more information about Unisys’ EEO commitment here.\n",
+  "skills_required": [
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "ReAct"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Provide ongoing maintenance, bug fixing, and production support for existing Java applications",
+    "Analyze, design, and implement feature enhancements to meet evolving business requirements",
+    "Work with Azure and AWS cloud platforms to deploy and manage application infrastructure",
+    "Design and implement Infrastructure as Code using Terraform to automate resource provisioning",
+    "Build intelligent AI-driven agents using Large Language Models (LLMs)",
+    "Develop AI orchestration scripts and automation tools using Python"
+  ],
+  "use_cases": [
+    "Agentic AI workflows with contextual reasoning",
+    "Enterprise application maintenance and enhancement",
+    "Cloud infrastructure automation and deployment",
+    "AI-driven automation tools and scripts",
+    "Memory-enabled agentic AI systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Angular",
+    "Azure",
+    "CI/CD",
+    "Git",
+    "MySQL",
+    "REST API",
+    "RabbitMQ",
+    "Spring Boot",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "Prompt engineering",
+    "ReAct"
+  ],
+  "languages_programming": [
+    "Java",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on development of agentic AI systems\nusing LLMs, LangChain, and LangGraph. The developer will\nbuild intelligent agents, implement memory mechanisms, and\nperform prompt engineering - all direct work on AI systems\nrather than supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "LangChain",
+      "LangGraph",
+      "ReAct",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "Angular",
+      "Spring Boot",
+      "REST API"
+    ],
+    "databases": [
+      "MySQL"
+    ],
+    "data": [
+      "RabbitMQ"
+    ],
+    "cloud": [
+      "Azure",
+      "AWS"
+    ],
+    "ops": [
+      "Terraform",
+      "CI/CD",
+      "Git"
+    ],
+    "languages": [
+      "Java",
+      "TypeScript",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

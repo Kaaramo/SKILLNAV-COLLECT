@@ -1,0 +1,106 @@
+{
+  "job_id": "intl-ai-corpus-1875",
+  "source": "intl-ai-corpus",
+  "source_ref": "8605379",
+  "source_url": "https://builtin.com/job/ai-infrastructure-engineer/8605379",
+  "title": "AI Infrastructure Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Version 1",
+  "company_type": "entité morale privée",
+  "location": "Mumbai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-25",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,000 Employees",
+  "company_stage": "Established",
+  "company_focus": "Technology and transformation consulting solutions",
+  "industries": [
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Company Description\n\nVersion 1 has celebrated 30 years in business and continues\nto be trusted by global brands to deliver technology and\ntransformation solutions that drive customer success. Our\ndeep expertise enables our customers to navigate the rapidly\nevolving technology landscape. We foster strong partnerships\nwith global technology leaders including Microsoft, AWS,\nOracle, Red Hat, OutSystems, Snowflake, ensuring that our\ncustomers are provided with the highest quality solutions\nand services.\n\n We’re an award-winning employer reflecting how our\nemployees are at the very heart of  what we do:\n\n- UK & Ireland's premier AWS, Microsoft & Oracle partner\n- 3300+ strong, €350/£300m revenue business\n- 10+ years as a Great Place to Work in Ireland & UK\n- Best Workplace for Women in the UK & Ireland by GPTW\n- Best Workplace for Wellbeing in the UK by GPTW\n\nWe’re a core values [link to values] driven company, we hire\npeople who share our values, and we reward those who display\nand foster them, it’s deeply embedded within our DNA. Invest\nin us and we’ll invest in you.\n\nJob Description\n\nStaff AI Infrastructure Engineer / AI Infrastructure\nConsultant •    Location: Mumbai, India, Hybrid(3 Days) •\nStaff-level platform engineer for production AI systems •\nArchitects AI infrastructure across training, inference, and\nMLOps •    Deep Kubernetes, cloud, and CI/CD experience •\nOwns reliability, security, and scalability of AI platforms\n•    Strong Go or Python skills with hands-on AI coding\nassistants •    8 to 12 plus years building and operating\nenterprise-grade platforms\n\nQualifications\n\n\n\n- Strong Go or Python skills with hands-on AI coding\n  assistants\n- 8 to 12 plus years building and operating enterprise-grade\n  platforms\n\nAdditional Information\n\n At Version 1, we believe in providing our employees with a\ncomprehensive benefits package that prioritises their\nwellbeing, professional growth, and financial stability.\n\n- Share in our success with our Quarterly Performance-Related\n  Profit Share Scheme, where employees collectively benefit\n  from a share of our company's profits\n- Strong Career Progression & mentorship coaching through our\n  Strength in Balance & Leadership schemes with a dedicated\n  quarterly Pathways Career Development programme\n- Flexible/remote working, Version 1 is tremendously\n  understanding of life events and people’s individual\n  circumstances and offer flexibility to help achieve a\n  healthy work life balance\n- Financial Wellbeing initiatives including; Pension, Private\n  Healthcare Cover, Life Assurance, Financial advice and an\n  Employee Discount scheme\n- Employee Wellbeing schemes including Gym Discounts, Bike to\n  Work, Fitness classes, Mindfulness Workshops, Employee\n  Assistance Programme and much more. Generous holiday\n  allowance, enhanced maternity/paternity leave,\n  marriage/civil partnership leave and special leave\n  policies\n- Educational assistance, incentivised certifications, and\n  accreditations, including AWS, Microsoft, Oracle, and Red\n  Hat\n- Reward schemes including Version 1’s Annual Excellence\n  Awards & ‘Call-Out’ platform.\n- Environment, Social and Community First initiatives allow\n  you to get involved in local fundraising and development\n  opportunities as part of fostering our diversity,\n  inclusion and belonging schemes.\n\nAnd many more exciting benefits… drop us a note to find out\nmore.\n\nVideo links:\n\nhttps://www.youtube.com/watch?v=F_d3ELTH5zo\n",
+  "skills_required": [
+    "AI coding assistants"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect AI infrastructure spanning training, inference, and MLOps pipelines",
+    "Build and operate production-grade AI platforms and systems",
+    "Own reliability, security, and scalability of AI infrastructure",
+    "Design and implement Kubernetes-based container orchestration for AI workloads",
+    "Develop and maintain CI/CD pipelines for AI systems deployment",
+    "Collaborate with AI teams to provide robust infrastructure for model development and deployment",
+    "Implement monitoring and observability for AI platform health"
+  ],
+  "use_cases": [
+    "Production AI system infrastructure and deployment",
+    "MLOps pipeline enablement",
+    "AI model training infrastructure",
+    "AI inference and serving platforms",
+    "Enterprise-grade AI platform reliability"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "MLOps",
+    "Microsoft Azure"
+  ],
+  "frameworks_mentioned": [
+    "AI coding assistants"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an infrastructure/platform role supporting AI\nsystems rather than building AI models directly. The focus\nis on architecting and operating the underlying platforms\n(Kubernetes, cloud, CI/CD) that enable AI workloads, not on\ntraining models, fine-tuning LLMs, or implementing AI\nalgorithms.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI coding assistants"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Microsoft Azure"
+    ],
+    "ops": [
+      "Kubernetes",
+      "CI/CD",
+      "MLOps",
+      "Docker"
+    ],
+    "languages": [
+      "Go",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

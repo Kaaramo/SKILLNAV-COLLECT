@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-0059",
+  "source": "intl-ai-corpus",
+  "source_ref": "6768326",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai/6768326",
+  "title": "Senior Software Engineer, AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Imprint",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-26",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "59 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Co-branded credit cards and financial products",
+  "industries": [
+    "Fintech",
+    "Payments",
+    "Financial Services"
+  ],
+  "description": "Who We Are\n\nImprint is reimagining co-branded credit cards & financial\nproducts to be smarter, more rewarding, and truly brand-\nfirst. We partner with companies like Crate & Barrel,\nRakuten, Booking.com, H-E-B, Fetch, and Brooks Brothers to\nlaunch modern credit programs that deepen loyalty, unlock\nsavings, and drive growth. Our platform combines advanced\npayments infrastructure, intelligent underwriting, and\nseamless UX to help brands offer powerful financial\nproducts—without becoming a bank.\n\nCo-branded cards account for over $300 billion in U.S.\nannual spend—but most are still powered by legacy banks.\nImprint is the modern alternative: flexible, tech-forward,\nand built for today’s consumer. Backed by Kleiner Perkins,\nThrive Capital, and Khosla Ventures, we’re building a world-\nclass team to redefine how people pay—and how brands grow.\nIf you want to work fast, solve hard problems, and make a\nreal impact, we’d love to meet you.\n\nLearn more about us on Imprint's Technology blog.\n\nThe Role\n\nWe’re looking for a creative, technical self-starter to\nbuild the platform that runs agents at Imprint, along with\nthe first 50 agents running on that platform to transform\nthe efficiency of Imprint’s internal teams and processes. As\nan AI Engineer, you’ll develop Imprint’s agent platform and\niterate on taking those agents from toys to critical\ncapabilities. We already benefit from an array of off-the-\nshelf AI tools internally - ChatGPT, Claude, Notion AI,\nGemini, etc. - and are looking for a dedicated engineer to\napply AI (by which we really mean LLM) techniques across the\ncompany.\n\nYou’ll work end-to-end, partnering with organizations across\nImprint to integrate with internal systems and ship\nvaluable, secure agent-based interfaces. You’ll be trusted\nto move fast, experiment ambitiously, and scale what works.\n\nThe ideal candidate is a self-starter who thrives in\nambiguity, loves building, and understands how to balance\npragmatism with technical vision. You should be comfortable\nstitching together APIs one day and wrangling embeddings or\nRAG pipelines the next. This work will require a mix of\ncustomer-centric product development, hands-on experience\nwith modern AI frameworks, software engineering\nfundamentals, and a passion for automation. If you're\nexcited by the opportunity to create leverage across every\ncorner of a growing company, we'd love to meet you.\n\nWhat You'll Do\n\nPlatform & Agent Development\n\n- Design Imprint's internal agent platform from the ground up\n- Create 50+ specialized AI agents automating workflows across\n  engineering, operations, customer success, finance, and\n  business development\n\nCross-Functional integration\n\n- Build secure, scalable agent orchestration systems\n  integrating with our existing tech stack\n- Partner with teams across Imprint to identify high-impact\n  automation opportunities\n- Integrate AI with internal systems (CRMs, data warehouses,\n  communication tools, proprietary platforms)\n- Transform manual processes into intelligent, self-improving\n  workflows\n- Create intuitive interfaces, making advanced AI accessible\n  to non-technical users\n\nTechnical Innovation\n\n- Rapidly prototype using cutting-edge AI frameworks and\n  models\n- Implement RAG pipelines, embedding systems, and multi-modal\n  AI solutions\n- Balance experimental innovation with production reliability\n  and security\n\nWhat We Look For\n\n- Strong proficiency in programming languages such as Go (our\n  primary backend language), Java, Python, or similar\n  languages\n- Experience with AI/ML frameworks (OpenAI API, Claude API,\n  Gemini)\n- Production experience with cloud platforms (AWS or GCP) and\n  modern CI/CD practices using tools like GitHub Actions,\n  ArgoCD, or similar\n- Deep understanding of LLMs, prompt engineering, and agent\n  frameworks\n- Experience with RAG architectures and model evaluation\n- Knowledge of AI safety and security practices\n- Customer-centric approach translating business needs into\n  technical solutions\n- Experience building internal tools and developer-facing\n  products\n- Strong API design and system integration skills\n\nPerks & Benefits\n\n- Competitive compensation and equity packages\n- Leading configured work computers of your choice\n- Flexible paid time off\n- Fully covered, high-quality healthcare, including fully\n  covered dependent coverage\n- Additional health coverage includes access to One Medical\n  and the option to enroll in an FSA\n- 20 weeks of paid parental leave for the primary caregiver\n  and 8 weeks for all new parents\n- Access to industry-leading technology across all of our\n  business units, stemming from our philosophy that we\n  should invest in resources for our team that foster\n  innovation, optimization, and productivity\n\nImprint is committed to a diverse and inclusive workplace.\nImprint is an equal opportunity employer and does not\ndiscriminate on the basis of race, national origin, gender,\ngender identity, sexual orientation, protected veteran\nstatus, disability, age, or other legally protected status.\nImprint welcomes talented individuals from all backgrounds\nwho want to build the future of payments and rewards. If you\nare passionate about FinTech and eager to grow, let’s move\nthe world forward, together.\n",
+  "skills_required": [
+    "Claude API",
+    "Gemini",
+    "OpenAI API",
+    "RAG architectures",
+    "agent frameworks",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design Imprints internal agent platform from the ground up",
+    "Create 50+ specialized AI agents automating workflows across engineering, operations, customer success, finance, and business development",
+    "Build secure, scalable agent orchestration systems integrating with existing tech stack and internal systems",
+    "Partner with teams across Imprint to identify high-impact automation opportunities and transform manual processes into intelligent workflows",
+    "Implement RAG pipelines, embedding systems, and multi-modal AI solutions using cutting-edge frameworks",
+    "Rapidly prototype with LLM APIs while balancing experimental innovation with production reliability and security"
+  ],
+  "use_cases": [
+    "Automating internal workflows across multiple departments including engineering, operations, finance, and business development",
+    "Integrating AI agents with internal systems like CRMs, data warehouses, and communication tools to streamline operations",
+    "Creating intelligent, self-improving workflows that replace manual processes and increase team efficiency",
+    "Building secure agent orchestration systems that leverage LLMs for process automation",
+    "Enabling non-technical users to access advanced AI capabilities through intuitive interfaces"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "ArgoCD",
+    "CI/CD",
+    "GCP",
+    "GitHub Actions"
+  ],
+  "frameworks_mentioned": [
+    "Claude API",
+    "Gemini",
+    "OpenAI API",
+    "RAG architectures",
+    "agent frameworks",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building an internal AI agent platform\nfrom scratch, creating 50+ specialized agents using LLM\ntechniques, implementing RAG pipelines and embedding\nsystems, and working directly with AI frameworks like\nOpenAI/Claude APIs. The engineer will hands-on develop,\ndeploy, and iterate on agent-based solutions, not just\nsupport others who build AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Claude API",
+      "Gemini",
+      "prompt engineering",
+      "agent frameworks",
+      "RAG architectures"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "GitHub Actions",
+      "ArgoCD",
+      "CI/CD"
+    ],
+    "languages": [
+      "Go",
+      "Java",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

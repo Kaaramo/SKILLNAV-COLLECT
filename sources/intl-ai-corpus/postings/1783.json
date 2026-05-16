@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-1783",
+  "source": "intl-ai-corpus",
+  "source_ref": "7780832",
+  "source_url": "https://builtin.com/job/backend-engineer/7780832",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Light (light.inc)",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "56 Employees",
+  "company_stage": "Early-stage (backed by world-class investors, small team defining new category)",
+  "company_focus": "Smart Financial Platform replacing legacy ERPs with modern,\nautomated accounting and financial software",
+  "industries": [
+    "Information Technology",
+    "Software"
+  ],
+  "description": "Retire the ERP.\n\nLight exists to replace factory-era ERPs with software that\nfeels alive. Our Smart Financial Platform gives modern,\nglobal companies superpowers—automated accounting, real-time\nreporting, and financial flows that move at the speed of the\nbusiness. We build with our customers, ship fast, and obsess\nover craft. In a short time, Light has gone from idea to the\noperating core for leading companies like Lovable, Legora,\nand Keyshot. People don’t just use Light—they enjoy it.\nWe’re an early team defining a new software category. Think\nengineers who love debits and credits, designers who care\nabout reconciliation states, and operators who treat finance\nas a product. If you’re excited to modernize how the world\nruns money—one workflow at a time—you’re in the right place.\nBacked by world-class investors and advised by industry\ntitans, we’re building category-defining products with the\nfreedom to ship ambitiously and own outcomes. Come help us\nmake Light the global default for next-gen finance.\n\nThis AI Engineer role\n\nWe're looking for builders who can take a customer problem\nfrom idea to production, wherever in the stack it lives. At\nLight, AI writes code and the bottleneck has shifted from\nwriting to thinking, so we want engineers who work end-to-\nend and ship things that matter.\n\nWe are primarily hiring at mid-level for this role. Junior\ncandidates who are exceptional and genuinely AI-native are\nwelcome. Senior candidates will be considered by exception;\nwe have strong technical leadership and the bar is high.\n\nYour qualifications:\n\n2-6 years of experience ideally, plus...\n\n- You build things. Not prototypes, not demos. Working\n  software in production, doing something real for real\n  users. This is the non-negotiable.\n- You're genuinely AI-native. You've changed the way you work\n  because of AI tooling, not just added it to your workflow.\n  You have an instinct for where it helps, where it\n  misleads, and how to use it without losing ownership of\n  the outcome.\n- You've built with LLMs. You have hands-on experience\n  building products or features on top of large language\n  models. Agents are a bonus, but working knowledge of how\n  LLMs behave in production is a must.\n- You're comfortable across the stack. You don't need to be a\n  specialist in everything, but you can't have a lane you\n  refuse to leave. Our stack is Kotlin and React. If you're\n  strong in one and curious about the rest, that works. If\n  you need someone else to handle the other side of the\n  feature, it doesn't.\n- You care about the product. You think about the person on\n  the other end. You notice when something feels clunky,\n  even if it technically works. You have opinions about what\n  good software feels like and you act on them.\n- You ship early and often. Small batches. Learn. Go again.\n  You're not precious about your work. You'd rather put\n  something real in front of a customer than spend another\n  week perfecting it in isolation.\n\nBonus points:\n\n- Experience in fintech or systems where data integrity is\n  non-negotiable\n- Familiarity with accounting concepts: debits, credits,\n  reconciliation\n- Background in high-growth startups where everything was\n  still being figured out\n\nOur Tech Stack:\n\nWe build on AWS, with a Kotlin backend, a React frontend,\nand infrastructure managed in Terraform. It's a real\nproduction system that global finance teams depend on every\nday. You don't need to have used every piece of it. You do\nneed to be comfortable in this kind of environment: real\nscale, real customers, real stakes.\n\nThe good stuff\n\nIn addition to being part of a great team and working in a\nreally fun and innovative environment, we offer:\n\n💸 A competitive salary + potential stock options 🏝 25 days\nof annual leave + public holidays in the country where you\nare based. 🥳 Regular socials and company off-sites 🚀 A huge\nopportunity for career growth as you'll help shape a market-\ndefining product.\n\nThe famous last words\n\nWorking at Light means you're embarking on an exciting\njourney to reshape the future of multinational financial\noperations. Our cheat-code is that we've built something\nlike this before - and are now doing it again, only better.\nOur goal is to make global finance effortless and empower\ncompanies to make informed decisions.\n\nJoin the rocket ship while it's taking off 🚀\n",
+  "skills_required": [
+    "Agents",
+    "LLMs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and ship production-ready software features end-to-end across the full stack",
+    "Develop AI-powered products and features on top of large language models",
+    "Solve customer problems from idea to production deployment",
+    "Work with Kotlin backend and React frontend to deliver financial software",
+    "Collaborate with customers to understand needs and iterate quickly",
+    "Maintain data integrity in financial systems where accuracy is non-negotiable",
+    "Ship early and often with small batches, learning from real user feedback"
+  ],
+  "use_cases": [
+    "Automated accounting for modern global companies",
+    "Real-time financial reporting and analytics",
+    "Financial workflow automation that moves at the speed of business",
+    "Reconciliation and financial data integrity systems",
+    "Modern ERP replacement for enterprise finance operations"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "React",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Agents",
+    "LLMs"
+  ],
+  "languages_programming": [
+    "Kotlin",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role requires hands-on experience building products on\ntop of LLMs with working knowledge of how LLMs behave in\nproduction. While it's a generalist engineering role (not\npurely ML), the AI-native requirement and LLM production\nexperience indicate direct work deploying and building with\nAI/LLM systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "Agents"
+    ],
+    "ml": [],
+    "web": [
+      "React"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform"
+    ],
+    "languages": [
+      "Kotlin",
+      "SQL"
+    ],
+    "domains": [
+      "Accounting concepts",
+      "Fintech systems"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

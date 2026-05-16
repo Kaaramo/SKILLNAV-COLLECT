@@ -1,0 +1,45 @@
+{
+  "job_id": "rekrute-2026-017",
+  "source": "rekrute",
+  "source_url": "https://www.rekrute.com/offre-emploi-data-analyst-hf-recrutement-inetum-casablanca-179661.html",
+  "source_ref": "179661",
+  "title": "Data Analyst Hf",
+  "title_normalized": "DATA_ANALYST",
+  "company": "Inetum",
+  "company_type": "entité morale privée",
+  "location": "Casablanca",
+  "country": "MA",
+  "remote_policy": "on-site",
+  "posted_date": "2026-02-09",
+  "deadline_date": "09/04/2026",
+  "contract_type": "CDI",
+  "experience_min_years": 1,
+  "experience_max_years": 3,
+  "salary_range": null,
+  "description": "Dans le cadre du renforcement de notre équipe Data, nous recherchons un Ingénieur / Analyste Data chargé de : Analyser les besoins métiers et traduire les exigences fonctionnelles en spécifications techniques. Participer aux activités de développement et/ou de recette dans le cadre de projets BI. Concevoir, optimiser et maintenir des requêtes SQL complexes sous Oracle. Exploiter et analyser les données issues des environnements Big Data. Participer aux phases de tests (tests fonctionnels, tests d’intégration, recette). Assurer le suivi des anomalies et contribuer à leur résolution. Collaborer avec les équipes SI, métiers et techniques pour garantir la qualité et la fiabilité des livrables.",
+  "skills_required": [
+    "SQL",
+    "Hadoop",
+    "Hive",
+    "Big Data"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "Hadoop",
+    "Hive"
+  ],
+  "languages_programming": [
+    "SQL"
+  ],
+  "domains_iaml": [],
+  "job_family": "DATA_ANALYST",
+  "education_required": "Bac +5",
+  "scraped_at": "2026-05-14T21:00:00Z",
+  "scraper": "skillnav-curl-batch-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.85,
+  "extraction_method": "google_search_url + curl_html + python_regex_extraction"
+}

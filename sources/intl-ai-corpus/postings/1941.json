@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-1941",
+  "source": "intl-ai-corpus",
+  "source_ref": "8650913",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai-agents/8650913",
+  "title": "Senior Software Engineer, AI Agents",
+  "title_normalized": "AI_ENGINEER",
+  "company": "DataSnipper",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam, NLD",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-04",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "215 Employees",
+  "company_stage": "Unicorn (bootstrapped, $1B valuation)",
+  "company_focus": "AI-powered audit automation and assurance software embedded\nin Excel",
+  "industries": [
+    "Productivity",
+    "Software",
+    "Automation"
+  ],
+  "description": "We are looking for a Senior Software Engineer to join the AI\nAgents Team at DataSnipper. You will build the intelligence\nlayer that orchestrates the full assurance lifecycle from\nrisk assessment to control testing, evidence gathering, and\ndocumentation generation, directly reducing manual effort\nand accelerating audit outcomes for our customers.\n\nThis is a hands-on engineering role in a high-caliber team\nthat moves fast and holds a high bar. You will design and\nimplement AI-powered agents, drive architectural decisions\nand help shape the future of automated assurance.\n\nWhy DataSnipper?  Audit and finance are still massively\nmanual — and we’re changing that.\n\nDataSnipper is a $1B, bootstrapped unicorn with 600,000+\nusers across 180+ countries, already embedded in the daily\nworkflows of top audit and accounting firms. Now, we’re\ntaking things further with our Excel Agent — bringing AI\ndirectly into where the work actually happens. Unlike\ngeneric AI tools, we don’t sit on the sidelines. Our AI\noperates inside Excel, with access to real documents and\naudit evidence — meaning it doesn’t just generate answers,\nit does the work, with full traceability.\n\nWe’re not just applying AI — we’re redefining how audit gets\ndone. If you want to build something category-defining at\nscale, this is the place.\n\nWhat You Will DoTechnical Delivery\n\n- Design and implement AI-powered agents that automate\n  assurance workflows, analyzing Excel files and documents\n  using natural language commands\n- Build and maintain production APIs and services in a Python\n  monorepo (FastAPI, Pydantic AI, MongoDB)\n- Integrate with Azure and its AI services for document\n  intelligence, blob storage, and cloud infrastructure\n- Contribute to the React chat interface that provides an\n  interactive experience for users\n- Implement security controls aligned with OWASP GenAI\n  security protocols\n\nArchitecture & Quality\n\n- Architect services and systems using well-established design\n  principles, anticipating future use cases\n- Produce robust, production-ready code that anticipates edge\n  cases; review for correctness, design quality, and\n  maintainability\n- Raise the engineering bar through technical mentorship,\n  high-quality code reviews, and establishing best practices\n- Use quality metrics to identify gaps and recommend\n  improvements aligned with testing frameworks\n- Diagnose complex issues across services and use operational\n  data (MLflow, Grafana) to drive stability improvements\n\nCollaboration & Impact\n\n- Break down epics, align team dependencies, and manage\n  ambiguity for the team\n- Design solutions with product partners, refine team roadmap,\n  and simplify technical approaches\n- Foster a culture of documentation and knowledge sharing\n  within the team and with business stakeholders\n- Integrate AI tools into workflows, critically evaluate AI\n  outputs, and contribute to team-level AI adoption\n\nWhat You Will Bring:Must-Have\n\n- 7+ years in software engineering, with strong proficiency in\n  Python, its eco-system and tooling\n- Experience building and deploying GenAI-based applications\n- Proficient with AI-assisted Engineering (we use Claude Code)\n- Solid experience building and maintaining data-driven Web\n  APIs on any cloud platform\n- Strong fundamentals of software architecture and system\n  design\n- Experience with testing strategies (unit, integration, E2E)\n  and a quality-first mindset\n- Excellent communication and collaboration skills\n\nNice-to-Have\n\n- Experience building and deploying agentic applications in\n  production\n- Experience in the audit domain or fintech\n- Experience with document processing technologies\n- Experience with observability tools\n\nWhat We Offer:\n\n- Be part of one of the fastest-growing, profitable unicorn\n  scale-ups in the Netherlands with a global impact\n- Equity (Stock Appreciation Rights) to share the company's\n  success and growth\n- Excellent salary package, competitive for top tech talent\n- Pension plan with a 6% contribution on top of your base\n  salary\n- 28 vacation days per year (full-time) to support your work-\n  life balance\n- Hybrid work model with at least 3 days onsite in our dynamic\n  Amsterdam office\n- Daily, freshly prepared lunches by our in-house chef to keep\n  you energized\n- Parking and NS card for easy commuting to the office\n- Access to continuous learning and development initiatives to\n  grow your skills\n- Engage with a vibrant international team spread across five\n  global offices\n- Company-wide events like DataSnipper GO where global teams\n  come together\n- Access to OpenUp, a mental health and wellness platform\n  supporting your wellbeing\n- Friday drinks and various social activities are designed for\n  team bonding and fun\n\nReady to help shape the future of automated assurance? If\nyou’re passionate about building AI-powered solutions and\neager to make a real impact, we want to hear from you! Apply\nnow and join our innovative team at DataSnipper.\n",
+  "skills_required": [
+    "Agentic applications",
+    "Claude Code",
+    "GenAI applications",
+    "Pydantic AI"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement AI-powered agents that automate assurance workflows using natural language commands",
+    "Build and maintain production APIs and services in Python monorepo using FastAPI and Pydantic AI",
+    "Integrate with Azure AI services for document intelligence, blob storage, and cloud infrastructure",
+    "Contribute to React chat interface for interactive user experience with AI agents",
+    "Implement security controls aligned with OWASP GenAI security protocols",
+    "Architect services and systems using well-established design principles for future scalability",
+    "Use observability tools (MLflow, Grafana) to diagnose issues and drive stability improvements",
+    "Lead technical mentorship, code reviews, and establish engineering best practices"
+  ],
+  "use_cases": [
+    "Automated audit and assurance workflows within Excel",
+    "Risk assessment automation",
+    "Control testing and evidence gathering",
+    "Automated documentation generation",
+    "Document and spreadsheet analysis using natural language commands",
+    "Financial audit automation with full traceability"
+  ],
+  "tools_mentioned": [
+    "Azure",
+    "Azure AI services",
+    "Document intelligence",
+    "FastAPI",
+    "Grafana",
+    "MLflow",
+    "MongoDB",
+    "OWASP GenAI security",
+    "React"
+  ],
+  "frameworks_mentioned": [
+    "Agentic applications",
+    "Claude Code",
+    "GenAI applications",
+    "Pydantic AI"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and implementing AI-\npowered agents that automate assurance workflows. The\nengineer will design and deploy GenAI-based agentic\napplications in production, working with LLM frameworks\n(Pydantic AI) and Azure AI services to create agents that\nanalyze documents and execute tasks.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Pydantic AI",
+      "GenAI applications",
+      "Agentic applications",
+      "Claude Code"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "React"
+    ],
+    "databases": [
+      "MongoDB"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure",
+      "Azure AI services",
+      "Document intelligence"
+    ],
+    "ops": [
+      "MLflow",
+      "Grafana",
+      "OWASP GenAI security"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Audit and fintech domain"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

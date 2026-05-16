@@ -1,0 +1,110 @@
+{
+  "job_id": "intl-ai-corpus-2673",
+  "source": "intl-ai-corpus",
+  "source_ref": "8961730",
+  "source_url": "https://builtin.com/job/data-engineer-ai/8961730",
+  "title": "Data Engineer - AI",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "NucleusTeq",
+  "company_type": "entité morale privée",
+  "location": "Indore, IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-06",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "500 Employees",
+  "company_stage": null,
+  "company_focus": "Technology consulting and data engineering services",
+  "industries": [],
+  "description": "We need a self-driven, curious, and adaptable individual who\nquickly picks up new tools and delivers outcomes. Strong SQL\nproficiency is a must, along with an excellent understanding\nof dimensional modeling, data integration, data securit/\ngovernance, and a foundational understanding of Generative\nAI. Below are the basic skill expectations:\n\n- Very Strong SQL skills for data extraction, transformation,\n  and metric creation.\n- Working understanding of data modeling concepts (dimensions,\n  facts, hierarchies).\n- Knowledge of data validation and profiling principles.\n- Should be able to work on system integrations with various\n  external tools - AD, Jira, Service Now etc.\n- Eagerness to learn new technologies quickly.\n- Foundational understanding of Generative AI models, LLMs,\n  MCP and prompt engineering.\n- Exposure to APIs, basic Python or scripting for automation.\n- Good communication and analytical thinking skills.\n- Collaborative mindset focused on helping the broader team\n  succeed.\n- Good to have: Understanding of document stores (e.g.,\n  MongoDB)\n",
+  "skills_required": [
+    "Generative AI",
+    "LLMs",
+    "MCP",
+    "Prompt Engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build data models using dimensional modeling concepts (dimensions, facts, hierarchies)",
+    "Extract, transform, and create metrics using advanced SQL",
+    "Implement data validation and profiling across data pipelines",
+    "Build and manage system integrations with external tools such as Active Directory, Jira, and ServiceNow",
+    "Automate tasks using basic Python scripting and APIs",
+    "Apply data security and governance principles to data workflows",
+    "Leverage foundational Generative AI knowledge including LLMs, MCP, and prompt engineering to support team initiatives"
+  ],
+  "use_cases": [
+    "Data integration across enterprise systems (AD, Jira, ServiceNow)",
+    "Automated data extraction and transformation pipelines",
+    "Enterprise data modeling and metric creation",
+    "Data governance and security enforcement"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "Data Governance",
+    "Data Integration",
+    "Data Validation",
+    "Dimensional Modeling",
+    "MongoDB",
+    "SQL"
+  ],
+  "frameworks_mentioned": [
+    "Generative AI",
+    "LLMs",
+    "MCP",
+    "Prompt Engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a Data Engineer role that requires foundational\nknowledge of GenAI/LLMs but is primarily focused on data\nengineering tasks—SQL, dimensional modeling, data\nintegration, and system integrations. The AI knowledge is\nsupplementary rather than the core responsibility, making\nthis an ai-support role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Generative AI",
+      "LLMs",
+      "MCP",
+      "Prompt Engineering"
+    ],
+    "ml": [],
+    "web": [
+      "APIs"
+    ],
+    "databases": [
+      "SQL",
+      "MongoDB"
+    ],
+    "data": [
+      "Dimensional Modeling",
+      "Data Integration",
+      "Data Governance",
+      "Data Validation"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

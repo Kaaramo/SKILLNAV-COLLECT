@@ -1,0 +1,44 @@
+company:
+  name: Müller's Solutions
+  stage: null
+  focus: null
+position:
+  title: Big Data Engineer
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases:
+  - Data pipeline engineering
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    web: []
+    databases:
+    - bigquery
+    data:
+    - etl
+    - hadoop
+    - hdfs
+    - spark
+    cloud:
+    - aws
+    - azure
+    - gcp
+    - google cloud
+    - s3
+    ops:
+    - docker
+    languages:
+    - java
+    - scala
+    domains: []
+    other:
+    - Big Data
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4380772643'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-1704",
+  "source": "intl-ai-corpus",
+  "source_ref": "8582728",
+  "source_url": "https://builtin.com/job/senior-site-reliability-engineer-agentic-ai/8582728",
+  "title": "Senior Site-Reliability Engineer (Agentic AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Securonix",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "734 Employees",
+  "company_stage": "Private (Backed by Vista Equity Partners)",
+  "company_focus": "AI-powered cybersecurity SIEM platform for threat detection\nand response",
+  "industries": [
+    "Information Technology",
+    "Security",
+    "Cybersecurity"
+  ],
+  "description": "Securonix is leading the transformation of cybersecurity by\nhelping organizations stay ahead of modern threats. Security\nteams are no longer constrained by data or tools. They are\nconstrained by speed, clarity, and confidence. Securonix was\nbuilt to close that gap. Our mission is to enable security\nteams to decide and act faster across the entire threat\nlifecycle.\n\n\nThe Securonix Unified Defense SIEM is the industry’s first\nplatform powered by agentic AI and designed with a human-in-\nthe-loop philosophy. It unifies detection, investigation,\nand response in a single system. Advanced UEBA delivers deep\nbehavioral insight across users, entities, and data. Native\nthreat intelligence continuously enriches detections and\ninvestigations with real-world context. AI reinforces every\nlayer of the platform while keeping accountability with the\nsecurity team.\n\n\nBuilt cloud-native for scale and performance, the platform\nenables real-time analytics, deep investigation, and\nautomated response without compromise. Analysts gain faster\naccess to relevant signals. Investigations move from days to\nminutes. Response becomes consistent and measurable. The\nresult is a CyberOps experience that scales as threats\nevolve.\n\n\nSecuronix is recognized as a six-time Leader in the Gartner\nMagic Quadrant for SIEM and a Customers’ Choice on Gartner\nPeer Insights. The company has been featured by leading\npublications including WIRED, Dark Reading, and Fortune for\nits innovation and leadership in security operations.\nOrganizations rely on the platform for always-available\ndata, rapid search and investigation, continuously updated\nthreat content, and a fully integrated Threat Detection,\nInvestigation, and Response experience.\n\n\nBacked by Vista Equity Partners, one of the world’s leading\nenterprise software investors, Securonix benefits from deep\noperational expertise and a long-term commitment to\ninnovation and growth. This partnership strengthens our\nability to scale the platform, accelerate product execution,\nand support customers as their security needs evolve.\n\n\nWith more than 1,000 customers worldwide, including a\nmeaningful portion of the Fortune 100, Securonix operates at\nglobal scale. Our ecosystem of partners and managed security\nservice providers extends that reach, helping organizations\ndeploy and operate with confidence wherever they do\nbusiness. What drives us is how we work.\n\n- We win as one team. We operate with trust, respect, and\n  shared accountability.\n- We are customer driven. Innovation is guided by real\n  security challenges and measurable outcomes.\n- We act with agility. Change is constant, and we stay aligned\n  on purpose while adapting fast.\n\nThat focus is how Securonix helps organizations move from\nreactive security to proactive, autonomous operations.\n\n\n\nSummary:\n\n\n\nWe are seeking a SaaS Ops GenAI and Automation Engineer to\ndesign, develop, and implement intelligent automation and\nAI-driven solutions that enhance reliability, scalability,\nand efficiency across SaaS Ops environments.\n\n\nThis role combines deep operational understanding with\ncutting-edge Generative AI and  automation engineering\nskills to reduce manual intervention, accelerate root cause\nanalysis (RCA), and enable self-healing infrastructure\nwithin Spark, EKS, and cloud environments.\n\n\nKey Responsibilities:\n\n\nAI-Driven SaaSOps Automation\n\n- Design and deploy GenAI-enabled workflows that support\n  proactive incident detection,RCA summarization and\n  resolution automation.\n- Integrate LLM-based copilots (e.g., ChatGPT, Claude, or\n  internal GPT models) with SaaSOps tools for smart\n  troubleshooting and impact summaries.\n- Implement automation logic to handle Spark job failures,\n  pipeline restarts, and alert remediation without human\n  intervention.\n\n\nOperational Workflow Automation\n\n\n- Build andmaintain end-to-end automations across monitoring\n  and incident management systems (Jira, Slack, ServiceNow,\n  CriticalMon, SparkOpsSuite).\n- Orchestrate recurring SaaSOps tasks using tools like AWX,\n  Airflow, or Python-based automation frameworks.\n- Integrate AI decision models into workflows to optimize\n  change management, alert correlation, and resource\n  scaling.\n\n\nObservability & Insights\n\n- Extend monitoring coverage through AI-driven alert\n  correlation and anomaly detection models.\n- Collaborate with engineering and product teams to enhance\n  telemetry from Spark, EKS, and multi-tenant pipelines.\n- Use GenAI to generate incident summaries, health reports,\n  and RCA narratives in real time.\n\n\nSaaSOps Innovation & Optimization\n\n- Identify high-impact manual SaaSOps workflows suitable for\n  automation or AIaugmentation.\n- Drive continuous improvement through KAPA (Key AI\n  Productivity & Adoption) metrics — measuring AI adoption,\n  efficiency, and ROI.\n- Partner with CloudOps and DevOps teams to deliver an AI-\n  first operations strategy across global environments.\n\n\nRequired Skills & Experience:\n\n- 5–8 years of experience in SaaSOps, Cloud Operations, or IT\n  Automation. Strong understanding of Spark, EKS, AWS\n  infrastructure, and SaaS application operations.\n\n- Proven experience with Python scripting and REST API\n  integrations. Hands-on experience with\n  automation/orchestration tools such as AWX, Airflow, or\n  UiPath.\n\n- Familiarity with GenAI platforms (OpenAI, Anthropic, Azure\n  OpenAI, Hugging Face, etc.).\n\n- Knowledge of observability tools (CloudWatch, Prometheus,\n  Datadog, Grafana). Ability to build AI-assisted\n  automations for tasks like log analysis, incident triage,\n  andjob recovery.\n\n- Strong problem-solving and collaboration skills in cross-\n  functional environments.\n\nPreferred Qualifications:\n\n- Experience integrating ChatGPT or custom copilots with SaaS\n  operations workflows.\n\n- Experience with Jira automation, SparkOpsSuite,\n  SaaSOpsBuddy, or similar platforms.\n\n- Knowledge of KAPA metrics or AI adoption analytics\n  frameworks.\n\n- AWS / Azure automation certification preferred.\n\n\n\nBenefits:\n\nAs a full-time employee with Securonix, you will be eligible\nfor the following employee benefits:\n\n- Health Insurance with a total sum insured is INR 7,50,000\n- Coverage: Self, Spouse, 2 kids, Dependent parents, or\n  parents-in-law\n- Personal Accident with total sum insured is INR 10,00,000\n- Term Life Insurance with a sum assured for employees is 5\n  times fixed base pay is covered.\n\nSecuronix provides equal employment opportunities (EEO) to\nall employees and applicants for employment without regard\nto race, color, religion, gender, sexual orientation, gender\nidentity, national origin, age, disability, genetic\ninformation, marital status, amnesty or status as a covered\nveteran in accordance with applicable federal, state and\nlocal laws. Securonix complies with applicable state and\nlocal laws governing non-discrimination in employment in\nevery location in which the company has facilities. This\npolicy applies to all terms and conditions of employment,\nincluding hiring, placement, promotion, termination, layoff,\nrecall, and transfer, leaves of absence, compensation and\ntraining.\n\nSecuronix expressly prohibits any form of unlawful employee\nharassment based on race, color, religion, gender, sexual\norientation, national origin, age, genetic information,\ndisability or veteran status. Improper interference with the\nability of Securonix employees to perform their expected job\nduties is absolutely not tolerated.\n",
+  "skills_required": [
+    "Anthropic Claude",
+    "Azure OpenAI",
+    "Hugging Face",
+    "LLM integration",
+    "OpenAI API"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deploy GenAI-enabled workflows for proactive incident detection, RCA summarization, and resolution automation",
+    "Integrate LLM-based copilots (ChatGPT, Claude, internal GPT models) with SaaSOps tools for smart troubleshooting and impact summaries",
+    "Implement automation logic for Spark job failures, pipeline restarts, and alert remediation without human intervention",
+    "Build and maintain end-to-end automations across monitoring and incident management systems (Jira, Slack, ServiceNow, CriticalMon, SparkOpsSuite)",
+    "Orchestrate recurring SaaSOps tasks using AWX, Airflow, or Python-based automation frameworks",
+    "Integrate AI decision models into workflows to optimize change management, alert correlation, and resource scaling",
+    "Extend monitoring coverage through AI-driven alert correlation and anomaly detection models",
+    "Use GenAI to generate incident summaries, health reports, and RCA narratives in real time"
+  ],
+  "use_cases": [
+    "Proactive incident detection and automated resolution in SaaS operations",
+    "Root cause analysis automation and summarization for infrastructure issues",
+    "Self-healing infrastructure for Spark, EKS, and cloud environments",
+    "Intelligent alert correlation and anomaly detection for cybersecurity monitoring",
+    "AI-assisted log analysis and incident triage",
+    "Automated Spark job failure recovery and pipeline management"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWX",
+    "Airflow",
+    "Azure",
+    "CloudWatch",
+    "Datadog",
+    "EKS",
+    "Grafana",
+    "Jira",
+    "Prometheus",
+    "REST APIs",
+    "ServiceNow",
+    "Slack",
+    "Spark"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic Claude",
+    "Azure OpenAI",
+    "Hugging Face",
+    "LLM integration",
+    "OpenAI API"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing, deploying, and implementing\nGenAI workflows, integrating LLM copilots with operations\ntools, and building AI-driven automation systems. The\nengineer works directly ON AI systems (GenAI workflows, LLM\nintegrations, AI decision models) rather than just\nsupporting infrastructure for AI teams.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic Claude",
+      "Azure OpenAI",
+      "Hugging Face",
+      "LLM integration"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "Airflow",
+      "Spark"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "EKS",
+      "CloudWatch"
+    ],
+    "ops": [
+      "AWX",
+      "Datadog",
+      "Prometheus",
+      "Grafana",
+      "Jira",
+      "ServiceNow",
+      "Slack"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

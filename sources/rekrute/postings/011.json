@@ -1,0 +1,81 @@
+{
+  "job_id": "rekrute-2026-011",
+  "source": "rekrute",
+  "source_url": "https://www.rekrute.com/offre-emploi-data-scientist-ml-engineer-recrutement-coface-casablanca-181033.html",
+  "source_ref": "181033",
+  "title": "Data Scientist / ML Engineer",
+  "title_normalized": "ML_ENGINEER",
+  "company": "Coface",
+  "company_type": "entité morale privée",
+  "company_description": "Coface — référence assurance-crédit + gestion des risques · 70 ans · ~50 000 clients dans 200 pays · présence directe/indirecte 12 pays Maghreb + Afrique de l'Ouest et Centrale. Data Lab international (Paris, Toronto, Casablanca, ~30 personnes)",
+  "location": "Casablanca (225 Bd d'Anfa)",
+  "country": "MA",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-23",
+  "deadline_date": "2026-05-23",
+  "contract_type": "CDI",
+  "experience_min_years": 2,
+  "experience_max_years": 5,
+  "salary_range": null,
+  "description": "Data Lab regroupe Data Science + IA + Software Engineering pour concevoir, développer et déployer des solutions opérationnelles améliorant processus, produits et services. Cas d'usage : scoring risque défaillance, extraction info docs/images, knowledge graphs, moteur recherche entreprises, simulations financières.",
+  "skills_required": [
+    "Python",
+    "Linux",
+    "Git",
+    "Machine Learning supervisé",
+    "Machine Learning non-supervisé",
+    "Clustering",
+    "NLP",
+    "Code review",
+    "CI"
+  ],
+  "skills_optional": [
+    "React",
+    "Java",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "Cloud",
+    "SQL",
+    "NoSQL (document, graph)",
+    "Apache Airflow"
+  ],
+  "responsibilities": [
+    "Intégrer l'équipe Data Lab Coface",
+    "Travailler binôme + équipes réduites projets innovants",
+    "Concevoir + développer complètement solutions ML jusqu'au déploiement",
+    "Containers + cloud + monitoring production",
+    "Veille technologique"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "Apache Airflow",
+    "Git",
+    "Linux"
+  ],
+  "frameworks_mentioned": [
+    "React"
+  ],
+  "languages_programming": [
+    "Python",
+    "Java"
+  ],
+  "domains_iaml": [
+    "ML_CLASSIC",
+    "NLP",
+    "MLOPS",
+    "CLOUD_DATA"
+  ],
+  "job_family": "ML_ENGINEER",
+  "domain_specialization": "Assurance-crédit + Risk management",
+  "education_required": "Diplôme d'Ingénieur ou équivalent en Data Science (apprentissage supervisé/non-supervisé, clustering, NLP)",
+  "languages_spoken": [
+    "Anglais"
+  ],
+  "scraped_at": "2026-05-14T20:37:56Z",
+  "scraper": "skillnav-playwright-mcp-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.97
+}

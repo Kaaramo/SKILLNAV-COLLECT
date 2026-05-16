@@ -1,0 +1,46 @@
+company:
+  name: AXA Group Operations
+  stage: null
+  focus: null
+position:
+  title: Machine Learning Engineer Expert
+  ai_type:
+    type: ai-first
+    reasoning: Title explicitly indicates AI/ML engineering role
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - deep learning
+    - machine learning
+    - ml
+    - pytorch
+    - scikit-learn
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - data lake
+    - databricks
+    - sql
+    cloud:
+    - azure
+    ops:
+    - ci/cd
+    - docker
+    - github actions
+    - mlflow
+    - terraform
+    languages:
+    - python
+    domains: []
+    other:
+    - agile
+    - MLOps
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4377864323'
+  extracted_at: '2026-05-15T15:53:13+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

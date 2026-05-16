@@ -1,0 +1,179 @@
+{
+  "job_id": "intl-ai-corpus-0654",
+  "source": "intl-ai-corpus",
+  "source_ref": "8315107",
+  "source_url": "https://builtin.com/job/applied-ai-engineer-spatial-and-embodied-ai/8315107",
+  "title": "Applied AI Engineer (Spatial and Embodied AI)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Medal",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-27",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "57 Employees",
+  "company_stage": "Seed",
+  "company_focus": "AI foundation models for spatial and embodied intelligence",
+  "industries": [
+    "Gaming",
+    "Mobile",
+    "Software"
+  ],
+  "description": "The Company: General Intuition\n\nToday’s most powerful foundation models are trained on\nwritten words. But human intelligence extends far beyond\nlanguage. Truly intelligent machines must move from words to\nworlds, developing the ability to perceive, anticipate, and\nact within complex environments.\n\nWe believe games represent the highest density expression of\ningenuity and problem-solving. General Intuition builds on\nMedal, the world’s largest and fastest-growing platform for\ngaming moments. Each year, players capture billions of\ngameplay clips across countless environments, producing\nuniquely rich data for learning systems.\n\nOver the past year, we’ve been advancing the frontier\nacross:\n\n- agents capable of deep spatial and temporal reasoning,\n- world models and simulation environments for training and\n  evaluation, and\n- video understanding with an emphasis on generalization\n  beyond games.\n\nThe Role\n\nWe are looking for an Applied AI Engineer to connect our\nresearch with the reality of our partners’ environments that\nare constrained by hardware, power, and real world\ninterference.\n\nWe work with customers operating in complex areas across\nrobotics, simulation, aerospace and defense, manufacturing,\nlogistics, industrial automation, and more. You will be\nresponsible for taking our model, focusing on post-training,\nevaluation data, and integrations to ensure our customer's\nplatforms work regardless of a messy, constrained tech stack\nand hardware.\n\nYou will embed with our partners to understand their actual\nproblems, not just what they put in an RFP. You’ll look at\ntheir legacy control systems, latency challenges, and power\nneeds and figure out how our AI helps them achieve something\nthat was never possible before.\n\nYou'll be a key part of the feedback loop. When a model\nfails because of sensor noise or unexpected physics, you\ndon't just log a bug. You figure out why, and you work\nacross our team to fix the underlying architecture. You\nensure we are building technology that survives contact with\nthe real world, for years to come.\n\nWe're looking for a technical polyglot. You might have\nstarted in systems engineering, physics, or neuroscience and\nmoved to ML, or the other way around. You know Python and\nPyTorch, but you aren't afraid of C++ or low-level hardware\nconstraints.\n\nMost importantly, you have high agency and want to be a part\nof an amazing team.\n\nKey Responsibilities\n\nApplied AI/ML Engineering & Mission Ownership\n\n- Embed with partners to solve the problems with our frontier\n  AI/ML tools, informing our research and product\n  development plan along the way…not just deploy software.\n- Be the primary filter between the messy reality of the\n  physical world and our research and technical staff,\n  surfacing real commercial challenges and pain-points.\n- Build and tune models, prototype, script, and patch (often\n  in the field), turning ambiguous requirements into\n  executable code.\n\nSystems Integration & Edge Compute\n\n- Build the connective tissue between our AI and the\n  customer's reality, and then help them rethink the art of\n  the possible. This means writing high-performance code\n  (C++/Go/Python) that integrates our inference engine with\n  legacy sensors, RTOS, and diverse hardware peripherals.\n- Optimize complex ML models for survival in harsh computing\n  environments.\n- Leverage our simulation and world-model capabilities to\n  validate operational plans before they touch physical\n  hardware.\n\nTechnical Diplomacy\n\n- Translate the probabilistic nature of AI into the\n  deterministic language of industrial control systems and\n  mission operators.\n- Explain trade-offs to non-technical individuals and deep\n  technical details to systems engineers, building the trust\n  required to deploy autonomous systems in critical paths.\n\nQualifications\n\nRequired\n\n- 5+ years experience taking complex systems from prototype to\n  production, within software engineering or applied AI/ML\n- Strong experience in the ML stack (Python, Docker,\n  Kubernetes, infrastructure-as-code, and CI/CD for ML\n  pipelines) with competent systems programming skills (C++,\n  Go, Rust, or Java), and ability to use modern AI coding\n  tools\n- Strong applied machine learning experience, specifically in\n  the lifecycle of deploying, evaluating, and debugging\n  models\n- Experience in at least one of the following, with working\n  knowledge of the others:\n  - Agents or policy learning (e.g., RL, planning, control\n    theory, spatial reasoning)\n  - World models, simulation environments (Unity/Unreal,\n    Omniverse, Isaac Sim), or model-based learning\n  - Perception, sensor fusion, or inverse dynamics models (IDMs)\n- Exposure to bridging the \"hardware-software\" gap:\n  integrating AI inference with sensors, edge devices, RTOS,\n  or legacy industrial networks\n- Full-stack systems mindset: understanding of memory\n  management, concurrency, networking, and APIs\n- U.S. citizenship and ability to obtain and maintain a\n  national security clearance (TS/SCI preferred)\n- Ability to comply with export control requirements\n  (ITAR/EAR)\n\nPreferred\n\n- Experience, and comfort in, forward-type environments often\n  found with partners across the industrial base, defense,\n  intelligence, aerospace, and robotics environments at the\n  edge\n- Edge AI, inference optimization, or deployment in\n  constrained settings (TensorRT, ONNX, or mobile inference\n  as examples)\n- Background in autonomous systems, control, or real-time\n  systemsStartup or early-stage engineering experience\n- Understanding of secure systems engineering or DevSecOps\n  experience in regulated industries, including degraded,\n  intermittent, limited) networking constraints\n- Open-source contributions or demonstrable applied systems\n  work, or a portfolio of \"side projects\" that demonstrate\n  AI/ML, and engineering curiosity\n\nThe Stack\n\n- ML & Research: Python, PyTorch, NumPy, OpenCV, Triton, CUDA\n  for large-scale training, real-time inference, and applied\n  CV/ML\n- Pipelines & Experimentation: Kubeflow Pipelines and Airflow\n  with continuous evaluation, A/B testing, and performance\n  monitoring across training and production\n- Backend & Systems: Java services with Redis and RabbitMQ,\n  plus performance-critical C++ components; containerized\n  with Docker and Kubernetes on GCP or on-prem\n- Clients & Edge Software: Electron/React desktop apps, C# and\n  C++ high-performance recorders, and mobile clients in\n  Swift (iOS) and Kotlin (Android)\n- Infra, Hardware & Other Deployments: Terraform-managed\n  infrastructure, CI/CD via GitHub Actions and CircleCI;\n  deployment to NVIDIA GPU clusters, air-gapped or on-prem\n  environments, hardened Linux systems (FIPS/STIG), and\n  constrained real-world hardware requiring model\n  optimization, hardware-specific acceleration, and secure\n  supply-chain practices\n\nBenefits\n\n- Competitive salary and meaningful equity\n- Comprehensive health insurance including dental and vision\n  insurance\n- 401k\n",
+  "skills_required": [
+    "CUDA",
+    "Isaac Sim",
+    "Omniverse",
+    "PyTorch",
+    "Unity",
+    "Unreal",
+    "reinforcement learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Embed with partners to solve complex problems using frontier AI/ML tools and inform research and product development",
+    "Build, tune, and optimize models for deployment in constrained hardware environments with real-world interference",
+    "Develop high-performance integration code connecting AI inference engines with legacy sensors, RTOS, and diverse hardware peripherals",
+    "Serve as the primary filter between real-world physical constraints and research staff to surface commercial challenges",
+    "Optimize complex ML models for harsh computing environments and validate plans using simulation and world-model capabilities",
+    "Translate probabilistic AI outputs into deterministic language for industrial control systems and mission operators",
+    "Deploy, evaluate, and debug models throughout their lifecycle from prototype to production"
+  ],
+  "use_cases": [
+    "Spatial and temporal reasoning agents for complex environments",
+    "World models and simulation environments for training and evaluation",
+    "Video understanding with generalization beyond gaming applications",
+    "Robotic systems with perception, sensor fusion, and inverse dynamics",
+    "Industrial automation and manufacturing with AI-powered control systems",
+    "Aerospace and defense applications with edge AI deployment"
+  ],
+  "tools_mentioned": [
+    "Airflow",
+    "CI/CD",
+    "DevSecOps",
+    "Docker",
+    "Electron",
+    "GCP",
+    "Kubeflow",
+    "Kubernetes",
+    "NumPy",
+    "ONNX",
+    "RTOS",
+    "RabbitMQ",
+    "React",
+    "Redis",
+    "TensorRT",
+    "Terraform",
+    "Triton",
+    "edge AI",
+    "inference optimization",
+    "model optimization"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "PyTorch",
+    "reinforcement learning"
+  ],
+  "languages_programming": [
+    "C#",
+    "C++",
+    "Go",
+    "Java",
+    "Kotlin",
+    "Python",
+    "Rust",
+    "Swift"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an Applied AI Engineer role that directly works on\nbuilding, tuning, deploying, and optimizing AI models for\nreal-world applications. The engineer is responsible for\npost-training, evaluation, and integrating AI inference\nengines with hardware, working hands-on with agents, world\nmodels, and perception systems in production environments.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "CUDA",
+      "reinforcement learning"
+    ],
+    "web": [
+      "React",
+      "Electron"
+    ],
+    "databases": [
+      "Redis"
+    ],
+    "data": [
+      "RabbitMQ",
+      "Airflow",
+      "NumPy"
+    ],
+    "cloud": [
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Triton",
+      "TensorRT",
+      "ONNX",
+      "Kubeflow",
+      "edge AI",
+      "inference optimization",
+      "model optimization",
+      "RTOS",
+      "DevSecOps"
+    ],
+    "languages": [
+      "Python",
+      "C++",
+      "Go",
+      "Rust",
+      "Java",
+      "C#",
+      "Swift",
+      "Kotlin"
+    ],
+    "domains": [
+      "OpenCV",
+      "planning",
+      "control theory",
+      "spatial reasoning",
+      "world models",
+      "simulation environments",
+      "perception",
+      "sensor fusion",
+      "inverse dynamics models"
+    ],
+    "other": [
+      "Unity",
+      "Unreal",
+      "Omniverse",
+      "Isaac Sim"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

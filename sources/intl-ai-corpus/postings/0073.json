@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-0073",
+  "source": "intl-ai-corpus",
+  "source_ref": "6894754",
+  "source_url": "https://builtin.com/job/ml-ai-engineer/6894754",
+  "title": "ML/AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nebius",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam, NLD",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-18",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "473 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI cloud platform with GPU infrastructure",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Why work at Nebius Nebius is leading a new era in cloud\ncomputing to serve the global AI economy. We create the\ntools and resources our customers need to solve real-world\nchallenges and transform industries, without massive\ninfrastructure costs or the need to build large in-house\nAI/ML teams. Our employees work at the cutting edge of AI\ncloud infrastructure alongside some of the most experienced\nand innovative leaders and engineers in the field.\n\nWhere we work Headquartered in Amsterdam and listed on\nNasdaq, Nebius has a global footprint with R&D hubs across\nEurope, North America, and Israel. The team of over 800\nemployees includes more than 400 highly skilled engineers\nwith deep expertise across hardware and software\nengineering, as well as an in-house AI R&D team.\n\nAbout Nebius AI\n\nNebius AI is an AI cloud platform with one of the largest\nGPU capacities in Europe. Launched in November 2023, the\nNebius AI platform provides high-end, training-optimized\ninfrastructure for AI practitioners. As an NVIDIA preferred\ncloud service provider, Nebius AI offers a variety of NVIDIA\nGPUs for training and inference, as well as a set of tools\nfor efficient multi-node training.\n\nNebius AI owns a data center in Finland, built from the\nground up by the company’s R&D team and showcasing our\ncommitment to sustainability. The data center is home to\nISEG, the most powerful commercially available supercomputer\nin Europe and the 16th most powerful globally (Top 500 list,\nNovember 2023).\n\nNebius’s headquarters are in Amsterdam, Netherlands, with\nteams working out of R&D hubs across Europe and the Middle\nEast.\n\nNebius AI is built with the talent of more than 500 highly\nskilled engineers with a proven track record in developing\nsophisticated cloud and ML solutions and designing cutting-\nedge hardware. This allows all the layers of the Nebius AI\ncloud – from hardware to UI – to be built in-house,\ndistictly differentiating Nebius AI from the majority of\nspecialized clouds: Nebius customers get a true hyperscaler-\ncloud experience tailored for AI practitioners.\n\nThe role\n\nWe are seeking a highly skilled ML/AI Engineer to join our\nteam to lead and support benchmarking of GPU platforms for\nmachine learning and AI workloads. You will play a critical\nrole in evaluating the performance of GPU-based hardware for\nvarious deep learning and AI frameworks, enabling data-\ndriven decisions for platform optimisation and next-\ngeneration hardware development.\n\n\n\nYour responsibilities will include:\n\n- Work closely with hardware, development teams to profile and\n  analyse GPU performance at the system and kernel level.\n- Evaluate and compare GPU performance across different\n  platforms, architectures, and software stacks (e.g., CUDA,\n  ROCm).\n- Debug and optimise ML workloads to run efficiently on GPU\n  hardware, identifying and resolving performance\n  bottlenecks.\n- Perform acceptance testing for new GPU clusters, ensuring\n  hardware and software meet performance, stability, and\n  compatibility requirements for AI workloads.\n- Perform experiments across diverse GPU system configurations\n  to assess the impact of varying interconnect strategies\n  and system-level optimisations on performance and\n  scalability.\n- Develop tools and dashboards to visualise performance\n  metrics, bottlenecks, and trends.\n- Contribute to internal tooling, frameworks, and best\n  practices\n\n\n\nWe expect you to have:\n\n- A profound understanding of theoretical foundations of\n  machine learning\n- Deep understanding of performance aspects of large neural\n  networks training and inference\n  (data/tensor/context/expert parallelism, offloading,\n  custom kernels, hardware features, attention\n  optimisations, dynamic batching etc.)\n- Deep experience with modern deep learning frameworks\n  (PyTorch, JAX, Megatron-LM, Tensort-LLM)\n- Good understanding of the GPU stack: CUDA,NCCL, drivers, and\n  relevant libraries\n- Familiarity with containerized environments (e.g., Docker,\n  Kubernetes).\n- Strong communication and ability to work independently\n\n\n\nWays to stand out from the crowd:\n\n- Familiarity with modern LLM inference frameworks (vLLM,\n  SGLang, TensorRT)\n- Experience in Python and performance profiling tools (e.g.,\n  Nsight, nvprof, perf).\n- Familiarity with cloud ML platforms like AWS, GCP, Azure ML\n- Contributions to open-source ML benchmarking tools\n\n\nWe’re growing and expanding our products every day. If\nyou’re up to the challenge and are excited about AI and ML\nas much as we are, join us!\n\n\n\nWhat we offer\n\n- Competitive salary and comprehensive benefits package.\n- Opportunities for professional growth within Nebius.\n- Flexible working arrangements.\n- A dynamic and collaborative work environment that values\n  initiative and innovation.\n\nWe’re growing and expanding our products every day. If\nyou’re up to the challenge and are excited about AI and ML\nas much as we are, join us!\n",
+  "skills_required": [
+    "CUDA",
+    "JAX",
+    "PyTorch"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Work closely with hardware and development teams to profile and analyze GPU performance at the system and kernel level",
+    "Evaluate and compare GPU performance across different platforms, architectures, and software stacks like CUDA and ROCm",
+    "Debug and optimize ML workloads to run efficiently on GPU hardware, identifying and resolving performance bottlenecks",
+    "Perform acceptance testing for new GPU clusters to ensure hardware and software meet performance, stability, and compatibility requirements",
+    "Perform experiments across diverse GPU system configurations to assess interconnect strategies and system-level optimizations",
+    "Develop tools and dashboards to visualize performance metrics, bottlenecks, and trends",
+    "Contribute to internal tooling, frameworks, and best practices"
+  ],
+  "use_cases": [
+    "Benchmarking and performance evaluation of GPU platforms for machine learning and AI workloads",
+    "Optimizing deep learning training and inference performance on GPU hardware",
+    "Acceptance testing and validation of new GPU clusters for AI workloads",
+    "Analyzing performance impact of interconnect strategies and system-level optimizations",
+    "Developing performance visualization tools and dashboards for GPU metrics",
+    "Identifying and resolving performance bottlenecks in ML workloads at kernel level"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure ML",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "NCCL",
+    "Nsight",
+    "TensorRT",
+    "nvprof",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "JAX",
+    "PyTorch"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on GPU performance profiling,\noptimization, and benchmarking for ML workloads rather than\nbuilding or deploying AI models/LLMs. The work involves deep\ntechnical work with CUDA, GPU architectures, and performance\noptimization of training/inference workloads on hardware\nplatforms, which is traditional ML infrastructure\nengineering rather than AI/LLM development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "JAX",
+      "CUDA"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure ML"
+    ],
+    "ops": [
+      "NCCL",
+      "Docker",
+      "Kubernetes",
+      "vLLM",
+      "TensorRT",
+      "Nsight",
+      "nvprof"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

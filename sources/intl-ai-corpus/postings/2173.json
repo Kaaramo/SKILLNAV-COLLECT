@@ -1,0 +1,118 @@
+{
+  "job_id": "intl-ai-corpus-2173",
+  "source": "intl-ai-corpus",
+  "source_ref": "8787988",
+  "source_url": "https://builtin.com/job/senior-ai-engineer-applied/8787988",
+  "title": "Senior AI Engineer - Applied",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PhysicsX",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-18",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "67 Employees",
+  "company_stage": "Deep-tech company with roots in numerical physics and Formula One",
+  "company_focus": "AI-driven simulation software for engineering and\nmanufacturing industries",
+  "industries": [
+    "Machine Learning",
+    "Software"
+  ],
+  "description": "About us\n\nPhysicsX is a deep-tech company with roots in numerical\nphysics and Formula One, dedicated to accelerating hardware\ninnovation at the speed of software.\n\nWe are building an AI-driven simulation software stack for\nengineering and manufacturing across advanced industries. By\nenabling high-fidelity, multi-physics simulation through AI\ninference across the entire engineering lifecycle, PhysicsX\nunlocks new levels of optimization and automation in design,\nmanufacturing, and operations — empowering engineers to push\nthe boundaries of possibility. Our customers include leading\ninnovators in Aerospace & Defense, Materials, Energy,\nSemiconductors, and Automotive.\n\nThe Mission\n\nWe’re looking for a hands-on Senior Applied AI Engineer to\nbuild the AI agents that transform Engineering workflows\nacross industries such as Manufacturing, Aerospace, and\nSemi-conductor. You'll be building the advanced workflows\nthat power next-generation simulation and design tools used\nby industry-leading engineering teams. Our platform allows\nForward Deployed Engineers (FDEs) and customers to build and\ndeploy deep learning surrogates that solve massive\nengineering challenges.\n\nYour mission is to build advanced Agentic workflows that\ndrive real value for our customers across the Engineering\nindustry.\n\nCore Responsibilities\n\nYou will work with our product teams and customers to build\nand deploy agentic functionality directly into our platform,\nas well as deeply integrate our capabilities into how our\ncustomers operate.\n\n- You are an expert in building and orchestrating AI Agents.\n  You know how to chain LLMs, tools, and data to solve\n  complex reasoning tasks.\n- You aggressively dogfood our tools to build production\n  solutions, and you provide direct feedback to improve the\n  Developer Experience.\n- Collaborative: You excel at partnering with domain experts\n  (e.g. Physicists) to understand their mental models and\n  codify them into agents.\n\nCore Responsibilities\n\nYou will be the tip of the spear for our Agentic\ncapabilities, proving what is possible and helping us\nproductise it.\n\n- Be \"Customer Zero\": Aggressively dogfood our internal\n  platform. If the Developer Experience hurts, you are the\n  first to flag it and help fix it.\n- Build Advanced Agentic Workflows: Design and implement\n  complex agents that leverage our surrogates and simulation\n  tools to solve specific customer problems.\n- Drive Product Strategy: Use your direct experience building\n  solutions to identify common patterns across customers.\n  You will help decide what functionality belongs in the\n  platform vs. what stays in the application layer.\n- Rigorous Evals & Tracing: You don't just ship \"vibes.\" You\n  implement systematic evaluation loops and deep tracing to\n  prove that your agents are reliable, robust, and improving\n  over time.\n\nThe Tech Stack\n\n- Languages: Python (Primary), Go or TypeScript (Secondary).\n- Platform tooling: Kubernetes, Docker, Terraform.\n- Agentic Infrastructure: Agentic Frameworks, Vector DBs\n- Observability: OTel, Agent Tracing / Evaluations tooling\n\nWho You Are\n\n- A Builder First: You judge your success by shipping working\n  agents that solve real problems in production, not just by\n  writing design docs.\n- Strategic & Broad: You don't just solve the problem in front\n  of you; you look for the \"generalisable proof-point\" that\n  informs the broader platform strategy.\n- Empirical: You value systematic measurement over intuition.\n  You believe that if you can't trace it and eval it, you\n  can't ship it.\n- Agentic Native: You have a deep spike in Agentic Systems.\n  You are comfortable working with domain experts to\n  translate their knowledge into deterministic tools and\n  workflows.\n\nQualifications\n\n- 3+ years of experience in Applied AI, ML Engineering, or\n  Software Engineering.\n- Proven experience building and deploying AI Agents or\n  complex LLM workflows in production.\n- Demonstrated ability to collaborate with Domain Experts to\n  solve complex, domain-specific problems.\n\n\n\nWe value diversity and are committed to equal employment\nopportunity regardless of sex, race, religion, ethnicity,\nnationality, disability, age, sexual orientation or gender\nidentity. We strongly encourage individuals from groups\ntraditionally underrepresented in tech to apply. To help\nmake a change, we sponsor bright women from disadvantaged\nbackgrounds through their university degrees in science and\nmathematics.\n\n\n\nWe collect diversity and inclusion data solely for the\npurpose of monitoring the effectiveness of our equal\nopportunities policies and ensuring compliance with UK\nemployment and equality legislation. This information is\nconfidential, used only in aggregate form, and will not\ninfluence the outcome of your application.\n",
+  "skills_required": [
+    "AI Agents",
+    "Agentic Frameworks",
+    "Deep Learning",
+    "LLMs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and orchestrate AI Agents that chain LLMs, tools, and data to solve complex reasoning tasks",
+    "Design and implement complex agents leveraging surrogates and simulation tools for customer problems",
+    "Act as Customer Zero by dogfooding internal platform and providing feedback to improve Developer Experience",
+    "Implement systematic evaluation loops and deep tracing to ensure agents are reliable and robust",
+    "Drive product strategy by identifying common patterns across customers and deciding platform vs application layer functionality",
+    "Collaborate with domain experts like physicists to understand and codify their mental models into agents"
+  ],
+  "use_cases": [
+    "Multi-physics simulation and engineering design optimization",
+    "Manufacturing workflow automation and optimization",
+    "Aerospace engineering simulation and design",
+    "Semiconductor engineering challenges",
+    "Deep learning surrogates for massive engineering problems",
+    "Hardware innovation acceleration across advanced industries"
+  ],
+  "tools_mentioned": [
+    "Agent Tracing",
+    "Docker",
+    "Kubernetes",
+    "OTel",
+    "Terraform",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "AI Agents",
+    "Agentic Frameworks",
+    "Deep Learning",
+    "LLMs"
+  ],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and deploying AI agents that\nsolve complex reasoning tasks using LLMs, tools, and data.\nThe engineer will design and implement agentic workflows,\nwork with agentic frameworks, and build production AI\nsolutions - all hands-on work with AI/agent systems.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI Agents",
+      "LLMs",
+      "Agentic Frameworks"
+    ],
+    "ml": [
+      "Deep Learning"
+    ],
+    "web": [],
+    "databases": [
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "OTel",
+      "Agent Tracing"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

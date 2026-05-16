@@ -1,0 +1,39 @@
+company:
+  name: Devoteam
+  stage: null
+  focus: null
+position:
+  title: Cloud Data Engineer SQL GCP
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - bigquery
+    - snowflake
+    data:
+    - airflow
+    - dbt
+    - redshift
+    - sql
+    cloud:
+    - aws
+    - azure
+    - gcp
+    ops:
+    - ci/cd
+    languages: []
+    domains:
+    - cybersecurity
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4318729106'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

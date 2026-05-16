@@ -1,0 +1,45 @@
+company:
+  name: AXA GBS Morocco
+  stage: null
+  focus: null
+position:
+  title: Data & AI Engineering Team Leader
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities:
+  - Local technical leader for Data & AI teams
+  - Support engineering teams in delivery + technical challenges
+  - Collaborate with Engineering Managers + Tech Leads in Paris
+  - Ensure teams follow AFA framework, processes, best practices
+  - Foster strong Data & AI engineering culture
+  - Create local team cohesion
+  - Scale team via technical sourcing + recruitment
+  - Bridge Morocco-France teams
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - etl
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - AI
+    - Data architecture
+    - Data Engineering
+    - Data pipelines
+    - Distributed teams
+    - Engineering Management
+    - Leadership
+    - Mentoring
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '180970'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

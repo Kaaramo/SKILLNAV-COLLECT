@@ -1,0 +1,120 @@
+{
+  "job_id": "intl-ai-corpus-1068",
+  "source": "intl-ai-corpus",
+  "source_ref": "8105138",
+  "source_url": "https://www.builtinla.com/job/lead-ai-architect/8105138",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "SimpleCiti Companies",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles, USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "AI-powered operating system for modern law firms",
+  "industries": [
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "The Mission: Build the OS for Access to Justice\n\nEvery year, 400,000 Americans are injured in accidents and\nstruggle to access legal representation because the system\nis broken. We believe this is not a legal problem—it's an\nengineering problem. SimpleCITI is seeking a Lead AI\nArchitect for one of its portfolio companies to build the\noperating system for the modern law firm: a fully autonomous\npersonal injury pre-litigation back office that runs on a\nsophisticated multi-agent system.\n\nThis is a pure systems architecture and engineering\nchallenge. We are looking for a world-class builder who\nunderstands that the future of AI is in the sophisticated\nsoftware architecture that harnesses the power of existing\nmodels. If you are an expert in building reliable, high-\nimpact AI systems, this is your opportunity to build\nsomething that matters.\n\nThe Core Challenge: Architecting the Agentic Harness\n\nThis is not a research or model-tuning role. Your mission is\nto architect and build the \"agentic harness\"—the production-\ngrade software system that orchestrates foundational models\nto perform complex, real-world work. This requires deep\nexpertise in three key areas of systems design:\n\n1. Deep Architecture (Orchestration & Tooling): You will\ndesign the core framework that allows multiple specialized\nagents to coordinate on long-running tasks. This includes\nbuilding a robust library of tools (APIs), managing state\nacross a distributed system, and implementing sophisticated\nerror recovery.\n\n2. Advanced Memory Systems (High-Fidelity RAG): You will\narchitect a high-fidelity memory system that gives agents\nthe precise context they need to reason over thousands of\npages of unstructured, domain-specific documents. This goes\nbeyond simple RAG to include complex data ingestion,\nchunking, and retrieval strategies.\n\n3. Reliability & Validation Frameworks (Reasoning Loops):\nYou will build the systems that ensure 99.9%+ accuracy. This\ninvolves implementing multi-agent validation loops (e.g., a\n\"reviewer\" agent that critiques a \"drafter\" agent),\nconfidence scoring, and human-in-the-loop escalation paths\nfor high-stakes decisions.\n\nExample Agent Architectures You Will Build\n\nYou will apply your expertise in agentic harnessing to build\na suite of specialized AI agents. Examples include:\n\nMedical Record Intelligence Agent: This is more than just\nOCR. You will architect a multi-step agent that ingests\nthousands of pages of unstructured medical records (faxes,\nhandwritten notes, EMR exports), builds a structured\ntimeline, and performs causation analysis to distinguish\npre-existing conditions from accident-related injuries. This\nrequires a high-fidelity RAG system with medical domain-\nspecific chunking and a validation loop where a secondary\nagent reviews the primary agent's findings for accuracy\nbefore finalizing the output.\n\nDemand Package Generation Agent: This is not a simple text\ngenerator. You will build a multi-agent system where a\n\"researcher\" agent gathers relevant case law and medical\ndata, a \"drafter\" agent writes a persuasive legal argument,\nand a \"validator\" agent checks citations and ensures the\nargument aligns with jurisdiction-specific rules. This\nrequires sophisticated agent coordination and tool\nintegration with legal research APIs.\n\nRequirementsTechnical Requirements\n\n- Demonstrable experience architecting and deploying\n  production-grade, multi-agent AI systems (3+ specialized,\n  coordinating agents) serving real, external users.\n- Deep, hands-on expertise with agentic AI frameworks (e.g.,\n  LangChain, LangGraph, CrewAI) and the architectural\n  patterns that make them reliable at scale.\n- Expert-level Python and a strong background in designing\n  complex, distributed systems (e.g., microservices, APIs,\n  data orchestration).\n- Experience building AI systems in regulated industries\n  (healthcare, legal, finance) with HIPAA or SOC 2\n  compliance.\n",
+  "skills_required": [
+    "CrewAI",
+    "HIPAA compliance",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "SOC 2 compliance",
+    "agentic AI frameworks",
+    "multi-agent systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect and build the agentic harness - a production-grade software system that orchestrates foundational models to perform complex, real-world work",
+    "Design the core framework for coordinating multiple specialized agents on long-running tasks, including building robust API tool libraries and implementing sophisticated error recovery",
+    "Architect high-fidelity memory systems with advanced RAG capabilities for reasoning over thousands of pages of unstructured, domain-specific documents",
+    "Build reliability and validation frameworks including multi-agent validation loops, confidence scoring, and human-in-the-loop escalation paths",
+    "Develop specialized AI agents for medical record intelligence, demand package generation, and other legal workflows",
+    "Ensure compliance with regulated industry requirements including HIPAA and SOC 2 standards"
+  ],
+  "use_cases": [
+    "Medical record intelligence: ingesting unstructured medical records, building structured timelines, and performing causation analysis to distinguish pre-existing conditions from accident-related injuries",
+    "Demand package generation: coordinating researcher, drafter, and validator agents to gather case law, write persuasive legal arguments, and ensure citation accuracy",
+    "Personal injury pre-litigation back office automation",
+    "High-fidelity retrieval and reasoning over legal and medical documents",
+    "Multi-agent validation for high-stakes legal decisions requiring 99.9%+ accuracy"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "data orchestration",
+    "distributed systems",
+    "microservices"
+  ],
+  "frameworks_mentioned": [
+    "CrewAI",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "agentic AI frameworks",
+    "multi-agent systems"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building a multi-agent AI system that\norchestrates foundational models to perform complex legal\nwork. The hands-on work includes architecting agent\nframeworks, implementing RAG systems, building validation\nloops, and deploying production agentic AI applications.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "RAG",
+      "multi-agent systems",
+      "agentic AI frameworks"
+    ],
+    "ml": [],
+    "web": [
+      "microservices",
+      "APIs"
+    ],
+    "databases": [],
+    "data": [
+      "data orchestration"
+    ],
+    "cloud": [],
+    "ops": [
+      "distributed systems"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "HIPAA compliance",
+      "SOC 2 compliance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

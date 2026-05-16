@@ -1,0 +1,130 @@
+{
+  "job_id": "intl-ai-corpus-2635",
+  "source": "intl-ai-corpus",
+  "source_ref": "8941340",
+  "source_url": "https://www.builtinla.com/job/software-engineer-ai-productivity/8941340",
+  "title": "Software Engineer - AI Productivity",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Hightouch",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-02",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B+",
+  "company_focus": "AI platform for marketing and growth teams with AI agents",
+  "industries": [
+    "Big Data",
+    "Information Technology",
+    "Software",
+    "Database",
+    "Analytics"
+  ],
+  "description": "About Hightouch\n\nHightouch is the modern AI platform for marketing and growth\nteams. Our AI agents reimagine marketing workflows, allowing\nmarketers to create content, plan campaigns, and execute\nstrategies with transformational velocity and performance.\n\nHightouch is a rare company built on the intersection of two\nfundamental technological shifts: advances in LLMs and\nagentic AI, and the creation and rapid adoption of cloud\ndata warehouses like Snowflake and Databricks. Building on\nthese tailwinds, we’ve become a leader in AI marketing and\npartner with industry leaders like Domino’s, Chime, Spotify,\nRamp, Whoop, Grammarly, and over 1000 others.\n\nOur team focuses on making a meaningful impact for our\ncustomers. We approach challenges with first-principles\nthinking, move quickly and efficiently, and treat each other\nwith compassion and kindness. We look for team members who\nare strong communicators, have a growth mindset, and are\nmotivated and persistent in achieving our goals.\n\nAbout Hightouch\n\nHightouch is the modern AI platform for marketing and growth\nteams. Our AI agents reimagine marketing workflows, allowing\nmarketers to create content, plan campaigns, and execute\nstrategies with transformational velocity and performance.\n\nHightouch is a rare company built on the intersection of two\nfundamental technological shifts: advances in LLMs and\nagentic AI, and the creation and rapid adoption of cloud\ndata warehouses like Snowflake and Databricks. Building on\nthese tailwinds, we’ve become a leader in AI marketing and\npartner with industry leaders like Domino’s, Chime, Spotify,\nRamp, Whoop, Grammarly, and over 1000 others.\n\nOur team focuses on making a meaningful impact for our\ncustomers. We approach challenges with first-principles\nthinking, move quickly and efficiently, and treat each other\nwith compassion and kindness. We look for team members who\nare strong communicators, have a growth mindset, and are\nmotivated and persistent in achieving our goals.\n\nAbout the Role\n\nWe are looking for a Staff AI Productivity Engineer to\naccelerate how our engineering organization works with AI\ncoding tools. This is a hands-on technical role focused on\nbuilding infrastructure, tooling, and documentation that\nmakes AI agents dramatically more effective across our\ncodebase.\n\nAI tools are evolving rapidly, and we believe the companies\nthat invest in making agents truly productive - not just\navailable - will have a significant advantage. You'll own\nthis problem end-to-end: from setting up cloud development\nenvironments where agents can run autonomously, to building\nMCP integrations that give agents access to our internal\nsystems, to creating the documentation and context that\nhelps agents understand how we build software.\n\nYou’ll have the hands-on acumen to do a lot of the heavy\nlifting yourself and the leadership skills to drive cross-\nteam efforts to raise the bar everywhere. This role is a\ncompanion role to our Developer Productivity role but has a\ndistinct focus: while Dev Productivity owns the\nbuild/test/deploy pipeline, you'll own the AI-assisted\ndevelopment experience. An exceptional candidate could wear\nboth hats.\n\nSome of the problems we’ll be working on include:\n\n- Own the agentic development environment: Ensure agents can\n  operate in independent cloud-based development\n  environments, execute our full test suites, examine build\n  results visually, etc\n- Build our tooling integrations: Build MCP server\n  integrations that connect our agents to the systems needed\n  to build and debug software, such as CircleCI, Slack,\n  Datadog, Github, etc\n- Documentation and context: Own our repo-wide agents.md file\n  and work with teams to ensure our library of agent\n  guidance and skills is continually pushing the bar. Ensure\n  our conventions and package structures are exposed in ways\n  that agents can effectively use\n- Enablement: Work with our engineers to understand where\n  agents are struggling and address root causes such as\n  better docs, tooling access, etc. Develop tooling for non-\n  engineers to make simple visual updates to our application\n- Serve as a “PM” for internal AI agents: Consistently keep us\n  on the leading edge of AI productivity trends by staying\n  abreast of what is state-of-the-art in industry and\n  driving those improvements across Hightouch\n\nWe are looking for talented, intellectually curious, and\nmotivated individuals who are interested in tackling the\nproblems above. This is a senior role, but we focus on\nimpact and potential for growth more than years of\nexperience. The salary range for this position is $180,000 -\n$320,000 USD per year, which is location independent in\naccordance with our remote-first policy. We also offer\nmeaningful equity compensation in the form of ISO options,\nand offer early exercise and a 10 year post-termination\nexercise window.\n\nAbout You\n\nYou are an engineer with a passion for solving hard\ntechnical problems that generate real value for customers.\nYou’re motivated by high ownership and are comfortable in a\nfast-paced, startup environment.\n\nMust have\n\n- Strong software engineering fundamentals—you can dive into\n  complex backend code and understand it quickly\n- Deep hands-on experience with AI coding agents (Claude Code,\n  Cursor, Copilot, Devin, or similar)\n- Experience writing effective agent documentation, custom\n  instructions, or context files that meaningfully improved\n  agent output\n- Track record of building developer tools or infrastructure\n  that other engineers actually use\n- Comfortable working across the stack: you'll touch CI/CD,\n  cloud infrastructure, internal tooling, and application\n  code\n\nNice to have\n\n- Experience building or contributing to MCP servers or\n  similar agent-tooling integrations\n- Background in developer productivity, platform engineering,\n  or developer experience roles\n- Experience with our stack: TypeScript/JavaScript monorepos,\n  Go, GraphQL\n- You've set up sandboxed or containerized development\n  environments at scale\n\nInterview Process\n\nOur goal with the interview process is to balance speed with\ngiving both parties opportunities to assess whether there is\na strong mutual fit. We will ask you questions, but we want\nyou to ask us questions! Our technical interviews focus on\nhow you design systems because we believe this is the best\nway for us to see how you work and for you to see how we\ncollaborate. We don’t ask you to write code to solve\ntechnical brainteasers that don’t appear in your day to day\njob.\n\n- Apply: Curl jobapi.hightouchdata.com on port 13784 and have\n  followed those instructions before applying. It'll only\n  take a minute!\n- Recruiter Screen [30m]: Introductory call with our\n  recruiting team to get to know each other and see if the\n  role could be a good mutual fit\n- System Design Screen [45m]: Designing a data processing\n  feature end-to-end\n- AI Skills Interview [60m]: We’ll dive into how you leverage\n  AI and how you’ve helped others do the same\n- Hiring Manager Interview [45m]: Chat with hiring manager\n  about past experiences and future operating preferences to\n  assess fit on company values and operating principles\n- System Design Interview [90m]: Work with the interviewer to\n  architect a system at a conceptual level. The problem will\n  be at a pretty high level - and have both product and\n  customer requirements as well as technical\n\nE-Verify Statement\n\nHightouch participates in E-Verify. We will provide the\nSocial Security Administration, and if necessary, the\nDepartment of Homeland Security, with information from each\nnew employee’s Form I-9 to confirm work authorization.\nPlease note that we do not use this information to pre-\nscreen job applicants.\n\nE-Verify Notice E-Verify Notice (Spanish) Right to Work\nNotice Right to Work Notice (Spanish)\n",
+  "skills_required": [
+    "AI coding agents (Claude Code, Cursor, Copilot, Devin)",
+    "MCP (Model Context Protocol)",
+    "Prompt engineering / agent context files",
+    "Slack integrations"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own the agentic development environment, ensuring AI agents can operate in independent cloud-based dev environments, execute test suites, and examine build results",
+    "Build MCP server integrations connecting AI agents to internal systems like CircleCI, Slack, Datadog, and GitHub",
+    "Own repo-wide agent documentation (agents.md) and maintain a library of agent guidance and skills across teams",
+    "Work with engineers to diagnose where AI agents struggle and address root causes through better docs, tooling, and access",
+    "Develop tooling for non-engineers to make simple visual updates to the application using AI-assisted workflows",
+    "Stay abreast of cutting-edge AI productivity trends and drive improvements across the engineering organization",
+    "Serve as an internal PM for AI agents, keeping the team on the leading edge of AI productivity"
+  ],
+  "use_cases": [
+    "AI-powered developer productivity and coding acceleration",
+    "Autonomous AI agents operating in cloud development environments",
+    "MCP integrations connecting AI agents to CI/CD, monitoring, and collaboration tools",
+    "AI-assisted software development experience optimization",
+    "Enabling non-engineers to make application changes via AI tooling"
+  ],
+  "tools_mentioned": [
+    "CI/CD (CircleCI)",
+    "Cloud infrastructure",
+    "Databricks",
+    "Datadog",
+    "Docker / containerized dev environments",
+    "GitHub",
+    "GraphQL",
+    "Monorepo management",
+    "Snowflake"
+  ],
+  "frameworks_mentioned": [
+    "AI coding agents (Claude Code, Cursor, Copilot, Devin)",
+    "MCP (Model Context Protocol)",
+    "Prompt engineering / agent context files"
+  ],
+  "languages_programming": [
+    "Go",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building AI agent\ninfrastructure—MCP server integrations, agentic development\nenvironments, and agent documentation/context systems. While\nthe engineer isn't training ML models, they are hands-on\nbuilding and deploying AI agent systems (Claude Code,\nCursor, Copilot, Devin) and creating the tooling that makes\nAI agents operational in production environments. This\nqualifies as ai-first since it involves implementing and\ndeploying AI agent systems end-to-end.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "MCP (Model Context Protocol)",
+      "AI coding agents (Claude Code, Cursor, Copilot, Devin)",
+      "Prompt engineering / agent context files"
+    ],
+    "ml": [],
+    "web": [
+      "GraphQL"
+    ],
+    "databases": [
+      "Snowflake"
+    ],
+    "data": [
+      "Databricks"
+    ],
+    "cloud": [
+      "Cloud infrastructure"
+    ],
+    "ops": [
+      "CI/CD (CircleCI)",
+      "Docker / containerized dev environments",
+      "Datadog",
+      "GitHub",
+      "Monorepo management"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Go"
+    ],
+    "domains": [],
+    "other": [
+      "Slack integrations"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

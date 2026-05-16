@@ -1,0 +1,50 @@
+company:
+  name: Unknown
+  stage: null
+  focus: null
+position:
+  title: Consultant Data Analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web:
+    - angular
+    - Connaissance pratique Tableau, Qlik, Power BI, D3 avec HTML5, Java / Javascript, Python/R, Rest API, Angular,…
+    - html5
+    - rest api
+    - vue
+    databases:
+    - postgresql
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - java
+    - javascript
+    - python
+    - R
+    domains: []
+    other:
+    - agile
+    - API
+    - Bac +5 ( mathématiques ou statistiques et informatique avec une spécialisation en analyse de données.
+    - Capacités exceptionnelles d'analyse, de conception et de résolution de problèmes
+    - Les certifications sont un plus
+    - Minimum 8 ans d’expériences en business Intelligence ou visualisation de données.
+    - power bi
+    - powerbi
+    - qlik
+    - Rest
+    - tableau
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '1008685852137'
+  extracted_at: '2026-05-16T01:27:45+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

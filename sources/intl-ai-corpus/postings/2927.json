@@ -1,0 +1,149 @@
+{
+  "job_id": "intl-ai-corpus-2927",
+  "source": "intl-ai-corpus",
+  "source_ref": "9066301",
+  "source_url": "https://builtin.com/job/lead-ai-engineer/9066301",
+  "title": "Lead AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Ingram Micro",
+  "company_type": "entité morale privée",
+  "location": "Chennai, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "27,182 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global technology distribution and supply chain services",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "It's fun to work in a company where people truly BELIEVE in\nwhat they're doing!\n\nJob Description:\n\nDeployment & Infrastructure Management:\n\n- Deploy, configure, and manage AI models, agentic systems,\n  and supporting infrastructure in cloud (e.g., GCP) and on-\n  premise environments.\n- Implement and maintain CI/CD pipelines for AI/ML models and\n  agentic applications (MLOps/Agent Ops).\n- Manage and optimize cloud resources, ensuring cost-\n  effectiveness and scalability for AI workloads.\n- Collaborate with infrastructure teams to ensure network,\n  storage, and compute resources meet the demands of AI\n  systems.\n\nMonitoring, Logging & Alerting:\n\n- Develop and implement comprehensive monitoring, logging, and\n  alerting solutions for AI agents and infrastructure to\n  ensure high availability and performance.\n- Proactively identify and address potential issues,\n  performance bottlenecks, and anomalies in production AI\n  systems.\n- Track key operational metrics and create dashboards for\n  system health and performance.\n\nIncident Response & Troubleshooting:\n\n- Provide operational support for production AI systems,\n  including incident response, root cause analysis, and\n  resolution of technical issues.\n- Develop and maintain runbooks and standard operating\n  procedures for common operational tasks and incident\n  management.\n- Participate in on-call rotations as needed to support\n  critical AI services.\n\nAutomation & Operational Excellence:\n\n- Automate routine operational tasks, deployment processes,\n  and system maintenance activities using scripting (e.g.,\n  Python, Bash) and automation tools.\n- Contribute to the development and enforcement of operational\n  best practices, security standards, and compliance\n  requirements for AI systems.\n- Work with development teams to improve the deployability,\n  manageability, and observability of AI applications.\n\nCollaboration & Documentation:\n\n- Collaborate effectively with AI developers, data scientists,\n  AI architects, and other stakeholders to ensure smooth\n  transitions from development to production.\n- Maintain clear and comprehensive documentation for system\n  configurations, operational procedures, and\n  troubleshooting guides.\n- Provide feedback to development teams on operational aspects\n  and system performance.\n\nPreferred Qualifications & Experience:\n\n- Bachelor’s degree in Computer Science, Information\n  Technology, Engineering, or a related technical field.\n- 4-7+ years of experience in a MLOps or Agent Ops role,\n  preferably supporting AI/ML or data-intensive\n  applications.\n- Hands-on experience with cloud computing platforms (e.g.,\n  Google Cloud Platform - especially Vertex AI) and managing\n  cloud-based infrastructure.\n- Proficiency in scripting languages such as Python, Bash, or\n  PowerShell for automation.\n- Experience with CI/CD tools and practices (e.g., Bitbucket,\n  GitLab CI, GitHub Actions).\n- Familiarity with containerization technologies (e.g.,\n  Docker, Kubernetes) and orchestration.\n- Experience with monitoring and logging tools (e.g.,\n  Prometheus, Grafana, ELK Stack, Datadog, Google Cloud\n  Monitoring, Langfuse).\n- Understanding of networking concepts, security best\n  practices, and infrastructure-as-code (IaC) principles\n  (e.g., Terraform, Ansible).\n- Strong troubleshooting and problem-solving skills with an\n  analytical mindset.\n- Excellent communication skills and ability to work\n  collaboratively in a team environment.\n- A proactive approach to identifying and resolving issues and\n  improving system reliability.\n- Master's degree in a relevant field.\n- Specific experience in MLOps or Agent Ops, including\n  deploying and managing machine learning models or large\n  language model applications in production.\n- Familiarity with AI/ML frameworks and libraries (e.g.,\n  TensorFlow, PyTorch, scikit-learn).\n- Understanding of agentic AI concepts and the operational\n  challenges they present.\n- Experience with managing vector databases or other\n  specialized data stores for AI.\n- Knowledge of data pipeline tools (e.g., Apache Airflow,\n  Kubeflow Pipelines).\n- Relevant cloud certifications (e.g., Google Cloud\n  Professional ML Engineer).\n- Experience working in an agile development environment.\n\nWhy Join Us?\n\n- Play a critical role in operationalizing cutting-edge\n  Agentic AI and AI systems for a global industry leader.\n- Gain hands-on experience with the latest MLOps, Agent Ops,\n  and cloud technologies.\n- Work in a dynamic, innovative, and collaborative AI Center\n  of Excellence.\n- Opportunity to significantly impact the reliability and\n  efficiency of transformative AI solutions.\n- Competitive salary, bonus, and benefits package.\n",
+  "skills_required": [
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Deploy, configure, and manage AI models and agentic systems in cloud and on-premise environments",
+    "Implement and maintain CI/CD pipelines for AI/ML models and agentic applications (MLOps/Agent Ops)",
+    "Develop and implement monitoring, logging, and alerting solutions for AI agents and infrastructure",
+    "Provide operational support for production AI systems including incident response and root cause analysis",
+    "Automate routine operational tasks, deployment processes, and system maintenance using scripting and automation tools",
+    "Collaborate with AI developers, data scientists, and architects to ensure smooth transitions from development to production",
+    "Maintain documentation for system configurations, operational procedures, and troubleshooting guides",
+    "Contribute to operational best practices, security standards, and compliance requirements for AI systems"
+  ],
+  "use_cases": [
+    "Operationalizing agentic AI systems for a global industry leader",
+    "Production deployment and management of LLM-based agent applications",
+    "Monitoring and ensuring high availability of AI infrastructure",
+    "Automating MLOps/Agent Ops workflows for AI Center of Excellence"
+  ],
+  "tools_mentioned": [
+    "Agent Ops",
+    "Ansible",
+    "Apache Airflow",
+    "Bitbucket",
+    "CI/CD",
+    "Datadog",
+    "Docker",
+    "ELK Stack",
+    "GCP",
+    "GitHub Actions",
+    "GitLab CI",
+    "Google Cloud Monitoring",
+    "Grafana",
+    "Kubeflow Pipelines",
+    "Kubernetes",
+    "Langfuse",
+    "MLOps",
+    "Prometheus",
+    "Terraform",
+    "Vector Databases",
+    "Vertex AI"
+  ],
+  "frameworks_mentioned": [
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Bash",
+    "PowerShell",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is primarily an MLOps/Agent Ops infrastructure\nposition focused on deploying, monitoring, and maintaining\nAI systems in production rather than building or training\nmodels. While it involves deploying and managing AI models\nand agentic systems, the core responsibilities center on\noperational infrastructure, CI/CD pipelines, monitoring,\nincident response, and automation — enabling AI developers\nand data scientists rather than directly building or fine-\ntuning models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn"
+    ],
+    "web": [],
+    "databases": [
+      "Vector Databases"
+    ],
+    "data": [
+      "Apache Airflow"
+    ],
+    "cloud": [
+      "GCP",
+      "Vertex AI"
+    ],
+    "ops": [
+      "CI/CD",
+      "MLOps",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Ansible",
+      "Prometheus",
+      "Grafana",
+      "Datadog",
+      "Langfuse",
+      "ELK Stack",
+      "Google Cloud Monitoring",
+      "Bitbucket",
+      "GitLab CI",
+      "GitHub Actions",
+      "Kubeflow Pipelines",
+      "Agent Ops"
+    ],
+    "languages": [
+      "Python",
+      "Bash",
+      "PowerShell"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

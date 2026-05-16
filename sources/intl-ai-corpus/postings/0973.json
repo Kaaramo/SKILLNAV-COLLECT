@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-0973",
+  "source": "intl-ai-corpus",
+  "source_ref": "7860146",
+  "source_url": "https://builtin.com/job/senior-ai-platform-engineer/7860146",
+  "title": "Senior AI Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cargill",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-17",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "155,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global agriculture and food production company",
+  "industries": [
+    "Food",
+    "Greentech",
+    "Logistics",
+    "Sharing Economy",
+    "Transportation",
+    "Agriculture",
+    "Industrial"
+  ],
+  "description": "Job Purpose and Impact\n\n- The Senior Professional, Software Engineering job designs,\n  develops and maintains software applications and systems.\n  With minimal supervision, this job collaborates with cross\n  functional teams to define, design and implement new\n  software features to meet user needs and business goals,\n  and upgrade existing software to improve performance and\n  functionality through writing clean, efficient and\n  scalable code and troubleshooting and debugging complex\n  issues. This job also participates in code reviews to\n  maintain high code quality and share knowledge with\n  software engineering team members.\n\nKey Accountabilities\n\n- SOFTWARE DEVELOPMENT: Designs and develops high quality\n  software solutions by writing clean, maintainable and\n  efficient codes.\n- AUTOMATION: Leads the application of internal software\n  deployment platform, methodologies and tools to automate\n  the deployment process, ensuring smooth and reliable\n  releases.\n- COLLABORATION: Partners with cross functional team of\n  product managers, designers and different engineers to\n  gather complex requirements and deliver solutions that\n  meet business needs.\n- TESTING & DEBUGGING: Writes and maintains complex unit tests\n  and integration tests, and performs debugging to maintain\n  the quality and performance of the software.\n- CONTINUOUS IMPROVEMENT: Suggests options for improving the\n  software development and deployment processes, and\n  implements the approved standards to improve efficiency\n  and reliability.\n- DOCUMENTATION: Builds and maintains comprehensive\n  documentation for complex software applications,\n  deployment processes and system configurations.\n- TECHNICAL SUPPORT: Provides technical support and\n  troubleshooting for complex issues with deployed\n  applications to ensure minimal downtime and fast\n  resolution.\n\nQualifications\n\n- Minimum requirement of 4 years of relevant work experience.\n  Typically reflects 5 years or more of relevant experience.\n- Builds, configures, and deploys complex automation workflows\n  and pipelines.\n- Enable self-service features for automating, testing,\n  rollout, and user acceptance of agents.\n- Build and govern standard templates and frameworks for\n  consistent, scalable automation.\n- Platform integrations, security, compliance and monitoring.\n",
+  "skills_required": [
+    "Security compliance",
+    "Testing frameworks"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop high quality software solutions with clean, maintainable code",
+    "Lead deployment platform operations and automate deployment processes for reliable releases",
+    "Partner with cross-functional teams to gather requirements and deliver software solutions",
+    "Write and maintain complex unit tests and integration tests for software quality",
+    "Implement approved standards to improve development and deployment efficiency",
+    "Build and maintain documentation for applications and deployment processes",
+    "Provide technical support and troubleshooting for deployed applications",
+    "Build and configure complex automation workflows and pipelines"
+  ],
+  "use_cases": [
+    "AI agent deployment automation and testing",
+    "Self-service platform for agent rollout and user acceptance",
+    "Standardized templates and frameworks for scalable automation",
+    "Platform integrations with security and compliance monitoring"
+  ],
+  "tools_mentioned": [
+    "API integration",
+    "Automation workflows",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "Platform engineering"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a platform engineering role focused on building\ninfrastructure and automation for AI agents, not building\nthe AI systems themselves. The role enables self-service\nfeatures for agent deployment, testing, and rollout -\nsupporting other teams who build the actual AI models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "API integration"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "Automation workflows",
+      "Platform engineering",
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Testing frameworks",
+      "Security compliance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,183 @@
+{
+  "job_id": "intl-ai-corpus-2206",
+  "source": "intl-ai-corpus",
+  "source_ref": "8804778",
+  "source_url": "https://builtin.com/job/generative-ai-solutions-developer/8804778",
+  "title": "Generative AI Solutions Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "KX",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-19",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "513 Employees",
+  "company_stage": "Established",
+  "company_focus": "Time-aware data analytics and AI platform for enterprise",
+  "industries": [
+    "Artificial Intelligence",
+    "Cloud",
+    "Software",
+    "Database",
+    "Big Data Analytics"
+  ],
+  "description": "About KX\n\nKX software powers the time-aware data-driven decisions that\nenable fast-moving companies to outpace competitors,\nrealizing the full potential of their AI investments. The KX\nplatform delivers transformational value by addressing data\nchallenges related to completeness, timeliness and\nefficiency, ensuring companies understand change over time\nand can achieve faster, more accurate insights at any scale,\ncost-effectively.\n\nKX is essential to the operations of the world's top\ninvestment banks, aerospace and defence, high-tech\nmanufacturing, healthcare and life sciences, automotive and\nfleet telematics organizations. The company has established\noffices and a robust customer base across North America,\nEurope, and Asia Pacific.\n\nOverview Of The Role\n\nOwn the end-to-end technical design for large-language-model\n(LLM) and generative-AI solutions across NVIDIA, AWS, Azure\nand GCP stacks. You will translate business use-cases into\nsecure, scalable architectures, lead reference\nimplementations, and mentor delivery teams for enterprise\ndeployments—especially in financial-services environments.\n\nKey Responsibilities\n\n- Shape multi-cloud architectures for training, fine-tuning\n  and serving LLMs (e.g., NeMo, Bedrock, Azure OpenAI,\n  Vertex AI).\n- Define MLOps/GitOps patterns for model lifecycle, vector–DB\n  indexing, retrieval-augmented generation (RAG) and guard-\n  railing. Benchmark and cost-optimize GPU, Grace Hopper and\n  CPU clusters (TCO & carbon impact).Build production\n  pipelines in Python (FastAPI, LangChain, Ray, Triton,\n  Airflow).\n- Establish security and compliance controls (encryption, IAM,\n  SOC 2, FINRA,GDPR).\n- Support pre-sales and proofs-of-concept with capital-markets\n  clients.\n\nSkills\n\nProgramming\n\n- Python (must-have)\n- JavaScript / TypeScript (for web + full-stack AI apps)\n- Writing clean, testable code\n\nMath & ML Basics\n\n- Linear algebra (vectors, matrices, embeddings)\n- Probability & statistics\n- ML concepts: overfitting, loss functions, training vs\n  inference\n\nData Skills\n\n- Data cleaning & preprocessing\n- Pandas, NumPy\n- SQL basics\n\nEssential Experience\n\n- 10-15 yrs building cloud-native data or ML platforms on AWS,\n  Azure and/or GCP. Deep expertise in Python plus one of Go,\n  Java\n- or C++.Hands-on with embedding models, tokenizer\n  optimisation, prompt orchestration and OpenAI/Anthropic\n  APIs. Prior delivery of enterprise Gen-AI systems (risk\n  analytics, chatbots, document generation etc.).Solid\n  grounding in distributed systems (K8s, service mesh,\n  Kafka, Redis, GPU scheduling).\n\nPreferred Qualifications\n\n- Experience with kdb+/q, ClickHouse or similar time-series\n  stores. Contributions to open-source AI frameworks or\n  NVIDIA NGC containers. Working knowledge of SRE/FinOps\n  best practice.\n\nLocation & Workplace Type\n\nThis position takes on a Hybrid working model based in\nOntario, Canada.\n\n\n\nWhy Choose KX\n\nData Driven: We lead with instinct and follow fact.\n\nNaturally Curious: We lean in, listen and learn fast.\n\nAll In: We take ownership, take on challenges and give it\nour all.\n\nBenefits\n\n- Competitive Salary\n- Individually tailored training and skills development\n- Private healthcare package and Employee Assistance Programme\n- Enhanced maternity and paternity package\n- Wellness Days and Volunteer Days\n",
+  "skills_required": [
+    "Anthropic APIs",
+    "Embedding models",
+    "FINRA compliance",
+    "GDPR compliance",
+    "LangChain",
+    "NVIDIA NeMo",
+    "OpenAI APIs",
+    "Prompt engineering",
+    "RAG",
+    "SOC 2 compliance"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own end-to-end technical design for LLM and generative AI solutions across NVIDIA, AWS, Azure, and GCP stacks",
+    "Shape multi-cloud architectures for training, fine-tuning, and serving LLMs using NeMo, Bedrock, Azure OpenAI, and Vertex AI",
+    "Define MLOps/GitOps patterns for model lifecycle, vector-DB indexing, RAG implementations, and guard-railing",
+    "Build production pipelines in Python using FastAPI, LangChain, Ray, Triton, and Airflow",
+    "Benchmark and cost-optimize GPU, Grace Hopper, and CPU clusters for TCO and carbon impact",
+    "Establish security and compliance controls including encryption, IAM, SOC 2, FINRA, and GDPR",
+    "Support pre-sales and proofs-of-concept with capital-markets clients",
+    "Mentor delivery teams for enterprise deployments in financial-services environments"
+  ],
+  "use_cases": [
+    "Enterprise LLM training, fine-tuning, and serving",
+    "Retrieval-augmented generation (RAG) systems",
+    "Risk analytics for financial services",
+    "Enterprise chatbots",
+    "Document generation",
+    "Capital markets AI solutions"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "Airflow",
+    "Azure",
+    "Azure OpenAI",
+    "ClickHouse",
+    "FastAPI",
+    "GCP",
+    "GPU scheduling",
+    "GitOps",
+    "IAM",
+    "Kafka",
+    "Kubernetes",
+    "MLOps",
+    "NumPy",
+    "Pandas",
+    "Ray",
+    "Redis",
+    "Triton",
+    "Vector databases",
+    "Vertex AI",
+    "kdb+"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic APIs",
+    "Embedding models",
+    "LangChain",
+    "NVIDIA NeMo",
+    "OpenAI APIs",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "C++",
+    "Go",
+    "Java",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work designing and implementing\nLLM and generative AI solutions, including training, fine-\ntuning, and serving models, implementing RAG architectures,\nand building production pipelines with LangChain and other\nGenAI tools. The focus is on building and deploying AI\nsystems directly.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "OpenAI APIs",
+      "Anthropic APIs",
+      "RAG",
+      "Prompt engineering",
+      "Embedding models"
+    ],
+    "ml": [
+      "NVIDIA NeMo"
+    ],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "Vector databases",
+      "Redis",
+      "kdb+",
+      "ClickHouse"
+    ],
+    "data": [
+      "Ray",
+      "Airflow",
+      "Kafka",
+      "Pandas",
+      "NumPy"
+    ],
+    "cloud": [
+      "AWS Bedrock",
+      "Azure OpenAI",
+      "Vertex AI",
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Triton",
+      "Kubernetes",
+      "MLOps",
+      "GitOps",
+      "GPU scheduling",
+      "IAM"
+    ],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "SOC 2 compliance",
+      "FINRA compliance",
+      "GDPR compliance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

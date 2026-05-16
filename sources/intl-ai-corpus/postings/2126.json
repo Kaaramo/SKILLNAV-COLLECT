@@ -1,0 +1,151 @@
+{
+  "job_id": "intl-ai-corpus-2126",
+  "source": "intl-ai-corpus",
+  "source_ref": "8769194",
+  "source_url": "https://www.builtinla.com/job/senior-software-engineer-ai/8769194",
+  "title": "Software Engineer, AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Stord",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-16",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Series B+",
+  "company_focus": "Cloud-based supply chain and logistics platform for commerce",
+  "industries": [
+    "Logistics",
+    "Software"
+  ],
+  "description": "Stord is The Consumer Experience Company, powering seamless\ncheckout through delivery for today's leading brands. Stord\nis rapidly growing and is on track to double our revenue in\nthe next 18 months. To meet and exceed this target, Stord is\nstrategically scaling teams across the entire company, and\nseeking energetic experts to help us achieve our mission.\n\nBy combining comprehensive commerce-enablement technology\nwith high-volume fulfillment services, Stord provides brands\na platform to compete with retail giants. Stord manages over\n$10 billion of commerce annually through its fulfillment,\nwarehousing, transportation, and operator-built software\nsuite including OMS, Pre- and Post-Purchase, and WMS\nplatforms. Stord is leveling the playing field for all\nbrands to deliver the best consumer experience at scale.\n\nWith Stord, brands can increase cart conversion, improve\nunit economics, and drive sustained customer loyalty.\nStord’s end-to-end commerce solutions combine best-in-class\nomnichannel fulfillment and shipping with leading technology\nto ensure fast shipping, reliable delivery promises, easy\naccess to more channels, and improved margins on every\norder.\n\nHundreds of leading DTC and B2B companies like AG1, True\nClassic, Native, Seed Health, quip, goodr, Sundays for Dogs,\nand more trust Stord to deliver industry-leading consumer\nexperiences on every order. Stord is headquartered in\nAtlanta with facilities across the United States, Canada,\nand Europe. Stord is backed by top-tier investors including\nKleiner Perkins, Franklin Templeton, Founders Fund, Strike\nCapital, Baillie Gifford, and Salesforce Ventures.\n\nStord is building the operating system for the modern supply\nchain — a unified platform handling Order Management,\nWarehouse Management, Transportation, and Consumer\nExperience for brands doing over $10B in commerce annually.\nAI is not a future roadmap item here. It is actively\nreshaping how we operate — and LLM-powered features and\nautonomous agents are at the center of that transformation.\nThis role is for engineers who have built and shipped AI-\npowered products in production — not engineers who are\ncurious about AI. You will design and build the agent\nframeworks, LLM-powered features, and backend services that\nbring AI capabilities into daily use by hundreds of\nlogistics operations. You will work directly with our\nDirector of AI Products and partner with Data Scientists and\nML Engineers to move fast from model to product. If you are\nthe kind of engineer who has already shipped LLM-powered\nfeatures, who gets excited about what agentic AI can do in a\ncomplex operational domain, and who wants to define the AI\nfoundation of a platform at scale — this role was built for\nyou.\n\nWhy This Role\n\n- Direct line from your work to shipped AI features powering\n  real logistics operations\n- Greenfield opportunity: you will shape how AI — including\n  agents and LLM-powered workflows — is integrated across\n  the platform, not inherit legacy patterns\n- Collaborate closely with Data Scientists and ML Engineers —\n  this is a full-stack AI team, not siloed experimentation\n- Opportunity to define internal standards and tooling that\n  other engineers build on top of\n- Work at a company where AI investment is a board-level\n  mandate, not a pet project\n\nWhat You'll Build\n\nThis is a sample of what you'll work on — the scope will\nevolve as we grow and as you help shape what's next.\n\nLLM-Powered Features and Agents\n\n- Conversational AI and agentic workflows for logistics\n  operators and brand customers\n- LLM-powered features using OpenAI, Anthropic Claude, and\n  Cloudflare Workers AI — with proper prompt engineering,\n  tool use, rate limiting, fallback handling, and cost\n  controls\n- Agent frameworks that orchestrate multi-step AI workflows\n  across supply chain domains\n- Recommendation engines that surface actionable intelligence\n  to operations teams\n\nProduction AI Features\n\n- Demand forecasting APIs that connect ML model outputs to\n  inventory management workflows\n- Intelligent routing services that leverage ML predictions\n  for logistics optimization\n- Real-time anomaly detection pipelines for supply chain\n  monitoring\n\nAI Platform Infrastructure\n\n- Fault-tolerant Node.js services that consume predictions\n  from Modal.com, Vertex AI, and other ML platforms\n- Real-time data pipelines feeding ML models at production\n  scale\n- Developer abstractions that make AI capabilities easy for\n  product engineers to integrate\n- Caching, optimization, and serving strategies for low-\n  latency inference\n- Observability, alerting, and experimentation infrastructure\n  for AI features\n\nCross-Functional Impact\n\n- Partner with the Director of AI Products on technical\n  strategy and architecture decisions\n- Work with Data Scientists to translate model requirements\n  into production-ready integration contracts\n- Support product teams in implementing AI features within\n  their domains\n- Mentor other engineers on AI integration patterns and best\n  practices\n\nWhat We're Looking For\n\nRequired\n\n- LLM and agent development (2+ years): Proven production\n  experience building and deploying LLM-powered features —\n  not just API integration, but full product delivery\n  including prompt engineering, tool use, agent\n  orchestration, and reliability at scale.\n- TypeScript / Node.js (3+ years): Production experience\n  building scalable backend services. This is your primary\n  environment.\n- AI frameworks: Hands-on experience with LangChain,\n  LangGraph, or equivalent agent orchestration frameworks.\n- ML platform integration: Hands-on experience consuming\n  predictions from Modal.com, Vertex AI, or similar\n  inference platforms.\n- Distributed systems: Fault tolerance, async patterns,\n  message queues (Kafka or equivalent), event-driven\n  architecture.\n- API design: RESTful and event-driven integration experience\n  — both building and consuming.\n- Database: Advanced SQL with PostgreSQL. You can write a\n  query that matters.\n- Cloud: Hands-on GCP, AWS, or Azure. GCP preferred given our\n  stack.\n- High agency: You operate with minimal direction. You\n  identify the right problem, propose solutions, and drive\n  to done.\n- Product mindset: You optimize for user impact, not just code\n  elegance. Reliability and delivery matter to you.\n\nStrongly Preferred\n\n- Vector databases and semantic search (Pinecone, Weaviate,\n  pgvector, or equivalent)\n- Feature stores and real-time ML serving patterns\n- Cloudflare Workers / edge inference experience\n- A/B testing and experimentation infrastructure\n\nNice to Have\n\n- Elixir / Phoenix — we run a mixed stack and cross-\n  pollination is valued\n- Event sourcing patterns\n- Contributions to open source AI, TypeScript, or Node.js\n  projects\n- Domain experience in logistics, supply chain, or operations-\n  heavy B2B contexts\n\nWhat Success Looks Like\n\nIn your first 30 days, you have made a meaningful\ncontribution to production — not a small fix, but something\nthat moves the product. You understand our stack, our AI\narchitecture, and our roadmap, and you have already started\nshaping how we approach problems. By 90 days, you are a\ntrusted technical voice on the AI team, driving architecture\ndecisions and setting patterns that others follow. By six\nmonths, you have shipped multiple AI-powered features end to\nend, you are raising the bar for how AI is built and\ndeployed at Stord, and you are actively mentoring others on\nwhat good looks like.\n\nAbout Stord\n\nStord is a cloud-based supply chain platform that enables\nbrands to compete and grow through end-to-end logistics\nsolutions. We process over $10B in commerce annually and\noperate across Order Management (OMS), Warehouse Management\n(WMS), Transportation Management (TMS), Consumer Experience,\nand Demand Planning. We are backed by leading investors and\nare rapidly scaling our engineering organization to match\nour ambitions.\n",
+  "skills_required": [
+    "Agent Orchestration",
+    "Anthropic Claude",
+    "Cloudflare Workers AI",
+    "LangChain",
+    "LangGraph",
+    "OpenAI API",
+    "Prompt Engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build agent frameworks and LLM-powered features for logistics operations",
+    "Develop conversational AI and agentic workflows for logistics operators and brand customers",
+    "Build production AI features including demand forecasting APIs and intelligent routing services",
+    "Create fault-tolerant Node.js services that consume predictions from ML platforms like Modal.com and Vertex AI",
+    "Implement real-time data pipelines and caching strategies for low-latency inference",
+    "Build developer abstractions and internal tooling to make AI capabilities accessible to product engineers",
+    "Partner with Director of AI Products on technical strategy and architecture decisions",
+    "Mentor engineers on AI integration patterns and best practices"
+  ],
+  "use_cases": [
+    "Conversational AI and agentic workflows for logistics operators",
+    "Demand forecasting for inventory management",
+    "Intelligent routing optimization for logistics",
+    "Real-time anomaly detection for supply chain monitoring",
+    "Recommendation engines for operations intelligence",
+    "Multi-step AI workflow orchestration across supply chain domains"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "AWS",
+    "Azure",
+    "Event-driven architecture",
+    "Feature stores",
+    "GCP",
+    "Kafka",
+    "Modal.com",
+    "Pinecone",
+    "PostgreSQL",
+    "RESTful APIs",
+    "Vertex AI",
+    "Weaviate",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Agent Orchestration",
+    "Anthropic Claude",
+    "Cloudflare Workers AI",
+    "LangChain",
+    "LangGraph",
+    "OpenAI API",
+    "Prompt Engineering"
+  ],
+  "languages_programming": [
+    "Elixir",
+    "Node.js",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role requires hands-on development of LLM-powered\nfeatures and autonomous agents using frameworks like\nLangChain/LangGraph, with direct responsibility for building\nagent frameworks, prompt engineering, tool use, and\norchestrating multi-step AI workflows. The position\nexplicitly states \"AI is not a future roadmap item\" and\ninvolves deploying AI solutions in production, not\nsupporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "OpenAI API",
+      "Anthropic Claude",
+      "Prompt Engineering",
+      "Agent Orchestration",
+      "Cloudflare Workers AI"
+    ],
+    "ml": [],
+    "web": [
+      "RESTful APIs"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Pinecone",
+      "Weaviate",
+      "pgvector"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "GCP",
+      "AWS",
+      "Azure",
+      "Vertex AI",
+      "Modal.com"
+    ],
+    "ops": [
+      "Event-driven architecture",
+      "Feature stores",
+      "A/B testing"
+    ],
+    "languages": [
+      "TypeScript",
+      "Node.js",
+      "SQL",
+      "Elixir"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-0117",
+  "source": "intl-ai-corpus",
+  "source_ref": "7095189",
+  "source_url": "https://builtin.com/job/ai-engineer-full-stack/7095189",
+  "title": "AI Engineer - Full-Stack",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Traversal",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "on-site",
+  "posted_date": "2026-01-17",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Series A",
+  "company_focus": "AI-powered site reliability engineering platform",
+  "industries": [],
+  "description": "About Traversal\n\nTraversal is the AI Site Reliability Engineer (SRE) for the\nenterprise—already trusted by some of the largest companies\nin the world to troubleshoot, remediate, and even prevent\nthe most complex production incidents. Our mission is to\nfree engineers from endless firefighting and enable them to\nfocus on creative, high-impact work.\n\nOur roots remain deeply embedded in AI research, and we’re\nchanneling that scientific rigor and creativity into\nbuilding the premier AI agent lab for the enterprise. Hence,\nwhat we’re proudest of is assembling the most talented yet\nnicest group of individuals, including researchers from MIT,\nHarvard, and Berkeley, to world-class engineers from\nindustry: Citadel Securities, Cockroach Labs, Datadog, DE\nShaw, ServiceNow, Glean, Perplexity, Pinecone, and more, to\ntake on one of the hardest problems for AI to solve. Without\nthe entire team, none of this would be possible.\n\nThe Role\n\nAs a Full-Stack AI Engineer at Traversal, you’ll play a key\nrole in designing and building core features powered by our\nAI site reliability engineer. From the user interface to the\nbackend and infrastructure, you’ll develop product\ncomponents to enable real-time incident detection, root\ncause analysis, and automated remediation in some of the\nmost complex production environments. This role will focus\non the ability to work across the full pipeline of our\nproduct, and someone who can have a strong product sense\nwhile also being comfortable working around AI and data\nprocessing infrastructure will be the best fit.\n\nResponsibilities\n\n- Product Impact: Translate AI-powered insights into user-\n  friendly features that empower engineers and reduce\n  cognitive load.\n- User Experience: Innovate and drive the evolution of UX/UI\n  design, rapidly iterating based on user feedback to\n  improve overall usability.\n- API Development: Design and implement high-performance APIs\n  to enable seamless communication between backend systems\n  and frontend interfaces.\n- Data Management: Ensure efficient data storage, retrieval,\n  and processing, leveraging technologies like PostgreSQL,\n  Redis, or others.\n- AI Integration: Collaborate with AI engineers/researchers to\n  integrate AI-driven insights and solutions into backend\n  systems, and take ownership of API authentication and\n  authorization frameworks.\n- Data Visualization: Develop intuitive interfaces for\n  presenting and interacting with complex time-series and\n  topological data.\n\nRequirements\n\n- 3+ years of software engineering experience, with a strong\n  focus on full-stack systems.\n- Proven ability to lead in fast-paced startup environments,\n  with limited resources, shifting priorities, and minimal\n  structure.\n- Strong experience with Python and web frameworks such as\n  FastAPI.\n- Hands-on experience with React, TypeScript, Next.js, and\n  TailwindCSS to build fast, responsive, and maintainable\n  frontends. React experience is essential, but we’re happy\n  to support learning the other tools.\n- Experience deploying applications on AWS, working with ECS\n  or Kubernetes, Postgres for data storage, and S3 for\n  large-scale object storage.\n- Note: You don’t need to meet every single requirement. If\n  you have deep experience in a subset of these areas, we\n  encourage you to apply.\n\nNice to Have\n\n- Familiarity with Python-based ecosystems is a plus.\n- Experience working with Agentic AI systems or in the\n  observability domain.\n- Background in large-scale, complex, data-driven\n  applications.\n- Familiarity with AI or LLM-powered products.\n\nCompensation\n\nWe offer competitive compensation, startup equity, health\ninsurance, and additional benefits. The U.S. base salary\nrange for this full-time, in-person role in New York is\n$150,000–$300,000, plus equity and benefits. Our salary\nranges are based on location, level, and role. Individual\ncompensation is determined by experience, skills, and job-\nrelated knowledge.\n\nWhy You Should Join Us\n\nWe’ll make sure you’re fully supported with health\ninsurance, a great tech setup, flexible time off, and plenty\nof in-office snacks. We offer competitive salary and equity\npackages, and take thoughtful consideration with every hire\non our small, high-impact team.\n\nTraversal is fully in-office, 5 days a week, based in New\nYork near Madison Square Park. We have a collaborative,\nhard-working culture and are energized by building the\nfuture of AI-powered software maintenance.\n\nWorking here means owning meaningful parts of the product,\nhaving the flexibility to move fast, and learning\nconstantly. This is a place to grow your career, make a real\nimpact, and help define a new category of infrastructure\nsoftware.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Translate AI-powered insights into user-friendly features that empower engineers and reduce cognitive load",
+    "Innovate and drive the evolution of UX/UI design, rapidly iterating based on user feedback to improve overall usability",
+    "Design and implement high-performance APIs to enable seamless communication between backend systems and frontend interfaces",
+    "Ensure efficient data storage, retrieval, and processing, leveraging technologies like PostgreSQL, Redis, or others",
+    "Collaborate with AI engineers/researchers to integrate AI-driven insights and solutions into backend systems",
+    "Develop intuitive interfaces for presenting and interacting with complex time-series and topological data"
+  ],
+  "use_cases": [
+    "Real-time incident detection in complex production environments",
+    "Root cause analysis for production incidents",
+    "Automated remediation of production incidents",
+    "Prevention of complex production incidents before they occur",
+    "AI-powered troubleshooting and site reliability engineering",
+    "Data visualization for time-series and topological infrastructure data"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "ECS",
+    "FastAPI",
+    "Kubernetes",
+    "Next.js",
+    "PostgreSQL",
+    "React",
+    "Redis",
+    "S3",
+    "TailwindCSS"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is a full-stack engineer building product features\nand infrastructure to consume AI-powered insights from an AI\nSRE system. The candidate collaborates with AI\nengineers/researchers to integrate AI solutions into backend\nsystems but does not build, train, or deploy models\nthemselves. The focus is on product development, API design,\nand infrastructure rather than hands-on AI/ML model work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "React",
+      "Next.js",
+      "TailwindCSS"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "S3"
+    ],
+    "ops": [
+      "ECS",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

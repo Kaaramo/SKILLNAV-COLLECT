@@ -1,0 +1,99 @@
+{
+  "job_id": "intl-ai-corpus-0016",
+  "source": "intl-ai-corpus",
+  "source_ref": "3985633",
+  "source_url": "https://builtin.com/job/solutions-engineer/3985633",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Adaptive ML",
+  "company_type": "entité morale privée",
+  "location": "New York",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-28",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "20 Employees",
+  "company_stage": "Seed",
+  "company_focus": "RLOps platform for LLM specialization and deployment",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Generative AI"
+  ],
+  "description": "About the team\n\nAdaptive ML is a frontier AI startup building a\nReinforcement Learning Operations (RLOps) platform that\nenables enterprises to specialize and deploy LLMs into\nproduction with measurable impact.\n\nWe provide the core infrastructure to tune, evaluate, and\nserve specialized models at scale — pioneering task-specific\nLLM development and running production-ready workflows that\nserve millions of requests while optimizing for both cost\nand performance across distributed systems.\n\nOur tightly-knit team was previously involved in the\ncreation of state-of-the-art open-access large language\nmodels. We raised a $20M seed led by Index Ventures and\nICONIQ in early 2024, and we're already live in production\nwith customers including Manulife, AT&T, Deloitte, across\ntravel and financial services — with much more to be\nannounced soon.\n\nAt Adaptive ML, our Success team is part of our Technical\nStaff. Our Technical Staff develops the foundational\ntechnology that powers Adaptive ML, while the Success Team\nensures our enterprise customers effectively leverage these\ntechnologies—particularly through our Adaptive Engine\nproduct—to unlock maximum value.\n\nAbout the role\n\nAs an AI Engineer at Adaptive ML, you will help our\ncustomers build scalable production applications with\nAdaptive Engine. Our customers range from innovative scale-\nups to global enterprises, and your role will be to guide\nthem in maximizing business value while shortening time to\nproduction. We place tremendous importance on bridging the\ngap from proof-of-concept to production, as too many\ngenerative AI projects fail to demonstrate tangible ROI.\n\nBy leveraging state-of-the-art reinforcement learning\ntechnology, you will support the specialization of large\nlanguage models for production deployment. You will build\nsynthetic data pipelines to bootstrap models into production\nand identify signals that can be used in production to\nenable continuous model improvement using production\nfeedback. We are looking for self-driven, business-minded,\nand ambitious individuals interested in supporting real-\nworld deployments of a highly technical product. As this is\nan early role, you will have the opportunity to shape our\nresearch efforts and product as we grow.\n\nThis is an in-person role based at our Paris or New York\noffice.\n\nYour responsibilities\n\n- Embed directly with our customers, helping them maximize the\n  value of their Adaptive Engine deployment;\n- Experiment with pipelines to personalize models at scale,\n  leveraging synthetic data and production feedback;\n- Ensure customer success, owning problems end-to-end from\n  ideation to deployment, validation, and production;\n- Work closely with our research staff, productionizing the\n  latest frontier research initiatives;\n- Contribute to our product roadmap, identifying promising\n  trends and customer needs;\n- Report clearly on your work to a distributed collaborative\n  team, with a bias for asynchronous written communication.\n\nYour (ideal) background\n\nThe background below is only suggestive of a few pointers we\nbelieve could be relevant. We welcome applications from\ncandidates with diverse backgrounds; do not hesitate to get\nin touch if you think you could be a great fit, even if the\nbelow doesn't fully describe you.\n\n- ‍A M.Sc./Ph.D. in computer science, or demonstrated\n  experience in software engineering, preferably with a\n  focus on machine learning;\n- 4-8+ years of technical consulting (or equivalent)\n  experience;‍\n- Strong programming skills, with Python experience required,\n  from quick prototyping to production deployments;\n- Enthusiasm for collaborating with diverse technical teams,\n  with a humble attitude and empathy;‍\n- Passionate about the future of generative AI, and eager to\n  build foundational technology to help machines deliver\n  more singular experiences.\n\nBenefits\n\n- Comprehensive medical (health, dental, and vision)\n  insurance;\n- 401(k) plan with 4% matching (or equivalent);\n- Unlimited PTO — we strongly encourage at least 5 weeks each\n  year;\n- Mental health, wellness, and personal development stipends;\n- Visa sponsorship if you wish to relocate to New York or\n  Paris.\n",
+  "skills_required": [
+    "Generative AI",
+    "LLMs",
+    "Reinforcement Learning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Embed directly with enterprise customers to help maximize the value of their Adaptive Engine deployment",
+    "Experiment with pipelines to personalize models at scale, leveraging synthetic data and production feedback",
+    "Ensure customer success by owning problems end-to-end from ideation to deployment, validation, and production",
+    "Work closely with research staff to productionize the latest frontier AI research initiatives",
+    "Contribute to the product roadmap by identifying promising trends and customer needs",
+    "Report clearly on work to a distributed collaborative team with a focus on asynchronous written communication"
+  ],
+  "use_cases": [
+    "Specializing and deploying large language models into production environments for enterprises",
+    "Building synthetic data pipelines to bootstrap models and enable continuous improvement from production feedback",
+    "Optimizing task-specific LLM development for measurable business impact and ROI",
+    "Running production-ready workflows that serve millions of requests while optimizing cost and performance",
+    "Helping customers bridge the gap from proof-of-concept to production for generative AI projects"
+  ],
+  "tools_mentioned": [
+    "Synthetic Data"
+  ],
+  "frameworks_mentioned": [
+    "Generative AI",
+    "LLMs",
+    "Reinforcement Learning"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work specializing LLMs for\nproduction deployment using reinforcement learning and\nbuilding synthetic data pipelines. The engineer directly\nexperiments with model personalization and productionizes\nfrontier AI research, which is core AI development work\nrather than just support or infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "Generative AI"
+    ],
+    "ml": [
+      "Reinforcement Learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Synthetic Data"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:36+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

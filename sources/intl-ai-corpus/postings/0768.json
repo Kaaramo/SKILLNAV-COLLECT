@@ -1,0 +1,108 @@
+{
+  "job_id": "intl-ai-corpus-0768",
+  "source": "intl-ai-corpus",
+  "source_ref": "6847192",
+  "source_url": "https://builtin.com/job/senior-principal-systems-engineer-workers-ai-ai-ml/6847192",
+  "title": "Senior/Principal Systems Engineer, Workers AI (AI/ML)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Cloudflare",
+  "company_type": "entité morale privée",
+  "location": "New York",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-01",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "4,400 Employees",
+  "company_stage": "Public",
+  "company_focus": "Edge network and developer platform services",
+  "industries": [
+    "Cloud",
+    "Information Technology",
+    "Security",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "Available Locations: Austin, New York, Lisbon, London\n(Hybrid) About the Department Emerging Technologies &\nIncubation (ETI) is where new and bold products are built\nand released within Cloudflare. Rather than being\nconstrained by the structures which make Cloudflare a\nmassively successful business, we are able to leverage them\nto deliver entirely new tools and products to our customers.\nCloudflare's edge and network make it possible to solve\nproblems at massive scale and efficiency which would be\nimpossible for almost any other organization. About the Team\nWorkers AI is Cloudflare's AI inference service, enabling\ncustomers to use a wide variety of AI models both within\nCloudflare's Workers development platform and via API. The\nWorkers AI team owns the whole stack that powers the\nproduct, from front-end development all the way to low-level\ninference code. Accordingly we're a team with a diverse\narray of technical skills, but everyone on the team is\ncurious and passionate about the possibilities of generative\nAI. What You'll Do The Workers AI AI/ML team is responsible\nfor deploying AI inference on the GPUs within Cloudflare's\nnetwork, as well as building innovative features that enable\ndevelopers to incorporate AI into their own products. You\nwill be a technical leader on the team responsible for\nmaintaining the Workers AI model catalog as well as the\nWorkers AI AI and ML inference code. You will be building\nproducts and APIs that will be used by others, and will add\nyour strong sense of what makes a good developer experience\nto the team. Examples of desirable skills, knowledge, and\nexperience\n\n- Experience setting the architecture and technical direction\n  of large, cross-team and cross-functional engineering\n  projects\n- Strong communication skills\n- Comfortable with tight deadlines and short release cycles\n- Expert-level knowledge in Python for AI development,\n  particularly pytorch or tensorflow.\n\n\nEquity This role is eligible to participate in Cloudflare's\nequity plan. Benefits Cloudflare offers a complete package\nof benefits and programs to support you and your family. Our\nbenefits programs can help you pay health care expenses,\nsupport caregiving, build capital for the future and make\nlife a little easier and fun! The below is a description of\nour benefits for employees in the United States, and\nbenefits may vary for employees based outside the U.S.\nHealth & Welfare Benefits Medical/Rx Insurance, Dental\nInsurance, Vision Insurance ,Flexible Spending Accounts,\nCommuter Spending Accounts, Fertility & Family Forming\nBenefits, On-demand mental health support and Employee\nAssistance Program, Global Travel Medical Insurance\nFinancial Benefits Short and Long Term Disability Insurance,\nLife & Accident Insurance401(k) Retirement Savings Plan,\nEmployee Stock Participation Plan Time Off Flexible paid\ntime off covering vacation and sick leave. Leave programs,\nincluding parental, pregnancy health, medical, and\nbereavement leave\n",
+  "skills_required": [
+    "GPU computing",
+    "Generative AI",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Deploy AI inference on GPUs within Cloudflare's global network at massive scale",
+    "Maintain the Workers AI model catalog and inference codebase",
+    "Build products and APIs that enable developers to incorporate AI into their applications",
+    "Set architecture and technical direction for large, cross-team engineering projects",
+    "Lead development of innovative features for Cloudflare's AI inference platform",
+    "Contribute to the full stack from front-end development to low-level inference optimization"
+  ],
+  "use_cases": [
+    "AI inference as a service running on edge GPUs worldwide",
+    "Enabling developers to use AI models through Workers platform and API",
+    "Hosting a diverse catalog of AI models for various applications",
+    "Building developer-friendly APIs and products for AI integration",
+    "Running generative AI models at massive scale and efficiency"
+  ],
+  "tools_mentioned": [
+    "AI inference",
+    "API design"
+  ],
+  "frameworks_mentioned": [
+    "GPU computing",
+    "Generative AI",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is focused on deploying AI inference on GPUs at\nthe edge and maintaining the Workers AI model catalog and\ninference code. The engineer works directly on AI inference\nsystems with PyTorch/TensorFlow, building products and APIs\nthat enable developers to use AI models.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Generative AI"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "GPU computing"
+    ],
+    "web": [
+      "API design"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "AI inference"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,149 @@
+{
+  "job_id": "intl-ai-corpus-0647",
+  "source": "intl-ai-corpus",
+  "source_ref": "8314375",
+  "source_url": "https://builtin.com/job/ai-automation-engineer/8314375",
+  "title": "AI Automation Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "BetterUp",
+  "company_type": "entité morale privée",
+  "location": "New York",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-30",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "510 Employees",
+  "company_stage": "Series D",
+  "company_focus": "Human transformation and professional coaching platform",
+  "industries": [
+    "Artificial Intelligence",
+    "HR Tech",
+    "Professional Services"
+  ],
+  "description": "Let’s face it, a company whose mission is human\ntransformation better have some fresh thinking about the\nemployer/employee relationship.\n\nWe do. We can’t cram it all in here, but you’ll start\nnoticing it from the first interview.\n\nEven our candidate experience is different. And when you get\nan offer from us (and accept it), you get way more than a\npaycheck. You get a personal BetterUp Coach, a development\nplan, a trained and coached manager, the most amazing team\nyou’ve ever met (yes, each with their own personal BetterUp\nCoach), and most importantly, work that matters.\n\nThis makes for a remarkably focused and fulfilling work\nexperience. Frankly, it’s not for everyone. But for people\nwith fire in their belly, it’s a game-changing, career-\ndefining, soul-lifting move.\n\nJoin us and we promise you the most intense and fulfilling\nyears of your career, doing life-changing work in a fun,\ninventive, soulful culture.\n\nIf that sounds exciting—and the job description below feels\nlike a fit—we really should start talking.\n\nWe are a hybrid company with a focus on in-person\ncollaboration when necessary. Employees are expected to be\navailable to work from one of our office hubs at least two\ndays per week, or eight days per month. Our US hub locations\ninclude: Austin, TX; Chicago, IL; New York City, NY; San\nFrancisco, CA; and the Washington, DC metro area. If this is\na role based in Europe, our Europe hub locations are London,\nUK and Amsterdam, NL. Please ensure you can realistically\ncommit to this structure before applying.\n\nWe’re looking for an AI Automation and Integration Engineer\nto join our rapidly evolving IT & AI Workspace Technology\nteam. This role is for a hands-on builder who thrives on\ncreating smarter, more connected systems—someone who can\ntransform manual workflows into intelligent, AI-enabled\nautomations using cutting-edge tools like Model Context\nProtocol (MCP), Slack workflows, and secure system\nintegrations.\n\nYou’ll design and implement scalable automations across our\nSaaS ecosystem, partner closely with our AI product and\ninfrastructure teams, and bring a high degree of technical\nrigor and curiosity to every problem you solve.\n\nThis is a key role on a small, fast-moving team where your\nwork will directly impact how we scale, automate, and\nfuture-proof our internal operations.\n\nWhat you’ll do:\n\nMCP & AI Workflow Engineering\n\n- Implement and scale our Model Context Protocol (MCP) to\n  support secure, composable AI workflows across Slack,\n  Jira, Salesforce, GitHub, AWS-based infrastructure, LLM\n  providers (e.g., Claude), and internal APIs.\n- Design agentic systems that enable AI tooling to integrate\n  seamlessly with operational data and user identity\n  services.\n- Author requests for comments (RFCs), technical requirements\n  documents (TRDs), and internal documentation to align MCP\n  features with enterprise use cases.\n\nAutomation & Integration Development\n\n- Build and maintain scalable automations and secure APIs to\n  reduce operational overhead in onboarding, provisioning,\n  and data lifecycle management.\n- Own development and maintenance of reusable modules for\n  identity sync, data uploads (e.g., CSV bulk importers),\n  and AI-to-API orchestration.\n- Drive continuous improvement across automation platforms by\n  collaborating with stakeholder teams across the business.\n\nSecurity, Identity & System Governance\n\n- Work with InfoSec and IT teams to enforce role-based access\n  controls and SAML/SSO integrations\n- Harden identity workflows across US and EU regions, ensuring\n  compliance with internal and external standards.\n- Support audit readiness through traceable change management\n  and data integrity practices.\n\nCross-Functional Collaboration\n\n- Attend cross functional standups, Architecture Roundtables,\n  and AI working groups to ensure engineering solutions\n  align with company goals.\n- Partner closely with stakeholders to balance speed and\n  safety in fast-moving pilot initiatives.\n- Advocate for test-driven development (TDD), documentation,\n  and open source-inspired code reusability.\n\nWhat Success Looks Like\n\n- MCP server scaled and adopted across multiple workflows with\n  stable, secure integrations\n- Automation measurably reduced manual data entry through bulk\n  import and automation tooling (e.g., 50% reduction).\n- Onboarding and provisioning latency improved through\n  identity automation (e.g., 30% faster completion).\n- Clear documentation, playbooks, and dashboards enable\n  stakeholders to self-serve with AI tools and automation\n  templates, not rely on ad-hoc IT custom work.\n- All automation systems have strong test coverage, robust\n  monitoring, and meet security review requirements, with\n  audit-ready logs for provisioning and data movement.\n- Impact is visible and quantified through simple time-saved\n  and adoption metrics layered on top of Jira, dashboards,\n  and usage telemetry.\n\nIf you have some or all of the following, please apply:\n\nRequired:\n\n- 3–6 years of professional experience in software or systems\n  engineering, with demonstrated ability to own backend\n  services, integrations, or automation workflows with\n  minimal oversight.\n- Experience integrating AI capabilities into production\n  systems, including orchestrating LLM-powered workflows\n  across APIs, event-driven systems, and internal services.\n- Hands-on experience designing AI-assisted automations that\n  operate on real business data with appropriate context,\n  permissions, and safeguards.\n- Familiarity with using LLM providers (e.g., Claude or\n  similar) as part of larger systems rather than standalone\n  chat or prompt-based tools.\n- Demonstrated experience integrating APIs and building\n  automations across complex SaaS ecosystems.\n- Proficiency in n8n and Zapier or custom-built orchestration\n  tools\n- Hands-on experience building pipelines or automations using\n  MCP, Step Functions, or equivalent event-driven\n  architectures\n- Strong scripting or development skills (e.g., Python, ROR or\n  JavaScript) for writing custom connectors or data\n  transformations\n- Familiarity with common SaaS platforms including Okta, Jira,\n  Slack, Workday, Google Workspace, FreshService, and their\n  APIs\n- Experience working with authentication protocols (e.g.,\n  SAML, OAuth), and systems like Okta, GCP, or AWS.\n\nPreferred:\n\n- Experience operating MCP-based or similar AI-enabled\n  workflows in production environments, including\n  considerations for reliability, observability, and ongoing\n  maintenance.\n- Prior contributions to audit, compliance, or governance-\n  related tooling, such as provisioning logs, access\n  tracking, or data integrity checks.\n- Strong documentation practices, including maintaining\n  technical artifacts (RFCs, diagrams, runbooks, and\n  playbooks) as part of day-to-day work.\n- Comfort acting as an embedded technical partner to non-\n  technical stakeholders (e.g., HR, Recruiting, People Ops,\n  Finance), with the ability to explain complex systems\n  clearly, set expectations, and co-own automation roadmaps.\n- Familiarity with operating and debugging production systems\n  using tools such as logging, monitoring, and basic data\n  stores (e.g., DataDog, Postgres, Redis), as well as\n  supporting file-based or “last mile” integrations when\n  needed.\n- Comfort with working as an embedded partner with non-\n  technical stakeholders (EAs, HR, Recruiting, People Ops,\n  Finance), including training them on automation patterns\n  and co-owning roadmaps for the next set of high-impact\n  automations.\n\nAI at BetterUp\n\nOur team thrives at the intersection of human expertise and\nAI capability. As an AI-forward company, adaptation and\ncontinuous learning are part of our daily work. We're\nlooking for teammates who are excited to evolve alongside\ntechnology – people who experiment boldly, share their\ndiscoveries openly, and help define best practices for AI-\naugmented work. These professionals thoughtfully integrate\nAI into their work to deliver exceptional results while\nmaintaining the human judgment and creativity that drives\nreal innovation. During our interview process, you’ll have\nopportunities to showcase how you harness AI to learn,\niterate, and amplify your impact.\n\nBenefits:\n\nAt BetterUp, we are committed to living out our mission\nevery day and that starts with providing benefits that allow\nour employees to care for themselves, support their\nfamilies, and give back to their community.\n\n- Access to BetterUp coaching; one for you and one for a\n  friend or family member\n- A competitive compensation plan with opportunity for\n  advancement\n- Medical, dental, and vision insurance\n- Flexible paid time off\n- Per year:\n  - All federal/statutory holidays observed\n  - 4 BetterUp Inner Workdays (https://www.betterup.co/inner-\n    work)\n  - 5 Volunteer Days to give back\n  - Learning and Development stipend\n  - Company wide Summer & Winter breaks\n- Year-round charitable contribution of your choice on behalf\n  of BetterUp\n- 401(k) self contribution\n\nWe are dedicated to building diverse teams that fuel an\nauthentic workplace and sense of belonging for each and\nevery employee. We know applying for a job can be\nintimidating, please don’t hesitate to reach out — we\nencourage everyone interested in joining us to apply.\n\nBetterUp Inc. provides equal employment opportunities (EEO)\nto all employees and applicants for employment without\nregard to race, color, religion, sex, national origin,\ndisability, genetics, gender, sexual orientation, age,\nmarital status, veteran status. In addition to federal law\nrequirements, BetterUp Inc. complies with applicable state\nand local laws governing nondiscrimination in employment in\nevery location in which the company has facilities. This\npolicy applies to all terms and conditions of employment,\nincluding recruiting, hiring, placement, promotion,\ntermination, layoff, recall, transfer, leaves of absence,\ncompensation, and training.\n\nAt BetterUp, we compensate our employees fairly for their\nwork. Base salary is determined by job-related experience,\neducation/training, residence location, as well as market\nindicators. The range below is representative of base salary\nonly and does not include equity, sales bonus plans (when\napplicable) and benefits. This range may be modified in the\nfuture.\n\nThe base salary range for the role is $144,000 to $227,000.\n\nProtecting your privacy and treating your personal\ninformation with care is very important to us, and central\nto the entire BetterUp family. By submitting your\napplication, you acknowledge that your personal information\nwill be processed in accordance with our Applicant Privacy\nNotice. If you have any questions about the privacy of your\npersonal information or your rights with regards to your\npersonal information, please reach out to\nsupport@betterup.co\n\n#LI-Hybrid\n",
+  "skills_required": [
+    "Agentic systems",
+    "FreshService",
+    "Google Workspace",
+    "Jira",
+    "LLM providers",
+    "Model Context Protocol (MCP)",
+    "OAuth",
+    "Okta",
+    "SAML",
+    "Salesforce",
+    "Slack workflows",
+    "Test-driven development",
+    "Workday",
+    "Zapier",
+    "n8n"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement and scale Model Context Protocol (MCP) to support secure, composable AI workflows across Slack, Jira, Salesforce, GitHub, AWS, LLM providers, and internal APIs",
+    "Design agentic systems that enable AI tooling to integrate seamlessly with operational data and user identity services",
+    "Build and maintain scalable automations and secure APIs to reduce operational overhead in onboarding, provisioning, and data lifecycle management",
+    "Own development and maintenance of reusable modules for identity sync, data uploads, and AI-to-API orchestration",
+    "Work with InfoSec and IT teams to enforce role-based access controls and SAML/SSO integrations",
+    "Harden identity workflows across US and EU regions, ensuring compliance with internal and external standards",
+    "Partner closely with stakeholders to balance speed and safety in fast-moving pilot initiatives",
+    "Advocate for test-driven development, documentation, and open source-inspired code reusability"
+  ],
+  "use_cases": [
+    "Automated internal operations and workflow optimization across SaaS ecosystem",
+    "Secure AI-enabled employee onboarding and provisioning systems",
+    "Identity and access management automation with SAML/SSO integration",
+    "Bulk data import and processing automations (e.g., CSV bulk importers)",
+    "Agentic AI systems for integrating with operational data and user identity services",
+    "Compliance and audit-ready automation for US and EU regions"
+  ],
+  "tools_mentioned": [
+    "API integration",
+    "AWS",
+    "DataDog",
+    "Event-driven architecture",
+    "GCP",
+    "Postgres",
+    "Redis",
+    "Step Functions"
+  ],
+  "frameworks_mentioned": [
+    "Agentic systems",
+    "LLM providers",
+    "Model Context Protocol (MCP)"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "Python",
+    "Ruby on Rails"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on implementation of AI systems\nincluding Model Context Protocol (MCP), agentic systems, and\nLLM-powered workflows. The engineer directly builds and\ndeploys AI-enabled automations and integrates LLM providers\n(Claude) into production systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Model Context Protocol (MCP)",
+      "LLM providers",
+      "Agentic systems"
+    ],
+    "ml": [],
+    "web": [
+      "API integration"
+    ],
+    "databases": [
+      "Postgres",
+      "Redis"
+    ],
+    "data": [
+      "Event-driven architecture"
+    ],
+    "cloud": [
+      "Step Functions",
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "DataDog"
+    ],
+    "languages": [
+      "Python",
+      "Ruby on Rails",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": [
+      "Slack workflows",
+      "n8n",
+      "Zapier",
+      "Okta",
+      "Jira",
+      "Workday",
+      "Google Workspace",
+      "FreshService",
+      "Salesforce",
+      "SAML",
+      "OAuth",
+      "Test-driven development"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:42+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,44 @@
+{
+  "job_id": "rekrute-2023-026",
+  "source": "rekrute",
+  "source_url": "https://www.rekrute.com/offre-emploi-data-analyst-hf-recrutement-cnexia-tech-fes-154726.html",
+  "source_ref": "154726",
+  "title": "Data Analyst Hf",
+  "title_normalized": "DATA_ANALYST",
+  "company": "Cnexia",
+  "company_type": "entité morale privée",
+  "location": "Tech Fes",
+  "country": "MA",
+  "remote_policy": "remote",
+  "posted_date": "2023-11-14",
+  "deadline_date": "26/11/2023",
+  "contract_type": "CDI",
+  "experience_min_years": 3,
+  "experience_max_years": 5,
+  "salary_range": null,
+  "description": "You will have an opportunity to: Develop regular reporting and conduct data analysis, to understand the customer behaviour and explain drivers for online customer interactions. Provide insights on areas of opportunity to increase online adoption. Develop forecasts and business cases and be able to back up numbers Conduct deep dive analysis on customer segments. Create executive strategy presentations, communicate results, forecasts, and strategy plans. Recommend proactive and reactive strategies to improve online adoption. Measure results of campaigns and/or projects. Support the development of short-term and long-term planning cycles through data analysis.",
+  "skills_required": [
+    "SQL",
+    "Excel",
+    "SAS"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [
+    "Excel"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "SQL",
+    "SAS"
+  ],
+  "domains_iaml": [],
+  "job_family": "DATA_ANALYST",
+  "education_required": "Bac +5",
+  "scraped_at": "2026-05-14T21:00:00Z",
+  "scraper": "skillnav-curl-batch-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.85,
+  "extraction_method": "google_search_url + curl_html + python_regex_extraction"
+}

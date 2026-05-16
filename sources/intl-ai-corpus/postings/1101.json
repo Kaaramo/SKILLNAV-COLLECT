@@ -1,0 +1,144 @@
+{
+  "job_id": "intl-ai-corpus-1101",
+  "source": "intl-ai-corpus",
+  "source_ref": "8135658",
+  "source_url": "https://builtin.com/job/data-and-ai-support-engineer/8135658",
+  "title": "Data and AI support Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Michelin",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-24",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "111,200 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global tire manufacturer and mobility solutions",
+  "industries": [
+    "Automotive",
+    "Retail"
+  ],
+  "description": "Data and AI support Engineer\n\n- - - - - - - - - - - -\n\nTechnical Expertise:\n\n- Understanding of cloud computing concepts, specifically\n  Microsoft Azure.\n- Experience with Azure services like AKS clusters, App\n  Services, Storage Accounts, Virtual Networks, Azure Active\n  Directory, and Azure Monitor.\n- Ability to support API based applications hosted on Azure.\n- Familiarity with command-line interfaces (CLI) and scripting\n  (PowerShell, Bash).\n- Good handson experience on Python.\n- Experience with monitoring tools and performance analysis.\n- Proven experience with the Azure Python SDK and integrating\n  Azure services - Storage, Key Vault, Logic App, Cosmos DB\n  into software applications.\n- Good Experience on supporting Python Based Web applications.\n- Knowledge of LLM, Vector DB and RAG architecture will be a\n  plus\n- Basic understanding of networking concepts (TCP/IP, DNS,\n  firewalls).\n- Ability to troubleshoot software applications and their\n  dependencies.\n- Knowledge on supporting Data applications - ADB, ADF ,\n  Databricks, PySpark will be a huge plus.\n- Knowledge on SQL is must.\n- Understanding of PowerBI reports will be a plus.\n\nCommunication and Collaboration:\n\n- Effectively communicate complex technical concepts to both\n  technical and non-technical audiences.\n- Excellent problem-solving and analytical skills.\n- Strong customer service orientation and empathy.\n- Ability to work independently and as part of a team.\n\nDesign and impact analysis\n\n·        Contribute to define feasibility (technical\noptions...), functional design and solution validation.\n\n·        Performs impact analysis related to data captation\n(system performance in production, security, etc.)\n\n·        Identifies the source of physical data\n\n·        Enforces security and confidentiality rules for\ndata on its perimeter\n\nImplementation and Deployment\n\n·        Completes and executes data collection procedures\n\n·        Builds data collection infrastructure (IoT:\nInternet of Things, sensors, database, files, etc.)\n\n·        Deploys data collection infrastructure and\nprocedures\n\n·        Measures the impact on the technical chain\nimplemented (from the connected object to the storage\nsystem)\n\n·        Completes the necessary tests to validate the\nsolution\n\n·        Documents the implemented solutions\n\nSupport and troubleshooting\n\n·        Analyzes and understands the origin of a complex\nmalfunction, incident or bug.\n\n·        Adopts a proactive approach to avoid or identify\nroot causes of problems.\n\n·        Provides technical assistance to users.\n",
+  "skills_required": [
+    "DNS",
+    "IoT",
+    "LLM",
+    "RAG architecture",
+    "TCP/IP"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Provide technical support and troubleshooting for Azure-based applications and data pipelines",
+    "Contribute to feasibility analysis, functional design, and solution validation for data systems",
+    "Build and deploy data collection infrastructure including IoT sensors and databases",
+    "Monitor and analyze system performance, security, and production incidents",
+    "Support API-based applications and Python web applications hosted on Azure",
+    "Perform impact analysis related to data collection, system performance, and security",
+    "Document implemented solutions and maintain data security and confidentiality rules"
+  ],
+  "use_cases": [
+    "Data collection and infrastructure for IoT sensors and connected objects",
+    "Support for Azure-based data pipelines and data warehouse applications",
+    "Application performance monitoring and incident management",
+    "Power BI reporting and business intelligence dashboards",
+    "Data application support using Databricks, PySpark, and Azure Data Factory"
+  ],
+  "tools_mentioned": [
+    "Azure Active Directory",
+    "Azure App Services",
+    "Azure Data Factory",
+    "Azure Key Vault",
+    "Azure Kubernetes Service",
+    "Azure Logic Apps",
+    "Azure Monitor",
+    "Azure Python SDK",
+    "Azure Storage Accounts",
+    "Azure Virtual Networks",
+    "Cosmos DB",
+    "Databricks",
+    "Microsoft Azure",
+    "Power BI",
+    "PySpark",
+    "Vector DB"
+  ],
+  "frameworks_mentioned": [
+    "LLM",
+    "RAG architecture"
+  ],
+  "languages_programming": [
+    "Bash",
+    "PowerShell",
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "BUSINESS_INTELLIGENCE",
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a support engineer role focused on maintaining and\ntroubleshooting Azure-based data and AI infrastructure\napplications. The position involves supporting existing\napplications, data pipelines, and systems rather than\nbuilding, training, or deploying AI/ML models directly.\nKnowledge of LLM, Vector DB, and RAG is listed as a plus but\nnot a primary responsibility, indicating support work rather\nthan hands-on model development.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM",
+      "RAG architecture"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Cosmos DB",
+      "Vector DB"
+    ],
+    "data": [
+      "Databricks",
+      "PySpark",
+      "Azure Data Factory",
+      "Power BI"
+    ],
+    "cloud": [
+      "Microsoft Azure",
+      "Azure Kubernetes Service",
+      "Azure App Services",
+      "Azure Storage Accounts",
+      "Azure Virtual Networks",
+      "Azure Active Directory",
+      "Azure Python SDK",
+      "Azure Key Vault",
+      "Azure Logic Apps"
+    ],
+    "ops": [
+      "Azure Monitor"
+    ],
+    "languages": [
+      "Python",
+      "PowerShell",
+      "Bash",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "TCP/IP",
+      "DNS",
+      "IoT"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

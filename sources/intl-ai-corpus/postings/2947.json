@@ -1,0 +1,118 @@
+{
+  "job_id": "intl-ai-corpus-2947",
+  "source": "intl-ai-corpus",
+  "source_ref": "9076136",
+  "source_url": "https://www.builtinla.com/job/ai-engineer/9076136",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Modern Relay",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-16",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Unknown",
+  "company_focus": "Knowledge platform for human-AI agent coordination and\nworkflows",
+  "industries": [],
+  "description": "About Modern Relay\n\nModern Relay is building the knowledge platform for the\nagent era. Our product caters a new kind of company: one in\nwhich humans work alongside internal and external AI agents,\nand where coordination, context and trust become critical\ninfrastructure. The platform provides a shared layer of\ntruth where both humans and agents can propose updates,\ncontribute knowledge and trigger workflows. This result in a\nliving, compounding knowledge hub that can be read from,\nwritten to and improved by both people and software.\n\nRole Overview\n\nWe’re looking for an AI Engineer to help build the data and\nmodel foundations that make Modern Relay’s platform reliable\nin production. You’ll work across data pipelines, model\ndevelopment, and ML infrastructure, turning messy signals\ninto structured knowledge and high-quality model behavior.\nThis role is ideal for someone who enjoys shipping end-to-\nend systems, from schema design and data infrastructure to\ntraining/evaluating models and improving them with feedback\nloops.\n\nLocations\n\n- San Francisco, CA\n- New York City, NY\n- Barcelona, Spain\n- Remote (U.S. and Europe)\n\nWhat You’ll Do\n\n- Design and build data pipelines that ingest, clean, and\n  transform product and customer data into high-signal\n  training and evaluation datasets\n- Own data infrastructure decisions (storage, orchestration,\n  lineage, observability) to ensure reliability,\n  scalability, and fast iteration\n- Develop and improve ML/AI systems that power agent's\n  behavior in task-solving, including retrieval, ranking,\n  classification, and structured extraction\n- Create and maintain schemas for agent memory, tool outputs,\n  and conversation artifacts to make downstream modeling and\n  analytics consistent\n- Build evaluation harnesses and metrics to measure model\n  quality, regressions, and real-world performance (offline\n  + online)\n- Work with knowledge representations (e.g., knowledge graphs)\n  to connect entities, events, and business context for\n  better reasoning and retrieval\n- Partner closely with Product and Engineering to integrate\n  models into production workflows with clear SLAs and\n  monitoring\n- Continuously improve feedback loops: labeling strategies,\n  active learning, error analysis, and dataset/version\n  management\n\nWhat Success Looks Like\n\n- Data pipelines and datasets are trustworthy, well-\n  instrumented, and easy to iterate on as product needs\n  evolve\n- Model performance improves measurably over time with clear\n  evaluation methodology and fast debugging cycles\n- Agent outputs become more consistent and structured through\n  strong schema design and robust post-processing/validation\n- Knowledge and retrieval systems reduce hallucinations and\n  increase task completion rates in real customer workflows\n- Cross-functional teams can confidently ship AI improvements\n  because quality, monitoring, and rollback paths are in\n  place\n\nWhat We’re Looking For\n\n- 0–6 years of experience in AI/ML engineering, data\n  engineering, or a closely related role (we’re open to\n  exceptional new grads with strong projects)\n- Strong fundamentals in data engineering: pipelines, data\n  modeling, schema design, and data quality practices\n- Experience building or operating ML systems in production\n  (training, evaluation, deployment, monitoring) or strong\n  evidence you can ramp quickly\n- Comfort working across the stack: from raw data and\n  infrastructure to model behavior and product integration\n- Familiarity with modern ML platforms and tooling (experiment\n  tracking, dataset/versioning, orchestration, feature/data\n  stores, model serving)\n- Understanding of information theory concepts (e.g., entropy,\n  mutual information) and how they relate to signal,\n  compression, and evaluation\n- Experience with knowledge graphs or structured knowledge\n  representations is a plus\n- High ownership and a bias toward shipping: you can take\n  ambiguous problems, propose a plan, and execute\n\nKey Skills\n\n- Data pipelines\n- Data engineering and data infrastructure\n- AI / artificial intelligence\n- Machine learning platforms and production ML\n- Model development, evaluation, and monitoring\n- Schema design and structured data systems\n- Knowledge graphs and information retrieval\n- Information theory fundamentals\n\nWhy This Role\n\n- Build core AI infrastructure that directly impacts product\n  reliability and customer outcomes\n- Work on real-world agent coordination problems where data\n  quality, structure, and evaluation matter as much as\n  models\n- High autonomy and ownership in a fast-moving team shipping\n  at the frontier of applied AI\n- A chance to define how Modern Relay’s agents learn from data\n  and improve over time\n",
+  "skills_required": [
+    "Active learning",
+    "Information theory",
+    "ML systems in production",
+    "Structured extraction"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build data pipelines that ingest, clean, and transform product and customer data into high-signal training and evaluation datasets",
+    "Own data infrastructure decisions including storage, orchestration, lineage, and observability for reliability and scalability",
+    "Develop and improve ML/AI systems powering agent behavior in task-solving, including retrieval, ranking, classification, and structured extraction",
+    "Create and maintain schemas for agent memory, tool outputs, and conversation artifacts for consistent downstream modeling and analytics",
+    "Build evaluation harnesses and metrics to measure model quality, regressions, and real-world performance (offline and online)",
+    "Work with knowledge representations (e.g., knowledge graphs) to connect entities, events, and business context for better reasoning and retrieval",
+    "Integrate models into production workflows with clear SLAs and monitoring in partnership with Product and Engineering",
+    "Continuously improve feedback loops through labeling strategies, active learning, error analysis, and dataset/version management"
+  ],
+  "use_cases": [
+    "Agent task-solving with retrieval, ranking, classification, and structured extraction",
+    "Knowledge graph-based reasoning and information retrieval for agent coordination",
+    "Structured knowledge hub that humans and AI agents read from, write to, and improve collaboratively",
+    "Agent memory and conversation artifact management for consistent downstream modeling",
+    "Reducing hallucinations and increasing task completion rates in real customer workflows"
+  ],
+  "tools_mentioned": [
+    "Data engineering",
+    "Data pipelines",
+    "Dataset versioning",
+    "Experiment tracking",
+    "Feature stores",
+    "Model evaluation and monitoring",
+    "Model serving",
+    "Schema design"
+  ],
+  "frameworks_mentioned": [
+    "Active learning",
+    "ML systems in production",
+    "Structured extraction"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and improving ML/AI\nsystems that power agent behavior, including model\ndevelopment, evaluation, retrieval, ranking, classification,\nand structured extraction. The engineer owns the full\nlifecycle from data pipelines through model\ntraining/evaluation to production deployment, making this a\nhands-on AI/ML building role.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Structured extraction"
+    ],
+    "ml": [
+      "ML systems in production",
+      "Active learning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Data pipelines",
+      "Data engineering",
+      "Schema design"
+    ],
+    "cloud": [],
+    "ops": [
+      "Model evaluation and monitoring",
+      "Experiment tracking",
+      "Dataset versioning",
+      "Model serving",
+      "Feature stores"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Knowledge graphs",
+      "Information retrieval"
+    ],
+    "other": [
+      "Information theory"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

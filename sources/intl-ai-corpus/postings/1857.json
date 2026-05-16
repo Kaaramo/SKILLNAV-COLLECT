@@ -1,0 +1,157 @@
+{
+  "job_id": "intl-ai-corpus-1857",
+  "source": "intl-ai-corpus",
+  "source_ref": "8528996",
+  "source_url": "https://builtin.com/job/senior-ai-ml-engineer/8528996",
+  "title": "Senior AI/ML Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Optum",
+  "company_type": "entité morale privée",
+  "location": "Gurugram, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-16",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "160,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Healthcare technology, pharmacy benefits, and health\noptimization services",
+  "industries": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Healthtech",
+    "Information Technology",
+    "Machine Learning",
+    "Software",
+    "Analytics"
+  ],
+  "description": "Requisition Number: 2345461 Optum is a global organization\nthat delivers care, aided by technology to help millions of\npeople live healthier lives. The work you do with our team\nwill directly improve health outcomes by connecting people\nwith the care, pharmacy benefits, data and resources they\nneed to feel their best. Here, you will find a culture\nguided by inclusion, talented peers, comprehensive benefits\nand career development opportunities. Come make an impact on\nthe communities we serve as you help us advance health\noptimization on a global scale. Join us to start Caring.\nConnecting. Growing together. Primary Responsibilities:\n\n- AI Engineering Projects: Architect, Design and implement\n  multi-agent AI systems that use LLMs, memory, and tools to\n  reason, plan, and act autonomously\n- Function Calling & Orchestration: Build agent-based\n  solutions that use function calling, dynamic tool\n  integration, and orchestration frameworks like LangChain,\n  AutoGen, and Semantic Kernel\n- Modular Agent Design: Leverage standards like Model Context\n  Protocol (MCP) to define reusable, secure, and composable\n  tool interfaces\n- Voice-Driven Interfaces: Develop voice-first AI agents using\n  ASR (e.g. Whisper, Azure Speech), multi-turn conversation\n  orchestration, and high-quality TTS\n- RAG & Memory Pipelines: Design and maintain Retrieval-\n  Augmented Generation (RAG) pipelines using vector\n  databases and Azure Cognitive Search\n- Fraud Detection & ML Ops: Contribute to anomaly detection\n  and fraud modeling efforts, including ML model training,\n  real-time inference, and pipeline optimization\n- Cloud-Native AI Deployment: Build, deploy, and monitor\n  scalable AI services on Azure, including Azure OpenAI,\n  Functions, Service Bus, Cosmos DB, and related tools\n- Agentic UX & AI as an Interface: Drive innovation in agentic\n  user experiences, enabling AI to operate external tools\n  and services securely on behalf of users\n- Mentorship & Collaboration: Review PRs, mentor junior\n  engineers, and collaborate across India and US time zones\n  in a distributed, agile environment\n- Comply with the terms and conditions of the employment\n  contract, company policies and procedures, and any and all\n  directives (such as, but not limited to, transfer and/or\n  re-assignment to different work locations, change in teams\n  and/or work shifts, policies in regards to flexibility of\n  work benefits and/or work environment, alternative work\n  arrangements, and other decisions that may arise due to\n  the changing business environment). The Company may adopt,\n  vary or rescind these policies and directives in its\n  absolute discretion and without any limitation (implied or\n  otherwise) on its ability to do so\n\nRequired Qualifications:\n\n- Bachelor's or higher in Computer Science, Engineering, or\n  related field\n- 10+ years of total engineering experience, including 2+\n  years in AI/ML product engineering roles\n- Proven experience building and shipping LLM-powered or\n  autonomous agent systems in production\n- Experience with Azure AI stack (Azure OpenAI, Cognitive\n  Services, Functions, Service Bus, Cognitive Search)\n- Experience with fraud detection models or anomaly detection\n  pipelines\n- Deep understanding of LLM integration, tool calling, prompt\n  engineering, and context-aware task execution\n- Solid Python development skills; proficiency with ML\n  frameworks like PyTorch, scikit-learn, Hugging Face\n- Proven hands-on work with retrieval techniques (RAG,\n  semantic search, embeddings) and vector DBs\n- Proven solid grasp of voice systems, including ASR, TTS, and\n  real-time audio/telephony integration\n- Proven track record of contributing to robust, testable, and\n  scalable engineering systems\n\nAt UnitedHealth Group, our mission is to help people live\nhealthier lives and make the health system work better for\neveryone. We believe everyone-of every race, gender,\nsexuality, age, location and income-deserves the opportunity\nto live their healthiest life. Today, however, there are\nstill far too many barriers to good health which are\ndisproportionately experienced by people of color,\nhistorically marginalized groups and those with lower\nincomes. We are committed to mitigating our impact on the\nenvironment and enabling and delivering equitable care that\naddresses health disparities and improves health outcomes -\nan enterprise priority reflected in our mission.\n",
+  "skills_required": [
+    "ASR/TTS",
+    "Anomaly Detection",
+    "AutoGen",
+    "Hugging Face",
+    "LLM Integration",
+    "LangChain",
+    "ML Model Training",
+    "Model Context Protocol (MCP)",
+    "Multi-Agent Systems",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "Semantic Kernel",
+    "Whisper",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Architect, design and implement multi-agent AI systems using LLMs, memory, and tools for autonomous reasoning, planning, and action",
+    "Build agent-based solutions using function calling, dynamic tool integration, and orchestration frameworks like LangChain, AutoGen, and Semantic Kernel",
+    "Leverage Model Context Protocol (MCP) standards to define reusable, secure, and composable tool interfaces",
+    "Develop voice-first AI agents using ASR (Whisper, Azure Speech), multi-turn conversation orchestration, and TTS",
+    "Design and maintain RAG pipelines using vector databases and Azure Cognitive Search",
+    "Contribute to fraud detection and anomaly detection efforts including ML model training and real-time inference",
+    "Build, deploy, and monitor scalable AI services on Azure including Azure OpenAI, Functions, and Cosmos DB",
+    "Drive innovation in agentic UX enabling AI to operate external tools securely on behalf of users"
+  ],
+  "use_cases": [
+    "Healthcare voice interfaces for patient interaction",
+    "Fraud detection and anomaly detection in healthcare claims",
+    "Multi-agent autonomous systems for healthcare operations",
+    "Conversational AI with voice-first interfaces",
+    "Enterprise search and retrieval via RAG pipelines"
+  ],
+  "tools_mentioned": [
+    "Azure Cognitive Search",
+    "Azure Cognitive Services",
+    "Azure Functions",
+    "Azure OpenAI",
+    "Azure Service Bus",
+    "Azure Speech",
+    "Cosmos DB",
+    "Vector Databases"
+  ],
+  "frameworks_mentioned": [
+    "ASR/TTS",
+    "Anomaly Detection",
+    "AutoGen",
+    "Hugging Face",
+    "LLM Integration",
+    "LangChain",
+    "ML Model Training",
+    "Model Context Protocol (MCP)",
+    "Multi-Agent Systems",
+    "Prompt Engineering",
+    "PyTorch",
+    "RAG",
+    "Semantic Kernel",
+    "Whisper",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building, deploying, and\noptimizing AI systems including multi-agent architectures,\nLLMs, RAG pipelines, and ML models for fraud detection. The\nengineer directly implements AI solutions from end-to-end,\nnot just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "AutoGen",
+      "Semantic Kernel",
+      "RAG",
+      "Prompt Engineering",
+      "LLM Integration",
+      "Multi-Agent Systems",
+      "Model Context Protocol (MCP)",
+      "Whisper",
+      "ASR/TTS"
+    ],
+    "ml": [
+      "PyTorch",
+      "scikit-learn",
+      "Hugging Face",
+      "ML Model Training",
+      "Anomaly Detection"
+    ],
+    "web": [],
+    "databases": [
+      "Cosmos DB",
+      "Vector Databases"
+    ],
+    "data": [],
+    "cloud": [
+      "Azure OpenAI",
+      "Azure Cognitive Services",
+      "Azure Cognitive Search",
+      "Azure Functions",
+      "Azure Service Bus",
+      "Azure Speech"
+    ],
+    "ops": [],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

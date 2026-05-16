@@ -1,0 +1,148 @@
+{
+  "job_id": "intl-ai-corpus-2050",
+  "source": "intl-ai-corpus",
+  "source_ref": "8720502",
+  "source_url": "https://builtin.com/job/ai-engineer/8720502",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Zensar Technologies",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-11",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Digital solutions and IT services for enterprise clients",
+  "industries": [],
+  "description": "At Ciena's Blue Planet, you'll be part of a dynamic team\npushing the boundaries of network automation. Your role as\nan AI Engineer will involve designing and developing AI\nagents using cutting-edge frameworks, fine-tuning large\nlanguage models, and implementing advanced techniques like\nRetrieval-Augmented Generation (RAG). You'll also leverage\ncloud platforms and databases for efficient AI solution\ndeployment and data handling.\n\nResponsibilities\n\n- Design and develop AI agents using frameworks like\n  LangChain, LangGraph, Langflow, and MCP Servers.\n- Fine-tune and optimize large language models (LLMs) such as\n  GPT models and Llama for diverse applications.\n- Implement RAG techniques and integrate vector databases like\n  Qdrant and ChromaDB.\n- Enhance AI agent operations with tools like langfuse and\n  litellm for robust security and guardrails.\n- Utilize cloud platforms (AWS, Google Cloud, Azure) and\n  databases (Postgres, Neo4j, Clickhouse) for scalable AI\n  solutions.\n- Optimize workflows and data processing with technologies\n  like Apache Airflow, Redis, Mlflow, Minio, and Apache\n  Kedro.\n- Apply prompt engineering techniques and CI/CD processes for\n  efficient development.\n- Collaborate with cross-functional teams to align AI\n  solutions with business goals.\n\nQualifications\n\n- Minimum 3-5 years of experience in AI engineering with Java\n  proficiency.\n- Expertise in AI frameworks (LangChain, LangGraph) and fine-\n  tuning LLMs.\n- Strong knowledge of vector databases and AI agent security\n  protocols.\n- Familiarity with cloud platforms, database technologies, and\n  prompt engineering.\n- Experience with CI/CD processes and tools like Apache\n  Airflow, Redis, Mlflow, Minio, and Apache Kedro.\n- Bonus: Experience with PySpark for large-scale data\n  processing.\n- Knowledge of emerging AI frameworks and cloud-native tools\n  for AI deployment.\n- Advanced understanding of AI agent optimization and\n  collaborative systems.\n- Interest in contributing to open-source AI initiatives and a\n  passion for driving AI innovation.\n- Professional certifications in data science or machine\n  learning are a plus.\n\nAbout UsAt Zensar, we’re “experience-led everything”. We are\ncommitted to conceptualizing, designing, engineering,\nmarketing, and managing digital solutions and experiences\nfor over 130 leading enterprises. We are a company driven by\na bold purpose: Together, we shape experiences for better\nfutures. Whether for our clients, our people, or the world\naround us, this belief powers everything we do. At the heart\nof our culture is ONE with Client - a set of four core\nvalues that reflect who we are and how we work: One Zensar,\nNurturing, Empowering, and Client Focus. Part of the $4.8\nbillion RPG Group, we’re a community of 10,000+ innovators\nacross 30+ global locations, including Milpitas, Seattle,\nPrinceton, Cape Town, London, Zurich, Singapore, and Mexico\nCity. Explore Life at Zensar and join us to Grow. Own.\nAchieve. Learn. to be the best version of yourself. We\nbelieve the best work happens when individuality is\ncelebrated, growth is encouraged, and well-being is\nprioritized. We are an equal employment opportunity (EEO)\nand affirmative action employer, committed to creating an\ninclusive workplace. All qualified applicants will be\nconsidered without regard to race, creed, color, ancestry,\nreligion, sex, national origin, citizenship, age, sexual\norientation, gender identity, disability, marital status,\nfamily medical leave status, or protected veteran status.\n",
+  "skills_required": [
+    "GPT models",
+    "LangChain",
+    "LangGraph",
+    "Langflow",
+    "Llama",
+    "MCP Servers",
+    "RAG",
+    "litellm",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop AI agents using frameworks like LangChain, LangGraph, Langflow, and MCP Servers",
+    "Fine-tune and optimize large language models (LLMs) such as GPT models and Llama for diverse applications",
+    "Implement RAG techniques and integrate vector databases like Qdrant and ChromaDB",
+    "Enhance AI agent operations with tools like langfuse and litellm for robust security and guardrails",
+    "Utilize cloud platforms (AWS, Google Cloud, Azure) and databases (Postgres, Neo4j, Clickhouse) for scalable AI solutions",
+    "Optimize workflows and data processing with technologies like Apache Airflow, Redis, Mlflow, Minio, and Apache Kedro",
+    "Apply prompt engineering techniques and CI/CD processes for efficient development",
+    "Collaborate with cross-functional teams to align AI solutions with business goals"
+  ],
+  "use_cases": [
+    "Network automation",
+    "AI agent development for telecommunications",
+    "Enterprise AI solutions",
+    "Intelligent data retrieval and processing"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Apache Airflow",
+    "Apache Kedro",
+    "Azure",
+    "CI/CD",
+    "ChromaDB",
+    "Clickhouse",
+    "Google Cloud",
+    "MLflow",
+    "Minio",
+    "Neo4j",
+    "Postgres",
+    "PySpark",
+    "Qdrant",
+    "Redis",
+    "langfuse"
+  ],
+  "frameworks_mentioned": [
+    "GPT models",
+    "LangChain",
+    "LangGraph",
+    "Langflow",
+    "Llama",
+    "MCP Servers",
+    "RAG",
+    "litellm",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Java"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building AI systems -\ndesigning and developing AI agents using\nLangChain/LangGraph, fine-tuning LLMs like GPT and Llama,\nand implementing RAG techniques. The engineer will directly\nwork with models and agents, not just support\ninfrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Langflow",
+      "MCP Servers",
+      "GPT models",
+      "Llama",
+      "RAG",
+      "prompt engineering",
+      "litellm"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "Qdrant",
+      "ChromaDB",
+      "Postgres",
+      "Neo4j",
+      "Clickhouse",
+      "Redis"
+    ],
+    "data": [
+      "Apache Airflow",
+      "Apache Kedro",
+      "PySpark"
+    ],
+    "cloud": [
+      "AWS",
+      "Google Cloud",
+      "Azure"
+    ],
+    "ops": [
+      "MLflow",
+      "Minio",
+      "CI/CD",
+      "langfuse"
+    ],
+    "languages": [
+      "Java"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

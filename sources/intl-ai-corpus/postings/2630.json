@@ -1,0 +1,102 @@
+{
+  "job_id": "intl-ai-corpus-2630",
+  "source": "intl-ai-corpus",
+  "source_ref": "8939517",
+  "source_url": "https://builtin.com/job/ai-solutions-engineer-early-career/8939517",
+  "title": "AI Solutions Engineer (YOE: Fresher - 02)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Bolna",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-02",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Entry level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "25 Employees",
+  "company_stage": "Seed (YC F25)",
+  "company_focus": "Voice AI infrastructure for deploying intelligent voice\nagents in India",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software"
+  ],
+  "description": "About Bolna\n\nBolna is Voice AI infrastructure built for India. We help\nbusinesses deploy intelligent voice agents that can call,\nconverse, and convert in any language, at scale. From\ncollections to customer support to sales, our agents handle\nmillions of conversations so humans don't have to.\n\nWe're a YC F25 company, backed by General Catalyst, with\n1,050+ paying customers and growing fast. Our team of ~25 is\nbased in Bengaluru.\n\nThe Role\n\nYou're the person who makes our voice agents actually sound\ngood and actually work for real customers. As an AI\nSolutions Engineer, you'll sit at the intersection of our\nproduct and our customers. Your primary job is to design,\nwrite, and iterate on the prompts and tools that power\nBolna's voice agents, making them smarter, more natural, and\nmore effective for each use case.\n\nYou'll work closely with customers to understand their\ngoals, build agent flows, test conversations, and fix what\nbreaks. No heavy coding required-if you can vibe-code a\nbasic script or write a solid system prompt, you're\nqualified.\n\nWhat You'll Do\n\n- Write, test, and iterate on system prompts for voice agents\n  across industries like D2C, fintech, healthcare, and\n  logistics\n- Listen to real call recordings, identify where agents fail,\n  and fix them\n- Build conversation flows and call pathways for new customer\n  deployments\n- Help onboard new customers-understand their use case, set up\n  their agent, and get it live\n- Maintain a growing library of prompts, templates, and best\n  practices across Bolna's verticals\n- Red-team agents-try to break them, find edge cases, and make\n  them bulletproof\n- Work with vernacular inputs: test agents in Hindi, Hinglish,\n  and regional languages\n- Feed insights back to product and engineering-you'll see\n  what customers need before anyone else does\n\nWhat We're Looking For\n\nMust-have:\n\n- You've spent serious time prompting ChatGPT, Claude, or\n  similar LLMs-not just casually, but to actually build or\n  solve something\n- You're obsessive about language-you notice when a sentence\n  sounds off, robotic, or unclear\n- You can think from the customer's perspective and the end-\n  user's perspective at the same time\n- You're comfortable with ambiguity and can make decisions\n  without a full playbook\n- Strong written and verbal communication in English. Hindi or\n  any other Indian language is a big plus\n\nGood to have:\n\n- You've tinkered with voice AI tools-Bolna, Vapi, ElevenLabs,\n  or similar\n- You've vibe-coded something: a small automation, a chatbot,\n  a no-code workflow-anything\n- Experience in a customer-facing role, even informally\n  (sales, support, intern, freelance)\n- Familiarity with how LLMs work under the hood-context\n  windows, temperature, hallucination, etc.\n\nWhy Bolna\n\n- The hottest team in the hottest market in India right now\n- Freshers who joined 3 months back are single-handedly\n  working with CXOs and Senior PMs of massive enterprises\n- Direct access to founders and product-your work will visibly\n  ship\n- You'll develop a rare, high-value skill set at the\n  intersection of AI, product, and customer success\n- Competitive compensation for early-career profiles\n- Bengaluru office, in-person team collaboration\n",
+  "skills_required": [
+    "Conversation Design",
+    "Customer Onboarding",
+    "Hindi/Hinglish/Regional Languages",
+    "LLMs (ChatGPT, Claude)",
+    "No-code/Low-code workflows",
+    "Prompt Engineering",
+    "Red-teaming / Adversarial Testing",
+    "Voice AI tools (Bolna, Vapi, ElevenLabs)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Write, test, and iterate on system prompts for voice agents across industries like D2C, fintech, healthcare, and logistics",
+    "Listen to real call recordings, identify where agents fail, and fix prompt and flow issues",
+    "Build conversation flows and call pathways for new customer deployments",
+    "Help onboard new customers by understanding their use case, setting up their agent, and getting it live",
+    "Maintain a growing library of prompts, templates, and best practices across verticals",
+    "Red-team agents to find edge cases and make them robust",
+    "Test agents in vernacular inputs including Hindi, Hinglish, and regional Indian languages",
+    "Feed customer insights and product feedback back to product and engineering teams"
+  ],
+  "use_cases": [
+    "Intelligent voice agents for customer support calls",
+    "Voice-based collections and payment follow-ups",
+    "Automated outbound and inbound sales calls",
+    "Multi-language voice AI for Indian markets",
+    "Customer onboarding and deployment of voice agents across D2C, fintech, healthcare, and logistics industries"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "LLMs (ChatGPT, Claude)",
+    "Prompt Engineering",
+    "Voice AI tools (Bolna, Vapi, ElevenLabs)"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves directly building, designing, and\niterating on AI voice agents — writing system prompts,\nbuilding conversation flows, red-teaming agents, and\ndeploying them for customers. While it doesn't require heavy\ncoding, it's hands-on work with LLM-powered agents, making\nit an ai-first role. The engineer is directly working ON the\nAI system (voice agents) to make them effective.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt Engineering",
+      "LLMs (ChatGPT, Claude)",
+      "Voice AI tools (Bolna, Vapi, ElevenLabs)"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [],
+    "domains": [],
+    "other": [
+      "No-code/Low-code workflows",
+      "Customer Onboarding",
+      "Hindi/Hinglish/Regional Languages",
+      "Conversation Design",
+      "Red-teaming / Adversarial Testing"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

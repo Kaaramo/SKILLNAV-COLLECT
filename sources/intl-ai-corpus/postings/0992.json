@@ -1,0 +1,155 @@
+{
+  "job_id": "intl-ai-corpus-0992",
+  "source": "intl-ai-corpus",
+  "source_ref": "7925740",
+  "source_url": "https://builtin.com/job/lead-staff-software-engineer-ai/7925740",
+  "title": "Lead/Staff Software Engineer, AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Thomson Reuters",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "33,822 Employees",
+  "company_stage": "Public",
+  "company_focus": "Tax and accounting software and professional information\nservices",
+  "industries": [],
+  "description": "This posting is for proactive recruitment purposes and may\nbe used to fill current openings or future vacancies within\nour organization.\n\nLead/Staff Software Engineer, AI\n\nAre you ready to shape the future of AI‑driven tax\nautomation? We're looking for a Senior AI Engineer to build\nand scale intelligent workflows using modern LLM/ML tooling.\nYour work will directly impact how tax professionals\nautomate complex, high‑stakes processes and access critical\ninformation.\n\nYou'll join our Tax and Accounting Professionals 1040 Scan\nproduct engineering team and own the design, implementation,\nand optimization of AI‑powered tax workflows—from data\ningestion to production deployment.\n\n1040SCAN is the market-leading scan-and-populate engine in\nthe 1040 workflow, organizing workpapers, extracting data,\nand exporting to tax software at scale. As a Senior AI\nengineer, you will modernize the AI that powers document\nunderstanding, extraction, and verification—expanding\ncoverage and accuracy while reducing human effort.\n\nAbout the role,\n\nAs a Lead/Staff Software Engineer AI, you will:\n\n- Advance document intelligence: Build generalizable models\n  for tax documents (standard and non‑standard) using\n  CV/NLP/LLMs and embeddings to move beyond fixed OCR\n  templates with dynamic, context‑aware parsing.\n- Boost auto‑verification & quality: Improve\n  native‑PDF/text‑layer matching, anomaly detection, and\n  prior‑year‑aware checks to catch issues before human\n  review; design human‑in‑the‑loop flows that preserve\n  practitioner control.\n- Scale the pipeline: Productionize low‑latency\n  training/inference pipelines over millions of documents\n  with robust observability, evaluation, and drift\n  monitoring.\n- Integrate LLMs and traditional ML models into robust,\n  auditable workflows that support tax determination,\n  document processing, and rules‑based automation.\n- Build and maintain data pipelines, feature extraction, and\n  preprocessing for tax‑relevant data (e.g., invoices,\n  filings, transactional data).\n- Develop and integrate RESTful APIs / microservices to expose\n  AI capabilities to internal and external systems.\n- Ensure solutions meet compliance, security, and auditability\n  requirements typical of tax and regulated domains.\n- You’ll collaborate across SurePrep engineering and other\n  Thomson Reuters product & engineering teams leveraging\n  TR’s AI platforms including Materia and Additive to\n  deliver reliable, auditable AI in production.\n\nAbout you\n\nYou’re a fit for the role of Lead/Staff Software Engineer,\nAI if your background includes:\n\n- 5+ years in applied ML/AI (or 5+ with an advanced degree)\n  delivering production systems in document AI/OCR/NLP or\n  information extraction at scale.\n- Strong Python and deep learning expertise\n  (PyTorch/TensorFlow), with experience in LLMs,\n  embeddings/vector search, prompt design/evaluation, and\n  statistical methods for quality and uncertainty.\n- Cloud‑native ML ops experience: training/inference\n  pipelines, feature/data stores, observability, cost/perf\n  optimization.\n- Own end‑to‑end lifecycle for AI features: design →\n  implementation → testing → deployment → monitoring →\n  iteration.\n- Optimize model/workflow inference for latency, throughput,\n  and cost, including caching, batching, and model selection\n  strategies.\n- Implement monitoring, logging, tracing, and alerting for\n  workflows and models in production (data drift, model\n  performance, error rates).\n- Debug and troubleshoot complex AI systems in production,\n  including prompt failures, integration bugs, and data\n  quality issues.\n- Partner with Product, Tax SMEs, and other engineering teams\n  to translate business/tax requirements into AI workflows.\n- Collaborate with data scientists and ML engineers on model\n  selection, evaluation, and experimentation within Reducto\n  pipelines.\n- Lead design reviews, perform code reviews, and mentor\n  mid‑level/junior engineers on AI best practices and\n  production‑grade coding.\n- Contribute to internal standards, best practices, and\n  templates for building AI workflows with Reducto.\n- You've built end‑to‑end AI features that are running in\n  production, not just prototypes.\n- You can take a vague tax/business requirement and turn it\n  into a concrete, testable workflow design.\n- You care about robustness and correctness as much as\n  cleverness—especially in domains where errors have\n  financial or compliance impact.\n- You're comfortable reading tax/business rules and working\n  with domain experts, even if you're not a tax specialist\n  yourself.\n\nPreferred Qualifications\n\n- Document AI background: layout parsing, table extraction,\n  doc‑type classification, native‑PDF matching, and\n  verification automation.\n- Agentic/LLM orchestration experience: familiarity with TR AI\n  platforms such as Materia and Additive;\n  retrieval‑augmented and tool‑use patterns; evaluation and\n  guardrails.\n- Modern Development Practices: Hands-on with modern AI coding\n  assistants including Claude Code, Cline, and GitHub\n  Copilot for rapid prototyping, code generation, and\n  workflow automation.\n- Version control: Experience with version control (Git),\n  testing frameworks (pytest or similar), and modern DevOps\n  practices.\n- Software Engineering: Familiarity with C#, Java or any other\n  programming language\n- Domain familiarity: exposure to tax/financial document\n  workflows or other regulated content systems is a plus.\n\n#LI-GK1\n\nWhat’s in it For You?\n\n- Hybrid Work Model: We’ve adopted a flexible hybrid working\n  environment (2-3 days a week in the office depending on\n  the role) for our office-based roles while delivering a\n  seamless experience that is digitally and physically\n  connected.\n- Flexibility & Work-Life Balance: Flex My Way is a set of\n  supportive workplace policies designed to help manage\n  personal and professional responsibilities, whether caring\n  for family, giving back to the community, or finding time\n  to refresh and reset. This builds upon our flexible work\n  arrangements, including work from anywhere for up to 8\n  weeks per year, empowering employees to achieve a better\n  work-life balance.\n- Career Development and Growth: By fostering a culture of\n  continuous learning and skill development, we prepare our\n  talent to tackle tomorrow’s challenges and deliver real-\n  world solutions. Our Grow My Way programming and skills-\n  first approach ensures you have the tools and knowledge to\n  grow, lead, and thrive in an AI-enabled future.\n- Industry Competitive Benefits: We offer comprehensive\n  benefit plans to include flexible vacation, two company-\n  wide Mental Health Days off, access to the Headspace app,\n  retirement savings, tuition reimbursement, employee\n  incentive programs, and resources for mental, physical,\n  and financial wellbeing.\n- Culture: Globally recognized, award-winning reputation for\n  inclusion and belonging, flexibility, work-life balance,\n  and more. We live by our values: Obsess over our\n  Customers, Compete to Win, Challenge (Y)our Thinking, Act\n  Fast / Learn Fast, and Stronger Together.\n- Social Impact: Make an impact in your community with our\n  Social Impact Institute. We offer employees two paid\n  volunteer days off annually and opportunities to get\n  involved with pro-bono consulting projects and\n  Environmental, Social, and Governance (ESG) initiatives.\n- Making a Real-World Impact: We are one of the few companies\n  globally that helps its customers pursue justice, truth,\n  and transparency. Together, with the professionals and\n  institutions we serve, we help uphold the rule of law,\n  turn the wheels of commerce, catch bad actors, report the\n  facts, and provide trusted, unbiased information to people\n  all over the world.\n\nOur use of AI within the recruitment process Thomson Reuters\nutilizes Artificial Intelligence (AI) to support parts of\nour global recruitment process. Unless you opt-out, our AI\nsystem will assess the information provided by you and\ncompare it to the requirements listed for the role, and\npresent the result to our recruitment personnel for further\nreview. The AI system acts as a supporting tool, but there\nis always a human making the decision if you will be\nconsidered for the role.\n\nIn the United States, Thomson Reuters offers a comprehensive\nbenefits package to our employees. Our benefit package\nincludes market competitive health, dental, vision,\ndisability, and life insurance programs, as well as a\ncompetitive 401k plan with company match. In addition,\nThomson Reuters offers market leading work life benefits\nwith competitive vacation, sick and safe paid time off, paid\nholidays (including two company mental health days off),\nparental leave, sabbatical leave. These benefits meet or\nexceeds the requirements of paid time off in accordance with\nany applicable state or municipal laws. Finally, Thomson\nReuters offers the following additional benefits: optional\nhospital, accident and sickness insurance paid 100% by the\nemployee; optional life and AD&D insurance paid 100% by the\nemployee; Flexible Spending and Health Savings Accounts;\nfitness reimbursement; access to Employee Assistance\nProgram; Group Legal Identity Theft Protection benefit paid\n100% by employee; access to 529 Plan; commuter benefits;\nAdoption & Surrogacy Assistance; Tuition Reimbursement; and\naccess to Employee Stock Purchase Plan.\n\nThomson Reuters complies with local laws that require\nupfront disclosure of the expected pay range for a position.\nThe base compensation range varies across locations.\n\nEligible office location(s) for this role include one or\nmore of the following: New York City, San Francisco, Los\nAngeles, and/or Irvine, CA; McLean, VA; Washington, DC. The\nbase compensation range for the role in any of those\nlocations is $158,000 USD - $293,000 USD. For any eligible\nUS locations, unless otherwise noted, the base compensation\nrange for this role is $137,100 USD - $254,700 USD.\n\nBase pay is positioned within the range based on several\nfactors including an individual’s knowledge, skills and\nexperience with consideration given to internal equity. Base\npay is one part of a comprehensive Total Reward program\nwhich also includes flexible and supportive benefits and\nother wellbeing programs. This role may also be eligible for\nan Annual Bonus based on a combination of enterprise and\nindividual performance.\n\nAbout Us\n\nThomson Reuters informs the way forward by bringing together\nthe trusted content and technology that people and\norganizations need to make the right decisions. We serve\nprofessionals across legal, tax, accounting, compliance,\ngovernment, and media. Our products combine highly\nspecialized software and insights to empower professionals\nwith the data, intelligence, and solutions needed to make\ninformed decisions, and to help institutions in their\npursuit of justice, truth, and transparency. Reuters, part\nof Thomson Reuters, is a world leading provider of trusted\njournalism and news.\n\nWe are powered by the talents of 26,000 employees across\nmore than 70 countries, where everyone has a chance to\ncontribute and grow professionally in flexible work\nenvironments. At a time when objectivity, accuracy,\nfairness, and transparency are under attack, we consider it\nour duty to pursue them. Sound exciting? Join us and help\nshape the industries that move society forward.\n\nAs a global business, we rely on the unique backgrounds,\nperspectives, and experiences of all employees to deliver on\nour business goals. To ensure we can do that, we seek\ntalented, qualified employees in all our operations around\nthe world regardless of race, color, sex/gender, including\npregnancy, gender identity and expression, national origin,\nreligion, sexual orientation, disability, age, marital\nstatus, citizen status, veteran status, or any other\nprotected classification under applicable law. Thomson\nReuters is proud to be an Equal Employment Opportunity\nEmployer providing a drug-free workplace.\n\nThomson Reuters makes reasonable accommodations for\napplicants with disabilities, including veterans with\ndisabilities, and for sincerely held religious beliefs in\naccordance with applicable law. If you reside in the United\nStates and require an accommodation in the recruiting\nprocess, you may contact our Human Resources Department at\nHR.Leave-Expert@thomsonreuters.com. Disability\naccommodations in the recruiting process may include things\nlike a sign language interpreter, making interview rooms\naccessible, providing assistive technology, or other\nrelevant accommodations. Please note this email is not\nintended for general recruitment questions and we will\npromptly respond to inquiries regarding accommodations. More\ninformation on requesting an accommodation here.\n\nLearn more on how to protect yourself from fraudulent job\npostings here.\n\nMore information about Thomson Reuters can be found on\nthomsonreuters.com\n",
+  "skills_required": [
+    "LLMs",
+    "PyTorch",
+    "TensorFlow",
+    "agentic orchestration",
+    "embeddings",
+    "guardrails",
+    "prompt design",
+    "prompt evaluation",
+    "retrieval-augmented generation",
+    "tool-use patterns"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build generalizable models for tax documents using CV/NLP/LLMs and embeddings for dynamic, context-aware parsing",
+    "Improve native-PDF/text-layer matching, anomaly detection, and prior-year-aware checks with human-in-the-loop flows",
+    "Productionize low-latency training and inference pipelines over millions of documents with observability and drift monitoring",
+    "Integrate LLMs and traditional ML models into robust, auditable workflows for tax determination and document processing",
+    "Build and maintain data pipelines, feature extraction, and preprocessing for tax-relevant data",
+    "Develop and integrate RESTful APIs and microservices to expose AI capabilities to internal and external systems",
+    "Lead design reviews, perform code reviews, and mentor mid-level and junior engineers on AI best practices"
+  ],
+  "use_cases": [
+    "Automate tax document processing by scanning, organizing, and extracting data from workpapers",
+    "Enable data export to tax software at scale through the 1040SCAN product",
+    "Move beyond fixed OCR templates to dynamic, context-aware parsing of tax documents",
+    "Provide native-PDF and text-layer matching with anomaly detection for quality verification",
+    "Support tax determination through rules-based automation and AI-powered workflows"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Docker",
+    "Git",
+    "Kubernetes",
+    "MLflow",
+    "REST APIs",
+    "logging",
+    "microservices",
+    "monitoring",
+    "pytest",
+    "tracing",
+    "vector search"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "PyTorch",
+    "TensorFlow",
+    "agentic orchestration",
+    "embeddings",
+    "guardrails",
+    "prompt design",
+    "prompt evaluation",
+    "retrieval-augmented generation",
+    "tool-use patterns"
+  ],
+  "languages_programming": [
+    "C#",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building and deploying AI/ML\nsystems including LLMs, CV/NLP models, and document\nintelligence systems. The engineer owns the end-to-end\nlifecycle from model development to production deployment,\nnot just supporting infrastructure for others.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "embeddings",
+      "prompt design",
+      "prompt evaluation",
+      "agentic orchestration",
+      "retrieval-augmented generation",
+      "tool-use patterns",
+      "guardrails"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "web": [
+      "REST APIs",
+      "microservices"
+    ],
+    "databases": [
+      "vector search"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "monitoring",
+      "logging",
+      "tracing",
+      "CI/CD",
+      "Git",
+      "pytest"
+    ],
+    "languages": [
+      "Python",
+      "C#",
+      "Java"
+    ],
+    "domains": [
+      "CV",
+      "NLP",
+      "OCR",
+      "information extraction",
+      "layout parsing",
+      "table extraction",
+      "doc-type classification"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:45+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

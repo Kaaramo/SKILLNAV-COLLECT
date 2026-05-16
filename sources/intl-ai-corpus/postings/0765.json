@@ -1,0 +1,163 @@
+{
+  "job_id": "intl-ai-corpus-0765",
+  "source": "intl-ai-corpus",
+  "source_ref": "6832171",
+  "source_url": "https://builtin.com/job/lead-ai-engineer/6832171",
+  "title": "Lead, AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "E.L.F. Beauty",
+  "company_type": "entité morale privée",
+  "location": "Ahmedabad, IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,096 Employees",
+  "company_stage": "Public",
+  "company_focus": "Beauty and cosmetics company with multiple brands",
+  "industries": [],
+  "description": "About the Company\n\ne.l.f. Beauty, Inc. stands with every eye, lip, face and\npaw. Our deep commitment to clean, cruelty free beauty at an\nincredible value has fueled the success of our flagship\nbrand e.l.f. Cosmetics since 2004 and driven our portfolio\nexpansion. Today, our multi-brand portfolio includes e.l.f.\nCosmetics, e.l.f. SKIN, pioneering clean beauty brand Well\nPeople, Keys Soulcare, a groundbreaking lifestyle beauty\nbrand created with Alicia Keys and Naturium, high-\nperformance, biocompatible, clinically-effective and\naccessible skincare.\n\nIn our Fiscal year 25, we had net sales of $1 Billion and\nour business performance has been nothing short of\nextraordinary with 26 consecutive quarters of net sales\ngrowth. We are the #2 mass cosmetics brand in the US and are\nthe fastest growing mass cosmetics brand among the top 5.\nOur total compensation philosophy offers every full-time new\nhire competitive pay and benefits, bonus eligibility (200%\nof target over the last four fiscal years), equity, and a\nhybrid 3 day in office, 2 day at home work environment. We\nbelieve the combination of our unique culture, total\ncompensation, workplace flexibility and care for the team is\nunmatched across not just beauty but any industry.\n\nVisit our Career Page to learn more about our team:\nhttps://www.elfbeauty.com/work-with-us\n\nJob Summary:\n\nWe are seeking a highly skilled and experienced Lead AI\nEngineer to lead the design, development, and deployment of\nadvanced AI solutions across our enterprise. The ideal\ncandidate will have a deep understanding of AI/ML\nalgorithms, scalable systems, and data engineering best\npractices.\n\nResponsibilities\n\n- Design and develop production-grade AI and machine learning\n  models for real-world applications (e.g., recommendation\n  engines, NLP, computer vision, forecasting).\n- Lead model lifecycle management from experimentation and\n  prototyping to deployment and monitoring.\n- Collaborate with cross-functional teams (product, data\n  engineering, MLOps, and business) to define AI-driven\n  features and services.\n- Perform feature engineering, data wrangling, and exploratory\n  data analysis on large-scale structured and unstructured\n  datasets.\n- Build and maintain scalable AI infrastructure using cloud\n  services (AWS, Azure, GCP) and MLOps best practices.\n- Mentor junior AI/ML engineers, guiding them in model\n  development, evaluation, and deployment.\n- Continuously improve model performance by leveraging new\n  research, retraining on new data, and optimizing\n  pipelines.\n- Stay current with the latest developments in AI, machine\n  learning, and deep learning through research, conferences,\n  and publications\n\nRequirements\n\n- Bachelor’s or Master’s degree in Computer Science, Data\n  Science, Machine Learning or related field.\n- 10+ years of IT experience with a minimum of 6+ years of\n  AI/ML\n- Experience in AI/ML engineering, particularly with building\n  LLM-based applications and prompt-driven architectures.\n- Solid understanding of Retrieval-Augmented Generation (RAG)\n  patterns and vector databases (especially Qdrant).\n- Hands-on experience in deploying and managing containerized\n  services in AWS ECS and using CloudWatch for logs and\n  diagnostics.\n- Familiarity with AWS Bedrock and working with foundation\n  models through its managed services.\n- Experience working with AWS RDS (MySQL or MariaDB) for\n  structured data storage and integration with AI workflows.\n- Practical experience with LLM fine-tuning techniques,\n  including full fine-tuning, instruction tuning, and\n  parameter-efficient methods like LoRA or QLoRA.\n- Strong understanding of recent AI advancements such as\n  multi-agent systems, AI assistants, and orchestration\n  frameworks.\n- Proficiency in Python and experience working directly with\n  LLM APIs (e.g., OpenAI, Anthropic, or similar).\n- Comfortable working in a React frontend environment and\n  integrating backend APIs.\n- Experience with CI/CD pipelines and infrastructure as code\n  (e.g., Terraform, AWS CDK).\n\nThis job description is intended to describe the general\nnature and level of work being performed in this position.\nIt also reflects the general details considered necessary to\ndescribe the principal functions of the job identified, and\nshall not be considered, as detailed description of all the\nwork required inherent in the job. It is not an exhaustive\nlist of responsibilities, and it is subject to changes and\nexceptions at the supervisors’ discretion.\n\ne.l.f. Beauty respects your privacy. Please see our Job\nApplicant Privacy Notice (www.elfbeauty.com/us-job-\napplicant-privacy-notice) for how your personal information\nis used and shared.\n",
+  "skills_required": [
+    "Anthropic API",
+    "LLM fine-tuning",
+    "LLM-based applications",
+    "LoRA",
+    "Multi-agent systems",
+    "OpenAI API",
+    "Prompt engineering",
+    "PyTorch",
+    "QLoRA",
+    "RAG (Retrieval-Augmented Generation)",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and develop production-grade AI and machine learning models for real-world applications including recommendation engines, NLP, computer vision, and forecasting",
+    "Lead model lifecycle management from experimentation and prototyping to deployment and monitoring",
+    "Collaborate with cross-functional teams to define AI-driven features and services",
+    "Perform feature engineering, data wrangling, and exploratory data analysis on large-scale datasets",
+    "Build and maintain scalable AI infrastructure using cloud services and MLOps best practices",
+    "Mentor junior AI/ML engineers in model development, evaluation, and deployment",
+    "Continuously improve model performance by leveraging research, retraining, and pipeline optimization"
+  ],
+  "use_cases": [
+    "Recommendation engines for beauty products",
+    "Natural language processing applications",
+    "Computer vision systems",
+    "Demand and sales forecasting",
+    "LLM-based applications and AI assistants",
+    "Multi-agent AI systems"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Bedrock",
+    "AWS CDK",
+    "AWS CloudWatch",
+    "AWS ECS",
+    "AWS RDS",
+    "Azure",
+    "CI/CD",
+    "GCP",
+    "MLOps",
+    "MariaDB",
+    "MySQL",
+    "Qdrant",
+    "React",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LLM fine-tuning",
+    "LLM-based applications",
+    "LoRA",
+    "Multi-agent systems",
+    "OpenAI API",
+    "Prompt engineering",
+    "PyTorch",
+    "QLoRA",
+    "RAG (Retrieval-Augmented Generation)",
+    "TensorFlow",
+    "scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP",
+    "TIME_SERIES"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is hands-on building, deploying, and fine-tuning\nAI systems including LLM-based applications, RAG patterns,\nand ML models. The engineer will work directly with\nfoundation models, fine-tuning techniques (LoRA, QLoRA), and\nmulti-agent systems, not just supporting infrastructure for\nothers.",
+  "is_customer_facing": false,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLM-based applications",
+      "Prompt engineering",
+      "RAG (Retrieval-Augmented Generation)",
+      "Multi-agent systems",
+      "LLM fine-tuning",
+      "LoRA",
+      "QLoRA",
+      "OpenAI API",
+      "Anthropic API"
+    ],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn"
+    ],
+    "web": [
+      "React"
+    ],
+    "databases": [
+      "Qdrant",
+      "AWS RDS",
+      "MySQL",
+      "MariaDB"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "AWS Bedrock",
+      "AWS ECS"
+    ],
+    "ops": [
+      "AWS CloudWatch",
+      "CI/CD",
+      "Terraform",
+      "AWS CDK",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "NLP",
+      "Computer Vision"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

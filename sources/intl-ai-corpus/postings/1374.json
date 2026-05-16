@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-1374",
+  "source": "intl-ai-corpus",
+  "source_ref": "8423590",
+  "source_url": "https://builtin.com/job/senior-software-engineer-java-software-engineering/8423590",
+  "title": "Senior Software Engineer (Java/Agentic AI), Software Engineering",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Saviynt",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-06",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": null,
+  "company_focus": "Cloud Security and Identity Governance solutions for\nenterprises",
+  "industries": [],
+  "description": "Saviynt is a leading provider of Cloud Security and Identity\nGovernance solutions. Saviynt enables enterprises to secure\napplications, data, and infrastructure in a single platform\nfor Cloud (Office 365, AWS, Azure, Salesforce, Workday) and\nEnterprise (SAP, Oracle EBS). Saviynt is pioneering Identity\nGovernance Administration by integrating advanced risk\nanalytics and intelligence with fine-grained privilege\nmanagement.\n\nWHAT YOU WILL DOING\n\n- Platform Architecture: Design, develop, and enhance shared\n  Java-based frameworks that serve as the foundation for all\n  product development teams.\n- System Reliability: Improve platform stability, scalability,\n  and fault tolerance across distributed systems.\n- Innovation Leadership: Contribute to AI/agent-enablement\n  hooks at the foundation layer to support next-generation\n  capabilities.\n- AI/Agent Integration: Guide AI/agent framework integration\n  and extensibility at the platform foundation layer\n- Technical Mentorship: Guide and mentor engineering teams\n  while establishing and enforcing engineering best\n  practices.\n- Operational Excellence: Proactively identify and resolve\n  potential system issues to minimize operational incidents.\n- Cross-team Collaboration: Work closely with product scrum\n  teams to ensure framework adoption and effectiveness.\n\nWHAT YOU BRING\n\n- Experience: 6+ years of professional Java development\n  experience.\n- Technical Stack: Expertise in Spring Boot, RESTful API\n  design, and implementation.\n- Security & Resilience: Strong understanding and hands-on\n  experience with security patterns, fault tolerance, and\n  system resilience.\n- Distributed Systems: Proven experience designing and\n  building scalable distributed systems.\n- Data Systems: Practical experience with MySQL database\n  design and optimization.\n- Messaging: Familiarity with RabbitMQ or similar message\n  queuing systems.\n- Problem Solving: Strong analytical and troubleshooting\n  skills with a focus on root cause analysis.\n- Experience with microservices architecture and\n  containerization (Docker, Kubernetes).\n- Knowledge of CI/CD pipelines and DevOps practices.\n- Familiarity with cloud platforms (AWS, Azure, GCP).\n- Experience with monitoring and observability tools.\n- Background in identity and access management solutions.\n",
+  "skills_required": [
+    "AI/agent integration"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and enhance shared Java-based frameworks that serve as the foundation for all product development teams",
+    "Improve platform stability, scalability, and fault tolerance across distributed systems",
+    "Contribute to AI/agent-enablement hooks at the foundation layer to support next-generation capabilities",
+    "Guide AI/agent framework integration and extensibility at the platform foundation layer",
+    "Guide and mentor engineering teams while establishing and enforcing engineering best practices",
+    "Proactively identify and resolve potential system issues to minimize operational incidents",
+    "Work closely with product scrum teams to ensure framework adoption and effectiveness"
+  ],
+  "use_cases": [
+    "Identity Governance Administration for enterprises",
+    "Cloud security for Office 365, AWS, Azure, Salesforce, Workday",
+    "Enterprise security for SAP, Oracle EBS",
+    "Risk analytics and intelligence integration",
+    "Privilege management and access control"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD pipelines",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "MySQL",
+    "RESTful API design",
+    "RabbitMQ",
+    "Spring Boot",
+    "microservices architecture"
+  ],
+  "frameworks_mentioned": [
+    "AI/agent integration"
+  ],
+  "languages_programming": [
+    "Java"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role explicitly involves designing and implementing\nAI/agent-enablement hooks at the foundation layer and\nguiding AI/agent framework integration. While primarily a\nJava platform engineering role, it includes direct hands-on\nwork integrating and enabling agentic AI capabilities into\nthe platform architecture.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI/agent integration"
+    ],
+    "ml": [],
+    "web": [
+      "Spring Boot",
+      "RESTful API design",
+      "microservices architecture"
+    ],
+    "databases": [
+      "MySQL"
+    ],
+    "data": [
+      "RabbitMQ"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD pipelines"
+    ],
+    "languages": [
+      "Java"
+    ],
+    "domains": [
+      "Identity and Access Management"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

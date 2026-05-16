@@ -1,0 +1,143 @@
+{
+  "job_id": "intl-ai-corpus-2124",
+  "source": "intl-ai-corpus",
+  "source_ref": "8768341",
+  "source_url": "https://builtin.com/job/staff-ai-engineer-react-typescript-experience/8768341",
+  "title": "Staff AI Engineer (React & Typescript Experience)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Wizeline",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-16",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,444 Employees",
+  "company_stage": "unknown",
+  "company_focus": "AI-native technology solutions and digital products",
+  "industries": [
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "We are: Wizeline, a global AI-native technology solutions\nprovider, develops cutting-edge, AI-powered digital products\nand platforms. We partner with clients to leverage data and\nAI, accelerating market entry and driving business\ntransformation. As a global community of innovators, we\nfoster a culture of growth, collaboration, and impact.\n\nWith the right people and the right ideas, there’s no limit\nto what we can achieve\n\nAre you a fit? Sounds awesome, right? Now, let’s make sure\nyou’re a good fit for the role:\n\nKey Responsibilities:\n\n- Lead the architecture, design, and development of scalable,\n  high-performance web applications using React and\n  TypeScript.\n- Define and execute the front-end technical strategy,\n  ensuring scalability, performance, and alignment with\n  product and AI goals.\n- Collaborate closely with AI engineers, data scientists,\n  designers, and product managers to deliver intelligent,\n  data-driven user experiences.\n- Integrate AI-powered components (e.g., chatbots, assistants,\n  content generators, predictive UI) into modern web\n  applications.\n- Mentor other engineers, promoting excellence in coding\n  practices, architecture decisions, and technical problem-\n  solving.\n- Establish and enforce standards for code quality,\n  accessibility, performance optimization, and testing.\n- Partner with backend and DevOps teams to optimize CI/CD\n  pipelines and deployment processes.\n- Continuously identify opportunities to use AI and automation\n  to enhance both development workflows and end-user\n  experiences.\n\nMust-have Skills:\n\n- 8+ years of professional software development experience,\n  with at least 5+ years specializing in React and\n  TypeScript.\n- Proven experience architecting and scaling enterprise-grade\n  front-end applications.\n- Knowledge of AI technologies and hands-on experience\n  integrating AI/ML models or APIs (e.g., OpenAI, Hugging\n  Face, Vertex AI, Anthropic, or similar).\n- Demonstrated ability to design and implement AI-enhanced\n  interfaces that improve usability, personalization, or\n  automation.\n- Deep understanding of JavaScript (ES6+), React Hooks, and\n  state management patterns (Redux, Zustand, or Recoil).\n- Proficiency with testing frameworks (Jest, React Testing\n  Library, Cypress) and performance profiling tools.\n- Experience integrating RESTful and GraphQL APIs.\n- Bachelor’s degree in Computer Science, Software Engineering,\n  or related field.\n- Advanced English level, both written and verbal.\n- Excellent communication, leadership, and mentoring skills.\n\nNice-to-have:\n\n- AI Tooling Proficiency: Leverage one or more AI tools to\n  optimize and augment day-to-day work, including drafting,\n  analysis, research, or process automation. Provide\n  recommendations on effective AI use and identify\n  opportunities to streamline workflows.\n- Hands-on experience with Large Language Models (LLMs).\n- Understanding of agent architectures and key components,\n  including “agent iceberg” considerations when integrating\n  LLMs.\n- Familiarity with Next.js, Micro Frontends, and Server-Side\n  Rendering (SSR).\n- Experience with cloud platforms (AWS, GCP, Azure) and\n  infrastructure-as-code tools such as Terraform.\n- Background in data visualization or AI-driven UX design.\n- Contributions to open-source projects or active\n  participation in tech communities.\n- Experience leading distributed teams in agile environments.\n\nWhat we offer:\n\n- A High-Impact Environment\n- Commitment to Professional Development\n- Flexible and Collaborative Culture\n- Global Opportunities\n- Vibrant Community\n- Total Rewards\n\nFind out more about our culture here.\n",
+  "skills_required": [
+    "Agent architectures",
+    "Anthropic API",
+    "Hugging Face",
+    "LLMs",
+    "OpenAI API"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead architecture, design, and development of scalable web applications using React and TypeScript",
+    "Define and execute front-end technical strategy aligned with product and AI goals",
+    "Collaborate with AI engineers, data scientists, and product managers on intelligent user experiences",
+    "Integrate AI-powered components including chatbots, assistants, content generators, and predictive UI into web applications",
+    "Mentor engineers on coding practices, architecture decisions, and technical problem-solving",
+    "Establish standards for code quality, accessibility, performance optimization, and testing",
+    "Partner with backend and DevOps teams to optimize CI/CD pipelines and deployment processes",
+    "Identify opportunities to use AI and automation to enhance development workflows and end-user experiences"
+  ],
+  "use_cases": [
+    "AI-powered chatbots and virtual assistants",
+    "Content generation interfaces",
+    "Predictive UI components",
+    "Data-driven intelligent user experiences",
+    "Personalized and automated user interfaces"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "Cypress",
+    "GCP",
+    "GraphQL",
+    "Jest",
+    "Micro Frontends",
+    "Next.js",
+    "REST APIs",
+    "React",
+    "React Testing Library",
+    "Redux",
+    "Server-Side Rendering",
+    "Terraform",
+    "Vertex AI",
+    "Zustand"
+  ],
+  "frameworks_mentioned": [
+    "Agent architectures",
+    "Anthropic API",
+    "Hugging Face",
+    "LLMs",
+    "OpenAI API"
+  ],
+  "languages_programming": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on front-end web development with React\nand TypeScript. While it involves integrating AI/ML\ncomponents into web applications and collaborating with AI\nengineers, the primary work is building the web layer that\nconsumes AI APIs, not building, training, or deploying the\nAI models themselves. The role supports AI work by providing\nthe user interface layer.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "LLMs",
+      "Agent architectures"
+    ],
+    "ml": [
+      "Hugging Face"
+    ],
+    "web": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "REST APIs",
+      "Redux",
+      "Zustand",
+      "Jest",
+      "React Testing Library",
+      "Cypress",
+      "Server-Side Rendering",
+      "Micro Frontends"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "Vertex AI",
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Terraform",
+      "CI/CD"
+    ],
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

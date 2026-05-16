@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-0878",
+  "source": "intl-ai-corpus",
+  "source_ref": "7535477",
+  "source_url": "https://builtin.com/job/sr-ai-solutions-engineer/7535477",
+  "title": "Sr AI Solutions Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Centific",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-21",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,900 Employees",
+  "company_stage": null,
+  "company_focus": "AI data foundry and GenAI solutions platform",
+  "industries": [],
+  "description": "About Centific\n\nCentific is a frontier AI data foundry that curates diverse,\nhigh-quality data, using our purpose-built technology\nplatforms to empower the Magnificent Seven and our\nenterprise clients with safe, scalable AI deployment. Our\nteam includes more than 150 PhDs and data scientists, along\nwith more than 4,000 AI practitioners and engineers. We\nharness the power of an integrated solution\necosystem—comprising industry-leading partnerships and 1.8\nmillion vertical domain experts in more than 230 markets—to\ncreate contextual, multilingual, pre-trained datasets; fine-\ntuned, industry-specific LLMs; and RAG pipelines supported\nby vector databases. Our zero-distance innovation™ solutions\nfor GenAI can reduce GenAI costs by up to 80% and bring\nsolutions to market 50% faster.\n\nOur mission is to bridge the gap between AI creators and\nindustry leaders by bringing best practices in GenAI to\nunicorn innovators and enterprise customers. We aim to help\nthese organizations unlock significant business value by\ndeploying GenAI at scale, helping to ensure they stay at the\nforefront of technological advancement and maintain a\ncompetitive edge in their respective markets.\n\nAbout Job\n\nJob Title: Sr. Solutions Engineer\n\nLocation: Remote\n\nJob Description:\n\nIn this role, you will provide regular updates on solutions\nand benefits/feature scope to Leadership and stakeholders.\nYou'll apply NVIDIA processing and interconnect products\nsuch as NeMo, Riva, RAPIDS, Triton, and many more SDKs and\nlibraries supported on different hardware configurations.\n\nSolution Engineers require the following in\nresponsibilities.\n\nQualifications:\n\n- B.Sc. in Electrical Engineering, Computer Science, or\n  equivalent experience.\n- 5+ years of experience.\n- Productizing requirements as Centific AI offerings as stable\n  and reliable software releases.\n- Implementing Nvidia and other open source models.\n- Data and AI Solution Engineering including ML training and\n  inference.\n- Building web UI and mobile applications that are AI-enabled\n  for interactive user engagement.\n- Test driven API and backend data pipeline development\n- Cloud deployments and warranty support.\n- Knowledge and experience with high-performance networking or\n  GPU application acceleration is preferred.\n- Strong competence in the NVIDIA ecosystem, such as NeMo,\n  RAPIDS, Riva, Triton, and others.\n- High-level English communication skills.\n- Strong interpersonal skills and an ability to work directly\n  with customers.\n\nCentific is an equal-opportunity employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, national origin, ancestry,\ncitizenship status, age, mental or physical disability,\nmedical condition, sex (including pregnancy), gender\nidentity or expression, sexual orientation, marital status,\nfamilial status, veteran status, or any other characteristic\nprotected by applicable law. We consider qualified\napplicants regardless of criminal histories, consistent with\nlegal requirements.\n",
+  "skills_required": [
+    "LLMs",
+    "ML inference",
+    "ML training",
+    "NeMo",
+    "RAG",
+    "RAPIDS",
+    "Riva",
+    "test-driven development"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Productize requirements as Centific AI offerings as stable and reliable software releases",
+    "Implement NVIDIA and other open source models for AI solutions",
+    "Perform ML training and inference for data and AI solution engineering",
+    "Build AI-enabled web UI and mobile applications for interactive user engagement",
+    "Develop test-driven APIs and backend data pipelines",
+    "Handle cloud deployments and provide warranty support",
+    "Apply NVIDIA processing and interconnect products including NeMo, Riva, RAPIDS, and Triton SDKs",
+    "Provide regular updates on solutions and benefits/feature scope to leadership and stakeholders"
+  ],
+  "use_cases": [
+    "GenAI deployment at scale for enterprise clients",
+    "Industry-specific LLM fine-tuning and deployment",
+    "RAG pipelines supported by vector databases",
+    "AI-enabled interactive user engagement applications",
+    "Contextual multilingual pre-trained datasets for AI training"
+  ],
+  "tools_mentioned": [
+    "API development",
+    "GPU application acceleration",
+    "Triton",
+    "backend data pipelines",
+    "cloud deployments",
+    "high-performance networking",
+    "mobile applications",
+    "vector databases",
+    "web UI development"
+  ],
+  "frameworks_mentioned": [
+    "LLMs",
+    "ML inference",
+    "ML training",
+    "NeMo",
+    "RAG",
+    "RAPIDS",
+    "Riva"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves implementing NVIDIA models, ML training\nand inference, building AI-enabled applications, and\ndeploying AI solutions. The role directly works with NeMo,\nRiva, Triton, and RAPIDS SDKs for building and deploying\nAI/ML systems, making it hands-on AI/ML engineering work\nrather than just support infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "RAG"
+    ],
+    "ml": [
+      "NeMo",
+      "Riva",
+      "RAPIDS",
+      "ML training",
+      "ML inference"
+    ],
+    "web": [
+      "web UI development",
+      "mobile applications",
+      "API development"
+    ],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [
+      "backend data pipelines"
+    ],
+    "cloud": [
+      "cloud deployments"
+    ],
+    "ops": [
+      "Triton",
+      "GPU application acceleration",
+      "high-performance networking"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": [
+      "test-driven development"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

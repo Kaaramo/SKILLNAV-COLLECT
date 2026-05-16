@@ -1,0 +1,135 @@
+{
+  "job_id": "intl-ai-corpus-1613",
+  "source": "intl-ai-corpus",
+  "source_ref": "8544772",
+  "source_url": "https://builtin.com/job/ai-engineer/8544772",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Influur",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "54 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Building autonomous AI agents for influencer marketing and\nviral content campaigns",
+  "industries": [],
+  "description": "About Influur\n\nWe're building the world's first viral agent. An AI purpose\nbuilt for influencer marketing.\n\nNot a tool. Not a platform. An autonomous agent that goes\nfrom \"I need this campaign to break\" to \"50 influencers live\nnext week\" with minimal human intervention.\n\nWhy this matters: We have 3 years of proprietary data on\nwhat makes influencer content go viral. Warner, Sony, and\nUniversal trust us to break their biggest artists. We're\nbacked by the biggest names in entertainment including Sofia\nVergara, Karol G, Tommy Mottola, and Tier 1 VCs like Point72\nVentures. We're not building for hypothetical use cases.\nWe're shipping production AI that drives millions in revenue\ntoday.\n\nWhy we'll win: We have what no one else has: both the data\nand the distribution. We have proprietary data on thousands\nof influencers and what makes content go viral, plus direct\nrelationships with the influencers themselves. In the AI\nera, having both is the moat. Everyone else has one or the\nother. We have both.\n\nWhy now: AGI agents will replace middle level work by 2027.\nWe have a 12 to 18 month window before the market floods\nwith agents. We're building the category defining social\nmedia viral agent right now.\n\nWhat we're looking for: Young talent ready to go all in.\nWe're offering significant equity to people who want to\nbuild something that matters. This isn't a job. It's an\nopportunity to define the future of AI in influencer\nmarketing and own a meaningful piece of it.\n\nYour Skillset\n\n- Solid experience designing multi AI agent architectures with\n  memory, tool use, and feedback loops (LangChain, CrewAI,\n  or custom orchestration), using LLMs such as those from\n  OpenAI, Anthropic, Gemini, etc.\n- Expertise in full-stack development (Node.js, Next.js) and\n  scalable systems.\n- Strong proficiency in Python is a plus.\n- Ability to reason about API orchestration, error handling,\n  integration complexity.\n- Experience building RAG systems.\n- Experience building and integrating APIs (REST) in Node.js.\n- Hands-on experience using AI-powered IDE tools such as\n  Cursor.\n- Experience properly using LLMs in different parts of a\n  greater system.\n- Deep knowledge of which models to be used whenCreating and\n  using embeddings.\n- Strong grasp of API architecture, performance tuning, and\n  database optimization (SQL).\n- Technical leadership: from design to deployment.\n- Deep code quality standards: automation, testing, reviews,\n  and focus on end-to-end ownership.\n- Effective communicator across product, design, and business.\n- Familiarity with cloud infra (AWS/GCP) and container tools\n  (Docker, Kubernetes).\n- Knowledge on social media (especially TikTok), both in a\n  tech perspective and a consumer perspective.\n- Past experience in video content\n  classification/embeddings/tagging.\n\nYou’re the Type Who\n\n- Builds like an AI native, automates, experiments, and ships\n  at lightning speed.\n- Brings a generalist mindset, curious, versatile, hands-on,\n  and comfortable across the stack.\n- Moves fast, builds with precision, and expects high\n  standards.\n- Thrives in early-stage startups where nothing is “someone\n  else’s job”.\n- Sees ambiguity as an opportunity to lead and learn.\n- Thinks like a product builder, not just writing code, but\n  shaping how AI enhances user experience and business\n  outcomes.\n- Is obsessed with pushing what’s possible with AI and\n  scalable systems.\n\nWhat We Offer\n\n• Competitive equity in a venture-backed company shaping the\nfuture of music influencer marketing.\n\n• A seat at the table as we redefine how the most iconic\nrecord labels, artists, and brands go viral (think Bad\nBunny), with our tech, support, and strategic guidance.\n\n• Access to elite tools, AI copilots, and a team that builds\ndaily at top speed.\n\n• Hybrid flexibility.\n",
+  "skills_required": [
+    "Anthropic API",
+    "CrewAI",
+    "Cursor",
+    "Embeddings",
+    "Gemini API",
+    "LangChain",
+    "Multi-agent architectures",
+    "OpenAI API",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build multi-agent AI architectures with memory, tool use, and feedback loops",
+    "Develop and implement RAG systems for the viral agent platform",
+    "Build full-stack applications using Node.js and Next.js integrated with AI systems",
+    "Create and manage embeddings for content classification and tagging",
+    "Integrate and orchestrate multiple LLM APIs (OpenAI, Anthropic, Gemini) with appropriate model selection",
+    "Design and optimize scalable backend systems with SQL databases and API architecture",
+    "Deploy and maintain systems on cloud infrastructure using Docker and Kubernetes",
+    "Collaborate with product and business teams to shape AI-driven user experiences"
+  ],
+  "use_cases": [
+    "Autonomous influencer marketing campaign execution",
+    "Video content classification and tagging for viral prediction",
+    "Social media virality prediction and optimization",
+    "Influencer discovery and matching for brands and record labels",
+    "End-to-end campaign automation from brief to influencer deployment"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "Next.js",
+    "Node.js",
+    "REST APIs",
+    "SQL"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "CrewAI",
+    "Embeddings",
+    "Gemini API",
+    "LangChain",
+    "Multi-agent architectures",
+    "OpenAI API",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing multi-agent architectures with\nLangChain/CrewAI, building RAG systems, creating embeddings,\nand working directly with LLMs to build an autonomous AI\nagent for influencer marketing. The core work is building\nand deploying AI systems, not supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "CrewAI",
+      "OpenAI API",
+      "Anthropic API",
+      "Gemini API",
+      "RAG",
+      "Multi-agent architectures",
+      "Embeddings"
+    ],
+    "ml": [],
+    "web": [
+      "Node.js",
+      "Next.js",
+      "REST APIs"
+    ],
+    "databases": [
+      "SQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Video content classification",
+      "TikTok platform knowledge"
+    ],
+    "other": [
+      "Cursor"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:50+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

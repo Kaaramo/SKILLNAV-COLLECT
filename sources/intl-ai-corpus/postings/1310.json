@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-1310",
+  "source": "intl-ai-corpus",
+  "source_ref": "8388249",
+  "source_url": "https://builtin.com/job/senior-software-engineer/8388249",
+  "title": "Senior Software Engineer - AI Products",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Consumer Edge",
+  "company_type": "entité morale privée",
+  "location": "New York",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "97 Employees",
+  "company_stage": null,
+  "company_focus": "Data innovation and AI company creating actionable consumer\nand business intelligence products",
+  "industries": [],
+  "description": "Company overview\n\nConsumer Edge is a data innovation and AI company redefining\nhow professionals understand consumer and business behavior.\nOur mission is to create the most actionable data products\nthat transform how our clients make decisions. Working with\nworld-class data partners, we deliver real-time,\ntransaction-based intelligence enriched by deep industry\nexpertise. We believe that in the right hands, data has the\npower to change the way we work.\n\nTechnology is the foundation of Consumer Edge, and lies at\nthe heart of everything we do. We are a group of passionate\ntechnologists who enable the company mission to derive\ninsights from a growing number of datasets, and create\nactionable data products.\n\nRole summary\n\nWe are looking for a Senior Engineer who is motivated to\nhelp us create the next generation of AI Products.\nResponsibilities will include development of backend\nservices, interaction with state of the art AI models, and\ndata retrieval from internal and external sources. You will\nwork with Product Managers, Data Scientists and other\nEngineers both in the team and in the whole technology\norganization to bridge the gap between product requirements,\nAI, and our rich data sources. You will deal with non-\ntrivial and non-deterministic flows, entirely dictated by\nthe user’s requests and the AI interpretation of those,\nwithin the guardrails we create to ensure they achieve their\ngoals.\n\nAbout the team\n\nYou’ll be joining Consumer Edge’s AI Products Team. We are a\ndistributed cross-disciplinary team located across Europe\nand the US. Our mission is to build a proactive intelligence\nlayer that seamlessly integrates with user workflows, acting\nas a copilot for exploration, surfacing insights, and\nsuggesting next steps. This will be achieved through\nunified, embedded, and proactive intelligence. You’ll be\njoining a group of software engineers, product managers and\ndata scientists and working closely with stakeholders to use\ndata to answer real-world business questions. The product is\nstill at an early stage with a huge roadmap ahead and a lot\nof innovation happening in the field so you’ll have the\nopportunity to influence technical design, features and\nimplementation details.\n\nWe believe in building a culture of collaboration, with\neveryone contributing to build something great, sharing both\nthe successes and overcoming the challenges together.\n\nYour main responsibilities\n\n- Develop new user-facing features\n- Work on backend services, data pipelines, and cloud\n  infrastructure\n- Keep up to date with the latest developments in AI models\n  and architectures\n- Contribute to the vision and ensure the technical\n  feasibility of product requirements\n- Optimize the system for accuracy, speed and user experience\n- Collaborate with other team members and stakeholders\n- Collaborate with other teams both at the input side and the\n  output side of our systems\n\nWhat you’ll bring to the team\n\n- 10 years experience working with backend systems and cloud\n  architectures\n- You are proficient in parallel and concurrent programming\n- You know how to build software in a robust and testable way\n- You know how to design APIs and interact with other teams to\n  evolve them effectively\n- You are familiar with Python and SQL\n- You are great at collaborating with the team and\n  communicating with stakeholders\n\nNice to have\n\n- You have experience working with AI APIs\n- You have experience building agentic workflows\n- You have experience working with data pipelines\n\nWhat our stack looks like\n\n- We write our code exclusively in Python, with type checking\n  and great test coverage. Our services use FastAPI and our\n  pipelines use Dagster and DBT.\n- We deploy our infrastructure on Google Cloud using Terraform\n- We work with a variety of AI providers\n- We use GraphQL and REST to query our APIs, and SQL to read\n  data from our tables\n\nBenefits & perks\n\n- We are a remote-first company with a distributed environment\n  and flexible working arrangements. We believe that\n  distributed workers should be first-class citizens. We\n  also have an office in New York if offices are your thing.\n\nSalary\n\nThe annual base salary for this role is between $140,000 -\n$180,000 based on experience, with the opportunity for a\nperformance-based bonus, company equity, 401(k) matching,\npaid parental leave, flexible and generous time off, work-\nfrom-home flexibility, and subsidized health benefits\n",
+  "skills_required": [
+    "AI APIs",
+    "agentic workflows"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop new user-facing features",
+    "Work on backend services, data pipelines, and cloud infrastructure",
+    "Keep up to date with the latest developments in AI models and architectures",
+    "Contribute to the vision and ensure the technical feasibility of product requirements",
+    "Optimize the system for accuracy, speed and user experience",
+    "Collaborate with other team members and stakeholders",
+    "Collaborate with other teams both at the input side and the output side of our systems"
+  ],
+  "use_cases": [
+    "Building a proactive intelligence layer that integrates with user workflows as a copilot for exploration",
+    "Surfacing insights from real-time transaction-based consumer and business data",
+    "Suggesting next steps and providing unified, embedded, and proactive intelligence",
+    "Non-deterministic user request processing with AI interpretation within guardrails",
+    "Answering real-world business questions using enriched transaction data"
+  ],
+  "tools_mentioned": [
+    "Dagster",
+    "FastAPI",
+    "Google Cloud",
+    "GraphQL",
+    "REST",
+    "Terraform",
+    "dbt"
+  ],
+  "frameworks_mentioned": [
+    "AI APIs",
+    "agentic workflows"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves direct interaction with state of the art\nAI models and building agentic workflows, including\ndeveloping a copilot for exploration with non-deterministic\nflows dictated by AI interpretation. The engineer will work\nwith AI APIs, design guardrails, and build AI-powered\nproducts rather than just infrastructure to support AI\nteams.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "AI APIs",
+      "agentic workflows"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "GraphQL",
+      "REST"
+    ],
+    "databases": [],
+    "data": [
+      "Dagster",
+      "dbt"
+    ],
+    "cloud": [
+      "Google Cloud"
+    ],
+    "ops": [
+      "Terraform"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

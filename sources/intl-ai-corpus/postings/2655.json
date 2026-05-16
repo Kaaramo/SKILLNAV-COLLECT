@@ -1,0 +1,131 @@
+{
+  "job_id": "intl-ai-corpus-2655",
+  "source": "intl-ai-corpus",
+  "source_ref": "8953269",
+  "source_url": "https://www.builtinla.com/job/senior-software-engineer-ai/8953269",
+  "title": "Senior Software Engineer, AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Syllo",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-03",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Venture-backed (post-revenue, enterprise customers)",
+  "company_focus": "AI-powered litigation workspace for law firms and legal\nprofessionals",
+  "industries": [
+    "Artificial Intelligence",
+    "Legal Tech",
+    "Software"
+  ],
+  "description": "About Syllo\n\nSyllo is on a mission to transform litigation. Our product\nis an AI-powered litigation workspace that enables lawyers\nand paralegals to safely harness the power of language\nmodels throughout the litigation life cycle. Since going to\nmarket, we have gained a diverse group of enterprise\ncustomers, including some of the biggest law firms in the\ncountry, and we are quickly expanding. By reducing the\nexpense of litigation industry-wide, we aim to improve\naccess to high-quality representation and promote the\nalignment of legal outcomes with merit.\n\nWe are a mission-driven venture and recognize the enormous\nsocietal benefits that will result from a legal system that\nworks better for everyone.\n\nWe are seeking a skilled and fast-moving Senior AI Engineer\nto join our team. This role is focused on the practical\napplication of AI, specifically leveraging Large Language\nModels (LLMs), to build robust, scalable, and impactful\nuser-facing features. This is an engineering-centric\nrole—you will be an expert at building and integrating\nproduction systems, not primarily a research scientist.\n\nThe Responsibilities\n\n- System Design & Implementation: Design and build high-\n  performance, production-level AI-powered features and\n  services, with a focus on reliability and scalability.\n\n- Develop robust engineering solutions to mitigate the\n  inherent unreliability of LLMs. This includes implementing\n  effective guardrails, validation pipelines, error\n  handling, caching, and failover/fallback mechanisms to\n  ensure a high-quality user experience even when the model\n  misbehaves.\n\n- Focus on optimizing latency, throughput, and cost efficiency\n  for all AI-powered services.\n\n- Serve as an engineering expert in integrating models and\n  data feeds with existing business logic and APIs.\n\n- Engineering Best Practices & Quality:\n\n- Champion and enforce high standards for code quality,\n  architectural design, and system documentation.\n\n- Implement rigorous testing strategies, including unit,\n  integration, and performance testing, to ensure the\n  robustness of AI features before and after deployment.\n\n- Participate actively in peer code reviews to maintain a high\n  bar for engineering standards across the team.\n\n- Feature Delivery & Ownership:\n\n- Take ownership of the full lifecycle of new AI features,\n  from initial design and prototyping to testing and\n  deployment into the production environment.\n\n- Own the end-to-end development of new features, including\n  API design, integration with front-end services,\n  persistent data storage, and comprehensive\n  monitoring/alerting.\n\n- Work closely with product managers and other engineers to\n  scope, estimate, and deliver features on a fast iterative\n  cycle.\n\n- Pipeline Enhancement: Quickly onboard onto our existing\n  codebase to understand, maintain, and significantly\n  enhance existing data and feature pipelines, improving\n  their efficiency and robustness.\n\n- Tooling & Velocity: Embrace and utilize AI-powered developer\n  tools (such as GitHub Copilot) to maximize your\n  efficiency, demonstrate a commitment to continuous\n  learning, and set a high bar for engineering velocity.\n\n\n\nQualifications\n\n- Deep Engineering Fluency & Quality Focus: Proven ability to\n  build and deploy complex, high-quality software systems\n  with an emphasis on maintainable code, rigorous testing,\n  and engineering best practices.\n\n- Python Proficiency: Fluent in Python and its ecosystem for\n  backend services and data processing.\n\n- System Design Expertise: Strong grasp of system design\n  principles, including distributed systems and API design.\n\n- Demonstrated ability to design scalable distributed systems,\n  including expertise in microservices architecture.\n\n- Codebase Agility: Excellent ability to read, understand, and\n  navigate an unfamiliar codebase quickly.\n\n- Fast Learner: A demonstrable history of rapidly acquiring\n  new technical skills and applying them to solve business\n  problems.\n\n\n\nGreat to Have\n\n- AI/ML Feature Experience: Experience directly building,\n  shipping, and maintaining AI-powered products, agents, or\n  intelligent features in a commercial setting.\n\n- LLM/Generative AI Exposure: Familiarity with the unique\n  engineering challenges of integrating Large Language\n  Models into a production environment.\n\n- Hands-on experience with LLM operationalization challenges\n  (MLOps for LLMs), including prompt engineering, working\n  with vector databases, RAG systems, or managing context\n  windows.\n\n- Familiarity with cloud platforms (AWS, GCP, Azure) and\n  containerization (Docker, Kubernetes) for deploying and\n  managing services.\n\n\n\nUnited States - Remote Pay Range\n\n$170,000—$220,000 USD\n",
+  "skills_required": [
+    "Context window management",
+    "GitHub Copilot",
+    "LLM guardrails",
+    "LLM integration",
+    "Prompt engineering",
+    "RAG systems",
+    "System design"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and build high-performance, production-level AI-powered features and services with a focus on reliability and scalability",
+    "Develop robust engineering solutions to mitigate LLM unreliability including guardrails, validation pipelines, error handling, caching, and failover mechanisms",
+    "Optimize latency, throughput, and cost efficiency for all AI-powered services",
+    "Integrate LLM models and data feeds with existing business logic and APIs",
+    "Take ownership of the full lifecycle of new AI features from design and prototyping to testing and production deployment",
+    "Maintain and enhance existing data and feature pipelines, improving their efficiency and robustness",
+    "Champion high standards for code quality, architectural design, and system documentation including rigorous testing strategies"
+  ],
+  "use_cases": [
+    "AI-powered litigation workspace for lawyers and paralegals",
+    "LLM-driven document analysis and legal workflow automation throughout the litigation life cycle",
+    "Production RAG systems for legal information retrieval",
+    "Intelligent legal feature development with guardrails for reliability in high-stakes legal contexts"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "AWS",
+    "Azure",
+    "Distributed systems",
+    "Docker",
+    "GCP",
+    "Kubernetes",
+    "MLOps for LLMs",
+    "Microservices architecture",
+    "Vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Context window management",
+    "LLM guardrails",
+    "LLM integration",
+    "Prompt engineering",
+    "RAG systems"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly focused on building production-level\nAI-powered features leveraging LLMs, including implementing\nguardrails, RAG systems, prompt engineering, and vector\ndatabases. The engineer will design and integrate LLM-based\nservices into the product, making this clearly an ai-first\nrole.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM integration",
+      "Prompt engineering",
+      "RAG systems",
+      "LLM guardrails",
+      "Context window management"
+    ],
+    "ml": [],
+    "web": [
+      "Microservices architecture",
+      "API design",
+      "Distributed systems"
+    ],
+    "databases": [
+      "Vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "MLOps for LLMs",
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "System design",
+      "GitHub Copilot"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:59+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

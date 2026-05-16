@@ -1,0 +1,43 @@
+company:
+  name: Admiral
+  stage: null
+  focus: null
+position:
+  title: 'Qualification:'
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web:
+    - angular
+    - html5
+    - next
+    - rest api
+    - vue
+    databases: []
+    data:
+    - datawarehouse
+    - etl
+    - hadoop
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - java
+    - javascript
+    - python
+    domains: []
+    other:
+    - power bi
+    - qlik
+    - tableau
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1008252800747'
+  extracted_at: '2026-05-16T01:27:45+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

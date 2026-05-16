@@ -1,0 +1,91 @@
+{
+  "job_id": "intl-ai-corpus-1742",
+  "source": "intl-ai-corpus",
+  "source_ref": "8594199",
+  "source_url": "https://builtin.com/job/ai-software-engineer-rust/8594199",
+  "title": "AI Software Engineer (Rust)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "G2i",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "201 Employees",
+  "company_stage": "Unknown",
+  "company_focus": "AI training and evaluation services",
+  "industries": [
+    "HR Tech",
+    "Other",
+    "Professional Services"
+  ],
+  "description": "Software Engineer, AI — Code Evaluation & Training (Remote)\n\nList of accepted countries and locations\n\nImportant for US applicants: This is a 1099 independent\ncontractor role and is not compatible with F-1 OPT, STEM\nOPT, or other visa statuses that require W-2 employment,\nguaranteed hours, or employer sponsorship. We are unable to\nprovide offer letters or employment verification for this\nrole.\n\nHelp train large-language models (LLMs) to write production-\ngrade code across a wide range of programming languages:\n\n- Compare & rank multiple code snippets, explaining which is\n  best and why.\n- Repair & refactor AI-generated code for correctness,\n  efficiency, and style.\n- Inject feedback (ratings, edits, test results) into the RLHF\n  pipeline and keep it running smoothly.End result: the\n  model learns to propose, critique, and improve code the\n  way you do.\n\nRLHF in one line Generate code ➜ expert engineers rank,\nedit, and justify ➜ convert that feedback into reward\nsignals ➜ reinforcement learning tunes the model toward code\nyou’d actually ship.\n\nWhat You’ll Need\n\n- 3+ years of professional software engineering experience in\n  Rust(Constraint programming experience is a bonus, but not\n  required)\n- Strong code-review instincts—you can spot logic errors,\n  performance traps, and security issues quickly.\n- Extreme attention to detail and excellent written\n  communication skills.Much of this role involves explaining\n  why one approach is better than another. This cannot be\n  overstated.\n- You enjoy reading documentation and language specs and\n  thrive in an asynchronous, low-oversight environment.\n\nWhat You Don’t Need\n\n- No prior RLHF (Reinforcement Learning with Human Feedback)\n  or AI training experience.\n- No deep machine learning knowledge. If you can review and\n  critique code clearly, we’ll teach you the rest.\n\nTech Stack\n\nWe are looking for engineers with a strong command of Rust.\n\nLogistics\n\n- Location: Fully remote — work from anywhere\n- Compensation: From $30/hr to $70/hr, depending on location\n  and seniority\n- Hours: Minimum 15 hrs/week, up to 40 hrs/week available\n- Engagement: 1099 contract\n\nStraightforward impact, zero fluff. If this sounds like a\nfit, apply here!\n",
+  "skills_required": [
+    "Code review",
+    "RLHF",
+    "Technical writing"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Compare and rank multiple code snippets to determine best solutions",
+    "Repair and refactor AI-generated code for correctness, efficiency, and style",
+    "Provide expert code review feedback including identifying logic errors, performance issues, and security problems",
+    "Inject ratings, edits, and test results into the RLHF pipeline",
+    "Create detailed written explanations justifying code quality decisions",
+    "Teach LLMs to propose, critique, and improve code through human feedback"
+  ],
+  "use_cases": [
+    "Train LLMs to write production-grade code",
+    "Improve AI code generation quality through expert feedback",
+    "Teach AI models to critique and improve code",
+    "Reinforcement learning from human code review expertise"
+  ],
+  "tools_mentioned": [],
+  "frameworks_mentioned": [
+    "RLHF"
+  ],
+  "languages_programming": [
+    "Rust"
+  ],
+  "domains_iaml": [
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves training LLMs through RLHF -\nengineers provide code rankings, edits, and feedback that\ngets converted into reward signals to tune the model. While\nnot building models from scratch, this is hands-on work\nimproving AI model capabilities, specifically teaching LLMs\nto write production-grade code.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "RLHF"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Rust"
+    ],
+    "domains": [],
+    "other": [
+      "Code review",
+      "Technical writing"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

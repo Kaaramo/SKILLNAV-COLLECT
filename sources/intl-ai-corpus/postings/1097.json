@@ -1,0 +1,121 @@
+{
+  "job_id": "intl-ai-corpus-1097",
+  "source": "intl-ai-corpus",
+  "source_ref": "8124201",
+  "source_url": "https://builtin.com/job/senior-staff-engineer-ai-voice-engineering/8124201",
+  "title": "Senior Staff Engineer | AI Voice Engineering",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Five9",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-02",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,427 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud contact center software",
+  "industries": [
+    "Cloud",
+    "Software"
+  ],
+  "description": "Join us in bringing joy to customer experience.  Five9 is a\nleading provider of cloud contact center software, bringing\nthe power of cloud innovation to customers worldwide.\n\nLiving our values everyday results in our team-first culture\nand enables us to innovate, grow, and thrive while enjoying\nthe journey together. We celebrate diversity and foster an\ninclusive environment, empowering our employees to be their\nauthentic selves.\n\nAbout the Role\n\nWe are looking for a Senior Staff Engineer, AI Voice\nEngineering, who will be responsible for the software\narchitecture and software development of Five9’s AI Agent\nvoice orchestration software platform. This platform handles\nreal-time streaming voice, including RTP/SIP, integration\nwith speech recognition engines, speech synthesis engines,\nend of turn model execution and interruption model\ninference. As a senior individual contributor, you’ll not\nonly be one of the most senior developers on the team,\nyou’ll also mentor junior engineers and set technology\ndirection for platform. You’ll work with other teams,\ncollaborating cross-functionally to make sure complete\nsolutions are delivered. You’ll make some of the most\nimportant technology decisions and be in the driver’s seat\nfor the platform evolution. You’ll also get your hands dirty\nworking direcdtly on the software, diagnosing issues, and\nhelping uplevel the team to reach the highest levels of\nperformance. Your responsibility extends through deployment\nand operations (we practice devops), and you will ensure the\nsoftware platform is low latency, scalable, reliable,\nobservable and maintainable by Five9.\n\nWhat You’ll Do\n\n- Lead architecture and development of real-time AI voice\n  systems\n- Design and optimize low-latency voice pipelines using\n  RTP/SIP\n- Integrate ASR, TTS, and AI inference services\n- Mentor engineers and lead technical best practices\n- Collaborate with Product, AI, Infrastructure, and SRE teams\n- Own the full lifecycle: design, development, deployment, and\n  operations\n- Ensure scalability, reliability, and observability\n\nRequired Qualifications\n\n- 10+ years of overall software development experience\n- 5+ years building real-time voice systems in C++\n- 1+ year experience with real-time GenAI voice platforms\n- Bachelor’s or higher degree in Computer Science or related\n  field\n\nTechnical Skills\n\nModern C++ (C++17+), RTP/SIP, audio codecs, SIP/SDP, ASR/TTS\nintegration, AI APIs, cloud platforms (AWS/Azure/GCP),\nCI/CD, containers, SRE principles\n\nLeadership & Impact\n\nLead architecture for mission-critical systems Mentor\nengineers and influence platform-wide decisions Balance\nlatency, quality, cost, and reliability trade-offs\n\nFive9 embraces diversity and is committed to building a team\nthat represents a variety of backgrounds, perspectives, and\nskills.  The more inclusive we are, the better we are. \nFive9 is an equal opportunity employer.\n\nView our privacy policy, including our privacy notice to\nCalifornia residents here: https://www.five9.com/pt-\npt/legal.\n\nNote: Five9 will never request that an applicant send money\nas a prerequisite for commencing employment with Five9.\n",
+  "skills_required": [
+    "AI APIs",
+    "ASR/TTS integration",
+    "GenAI voice platforms",
+    "audio codecs",
+    "real-time voice systems"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead architecture and development of real-time AI voice orchestration systems",
+    "Design and optimize low-latency voice pipelines using RTP/SIP protocols",
+    "Integrate speech recognition (ASR), speech synthesis (TTS), and AI inference services",
+    "Execute end of turn models and interruption model inference in real-time",
+    "Mentor junior engineers and establish technical best practices",
+    "Collaborate cross-functionally with Product, AI, Infrastructure, and SRE teams",
+    "Own full software lifecycle including deployment and operations with DevOps practices",
+    "Ensure platform scalability, reliability, observability, and maintainability"
+  ],
+  "use_cases": [
+    "Real-time AI voice agent orchestration for contact centers",
+    "Low-latency streaming voice processing and handling",
+    "Speech-to-text and text-to-speech integration for AI conversations",
+    "AI inference for conversational turn detection and interruption handling",
+    "Cloud-based customer experience automation"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "GCP",
+    "RTP/SIP",
+    "SIP/SDP",
+    "SRE principles",
+    "containers"
+  ],
+  "frameworks_mentioned": [
+    "AI APIs",
+    "ASR/TTS integration",
+    "GenAI voice platforms"
+  ],
+  "languages_programming": [
+    "C++"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and deploying real-time AI voice\norchestration systems that directly integrate and execute AI\ninference services, ASR, TTS, and end-of-turn models. The\nengineer works hands-on with GenAI voice platforms and AI\ninference, not just supporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "ASR/TTS integration",
+      "AI APIs",
+      "GenAI voice platforms"
+    ],
+    "ml": [],
+    "web": [
+      "RTP/SIP",
+      "SIP/SDP"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "CI/CD",
+      "containers",
+      "SRE principles"
+    ],
+    "languages": [
+      "C++"
+    ],
+    "domains": [],
+    "other": [
+      "audio codecs",
+      "real-time voice systems"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-1662",
+  "source": "intl-ai-corpus",
+  "source_ref": "8565647",
+  "source_url": "https://www.builtinla.com/job/senior-data-engineer-ai/8565647",
+  "title": "Senior Data Engineer (AI)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "South Geeks",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "early-stage",
+  "company_focus": "AI-driven commercial real estate lease management platform",
+  "industries": [
+    "Information Technology",
+    "Software",
+    "Consulting"
+  ],
+  "description": "Hi there :)\n\nThanks for checking in to find out about our open position.\nWe´ll provide as much information as possible, but please\nfeel free to reach us if you have further questions. We´ll\nbe happy to see your application, even if there are skills\nyou don't quite master!\n\nAbout Us\n\nAt South Geeks, we connect top LATAM engineering talent with\ninnovative companies building impactful products worldwide.\nWe focus on long-term partnerships, strong technical\nenvironments, and creating spaces where professionals can\ngrow, contribute, and thrive.\n\nAbout the Client\n\nOur client is a real estate technology startup transforming\nhow commercial real estate teams negotiate and manage leases\nthrough AI-driven intelligence.\n\nTheir platform combines advanced AI, structured data\npipelines, and user-centered design to automate complex\nlease workflows, extract market-aligned insights, and\nstreamline proposal generation. The goal is to bring speed,\nclarity and data-backed confidence to the entire deal\nlifecycle.\n\nAbout the Role\n\nWe’re looking for a Senior Data Engineer who thrives at the\nintersection of data engineering and applied AI.\n\nThis is a hands-on, high-ownership role where you will\ndesign, build and operate systems that extract, transform,\nand validate structured data from complex leasing documents.\nYou will own the full ELT loop turning messy, real-world\ndocuments into clean, reliable JSON that powers web\napplications and downstream systems.\n\nIn this early-stage environment, iteration and agility are\nkey. You’ll scope ambiguous problems, experiment with AI-\ndriven extraction techniques, and continuously refine\npipelines to improve accuracy and scalability.\n\nKey Responsibilities\n\n- Design and iterate data extraction and transformation\n  pipelines that convert unstructured leasing documents into\n  structured JSON stores.\n- Write and optimize LLM API calls and prompts to extract and\n  interpret text data at scale.\n- Orchestrate AI-driven workflows integrating multiple LLM\n  models to handle diverse document types and edge cases.\n- Build and maintain ELT workflows in Python, managing data\n  flows between cloud storage and relational databases.\n- Develop data quality and validation frameworks to ensure\n  structured outputs are accurate and production-ready.\n- Implement monitoring, alerting, and automated quality checks\n  across extraction pipelines.\n- Collaborate with product and engineering teams to define and\n  evolve data schemas.\n- Own the pipeline end-to-end — from raw ingestion to\n  validated structured output.\n\nRequired Skills & Experience\n\n- Strong Python engineering experience building data\n  extraction and transformation workflows.\n- Experience calling LLM APIs (OpenAI, Anthropic, or similar)\n  and crafting prompts for structured data extraction.\n- Solid understanding of ELT patterns and data pipeline\n  architecture.\n- Experience working with AWS S3 (or similar object storage)\n  and PostgreSQL (or similar relational databases).\n- Experience designing JSON schemas and handling nested or\n  semi-structured data.\n- Strong data validation mindset and experience implementing\n  quality controls.\n- Ability to work independently in a fast-moving, early-stage\n  environment.\n\nNice to Have\n\n- Experience building document processing pipelines (PDFs,\n  contracts, leases, or similar).\n- Experience evaluating and comparing LLM outputs for\n  consistency and accuracy.\n- Familiarity with AI orchestration platforms.\n- Background in real estate, leasing, or financial document\n  processing.\n\nOur Team\n\nWe strive to create an inspiring and growth-oriented\nenvironment where everyone feels valued, heard, and\nempowered. We promote both personal and professional\ndevelopment, with individualized support for your needs and\ngoals. We aim to build a space where everyone can thrive.\n\nWhat We Offer\n\n- Long-term projects\n- 100% remote work\n- Payment in USD\n- Paid Time Off (PTO)\n- Work-from-home & training reimbursement\n- English lessons\n- Technical training\n- Career coaching\n",
+  "skills_required": [
+    "Anthropic API",
+    "LLM orchestration",
+    "OpenAI API",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and iterate data extraction and transformation pipelines that convert unstructured leasing documents into structured JSON stores",
+    "Write and optimize LLM API calls and prompts to extract and interpret text data at scale",
+    "Orchestrate AI-driven workflows integrating multiple LLM models to handle diverse document types and edge cases",
+    "Build and maintain ELT workflows in Python, managing data flows between cloud storage and relational databases",
+    "Develop data quality and validation frameworks to ensure structured outputs are accurate and production-ready",
+    "Implement monitoring, alerting, and automated quality checks across extraction pipelines"
+  ],
+  "use_cases": [
+    "Automate complex commercial real estate lease negotiation and management workflows",
+    "Extract structured data from unstructured leasing documents using AI-driven techniques",
+    "Generate market-aligned insights from lease data for real estate teams",
+    "Streamline proposal generation for commercial real estate deals",
+    "Transform messy real-world documents into clean, reliable JSON for web applications"
+  ],
+  "tools_mentioned": [
+    "AWS S3",
+    "ELT patterns",
+    "JSON schema design",
+    "PostgreSQL",
+    "data pipeline architecture",
+    "data quality frameworks",
+    "data validation",
+    "document processing",
+    "monitoring and alerting"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "LLM orchestration",
+    "OpenAI API",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "DATA_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building data pipelines and\ninfrastructure that support AI work rather than directly\nbuilding or fine-tuning ML models. The engineer designs ELT\nworkflows, orchestrates LLM API calls, and creates data\nvalidation frameworks - all enabling AI functionality rather\nthan developing the AI models themselves.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Anthropic API",
+      "prompt engineering",
+      "LLM orchestration"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [
+      "ELT patterns",
+      "data pipeline architecture",
+      "JSON schema design",
+      "data validation",
+      "document processing",
+      "data quality frameworks"
+    ],
+    "cloud": [
+      "AWS S3"
+    ],
+    "ops": [
+      "monitoring and alerting"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

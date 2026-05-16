@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-1363",
+  "source": "intl-ai-corpus",
+  "source_ref": "8415429",
+  "source_url": "https://builtin.com/job/senior-software-engineer-ai-assisted-engineering-support/8415429",
+  "title": "Senior Software Engineer, AI Assisted Engineering Support",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Navan",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-20",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3,300 Employees",
+  "company_stage": null,
+  "company_focus": "Travel and expense management platform",
+  "industries": [
+    "Fintech",
+    "Information Technology",
+    "Payments",
+    "Productivity",
+    "Software",
+    "Travel",
+    "Automation"
+  ],
+  "description": "About the Role\n\nWe believe that Software Engineering is the highest-leverage\nhuman workflow in the company. In an AI-native world, the\nbottleneck is no longer how fast we can type, but how\nquickly we can validate, iterate, and deploy. Engineering\nexcellence is our ultimate competitive advantage. As a\nSenior Software Engineer for AI Assisted Engineering\nSupport, you will build the \"intelligence layer\" for our\ndevelopment teams. You aren't just building tools; you are\nbuilding agents that understand our codebase, our standards,\nand our intent. Your goal is to move the company toward a\n\"Demo to Prod\" reality where AI handles the boilerplate, the\ntesting, and the initial PR generation, leaving humans to\nfocus on architecture and high-level logic.\n\nConsistent with our \"Human Centric Workflows\" philosophy,\nyou will treat LLMs as programmable functions grounded in\nour specific codebase. You will build the specialized\nassistants that integrate into our IDEs and CI/CD pipelines\nto unblock developers, automate reviews, and ensure that\n\"gold-standard\" code is the default, not the exception.\n\nWhat you'll do\n\n- Build AI Engineering Assistants: Develop and scale the\n  internal agents that assist with code generation,\n  automated refactoring, and documentation.\n- Enable the \"Demo to Prod\" Pipeline: Work on the technical\n  implementation of tools that allow for one-shot\n  workflows—moving from a prototype or a spec directly to a\n  production-ready Pull Request.\n- Deterministic Engineering Evals: Drive quality by\n  prioritizing determinism. You will build the serialization\n  formats and retrieval systems (RAG) that give engineering\n  agents the exact context they need from our repositories\n  to be precise and useful.\n- Automated Code Stewardship: Create agents that help maintain\n  our \"Immune System\"—automated drift detection, visual\n  regression testing, and security scanning for AI-assisted\n  contributions.\n- Systemic Optimization: Implement a culture of rigour. You\n  will run experiments across different models and tools,\n  using engineering-specific benchmarks to ensure our\n  assistants are actually increasing velocity and quality.\n- Global Collaboration: Partner with the US and Israel-based\n  teams to integrate your assistants into our global\n  developer platform and telemetry frameworks.\n\nWhat we're looking for\n\n- The \"Developer's Developer\": You are a Senior Software\n  Engineer who loves building tools for other engineers. You\n  understand the pain points of the modern development\n  lifecycle and want to solve them with AI.\n- An Agentic Systems Specialist: You are experienced in\n  building agentic flows (using state machines or agent\n  frameworks) and know how to balance agency (allowing the\n  tool to solve the problem) with precision (ensuring it\n  doesn't break prod).\n- The \"Data-First\" Builder: You recognize that an AI assistant\n  is only as good as the context it receives. You are\n  skilled at data engineering and know how to serialize\n  complex codebases for LLM consumption.\n- The \"Moat\" Builder: You see engineering velocity as a\n  strategic differentiator. You are driven by the goal of\n  making our engineering org so fast and reliable that we\n  out-innovate the market.\n\nThis is a high-impact implementation role. You will be\nshipping code that your teammates use every single day.\nYou’ll spend your time building IDE extensions, automating\nPR cycles, and ensuring that our AI-native operating model\ndelivers a level of engineering speed that is fundamentally\nunreachable by traditional teams.\n",
+  "skills_required": [
+    "Agent frameworks",
+    "IDE extensions",
+    "LLMs",
+    "Prompt engineering",
+    "RAG",
+    "State machines"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and scale internal AI engineering assistants for code generation, automated refactoring, and documentation",
+    "Implement technical tools for one-shot workflows moving from prototype to production-ready Pull Requests",
+    "Develop serialization formats and RAG retrieval systems to provide engineering agents with precise codebase context",
+    "Create automated agents for drift detection, visual regression testing, and security scanning",
+    "Run experiments across different models using engineering-specific benchmarks to optimize assistant performance",
+    "Partner with global teams to integrate AI assistants into developer platforms and telemetry frameworks"
+  ],
+  "use_cases": [
+    "AI-powered code generation and automated refactoring",
+    "Automated documentation generation",
+    "One-shot prototype to production-ready PR workflows",
+    "Intelligent code review automation",
+    "Codebase drift detection and security scanning",
+    "IDE-integrated developer assistance"
+  ],
+  "tools_mentioned": [
+    "CI/CD"
+  ],
+  "frameworks_mentioned": [
+    "Agent frameworks",
+    "LLMs",
+    "Prompt engineering",
+    "RAG",
+    "State machines"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building AI agents and assistants that\nunderstand codebases, implementing RAG systems for\nengineering context, and developing agentic workflows using\nstate machines and agent frameworks. The position directly\nworks on LLM-powered systems for code generation, automated\nrefactoring, and intelligent development tools.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLMs",
+      "Agent frameworks",
+      "State machines",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "IDE extensions"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

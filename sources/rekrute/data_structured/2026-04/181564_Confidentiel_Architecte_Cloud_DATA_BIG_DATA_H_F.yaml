@@ -1,0 +1,61 @@
+company:
+  name: Confidentiel
+  stage: null
+  focus: null
+position:
+  title: Architecte Cloud DATA / BIG DATA (H/F)
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities:
+  - Piloter sujets techniques complexes en autonomie (cadrage → production)
+  - Vision architecturale + challenger choix techniques
+  - Référent technique DATA/IA
+  - Analyser besoins clients (migrations + nouveaux Use Cases DATA/IA)
+  - Définir architectures (FinOps, processus)
+  - Guidelines + blueprints
+  - Veille technologique DATA/IA/Cloud
+  - Collaboration équipes internationales (France + étranger)
+  use_cases: []
+  skills:
+    genai:
+    - genai
+    - llms
+    ml:
+    - machine learning
+    - ml
+    web: []
+    databases:
+    - snowflake
+    - Star/Snowflake schema
+    data:
+    - databricks
+    - kafka
+    - spark
+    - Spark Streaming
+    cloud:
+    - gcp
+    ops:
+    - ansible
+    - ci/cd
+    - kubernetes
+    - terraform
+    languages: []
+    domains: []
+    other:
+    - Data Factory
+    - Data Lakes
+    - Helm
+    - Hive
+    - Informatica
+    - MLOps
+    - Nifi
+    - Pub/Sub
+    - scripts
+    - Talend
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '181564'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

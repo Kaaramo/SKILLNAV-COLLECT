@@ -1,0 +1,112 @@
+{
+  "job_id": "intl-ai-corpus-0940",
+  "source": "intl-ai-corpus",
+  "source_ref": "7735177",
+  "source_url": "https://builtin.com/job/computer-vision-ai-engineer/7735177",
+  "title": "Computer Vision AI Engineer",
+  "title_normalized": "CV_ENGINEER",
+  "company": "Momenti",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "7 Employees",
+  "company_stage": null,
+  "company_focus": "Interactive multi-dimensional video experiences",
+  "industries": [
+    "Digital Media",
+    "Marketing Tech",
+    "Software"
+  ],
+  "description": "Company Intro:\n\nOur world is immersive and visceral. Content today is static\nand boring. We are Momenti, video that you interact with,\nbringing visceral experiences to all content. Build deeper\nconnections and emotions with multi-dimensional video, and\nbring life to content by breaking the 4th wall. Join the\ncontent revolution! The world is alive, and so should your\ncaptured moments. Momenti is here.\n\nJob Summary:\n\nWe are looking for an experienced, motivated Computer Vision\nAI Engineer to join our NY team! In this role, you will be\nresearching and applying a range of software, computer\nvision and machine learning techniques for solving\nchallenges that bridge virtual and real worlds.\n\nKey Responsibilities:\n\nDevelop, test, debug, deploy, and maintain computer vision\nalgorithms and hardware for different environments. Develop\nautomated vision algorithms, especially for work with robots\nand autonomous hardware systems. Gather and optimize\nanalytics from computer vision algorithms to improve their\nperformance\n\nPreferred Qualifications:\n\n• computer vision frameworks (OpenCV, MediaPipe, etc)\n\n• building and operating MLOps\n\n• experience in any generative computer vision AI such as\nstable diffusion model\n\n• experience in 3D recon AI\n\nBasic Qualification:\n\n• degree in computer science, electrical engineering or\napplied mathematics\n\n• 3+ years of hands on experience in classification of\nsequence of images ( action recognition) with ViT or RCNN or\nany sequential image classification deep learning model\n(must have)\n\n• fluent coding in Python\n\n• deep learning frameworks (Tensorflow, Keras, Pytorch, etc)\n\nNote: primary candidates only, no agencies, placement firms,\nor recruiters please\n",
+  "skills_required": [
+    "Keras",
+    "PyTorch",
+    "RCNN",
+    "Stable Diffusion",
+    "TensorFlow",
+    "ViT (Vision Transformer)"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop, test, debug, deploy, and maintain computer vision algorithms and hardware for different environments",
+    "Develop automated vision algorithms for robots and autonomous hardware systems",
+    "Gather and optimize analytics from computer vision algorithms to improve performance",
+    "Research and apply software, computer vision, and machine learning techniques for challenges bridging virtual and real worlds"
+  ],
+  "use_cases": [
+    "Action recognition on sequences of images for multi-dimensional video content",
+    "Autonomous robot navigation and hardware interaction",
+    "3D reconstruction of visual content",
+    "Interactive video experiences that break the fourth wall"
+  ],
+  "tools_mentioned": [
+    "MLOps"
+  ],
+  "frameworks_mentioned": [
+    "Keras",
+    "PyTorch",
+    "RCNN",
+    "Stable Diffusion",
+    "TensorFlow",
+    "ViT (Vision Transformer)"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "NLP"
+  ],
+  "job_family": "CV_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "The role focuses on traditional computer vision and deep\nlearning techniques like ViT, RCNN, and action recognition\non image sequences. While it mentions generative AI as a\npreference, the core requirements are conventional computer\nvision algorithms and models for robotic/autonomous systems,\nnot LLMs, RAG, or agentic AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Stable Diffusion"
+    ],
+    "ml": [
+      "ViT (Vision Transformer)",
+      "RCNN",
+      "TensorFlow",
+      "Keras",
+      "PyTorch"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "OpenCV",
+      "MediaPipe",
+      "3D reconstruction"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:44+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

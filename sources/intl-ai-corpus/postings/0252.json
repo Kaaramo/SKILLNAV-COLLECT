@@ -1,0 +1,116 @@
+{
+  "job_id": "intl-ai-corpus-0252",
+  "source": "intl-ai-corpus",
+  "source_ref": "7587741",
+  "source_url": "https://builtin.com/job/ai-infrastructure-engineer-core-infrastructure/7587741",
+  "title": "AI Infrastructure Engineer, Core Infrastructure",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Scale AI",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "523 Employees",
+  "company_stage": "Series D or later",
+  "company_focus": "AI data infrastructure and model platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Machine Learning"
+  ],
+  "description": "As a Software Engineer on the ML Infrastructure team, you\nwill design and build the next generation of foundational\nsystems that power all ML Infrastructure compute at Scale -\nfrom model training and evaluation to large-scale inference\nand experimentation.\n\nOur platform is responsible for orchestrating workloads\nacross heterogeneous compute environments (GPU, CPU, on-\nprem, and cloud), optimizing for reliability, cost\nefficiency, and developer velocity.\n\nThe ideal candidate has a strong background in distributed\nsystems, scheduling, and platform architecture, and is\nexcited by the challenge of building internal infrastructure\nused across all ML teams.\n\nYou will:\n\n- Design and maintain fault-tolerant, cost-efficient systems\n  that manage compute allocation, scheduling, and\n  autoscaling across clusters and clouds.\n- Build common abstractions and APIs that unify job\n  submission, telemetry, and observability across serving\n  and training workloads.\n- Develop systems for usage metering, cost attribution, and\n  quota management, enabling transparency and control over\n  compute budgets.\n- Improve reliability and efficiency of large-scale GPU\n  workloads through better scheduling, bin-packing,\n  preemption, and resource sharing.\n- Partner with ML engineers and API teams to identify\n  bottlenecks and define long-term architectural standards.\n- Lead projects end-to-end — from requirements gathering and\n  design to rollout and monitoring — in a cross-functional\n  environment.\n\nIdeally you'd have:\n\n- 4+ years of experience building large-scale backend or\n  distributed systems.\n- Strong programming skills in Python, Go, or Rust, and\n  familiarity with modern cloud-native architecture.\n- Experience with containers and orchestration tools\n  (Kubernetes, Docker) and Infrastructure as Code\n  (Terraform).\n- Familiarity with schedulers or workload management systems\n  (e.g., Kubernetes controllers, Slurm, Ray, internal job\n  queues).\n- Understanding of observability and reliability practices\n  (metrics, tracing, alerting, SLOs).\n- A track record of improving system efficiency, reliability,\n  or developer velocity in production environments.\n\nNice to haves:\n\n- Experience with multi-tenant compute platforms or internal\n  PaaS.\n- Knowledge of GPU scheduling, cost modeling, or hybrid cloud\n  orchestration.\n- Familiarity with LLM or ML training workloads, though deep\n  ML expertise is not required.\n\nCompensation packages at Scale for eligible roles include\nbase salary, equity, and benefits. The range displayed on\neach job posting reflects the minimum and maximum target for\nnew hire salaries for the position, determined by work\nlocation and additional factors, including job-related\nskills, experience, interview performance, and relevant\neducation or training. Scale employees in eligible roles are\nalso granted equity based compensation, subject to Board of\nDirector approval. Your recruiter can share more about the\nspecific salary range for your preferred location during the\nhiring process, and confirm whether the hired role will be\neligible for equity grant. You’ll also receive benefits\nincluding, but not limited to: Comprehensive health, dental\nand vision coverage, retirement benefits, a learning and\ndevelopment stipend, and generous PTO. Additionally, this\nrole may be eligible for additional benefits such as a\ncommuter stipend.\n\nPlease reference the job posting's subtitle for where this\nposition will be located. For pay transparency purposes, the\nbase salary range for this full-time position in the\nlocations of San Francisco, New York, Seattle is:\n\n$179,400—$310,500 USD\n\nPLEASE NOTE: Our policy requires a 90-day waiting period\nbefore reconsidering candidates for the same role. This\nallows us to ensure a fair and thorough evaluation of all\napplicants.\n\nAbout Us:\n\nAt Scale, our mission is to develop reliable AI systems for\nthe world's most important decisions. Our products provide\nthe high-quality data and full-stack technologies that power\nthe world's leading models, and help enterprises and\ngovernments build, deploy, and oversee AI applications that\ndeliver real impact. We work closely with industry leaders\nlike Meta, Cisco, DLA Piper, Mayo Clinic, Time Inc., the\nGovernment of Qatar, and U.S. government agencies including\nthe Army and Air Force. We are expanding our team to\naccelerate the development of AI applications.\n\nWe believe that everyone should be able to bring their whole\nselves to work, which is why we are proud to be an inclusive\nand equal opportunity workplace. We are committed to equal\nemployment opportunity regardless of race, color, ancestry,\nreligion, sex, national origin, sexual orientation, age,\ncitizenship, marital status, disability status, gender\nidentity or Veteran status.\n\nWe are committed to working with and providing reasonable\naccommodations to applicants with physical and mental\ndisabilities. If you need assistance and/or a reasonable\naccommodation in the application or recruiting process due\nto a disability, please contact us at\naccommodations@scale.com. Please see the United States\nDepartment of Labor's Know Your Rights poster for additional\ninformation.\n\nWe comply with the United States Department of Labor's Pay\nTransparency provision.\n\nPLEASE NOTE: We collect, retain and use personal data for\nour professional business purposes, including notifying you\nof job opportunities that may be of interest and sharing\nwith our affiliates. We limit the personal data we collect\nto that which we believe is appropriate and necessary to\nmanage applicants’ needs, provide our services, and comply\nwith applicable laws. Any information we collect in\nconnection with your application will be treated in\naccordance with our internal policies and programs designed\nto protect personal data. Please see our privacy policy for\nadditional information.\n",
+  "skills_required": [
+    "distributed systems",
+    "platform architecture",
+    "scheduling"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and maintain fault-tolerant, cost-efficient systems for compute allocation, scheduling, and autoscaling across clusters and clouds",
+    "Build common abstractions and APIs that unify job submission, telemetry, and observability across serving and training workloads",
+    "Develop systems for usage metering, cost attribution, and quota management for compute budgets",
+    "Improve reliability and efficiency of large-scale GPU workloads through scheduling, bin-packing, preemption, and resource sharing",
+    "Partner with ML engineers and API teams to identify bottlenecks and define long-term architectural standards",
+    "Lead projects end-to-end from requirements gathering and design to rollout and monitoring in cross-functional environment"
+  ],
+  "use_cases": [
+    "Orchestration of ML compute workloads across heterogeneous GPU, CPU, on-prem, and cloud environments",
+    "Large-scale model training and evaluation infrastructure",
+    "Large-scale inference and experimentation platforms",
+    "Multi-tenant compute platform for internal ML teams",
+    "GPU scheduling and resource optimization for ML workloads"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Kubernetes",
+    "Ray",
+    "SLOs",
+    "Slurm",
+    "Terraform",
+    "alerting",
+    "metrics",
+    "observability",
+    "tracing"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role builds infrastructure and orchestration systems\nthat support ML workloads rather than directly working on\nAI/ML models. The engineer focuses on compute allocation,\nscheduling, autoscaling, and platform architecture for ML\nteams, which is infrastructure that enables AI work but is\nnot AI development itself.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Ray",
+      "Slurm",
+      "observability",
+      "metrics",
+      "tracing",
+      "alerting",
+      "SLOs"
+    ],
+    "languages": [
+      "Python",
+      "Go",
+      "Rust"
+    ],
+    "domains": [],
+    "other": [
+      "distributed systems",
+      "scheduling",
+      "platform architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:39+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

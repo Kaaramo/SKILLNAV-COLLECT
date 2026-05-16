@@ -1,0 +1,107 @@
+{
+  "job_id": "intl-ai-corpus-1999",
+  "source": "intl-ai-corpus",
+  "source_ref": "8689974",
+  "source_url": "https://builtin.com/job/ai-engineer-core-engine/8689974",
+  "title": "AI Engineer (Core Engine)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "JetBrains",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-09",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,209 Employees",
+  "company_stage": "Public",
+  "company_focus": "Developer tools and IDEs for software development",
+  "industries": [],
+  "description": "At JetBrains, code is our passion. Ever since we started\nback in 2000, we have been striving to make the world’s most\nrobust and effective developer tools. By automating routine\nchecks and corrections, our tools speed up production,\nfreeing developers to grow, discover, and create.\n\nWe are now building services and agentic tools that provide\nAI coding agents and end users with deeper context about\ncodebases. Our code retrieval service already delivers\nmeaningful improvements in agent speed and task performance,\nand we aim to push this further – extracting richer insights\nthan snippets alone at the scale of several hundred thousand\nrepositories.\n\nWe are looking for an AI Engineer who can design and\nimplement agentic tools from scratch, bring them to the end\nusers, and make coding with agents smarter, faster, and more\nreliable.\n\nIn this role, you will:\n\n- Translate product needs into agentic tools and services and\n  ship them to production.\n- Scale prototypes to large numbers of users.\n- Improve and test our semantic search service.\n- Build evaluation pipelines for code retrieval and coding\n  task performance.\n\nWe’ll be happy to have you on our team if you have:\n\n- At least five years of hands-on NLP experience.\n- Experience in information retrieval systems.\n- Strong experience in LLM prompt and tool engineering, as\n  well as with AI agents.\n- Solid programming skills in Python and/or Kotlin (and the\n  willingness to learn the language you’re unfamiliar with).\n- Experience building and operating production-grade software\n  systems.\n\nWe’d be especially thrilled if you have:\n\n- Experience developing in Kotlin or Java.\n- Previously worked with code intelligence (e.g. AST, symbol\n  graphs).\n\n#LI-KP1\n\nWe are an equal opportunity employer We know great ideas can\ncome from anyone, anywhere. That’s why we do our best to\ncreate an open and inclusive workplace – one that welcomes\neveryone regardless of their background, identity, religion,\nage, accessibility needs, or orientation.\n\nWe process the data provided in your job application in\naccordance with the Recruitment Privacy Policy.\n",
+  "skills_required": [
+    "AI Agents",
+    "LLM",
+    "NLP",
+    "Prompt Engineering",
+    "Tool Engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Translate product needs into agentic tools and services and ship them to production",
+    "Scale prototypes to large numbers of users",
+    "Improve and test semantic search service",
+    "Build evaluation pipelines for code retrieval and coding task performance",
+    "Design and implement AI coding agents from scratch"
+  ],
+  "use_cases": [
+    "AI coding agents with deeper codebase context",
+    "Code retrieval for improved agent speed and task performance",
+    "Semantic search across hundreds of thousands of repositories",
+    "Code intelligence and insight extraction beyond simple snippets"
+  ],
+  "tools_mentioned": [
+    "Information Retrieval",
+    "Semantic Search"
+  ],
+  "frameworks_mentioned": [
+    "AI Agents",
+    "LLM",
+    "NLP",
+    "Prompt Engineering",
+    "Tool Engineering"
+  ],
+  "languages_programming": [
+    "Kotlin",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "NLP"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves designing and implementing AI coding\nagents and agentic tools from scratch, working directly with\nLLMs, prompt engineering, and AI agents. The position\nfocuses on building production AI systems that provide\ndeeper context about codebases, which is hands-on work with\nAI/LLM models and agents.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Prompt Engineering",
+      "Tool Engineering",
+      "AI Agents",
+      "LLM"
+    ],
+    "ml": [
+      "NLP"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Information Retrieval",
+      "Semantic Search"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "Kotlin"
+    ],
+    "domains": [
+      "Code Intelligence",
+      "AST",
+      "Symbol Graphs"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

@@ -1,0 +1,119 @@
+{
+  "job_id": "intl-ai-corpus-0244",
+  "source": "intl-ai-corpus",
+  "source_ref": "7569542",
+  "source_url": "https://builtin.com/job/applied-ai-engineer/7569542",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Percepta AI",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-16",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "3 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Applied AI for critical industries",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "Who we are\n\nPercepta’s mission is to transform critical institutions\nwith applied AI. We care that industries that power the\nworld (e.g. healthcare, manufacturing, energy) benefit from\nfrontier technology.\n\nTo make that happen, we embed with industry-leading\ncustomers to drive AI transformation. We bring together:\n\n- Forward-deployed expertise in engineering, product, and\n  research\n- Mosaic, our in-house toolkit for rapidly deploying agentic\n  workflows\n- Strategic partnerships with Anthropic, McKinsey, AWS,\n  companies within the General Catalyst portfolio, and more\n\nOur team is a quickly growing group of Applied AI Engineers,\nEmbedded Product Managers and Researchers motivated by\ndiffusing the promise of AI into improvements we can feel in\nour day to day lives.\n\nPercepta is a direct partnership with General Catalyst, a\nglobal transformation and investment company.\n\nAbout the role\n\nWe’re hiring Applied AI Engineers who will work directly\nwith customer executives, operators, and technical teams to\ndefine and deliver high-impact AI systems. We don't build\nprototypes or laboratory projects- you’ll design, build, and\nship production-grade AI agents and workflows that drive\nmillions in business value for customers.\n\nOur Applied AI Engineers:\n\n- Shape the AI vision: Collaborate with customer stakeholders\n  to define their long-term AI strategy and transformation\n  roadmap.\n- Identify high-leverage use cases: Work backwards from the\n  long-term vision to surface and prioritize specific AI\n  applications that connect our ambition to measurable\n  business value.\n- Ship real products: Rapidly build and deploy AI solutions\n  that work in the wild, with real users and real data.\n- Advance our core product: Encode the lessons from our\n  customer engagements in our Mosaic product, consistently\n  contributing new features, patterns, and abstractions.\n\nWhat we’re looking for\n\n- AI-nativeness: You're excited about the potential for AI to\n  transform businesses and want to play a hands-on role in\n  bringing frontier technology into critical institutions.\n- Being generative and collaborative: You love constantly\n  jamming on new “what if” ideas with teammates and\n  partners.\n- Extreme ownership: You’re willing to jump in and love being\n  the one on the hook. You aren’t going to wait to be\n  pointed at a task—you’re going to identify what you think\n  we should do next, and then do it.\n- Execution excellence and speed: You can build stuff in messy\n  environments and know how to get code written and shipped\n  quickly. You can hold the balance of speed and quality and\n  know when to push the pace vs. when to slow down.\n- Customer-obsession and respect: You’re motivated by\n  understanding customer pain points and iterating directly\n  with end users to deliver wins quickly.\n\nBonus if you have\n\n- Hands-on experience with LLM tooling (LangGraph, Mastra,\n  Agents SDK, etc).\n- Built and deployed production LLM-powered systems (tool use,\n  RAG pipelines, multi-step agents, human-in-the-loop, etc).\n- Strong technical foundations in Python/TypeScript, cloud\n  deployment (AWS/GCP/Azure) and DevOps tooling.\n- Prior startup or founding engineer experience, balancing\n  craft, ownership, and speed.\n\nWe’re working against an incredibly ambitious mission. It\nwon’t be easy, but it will likely be the most fulfilling\nwork of your career. If this excites you, let's chat, even\nif you don't meet all of the qualifications above.\n",
+  "skills_required": [
+    "Agents SDK",
+    "Anthropic APIs",
+    "LangGraph",
+    "RAG pipelines",
+    "human-in-the-loop",
+    "multi-step agents",
+    "tool use"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Collaborate directly with customer executives and technical teams to define long-term AI strategy and transformation roadmap",
+    "Identify and prioritize high-leverage AI use cases that connect business ambition to measurable value",
+    "Design, build, and deploy production-grade AI agents and workflows that operate in real-world environments",
+    "Contribute features, patterns, and abstractions to the Mosaic product toolkit based on customer engagement learnings",
+    "Work backwards from customer vision to surface specific AI applications with clear business value",
+    "Ship AI solutions quickly while balancing speed and quality in complex production environments"
+  ],
+  "use_cases": [
+    "Deploying agentic workflows for critical industries including healthcare, manufacturing, and energy",
+    "Building multi-step AI agents with tool use capabilities for enterprise automation",
+    "Implementing RAG pipelines for knowledge retrieval and document analysis",
+    "Creating human-in-the-loop AI systems that integrate with existing business operations",
+    "Developing AI solutions that drive measurable business value for industry-leading customers"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "DevOps tooling",
+    "GCP"
+  ],
+  "frameworks_mentioned": [
+    "Agents SDK",
+    "Anthropic APIs",
+    "LangGraph",
+    "RAG pipelines",
+    "human-in-the-loop",
+    "multi-step agents",
+    "tool use"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role explicitly involves building and deploying\nproduction-grade AI agents and agentic workflows using\nfrontier LLM technology. Engineers work hands-on with RAG\npipelines, multi-step agents, and tool use, directly\nimplementing AI systems rather than just supporting AI\ninfrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangGraph",
+      "Agents SDK",
+      "RAG pipelines",
+      "multi-step agents",
+      "tool use",
+      "human-in-the-loop",
+      "Anthropic APIs"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "DevOps tooling"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

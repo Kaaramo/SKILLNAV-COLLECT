@@ -1,0 +1,136 @@
+{
+  "job_id": "intl-ai-corpus-1511",
+  "source": "intl-ai-corpus",
+  "source_ref": "8501245",
+  "source_url": "https://builtin.com/job/junior-ai-engineer-computer-vision/8501245",
+  "title": "Junior AI Engineer - Computer Vision",
+  "title_normalized": "CV_ENGINEER",
+  "company": "InnovationTeam",
+  "company_type": "entité morale privée",
+  "location": "IND",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-15",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "231 Employees",
+  "company_stage": "unknown",
+  "company_focus": "Advanced AI and data-driven solutions across multiple\nindustries",
+  "industries": [
+    "Information Technology",
+    "Professional Services",
+    "Consulting"
+  ],
+  "description": "Job Description\n\nInnovationTeam is a forward-thinking technology company that\ndelivers advanced AI and data-driven solutions across\nmultiple industries. We are currently seeking a Junior AI\nEngineer – Computer Vision to join our AI engineering team.\n\nAs a Junior Computer Vision Engineer at InnovationTeam, you\nwill be responsible for designing, developing, and deploying\nvision-based AI systems for real-world, production\nenvironments. You will work closely with cross-functional\nteams to build scalable image and video analytics solutions.\n\nThis position requires strong expertise in computer vision,\ndeep learning, and software engineering. The ideal candidate\nis technically strong, self-driven, and experienced in\ntaking AI models from research to production.\n\nAt InnovationTeam, we foster a culture of innovation,\ncollaboration, and technical excellence, offering an\nenvironment where Junior engineers can make a meaningful\nimpact.\n\nRole Overview\n\nWe are seeking a skilled AI Engineer with a strong focus on\nComputer Vision to develop, optimize, and deploy vision-\nbased AI solutions. The role involves working on real-world\nimage and video analytics problems and delivering\nproduction-ready AI systems.\n\nKey Responsibilities\n\n·       Develop and train Computer Vision models for image\nand video analysis.\n\n·       Implement solutions for object detection, image\nclassification, segmentation, and tracking.\n\n·       Prepare and manage datasets, including data\ncleaning, labelling, and augmentation.\n\n·       Optimize models for GPU performance, inference\nspeed, and scalability.\n\n·       Deploy AI models into production using APIs and\ncontainerized services.\n\n·       Integrate Computer Vision models with broader AI and\nanalytics platforms.\n\n·       Collaborate with software engineers, data\nscientists, and product teams.\n\n·       Maintain documentation and ensure code quality and\nreproducibility.\n\nRequired Skills & Qualifications\n\n·       Minimum 5 years of hands-on experience in AI /\nMachine Learning/Deep learning with a focus on Computer\nVision.\n\n·       Master’s degree in computer science, software\nEngineering, Artificial Intelligence, Engineering, or a\nrelated field.\n\n·       Strong knowledge of Computer Vision concepts and\nalgorithms.\n\n·       Practical experience with CNN-based models and\nmodern CV architectures.\n\n·       Proficiency in Python and common ML/CV libraries\n(PyTorch or TensorFlow, OpenCV).\n\n·       Experience with object detection and segmentation\nframeworks (e.g., YOLO, Detectron2).\n\n·       Understanding of model evaluation, metrics, and\nperformance optimization.\n\n·       Experience deploying models in cloud or on-prem\nenvironments.\n\n·       Familiarity with Docker and basic MLOps practices.\n\n·       Excellent English communication skills (written and\nspoken).\n\nNice to Have\n\n·       Experience with video analytics or real-time\ninference.\n\n·       Exposure to Vision Transformers or multimodal AI.\n\n·       Experience with GPU-based training and inference.\n\n·       Knowledge of cloud platforms (OCI, AWS, Azure, or\nGCP).\n\n·       Background in domains such as healthcare, smart\ncities, or industrial AI.\n\nWhat We Offer\n\n·       Work on practical, production-grade Computer Vision\nsolutions.\n\n·       Access to GPU infrastructure and modern AI tooling.\n\n·       Collaborative, engineering-focused work environment.\n\n·       Opportunities for growth and advanced AI exposure.\n\n·       Competitive compensation package.\n",
+  "skills_required": [
+    "CNN",
+    "CUDA",
+    "Deep Learning",
+    "Detectron2",
+    "GPU training and inference",
+    "OpenCV",
+    "PyTorch",
+    "TensorFlow",
+    "Vision Transformers",
+    "YOLO"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and train Computer Vision models for image and video analysis",
+    "Implement solutions for object detection, image classification, segmentation, and tracking",
+    "Prepare and manage datasets, including data cleaning, labelling, and augmentation",
+    "Optimize models for GPU performance, inference speed, and scalability",
+    "Deploy AI models into production using APIs and containerized services",
+    "Integrate Computer Vision models with broader AI and analytics platforms",
+    "Collaborate with software engineers, data scientists, and product teams",
+    "Maintain documentation and ensure code quality and reproducibility"
+  ],
+  "use_cases": [
+    "Image and video analytics",
+    "Object detection and tracking",
+    "Image classification",
+    "Segmentation",
+    "Real-time inference and video analytics"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "GCP",
+    "MLOps",
+    "OCI"
+  ],
+  "frameworks_mentioned": [
+    "CNN",
+    "CUDA",
+    "Deep Learning",
+    "Detectron2",
+    "GPU training and inference",
+    "OpenCV",
+    "PyTorch",
+    "TensorFlow",
+    "Vision Transformers",
+    "YOLO"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "CV_ENGINEER",
+  "ai_classification": "ml-first",
+  "ai_classification_reasoning": "This role focuses on traditional computer vision and deep\nlearning (CNNs, object detection, segmentation) using\nPyTorch/TensorFlow. While it involves deploying models to\nproduction, there's no mention of LLMs, GenAI, RAG, or\nagent-based systems - it's squarely in traditional ML/DL\nterritory.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "OpenCV",
+      "CNN",
+      "YOLO",
+      "Detectron2",
+      "GPU training and inference",
+      "Vision Transformers",
+      "Deep Learning",
+      "CUDA"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "OCI",
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "MLOps"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Computer Vision"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

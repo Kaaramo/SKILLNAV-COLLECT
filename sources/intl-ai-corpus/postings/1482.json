@@ -1,0 +1,168 @@
+{
+  "job_id": "intl-ai-corpus-1482",
+  "source": "intl-ai-corpus",
+  "source_ref": "8491158",
+  "source_url": "https://builtin.com/job/ai-developer/8491158",
+  "title": "AI Developer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "GoSpooky",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam, NLD",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-13",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "113 Employees",
+  "company_stage": null,
+  "company_focus": "Global social media agency for brands",
+  "industries": [
+    "AdTech",
+    "Marketing Tech"
+  ],
+  "description": "Who we are We’re GoSpooky: the ones who get all things\nsocial. A global agency made for the social era. We grow\nbrands through content, community and commerce, keeping them\nat the forefront of culture. Social isn’t just first, it’s\nthe foundation.\n\nFrom creatives and commerce specialists to game designers\nand data analysts, we cover the full social spectrum. If it\nshapes internet culture, we’re on it, making fast, bold and\nrelevant work that actually gets shared.\n\nFrom TikToks that breaks the for you page, to creator\nstories built with real community insights, all the way to\nTikTok Shop, social affiliates and live social shopping that\nconvert in real time.\n\nAs official partners of Instagram and Snapchat and partners\nand social affiliates of TikTok (Shop), we work with brands\nlike KLM, JBL, Samsung, Prime Video and HEMA. Driven by bold\nambition, endless creativity and authentic people, our teams\nthink ahead, react fast and keep brands culturally relevant.\nWhether it’s live social shopping, creator management,\nsocial-first campaigns or turning a trend into a brand\nmoment.\n\nWe’re always looking for fresh energy: people who bring new\nperspectives, challenge the norm and help us and our clients\nevolve. If you love shaking up social, thinking big and\nmoving fast, you’ll fit right in.\n\nThe Role\n\nAs our Senior E2E AI Engineer, you are first and foremost\nexperienced with dev work in production. You are not just\nprototyping in notebooks; you are architecting the end-to-\nend infrastructure, devops, and any necessary cloud or data\nengineering tasks that powers our next-generation AI tools.\n\nYour mission is to build the \"pipes and plumbing\" that make\nAI agents reliable, observable, and secure. You will own the\nfull stack: from Data Engineering on BigQuery, to API\ndevelopment with FastAPI, to Model Serving on Vertex AI, and\nfinally to DevOps/CI/CD pipelines that keep it all running.\nYou sit at the intersection of Data/Software Engineering and\nAIOps.\n\nYou will report to our AI Lead and work closely with the\nData and Insights team and leaders across different business\nunits.\n\nThis role is part-time (24 - 32 hours per week)\n\nWhat you’ll do\n\n- Develop and deploy complex AI workflows (advanced RAG,\n  multi-agent systems) integrated with core productivity\n  tools\n- Build robust APIs and backends for RAG Pipelines and AI\n  agents\n- Design and maintain scalable data pipelines for ETL,\n  ingestion, and data preparation to ground models in high-\n  quality data\n- Manage the testing deployment lifecycle, automating and\n  versioning updates. Orchestrate models on Vertex AI (fine-\n  tuning, serving, monitoring)\n- Implement AIOps and Agent Observability (tracing, logging,\n  monitoring), while enforcing security for model inputs,\n  outputs, and infrastructure\n\nWhat we’re looking for\n\n- 6+ years of professional software/data engineering\n  experience, including at least 2 years of production-level\n  hands-on experience in AI development/engineering\n- Proven experience with advanced RAG use cases, at least one\n  major GenAI framework (e.g., LangChain, LlamaIndex, or\n  Heystack) plus one multi-agent framework (e.g., Langgraph,\n  Google ADK, Vertex AI Agent Builder, or Microsoft Agent\n  Framework)\n- Expert-level Python (or Typescript) skills. You write clean,\n  modular, production-ready code. You are proficient with\n  Pydantic (or an equivalent in Typescript) for validation\n  and FastAPI for high-performance Async I/O\n- Essential expertise in Google Cloud, BigQuery (complex SQL,\n  data warehousing) and Vertex AI (deployment, serving).\n  Strong capability in building ETL/ELT pipelines\n- You are comfortable with Git, Docker, and Kubernetes. You\n  are experienced in devops and know how to set up CI/CD\n  pipelines to automate all the necessary testing and\n  deployment. Practical knowledge of securing applications\n  (API security, secrets management, IAM, input\n  sanitization)\n- Familiarity with MCP and A2A protocols. Hands-on experience\n  with some LLMOps and AI evaluation framework (e.g. GenAI\n  Evals on Vertex, DSPy, RAGAs) as well as high quality\n  vector databases (e.g. Weaviate, Milvus, Qdrant, or Neo4j)\n\nNice to have\n\n- Experience in creative studios or digital production\n- Understanding of GDPR, data governance, and AI ethics\n- Experience working with fine tuning SLMs and specialized\n  vertical AI agents, n8n, and video generation models\n- Experience with machine learning and neural networks\n\nWhat’s in it for you?\n\n- Flexible holiday policy for a proper recharge\n- Commuting allowance\n- Remote working possibilities in agreement with your team\n- A MacBook for peak productivity\n- Training opportunities to develop your skills and grow with\n  us\n- Healthy communal lunches to keep you fueled\n- Fun events to connect, recharge, and bond as a team\n- Phone allowance of up to €25/month (depending on your role)\n- Unlimited mental health support via OpenUp\n- A pension plan where you contribute a percentage of your\n  salary\n- Gift card and birthday wishes every year\n- Dutch classes for international team members\n\nApply for the job So, do you want to join our team? We’d\nlove to hear from you!   Please note: a valid EU work permit\nis required for this role.\n\nGoSpooky is an equal-opportunity employer. Our hiring\ndecisions are based on objective measures and we will not\ndiscriminate against any aspect of your identity. We believe\nthat a diverse team is crucial to our collective success and\nvalue an inclusive culture where everyone can make their\nimpact and bring their true unique selves to work.\n",
+  "skills_required": [
+    "DSPy",
+    "Fine-tuning",
+    "Google ADK",
+    "Haystack",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP (Model Context Protocol)",
+    "Multi-agent systems",
+    "RAG",
+    "RAGAs",
+    "Vertex AI Agent Builder"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and deploy complex AI workflows (advanced RAG, multi-agent systems) integrated with core productivity tools",
+    "Build robust APIs and backends for RAG Pipelines and AI agents",
+    "Design and maintain scalable data pipelines for ETL, ingestion, and data preparation to ground models in high-quality data",
+    "Manage the testing deployment lifecycle, automating and versioning updates. Orchestrate models on Vertex AI (fine-tuning, serving, monitoring)",
+    "Implement AIOps and Agent Observability (tracing, logging, monitoring), while enforcing security for model inputs, outputs, and infrastructure"
+  ],
+  "use_cases": [
+    "Advanced RAG systems for information retrieval",
+    "Multi-agent systems for automated workflows",
+    "AI agents integrated with productivity tools",
+    "Model fine-tuning and serving on Vertex AI",
+    "Data pipelines for grounding models in high-quality data"
+  ],
+  "tools_mentioned": [
+    "AIOps",
+    "BigQuery",
+    "CI/CD",
+    "Data pipelines",
+    "Docker",
+    "ELT",
+    "ETL",
+    "FastAPI",
+    "Git",
+    "Google Cloud",
+    "Kubernetes",
+    "LLMOps",
+    "Milvus",
+    "Neo4j",
+    "Qdrant",
+    "SQL",
+    "Vertex AI",
+    "Weaviate"
+  ],
+  "frameworks_mentioned": [
+    "DSPy",
+    "Fine-tuning",
+    "Google ADK",
+    "Haystack",
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "MCP (Model Context Protocol)",
+    "Multi-agent systems",
+    "RAG",
+    "RAGAs",
+    "Vertex AI Agent Builder"
+  ],
+  "languages_programming": [
+    "Pydantic",
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This is an AI-first role focused on building, deploying, and\norchestrating complex AI workflows including advanced RAG\nsystems and multi-agent frameworks. The role involves hands-\non work with GenAI frameworks (LangChain, LlamaIndex), model\nserving on Vertex AI, fine-tuning models, and implementing\nAI agents - all direct work ON AI systems rather than just\nsupporting infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LlamaIndex",
+      "Haystack",
+      "RAG",
+      "Multi-agent systems",
+      "LangGraph",
+      "Google ADK",
+      "Vertex AI Agent Builder",
+      "MCP (Model Context Protocol)",
+      "DSPy",
+      "RAGAs"
+    ],
+    "ml": [
+      "Fine-tuning"
+    ],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "BigQuery",
+      "SQL",
+      "Weaviate",
+      "Milvus",
+      "Qdrant",
+      "Neo4j"
+    ],
+    "data": [
+      "ETL",
+      "ELT",
+      "Data pipelines"
+    ],
+    "cloud": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Git",
+      "AIOps",
+      "LLMOps"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Pydantic"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

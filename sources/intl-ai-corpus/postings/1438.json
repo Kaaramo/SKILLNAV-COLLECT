@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-1438",
+  "source": "intl-ai-corpus",
+  "source_ref": "8464585",
+  "source_url": "https://builtin.com/job/ai-product-engineer/8464585",
+  "title": "AI Product Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Mindtickle",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-11",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "692 Employees",
+  "company_stage": null,
+  "company_focus": "B2B SaaS sales enablement platform",
+  "industries": [
+    "Artificial Intelligence",
+    "Edtech",
+    "Sales",
+    "Software"
+  ],
+  "description": "Role Overview\n\nWe are transitioning our organization to an AI-first\noperational model. We are seeking an AI Product Engineer to\narchitect and build the company’s central intelligence\nengine.\n\nIn this role, you will be the primary builder of automated\nintelligence systems—tools that not only retrieve insights\nbut actively trigger workflows, and synthesize strategic\nintel across our entire business landscape.\n\nRole Profile\n\nThis is a high-impact, hands-on engineering role requiring a\nconvergence of three distinct skill sets:\n\nSoftware Engineering (50%): Building scalable middleware,\nAPI integrations, and production-grade applications that\nconnect our data stack to business tools (CRM, Marketing\nAutomation, Support/Ticketing).\n\nAI Engineering (30%): Implementing Agentic workflows, RAG\narchitectures, and LLMs to process unstructured data at\nscale.\n\nData Analytics (20%): Leveraging SQL and B2B SaaS metrics to\nensure all automation is grounded in accurate, governed\ndata.\n\nKey Responsibilities\n\n1. Building the \"Enterprise Brain\" (Architecture &\nIntegration)\n\nDevelop a unified intelligence layer that ingests signals\nfrom disparate sources (Product Telemetry, CRM, Call\nTranscripts, Marketing inputs) and processes them into\nactionable outputs.\n\nBuild robust integrations/webhooks to push AI-generated\ninsights directly into workflow tools (e.g., pushing \"Churn\nRisk\" alerts into Salesforce\n\n2. AI Logic & Agent Implementation\n\nArchitect \"Agentic\" workflows where LLMs are granted\npermission to perform tasks\n\nImplement advanced RAG to ground AI outputs in company\ndocumentation, historical data, and strategic context.\n\nEnsure rigorous evaluation and guardrails for non-\ndeterministic models to prevent \"hallucinations\" in critical\nbusiness workflows.\n\n3. Data Engineering & Governance\n\nCollaborate with Analytics Engineers to ensure the\nunderlying data pipelines support real-time or near-real-\ntime AI applications.\n\nMaintain security and privacy standards, ensuring that AI\nagents respect data access permissions across different\ndepartments.\n\nQualifications\n\nMinimum Qualifications:\n\n1.Education: Bachelor’s degree in Computer Science,\nEngineering, or equivalent practical experience.\n\n2.Software Engineering: 3+ years of experience in Python\ndevelopment, with strong proficiency in API development\n(FastAPI/Django) and building integrations between SaaS\nplatforms.\n\n3.AI/ML Application: Proven experience building applications\nusing LLM APIs and orchestration frameworks, Experience with\n\"Agent\" concepts.\n\n4.Data Proficiency: Strong SQL skills and familiarity with\ncloud data warehouses (Snowflake/BigQuery).\n\nPreferred Qualifications:\n\n1.Business Systems Knowledge: Experience working with APIs\nfor major B2B tools (Salesforce, HubSpot, Zendesk, Jira,\nMarketo).\n\n2.Workflow Automation: Experience with tools like Airflow,\nZapier/Make (advanced usage), or custom workflow engines.\n\n3. B2B Domain Expertise: Understanding of the interplay\nbetween Sales, Product, and Customer Success.\n\nCompetencies\n\nThe \"Builder\" Mindset: You are comfortable taking a high-\nlevel strategic requirement from leadership (e.g., \"We need\nto automate lead qualification\") and independently\narchitecting and coding the solution.\n\nSystemic Thinking: You understand how a change in product\ndata schema impacts the downstream marketing automation\nflow.\n\nAdaptability: You can switch contexts rapidly—from debugging\na SQL query for Strategy to refining a prompt for Customer\nSupport automation.\n",
+  "skills_required": [
+    "Agents",
+    "LLM APIs",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop a unified intelligence layer that ingests signals from disparate sources and processes them into actionable outputs",
+    "Build robust integrations and webhooks to push AI-generated insights directly into workflow tools like Salesforce",
+    "Architect agentic workflows where LLMs are granted permission to perform tasks autonomously",
+    "Implement advanced RAG to ground AI outputs in company documentation, historical data, and strategic context",
+    "Ensure rigorous evaluation and guardrails for non-deterministic models to prevent hallucinations in critical business workflows",
+    "Collaborate with Analytics Engineers to ensure underlying data pipelines support real-time AI applications",
+    "Maintain security and privacy standards ensuring AI agents respect data access permissions across departments"
+  ],
+  "use_cases": [
+    "Enterprise intelligence automation connecting product telemetry, CRM, call transcripts, and marketing data",
+    "Automated churn risk alerting by pushing AI insights into Salesforce and other business tools",
+    "Agentic workflows that autonomously execute tasks across business systems",
+    "Knowledge retrieval using RAG grounded in company documentation and historical data",
+    "Real-time lead qualification and customer support automation",
+    "Cross-functional data synthesis for strategic business intelligence"
+  ],
+  "tools_mentioned": [
+    "API integrations",
+    "Airflow",
+    "BigQuery",
+    "Django",
+    "FastAPI",
+    "HubSpot API",
+    "Jira API",
+    "Marketo API",
+    "Salesforce API",
+    "Snowflake",
+    "Zendesk API"
+  ],
+  "frameworks_mentioned": [
+    "Agents",
+    "LLM APIs",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on building of AI systems including\nAgentic workflows, RAG architectures, and LLM\nimplementations to create an enterprise intelligence engine.\nThe role directly works with LLMs, agents, and model\norchestration rather than just supporting AI infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM APIs",
+      "RAG",
+      "Agents",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Django",
+      "API integrations",
+      "Salesforce API",
+      "HubSpot API",
+      "Zendesk API",
+      "Jira API",
+      "Marketo API"
+    ],
+    "databases": [
+      "Snowflake",
+      "BigQuery"
+    ],
+    "data": [
+      "Airflow"
+    ],
+    "cloud": [],
+    "ops": [],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:49+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

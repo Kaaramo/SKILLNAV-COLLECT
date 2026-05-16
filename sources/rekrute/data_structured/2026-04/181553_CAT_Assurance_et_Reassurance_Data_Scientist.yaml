@@ -1,0 +1,41 @@
+company:
+  name: CAT Assurance et Réassurance
+  stage: null
+  focus: Acteur de référence assurance et réassurance au Maroc
+position:
+  title: Data Scientist
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities:
+  - Concevoir KPIs pilotage commercial et sinistres
+  - Développer modèles analyse + prédiction (production, sinistralité, rentabilité)
+  - Exploiter et valoriser données pour décision stratégique
+  - Tableaux de bord dynamiques (Power BI)
+  - Amélioration continue des processus data-driven
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    - R
+    domains: []
+    other:
+    - Data-driven
+    - KPIs
+    - Modèles prédictifs
+    - power bi
+    - Tableaux de bord
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '181553'
+  extracted_at: '2026-05-16T01:30:10+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

@@ -1,0 +1,61 @@
+{
+  "job_id": "linkedin-ma-2026-039",
+  "source": "linkedin-ma",
+  "source_url": "https://ma.linkedin.com/jobs/view/data-engineer-ms-fabric-pyspark-h-f-at-sqli-4315404012",
+  "source_ref": "4315404012",
+  "title": "Data Engineer MS Fabric PySpark (H/F)",
+  "title_normalized": "DATA_ENGINEER",
+  "company": "SQLI",
+  "company_id": "sqli",
+  "company_url": "https://fr.linkedin.com/company/sqli",
+  "company_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEqjnRzMNaX5g/company-logo_100_100/B4EZUnhpTTH0AU-/0/1740124886600/sqli_logo?e=2147483647&v=beta&t=Zd9HBtKaGXCNwWIIJzyKQAmkqz5Ne7lBi1_hRvm2gK4",
+  "company_type": "entité morale privée",
+  "location": "Rabat-Salé-Kénitra Rabat Maroc",
+  "country": "MA",
+  "remote_policy": "on-site",
+  "posted_date": "2026-05-08",
+  "posted_date_relative_original": "قبل ‏‏١‏ أسبوع‏",
+  "deadline_date": null,
+  "contract_type": null,
+  "experience_level_text": null,
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "applications_count": "كن ضمن أول ٢٥ متقدم",
+  "sector": null,
+  "apply_type": null,
+  "description": "Notre mission depuis 30 ans ? Être présent au bon moment !​Notre expertise ? Accompagner nos clients à capter l’attention de l’utilisateur et transformer cette interaction furtive en une interaction mémorable. C’est dans cette optique que nous accompagnons les entreprises dans la mise en œuvre, et le pilotage de dispositifs digitaux pour une expérience utilisateur réinventée.​La juste interaction, c’est quoi ? C’est capter notre attention au bon moment, au bon endroit et la convertir en envie et en confiance. Un équilibre subtil entre le trop et le trop peu. Entre le trop tôt et le trop tard.​Devenez SQLien et faites partie de cette grande aventure au sein d’une société à taille humaine, mais avec de grandes ambitions. Nous sommes plus de 2200 talents sur plus de 13 pays et 3 continents.​Notre culture ?​Oser et créer.​Description du posteEn tant qu’Ingénieur Data, vous rejoindrez notre équipe data afin de participer à des projets stratégiques d’analyse de données et de mise en place de solutions de traitement de données à grande échelle. Vous serez responsable de la conception, de l’optimisation et du développement de pipelines de données sur des plateformes cloud, avec un focus sur l’utilisation de PySpark et Azure Data Factory.Vos principales missions seront :Concevoir, développer et maintenir des pipelines de données à grande échelle utilisant PySpark. Mettre en place des flux de données avec Azure Data Factory, en intégrant des sources et destinations de données variées (SQL, Data Lakes, APIs, etc.). Assurer l'intégration de données provenant de systèmes variés dans un environnement cloud (Azure). Optimiser les performances des traitements de données (SQL, PySpark, etc.). Collaborer avec les équipes métier, data analysts et data scientists pour comprendre les besoins et proposer des solutions efficaces et scalables. Participer à la définition de l’architecture des données et de la stratégie de gouvernance. Mettre en place et assurer le monitoring des jobs de traitement de données (gestion des erreurs, gestion des performances). Documenter les solutions mises en place et suivre les bonnes pratiques de développement. Participer à l'amélioration continue des processus et outils existants. QualificationsNous recherchons un candidat ayant une forte expertise technique en gestion et traitement de données à grande échelle avec les compétences suivantes :Compétences techniques :Maîtrise de PySpark pour le traitement de données massives en environnement distribué. Expérience significative dans la mise en place et la gestion de Azure Data Factory pour la création et l’orchestration de pipelines de données. Solide expérience en bases de données relationnelles et non relationnelles (SQL, NoSQL). Connaissance des outils de gestion de données dans l’écosystème Azure (Azure Data Lake, Azure SQL Database, Azure Blob Storage, etc.). Connaissances pratiques des services cloud Azure et de leur utilisation dans des solutions de traitement de données (Azure Databricks, Azure Synapse Analytics, etc.). Expérience avec des outils de gestion de versions (Git, Azure DevOps, etc.) et des bonnes pratiques de développement logiciel. Connaissance des concepts de Big Data et de l’optimisation des performances dans des environnements distribués. Aptitudes personnelles :Autonomie, rigueur et sens du détail. Excellente capacité à résoudre des problèmes techniques complexes. Bonnes compétences en communication et capacité à travailler en équipe. Esprit d’analyse et capacité à comprendre les besoins métier pour proposer des solutions adaptées. Formation et expérience :Bac +5 en informatique, data science, ou dans un domaine équivalent. Minimum de 3 ans d’expérience sur un poste similaire, avec une expérience confirmée en développement sur PySpark et Azure Data Factory. Informations supplémentairesPourquoi rejoindre notre équipe ?Un environnement dynamique et innovant, au sein d’une équipe passionnée par les technologies de données. La possibilité de travailler sur des projets d’envergure, à la pointe des technologies cloud et Big Data. Des opportunités d’évolution et de formation continue pour développer vos compétences. Un cadre de travail flexible et des avantages attractifs.",
+  "skills_required": [
+    "SQL",
+    "PySpark",
+    "Databricks",
+    "NoSQL",
+    "Azure",
+    "Git",
+    "Big Data",
+    "Data Lake"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [
+    "Databricks",
+    "Azure",
+    "Git"
+  ],
+  "frameworks_mentioned": [
+    "PySpark"
+  ],
+  "languages_programming": [
+    "SQL",
+    "PySpark"
+  ],
+  "domains_iaml": [],
+  "job_family": "DATA_ENGINEER",
+  "search_keyword": "Data Engineer",
+  "scraped_at": "2026-05-14T23:17:00Z",
+  "scraper": "skillnav-apify-number_one_scraper-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.92,
+  "extraction_method": "apify_number_one_scraper_cheap_advance_linkedin"
+}

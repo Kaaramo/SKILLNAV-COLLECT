@@ -1,0 +1,122 @@
+{
+  "job_id": "intl-ai-corpus-2417",
+  "source": "intl-ai-corpus",
+  "source_ref": "8877102",
+  "source_url": "https://builtin.com/job/staff-software-engineer-ai-tools/8877102",
+  "title": "Staff Software Engineer - AI Tools",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PlayStation",
+  "company_type": "entité morale privée",
+  "location": "GBR",
+  "city_inferred": null,
+  "country": "GB",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-26",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "8,768 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global gaming entertainment company - PlayStation consoles,\ngames, and services",
+  "industries": [],
+  "description": "Why PlayStation?\n\nPlayStation isn’t just the Best Place to Play — it’s also\nthe Best Place to Work. Today, we’re recognized as a global\nleader in entertainment producing The PlayStation family of\nproducts and services including PlayStation®5,\nPlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed\nPlayStation software titles from PlayStation Studios, and\nmore.\n\nPlayStation also strives to create an inclusive environment\nthat empowers employees and embraces diversity. We welcome\nand encourage everyone who has a passion and curiosity for\ninnovation, technology, and play to explore our open\npositions and join our growing global team.\n\nThe PlayStation brand falls under Sony Interactive\nEntertainment, a wholly-owned subsidiary of Sony Group\nCorporation.\n\nAbout the Role\n\nWe’re looking for a Staff Software Engineer to build AI-\npowered tools and integrations that plug directly into game\nengines, editors, clients, and backend services. You’ll\ndeliver high-quality C++ integrations across proprietary\nstudio engines, ship robust build/QA automation, and partner\nwith multiple PlayStation Studios teams to make AI an\neveryday part of development.\n\nWhat You’ll Be Doing\n\n- Build and maintain engine/editor plugins, runtime SDKs, and\n  services that integrate AI (LLMs and related systems) into\n  game clients, servers, and build tools.\n- Ship performant, memory-aware C++ by profiling, optimizing,\n  and debugging across PC/console builds with tight frame\n  budgets.\n- Design stable API surfaces for game teams (C++/C API,\n  gRPC/HTTP) with versioning, telemetry, and backward\n  compatibility.\n- Stand up CI/CD for game builds and tools (UBT or proprietary\n  build systems; artifact packaging; nightly/regression\n  suites; distributed/accelerated builds).\n- Automate QA for tooling and in-engine features using engine\n  test frameworks and headless runs, and wire results into\n  CI and dashboards.\n- Implement production LLM integrations (prompting, RAG/tool\n  calls, guardrails/safety, observability, timeouts/retries,\n  and cost controls).\n- Collaborate with studio engineering, tech art, design, and\n  QA to land integrations across varied codebases and\n  pipelines.\n- Document patterns, provide sample projects, and deliver\n  internal training so solutions scale across PlayStation\n  Studios.\n- Influence standards and tech choices for AI in our dev\n  stack, and contribute to shared libraries and best\n  practices.\n\nQualifications\n\n- You have at least five years of experience building\n  production software in modern C++ (C++17/20) with strong\n  fundamentals in memory management, concurrency,\n  performance, and debugging.\n- You have shipped tools or runtime features in AAA engines,\n  including work on plugins/modules, asset and build\n  pipelines, and editor/runtime integration.\n- You have delivered features or tooling that integrate with\n  LLMs or other ML services, and you understand prompt\n  design, evaluation, safety, and telemetry for production\n  usage.\n- You have implemented engine-level automated testing\n  (functional and integration), including headless execution\n  and CI gating.\n- You work fluently with large code/asset repositories and are\n  comfortable with both Perforce and Git.\n- You communicate clearly across disciplines and translate\n  diverse studio requirements into pragmatic, maintainable\n  solutions.\n- You write thorough documentation and favor well-tested,\n  maintainable code.\n\nNice to Have\n\n- You have built networking/service integrations for game\n  backends (gRPC/HTTP) and implemented\n  telemetry/observability (logs, metrics, traces).\n- You have packaged SDKs/plugins for multiple studios and\n  managed semantic versioning and migration tooling.\n- You understand console platform requirements and\n  certification workflows.\n- You are familiar with security, privacy, and responsible-AI\n  practices in production systems.\n\nPlease note; this position can be completed remotely from\neither The UK, or The US.\n\nPlease note, Sony Interactive Entertainment conducts\nbackground checks at the offer stage for all new employees\n(which may include criminal background checks for some\nroles) and will need to process personal information to\nsupport these checks.\n\nPlease refer to our Candidate Privacy Notice for more\ninformation about what personal information we collect, how\nwe use it, who we share it with, and your data protection\nrights.\n\nEqual Opportunity Statement:\n\nSony is an Equal Opportunity Employer. All persons will\nreceive consideration for employment without regard to\ngender (including gender identity, gender expression and\ngender reassignment), race (including colour, nationality,\nethnic or national origin), religion or belief, marital or\ncivil partnership status, disability, age, sexual\norientation, pregnancy, maternity or parental status, trade\nunion membership or membership in any other legally\nprotected category.\n\nWe strive to create an inclusive environment, empower\nemployees and embrace diversity. We encourage everyone to\nrespond.\n\nPlayStation is a Fair Chance employer and qualified\napplicants with arrest and conviction records will be\nconsidered for employment.\n",
+  "skills_required": [
+    "AAA game engines",
+    "Concurrency",
+    "Game engine development",
+    "LLM integration",
+    "Memory management",
+    "Performance optimization",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain engine/editor plugins, runtime SDKs, and services that integrate AI (LLMs and related systems) into game clients, servers, and build tools",
+    "Ship performant, memory-aware C++ by profiling, optimizing, and debugging across PC/console builds with tight frame budgets",
+    "Design stable API surfaces for game teams (C++/C API, gRPC/HTTP) with versioning, telemetry, and backward compatibility",
+    "Stand up CI/CD for game builds and tools including artifact packaging, regression suites, and distributed builds",
+    "Implement production LLM integrations including prompting, RAG/tool calls, guardrails/safety, observability, and cost controls",
+    "Automate QA for tooling and in-engine features using engine test frameworks and headless runs",
+    "Collaborate with studio engineering, tech art, design, and QA to land integrations across varied codebases and pipelines",
+    "Document patterns, provide sample projects, and deliver internal training so solutions scale across PlayStation Studios"
+  ],
+  "use_cases": [
+    "AI-powered game development tools and workflows",
+    "LLM integrations for game engines and editors",
+    "Automated game build and QA processes",
+    "RAG and tool calling systems for game development",
+    "AI safety and guardrails for production game systems"
+  ],
+  "tools_mentioned": [
+    "API design",
+    "Automated testing",
+    "CI/CD",
+    "Git",
+    "Perforce",
+    "REST APIs",
+    "Telemetry and observability",
+    "gRPC"
+  ],
+  "frameworks_mentioned": [
+    "LLM integration",
+    "Prompt engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "C++"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and implementing production LLM\nintegrations including prompting, RAG, tool calls,\nguardrails, and observability. The engineer will directly\nintegrate AI systems (LLMs and related systems) into game\nengines, editors, and backend services, making this hands-on\nAI deployment work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM integration",
+      "RAG",
+      "Prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "gRPC",
+      "REST APIs",
+      "API design"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "Perforce",
+      "Git",
+      "Automated testing",
+      "Telemetry and observability"
+    ],
+    "languages": [
+      "C++"
+    ],
+    "domains": [],
+    "other": [
+      "Game engine development",
+      "AAA game engines",
+      "Memory management",
+      "Concurrency",
+      "Performance optimization"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:57+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

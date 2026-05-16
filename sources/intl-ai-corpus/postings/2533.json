@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-2533",
+  "source": "intl-ai-corpus",
+  "source_ref": "8703106",
+  "source_url": "https://builtin.com/job/ai-engineer-platform/8703106",
+  "title": "AI Platform Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "hyperexponential",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-21",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "108 Employees",
+  "company_stage": "Series B/C (Backed by a16z, Highland Europe, Battery Ventures; scaling globally with ~50 enterprise clients)",
+  "company_focus": "AI-powered insurance pricing and underwriting platform",
+  "industries": [
+    "Information Technology",
+    "Insurance",
+    "Software"
+  ],
+  "description": "About hyperexponential (hx)\n\nAt hyperexponential, we’re building the AI-powered platform\nthat enables the world’s most critical decisions in a $7\ntrillion industry, which risks to take, and how to price\nthem. These are the decisions that shape real-world\noutcomes: whether rockets successfully launch into space,\nautonomous vehicles make it to market, or communities\nrecover after major storms.\n\nUntil now, insurance has been making billion-dollar\ndecisions using outdated tools. We’re changing that. Our\nplatform brings together data, AI, and human expertise to\ngive insurers the fastest path from submission to decision -\nhelping them move faster, act smarter, and take on more risk\nwith confidence.\n\nBacked by a16z, Highland Europe, and Battery Ventures, we’re\nscaling globally - already trusted by nearly 50 of the\nworld’s largest insurers, with zero churn and billions in\npremiums flowing through hx.\n\nWhat began as a single product in one market has rapidly\nevolved into a multi-product, multi-territory platform\npowering every stage of pricing and underwriting. AI is at\nthe core of what we do - from building the world’s first\ndomain-specific AI peer programmer for insurance (think\nGitHub Copilot with a PhD in actuarial science) to shaping\nagentic workflows that reinvent how this industry operates.\n\nWhat makes hx different is the people who build it. Here,\nimpact isn’t tied to title or tenure; it’s defined by the\nchallenges you take on and the discipline you bring.\nSurrounded by peers who stretch you, you’ll do the best,\nhardest work of your life in a company engineered to endure.\n\nIf that sounds like you, join us in building what comes\nnext.\n\nAbout the AI Platform team\n\nAt hx, AI agents generative AI are becoming embedded across\nevery team and product. The AI Platform team exists to make\nthat happen safely and at scale. We own the shared building\nblocks that enable any technology team at hx to build, ship,\nand operate AI agents quickly, safely, and consistently.\n\nWe build the platform, not the agents. The reusable\nfoundations that agent-building teams depend on:\nobservability for end-to-end tracing, cost tracking, and\nvisibility across all AI usage; gateways for unified LLM\naccess and centralised tool routing; governance for agent\nidentity, authorisation, cost controls, and audit logging;\nand developer experience through SDKs, documentation, and\npatterns that make spinning up a production-grade agent fast\nand consistent.\n\nWe are a small, high-ownership team that moves fast and\nbuilds for adoption. We measure success not by what we ship,\nbut by what other teams can build because of what we ship.\n\nWhat you'll be doing\n\n- Observability & Evaluation: Building and evolving the\n  platform that gives hx end-to-end visibility into AI agent\n  behaviour and quality. Tracing, cost tracking, usage\n  dashboards, and shared evaluation infrastructure that\n  helps teams measure and improve agent performance.\n- Composition: Designing and operating the infrastructure that\n  connects agents to LLMs and tools. Unified proxies,\n  centralised tool routing, discovery, and access governance\n  so agent-building teams don't have to solve these problems\n  individually.\n- Governance: Defining and implementing the identity,\n  authorisation, and policy layer for AI agents. Scoped\n  credentials, per-tool permissions, audit logging, cost\n  controls, and trust boundary patterns that let agents\n  operate safely as they scale.\n- Developer experience: Shaping the tools, SDKs,\n  documentation, and patterns that make it fast for any team\n  to go from zero to a production-grade agent on the\n  platform.\n- Adoption: Driving adoption of shared platform services\n  across technology teams, replacing bespoke per-agent\n  integrations with consistent, well-documented\n  capabilities. Measuring impact and iterating based on what\n  teams actually need.\n\nWhat you'll need to have done\n\n- Built and operated platform infrastructure used by multiple\n  teams: API gateways, proxies, observability systems, CI/CD\n  pipelines, cloud infrastructure, or developer platforms\n  where adoption and reliability were your responsibility.\n- Delivered developer-facing tools, SDKs, or APIs that other\n  engineers relied on daily, with a strong focus on\n  usability, documentation, and developer experience.\n- Worked with modern AI infrastructure: LLM integrations,\n  agent frameworks, or AI-related tooling. You don't need to\n  be an ML researcher, but you should have hands-on\n  experience building with AI — whether in production,\n  meaningful side projects, or open source — and be\n  comfortable navigating the AI tooling landscape.\n- Operated systems with governance, security, or compliance\n  requirements: identity models, access control, audit\n  logging, or similar concerns where getting it wrong has\n  real consequences.\n- Successfully driven adoption of shared services across\n  engineering teams, replacing fragmented, team-specific\n  solutions with consistent platform capabilities, and\n  measuring the impact.\n- Taken full ownership of initiatives end-to-end: from scoping\n  and planning through to building, driving adoption, and\n  validating success with data. Not just shipping code, but\n  ensuring it lands.\n\nWe’re hiring at both mid (IC2) and senior (IC3) levels. If\nyou’ve done some but not all of the above, we’d still like\nto hear from you.\n\nYou’re unlikely to thrive here if\n\n- You wait for detailed specifications before acting. This\n  team operates in a fast-moving, ambiguous space. We scope\n  problems, make decisions, and iterate. If you need\n  everything defined upfront, you'll find it frustrating.\n- You prefer to work in a silo. We are a platform team. Our\n  work only succeeds when other teams adopt it. That means\n  constant collaboration, stakeholder engagement, and\n  genuine interest in making other engineers more\n  productive.\n- You see shipping code as the finish line. Here, delivery\n  means adoption. You'll be expected to own the full\n  lifecycle: build it, document it, drive adoption, measure\n  impact, and iterate.\n- You're not energised by ownership and visibility. Every\n  member of this team leads initiatives, communicates\n  progress transparently, and represents their work to\n  stakeholders. If you prefer to stay heads-down and let\n  others handle the context-setting, this isn't the right\n  fit.\n\nIf reading our Culture Document leaves you feeling neutral\nrather than energised, hx may not be the place where you'll\ndo your best work. We're building something that asks for\ncommitment and conviction, and we want you to feel excited\nby the opportunity to grow with us.\n\nCompensation\n\nAt hx, we're committed to salary transparency. You'll always\nhave clarity on pay early in the process - our Talent\nPartner will share details with you during initial\nconversations - and we're working towards publishing salary\ninformation for all roles globally.\n\nBecause we're building at the intersection of\ntechnology/SaaS and insurance, our roles don't always map\nneatly onto traditional benchmarks. Our approach is to\ndesign compensation that's competitive in the market, fair\nacross teams, and aligned with the impact our people make.\n\nEquity: We offer equity across all roles at hx, making it a\nsignificant component of total compensation. Your Talent\nPartner will be able to share more details about this.\n\nBenefits\n\n- £5,000 training and conference budget for individual and\n  group development.\n- 25 days of holiday plus 8 bank holidays (33 days total).\n- Company pension scheme via Penfold.\n- Mental health support and therapy via Spectrum.life.\n- Individual wellbeing allowance via Juno.\n- Private healthcare insurance through AXA.\n- Income protection and Life Insurance.\n- Cycle to Work Scheme.\n\nAdditional perks\n\n- Top-spec equipment (laptop, screens, adjustable desks,\n  etc.).\n- Regular remote and in-person hackathons, lunch and learns,\n  socials, and game nights.\n- Team breakfasts and lunches, snacks, drinks fridge, and a\n  fun office at The Ministry.\n- Exceptional opportunities for personal development and\n  growth as we build something remarkable together.\n\nInterview process\n\n- Initial chat with our Talent team (30 minutes).\n- Manager Interview (1 hour).\n- Technical Assessment broken into two parts (1 hour each)\n- Values Interview with Senior Tech Leadership (1 hour).\n- We offer!\n\nOur commitment to Diversity\n\nhxers are at the centre of everything we build. We know that\nprogress depends on diverse perspectives, and we are\ncommitted to creating an environment where everyone can\nthrive, grow, and make an impact. We recognise there is\nalways more to do, and we take responsibility for shaping a\nworkplace that is not only diverse but genuinely inclusive.\n\nDiversity is not just the right thing to do, it is key to\nsolving the complex challenges we choose to take on. By\nwelcoming people from all backgrounds and experiences, we\nstrengthen our ability to question assumptions, push\nboundaries, and design solutions that endure.\n\nIf you're energised by complexity and motivated to grow, we\nencourage you to apply and join our global team.\n\nNext steps\n\nIf this opportunity resonates with you, we encourage you to\napply or share it with your connections! Our dedicated\ntalent team reviews all applications, and we promise to\nprovide feedback regardless of the outcome.\n\nFor more information about applying and to view other\nopportunities, you can visit our careers page.\n\nPlease note that background checks will be conducted as part\nof the hiring process to ensure compliance with our\ngovernance policies. We handle all background checks\nsensitively and in full compliance with relevant\nregulations. All applicant data will be processed in\naccordance with data protection regulations and our privacy\npolicy.\n",
+  "skills_required": [
+    "Agent Frameworks",
+    "LLM Integrations",
+    "SDK Development"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and evolve observability and evaluation infrastructure for end-to-end visibility into AI agent behavior, including tracing, cost tracking, usage dashboards, and shared evaluation systems",
+    "Design and operate composition infrastructure connecting agents to LLMs and tools via unified proxies, centralized tool routing, discovery, and access governance",
+    "Define and implement governance layer for AI agents including scoped credentials, per-tool permissions, audit logging, cost controls, and trust boundary patterns",
+    "Shape developer experience through SDKs, documentation, and patterns that enable teams to quickly build production-grade agents",
+    "Drive adoption of shared platform services across technology teams, replacing bespoke integrations with consistent, well-documented capabilities"
+  ],
+  "use_cases": [
+    "AI-powered insurance pricing and underwriting decisions",
+    "Domain-specific AI peer programmer for insurance (actuarial science)",
+    "Agentic workflows embedded across insurance products and teams",
+    "End-to-end visibility and governance for AI agent operations at scale",
+    "Developer platform enabling rapid production-grade AI agent development"
+  ],
+  "tools_mentioned": [
+    "API Gateways",
+    "Audit Logging",
+    "CI/CD",
+    "Cloud Infrastructure (AWS/GCP/Azure)",
+    "Docker",
+    "FastAPI",
+    "Identity & Access Management",
+    "Kubernetes",
+    "Observability Systems",
+    "Postgres",
+    "REST APIs",
+    "Redis"
+  ],
+  "frameworks_mentioned": [
+    "Agent Frameworks",
+    "LLM Integrations"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a platform engineering role that builds\ninfrastructure enabling other teams to build and operate AI\nagents. The team explicitly states \"We build the platform,\nnot the agents.\" The work involves observability, gateways,\ngovernance, and developer experience tooling that supports\nAI agent development — classic enabling/support\ninfrastructure rather than directly building, training, or\ndeploying models or agents.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM Integrations",
+      "Agent Frameworks"
+    ],
+    "ml": [],
+    "web": [
+      "REST APIs",
+      "FastAPI"
+    ],
+    "databases": [
+      "Postgres",
+      "Redis"
+    ],
+    "data": [],
+    "cloud": [
+      "Cloud Infrastructure (AWS/GCP/Azure)"
+    ],
+    "ops": [
+      "API Gateways",
+      "CI/CD",
+      "Observability Systems",
+      "Docker",
+      "Kubernetes",
+      "Identity & Access Management",
+      "Audit Logging"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "SDK Development"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:58+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

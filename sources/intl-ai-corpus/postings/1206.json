@@ -1,0 +1,110 @@
+{
+  "job_id": "intl-ai-corpus-1206",
+  "source": "intl-ai-corpus",
+  "source_ref": "8277002",
+  "source_url": "https://www.builtinla.com/job/gtm-systems-automation-manager/8277002",
+  "title": "GTM Systems Engineer (AI & Automation)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Lucid Software",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-17",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "Visual collaboration and work acceleration software suite",
+  "industries": [],
+  "description": "Lucid Software is the leader in visual collaboration and\nwork acceleration, helping teams see and build the future by\nturning ideas into reality. Our products include the Visual\nCollaboration Suite (Lucidchart and Lucidspark) and\nairfocus. We hold true to our core values: innovation in\neverything we do, passion & excellence in every area,\nindividual empowerment, initiative and ownership, and\nteamwork over ego. At Lucid, we value diverse perspectives\nand are dedicated to creating an environment and culture\nthat is respectful and inclusive for everyone. Lucid is a\nhybrid workplace. We promote a healthy work-life balance by\nallowing employees to work remotely, from one of our\noffices, or a combination of the two depending on the needs\nof the role and team.\n\nSince the company’s founding, Lucid Software has received\nnumerous global and regional recognitions for its products,\nbusiness, and workplace culture. These include being listed\nto the Forbes Cloud 100, Fast Company Most Innovative\nCompanies, Fortune Best Workplaces in Technology, and\nPEOPLE’s Companies that Care. Lucid’s solutions are used by\nmore than 100 million users across the globe, making Lucid\nthe most used visual collaboration platform by the Fortune\n500. Our customers include Google, GE, and NBC Universal,\nand we partner with leaders such as Google, Atlassian, and\nMicrosoft.\n\nLucid has an exciting opportunity for a talented individual\nto join our Revenue Operations function. The Revenue\nOperations team drives key lead generation and GTM systems\ninitiatives for the company, supporting our visual\nproductivity suite. We’re looking for a GTM Systems &\nAutomation Manager who can help us support our go-to-market\nstrategy by scaling and optimizing our Marketing and Sales\ntechnologies and practices to accelerate revenue with\npredictable performance.\n\nResponsibilities:\n\n- Design and implement scalable automation logic across the\n  full funnel, identifying operational bottlenecks and\n  delivering technical solutions that improve GTM efficiency\n  and reliability\n- Ensure reliable end-to-end data synchronization across the\n  GTM stack, maintaining data quality and minimizing\n  operational risk through well-managed integrations and\n  data pipelines\n- Orchestrate multi-step data enrichment and transformation\n  workflows using platforms such as Clay, Workato, or Zapier\n  to source, enrich, validate, and activate data across\n  systems\n- Create, refine, and maintain automated engagement sequences\n  that trigger email, call, and social outreach based on\n  behaviors, lifecycle stages, or data changes\n- Build, update, and maintain dashboards and reporting systems\n  that measure funnel performance, campaign effectiveness,\n  and other key metrics\n- Help evaluate, implement, and optimize GTM technologies,\n  including AI and emerging tools for lead research,\n  enrichment, personalization, and workflow optimization\n- Partner cross-functionally with Business Systems, GTM\n  Operations, Analytics, and other stakeholders to define\n  scalable processes, maintain documentation, ensure system\n  alignment, and uphold data governance and privacy\n  standards\n\nRequirements:\n\n- 5+ years of experience designing and implementing automated\n  GTM systems, including data enrichment, transformation,\n  lifecycle automation, and cross-platform integrations\n  across marketing and sales technologies\n- Technical knowledge and experience with these types of\n  platforms:\n- Hands-on experience supporting and scaling outbound GTM\n  campaigns, including list building, enrichment,\n  segmentation, routing, and activation across sales and\n  marketing systems\n- Proven team player and collaborator with the ability to work\n  effectively with both technical and non-technical partners\n- Strong written and verbal communication skills,\n  organization, and attention to detail\n- Comfortable working in a fast-paced, dynamic environment\n- Natural problem solver and a quick learner with a builder\n  mindset\n\nPreferred Qualifications\n\n- Experience working at a product-led company or marketing\n  operations/revenue technology agency\n- Exposure to multiple GTM motions is a plus\n\n#LI-MK1\n",
+  "skills_required": [
+    "AI tools evaluation",
+    "Sales technologies"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and implement scalable automation logic across the full funnel to improve GTM efficiency and reliability",
+    "Ensure reliable end-to-end data synchronization across the GTM stack with well-managed integrations and data pipelines",
+    "Orchestrate multi-step data enrichment and transformation workflows using platforms like Clay, Workato, or Zapier",
+    "Create, refine, and maintain automated engagement sequences triggering email, call, and social outreach",
+    "Build and maintain dashboards and reporting systems measuring funnel performance and campaign effectiveness",
+    "Evaluate, implement, and optimize GTM technologies including AI tools for lead research, enrichment, and personalization",
+    "Partner cross-functionally to define scalable processes, maintain documentation, and uphold data governance standards"
+  ],
+  "use_cases": [
+    "Go-to-market automation and optimization",
+    "Lead generation and enrichment workflows",
+    "Marketing and sales technology integration",
+    "Revenue operations data synchronization",
+    "Automated engagement and outreach sequencing",
+    "Funnel performance analytics and reporting"
+  ],
+  "tools_mentioned": [
+    "Clay",
+    "Cross-platform integrations",
+    "Dashboards and reporting",
+    "Data enrichment",
+    "Data governance",
+    "Data pipelines",
+    "Data transformation",
+    "ETL",
+    "Marketing automation platforms",
+    "Workato",
+    "Workflow automation",
+    "Zapier"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [],
+  "domains_iaml": [
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is in Revenue Operations focusing on GTM (Go-to-\nMarket) systems and automation. While it mentions helping\nevaluate and optimize AI tools for lead research and\nenrichment, the core work is building data pipelines,\nintegrations, and automation workflows - not building,\ntraining, or deploying AI models. AI is mentioned as\nemerging tools to evaluate, not as systems to build.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "Marketing automation platforms",
+      "Cross-platform integrations"
+    ],
+    "databases": [],
+    "data": [
+      "Clay",
+      "Workato",
+      "Zapier",
+      "Data pipelines",
+      "Data enrichment",
+      "Data transformation",
+      "ETL",
+      "Dashboards and reporting",
+      "Data governance"
+    ],
+    "cloud": [],
+    "ops": [
+      "Workflow automation"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": [
+      "Sales technologies",
+      "AI tools evaluation"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

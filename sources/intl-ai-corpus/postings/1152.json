@@ -1,0 +1,118 @@
+{
+  "job_id": "intl-ai-corpus-1152",
+  "source": "intl-ai-corpus",
+  "source_ref": "8222359",
+  "source_url": "https://builtin.com/job/senor-qa-engineer-ai-rendering/8222359",
+  "title": "Senior QA Engineer- AI Rendering",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Autodesk",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-12",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "13,285 Employees",
+  "company_stage": "Public",
+  "company_focus": "3D modeling, CAD, CAM, CAE, and PCB software platform for\nproduct design and manufacturing",
+  "industries": [
+    "Big Data",
+    "Cloud",
+    "Digital Media",
+    "Machine Learning",
+    "Mobile",
+    "Software",
+    "Industrial"
+  ],
+  "description": "Job Requisition ID #\n\n26WD94632\n\nPosition Overview\n\n\nFusion is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB\nsoftware platform for professional product design and\nmanufacturing. We're seeking an experienced Senior Software\nQA Engineer to join the Design Engineering QA team, focusing\non AI Rendering capabilities and Graphics features. This\nrole will lead AI validation strategies, ensure model\nquality and reliability, and provide technical leadership\nfor the team.\n\nThis is a hybrid position in Pune, India. You will report to\nSenior Manager, SQA.\n\nResponsibilities\n\n- Lead QA strategy and execution for AI Rendering and Graphics\n  features; mentor junior team members.\n\n- Design and execute AI model validation including accuracy\n  testing, output quality assessment, and regression testing\n  across model versions.\n\n- Develop methodologies to evaluate AI-generated rendering\n  outputs using quality metrics and consistency checks.\n\n- Architect and develop automation frameworks for AI\n  validation and graphics testing.\n\n- Validate AI model performance (latency, throughput, memory)\n  across different hardware configurations.\n\n- Perform manual and automated testing for graphics-related\n  features within Fusion.\n\n- Verify AI rendering and graphics consistency across\n  different OS, platforms, and hardware.\n\n- Investigate and validate customer-reported issues;\n  collaborate with development teams on root cause analysis.\n\n- Provide regular updates to stakeholders on quality status,\n  risks, and recommendations.\n\nMinimum Qualifications\n\n- Bachelor's degree in Computer Science, Data Science, AI, or\n  related field.\n\n- 5+ years of software QA experience, with 2+ years focused on\n  AI/ML applications.\n\n- Strong understanding of AI/ML concepts including model\n  training, inference, and evaluation metrics.\n\n- Experience with AI model validation techniques and testing\n  challenges (data drift, edge cases, non-deterministic\n  outputs).\n\n- Proficiency in Python for test automation.\n\n- Solid knowledge of software testing methodologies and defect\n  tracking.\n\n- Strong analytical, problem-solving, and communication\n  skills.\n\n- Ability to lead initiatives and collaborate in cross-\n  functional teams.\n\nPreferred Qualifications\n\n- Experience testing AI/ML applications in computer vision,\n  image generation, or rendering.\n\n- Familiarity with ML frameworks (PyTorch, TensorFlow, ONNX).\n\n- Experience with image quality metrics (SSIM, PSNR) and\n  visual comparison techniques.\n\n- Hands-on experience with 3D CAD/CAE software (Fusion,\n  Inventor, CATIA, etc.).\n\n- Experience with CI/CD pipelines and AI validation\n  integration.\n\n- Familiarity with Agile/Scrum methodologies.\n\n- Prior experience mentoring QA team members.\n\n#LI-SB4\n\nLearn More\n\nAbout Autodesk\n\nWelcome to Autodesk! Amazing things are created every day\nwith our software – from the greenest buildings and cleanest\ncars to the smartest factories and biggest hit movies. We\nhelp innovators turn their ideas into reality, transforming\nnot only how things are made, but what can be made.\n\nWe take great pride in our culture here at Autodesk – it’s\nat the core of everything we do. Our culture guides the way\nwe work and treat each other, informs how we connect with\ncustomers and partners, and defines how we show up in the\nworld.\n\nWhen you’re an Autodesker, you can do meaningful work that\nhelps build a better world designed and made for all. Ready\nto shape the world and your future? Join us!\n\nSalary transparency\n\nSalary is one part of Autodesk’s competitive compensation\npackage. Offers are based on the candidate’s experience and\ngeographic location. In addition to base salaries, our\ncompensation package may include annual cash bonuses,\ncommissions for sales roles, stock grants, and a\ncomprehensive benefits package.\n\nDiversity & Belonging We take pride in cultivating a culture\nof belonging where everyone can thrive. Learn more here:\nhttps://www.autodesk.com/company/diversity-and-belonging\n\nAre you an existing contractor or consultant with Autodesk?\n\nPlease search for open jobs and apply internally (not on\nthis external site).\n",
+  "skills_required": [
+    "Fusion 360",
+    "ONNX",
+    "PSNR",
+    "PyTorch",
+    "SSIM",
+    "TensorFlow",
+    "Test Automation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead QA strategy and execution for AI Rendering and Graphics features; mentor junior team members",
+    "Design and execute AI model validation including accuracy testing, output quality assessment, and regression testing across model versions",
+    "Develop methodologies to evaluate AI-generated rendering outputs using quality metrics and consistency checks",
+    "Architect and develop automation frameworks for AI validation and graphics testing",
+    "Validate AI model performance (latency, throughput, memory) across different hardware configurations",
+    "Perform manual and automated testing for graphics-related features within Fusion",
+    "Verify AI rendering and graphics consistency across different OS, platforms, and hardware",
+    "Investigate and validate customer-reported issues; collaborate with development teams on root cause analysis"
+  ],
+  "use_cases": [
+    "AI-powered 3D rendering for product design",
+    "Graphics rendering quality assurance for CAD/CAM software",
+    "Computer vision and image generation validation",
+    "AI model performance optimization across hardware configurations"
+  ],
+  "tools_mentioned": [
+    "CI/CD"
+  ],
+  "frameworks_mentioned": [
+    "ONNX",
+    "PSNR",
+    "PyTorch",
+    "SSIM",
+    "TensorFlow"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "COMPUTER_VISION",
+    "DEEP_LEARNING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on validation and testing of AI/ML\nmodels for rendering, including accuracy testing, output\nquality assessment, performance validation, and developing\nmethodologies to evaluate AI-generated outputs. While it's a\nQA role rather than model development, the engineer works\ndirectly ON AI systems to validate model quality and\nreliability.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "TensorFlow",
+      "ONNX",
+      "SSIM",
+      "PSNR"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [
+      "Computer Vision",
+      "Image Generation"
+    ],
+    "other": [
+      "Fusion 360",
+      "Test Automation"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

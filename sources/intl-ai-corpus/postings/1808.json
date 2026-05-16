@@ -1,0 +1,139 @@
+{
+  "job_id": "intl-ai-corpus-1808",
+  "source": "intl-ai-corpus",
+  "source_ref": "8184039",
+  "source_url": "https://builtin.com/job/quality-engineer-autosoc/8184039",
+  "title": "Senior Quality Engineer - AI Integrations",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Arctic Wolf",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-30",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "810 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cybersecurity managed detection and response platform",
+  "industries": [
+    "Security",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "About the Role  The Arctic Wolf security operations platform\ningests and processes upwards of 600 billion events a day\nfrom a wide variety of on-premise devices and cloud\nplatforms. The security pipeline is a distributed system of\nloosely-coupled microservices that constitute our Realtime\nanalysis and threat detection systems. These services distil\nthe incoming events into actionable intelligence that our\nConcierge Security Teams use to protect customers.\n\nWe are looking for experienced Sr. Quality Engineers to join\nour pack and work with us to build and expand the\ncapabilities of our testing platform.\n\nYou Will:\n\n- Create and extend software frameworks and tools to run,\n  monitor, and report on automated tests. Have experience\n  building and maintaining Automation frameworks and CI/CD\n  pipeline.\n\n- Review testing strategies, approaches, and test plans and\n  provide insight to development teams.\n\n- Architect, design and build software to automate a variety\n  of testing methods (e.g. API validation, performance/load\n  testing, fuzzing, etc.)\n\n- Develop and maintain test frameworks for GenAI-based and\n  AI/ML applications, including model validation, LLM\n  prompt-response consistency, hallucination detection, and\n  regression testing for AI inference APIs.\n\n- Implement evaluation pipelines to test LLM accuracy,\n  latency, bias, toxicity, and reliability.\n\n- Work as part of a team of highly skilled software\n  professionals.\n\n- Continuously learn and expand your technical horizons\n\n- Our Technology Stack: Selenium, Playwright, Docker,\n  Kubernetes, AWS (Bedrock, Lambda, SQS, S3, etc.),\n  LangChain, LLM evaluation frameworks (e.g., Ragas),\n  OpenAPI, Postgres, Linux.\n\nYou:\n\n- Are excited to work at the intersection of AIML, Big Data\n  and the Cybersecurity problem space\n\n- Have 6+ years of experience shipping quality software\n\n- Love driving high software quality\n\n- Have experience deploying services on cloud computing\n  platforms (e.g, AWS, Azure, GCP)\n\n- Are an expert using common tools for executing functional,\n  load and fuzz testing (e.g. Locust, CATS)\n\n- Have worked on distributed systems and microservices\n  architecture (preferred)\n\nAbout Arctic Wolf  At Arctic Wolf, we’re cultivating a\ncollaborative and productive work environment that welcomes\na diversity of backgrounds, cultures, and ideas to make our\nteams even stronger as we grow globally. We’ve been named\none of the 50 Most Innovative Companies in the world for\n2022 (Fast Company)—and the 2nd Most Innovative Security\nCompany. We have won countless awards for our excellence in\nsecurity operations and remain dedicated to providing an\nindustry-leading customer and employee experience including:\n\n\nTop Workday USA (2021-2024)\n\nGreat Place to Work (2022-2024) & Best Workplaces for Women\n(2024) in Canada\n\nBest Workplaces in Tech & For Women in the UK (2023)\n\nTop Company by Kununu in Germany (2024)\n\nOur Values  Arctic Wolf recognizes that success comes from\ndelighting our customers, so we work together to ensure that\nhappens every day. We believe in diversity and inclusion and\ntruly value the unique qualities and unique perspectives all\nemployees bring to the organization. And we appreciate\nthat—by protecting people’s and organizations’ sensitive\ndata and seeking to end cyber risk— we get to work in an\nindustry that is fundamental to the greater good. We\ncelebrate unique perspectives by creating a platform for all\nvoices to be heard through our Pack Unity program. We\nencourage all employees to join or create a new alliance.\nSee more about our Pack Unity here. Arctic Wolf is an Equal\nOpportunity Employer and considers applicants for employment\nwithout regard to race, colour, religion, sex, orientation,\nnational origin, age, disability, genetics, or any other\nbasis forbidden under federal, provincial, or local law.\nArctic Wolf is committed to fostering a welcoming,\naccessible, respectful, and inclusive environment ensuring\nequal access and participation for people with disabilities.\nAs such, we strive to make our entire employee experience as\naccessible as possible and provide accommodations as\nrequired for candidates and employees with disabilities\nand/or other specific needs where possible. Please let us\nknow if you require any accommodations by emailing\nrecruiting@arcticwolf.com.\n\nOn-Camera Policy To support a fair, transparent, and\nengaging interview experience, candidates interviewing\nremotely are expected to be on camera during all video\ninterviews. Being on camera fosters authentic connection,\nimproves communication, and allows for full engagement from\nboth candidates and interviewers. We understand that\ntechnical, bandwidth, or location-related challenges may\noccasionally prevent video use. If this applies, candidates\nare required to notify us in advance so we can explore\nappropriate accommodations.\n\nSecurity Requirements  Conducts duties and responsibilities\nin accordance with AWN’s Information Security policies,\nstandards, processes, and controls to protect the\nconfidentiality, integrity and availability of AWN business\ninformation (in accordance with our employee handbook and\ncorporate policies).\n\nBackground checks are required for this position.\n",
+  "skills_required": [
+    "Distributed systems",
+    "Hallucination detection",
+    "LLM evaluation",
+    "LangChain",
+    "Microservices architecture",
+    "Prompt-response consistency testing",
+    "Ragas"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Create and extend software frameworks and tools to run, monitor, and report on automated tests",
+    "Review testing strategies, approaches, and test plans and provide insight to development teams",
+    "Architect, design and build software to automate a variety of testing methods (API validation, performance/load testing, fuzzing)",
+    "Develop and maintain test frameworks for GenAI-based and AI/ML applications including model validation and LLM prompt-response consistency",
+    "Implement evaluation pipelines to test LLM accuracy, latency, bias, toxicity, and reliability",
+    "Work as part of a team of highly skilled software professionals on distributed microservices systems"
+  ],
+  "use_cases": [
+    "Security operations platform ingesting 600B+ events daily for threat detection",
+    "Real-time analysis and threat detection across on-premise and cloud platforms",
+    "LLM prompt-response consistency validation and hallucination detection",
+    "AI inference API regression testing and reliability assurance",
+    "Automated quality assurance for cybersecurity intelligence distillation"
+  ],
+  "tools_mentioned": [
+    "AWS Bedrock",
+    "AWS Lambda",
+    "AWS S3",
+    "AWS SQS",
+    "CATS",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "Locust",
+    "OpenAPI",
+    "Playwright",
+    "Postgres",
+    "Selenium"
+  ],
+  "frameworks_mentioned": [
+    "Hallucination detection",
+    "LLM evaluation",
+    "LangChain",
+    "Prompt-response consistency testing",
+    "Ragas"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves building and maintaining test\nframeworks for GenAI and AI/ML applications, including LLM\nprompt-response consistency testing, hallucination\ndetection, evaluation pipelines for LLM\naccuracy/bias/toxicity, and regression testing for AI\ninference APIs. While it's a quality engineering role, the\ncore work includes hands-on validation and evaluation of\nAI/LLM systems using tools like LangChain and Ragas.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "Ragas",
+      "LLM evaluation",
+      "Prompt-response consistency testing",
+      "Hallucination detection"
+    ],
+    "ml": [],
+    "web": [
+      "Selenium",
+      "Playwright",
+      "OpenAPI"
+    ],
+    "databases": [
+      "Postgres"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS Bedrock",
+      "AWS Lambda",
+      "AWS SQS",
+      "AWS S3"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Locust",
+      "CATS",
+      "Linux"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Distributed systems",
+      "Microservices architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:52+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

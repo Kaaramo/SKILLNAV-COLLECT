@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-0036",
+  "source": "intl-ai-corpus",
+  "source_ref": "6362093",
+  "source_url": "https://builtin.com/job/senior-site-reliability-engineer-ai-studio-inference-platform/6362093",
+  "title": "Senior Site Reliability Engineer — AI Studio (Inference Platform)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Nebius",
+  "company_type": "entité morale privée",
+  "location": "Amsterdam",
+  "city_inferred": "Amsterdam",
+  "country": "NL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "473 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI cloud infrastructure and GPU cloud services",
+  "industries": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Consulting"
+  ],
+  "description": "Why work at Nebius Nebius is leading a new era in cloud\ncomputing to serve the global AI economy. We create the\ntools and resources our customers need to solve real-world\nchallenges and transform industries, without massive\ninfrastructure costs or the need to build large in-house\nAI/ML teams. Our employees work at the cutting edge of AI\ncloud infrastructure alongside some of the most experienced\nand innovative leaders and engineers in the field.\n\nWhere we work Headquartered in Amsterdam and listed on\nNasdaq, Nebius has a global footprint with R&D hubs across\nEurope, North America, and Israel. The team of over 800\nemployees includes more than 400 highly skilled engineers\nwith deep expertise across hardware and software\nengineering, as well as an in-house AI R&D team.\n\nAI Studio is a part of  Nebius Cloud, one of the world’s\nlargest GPU clouds, running tens of thousands of GPUs. We\nare building an inference platform that makes every kind of\nfoundation model — text, vision, audio, and emerging\nmultimodal architectures — fast, reliable, and effortless to\ndeploy at massive scale. To deliver on that promise, we need\nan engineer who can make the platform behave flawlessly\nunder extreme load and recover gracefully when the\nunexpected happens.\n\nIn this role you will own the reliability, performance, and\nobservability of the entire inference stack. Your day starts\nwith designing and refining telemetry pipelines — metrics,\nlogs, and traces that turn hundreds of terabytes of signal\ninto clear, actionable insight. From there you might tune\nKubernetes autoscalers to squeeze more efficiency out of\nGPUs, craft Terraform modules that bake resilience into\nevery new cluster, or harden our request-routing and retry\nlogic so even transient failures go unnoticed by users. When\nincidents do arise, you’ll rely on the automation and\nrunbooks you helped create to detect, isolate, and remediate\nproblems in minutes, then drive the post-mortem culture that\nprevents recurrence. All of this effort points toward a\nsingle goal: scaling the platform smoothly while hitting\naggressive cost and reliability targets.\n\nSuccess in the role calls for deep fluency with Kubernetes,\nPrometheus, Grafana, Terraform, and the craft of\ninfrastructure-as-code. You script comfortably in Python or\nBash, understand the nuances of alert design and SLOs for\nhigh-throughput APIs, and have spent enough time in\nproduction to know how distributed back-ends fail in the\nreal world. Experience shepherding GPU-heavy workloads —\nwhether with vLLM, Triton, Ray, or another accelerator stack\n— will serve you well, as will a background in MLOps or\nmodel-hosting platforms. Above all, you care about building\nself-healing systems, thrive on debugging performance from\nkernel to application layer, and enjoy collaborating with\nsoftware engineers to turn reliability into a feature users\nnever have to think about.\n\nIf the idea of safeguarding the infrastructure that powers\ntomorrow’s multimodal AI energizes you, we’d love to hear\nyour story.\n\nWhat we offer\n\n- Competitive salary and comprehensive benefits package.\n- Opportunities for professional growth within Nebius.\n- Flexible working arrangements.\n- A dynamic and collaborative work environment that values\n  initiative and innovation.\n\nWe’re growing and expanding our products every day. If\nyou’re up to the challenge and are excited about AI and ML\nas much as we are, join us!\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and refine telemetry pipelines including metrics, logs, and traces for observability",
+    "Tune Kubernetes autoscalers to maximize GPU efficiency and performance",
+    "Create Terraform modules that build resilience into every new cluster deployment",
+    "Harden request-routing and retry logic to handle transient failures",
+    "Build automation and runbooks for rapid incident detection and remediation",
+    "Drive post-mortem culture to prevent recurring issues and improve system reliability",
+    "Scale the inference platform while meeting aggressive cost and reliability targets"
+  ],
+  "use_cases": [
+    "Deploying foundation models including text, vision, audio, and multimodal architectures at scale",
+    "Providing fast, reliable, and effortless model inference serving platform",
+    "Enabling massive GPU cloud infrastructure for AI/ML workloads",
+    "Handling high-throughput API requests for model inference",
+    "Supporting GPU-heavy workloads through accelerator stacks like vLLM, Triton, and Ray"
+  ],
+  "tools_mentioned": [
+    "Docker",
+    "Grafana",
+    "Kubernetes",
+    "MLOps",
+    "Prometheus",
+    "Ray",
+    "SLOs",
+    "Terraform",
+    "Triton",
+    "infrastructure-as-code",
+    "observability",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Bash",
+    "Python"
+  ],
+  "domains_iaml": [
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is an SRE role focused on infrastructure reliability,\nobservability, and platform engineering for an AI inference\nplatform. The work involves Kubernetes, telemetry pipelines,\nand infrastructure-as-code rather than building, training,\nor fine-tuning models directly.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [
+      "Ray"
+    ],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "Prometheus",
+      "Grafana",
+      "Terraform",
+      "vLLM",
+      "Triton",
+      "MLOps",
+      "SLOs",
+      "infrastructure-as-code",
+      "observability",
+      "Docker"
+    ],
+    "languages": [
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

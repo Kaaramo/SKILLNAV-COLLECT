@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-1723",
+  "source": "intl-ai-corpus",
+  "source_ref": "8590254",
+  "source_url": "https://www.builtinla.com/job/ai-engineer/8590254",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Visia",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-25",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": null,
+  "company_focus": "AI-powered platform for recycled materials supply chain",
+  "industries": [
+    "Artificial Intelligence",
+    "Software"
+  ],
+  "description": "About us\n\nVisia is revolutionizing the recycled materials supply chain\nby providing processors with real-time, actionable insights\ninto their material streams through our AI-powered platform.\nBy pairing this intelligence with custom-built change\nmanagement, we drive critical outcomes like prohibitive\nremoval, material audits, and automated KPI tracking. Our\nsolutions have delivered measurable results, with customers\nseeing throughput increases of over 300%. Our mission is to\nbe the single source of truth for materials in the waste\nstream, enabling a transparent, traceable, and automated\nsupply chain that empowers recyclers to achieve\ntransformative improvements.\n\nWhat we're looking for\n\nJoin us in revolutionizing the way we approach\nsustainability through innovative technology. We're looking\nfor engineers who share our passion for making a positive\nimpact on the environment. If you're excited about building\nimpactful tech from the ground up and being a part of a team\nthat's making a real difference, this role is for you.\n\nResponsibilities\n\n- Design, develop, and maintain new features across Visia's\n  engineering services such as our client-facing web and\n  mobile apps, computer vision pipeline, and IoT software\n- Maintain system reliability by monitoring, debugging, and\n  resolving technical issues to ensure smooth operations\n  across multiple platforms\n- Collaborate with other engineers to write well-documented\n  and maintainable code that supports our mission of\n  building technology for a greener future\n- Participate in cross-functional team meetings and contribute\n  to Visia's overall product roadmap, helping to shape the\n  future of recycling and green tech\n\nWho you are\n\n- You have 1+ years of full-time work experience in Software\n  Engineering and a passion for using technology to drive\n  positive change\n- You have strong programming skills in one or more commonly\n  used programming languages (we use Python, TypeScript, and\n  Go among others)\n- You are familiar with or have experience with any of the\n  following:\n  - Full stack development\n  - Web/Mobile app development and design\n  - UI/UX best practices\n  - Building and scaling data streaming pipelines\n  - Integrating with (ingesting → condensing → conveying) large\n    amounts of data like images, logs, metrics, alerts, etc.\n- Knowledge of MLOps or computer vision techniques is a plus\n- You are comfortable working with at least some of the\n  following technologies and are eager and able to learn\n  others as needed:\n  - Mobile/Frontend development (React / React Native or similar\n    frameworks)\n  - Cloud computing services (Google Cloud Platform, AWS, or\n    Azure)\n  - CI/CD, IaC and containerization tools (Docker, Terraform,\n    Github Actions)\n  - Database languages, tools, and systems (SQL, dbt, Postgres,\n    ClickHouse)\n\nWhat you might work on at Visia\n\n- Building customer-facing applications to facilitate alerting\n  on prohibited items in a material stream\n- Developing internal tooling for remotely monitoring the\n  health of, configuring, and controlling our fleet\n- Accelerating machine learning workflows by optimizing data\n  pipelines and enabling seamless data transfer between edge\n  devices and the cloud\n- Working directly with our customers and product team to\n  build features\n\nBenefits\n\n- Salary: $110,000 - $180,000 + options\n- Health, Vision, Dental + 401(k)\n- Flexible + Unlimited PTO\n- Remote + Asynchronous\n",
+  "skills_required": [
+    "UI/UX"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and maintain new features across Visia's engineering services including client-facing web and mobile apps, computer vision pipeline, and IoT software",
+    "Maintain system reliability by monitoring, debugging, and resolving technical issues across multiple platforms",
+    "Collaborate with other engineers to write well-documented and maintainable code supporting the company's mission",
+    "Participate in cross-functional team meetings and contribute to Visia's overall product roadmap",
+    "Build customer-facing applications to facilitate alerting on prohibited items in material streams",
+    "Develop internal tooling for remote monitoring, configuration, and control of device fleet",
+    "Accelerate machine learning workflows by optimizing data pipelines and enabling seamless data transfer between edge devices and cloud"
+  ],
+  "use_cases": [
+    "Real-time detection and alerting of prohibited items in recycled material streams",
+    "Material audits and automated KPI tracking for recycling processors",
+    "Remote monitoring and control of IoT fleet in recycling facilities",
+    "Optimizing throughput in recycled materials processing (over 300% increase)",
+    "Creating transparent, traceable, and automated supply chain for waste materials"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "ClickHouse",
+    "Docker",
+    "GitHub Actions",
+    "Google Cloud Platform",
+    "MLOps",
+    "Postgres",
+    "React",
+    "React Native",
+    "Terraform",
+    "data streaming pipelines",
+    "dbt"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Go",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "COMPUTER_VISION",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role is primarily a software engineering position\nbuilding web/mobile apps and data pipelines that support the\ncompany's AI-powered computer vision platform. The\ndescription mentions working on client-facing applications\nand optimizing data pipelines rather than directly building,\ntraining, or fine-tuning ML models, which places it in the\nai-support category.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "React",
+      "React Native"
+    ],
+    "databases": [
+      "Postgres",
+      "ClickHouse"
+    ],
+    "data": [
+      "dbt",
+      "data streaming pipelines"
+    ],
+    "cloud": [
+      "Google Cloud Platform",
+      "AWS",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "Terraform",
+      "GitHub Actions",
+      "MLOps"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript",
+      "Go",
+      "SQL"
+    ],
+    "domains": [
+      "computer vision"
+    ],
+    "other": [
+      "UI/UX"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

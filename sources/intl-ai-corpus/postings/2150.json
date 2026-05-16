@@ -1,0 +1,129 @@
+{
+  "job_id": "intl-ai-corpus-2150",
+  "source": "intl-ai-corpus",
+  "source_ref": "8780868",
+  "source_url": "https://builtin.com/job/ai-software-engineer-python-java-india/8780868",
+  "title": "AI Software Engineer (Python/Java) - India",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Zimperium",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "remote",
+  "posted_date": "2026-03-17",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "237 Employees",
+  "company_stage": null,
+  "company_focus": "Enterprise mobile security with ML-based threat defense for\niOS, Android and Windows devices",
+  "industries": [
+    "Machine Learning",
+    "Mobile",
+    "Security"
+  ],
+  "description": "Zimperium® is an industry leader in enterprise mobile\nsecurity, being the first and only company to provide a\ncomplete mobile tcahreat defense system that offers real-\ntime, on device world-class protection against both known\nand unknown next generation of advanced mobile cyberattacks\nand malware.\n\n\n\nOur MTD and award-winning machine learning-based engine\nprotects against device, network, phishing and application\nattacks for IOS, Android and Windows devices, using a non-\nintrusive approach to always protect privacy of users.\n\n\n\nTo reinforce our team of experts, we are seeking a highly\nskilled Software Engineer with strong Java and Python\nexpertise and deep understanding of cloud infrastructure and\ndistributed systems. This role focuses on building scalable\ninfrastructure platforms, automation frameworks, and cloud-\nnative services that support large-scale production\nenvironments.\n\n\n\nThe ideal candidate combines strong coding ability with\ninfrastructure knowledge, enabling them to design reliable\nsystems, automate operational processes, and build internal\ntools that improve platform reliability and efficiency.\n\n\n\nLocation: India (Remote)\n\n\n\nResponsibilities:\n\n\n\nSoftware Development\n\n- Design, develop, and maintain backend services using Java\n  and Python\n- Build scalable microservices and APIs supporting cloud\n  infrastructure platforms\n- Develop automation tools for infrastructure provisioning,\n  monitoring, and operational workflows\n- Write clean, maintainable, and testable code following\n  modern engineering practices\n- Cloud Infrastructure Engineering\n- Work with cloud platforms (AWS, GCP, OCI, or Azure) to\n  design and operate scalable systems\n- Develop automation for infrastructure provisioning,\n  configuration, and deployment\n- Implement Infrastructure-as-Code using tools such as\n  Terraform, Helm, or CloudFormation\n- Build systems that support high availability, resiliency,\n  and performance at scale\n\n Platform & Reliability Engineering\n\n- Build internal tools for monitoring, alerting, and\n  operational observability\n- Improve system reliability through automation and self-\n  healing mechanisms\n- Work closely with SRE and platform teams to reduce\n  operational overhead\n- Implement best practices around security, scalability, and\n  performance\n\n Collaboration\n\n- Collaborate with DevOps, SRE, Security, and Product\n  Engineering teams\n- Participate in design reviews and architecture discussions\n- Contribute to continuous improvement of engineering\n  processes and tooling\n\n\n\nRequirements:\n\n- Strong programming skills in Java and Python\n- Experience building production-grade backend services\n- Deep understanding of cloud infrastructure (AWS, GCP, Azure,\n  or OCI)\n- Experience with containerized environments (Docker,\n  Kubernetes)\n\nInfrastructure & DevOps\n\n- Experience with Infrastructure-as-Code tools (Terraform,\n  Helm, CloudFormation)\n- Strong knowledge of Linux systems and networking\n  fundamentals\n- Experience with CI/CD pipelines and automated deployment\n  systems\n- Understanding of monitoring and observability platforms\n\nSoftware Engineering:\n\n- Experience designing scalable distributed systems\n- Strong understanding of API design and microservices\n  architecture\n- Familiarity with Git-based workflows and modern development\n  practices\n- Experience with unit testing, integration testing, and code\n  reviews\n\n\n\nPreferred Qualifications:\n\n- Experience working in large-scale SaaS environments\n- Knowledge of streaming platforms (Kafka / Kinesis)\n- Experience with data stores such as PostgreSQL,\n  Elasticsearch, Redis\n- Experience building automation tools for SRE or platform\n  engineering\n- Familiarity with security and compliance requirements in\n  cloud environments\n\n\n\n\n\nZimperium is an Equal Opportunity employer. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, sex including sexual\norientation and gender identity, national origin,\ndisability, protected veteran status, or any other\ncharacteristic protected by applicable federal, state, or\nlocal law.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and maintain backend services using Java and Python",
+    "Build scalable microservices and APIs supporting cloud infrastructure platforms",
+    "Develop automation tools for infrastructure provisioning, monitoring, and operational workflows",
+    "Design and operate scalable systems on cloud platforms (AWS, GCP, OCI, Azure)",
+    "Implement Infrastructure-as-Code using Terraform, Helm, or CloudFormation",
+    "Build internal tools for monitoring, alerting, and operational observability",
+    "Improve system reliability through automation and self-healing mechanisms",
+    "Collaborate with DevOps, SRE, Security, and Product Engineering teams"
+  ],
+  "use_cases": [
+    "Mobile threat defense and cybersecurity protection",
+    "Enterprise security platform infrastructure",
+    "Real-time on-device protection against mobile cyberattacks and malware",
+    "Cloud infrastructure automation and platform reliability",
+    "Scalable backend services for security applications"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "CloudFormation",
+    "Docker",
+    "Elasticsearch",
+    "GCP",
+    "Helm",
+    "Kafka",
+    "Kinesis",
+    "Kubernetes",
+    "Linux",
+    "OCI",
+    "PostgreSQL",
+    "REST APIs",
+    "Redis",
+    "Terraform",
+    "microservices"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building scalable infrastructure\nplatforms, automation frameworks, and cloud-native services\nthat support production environments. While the company uses\nML for mobile threat detection, the role itself involves\nbackend development, cloud infrastructure, and platform\nreliability - not working directly on ML models or AI\nsystems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "microservices",
+      "REST APIs"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Elasticsearch",
+      "Redis"
+    ],
+    "data": [
+      "Kafka",
+      "Kinesis"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "OCI"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Helm",
+      "CloudFormation",
+      "CI/CD",
+      "Linux"
+    ],
+    "languages": [
+      "Java",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:55+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

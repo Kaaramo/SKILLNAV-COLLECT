@@ -1,0 +1,46 @@
+company:
+  name: Admiral Digital Consulting
+  stage: null
+  focus: null
+position:
+  title: Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: Title explicitly indicates AI/ML engineering role
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml:
+    - machine learning
+    - pytorch
+    - scikit-learn
+    - tensorflow
+    - xgboost
+    web: []
+    databases: []
+    data:
+    - data warehouse
+    - numpy
+    - pandas
+    - redshift
+    - spark
+    cloud:
+    - s3
+    ops:
+    - kubernetes
+    languages:
+    - java
+    - python
+    - R
+    domains: []
+    other:
+    - consulting
+    - PySpark
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4296040958'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

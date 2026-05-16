@@ -1,0 +1,157 @@
+{
+  "job_id": "intl-ai-corpus-1401",
+  "source": "intl-ai-corpus",
+  "source_ref": "8440419",
+  "source_url": "https://builtin.com/job/applied-ai-engineer-automation/8440419",
+  "title": "Applied AI Engineer (Automation)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Fusemachines",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "remote",
+  "posted_date": "2026-02-09",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "428 Employees",
+  "company_stage": "Established (founded 2013, 450+ employees)",
+  "company_focus": "AI strategy, talent, education services and enterprise AI\nproducts",
+  "industries": [],
+  "description": "About Fusemachines\n\nFusemachines is a leading AI strategy, talent, and education\nservices provider. Founded by Sameer Maskey Ph.D., Adjunct\nAssociate Professor at Columbia University, Fusemachines has\na core mission of democratizing AI. With a presence in 4\ncountries (Nepal, the United States, Canada, and the\nDominican Republic) and more than 450 full-time employees,\nFusemachines brings global AI expertise to transform\ncompanies worldwide. Founded in 2013, Fusemachines is a\nglobal provider of enterprise AI products and services, on a\nmission to democratize AI. Leveraging proprietary AI Studio\nand AI Engines, the company helps drive the clients’ AI\nEnterprise Transformation, regardless of where they are in\ntheir Digital AI journeys. With offices in North America,\nAsia, and Latin America, Fusemachines provides a suite of\nenterprise AI offerings and specialty services that allow\norganizations of any size to implement and scale AI.\nFusemachines serves companies in industries such as retail,\nmanufacturing, and government.\n\nFusemachines continues to actively pursue the mission of\ndemocratizing AI for the masses by providing high-quality AI\neducation in underserved communities and helping\norganizations achieve their full potential with AI.\n\nType: Remote, Full-timeRole Overview\n\nAs an Applied AI Engineer(Automation), you will deliver\nhigh-impact AI and automation solutions for clients—owning\nwork from requirements discovery through prototype and\nproduction deployment. You’ll build reliable, maintainable\nsystems that integrate LLMs into real business workflows via\nAPIs, automation platforms, and backend services.\n\nThis is a mid-to-senior individual contributor role. You’ll\ncollaborate closely with Solutions Architects,\nDelivery/Engagement leads, and Product Managers to scope,\nbuild, ship, and iterate on client solutions.\n\nKey Responsibilities\n\n- Design & Deploy: Design, develop, and deploy tailored AI and\n  automation solutions aligned to client objectives.\n- Build Workflows & Services: Translate business problems into\n  production-grade AI workflows and services using Python,\n  automation tools (n8n/Make/Zapier or similar), and LLM\n  platforms/APIs (e.g., OpenAI, IBM watsonx.ai, Amazon\n  Bedrock), plus retrieval systems.\n- Agentic Systems: Build and deploy agentic workflows using\n  LangChain, LangGraph, and Google ADK, including tool\n  calling and structured outputs.\n- Retrieval & Knowledge Systems: Implement RAG pipelines using\n  vector databases and search technologies (e.g., Pinecone,\n  Elasticsearch, pgvector) and graph databases when\n  appropriate.\n- Prototype → Production: Ship fast prototypes, then harden\n  them into scalable systems (testing, reliability,\n  deployment, monitoring) independently or with a team.\n- Client Partnership: Participate in discovery, run technical\n  calls/demos when needed, and communicate tradeoffs clearly\n  to client and internal stakeholders.\n- Ongoing Support & Iteration: Improve deployed solutions\n  through feature work, bug fixes, monitoring, prompt/model\n  improvements, and additional automations.\n- Documentation: Produce clear technical documentation, client\n  demos, and internal playbooks to enable reuse and\n  scalability.\n- Continuous Learning: Stay current on LLM tooling and\n  delivery best practices to improve quality and speed.\n\nSuccess in This Role Looks Like\n\n- Solutions consistently meet or exceed client expectations\n  and show measurable impact (time saved, cost reduced,\n  improved conversion/deflection, faster cycle time).\n- Clients trust you as a go-to engineering partner and expand\n  usage of deployed AI workflows.\n- Deliveries are production-ready: monitored, testable,\n  documented, and maintainable.\n\nRequired Qualifications\n\n- 3–8 years of software or AI engineering experience (mid-to-\n  senior).\n- 2–3+ years of AI Automation, Generative AI, or Agentic AI\n  (mid-to-senior).\n- Strong Python engineering skills and experience building\n  APIs/services (e.g., FastAPI).\n- Hands-on experience integrating LLMs (e.g., OpenAI APIs or\n  equivalents), including prompt design, structured outputs,\n  and basic evaluation practices.\n- Experience with at least one workflow automation platform\n  (n8n, Make, Zapier, or similar) and building reliable\n  integrations.\n- Familiarity with RAG fundamentals and retrieval systems\n  (embeddings, vector search); exposure to vector databases\n  and/or Elasticsearch.\n- Production engineering fundamentals: Docker, cloud\n  deployment (AWS/GCP/Azure/IBM), and experience with\n  async/queuing patterns (e.g., Celery, Redis, Kafka).\n- Comfort operating in a client-facing environment: technical\n  calls, demos, and collaborating with cross-functional\n  stakeholders.\n\nPreferred Qualifications\n\n- Experience with fine-tuning LLMs or other ML models; broader\n  ML exposure is a plus (not required).\n- Familiarity with observability and tracing (e.g., LangSmith,\n  OpenTelemetry) and prompt/version lifecycle management.\n- Experience with graph databases / knowledge graphs.\n- Familiarity with data governance and AI governance concepts\n  (PII handling, auditability, access controls, risk\n  awareness).\n- Prior consulting experience or work in fast-paced startup\n  environments.\n\nFusemachines is an Equal Opportunities Employer, committed\nto diversity and inclusion. All qualified applicants will\nreceive consideration for employment without regard to race,\ncolor, religion, sex, sexual orientation, gender identity,\nnational origin, disability, or any other characteristic\nprotected by applicable federal, state, or local laws.\n",
+  "skills_required": [
+    "Amazon Bedrock",
+    "Google ADK",
+    "IBM watsonx.ai",
+    "LangChain",
+    "LangGraph",
+    "Make",
+    "OpenAI APIs",
+    "RAG",
+    "Zapier",
+    "agentic workflows",
+    "fine-tuning LLMs",
+    "n8n",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, develop, and deploy tailored AI and automation solutions aligned to client objectives",
+    "Build production-grade AI workflows and services using Python, automation tools, and LLM platforms/APIs",
+    "Build and deploy agentic workflows using LangChain, LangGraph, and Google ADK with tool calling and structured outputs",
+    "Implement RAG pipelines using vector databases (Pinecone, pgvector), Elasticsearch, and graph databases",
+    "Ship prototypes and harden them into scalable production systems with testing, monitoring, and deployment",
+    "Participate in client discovery, run technical calls/demos, and communicate technical tradeoffs",
+    "Improve deployed solutions through feature work, bug fixes, monitoring, and prompt/model improvements",
+    "Produce clear technical documentation, client demos, and internal playbooks"
+  ],
+  "use_cases": [
+    "Enterprise AI transformation and workflow automation",
+    "Client-facing AI solution deployment across industries (retail, manufacturing, government)",
+    "Agentic workflow automation for business processes",
+    "Knowledge retrieval and RAG-based systems",
+    "Business workflow automation via APIs and automation platforms"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Celery",
+    "Docker",
+    "Elasticsearch",
+    "FastAPI",
+    "GCP",
+    "Kafka",
+    "LangSmith",
+    "OpenTelemetry",
+    "Pinecone",
+    "Redis",
+    "graph databases",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "Amazon Bedrock",
+    "Google ADK",
+    "IBM watsonx.ai",
+    "LangChain",
+    "LangGraph",
+    "OpenAI APIs",
+    "RAG",
+    "agentic workflows",
+    "fine-tuning LLMs",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building and deploying AI\nsystems including LLM integrations, agentic workflows with\nLangChain/LangGraph, and RAG pipelines. The engineer owns\nthe full lifecycle from prototype to production, working\nhands-on with models and AI infrastructure for client\nsolutions.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "Google ADK",
+      "OpenAI APIs",
+      "IBM watsonx.ai",
+      "Amazon Bedrock",
+      "RAG",
+      "prompt engineering",
+      "agentic workflows"
+    ],
+    "ml": [
+      "fine-tuning LLMs"
+    ],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "Pinecone",
+      "pgvector",
+      "Elasticsearch",
+      "Redis",
+      "graph databases"
+    ],
+    "data": [
+      "Celery",
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "Docker",
+      "LangSmith",
+      "OpenTelemetry"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "n8n",
+      "Make",
+      "Zapier"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:48+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

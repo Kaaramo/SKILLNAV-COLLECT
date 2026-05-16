@@ -1,0 +1,130 @@
+{
+  "job_id": "intl-ai-corpus-0076",
+  "source": "intl-ai-corpus",
+  "source_ref": "6909445",
+  "source_url": "https://builtin.com/job/staff-ai-engineer/6909445",
+  "title": "AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Normal Computing",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-20",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "51 Employees",
+  "company_stage": null,
+  "company_focus": "Foundational software and hardware for semiconductor\nindustry and AI infrastructure",
+  "industries": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Software",
+    "Semiconductor"
+  ],
+  "description": "Normal Computing | Incredible Opportunities\n\nThe Normal Team builds foundational software and hardware\nthat help move technology forward - supporting the\nsemiconductor industry, critical AI infrastructure, and the\nbroader systems that power our world. We work as one team\nacross New York, San Francisco, Copenhagen, Seoul, and\nLondon. Your Role in Our Mission:\n\nWe are looking for an AI Engineer to build production\nsystems that understand large technical documents - like\nchip design specifications - and turn them into code. You'll\nship real improvements to customers weekly while pushing the\nboundaries of what's possible in AI for hardware through\nreinforcement learning, agentic coding, and exceptional\nsoftware engineering.\n\nResponsibilities:\n\n- Lead end-to-end AI development from initial concept through\n  production deployment and iteration.\n- Design and implement LLM-powered solutions that extract\n  meaning from complex technical specifications.\n- Handle multi-modal complexity and explore multi‑agent and RL\n  approaches for agentic code generation and tool‑use.\n- Design strategies to manage latency, output variance, and\n  graceful error handling at scale.\n- Collaborate with product and engineering teams to embed AI\n  capabilities seamlessly into our platform.\n- Guide junior engineers and establish best practices for AI\n  development\n\nWhat Makes You A Great Fit:\n\n- Previous experience delivering production AI systems\n  involving language models, preferably involving document\n  understanding and/or agentic workflows.\n- Solid software engineering skills with experience in\n  distributed systems and production-grade code.\n- Proficiency in Python and modern ML frameworks (PyTorch,\n  Hugging Face, transformers.)\n- Hands-on experience with prompt engineering, fine-tuning,\n  and deploying large language models.\n- Ability to wrangle, clean, and preprocess large-scale,\n  heterogeneous datasets.\n- Understanding of AI safety, bias mitigation, and ethical\n  considerations.\n- Ability to explain complex AI concepts to both technical and\n  non-technical stakeholders.\n\nBonus Points For:\n\n- Experience deploying AI systems in mission-critical or high-\n  stakes production environments.\n- Experience with cloud platforms (AWS, GCP, Azure) for large-\n  scale AI infrastructure.\n- Research or applied experience with LLM agents, RL\n  (offline/online, RLHF/RLAIF), constrained decoding, or\n  program synthesis.\n- Open-source contributions or publications in AI/ML venues.\n- Skill in balancing cutting-edge innovation with production\n  reliability and pragmatism.\n\nEqual Employment Opportunity Statement\n\nNormal Computing is an Equal Opportunity Employer. We\ncelebrate diversity and are committed to creating an\ninclusive environment for all employees. All qualified\napplicants will receive consideration for employment without\nregard to race, color, religion, sex, sexual orientation,\ngender identity, national origin, disability, veteran\nstatus, or any other legally protected status.\n\nAccessibility Accommodations\n\nNormal Computing is committed to providing reasonable\naccommodations to individuals with disabilities. If you need\nassistance or an accommodation due to a disability, please\nlet us know at accomodations@normalcomputing.ai.\n\nPrivacy Notice\n\nBy submitting your application, you agree that Normal\nComputing may collect, use, and store your personal\ninformation for employment-related purposes in accordance\nwith our Privacy Policy.\n",
+  "skills_required": [
+    "Hugging Face",
+    "LLMs",
+    "PyTorch",
+    "Reinforcement Learning",
+    "agentic workflows",
+    "document understanding",
+    "fine-tuning",
+    "multi-agent systems",
+    "prompt engineering",
+    "transformers"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Lead end-to-end AI development from initial concept through production deployment and iteration",
+    "Design and implement LLM-powered solutions that extract meaning from complex technical specifications",
+    "Handle multi-modal complexity and explore multi-agent and RL approaches for agentic code generation and tool-use",
+    "Design strategies to manage latency, output variance, and graceful error handling at scale",
+    "Collaborate with product and engineering teams to embed AI capabilities seamlessly into our platform",
+    "Guide junior engineers and establish best practices for AI development"
+  ],
+  "use_cases": [
+    "Convert large technical documents like chip design specifications into code",
+    "Extract meaning from complex technical specifications using LLMs",
+    "Agentic code generation and tool-use for hardware design",
+    "Document understanding for semiconductor industry applications"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "distributed systems"
+  ],
+  "frameworks_mentioned": [
+    "Hugging Face",
+    "LLMs",
+    "PyTorch",
+    "Reinforcement Learning",
+    "agentic workflows",
+    "document understanding",
+    "fine-tuning",
+    "multi-agent systems",
+    "prompt engineering",
+    "transformers"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS",
+    "REINFORCEMENT_LEARNING"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building LLM-powered\nsolutions, implementing multi-agent systems for agentic code\ngeneration, fine-tuning language models, and using\nreinforcement learning for production systems. This is core\nAI/ML development work, not supporting infrastructure.",
+  "is_customer_facing": true,
+  "is_management": true,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "prompt engineering",
+      "fine-tuning",
+      "multi-agent systems",
+      "agentic workflows",
+      "document understanding"
+    ],
+    "ml": [
+      "Reinforcement Learning",
+      "PyTorch",
+      "Hugging Face",
+      "transformers"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "distributed systems"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

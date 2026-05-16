@@ -1,0 +1,124 @@
+{
+  "job_id": "intl-ai-corpus-2006",
+  "source": "intl-ai-corpus",
+  "source_ref": "8692226",
+  "source_url": "https://builtin.com/job/senior-platform-engineer-infrastructure-ai/8692226",
+  "title": "Senior Platform Engineer, Infrastructure & AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Blackbird Labs",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-09",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "0 Employees",
+  "company_stage": "Seed",
+  "company_focus": "Loyalty and payments platform for restaurants connecting\nthem with customers",
+  "industries": [],
+  "description": "About Blackbird:\n\nBlackbird Labs is a loyalty and payments platform\nestablishing meaningful connections between the world’s best\nrestaurants and their customers.\n\nServed up in 2022 by Ben Leventhal, co-founder of Eater and\nResy, Blackbird offers a fully customizable loyalty\nprogramming platform for restaurants and a consumer app\ndesigned to make every guest feel like a bonafide VIP no\nmatter where they dine. Backed by Union Square Ventures,\na16z, Amex Ventures, Variant Fund, and other forward-\nthinking investors, Blackbird is out to revolutionize the\nrestaurant industry.\n\nAbout Our Team:\n\nAt Blackbird, our values guide everything we do and our\ntalent principles define the key traits we seek in our\nemployees.\n\nWe have passion for our product – committed to our mission\nand instinctively think like and go the extra mile for our\ncustomers. We are elite performers – striving for\nexcellence, going above and beyond to achieve exceptional\nresults, and learning quickly with horsepower, drive, and\ngrit. We make others better – taking initiative to elevate\nothers, giving and receiving feedback, and championing a\nculture of growth. We hold one another accountable to living\nout our talent principles as we march together to achieving\nour mission.\n\nAbout the Job\n\nBlackbird is looking for a Senior Platform Engineer to own\nthe platforms and tooling that make our engineering team\nfast, reliable, and AI-augmented. You'll be responsible for\nthe infrastructure powering APIs that handle payments,\nloyalty, and blockchain transactions for thousands of\nrestaurants, as well as the developer experience layer that\nhelps our engineers ship with confidence every day.\n\nThis is a high-leverage role. You'll own our AWS\ninfrastructure, CI/CD pipelines, observability stack, and\nthe emerging AI-assisted development workflows that are\nbecoming core to how we build software. You'll act as both a\ntechnical owner and a multiplier: shipping platforms that\nkeep production humming while accelerating the velocity of\nevery engineer on the team.\n\n\n\nResponsibilities\n\n- Own and evolve our AWS infrastructure (Terraform)\n- Maintain and improve CI/CD pipelines\n- Drive observability across the platform, keeping systems\n  performant where it matters most\n- Build and expand AI-assisted developer workflows; you'll own\n  this surface area\n- Remove friction from shipping: local dev environments,\n  Gradle optimization, build caching, and whatever else is\n  slowing us down\n- Push for the right technical investments at the right time;\n  we're moving fast and the landscape keeps changing\n\n\n\nRequirements\n\n- 5+ years building and operating production systems on AWS\n- Strong Terraform proficiency\n- Hands-on experience with container orchestration (ECS\n  Fargate or similar), CI/CD design, and deployment\n  automation\n- Comfortable in the JVM ecosystem: Spring Boot, Gradle, JVM\n  tuning; Kotlin expertise not required\n- Working knowledge of PostgreSQL operations and performance\n- Experience with observability tooling (Datadog, CloudWatch,\n  PagerDuty, or equivalent)\n- Python or Bash for scripting and automation\n- High ownership instincts; this is a small team, scope is\n  fluid, and production will occasionally need your\n  attention\n\nNice to Haves\n\n- You actively use AI coding agents (Claude Code, Copilot,\n  Cursor) and have opinions about what actually works\n- Experience with blockchain infrastructure, web3 systems, or\n  HashiCorp Vault\n- Background building developer platforms or internal tooling\n  other engineers rely on daily\n\n Pay Transparency Notice & Benefits\n\nDepending on your work location and experience the target\nannual salary for this position can range from:\n$180,000-$220,000 USD. Disclosure in accordance with New\nYork City's Pay Transparency Law.\n\nFull time offers from Blackbird may also include stock\noptions, benefits (including medical, dental, vision,\nflexible time off, 401(k)), and some not-so-standard, extra-\nfun perks — subject to applicable taxes and based on\neligibility.\n\nCommitment to Equal Opportunity\n\nBlackbird Labs is committed to diversity in its workforce\nand is proud to be an Equal Opportunity Employer. All\nqualified applicants will receive consideration for\nemployment without regard to race, color, religion, creed,\ngender, national origin, age, disability, veteran status,\nsex, gender expression or identity, sexual orientation or\nany other basis protected by applicable law. Blackbird will\nalso consider for employment qualified applicants with\ncriminal histories in a manner consistent with applicable\nlaw. For US applicants, you may view the Know Your Rights\nnotice here. Additionally, Blackbird participates in the\nE-Verify program.\n\nJoin us and find out what the best work of your career could\nlook like here at Blackbird.\n",
+  "skills_required": [
+    "Claude Code",
+    "Cursor",
+    "GitHub Copilot",
+    "blockchain infrastructure"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and evolve AWS infrastructure using Terraform",
+    "Maintain and improve CI/CD pipelines for deployment automation",
+    "Drive observability across the platform using monitoring tools like Datadog and CloudWatch",
+    "Build and expand AI-assisted developer workflows and tooling",
+    "Optimize developer experience including local dev environments, Gradle optimization, and build caching",
+    "Push for strategic technical investments and infrastructure improvements"
+  ],
+  "use_cases": [
+    "Restaurant loyalty program management and payments processing",
+    "Blockchain transaction infrastructure for restaurant industry",
+    "Developer productivity and AI-assisted coding workflows",
+    "API infrastructure handling payments and loyalty at scale"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "CloudWatch",
+    "Datadog",
+    "ECS Fargate",
+    "Gradle",
+    "HashiCorp Vault",
+    "PagerDuty",
+    "PostgreSQL",
+    "Spring Boot",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "Claude Code",
+    "Cursor",
+    "GitHub Copilot"
+  ],
+  "languages_programming": [
+    "Bash",
+    "JVM",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This is a platform/infrastructure engineering role that\ninvolves building AI-assisted developer workflows and\ntooling, but NOT building or deploying actual AI/ML models.\nThe role supports engineers who may work on AI features, and\ninvolves using AI coding agents as tools, but the core work\nis infrastructure and developer experience, not hands-on AI\nsystem development.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude Code",
+      "GitHub Copilot",
+      "Cursor"
+    ],
+    "ml": [],
+    "web": [
+      "Spring Boot"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "CloudWatch",
+      "ECS Fargate"
+    ],
+    "ops": [
+      "Terraform",
+      "CI/CD",
+      "Datadog",
+      "Gradle",
+      "PagerDuty",
+      "HashiCorp Vault"
+    ],
+    "languages": [
+      "JVM",
+      "Python",
+      "Bash"
+    ],
+    "domains": [],
+    "other": [
+      "blockchain infrastructure"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

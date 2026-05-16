@@ -1,0 +1,32 @@
+company:
+  name: Altus Group
+  stage: null
+  focus: null
+position:
+  title: Associate Analyst- Data Solutions
+  ai_type:
+    type: non-ai
+    reasoning: No strong AI/ML signal detected; defaulted to non-ai
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - Ability to take initiative and be resourceful.
+    - Ability to work in a team and independently
+    - Excellent time management skills
+    - Self-motivated with a high degree of integrity, honesty, and ethics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '1010103272816'
+  extracted_at: '2026-05-16T01:27:46+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

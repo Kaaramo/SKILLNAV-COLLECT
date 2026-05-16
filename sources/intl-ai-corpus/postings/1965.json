@@ -1,0 +1,149 @@
+{
+  "job_id": "intl-ai-corpus-1965",
+  "source": "intl-ai-corpus",
+  "source_ref": "8668175",
+  "source_url": "https://builtin.com/job/senior-agentic-ai-engineer/8668175",
+  "title": "Senior Agentic AI Engineer",
+  "title_normalized": "GENAI_LLM_ENGINEER",
+  "company": "Zeta Global",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-20",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "2,429 Employees",
+  "company_stage": "Public",
+  "company_focus": "AI-powered marketing cloud platform for customer acquisition\nand retention",
+  "industries": [
+    "AdTech",
+    "Artificial Intelligence",
+    "Marketing Tech",
+    "Software",
+    "Analytics"
+  ],
+  "description": "WHO WE ARE\n\nZeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud\nthat leverages advanced artificial intelligence (AI) and\ntrillions of consumer signals to make it easier for\nmarketers to acquire, grow, and retain customers more\nefficiently. Through the Zeta Marketing Platform (ZMP), our\nvision is to make sophisticated marketing simple by unifying\nidentity, intelligence, and omnichannel activation into a\nsingle platform – powered by one of the industry’s largest\nproprietary databases and AI. Our enterprise customers\nacross multiple verticals are empowered to personalize\nexperiences with consumers at an individual level across\nevery channel, delivering better results for marketing\nprograms. Zeta was founded in 2007 by David A. Steinberg and\nJohn Sculley and is headquartered in New York City with\noffices around the world. To learn more, go to\nwww.zetaglobal.com.\n\nRole Snapshot\n\nWe’re hiring a hands-on Agentic AI engineer to build bidder-\nadjacent agents that improve campaign performance using RAG\n+ tool-using workflows in a closed-loop ACE (Observe →\nReason → Act → Evaluate). This is not a classic “train a\nmodel and deploy it” role—this is agentic decisioning +\nevaluation + safety in a low-latency AdTech environment.\n\nWhat You’ll Do\n\n- Build bidder-adjacent agentic workflows that\n  recommend/execute campaign control actions (targeting\n  constraints, budget & pacing levers, bid modifiers,\n  supply/inventory selection, creative routing).\n\n- Implement production-grade RAG: retrieval from\n  policies/playbooks, campaign history, aggregates, and\n  near-real-time telemetry; optimize grounding and reduce\n  hallucinations.\n\n- Create safe tool/action interfaces: idempotent execution,\n  audit logs, dry-run + approval gates, rate limits,\n  rollback/fallback behaviors.\n\n- Own AgentOps: eval harnesses, regression suites, online\n  experimentation (A/B), metrics tied to outcomes (CPA/ROAS,\n  pacing, quality, margin).\n\n- Add observability end-to-end (tracing prompts/retrieval/tool\n  calls/latency) and reliability patterns (timeouts, circuit\n  breakers, safe defaults).\n\n- Partner with Backend/Bidding, Data Platform,\n  DS/Optimization, Product, and SRE to define the boundary\n  between deterministic per-request bidding and agent-driven\n  control-plane decisions.\n\nMust-Have Qualifications\n\n- 5+ years building production backend and/or applied AI\n  systems (design → ship → operate).\n\n- Strong engineering in Java or Go (Python OK for\n  evals/tooling).\n\n- Hands-on experience with LLMs and agentic patterns (tool\n  use, structured outputs, multi-step loops).\n\n- Hands-on RAG experience (embeddings, hybrid retrieval,\n  reranking, chunking, context assembly).\n\n- Experience building evals and monitoring for AI systems\n  (offline benchmarks + online experiments).\n\n- Cloud + distributed systems fundamentals (APIs,\n  microservices, streaming/eventing; AWS preferred).\n\nNice-to-Have\n\n- Programmatic advertising (DSP/SSP/RTB) or other high-scale\n  real-time decisioning domains.\n\n- Experience with safety/policy enforcement for agent tools\n  (prompt/tool sanitization, allowlists, schema validation).\n\n- Experience designing “AI control plane” systems that\n  influence production outcomes while keeping serving paths\n  stable.\n\n- Familiarity with experimentation platforms, feature stores,\n  and large-scale telemetry pipelines.\n\nKeywords (for sourcing)\n\nAgentic AI, RAG, LLM tool use, bid optimization, pacing,\ntargeting, control plane, evals, observability, RTB/DSP,\nJava/Go, AWS, streaming telemetry\n\nBENEFITS & PERKS\n\n- Unlimited PTO\n- Excellent medical, dental, and vision coverage\n- Employee Equity\n- Employee Discounts, Virtual Wellness Classes, and Pet\n  Insurance And more!!\n\nSALARY RANGE\n\nThe salary range for this role is $150,000 - $180,000,\ndepending on location and experience.\n\nPEOPLE & CULTURE AT ZETA\n\nZeta considers applicants for employment without regard to,\nand does not discriminate on the basis of an individual’s\nsex, race, color, religion, age, disability, status as a\nveteran, or national or ethnic origin; nor does Zeta\ndiscriminate on the basis of sexual orientation, gender\nidentity or expression.\n\nWe’re committed to building a workplace culture of trust and\nbelonging, so everyone feels invited to bring their whole\nselves to work. We provide a forum for employees to\ncelebrate, support and advocate for one another. Learn more\nabout our commitment to diversity, equity and inclusion\nhere:  https://zetaglobal.com/blog/a-look-into-zetas-ergs/\n\nZETA IN THE NEWS!\n\nhttps://zetaglobal.com/press/?cat=press-releases\n\n#LI-YW1\n",
+  "skills_required": [
+    "Agentic patterns",
+    "Embeddings",
+    "Feature stores",
+    "Hybrid retrieval",
+    "LLM tool use",
+    "Multi-step agent loops",
+    "Prompt engineering",
+    "RAG",
+    "Reranking",
+    "Structured outputs"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build bidder-adjacent agentic workflows that recommend and execute campaign control actions including targeting, budget, bidding, and creative decisions",
+    "Implement production-grade RAG systems with retrieval from policies, campaign history, and real-time telemetry while optimizing grounding and reducing hallucinations",
+    "Create safe tool and action interfaces with idempotent execution, audit logs, approval gates, rate limits, and rollback behaviors",
+    "Own AgentOps including evaluation harnesses, regression suites, A/B testing, and outcome metrics (CPA/ROAS, pacing, quality, margin)",
+    "Add end-to-end observability for tracing prompts, retrieval, tool calls, and latency plus reliability patterns like timeouts and circuit breakers",
+    "Partner with cross-functional teams to define boundaries between deterministic bidding and agent-driven control-plane decisions"
+  ],
+  "use_cases": [
+    "Real-time bid optimization and campaign performance improvement through agentic decisioning",
+    "Automated campaign control including targeting constraints, budget pacing, and bid modifications",
+    "Programmatic advertising optimization in low-latency DSP/RTB environments",
+    "Intelligent creative routing and supply/inventory selection",
+    "Marketing campaign personalization and performance optimization"
+  ],
+  "tools_mentioned": [
+    "A/B testing",
+    "APIs",
+    "AWS",
+    "Distributed systems",
+    "Experimentation platforms",
+    "Microservices",
+    "Observability and monitoring",
+    "Streaming/Eventing",
+    "Telemetry pipelines"
+  ],
+  "frameworks_mentioned": [
+    "Agentic patterns",
+    "Embeddings",
+    "Feature stores",
+    "Hybrid retrieval",
+    "LLM tool use",
+    "Multi-step agent loops",
+    "Prompt engineering",
+    "RAG",
+    "Reranking",
+    "Structured outputs"
+  ],
+  "languages_programming": [
+    "Go",
+    "Java",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "GENAI_LLM_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is directly building and deploying agentic AI\nsystems with RAG, tool-using workflows, and closed-loop\ndecisioning (Observe → Reason → Act → Evaluate). The\nengineer will implement production-grade AI agents that make\nreal-time decisions in an AdTech environment, including\nbuilding eval harnesses, safety patterns, and agent-driven\ncontrol-plane systems.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "LLM tool use",
+      "Agentic patterns",
+      "Structured outputs",
+      "Multi-step agent loops",
+      "Embeddings",
+      "Hybrid retrieval",
+      "Reranking",
+      "Prompt engineering"
+    ],
+    "ml": [
+      "Feature stores"
+    ],
+    "web": [
+      "APIs",
+      "Microservices"
+    ],
+    "databases": [],
+    "data": [
+      "Streaming/Eventing",
+      "Telemetry pipelines"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Distributed systems",
+      "A/B testing",
+      "Observability and monitoring",
+      "Experimentation platforms"
+    ],
+    "languages": [
+      "Java",
+      "Go",
+      "Python"
+    ],
+    "domains": [
+      "Programmatic advertising",
+      "DSP/SSP/RTB"
+    ],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

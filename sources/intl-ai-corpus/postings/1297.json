@@ -1,0 +1,156 @@
+{
+  "job_id": "intl-ai-corpus-1297",
+  "source": "intl-ai-corpus",
+  "source_ref": "8383991",
+  "source_url": "https://builtin.com/job/gen-ai-python-developer-assistant-vice-president/8383991",
+  "title": "Gen AI Python Developer - Assistant Vice President",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Citi",
+  "company_type": "entité morale privée",
+  "location": "Pune, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-02-23",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "223,850 Employees",
+  "company_stage": "Public",
+  "company_focus": "Global bank providing financial services",
+  "industries": [
+    "Fintech",
+    "Financial Services"
+  ],
+  "description": "Why We Need You:\n\nOur team is at the forefront of building AI-powered\ndeveloper tools that transform how engineering teams work\nacross Citi. From release automation and CI/CD modernization\nto source control migrations (BitBucket to GitHub\nEnterprise) and innovative AI utilities, we are solving\ncomplex challenges at scale. As we expand our portfolio of\ntools, we need a skilled Python developer who can build\nrobust backend services, integrate cutting-edge AI\ncapabilities, and collaborate closely with users to drive\nadoption. Your work will directly impact thousands of\ndevelopers across Citi, helping them modernize their\nworkflows, automate repetitive tasks, and leverage AI to\nboost productivity.\n\nAbout the Role:\n\nWe are seeking a Senior Python Developer to own and maintain\nAI-powered developer tools across multiple domains including\nrelease automation, source control migration, CI/CD\nmodernization, and AI innovation. You will work on backend\nservices that leverage Generative AI to automate complex\nworkflows, configuration transformations, and code\ngeneration. Beyond development, you will actively\ncollaborate with users and encourage adoption of these tools\nacross the organization.\n\nKey Responsibilities:\n\n- Own and maintain Python-based services built with FastAPI\n  and Uvicorn across multiple tool domains.\n- Develop AI-powered features for release automation,\n  migration utilities (e.g., BitBucket to GitHub\n  Enterprise), and developer productivity tools.\n- Integrate with LLM/Gen AI services for intelligent code\n  analysis, transformation, and automation.\n- Build and maintain REST APIs that serve frontend\n  applications and integrate with enterprise systems.\n- Work with databases (MongoDB, PostgreSQL, or similar) for\n  storing and querying metadata.\n- Proactively identify, assess, and remediate CVEs/CVMs in\n  Python dependencies, ensuring timely resolution.\n- Implement async/await patterns for efficient API handling\n  and rate limiting strategies.\n- Write and maintain unit tests using pytest and perform load\n  testing with Locust.\n- Support Kubernetes/Helm-based deployments across DEV, UAT,\n  COB, and PROD environments.\n- Collaborate with engineering teams to understand their needs\n  and gather feedback for tool improvements.\n- Actively encourage and support users in adopting AI-powered\n  tools through demos, office hours, and hands-on\n  assistance.\n- Contribute to AI innovation initiatives, exploring new use\n  cases and proof-of-concepts.\n- Ensure code quality through Black, isort, and SonarQube\n  compliance.\n\nRequired Skills:\n\n- 5-6 years of professional experience in Python development.\n- Strong proficiency in FastAPI or similar async web\n  frameworks (Flask, Django REST).\n- Experience with asynchronous programming (asyncio,\n  async/await patterns).\n- Solid understanding of RESTful API design and\n  implementation.\n- Experience with NoSQL or relational databases (MongoDB,\n  PostgreSQL, or similar).\n- Familiarity with LLM/Gen AI integration concepts and\n  willingness to innovate with AI.\n- Experience with template engines (Jinja2) for code/config\n  generation.\n- Proficiency in YAML/JSON processing.\n- Experience with containerization (Docker) and basic\n  Kubernetes/Helm knowledge.\n- Strong testing skills with pytest.\n- Excellent collaboration and communication skills with\n  ability to work closely with end users.\n- Proactive mindset in encouraging tool adoption and providing\n  user support.\n- Experience with Git version control (GitHub, BitBucket) and\n  PR-based workflows.\n\nPreferred Skills:\n\n- Experience with Google Cloud Platform, Vertex AI, or similar\n  AI/ML platforms.\n- Knowledge of CI/CD concepts, release automation, and DevOps\n  practices.\n- Experience with source control migrations (BitBucket,\n  GitLab, GitHub Enterprise).\n- Familiarity with OIDC/OAuth authentication.\n- Experience with rate limiting and retry patterns for API\n  integrations.\n- Understanding of prompt engineering for LLM applications.\n- Experience conducting technical demos or training sessions.\n\nNice to Have:\n\n- Experience with LLM evaluation frameworks.\n- Hands-on experience with enterprise CI/CD platforms.\n- Experience working in financial services or regulated\n  environments.\n- Passion for AI innovation and exploring emerging\n  technologies.\n- Familiarity with Citi's internal tools and infrastructure.\n\n------------------------------------------------------\n\nJob Family Group:\n\nTechnology\n\n------------------------------------------------------\n\nJob Family:\n\nSystems & Engineering\n\n------------------------------------------------------\n\nTime Type:\n\nFull time\n\n------------------------------------------------------\n\nMost Relevant Skills\n\nPlease see the requirements listed above.\n\n------------------------------------------------------\n\nOther Relevant Skills\n\nFor complementary skills, please see above and/or contact\nthe recruiter.\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified\ncandidates will receive consideration without regard to\ntheir race, color, religion, sex, sexual orientation, gender\nidentity, national origin, disability, status as a protected\nveteran, or any other characteristic protected by law.\n\n\n\nIf you are a person with a disability and need a reasonable\naccommodation to use our search tools and/or apply for a\ncareer opportunity review Accessibility at Citi. View Citi’s\nEEO Policy Statement and the Know Your Rights poster.\n",
+  "skills_required": [
+    "JSON",
+    "Jinja2",
+    "LLM/GenAI integration",
+    "YAML",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own and maintain Python-based services built with FastAPI and Uvicorn across multiple tool domains",
+    "Develop AI-powered features for release automation, migration utilities, and developer productivity tools",
+    "Integrate with LLM/GenAI services for intelligent code analysis, transformation, and automation",
+    "Build and maintain REST APIs that serve frontend applications and integrate with enterprise systems",
+    "Support Kubernetes/Helm-based deployments across DEV, UAT, COB, and PROD environments",
+    "Collaborate with engineering teams to understand their needs and gather feedback for tool improvements",
+    "Encourage and support users in adopting AI-powered tools through demos, office hours, and hands-on assistance",
+    "Contribute to AI innovation initiatives, exploring new use cases and proof-of-concepts"
+  ],
+  "use_cases": [
+    "Release automation and CI/CD modernization for developer workflows",
+    "Source control migration from BitBucket to GitHub Enterprise",
+    "AI-powered code analysis and transformation using LLMs",
+    "Automated configuration transformations and code generation",
+    "Developer productivity tools leveraging Generative AI",
+    "Enterprise developer tool integration and workflow automation"
+  ],
+  "tools_mentioned": [
+    "BitBucket",
+    "Black",
+    "CI/CD",
+    "Django REST",
+    "Docker",
+    "FastAPI",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Google Cloud Platform",
+    "Helm",
+    "Kubernetes",
+    "Locust",
+    "MongoDB",
+    "OAuth",
+    "OIDC",
+    "PostgreSQL",
+    "REST APIs",
+    "SonarQube",
+    "Uvicorn",
+    "Vertex AI",
+    "async/await",
+    "asyncio",
+    "isort",
+    "pytest"
+  ],
+  "frameworks_mentioned": [
+    "LLM/GenAI integration",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves direct integration with LLM/GenAI services\nfor intelligent code analysis, transformation, and\nautomation. The developer will build AI-powered features and\ninnovate with Generative AI capabilities, making this hands-\non work with AI models rather than just supporting\ninfrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM/GenAI integration",
+      "prompt engineering"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Uvicorn",
+      "Flask",
+      "Django REST",
+      "REST APIs",
+      "OIDC",
+      "OAuth"
+    ],
+    "databases": [
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "data": [],
+    "cloud": [
+      "Google Cloud Platform",
+      "Vertex AI"
+    ],
+    "ops": [
+      "asyncio",
+      "async/await",
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "pytest",
+      "Locust",
+      "Black",
+      "isort",
+      "SonarQube",
+      "Git",
+      "GitHub",
+      "BitBucket",
+      "CI/CD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "Jinja2",
+      "YAML",
+      "JSON"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:47+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

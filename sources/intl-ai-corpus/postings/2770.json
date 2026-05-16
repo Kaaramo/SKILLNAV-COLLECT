@@ -1,0 +1,126 @@
+{
+  "job_id": "intl-ai-corpus-2770",
+  "source": "intl-ai-corpus",
+  "source_ref": "9005966",
+  "source_url": "https://builtin.com/job/sr-software-engineer-service-reliability-ai-detection-response/9005966",
+  "title": "Sr. Software Engineer, Service Reliability - AI Detection & Response",
+  "title_normalized": "AI_ENGINEER",
+  "company": "CrowdStrike",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-09",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Cloud-native cybersecurity and threat intelligence platform",
+  "industries": [
+    "Cloud",
+    "Computer Vision",
+    "Information Technology",
+    "Sales",
+    "Security",
+    "Cybersecurity"
+  ],
+  "description": "As a global leader in cybersecurity, CrowdStrike protects\nthe people, processes and technologies that drive modern\norganizations. Since 2011, our mission hasn’t changed —\nwe’re here to stop breaches, and we’ve redefined modern\nsecurity with the world’s most advanced AI-native platform.\nWe work on large scale distributed systems, processing\nalmost 3 trillion events per day and this traffic is growing\ndaily. Our customers span all industries, and they count on\nCrowdStrike to keep their businesses running, their\ncommunities safe and their lives moving forward. We’re also\na mission-driven company. We cultivate a culture that gives\nevery CrowdStriker both the flexibility and autonomy to own\ntheir careers. We’re always looking to add talented\nCrowdStrikers to the team who have limitless passion, a\nrelentless focus on innovation and a fanatical commitment to\nour customers, our community and each other. Ready to join a\nmission that matters? The future of cybersecurity starts\nwith you.\n\nAbout the Role:\n\nAs a Senior(+) Engineer (Typically equivalent to Staff or Sr\nStaff titles in other companies), you'll join this Core\nPlatform Team with bottom-up visibility and ownership with a\nfast-expanding codebase (aimed at AI-based Detection &\nResponse) and a far-reaching edict for service resiliency,\nwith several key feature additions and critical re-\narchitecture initiatives underway: Deployment of core\nservices to several new clouds, modularizing into reusable\ncomponents, improvements to core libraries, frameworks,\nobservability tooling (tracing, profiling, alerting, SLOs\netc), and automation to reduce manual toil in all the above.\n\n\n\nRecently this group introduced adaptive concurrency to our\ncore kafka library which implements flow control to protect\ndatabase performance. In terms of overarching goals, it\nbuilds and maintains the next-generation infrastructure and\nsecurity platform for CrowdStrike which include an\napplication and service delivery platform, massively\nscalable distributed data storage and replication systems,\nand a cutting-edge search and distributed graph system. Help\nus scale CrowdStrike’s infrastructure and products to handle\nmassive growth in traffic and data as we continue to\nexperience dramatic growth in the usage of our products.\n\n\n\nCrowdstrike Falcon is THE industry standard in cloud-native\ncyber security and threat hunting, processing Trillions of\nevents/day. You’ll be positioned for optimal widespread\nimpact with  bottom-up ownership of our core codebase,\ndriving architectural choices that affect every feature\ndevelopment team, providing shared architectural components\nto be leveraged throughout the Falcon Platform (things like\nUnified Search, Protobuf libraries and other shared-tier\narchitectural components).\n\n\n\nWhat You'll Do:\n\n- Develop and maintain services to meet reliability and\n  scalability demands\n- Extend and build new libraries for cross-cutting concerns\n  that comprise/extend to the entirety of CrowdStrike's\n  cloud platform, which consists of hundreds of libraries\n  and services.\n- Constantly re-evaluate our product to improve architecture,\n  knowledge models, user experience, performance and\n  stability.\n- Provide technical leadership and guidance for large-scale\n  architectural changes and complex incident management.\n- Lead initiatives around reliability, scalability,\n  performance, and cost-efficiency in distributed systems.\n- Design and implement automation tools to improve the\n  reliability and efficiency of our infrastructure\n- Develop and enhancement monitoring services.\n- Use and give back to the open source community.\n- Evangelize best practices for building software, especially\n  as pertains to Go.\n- Obsess about learning, and champion the newest technologies\n  & tricks with others, raising the technical IQ of the\n  team.\n- Drive strategic decisions and influence infrastructure and\n  operational improvements across the organization.\n- Brainstorm, define, and build collaboratively with members\n  across multiple teams\n- Be an energetic ‘self-starter’ with the ability to take\n  ownership and be accountable for deliverable.\n\n\n\nWhat You'll Need:\n\n- 7+ years of full-time experience in a service-oriented\n  backend developer role\n- 5+ years developing microservices for a SaaS product, in one\n  of the following object-oriented languages: Golang, Java,\n  Scala, Kotlin, Python, Node.js.\n- Degree in Computer Science (or commensurate experience in\n  data structures/algorithms/distributed systems).\n- Expert-level knowledge of Golang\n- The ability to scale backend systems – sharding,\n  partitioning, scaling horizontally are second nature to\n  you.\n- The desire to ship code and the love of seeing your bits run\n  in production.\n- Deep understanding of distributed systems and scalability\n  challenges.\n- Deep understand multi-threading, concurrency, and parallel\n  processing technologies.\n- Team player skills – we embrace collaborating as a team as\n  much as possible.\n- A thorough understanding of engineering best practices from\n  appropriate testing paradigms to effective peer code\n  reviews and resilient architecture.\n- The ability to thrive in a fast paced, test-driven,\n  collaborative and iterative programming environment.\n- The skills to meet your commitments on time and produce high\n  quality software that is unit tested, code reviewed, and\n  checked in regularly for continuous integration.\n\n\n\nBonus Points:\n\n- Contributions to the open-source community (GitHub, Stack\n  Overflow, blogging).\n- Existing exposure to K8s\n- Existing exposure to AWS, Cassandra, Kafka, Elasticsearch,\n  etc. Prior experience in the cybersecurity or intelligence\n  fields.\n\n#LI-MP1\n\n#HTF\n\nThis role will require the candidate to periodically undergo\nand pass additional background and fingerprint check(s)\nconsistent with government customer requirements.\n\nBenefits of Working at CrowdStrike:\n\n- Market leader in compensation and equity awards\n- Comprehensive physical and mental wellness programs\n- Competitive vacation and holidays for recharge\n- Paid parental and adoption leaves\n- Professional development opportunities for all employees\n  regardless of level or role\n- Employee Networks, geographic neighborhood groups, and\n  volunteer opportunities to build connections\n- Vibrant office culture with world class amenities\n- Great Place to Work Certified™ across the globe\n\nCrowdStrike is proud to be an equal opportunity employer. We\nare committed to fostering a culture of belonging where\neveryone is valued for who they are and empowered to\nsucceed. We support veterans and individuals with\ndisabilities through our affirmative action program.\n\nCrowdStrike is committed to providing equal employment\nopportunity for all employees and applicants for employment.\nThe Company does not discriminate in employment\nopportunities or practices on the basis of race, color,\ncreed, ethnicity, religion, sex (including pregnancy or\npregnancy-related medical conditions), sexual orientation,\ngender identity, marital or family status, veteran status,\nage, national origin, ancestry, physical disability\n(including HIV and AIDS), mental disability, medical\ncondition, genetic information, membership or activity in a\nlocal human rights commission, status with regard to public\nassistance, or any other characteristic protected by law. We\nbase all employment decisions--including recruitment,\nselection, training, compensation, benefits, discipline,\npromotions, transfers, lay-offs, return from lay-off,\nterminations and social/recreational programs--on valid job\nrequirements.\n\nIf you need assistance accessing or reviewing the\ninformation on this website or need help submitting an\napplication for employment or requesting an accommodation,\nplease contact us at recruiting@crowdstrike.com for further\nassistance.\n\nFind out more about your rights as an applicant.\n\nCrowdStrike participates in the E-Verify program.\n\nNotice of E-Verify Participation\n\nRight to Work\n\nCrowdStrike, Inc. is committed to fair and equitable\ncompensation practices. Placement within the pay range is\ndependent on a variety of factors including, but not limited\nto, relevant work experience, skills, certifications, job\nlevel, supervisory status, and location. The base salary\nrange for this position for all U.S. candidates is $140,000\n- $215,000 per year, with eligibility for bonuses, equity\ngrants and a comprehensive benefits package that includes\nhealth insurance, 401k and paid time off.\n\nFor detailed information about the U.S. benefits package,\nplease click here.\n",
+  "skills_required": [],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop and maintain backend services to meet reliability and scalability demands for the AI-based Detection & Response platform",
+    "Extend and build new cross-cutting libraries and shared architectural components used across CrowdStrike's cloud platform",
+    "Lead initiatives around reliability, scalability, performance, and cost-efficiency in distributed systems",
+    "Design and implement automation tools to improve reliability and efficiency of infrastructure",
+    "Develop and enhance monitoring, observability, and alerting services (tracing, profiling, SLOs)",
+    "Provide technical leadership for large-scale architectural changes and complex incident management",
+    "Deploy core services to new clouds and modularize codebase into reusable components",
+    "Evangelize best practices for building software, especially in Go, and champion new technologies"
+  ],
+  "use_cases": [
+    "AI-powered cybersecurity threat detection and response",
+    "Massively scalable distributed data storage and replication for trillions of events per day",
+    "Distributed graph and search systems for threat intelligence",
+    "Service reliability and resiliency for the Falcon cloud-native security platform",
+    "Adaptive flow control and concurrency management for high-throughput event processing"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Cassandra",
+    "Distributed Systems",
+    "Docker",
+    "Elasticsearch",
+    "Kafka",
+    "Kubernetes",
+    "Microservices",
+    "Observability (Tracing, Profiling, Alerting, SLOs)",
+    "Protobuf",
+    "Scalability (Sharding, Partitioning, Horizontal Scaling)"
+  ],
+  "frameworks_mentioned": [],
+  "languages_programming": [
+    "Concurrency and Multi-threading",
+    "Go",
+    "Java",
+    "Python",
+    "Scala"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "While the role is on a team that supports AI-based Detection\n& Response, the engineer is NOT building, training, or\ndeploying ML/AI models. The responsibilities focus on\nservice reliability, distributed systems infrastructure,\nscalability, and platform engineering to support\nCrowdStrike's AI-native cybersecurity platform. This is\ninfrastructure/platform work that enables AI systems to run\nreliably.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [],
+    "web": [
+      "Microservices",
+      "Protobuf"
+    ],
+    "databases": [
+      "Cassandra",
+      "Elasticsearch"
+    ],
+    "data": [
+      "Kafka"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Distributed Systems",
+      "Kubernetes",
+      "Observability (Tracing, Profiling, Alerting, SLOs)",
+      "CI/CD",
+      "Docker",
+      "Scalability (Sharding, Partitioning, Horizontal Scaling)"
+    ],
+    "languages": [
+      "Go",
+      "Concurrency and Multi-threading",
+      "Python",
+      "Java",
+      "Scala"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:39:00+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

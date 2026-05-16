@@ -1,0 +1,140 @@
+{
+  "job_id": "intl-ai-corpus-1990",
+  "source": "intl-ai-corpus",
+  "source_ref": "8681233",
+  "source_url": "https://builtin.com/job/software-engineer-enterprise-ai-products/8681233",
+  "title": "Software Engineer, Enterprise AI Products",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Anthropic",
+  "company_type": "entité morale privée",
+  "location": "Los Angeles",
+  "city_inferred": "Los Angeles",
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-03-07",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "57 Employees",
+  "company_stage": "Public Benefit Corporation",
+  "company_focus": "Building reliable, interpretable, and steerable AI systems\n(Claude)",
+  "industries": [
+    "Artificial Intelligence",
+    "Natural Language Processing",
+    "Generative AI"
+  ],
+  "description": "About Anthropic\n\nAnthropic’s mission is to create reliable, interpretable,\nand steerable AI systems. We want AI to be safe and\nbeneficial for our users and for society as a whole. Our\nteam is a quickly growing group of committed researchers,\nengineers, policy experts, and business leaders working\ntogether to build beneficial AI systems.\n\nAbout the Role\n\nWe're building Claude into the AI that everyone uses at\nwork. Not a demo, not a chatbot sidebar — a tool that\nprofessionals across industries rely on every day to do\nsubstantive work. We're looking for experienced software\nengineers to join the Enterprise & Verticals team, where we\nbuild the products that make that real.\n\nThis is a rare engineering role where you don't just build\non top of a model — you shape the model itself. Every\nengineer on this team works directly with Anthropic's\nresearch organization, including post-training, to make\nClaude better at the specific tasks your products need to\nsolve. Whether you're working on general enterprise tooling\nor a specific industry vertical, you'll identify capability\ngaps, collaborate with researchers on domain-specific\nimprovements, and see those improvements ship in your\nproducts.\n\nThis team owns two complementary surfaces:\n\nEnterprise AI Products. General-purpose features that make\nClaude useful for any knowledge worker — products like\nCowork, plugins, skills, and the connective tissue that lets\nClaude operate effectively across workflows. A big part of\nthis work is understanding why users aren't activating,\nwhat's blocking adoption, and building the capabilities that\nclose those gaps. You'll work on the systems that make\nClaude a daily-use tool for enterprise customers across\nindustries.\n\nVertical AI Products. Purpose-built experiences for specific\nindustries where Claude can transform complex professional\nworkflows. We're currently building for three verticals,\nwith more to come:\n\n- Financial Services — from data retrieval and analysis to\n  institutional-quality report generation, building AI\n  experiences that meet the standards of the world's largest\n  financial institutions.\n- Healthcare — from clinical documentation and prior\n  authorization to care coordination and patient management,\n  solving critical challenges for healthcare systems while\n  ensuring accuracy and compliance.\n- Legal — from document review and contract analysis to\n  regulatory compliance and matter management, building\n  tools that handle the precision, confidentiality, and\n  nuance that legal work demands.\n\nRepresentative Projects\n\n- Build an Office add-in that lets Claude read, analyze, and\n  generate content within Excel and Word — operating within\n  the constraints of host application sandboxes and third-\n  party platform APIs\n- Design the plugins and skills infrastructure that lets\n  Claude learn new domain-specific capabilities — from\n  financial modeling templates to clinical documentation\n  workflows — and make them discoverable and composable for\n  enterprise users\n- Build the customization and distribution layer to allow\n  enterprise power users capture, refine, and share their\n  enhanced workflows.\n- Develop a document generation pipeline that produces\n  institutional-quality investment research reports,\n  translating Claude's analytical capabilities into outputs\n  that meet the formatting, sourcing, and compliance\n  standards of a top-tier bank\n- Instrument and diagnose activation funnels to understand why\n  enterprise users sign up but don't adopt Claude for daily\n  work, then build the product changes that close those gaps\n- Design the context and memory architecture that lets\n  multiple Claude agents working across different product\n  surfaces — Cowork, chat, Office add-ins, vertical tools —\n  share a unified understanding of a user's projects,\n  preferences, and in-flight work so that nothing falls\n  through the cracks as people move between tools\n- Identify high-toil workflows that enterprise users repeat\n  daily — reformatting reports, reconciling data across\n  systems, triaging inbound requests — and apply new model\n  capabilities to automate or eliminate them, measuring the\n  impact on time saved and user retention\n- Build hybrid workflow systems where Claude agents and people\n  collaborate asynchronously on complex tasks — for example,\n  an agent that drafts a first-pass contract review\n  overnight, flags items that need human judgment, and\n  routes those decisions back through a structured interface\n  so the attorney can review and approve in minutes rather\n  than hours\n- Collaborate with post-training researchers to improve\n  Claude's performance on clinical documentation tasks,\n  identifying specific failure modes in patient note\n  summarization and helping design training data to address\n  them\n\nYou May Be a Good Fit If You\n\n- Have strong full-stack engineering skills with experience\n  building products in enterprise or B2B contexts\n- Care as much about whether users activate and get value as\n  you do about the underlying systems — you're product-\n  minded and user-oriented\n- Have shipped products that real customers depend on, and are\n  comfortable working across the stack (frontend, backend,\n  APIs, integrations) and navigating ambiguity in an early-\n  stage product environment\n- Communicate effectively and can engage credibly with\n  enterprise stakeholders — whether a portfolio manager, a\n  general counsel, or a hospital CIO — and translate their\n  needs into engineering work\n- Work effectively across functions in a fast-moving\n  organization\n\nEspecially Valuable Experience\n\n- For Enterprise AI Products: Experience building developer\n  tools, productivity applications, or platforms where\n  adoption and activation are core challenges. Familiarity\n  with skills, plugins, or extensibility systems.\n- For Office Agents: Experience building Office add-ins,\n  browser extensions, or plugins that integrate with\n  existing productivity software. Familiarity with the\n  Office JavaScript API, VSTO, COM, or similar frameworks\n  for manipulating spreadsheets, documents, or presentations\n  programmatically.\n- For Financial Services: Experience with financial data\n  providers, trading systems, or capital markets technology.\n  Track record building systems that handle sensitive\n  financial data, financial modeling, or document\n  generation.\n- For Healthcare & Life Sciences: Experience with clinical\n  workflows or products for health records and clinical\n  documentation. Familiarity with healthcare compliance\n  requirements (HIPAA, HL7/FHIR, etc.).\n- For Legal: Experience building legal technology products —\n  document review, contract lifecycle management, compliance\n  systems, or practice management platforms.\n\nWe're at the beginning of defining how AI transforms\nprofessional work, and we expect to expand into new\nverticals and product surfaces over time. If your experience\ndoesn't map neatly to one of the categories above but you're\nexcited about building the products that make Claude\nindispensable at work, we'd love to hear from you.\n\nThe annual compensation range for this role is listed below.\n\nFor sales roles, the range provided is the role’s On Target\nEarnings (\"OTE\") range, meaning that the range includes both\nthe sales commissions/sales bonuses target and annual base\nsalary for the role.\n\nAnnual Salary:\n\n$320,000—$485,000 USD\n\nLogistics\n\nEducation requirements: We require at least a Bachelor's\ndegree in a related field or equivalent experience.\nLocation-based hybrid policy: Currently, we expect all staff\nto be in one of our offices at least 25% of the time.\nHowever, some roles may require more time in our offices.\n\nVisa sponsorship: We do sponsor visas! However, we aren't\nable to successfully sponsor visas for every role and every\ncandidate. But if we make you an offer, we will make every\nreasonable effort to get you a visa, and we retain an\nimmigration lawyer to help with this.\n\nWe encourage you to apply even if you do not believe you\nmeet every single qualification. Not all strong candidates\nwill meet every single qualification as listed.  Research\nshows that people who identify as being from\nunderrepresented groups are more prone to experiencing\nimposter syndrome and doubting the strength of their\ncandidacy, so we urge you not to exclude yourself\nprematurely and to submit an application if you're\ninterested in this work. We think AI systems like the ones\nwe're building have enormous social and ethical\nimplications. We think this makes representation even more\nimportant, and we strive to include a range of diverse\nperspectives on our team. Your safety matters to us. To\nprotect yourself from potential scams, remember that\nAnthropic recruiters only contact you from @anthropic.com\nemail addresses. In some cases, we may partner with vetted\nrecruiting agencies who will identify themselves as working\non behalf of Anthropic. Be cautious of emails from other\ndomains. Legitimate Anthropic recruiters will never ask for\nmoney, fees, or banking information before your first day.\nIf you're ever unsure about a communication, don't click any\nlinks—visit anthropic.com/careers directly for confirmed\nposition openings.\n\nHow we're different\n\nWe believe that the highest-impact AI research will be big\nscience. At Anthropic we work as a single cohesive team on\njust a few large-scale research efforts. And we value impact\n— advancing our long-term goals of steerable, trustworthy AI\n— rather than work on smaller and more specific puzzles. We\nview AI research as an empirical science, which has as much\nin common with physics and biology as with traditional\nefforts in computer science. We're an extremely\ncollaborative group, and we host frequent research\ndiscussions to ensure that we are pursuing the highest-\nimpact work at any given time. As such, we greatly value\ncommunication skills.\n\nThe easiest way to understand our research directions is to\nread our recent research. This research continues many of\nthe directions our team worked on prior to Anthropic,\nincluding: GPT-3, Circuit-Based Interpretability, Multimodal\nNeurons, Scaling Laws, AI & Compute, Concrete Problems in AI\nSafety, and Learning from Human Preferences.\n\nCome work with us!\n\nAnthropic is a public benefit corporation headquartered in\nSan Francisco. We offer competitive compensation and\nbenefits, optional equity donation matching, generous\nvacation and parental leave, flexible working hours, and a\nlovely office space in which to collaborate with colleagues.\nGuidance on Candidates' AI Usage: Learn about our policy for\nusing AI in our application process\n",
+  "skills_required": [
+    "Claude API",
+    "HIPAA compliance",
+    "HL7/FHIR",
+    "Office JavaScript API",
+    "RAG",
+    "VSTO",
+    "agents",
+    "fine-tuning",
+    "post-training",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build enterprise AI products like Cowork, plugins, and skills that make Claude a daily-use tool for knowledge workers",
+    "Collaborate with post-training researchers to improve Claude's performance on domain-specific tasks",
+    "Design and implement plugins and skills infrastructure for domain-specific capabilities",
+    "Build vertical AI products for financial services, healthcare, and legal industries",
+    "Design context and memory architecture for multi-agent collaboration across product surfaces",
+    "Build hybrid workflow systems where Claude agents and people collaborate asynchronously",
+    "Develop Office add-ins and integrations with existing productivity software",
+    "Instrument and diagnose activation funnels to improve enterprise user adoption"
+  ],
+  "use_cases": [
+    "Enterprise productivity and workflow automation across industries",
+    "Financial services data retrieval, analysis, and institutional report generation",
+    "Healthcare clinical documentation, prior authorization, and care coordination",
+    "Legal document review, contract analysis, and regulatory compliance",
+    "Office productivity integration with Excel and Word",
+    "Multi-agent collaboration across different product surfaces"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Docker",
+    "FastAPI",
+    "Kubernetes",
+    "Postgres",
+    "REST APIs",
+    "React",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "Claude API",
+    "RAG",
+    "agents",
+    "fine-tuning",
+    "post-training",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "Engineers work directly with post-training researchers to\nshape Claude itself, improving model capabilities for\nspecific tasks and domains. They design training data,\nidentify capability gaps, and collaborate on domain-specific\nmodel improvements that ship in their products.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Claude API",
+      "agents",
+      "RAG",
+      "prompt engineering"
+    ],
+    "ml": [
+      "post-training",
+      "fine-tuning"
+    ],
+    "web": [
+      "FastAPI",
+      "REST APIs",
+      "React"
+    ],
+    "databases": [
+      "Postgres",
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "languages": [
+      "Python",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "Office JavaScript API",
+      "VSTO",
+      "HIPAA compliance",
+      "HL7/FHIR"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:53+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

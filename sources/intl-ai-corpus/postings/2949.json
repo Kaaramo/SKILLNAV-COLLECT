@@ -1,0 +1,158 @@
+{
+  "job_id": "intl-ai-corpus-2949",
+  "source": "intl-ai-corpus",
+  "source_ref": "9078567",
+  "source_url": "https://builtin.com/job/senior-pim-ai-solutions-engineer/9078567",
+  "title": "Senior PIM & AI Solutions Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Johnson Controls",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "unknown",
+  "posted_date": "2026-04-17",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "100,000 Employees",
+  "company_stage": "Public",
+  "company_focus": "Building technology and solutions for building management,\nHVAC, and security systems",
+  "industries": [
+    "Other",
+    "Security"
+  ],
+  "description": "Overview:  Johnson Controls is seeking a highly skilled\nSenior PIM & AI Solutions Engineer to accelerate our\nenterprise product data platform with next‑generation AI\ncapabilities. This role blends deep PIM engineering\nexpertise with hands‑on AI solution development, leveraging\nInriver Inspire AI, large language models (LLMs), AI agents,\ncontent generation/translation engines, and productivity\nautomation frameworks.\n\nYou will partner with product owners, architects, and\nProduct Marketing to deliver intelligent, scalable solutions\nthat improve product content quality, streamline enrichment\nworkflows, automate data transformations, and enhance\nspeed‑to‑market. This includes enabling Inspire AI features,\nbuilding validation workflows, generating data‑loader\ntemplates from intake sheets, and evaluating new AI tools\nthat drive operational efficiency across the product content\nlifecycle.\n\nResponsibilities\n\nBuild (PIM, AI, and Workflow Engineering)\n\n- Enable, configure, and optimize Inriver Inspire AI features\n  for content generation, localization, translation, and\n  enrichment.\n- Design and implement AI agent–driven workflows for content\n  validation, attribute completeness checks, enrichment task\n  routing, automated suggestions, and metadata generation.\n- Build automations for intake‑to‑PIM transformations,\n  including generating data loader sheets, mapping\n  templates, cleansing rules, and exception handling.\n- Design and evolve product data models (entities, attributes,\n  CVLs, relationships), taxonomy/classification structures,\n  validation rules, and versioning strategies.\n- Engineer bulk data onboarding processes including imports,\n  ETL transformations, AI‑assisted cleanup, and quality\n  checks.\n- Integrate PIM with AI services/agents, translation services,\n  downstream systems, and internal applications via REST\n  APIs, message/event‑based patterns, and workflow\n  orchestration.\n- Produce technical documentation including AI workflow\n  designs, prompt & tool catalogs for agents, integration\n  specs, data models, and operational runbooks.\n\nAI Enablement & Productivity Innovation\n\n- Evaluate, prototype, and operationalize AI/ML tools and\n  agent frameworks to improve productivity across Product\n  Marketing and product content operations.\n- Build internal AI utilities/agents for tasks such as content\n  rewriting, translation, categorization, attribute\n  derivation, and taxonomy recommendations.\n- Establish best practices for prompt engineering, tool\n  calling, retrievers, model selection, evaluation metrics\n  (quality, latency, cost), and human‑in‑the‑loop (HITL)\n  review.\n- Ensure ethical, secure, and compliant use of AI within\n  enterprise guidelines (governance, data privacy, PII/PI\n  policy adherence).\n\nPlatform & Engineering Excellence\n\n- Apply OOP/SOLID principles and modern engineering practices\n  to deliver maintainable and scalable PIM/AI solutions.\n- Implement unit/integration tests and participate in CI/CD\n  processes (Azure DevOps pipelines or equivalent).\n- Drive data governance standards including completeness,\n  consistency, accuracy, localization, lineage, and\n  auditability.\n- Promote best practices for agent safety/guardrails,\n  evaluation harnesses, and continuous improvement in an\n  Agile/Scrum environment.\n\nRequired Qualifications\n\n- Bachelor’s degree in computer science, Engineering, or\n  related field, or equivalent experience.\n- 6–8 years of engineering experience with C#/.NET, REST APIs,\n  and MS SQL Server.\n- 2+ years of hands‑on experience building AI-driven\n  applications, including LLM workflows, RAG pipelines,\n  prompt orchestration, or automated content-generation\n  systems.\n- Practical experience developing or integrating AI agents\n  using frameworks such as Azure AI Orchestration, Semantic\n  Kernel, Lang Chain, or equivalent tool‑calling\n  architectures.\n- Experience with Azure OpenAI or comparable LLM platforms\n  (model configuration, prompt design, evaluation, cost\n  optimization).\n- Strong understanding of enterprise AI patterns: retrieval-\n  augmented generation (RAG), embeddings,\n  translation/normalization pipelines, content quality\n  evaluation, and human‑in‑the‑loop (HITL) review loops.\n- Hands‑on experience implementing automated workflows, data\n  transformations, and bulk import processes.\n- Knowledge of PIM concepts, including data modeling,\n  enrichment workflows, validation, localization, and\n  taxonomy.\n- Strong debugging and optimization skills for both PIM\n  workflows and AI-driven automations.\n- Excellent communication skills and ability to work across\n  engineering, Product Marketing, and data governance teams.\n\nPreferred Qualifications\n\n- Inriver PIM experience (strongly preferred): advanced\n  configuration of entities/links/CVLs, Inspire AI tuning,\n  workflow customization, extensibility, connectors, and\n  operational monitoring.\n- Experience designing enterprise-grade AI solutions beyond\n  basic prompting, such as multi-agent coordination,\n  planning capabilities, or workflow orchestration\n  frameworks.\n- Hands-on experience with RAG optimization (embeddings\n  tuning, vector index design, evaluation frameworks) and\n  enterprise search technologies.\n- Familiarity with AI quality evaluation, A/B testing, prompt\n  safety guardrails, observability, and monitoring for model\n  performance or agent behavior.\n- Experience implementing AI-driven translations or\n  localization pipelines at scale (e.g., Azure Translator,\n  Language Studio, or 3rd‑party translation engines).\n- Understanding of ML Ops / AI Ops concepts, including model\n  lifecycle management, logging, cost governance, and\n  versioning.\n- Experience building automation solutions for product content\n  operations (intake-to-PIM flows, automated validation\n  gates, bulk enrichment, or classification systems).\n- Knowledge of event-based integration patterns, pub/sub\n  architectures, and microservices.\n- Exposure to data governance, stewardship processes, and\n  omnichannel content syndication.\n",
+  "skills_required": [
+    "AI agents",
+    "Azure AI Orchestration",
+    "Embeddings tuning",
+    "Event-based integration / Pub-Sub",
+    "HITL (Human-in-the-Loop)",
+    "Inriver PIM / Inspire AI",
+    "LLM workflows",
+    "LangChain",
+    "Multi-agent coordination",
+    "OOP/SOLID principles",
+    "Prompt engineering",
+    "RAG pipelines",
+    "Semantic Kernel",
+    "Vector embeddings"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Enable, configure, and optimize Inriver Inspire AI features for content generation, localization, translation, and enrichment",
+    "Design and implement AI agent-driven workflows for content validation, attribute completeness checks, enrichment routing, and metadata generation",
+    "Build automations for intake-to-PIM data transformations including data loader sheets, mapping templates, and cleansing rules",
+    "Engineer bulk data onboarding processes including imports, ETL transformations, AI-assisted cleanup, and quality checks",
+    "Integrate PIM with AI services, translation services, and downstream systems via REST APIs, event-based patterns, and workflow orchestration",
+    "Evaluate, prototype, and operationalize AI/ML tools and agent frameworks to improve productivity across product content operations",
+    "Establish best practices for prompt engineering, tool calling, model selection, evaluation metrics, and human-in-the-loop review",
+    "Drive data governance standards and promote agent safety/guardrails and evaluation harnesses in an Agile environment"
+  ],
+  "use_cases": [
+    "Automated product content generation and enrichment using LLMs",
+    "AI-driven translation and localization of product information at scale",
+    "Intelligent content validation and attribute completeness checking via AI agents",
+    "Automated data transformation and onboarding for product information management",
+    "Content categorization, taxonomy recommendations, and metadata generation",
+    "Enterprise product data quality improvement and speed-to-market acceleration"
+  ],
+  "tools_mentioned": [
+    "Azure DevOps",
+    "Azure OpenAI",
+    "Azure Translator",
+    "CI/CD",
+    "Docker",
+    "ETL transformations",
+    "MS SQL Server",
+    "REST APIs",
+    "Vector index design"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Azure AI Orchestration",
+    "Embeddings tuning",
+    "HITL (Human-in-the-Loop)",
+    "LLM workflows",
+    "LangChain",
+    "Multi-agent coordination",
+    "Prompt engineering",
+    "RAG pipelines",
+    "Semantic Kernel",
+    "Vector embeddings"
+  ],
+  "languages_programming": [
+    ".NET",
+    "C#",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role directly involves building AI agent-driven\nworkflows, implementing RAG pipelines, developing LLM-based\ncontent generation systems, and operationalizing AI/ML\ntools. The engineer is hands-on with configuring AI\nfeatures, prompt engineering, and integrating AI agents —\nnot merely supporting infrastructure for others' AI work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM workflows",
+      "RAG pipelines",
+      "AI agents",
+      "Prompt engineering",
+      "LangChain",
+      "Semantic Kernel",
+      "Azure AI Orchestration",
+      "Multi-agent coordination",
+      "HITL (Human-in-the-Loop)"
+    ],
+    "ml": [
+      "Vector embeddings",
+      "Embeddings tuning"
+    ],
+    "web": [
+      "REST APIs"
+    ],
+    "databases": [
+      "MS SQL Server",
+      "Vector index design"
+    ],
+    "data": [
+      "ETL transformations"
+    ],
+    "cloud": [
+      "Azure OpenAI",
+      "Azure Translator"
+    ],
+    "ops": [
+      "Docker",
+      "Azure DevOps",
+      "CI/CD"
+    ],
+    "languages": [
+      "C#",
+      ".NET",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Inriver PIM / Inspire AI",
+      "Event-based integration / Pub-Sub",
+      "OOP/SOLID principles"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

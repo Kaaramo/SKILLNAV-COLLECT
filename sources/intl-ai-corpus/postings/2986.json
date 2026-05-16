@@ -1,0 +1,141 @@
+{
+  "job_id": "intl-ai-corpus-2986",
+  "source": "intl-ai-corpus",
+  "source_ref": "9095943",
+  "source_url": "https://builtin.com/job/ai-automations-product-engineer/9095943",
+  "title": "AI Automations Product Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NineTwoThree AI Studio",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "remote",
+  "posted_date": "2026-04-20",
+  "publication_month": "2026-04",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "52 Employees",
+  "company_stage": "Growth (Inc. 5000, 13 years, 150+ products)",
+  "company_focus": "AI/product design and engineering agency for brands and\nstartups",
+  "industries": [
+    "Artificial Intelligence",
+    "Marketing Tech",
+    "Mobile",
+    "Software",
+    "Design",
+    "App development"
+  ],
+  "description": "NineTwoThree AI Studio is a premier product design,\nengineering, and marketing firm specializing in custom AI,\nweb, and mobile applications for established brands and\nfunded startups. We are based in Massachusetts but with an\nAmerican and European staff and a strong, collaborative\nremote culture.\n\nWe’re a team that loves doing good work with great people.\nOur relatively small size keeps us fast and nimble. The\nwealth of knowledge, experience and talent paired with\nproven recipes and best practices allows us to find\nopportunities to help new products succeed.\n\nWith a portfolio of over 150 launched products over 13\nyears, NineTwoThree has garnered recognition as a top AI\nagency in the U.S., earning accolades such as inclusion in\nthe Inc. 5000 list for four consecutive years and being\nnamed among the top 50 AI firms alongside industry leaders\nlike Microsoft, NVIDIA, and IBM. We’ve built AI and ML tech\nfor big brands like Consumer Reports, FanDuel, and Nara, as\nwell as startups in legal tech, logistics, education, and\nmore.\n\nJob description\n\nBuilding, shipping, and supporting AI-powered tools and\nautomations for 923 AI Automation clients. The role sits at\nthe intersection of product thinking and AI engineering —\ncloser to “product manager who builds confidently with\nmodern AI development tools” than “AI research engineer.”\nYou'll work with tools like Claude Code, the Anthropic API,\nand AI-augmented low-code platforms to deliver real systems\nto real clients, end-to-end.\n\nYou'll probably enjoy this role if you:\n\n- Like framing complex, ambiguous problems and working through\n  them to clear solutions\n- Enjoy ideating, building, and seeing things ship — then\n  explaining clearly how and why they work\n- Prefer direct interaction with a mentor over distant\n  management\n- Want autonomy and trust, not oversight for its own sake\n- Want to understand why you're building something, not just\n  what to build\n- Are energised by seeing the whole picture — how a project\n  connects to a client's business, a team's operations, and\n  an emerging practice\n\nYou'll probably find this role frustrating if you:\n\n- Prefer to work deep in code with minimal client or\n  stakeholder contact — the role sits in the middle of\n  client delivery, not behind it\n- Are looking for a role with highly structured processes,\n  detailed specifications, and predictable work — this\n  department is actively shaping its own way of working, and\n  the person in this seat will be part of that shaping\n\nRequirements1. Strategy & Growth\n\n- Pattern Contribution — Surfacing new approaches, tools, and\n  workflows discovered during client delivery, and\n  contributing them to the department's knowledge base and\n  operating models. Ideas are validated on real client work\n  before they become standard.\n- Continuous R&D — Spending dedicated, reported hours testing\n  new AI tools, models, and frameworks relevant to active or\n  upcoming client work. Findings are shared with the\n  Practice Lead and the wider department.\n- Practice Building — Helping shape the way the department\n  works as it scales — contributing to project templates,\n  runbooks, evaluation approaches, and reusable components\n  seeded from real delivered work.\n\n2. Solutions Engineering & Client Delivery\n\nThis is the centre of gravity of the role. You'll be working\nalongside the Practice Lead and Account Manager on scoping,\nshaping, and solutioning new client engagements, then owning\nthe delivery against those shaped briefs.\n\n- Discovery & Shaping Support — Joining discovery calls and\n  shaping sessions with the Practice Lead to translate vague\n  business problems into viable AI-driven solutions.\n  Initially, you'll join these calls to learn the pattern;\n  over time, you'll take more of them directly as direction\n  and confidence grow.\n- Technical Feasibility — Evaluating client data, systems, and\n  APIs to determine what's genuinely achievable within a\n  proposed time budget. Flagging risks, rabbit holes, and\n  integration blockers early, before commitments are made to\n  the client.\n- Demo Build-Out — Building working demos for prospective\n  clients that demonstrate the proposed solution against\n  their real problem, ready to be presented on proposal\n  calls.\n- Proposal & Scope Input — Contributing technical detail to\n  proposals and statements of work — architecture approach,\n  milestones, success criteria — which the Practice Lead\n  translates into client-facing documents.\n- Client Onboarding & Education — Helping client teams\n  understand and confidently use the systems we deliver.\n  This includes walkthroughs, training sessions where\n  relevant, and clear handover documentation.\n\n3. Technical Execution\n\nYou'll own the technical delivery of client projects end-to-\nend, inside the department's established approach.\n\n- Project Setup & Architecture — Standing up new client\n  projects — repository, environments, tooling, third-party\n  accounts — following the department's conventions.\n  Designing the architecture of individual projects in line\n  with 923's engineering and deployment standards.\n- System & Process Design — Designing the end-to-end system:\n  how data flows in, how AI components fit into the\n  pipeline, where humans sit in the loop, what the output\n  looks like, and how the user actually engages with it.\n  Thinking in terms of the job the system does for the\n  client, not just the components that make it up.\n- Agentic Design & Trade-offs — Making considered decisions\n  about when to use agentic approaches versus deterministic\n  pipelines versus human-in-the-loop steps. Understanding\n  the trade-offs and being able to explain them clearly to\n  the Practice Lead and to clients.\n- Hands-on Build — Writing the code that makes the system\n  work, using AI development tools fluently. Python-first\n  stack, typically lightweight web frameworks (FastAPI,\n  Gradio) and serverless runtimes (AWS Lambda). AI-augmented\n  practice is expected and welcomed - the role is defined by\n  what ships, and real  progress for our clients.\n- Prompt Engineering & Model Selection — Designing and\n  refining the prompts, system instructions, and model\n  choices that drive AI behaviour. Balancing accuracy, cost,\n  latency, and privacy against the client's real\n  constraints.\n- Data Engineering — Cleaning, structuring, and processing\n  client data into a form the AI layer can work with.\n  Building the ingestion and processing layers that feed the\n  AI components.\n- Deployment — Working directly with 923's DevOps team to\n  deploy services to client cloud accounts following 923's\n  deployment standards — source control conventions, commit\n  and PR protocols, secrets management, environment setup,\n  and handover protocols.\n- Validation Before Production — Testing AI outputs against\n  real client data before go-live. Building the dry-run and\n  validation patterns that let clients sign off on output\n  quality before we enable production writes. Post-\n  deployment observability is set up to 923 standards.\n\n4. Project & Quality Management\n\n- Project Tracking — Working from the department's Monday.com\n  board, following established task, branch, and PR\n  conventions. Tickets are written by the Practice Lead\n  during onboarding; over time, you'll draft your own and\n  the Practice Lead will review.\n- Client Communication — Joining and running technical\n  portions of weekly client meetings. Initially alongside\n  the Practice Lead and Account Manager; over time, running\n  technical calls solo where the direction is clear. The\n  Account Manager owns the relationship; you own technical\n  clarity.\n- Code Review — Submitting clean PRs that pass pre-commit\n  checks and link to tracked work. Engaging in constructive,\n  question-based review with the Practice Lead and 923\n  engineering peers.\n- Quality Assurance — Testing AI outputs for failure modes,\n  hallucinations, and edge-case behaviour before anything\n  reaches a client. Implementing the validation patterns the\n  department uses to build client trust.\n- Handover & Documentation — Completing the delivery checklist\n  before any project closes — documented architecture,\n  credentials handover, runbook, walkthrough video, and\n  third-party account transfer to client billing.\n\n5. Working Inside the Department\n\nThe department is small, AI-augmented, and shaping its own\nway of working as it scales. There's a clear mechanism for\nnew ideas and patterns to become part of how we work —\nthey're tried on real client projects, validated, and then\nadopted. Until they are, we work the way we work. That's not\na constraint on creativity; it's how we stay coherent as a\nteam while we grow.\n\n- Tooling — Using the department's stack — Monday.com for\n  tasks, Notion for capture, Harvest for time, Slack for\n  communication, Fathom for meeting intelligence, the\n  department's Claude skill library for recurring workflows.\n  Friction with the tooling is surfaced to the Practice Lead\n  rather than worked around.\n- Idea Flow — Ideas, improvements, and concerns flow through\n  the Practice Lead, who carries them forward to the wider\n  923 leadership team as appropriate.\n- Documentation — Contributing to the department's operating\n  model and shared framework as patterns stabilise from real\n  delivery.\n\nBenefits\n\n- 100% remote job\n\n- Annual paid vacation: 20 working days per year during the\n  first 3 years, further increasing to 25 days in later\n  years\n- Paid sick leave and holidays\n- Reimbursement of expenses for professional development\n  courses/certifications (up to 100% in agreement with the\n  Manager)\n- Well-being budget\n- Team and atmosphere: we hire people we trust, so you'll be\n  the part of a strong positive engineering culture, a\n  tightly-knit team of professionals with a good sense of\n  humor\n\nHiring process:\n\nWe value your time and ours and make the process fast and\neasy. Our interview process takes the following steps: HR\ninterview, test challenge, second interview with Practice\nLead and CTO, third interview with CEO (optional), Offer.\n\nJoin us!\n",
+  "skills_required": [
+    "Agentic Design",
+    "Anthropic API",
+    "Claude Code",
+    "Low-code platforms",
+    "Monday.com",
+    "Notion",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build, ship, and support AI-powered tools and automations for client engagements end-to-end",
+    "Scope, shape, and solution new client engagements alongside Practice Lead and Account Manager",
+    "Design and implement agentic systems, prompt engineering, and model selection decisions balancing accuracy, cost, latency, and privacy",
+    "Build working demos for prospective clients using real client data and problems",
+    "Stand up project infrastructure including repositories, environments, and architecture following department conventions",
+    "Process and engineer client data into forms suitable for AI consumption, building ingestion and processing layers",
+    "Deploy services to client cloud accounts following established DevOps standards including source control, secrets management, and handover protocols",
+    "Contribute to department knowledge base, runbooks, evaluation approaches, and reusable components from delivered work"
+  ],
+  "use_cases": [
+    "Custom AI automations for established brands and funded startups",
+    "AI-driven solutions for legal tech, logistics, education, and other verticals",
+    "Client-specific AI system design from discovery through production deployment",
+    "Human-in-the-loop AI workflow automation with agentic and deterministic pipeline trade-offs",
+    "Data processing and AI pipeline engineering for diverse client data sources"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "AWS Lambda",
+    "CI/CD",
+    "Data Engineering",
+    "Docker",
+    "ETL",
+    "FastAPI",
+    "Git",
+    "Gradio",
+    "REST APIs"
+  ],
+  "frameworks_mentioned": [
+    "Agentic Design",
+    "Anthropic API",
+    "Claude Code",
+    "Prompt Engineering",
+    "RAG"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building, shipping, and\nsupporting AI-powered tools and automations for clients. The\nengineer works hands-on with LLM APIs (Anthropic/Claude),\nprompt engineering, agentic design, model selection, and AI\npipeline architecture — all core activities of building and\ndeploying AI systems, not just supporting them.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "Anthropic API",
+      "Claude Code",
+      "Prompt Engineering",
+      "Agentic Design",
+      "RAG"
+    ],
+    "ml": [],
+    "web": [
+      "FastAPI",
+      "Gradio",
+      "REST APIs"
+    ],
+    "databases": [],
+    "data": [
+      "ETL",
+      "Data Engineering"
+    ],
+    "cloud": [
+      "AWS Lambda",
+      "AWS"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": [
+      "Monday.com",
+      "Notion",
+      "Low-code platforms"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:39:02+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

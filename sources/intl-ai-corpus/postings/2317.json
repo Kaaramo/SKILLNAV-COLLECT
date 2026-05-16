@@ -1,0 +1,109 @@
+{
+  "job_id": "intl-ai-corpus-2317",
+  "source": "intl-ai-corpus",
+  "source_ref": "8853467",
+  "source_url": "https://builtin.com/job/software-engineer-ai-agents/8853467",
+  "title": "Software Engineer - AI Agents",
+  "title_normalized": "AI_ENGINEER",
+  "company": "LiveFlow",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-24",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "52 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Next-generation accounting and finance platform for lean\nfinance teams",
+  "industries": [
+    "Fintech",
+    "Software",
+    "Financial Services"
+  ],
+  "description": "About LiveFlow\n\nLiveFlow is building the next-generation accounting and\nfinance platform - enabling lean finance teams to run\nmassive enterprises.\n\nWe’ve raised over $21M from top-tier investors including YC,\nYC Continuity, Valar, Seedcamp, WndrCo, Moonfire, and\nBradley Horowitz (VP Product, Google).\n\nToday, thousands of companies rely on LiveFlow to streamline\ntheir financial workflows, with hundreds of 5/5 ratings on\nG2.\n\nOur founding team previously worked at Revolut, one of\nEurope’s fastest-growing fintechs.\n\nWhy Join Us\n\nYou’ll help shape not just the product - but how we build\nit.\n\nWe’re a team that values ownership, speed, and thoughtful\niteration. We’re looking for people who ask great questions,\nchallenge assumptions, and care deeply about building\nsomething customers genuinely love.\n\nYou’ll work closely with product, design, and customers,\noperating with a high degree of autonomy - while\ncontributing to a culture that’s collaborative, ambitious,\nand constantly evolving.\n\nThe Role\n\nWe’re hiring Software Engineers to build AI agents that\npower the next generation of LiveFlow.\n\nThis is a full-stack role at its core - but with a strong\nfocus on designing and developing agent-driven systems that\nare embedded directly into the product.\n\nYou’ll work on AI-powered features, thinking deeply about\nhow agents behave, interact with financial data, and deliver\nreliable, high-impact outcomes for users.\n\nThis isn’t about bolting AI onto existing workflows - it’s\nabout reimagining how financial software operates with AI at\nits core.\n\nWhat You’ll Work On\n\n- Building AI agents that are deeply integrated into the\n  product\n- Designing systems that combine LLMs, workflows, and\n  structured financial data\n- Developing a real-time, collaborative financial workspace\n- Designing and scaling APIs and backend systems\n- Integrating with multiple financial data providers\n- Crafting simple, intuitive abstractions for complex\n  financial workflows\n- Ensuring high standards of data security, reliability, and\n  compliance\n\nHow We Use AI\n\nIn Engineering:\n\n- We experiment aggressively with tools like Cursor, Claude,\n  and PR-based AI agents\n- We’re investing in Claude skills, sub-agents, and custom\n  command workflows\n- Engineers are encouraged to bring their own tools, test new\n  approaches, and share what works\n- We optimize for speed, leverage, and iteration, not rigid\n  processes\n\nIn the Product:\n\n- We’re building AI features that are deeply embedded into\n  financial workflows\n- Focus is on accuracy, usefulness, and real customer impact\n- We care about outcomes over hype - everything we ship needs\n  to work in production\n\nOur Stack\n\n- Backend: Elixir / Phoenix\n- Frontend: Next.js, TypeScript\n- Infrastructure: AWS, Terraform\n\nWe don’t expect experience in everything.\n\nIf you’ve worked with functional languages, frameworks like\nRails/Django, or modern frontend stacks, you’ll ramp\nquickly. What matters most is your ability to learn, adapt,\nand build.\n\nWhat We’re Looking For\n\n- Strong software engineering fundamentals (frontend, backend,\n  or full-stack)\n- Experience building or experimenting with AI agents, LLM-\n  powered systems, or workflow automation (or strong\n  interest in doing so)\n- Product mindset - you care about users and outcomes, not\n  just implementation\n- Ability to operate in fast-paced, ambiguous environments\n- High ownership and willingness to wear multiple hats\n- Strong intuition for when to follow best practices - and\n  when to rethink them\n\nPerks & Benefits\n\n- Competitive salary + equity\n- Health insurance\n- Pension plan\n- Latest tech (MacBook, monitors, etc.)\n- Learning budget (books, courses, conferences)\n- Unlimited vacation\n\nInterview Process\n\n- Intro call\n- Technical assessment\n- Technical interview\n- Career history interview\n- Founder interview\n",
+  "skills_required": [
+    "AI agents",
+    "LLMs",
+    "workflow automation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Building AI agents deeply integrated into the product",
+    "Designing systems that combine LLMs, workflows, and structured financial data",
+    "Developing a real-time, collaborative financial workspace",
+    "Designing and scaling APIs and backend systems",
+    "Integrating with multiple financial data providers",
+    "Crafting intuitive abstractions for complex financial workflows",
+    "Ensuring high standards of data security, reliability, and compliance"
+  ],
+  "use_cases": [
+    "AI-powered financial workflow automation",
+    "Agent-driven financial data processing and analysis",
+    "Real-time collaborative financial workspace",
+    "Automated accounting and finance operations"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Next.js",
+    "Phoenix",
+    "Terraform"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "LLMs",
+    "workflow automation"
+  ],
+  "languages_programming": [
+    "Elixir",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves directly building AI agents and agent-\ndriven systems that are embedded into the product. The\nengineer will work on designing systems that combine LLMs,\nworkflows, and financial data, which is hands-on AI/agent\ndevelopment work, not support or infrastructure.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "AI agents",
+      "workflow automation"
+    ],
+    "ml": [],
+    "web": [
+      "Phoenix",
+      "Next.js"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS"
+    ],
+    "ops": [
+      "Terraform"
+    ],
+    "languages": [
+      "Elixir",
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:56+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

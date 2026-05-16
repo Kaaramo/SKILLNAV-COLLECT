@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-0194",
+  "source": "intl-ai-corpus",
+  "source_ref": "7372132",
+  "source_url": "https://builtin.com/job/ai-research-engineer/7372132",
+  "title": "AI Research Engineer",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "Amperos Health",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "15 Employees",
+  "company_stage": "Seed/Early-stage",
+  "company_focus": "AI-powered healthcare revenue cycle management",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech",
+    "Software"
+  ],
+  "description": "About Amperos Health\n\nAmperos Health is the leading provider of multi-modal RCM\nagents empowering healthcare clinics to collect more\nrevenue, faster. Founded in 2023 and backed by Uncork, Neo,\nNebular.vc and strategic angels from OpenAI, Stripe, and\nTwilio, we're on a mission to revamp the bridge between\nhealthcare providers and payers. Our vision is to equip\nhealthcare providers with an AI workforce that reduces\nadministrative burden and accelerates revenue.\n\nAbout the role\n\nAs an AI Engineer on our research team, you’ll work on our\nhardest research and AI infra problems. You’ll both help\nprototype new products and also work on turning prototypes\ninto a high quality AI product. Hard problems include\npassing the healthcare billing Turing Test - would an\ninsurance agent who is interacting with our AI or a\nhealthcare biller who is reviewing the work of our AI think\nour AI is a human, and not an AI? More concretely, you will\nbe working to improve our AI agent’s quality so it acts more\nhuman-like and collects more accurate and detailed results\nfrom insurance.\n\nWhat you’ll do\n\n- Main focus is on improving models, LLM orchestration, prompt\n  optimizations, evaluation framework, and AI infra\n- Enable agent/workflow product engineers\n- Own and raise the bar on AI quality\n- Own ultimate vision of end to end AI orchestration of\n  modules\n- Work on hardest research problems (ie. Anti-AI)\n- Mainly a mix of ML, data science, and applied LLM work.\n  Heavy Python.\n\nWho we’re looking for\n\n- You like reading the latest LLM research papers\n- Deep experience in implementing and building AI agents\n- Eager to try out the latest releases (ie. o1, OpenAI voice\n  mode, Claude Computer-Use) to see how it can be used in\n  real-world healthcare billing applications\n- Worked with complex distributed systems with many async\n  operations\n- Excited about pushing the boundaries of conversational AI\n  technology\n- Can balance quick experimentation with systematic evaluation\n- Very high Python mastery\n\nPerks & Benefits\n\n- Competitive compensation\n- Paid lunch, dinner, coffee, snacks\n- In person culture at our cozy Flatiron district office in\n  NYC with work from home on Fridays\n- Flexible hours and time off\n- AI subscriptions of your choice covered\n- Health, dental, vision insurance\n- 401(k) with matching contribution\n\nOur Values\n\n- Lead with Empathy - Great products and teams are built on\n  empathy—whether for our customers, users, or team members.\n  We take the time to walk in others' shoes, listen\n  actively, and truly understand their challenges, needs,\n  and perspectives.\n- Humbly Ambitious - We combine humility with ambition. No\n  task is beneath us, and no challenge too big. Greatness\n  comes from being willing to do whatever it takes, while\n  having the courage to take bold risks and learn from\n  failures.\n- Radical Agency - Own your domain. Drive initiatives with\n  autonomy and accountability. Think deeply, communicate\n  with the team, and maintain a bias for action.\n",
+  "skills_required": [
+    "AI agents",
+    "Claude",
+    "LLM orchestration",
+    "OpenAI API",
+    "RAG",
+    "conversational AI",
+    "fine-tuning",
+    "model training",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Improve models, LLM orchestration, prompt optimizations, evaluation framework, and AI infrastructure",
+    "Enable agent/workflow product engineers with AI capabilities",
+    "Own and raise the bar on AI quality and end-to-end AI orchestration of modules",
+    "Work on hardest research problems including making AI agents act more human-like",
+    "Balance quick experimentation with systematic evaluation of LLM systems",
+    "Prototype new products and turn them into high quality AI products"
+  ],
+  "use_cases": [
+    "Multi-modal RCM (Revenue Cycle Management) agents for healthcare clinics",
+    "AI agents that interact with insurance agents to collect revenue",
+    "Healthcare billing systems where AI must pass Turing Test to appear human-like",
+    "Automating the bridge between healthcare providers and payers",
+    "Conversational AI for collecting accurate billing information from insurance"
+  ],
+  "tools_mentioned": [
+    "AI infrastructure",
+    "async operations",
+    "distributed systems",
+    "evaluation frameworks"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "Claude",
+    "LLM orchestration",
+    "OpenAI API",
+    "RAG",
+    "conversational AI",
+    "fine-tuning",
+    "model training",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work with LLMs, AI agents, prompt\noptimization, and AI orchestration - directly building and\nimproving the AI/ML systems rather than supporting them. The\nengineer will work on improving model quality, LLM\norchestration, and evaluation frameworks for conversational\nAI agents in healthcare billing.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLM orchestration",
+      "prompt engineering",
+      "AI agents",
+      "OpenAI API",
+      "Claude",
+      "RAG",
+      "conversational AI"
+    ],
+    "ml": [
+      "model training",
+      "fine-tuning"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [
+      "distributed systems"
+    ],
+    "cloud": [],
+    "ops": [
+      "async operations",
+      "AI infrastructure",
+      "evaluation frameworks"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

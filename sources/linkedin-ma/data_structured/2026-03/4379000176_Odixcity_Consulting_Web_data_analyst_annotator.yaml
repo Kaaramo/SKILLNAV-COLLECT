@@ -1,0 +1,32 @@
+company:
+  name: Odixcity Consulting
+  stage: null
+  focus: null
+position:
+  title: Web data analyst annotator
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai:
+    - llm
+    - llms
+    ml: []
+    web:
+    - html
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4379000176'
+  extracted_at: '2026-05-15T15:53:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

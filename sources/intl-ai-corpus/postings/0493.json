@@ -1,0 +1,151 @@
+{
+  "job_id": "intl-ai-corpus-0493",
+  "source": "intl-ai-corpus",
+  "source_ref": "8167364",
+  "source_url": "https://builtin.com/job/software-engineer-ai-ml-genai/8167364",
+  "title": "Software Engineer, AI/ML GenAI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Instrumentl",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-01-22",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "23 Employees",
+  "company_stage": "Series B+ (hyper growth, YC-backed, cash flow positive, doubling YoY, 4,000+ clients)",
+  "company_focus": "Grant discovery and management platform for nonprofits",
+  "industries": [],
+  "description": "👋Hello, we’re Instrumentl. We’re a mission-driven startup\nhelping the nonprofit sector to drive impact, and we’re well\non our way to becoming the #1 most-loved grant discovery and\nmanagement tool.\n\nAbout us: Instrumentl is a hyper growth YC-backed startup\nwith over 4,000 nonprofit clients, from local homeless\nshelters to larger organizations like the San Diego Zoo and\nthe University of Alaska. We are building the future of\nfundraising automation, helping nonprofits to discover,\ntrack, and manage grants efficiently through our SaaS\nplatform. Our charts are dramatically up-and-to-the-right 📈\n— we’re cash flow positive and doubling year-over-year, with\ncustomers who love us (NPS is 65+ and Ellis PMF survey is\n60+). Join us on this rocket ship to Mars!\n\nAbout the Role : As a Software Engineer, AI/ML GenAI at\nInstrumentl, you’ll own the full lifecycle of AI\nfeatures—from rapid prototyping to production deployment and\nongoing evaluation. You will build agentic LLM systems that\ncan plan and use tools, implement RAG pipelines over our\ndomain data, manage and evolve embeddings and indices, run\nfine‑tuning where it’s the right lever, and stand up\nevaluation/observability so our AI is grounded, safe, and\ncost‑effective. You’ll embed with one of the above groups in\na hands-on role, collaborating closely with Product and\nDesign, while partnering with DTI on platform‑level AI\ncapabilities.\n\nThe Instrumentl team is fully distributed (though if you’d\nlike to work from our Oakland office, we would love to see\nyou there). For this position, we are looking for someone\nwho has significant overlap with Pacific Time Zone working\nhours.\n\nWhat you will do\n\n- Design agentic systems & ship AI to production: Turn\n  prototypes into resilient, observable services with clear\n  SLAs, rollback/fallback strategies, and cost/latency\n  budgets. Build tool‑using LLM “agents” (task planning,\n  function/tool calling, multi‑step workflows, guardrails)\n  for tasks like grant discovery, application drafting, and\n  research assistance.\n- Own RAG end‑to‑end: Ingest and normalize content, choose\n  chunking/embedding strategies, implement hybrid retrieval,\n  re‑ranking, citations, and grounding. Continuously improve\n  recall/precision while managing index health.\n- Manage embeddings at scale: Select, evaluate, and migrate\n  embedding models; maintain vector stores (e.g.,\n  pgvector/FAISS/Pinecone/Weaviate/Milvus/Qdrant); monitor\n  drift and rebuild strategies.\n- Fine‑tune & build evaluation: Run SFT/LoRA or\n  instruction‑tuning on curated datasets; evaluate the ROI\n  vs. prompt engineering/model selection; manage data\n  versioning and reproducibility. Create offline and online\n  eval harnesses (helpfulness, groundedness, hallucination,\n  toxicity, latency, cost), synthetic test sets,\n  red‑teaming, and human‑in‑the‑loop review.\n- Collaborate cross‑functionally while raising engineering\n  standards: Work side by side with Product, Design, and GTM\n  on scoping, UX, and measurement; run experiments (A/B,\n  canaries), interpret results, and iterate. Write clear,\n  maintainable code, add tests and docs, and contribute to\n  reliability practices (alerts, dashboards, incident\n  response).\n\nWhat we're looking for\n\n- Software engineering background: 5+ years of professional\n  software engineering experience, including 2+ years\n  working with modern LLMs (as an IC). Startup experience\n  and comfort operating in fast, scrappy environments is a\n  plus.\n- Proven production impact: You’ve taken LLM/RAG systems from\n  prototype to production, owned reliability/observability,\n  and iterated post‑launch based on evals and user feedback.\n- LLM agentic systems: Experience building\n  tool/function‑calling workflows, planning/execution loops,\n  and safe tool integrations (e.g., with\n  LangChain/LangGraph, LlamaIndex, Semantic Kernel, or\n  custom orchestration).\n- RAG expertise: Strong grasp of document ingestion,\n  chunking/windowing, embeddings, hybrid search (keyword +\n  vector), re‑ranking, and grounded citations. Experience\n  with re‑rankers/cross‑encoders, hybrid retrieval tuning,\n  or search/recommendation systems.\n- Embeddings & vector stores: Hands‑on with embedding model\n  selection/versioning and vector DBs (e.g., pgvector,\n  FAISS, Pinecone, Weaviate, Milvus, Qdrant).\n- Evaluation mindset: Comfort designing eval suites (RAG/QA,\n  extraction, summarization), using automated and\n  human‑in‑the‑loop methods; familiarity with frameworks\n  like Ragas/DeepEval/OpenAI Evals or equivalent.\n- Infrastructure & languages: Proficiency in Python (FastAPI,\n  Celery) and TypeScript/Node; Experience with AWS/GCP,\n  Docker, CI/CD, and observability (logs/metrics/traces).\n- Data chops: Comfortable with SQL, schema design, and\n  building/maintaining data pipelines that power retrieval\n  and evaluation.\n- Collaborative approach: You thrive in a cross‑functional\n  environment and can translate researchy ideas into\n  shippable, user‑friendly features.\n- Results‑driven: Bias for action and ownership with an eye\n  for speed, quality, and simplicity.\n\nNice to have\n\n- Fine‑tuning: Practical experience with SFT/LoRA or\n  instruction‑tuning (and good intuition for when\n  fine‑tuning vs. prompting vs. model choice is the right\n  lever).\n- Exposure to open‑source LLMs (e.g., Llama) and providers\n  (e.g., OpenAI, Anthropic, Google, Mistral).\n- Familiarity with responsible AI, red‑teaming, and\n  domain‑specific safety policies.\n\nCompensation & Benefits\n\n- Salary ranges are based on market data, relative to our\n  size, industry, and stage of growth. Salary is one part of\n  total compensation, which also includes equity, perks, and\n  competitive benefits.\n- For US-based candidates, our target salary band is $175,000\n  - $220,000/year + equity. Salary decisions will be based\n  on multiple factors including geographic location,\n  qualifications for the role, skillset, proficiency, and\n  experience level.\n- 100% covered health, dental, and vision insurance for\n  employees, 50% for dependents\n- Generous PTO policy, including parental leave\n- 401(k)\n- Company laptop + stipend to set up your home workstation\n- Company retreats for in-person time with your colleagues\n- Work with awesome nonprofits around the US. We partner with\n  incredible organizations doing meaningful work, and you\n  get to help power their success.\n",
+  "skills_required": [
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "LoRA",
+    "PEFT",
+    "RAG",
+    "SFT",
+    "Semantic Kernel",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design and deploy agentic LLM systems with tool/function calling capabilities for grant discovery, application drafting, and research assistance",
+    "Own end-to-end RAG implementation including document ingestion, chunking, embedding strategies, hybrid retrieval, re-ranking, and grounding",
+    "Manage embeddings at scale including model selection, versioning, vector store maintenance, and index health monitoring",
+    "Run fine-tuning with SFT/LoRA and build comprehensive evaluation harnesses for measuring helpfulness, groundedness, and hallucinations",
+    "Collaborate cross-functionally with Product, Design, and GTM on feature scoping, experimentation, and iteration based on user feedback",
+    "Implement reliability practices including observability, alerts, dashboards, and incident response for AI production systems"
+  ],
+  "use_cases": [
+    "Grant discovery automation using agentic AI systems",
+    "Grant application drafting assistance with LLMs",
+    "Research assistance for nonprofit fundraising activities",
+    "Hybrid retrieval search across grant databases and domain data",
+    "Grounded and citable AI responses with RAG pipelines"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "CI/CD",
+    "Celery",
+    "Docker",
+    "FAISS",
+    "FastAPI",
+    "GCP",
+    "Milvus",
+    "Pinecone",
+    "Qdrant",
+    "Weaviate",
+    "pgvector"
+  ],
+  "frameworks_mentioned": [
+    "LangChain",
+    "LangGraph",
+    "LlamaIndex",
+    "LoRA",
+    "PEFT",
+    "RAG",
+    "SFT",
+    "Semantic Kernel",
+    "agents",
+    "function calling",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Node",
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work building agentic LLM\nsystems, implementing RAG pipelines, managing embeddings and\nvector stores, and running fine-tuning with SFT/LoRA. The\nengineer will directly build, deploy, and optimize AI models\nand systems for production, not just support infrastructure\nor data pipelines for AI work.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "Semantic Kernel",
+      "RAG",
+      "agents",
+      "function calling",
+      "prompt engineering",
+      "PEFT"
+    ],
+    "ml": [
+      "LoRA",
+      "SFT"
+    ],
+    "web": [
+      "FastAPI"
+    ],
+    "databases": [
+      "pgvector",
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "Qdrant",
+      "FAISS"
+    ],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP"
+    ],
+    "ops": [
+      "Docker",
+      "CI/CD",
+      "Celery"
+    ],
+    "languages": [
+      "TypeScript",
+      "Node",
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

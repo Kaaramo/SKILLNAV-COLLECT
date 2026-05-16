@@ -1,0 +1,36 @@
+company:
+  name: SQLI
+  stage: null
+  focus: null
+position:
+  title: Data Scientist Sénior Python/GCP
+  ai_type:
+    type: ml-first
+    reasoning: Traditional ML role focused on model building (scikit/pytorch/tensorflow without GenAI emphasis)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases:
+    - bigquery
+    data:
+    - dbt
+    - sql
+    cloud:
+    - gcp
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - agile
+    - Git
+    - scrum
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4366635304'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

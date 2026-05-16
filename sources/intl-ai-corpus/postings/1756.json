@@ -1,0 +1,128 @@
+{
+  "job_id": "intl-ai-corpus-1756",
+  "source": "intl-ai-corpus",
+  "source_ref": "8596770",
+  "source_url": "https://builtin.com/job/senior-software-engineer-i-ai/8596770",
+  "title": "Senior Software Engineer I - AI",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Beckman Coulter Diagnostics",
+  "company_type": "entité morale privée",
+  "location": "Bengaluru, IND",
+  "city_inferred": "India",
+  "country": "IN",
+  "remote_policy": "on-site",
+  "posted_date": "2026-02-26",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "10,526 Employees",
+  "company_stage": "Public",
+  "company_focus": "CDMO services for genomic medicine therapies",
+  "industries": [
+    "Healthtech",
+    "Other",
+    "Software",
+    "Biotech"
+  ],
+  "description": "Bring more to life.\n\n\n\nAre you ready to accelerate your potential and make a real\ndifference within life sciences, diagnostics and\nbiotechnology?\n\n\n\nAt Aldevron, one of Danaher’s 15+ operating companies, our\nwork saves lives—and we’re all united by a shared commitment\nto innovate for tangible impact.\n\n\n\nYou’ll thrive in a culture of belonging where you and your\nunique viewpoint matter. And by harnessing Danaher’s system\nof continuous improvement, you help turn ideas into impact –\ninnovating at the speed of life.\n\n\n\nAt Aldevron, we deliver world-class CDMO services that\naccelerate the development of groundbreaking therapies. Our\nmission is to be the engine of innovation for genomic\nmedicine pioneers. As a member of our team, you’ll help\nbring life-changing innovations to life—impacting millions\naround the world. We bring together deep scientific\nexpertise, an unwavering commitment to quality, and a\ncollaborative spirit to drive progress. Whether you're\nlaunching your career or bringing years of experience, we\nvalue the unique perspective you bring. Join us and become\npart of a mission-driven team advancing science and\nunlocking human potential—one discovery at a time.\n\n\n\nLearn about the Danaher Business System which makes\neverything possible.\n\n\n\nThe AI Software Engineer, Sr is responsible for building\ncustom applications and tools to achieve business outcomes.\nThey leverage their understanding of\ntechnical solutions to optimize\n\n processes and improve the organizational productivity and\nefficiency.\n\n\n\nThis position reports to the Director, AI & Data Engineering\nand is part of the AI & Data Team located in Bengaluru,\nIndia and will be an on-site role.\n\n\n\nIn this role, you will have the opportunity to:\n\n- Develop, test, and deploy custom Python applications for\n  predictive analytics, process automation, and data-driven\n  decision support to solve real-world problems in biotech\n\n- Design, implement, and optimize low-level code for training\n  and fine-tuning RAG models using OpenAI LLMs and related\n  frameworks\n\n- Integrate AI models with enterprise data sources, ensuring\n  robust, scalable, and secure solutions\n\n- Design, code, and test custom applications and scripts using\n  industry-standard development systems and practices\n\n- Deliver functionality according to technical\n  specifications to achieve expected business outcomes\n\nThe essential requirements of the job include:\n\n- Experience with programming languages: Python ,  JavaScript,\n  Java, C# .NET\n\n- Experience with CI/CD and DevOps practices, including\n  automated tools for build, test, and deployment (e.g.,\n  Azure DevOps)\n\n- Strong experience in Agile Software Development, with a\n  track record of delivering high-quality software in\n  iterative cycles\n\n- Strong analytical and problem-solving skills\n\n- Secure Code Development\n\n\n\nIt would be a plus if you also possess previous experience\nin:\n\n- Strong understanding of data security, compliance, and\n  governance frameworks\n\n- Experience with Azure Databricks, Datalakes & equivalent SQL\n  database systems\n\n- Scrum Leadership, experience and ability to mentor teams on\n  Agile principles\n\n\n\n\n\nJoin our winning team today. Together, we’ll accelerate the\nreal-life impact of tomorrow’s science and technology. We\npartner with customers across the globe to help them solve\ntheir most complex challenges, architecting solutions that\nbring the power of science to life.\n\nFor more information, visit www.danaher.com.\n",
+  "skills_required": [
+    "Agile Software Development",
+    "Compliance",
+    "Data Security",
+    "Governance Frameworks",
+    "OpenAI LLMs",
+    "RAG",
+    "Scrum Leadership",
+    "Secure Code Development"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Develop, test, and deploy custom Python applications for predictive analytics, process automation, and data-driven decision support to solve real-world problems in biotech",
+    "Design, implement, and optimize low-level code for training and fine-tuning RAG models using OpenAI LLMs and related frameworks",
+    "Integrate AI models with enterprise data sources, ensuring robust, scalable, and secure solutions",
+    "Design, code, and test custom applications and scripts using industry-standard development systems and practices",
+    "Deliver functionality according to technical specifications to achieve expected business outcomes"
+  ],
+  "use_cases": [
+    "Predictive analytics for biotech applications",
+    "Process automation and optimization",
+    "Data-driven decision support systems",
+    "RAG-based AI solutions with enterprise data integration",
+    "Real-world problem solving in biotechnology and life sciences"
+  ],
+  "tools_mentioned": [
+    "Azure Databricks",
+    "Azure DevOps",
+    "CI/CD",
+    "Datalakes",
+    "DevOps",
+    "SQL"
+  ],
+  "frameworks_mentioned": [
+    "OpenAI LLMs",
+    "RAG"
+  ],
+  "languages_programming": [
+    "C# .NET",
+    "Java",
+    "JavaScript",
+    "Python"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DATA_ENGINEERING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work designing and implementing\nlow-level code for training and fine-tuning RAG models using\nOpenAI LLMs, which directly involves building and deploying\nAI/ML models. Additionally, the position requires developing\nPython applications for predictive analytics and integrating\nAI models with enterprise data sources, which qualifies as\nworking directly ON AI systems rather than supporting them.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "RAG",
+      "OpenAI LLMs"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "SQL"
+    ],
+    "data": [
+      "Azure Databricks",
+      "Datalakes"
+    ],
+    "cloud": [],
+    "ops": [
+      "CI/CD",
+      "DevOps",
+      "Azure DevOps"
+    ],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C# .NET"
+    ],
+    "domains": [],
+    "other": [
+      "Agile Software Development",
+      "Secure Code Development",
+      "Data Security",
+      "Compliance",
+      "Governance Frameworks",
+      "Scrum Leadership"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:51+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

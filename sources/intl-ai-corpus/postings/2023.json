@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-2023",
+  "source": "intl-ai-corpus",
+  "source_ref": "8703086",
+  "source_url": "https://builtin.com/job/applied-ai-engineer/8703086",
+  "title": "Applied AI Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Amigo",
+  "company_type": "entité morale privée",
+  "location": "New York, USA",
+  "city_inferred": "New York",
+  "country": "US",
+  "remote_policy": "unknown",
+  "posted_date": "2026-03-10",
+  "publication_month": "2026-03",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Mid level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "30 Employees",
+  "company_stage": "Series A",
+  "company_focus": "Healthcare AI agents for clinical workflows and patient\nengagement",
+  "industries": [
+    "Artificial Intelligence",
+    "Enterprise Web",
+    "Healthtech",
+    "Software"
+  ],
+  "description": "About Amigo\n\nAmigo partners with healthcare organizations to deploy\nrobust AI infrastructure that directly serves patients and\nproviders. Our agents handle clinical workflows and patient\nengagement across the entire journey: pre-visit intake, care\nnavigation, post-visit care plans, patient monitoring, and\nmore.\n\nWe own outcomes, not just delivery. For our customers, we're\nresponsible for agent performance: clinical safety,\ncontinuous improvement, measurable patient outcomes. Agents\noperate autonomously within bounded clinical domains, with\nclear scope and handoff protocols. That scope expands as we\nvalidate performance across populations.\n\nWe're backed by Tier 1 investors like General Catalyst, GSV\nVentures, SVA, and CohoVC. Our work is validated with\nleading academic medical institutions. Our agents have\nreached 3M+ patient encounters and are on track to 10x this\nyear.\n\nAbout this role\n\nAs an Agent Engineer at Amigo, you'll implement production\nAI agents using our architecture and verification framework.\nYou'll work directly with clinical teams and enterprise\ncustomers to build agents that handle complex, specialized\nservices with measurable reliability. This role requires\nstrong technical implementation skills combined with the\nability to translate domain expertise into working systems\nthat maintain perfect compliance in regulated environments.\n\nWhat you'll do\n\n- Implement context graphs that enable agents to select the\n  right reasoning mode (lookup, pattern recognition,\n  exploration) based on problem complexity\n- Build and optimize agent configurations, including static\n  personas, dynamic behaviors, and functional memory systems\n- Design bounded Operational Patient Domains (OPDs) with\n  explicit inclusions, exclusions, capabilities, and\n  escalation rules\n- Implement verification loops and simulation-based testing to\n  validate agent performance against customer KPIs\n- Write Python code for tool integrations and API\n  orchestration within customer environments\n- Build evaluation suites that gate deployments using\n  customer-specific success metrics\n- Collaborate with domain experts through structured\n  interviews to capture reasoning patterns and clinical\n  protocols\n- Support technical power users through git-based workflows\n  for rapid iteration\n- Implement adversarial testing to systematically identify and\n  prevent failure modes\n- Ensure agents maintain audit-ready provenance with version\n  pinning and evidence links\n- Contribute to systematizing implementation patterns across\n  different problem domains\n\nWhat we're looking for\n\n- 2+ years of production software engineering experience\n- Strong Python skills including proper use of typing, and\n  experience building highly reliable systems that interact\n  with external APIs (schema design, retry strategies, error\n  propagation)\n- Experience with LLMs, prompt engineering, and building on AI\n  platforms\n- Ability to implement systems with strict reliability\n  requirements\n- Understanding of testing and verification methodologies\n- Experience working directly with customers or stakeholders\n  to deliver technical solutions\n- Familiarity with git workflows and collaborative development\n- Strong debugging and problem-solving skills for complex\n  systems\n- Ability to balance theoretical concepts with practical\n  implementation constraints\n- Clear technical communication for both engineering and non-\n  technical audiences\n\nNice to have\n\n- Experience in regulated industries (healthcare, finance,\n  legal)\n- Background with simulation, synthetic data, or evaluation\n  frameworks\n- Understanding of distributed systems and service-oriented\n  architectures\n- Experience with observability and monitoring in production\n  environments\n- Familiarity with compliance requirements (HIPAA, SOC 2,\n  GDPR)\n\n\n\nBenefits\n\nHealth & Wellness\n\n- Comprehensive health, dental, and vision insurance\n- Daily catered lunch and dinner\n- Mental health support and wellness coaching\n- Flexible wellness stipend for fitness, therapy, or personal\n  growth\n\nGrowth & Development\n\n- Annual learning budget for courses, books, or conferences\n- Conference attendance budget for professional development\n- Annual team offsite\n- Academic collaboration opportunities\n- Unlimited PTO\n\nOur Core Values\n\n- Patients Win, We WinIf patients aren't getting better care,\n  we haven't earned the right to scale. Every internal\n  decision gets pressure-tested: does this make patients'\n  lives better? If we can't draw the line, we question why\n  we're doing it.\n- High Standards, High CareWe hold a high bar for the team\n  because patients are counting on us to get this right. But\n  high standards only work with genuine investment in each\n  other. You can take risks, admit mistakes, and challenge\n  ideas—not despite our standards, but because of them.\n- Thoughtful UrgencyWe move fast by default, but speed without\n  judgment is recklessness. The discipline is knowing which\n  decisions are reversible vs. not. In healthcare AI, the\n  companies that win will be fast everywhere they can be and\n  careful everywhere they must be. We build the muscle to do\n  both.\n- Intensely MeasuredWe instrument patient outcomes, provider\n  ROI, system performance, and clinical accuracy. But data\n  without action is surveillance. Every metric should have\n  an owner, a threshold, and a response plan. If we're\n  measuring something but never acting on it, we stop\n  measuring it.\n\nWho Builds With Us\n\n- Low ego: Politics and territory don't interest you. The best\n  ideas win, regardless of who has them.\n- Direct: You say the hard thing, challenge ideas openly, and\n  commit fully once decided.\n- High agency: You thrive on trust rather than instruction.\n  When you see something is broken, you fix it. You don’t\n  file tickets and wait for someone else.\n- Bar of excellence: You hold yourself to a bar most people\n  wouldn't, and you want teammates who do the same.\n- Skeptical: You push back on rules that don’t make sense and\n  question assumptions that haven’t earned their place.\n",
+  "skills_required": [
+    "AI agents",
+    "HIPAA compliance",
+    "LLMs",
+    "RAG",
+    "evaluation frameworks",
+    "prompt engineering",
+    "simulation"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Implement context graphs that enable agents to select the right reasoning mode based on problem complexity",
+    "Build and optimize agent configurations including static personas, dynamic behaviors, and functional memory systems",
+    "Design bounded Operational Patient Domains with explicit inclusions, exclusions, capabilities, and escalation rules",
+    "Implement verification loops and simulation-based testing to validate agent performance against customer KPIs",
+    "Write Python code for tool integrations and API orchestration within customer environments",
+    "Build evaluation suites that gate deployments using customer-specific success metrics",
+    "Implement adversarial testing to systematically identify and prevent failure modes",
+    "Ensure agents maintain audit-ready provenance with version pinning and evidence links"
+  ],
+  "use_cases": [
+    "Pre-visit patient intake and care navigation",
+    "Post-visit care plans and patient monitoring",
+    "Clinical workflow automation for healthcare organizations",
+    "Patient engagement across the entire healthcare journey",
+    "Autonomous agent operation within bounded clinical domains"
+  ],
+  "tools_mentioned": [
+    "APIs",
+    "distributed systems",
+    "git",
+    "monitoring",
+    "observability",
+    "testing"
+  ],
+  "frameworks_mentioned": [
+    "AI agents",
+    "LLMs",
+    "RAG",
+    "evaluation frameworks",
+    "prompt engineering",
+    "simulation"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role is ai-first because it directly involves\nimplementing production AI agents, building context graphs\nfor agent reasoning, designing agent behaviors and memory\nsystems, and implementing verification frameworks for LLM-\nbased systems. The engineer works ON the AI agents\nthemselves, not just supporting infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "prompt engineering",
+      "AI agents",
+      "RAG"
+    ],
+    "ml": [
+      "simulation",
+      "evaluation frameworks"
+    ],
+    "web": [
+      "APIs"
+    ],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "git",
+      "testing",
+      "distributed systems",
+      "observability",
+      "monitoring"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "domains": [],
+    "other": [
+      "HIPAA compliance"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:54+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

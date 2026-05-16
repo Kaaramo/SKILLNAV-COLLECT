@@ -1,0 +1,125 @@
+{
+  "job_id": "intl-ai-corpus-0087",
+  "source": "intl-ai-corpus",
+  "source_ref": "6953405",
+  "source_url": "https://builtin.com/job/ai-product-engineer/6953405",
+  "title": "AI Product Engineer",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PostHog",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-24",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "60 Employees",
+  "company_stage": "Series B",
+  "company_focus": "Open-source product analytics platform with AI-powered\nanalyst",
+  "industries": [
+    "Software",
+    "Analytics"
+  ],
+  "description": "Help us to increase the number of successful products in the\nworld!\n\n- 🌍 Location: We are full-remote and globally distributed! Our\n  current team is distributed between GMT-8 and GMT+2, so we\n  currently only hire in these timezones.\n- 🎤 Interview process: 1) Call with one of our Talent\n  Partners, 2) 60min technical interview, and 3) 15min call\n  with a co-founder, 4) PostHog SuperDay (paid day of work).\n  Read more about our interview process.\n- 🖥️ Team: New team, Tasks - with Peter\n- 💰 Compensation: Please check our compensation calculator.\n- 🦔 Read more about how we hire and how we think about\n  diversity & inclusion.\n\nAbout PostHog\n\nWe're shipping every product that companies need to run\ntheir business from their first day, to the day they IPO,\nand beyond. The operating system for folks who build\nsoftware.\n\nWe started with open-source product analytics, launched out\nof Y Combinator's W20 cohort. We've since shipped more than\na dozen products, including:\n\n- A built-in data warehouse, so users can query product and\n  customer data together using custom SQL insights.\n- A customer data platform, so they can send their data\n  wherever they need with ease.\n- PostHog AI, an AI-powered analyst that answers product\n  questions, helps users find useful session recordings, and\n  writes custom SQL queries.\n\nNext on the roadmap are CRM, Workflow, revenue analytics,\nand support products. When we say every product that\ncompanies need to run their business, we really mean it!\n\nWe are:\n\n- Product-led. More than 100,000 companies have installed\n  PostHog, mostly driven by word-of-mouth. We have intensely\n  strong product-market fit.\n- Default alive. Revenue is growing 10% MoM on average, and\n  we're very efficient. We raise money to push ambition and\n  grow faster, not to keep the lights on.\n- Well-funded. We've raised more than $100m from some of the\n  world's top investors. We're set up for a long, ambitious\n  journey.\n\nWe're focused on building an awesome product for end users,\nhiring exceptional teammates, shipping fast, and being as\nweird as possible.\n\nThings we care about\n\n- Transparency: Everyone can read about our roadmap, how we\n  pay (or even let go of) people, our strategy, and how we\n  work, in our public company handbook. Internally, we share\n  revenue, notes and slides from board meetings, and\n  fundraising plans, so everyone has the context they need\n  to make good decisions.\n- Autonomy: We don’t tell anyone what to do. Everyone chooses\n  what to work on next based on what's going to have the\n  biggest impact on our customers, and what they find\n  interesting and motivating to work on. Engineers lead\n  product teams and make product decisions. Teams are\n  flexible and easy to change when needed.\n- Shipping fast: Why not now? We want to build a lot of\n  products; we can't do that shipping at a normal pace.\n  We've built the company around small teams – autonomous,\n  highly-efficient groups of cracked engineers who can\n  outship much larger companies because they own their\n  products end-to-end.\n- Time for building: Nothing gets shipped in a meeting. We're\n  a natively remote company. We default to async\n  communication – PRs > Issues > Slack. Tuesdays and\n  Thursdays are meeting-free days, and we prioritize heads\n  down building time over perfect coordination. This will be\n  the most productive job you've ever had.\n- Ambition: We want to solve big problems. We strongly believe\n  that aiming for the best possible upside, and sometimes\n  missing, is better than never trying. We're optimistic\n  about what's possible and our ability to get there.\n- Being weird: Weird means redesigning an already world-class\n  website for the 5th time. It means shipping literally\n  every product that relates to customer data. It means\n  building an objectively unnecessary developer toy with\n  dubious shareholder value. Doing weird stuff is a\n  competitive advantage. And it's fun.\n\nWho we're looking for\n\nWe’re looking for a full-stack engineer who knows how to\nleverage LLMs to make PostHog 10x more powerful. You’ve\nbuilt and shipped agentic AI applications before and\nunderstand it’s more than just hitting an API with a good\nprompt.\n\nYou’ll fit right in if you:\n\n- Ship end-to-end AI apps — from backend infra to frontend UX.\n- Collaborate widely — work across teams, find the right\n  people, and make progress fast.\n- Think like a product builder — care about users and\n  outcomes, not just code.\n\nIf you’ve worked in autonomous agents, workflow automation,\nor AI copilots before, you’ll feel at home — but here you’ll\nget to build it from scratch, in the open, with massive\nimpact.\n\nWhat makes this role unique\n\nIn this role, you’re not hacking together an AI agent hoping\nsomeone will use it — you’re building on top of a firehose\nof real customer data with immediate impact, whether that\nmeans creating new AI-powered tools or building\nobservability features that help others understand how their\nagents perform in the wild.\n\n- Impact from day one: You’re building agents on top of real\n  customer data — not toy demos, not “when we get users.”\n- Data advantage: PostHog already collects all the context\n  agents need to be useful: analytics, sessions, events,\n  feature flags, and more. You’ll build on top of it all.\n- Agents that matter: Instead of copilots on the side, you’ll\n  create background agents embedded into engineering\n  workflows - changing how software gets built. Or, you\n  might focus on building the analytics and observability\n  layer around those agents - surfacing insights, clustering\n  behaviors, and measuring model quality so teams can\n  improve their own AI systems with confidence.\n- Build in the open: Work with feedback from the largest open-\n  source product engineering communities in the world.\n\nWhat you'll be doing\n\n- Owning products and features from beginning to end. This\n  means originating ideas based on your intuition, talking\n  to users, and understanding our strategy and goals. It\n  means testing MVPs in production with real users. It means\n  iterating on their feedback, owning pricing, and ensuring\n  the ongoing success of your work.\n- Collaborating with design (when necessary). Product\n  engineers at PostHog are full-stack, so we expect you to\n  ship and own the basic UX of your work using our design\n  system. From there, it's up to you to decide when to\n  collaborate with our design team to iterate and polish the\n  experience.\n- Implementing AI features. LLMs, eh? They're getting\n  prettaaay, prettaay good. All our products integrate with\n  PostHog AI, so you'll likely be working with the PostHog\n  AI team to implement AI features in your products. For\n  some teams, that means designing observability and\n  evaluation features for AI products.\n- Talking to users. Good product engineers read feedback from\n  users and iterate quickly. Great product engineers have\n  users they're friendly with, talk with them frequently,\n  bounce ideas off them, and iterate with them when they\n  ship new things.\n- Doing support. Every week, one person in each engineering\n  team is designated the Support hero. Their job is to\n  investigate and resolve issues reported by customers for\n  their product. Giving users support from real engineers\n  and shipping fixes and improvements in real-time is one of\n  the best ways to spark joy in users. This role will also\n  include some on-call time, too.\n- Writing docs. We have a content team that will collaborate\n  with you on reviewing, polishing, and improving your\n  documentation, but the best person to document a new\n  feature is the person who built it.\n\nRequirements\n\n- Full-stack experience with relevant technologies – e.g.\n  Python or similar, React or similar, something to do with\n  big data is a bonus.\n- Prior experience in AI workflow automation, copilots, or\n  autonomous agent products.\n- Ability to choose pragmatic architectures, ship quickly, and\n  iterate based on real feedback.\n- Strong sense for UX and product polish.\n- Excellent communicator who thrives on collaboration across\n  teams.\n\nNice to have\n\n- Have worked at a high-growth SaaS company before.\n- Extensive knowledge of Django and/or TypeScript-based React.\n- Experience building AI-native products or integrating AI\n  into existing software.\n\nIf you have a disability, please let us know if there's any\nway we can make the interview process better for you - we're\nhappy to accommodate!\n\n#LI-DNI\n",
+  "skills_required": [
+    "AI copilots",
+    "AI workflow automation",
+    "LLMs",
+    "autonomous agents",
+    "model evaluation",
+    "prompt engineering"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Own products and features end-to-end from ideation to ongoing success, including user research, MVP testing, and pricing decisions",
+    "Ship full-stack AI applications ranging from backend infrastructure to frontend UX using the company's design system",
+    "Implement AI features with LLMs and collaborate with the PostHog AI team on AI integrations and observability features",
+    "Build autonomous agents and AI-powered tools on top of real customer data with immediate production impact",
+    "Create analytics and observability layers for AI systems including surfacing insights, clustering behaviors, and measuring model quality",
+    "Engage directly with users to gather feedback, iterate on features quickly, and provide technical support as designated Support hero"
+  ],
+  "use_cases": [
+    "AI-powered analyst that answers product questions and helps users find useful session recordings",
+    "Autonomous agents embedded into engineering workflows to change how software gets built",
+    "AI observability and evaluation features to help teams measure and improve their AI systems",
+    "Background agents that leverage customer data including analytics, sessions, events, and feature flags",
+    "Workflow automation and AI copilots integrated across the PostHog product suite"
+  ],
+  "tools_mentioned": [
+    "AI observability",
+    "Django",
+    "PostgreSQL",
+    "React",
+    "big data",
+    "data pipelines"
+  ],
+  "frameworks_mentioned": [
+    "AI copilots",
+    "AI workflow automation",
+    "LLMs",
+    "autonomous agents",
+    "model evaluation",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "Python",
+    "SQL",
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "BIG_DATA",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role requires hands-on experience building AI\napplications including LLMs, autonomous agents, and AI\ncopilots from scratch. The engineer will implement AI\nfeatures directly, create background agents embedded in\nworkflows, and build observability layers for measuring\nmodel performance.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "LLMs",
+      "autonomous agents",
+      "AI copilots",
+      "AI workflow automation",
+      "prompt engineering"
+    ],
+    "ml": [
+      "model evaluation"
+    ],
+    "web": [
+      "React",
+      "Django"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "data": [
+      "data pipelines",
+      "big data"
+    ],
+    "cloud": [],
+    "ops": [
+      "AI observability"
+    ],
+    "languages": [
+      "TypeScript",
+      "Python",
+      "SQL"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:37+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

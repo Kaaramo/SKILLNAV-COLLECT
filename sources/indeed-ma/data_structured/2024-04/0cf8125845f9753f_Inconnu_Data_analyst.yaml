@@ -1,0 +1,32 @@
+company:
+  name: Inconnu
+  stage: null
+  focus: null
+position:
+  title: Data analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other:
+    - data visualization
+    - looker
+    - powerbi
+    - tableau
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 0cf8125845f9753f
+  extracted_at: '2026-05-16T01:30:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

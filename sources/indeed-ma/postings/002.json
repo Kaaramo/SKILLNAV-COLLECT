@@ -1,0 +1,52 @@
+{
+  "job_id": "indeed-ma-2026-002",
+  "source": "indeed-ma",
+  "source_url": "https://ma.indeed.com/viewjob?jk=c98ee706ef2f9e89",
+  "source_ref": "c98ee706ef2f9e89",
+  "title": "Data Scientist",
+  "title_normalized": "DATA_SCIENTIST",
+  "company": "CIH Bank",
+  "company_type": "entité morale privée",
+  "location": "Casablanca",
+  "country": "MA",
+  "remote_policy": "on-site",
+  "posted_date": "2026-02-13",
+  "deadline_date": null,
+  "contract_type": "CDI",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "description": "Titre: Junior Data Scientist\nEntreprise: CIH Bank (4.0/5 étoiles)\nLieu: Casablanca - Maroc\nDate publication: 13-02-2026\nDirection: JUNIOR DATA SCIENTIST\nFonction: Autre fonction\nURL: https://ma.indeed.com/viewjob?jk=c98ee706ef2f9e89\n\nMission:\nConduct in-depth predictive analyses using complex data to help business units make informed decisions. Using statistical modeling and machine learning techniques, the Data Scientist will create predictive models and propose corresponding metrics in order to evaluate the efficiency of these models.\n\nKey Responsibilities:\n- Workflow Integration: Prepare and integrate developments into existing workflows\n- Comprehensive Documentation: thoroughly document critical parts of code, global workflows, significance and use of data\n- Data Evaluation and Communication: evaluate data quality before usage, communicate date-related issues\n- Coding Standards and Documentation: adhere to coding standards, propose improvements to existing code base\n- Prediction and Model Evaluation: help define business metrics + technical metrics\n- Technical Procedures: document and model technical procedures specific to Data Science\n\nProfil recherché:\n- Bachelor or Master's degree in Data Science, Computer Science, or related field\n- Knowledge in ML libraries (pandas, numpy, scikit-learn, pytorch, tensorflow)\n- Knowledge in Python programming language\n- Understanding of machine learning models and data preprocessing\n- Strong analytical and problem-solving skills\n- Abil",
+  "skills_required": [
+    "Python",
+    "Machine Learning",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "pandas",
+    "numpy"
+  ],
+  "skills_optional": [],
+  "responsibilities": [],
+  "tools_mentioned": [
+    "pandas",
+    "numpy"
+  ],
+  "frameworks_mentioned": [
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn"
+  ],
+  "languages_programming": [
+    "Python"
+  ],
+  "domains_iaml": [],
+  "job_family": "DATA_SCIENTIST",
+  "scraped_at": "2026-05-14T21:30:00Z",
+  "scraper": "skillnav-playwright-mcp-v1.0",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.92,
+  "extraction_method": "playwright + detail extraction",
+  "query_used": "data scientist"
+}

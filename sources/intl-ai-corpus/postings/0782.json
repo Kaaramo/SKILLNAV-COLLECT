@@ -1,0 +1,133 @@
+{
+  "job_id": "intl-ai-corpus-0782",
+  "source": "intl-ai-corpus",
+  "source_ref": "6976839",
+  "source_url": "https://www.builtinla.com/job/senior-software-engineer-distributed-inference/6976839",
+  "title": "Senior Software Engineer, AI Inference",
+  "title_normalized": "AI_ENGINEER",
+  "company": "NVIDIA",
+  "company_type": "entité morale privée",
+  "location": "INTL",
+  "city_inferred": null,
+  "country": "INTL",
+  "remote_policy": "hybrid",
+  "posted_date": "2026-02-04",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": null,
+  "company_stage": "Public",
+  "company_focus": "GPU-accelerated AI computing and deep learning software",
+  "industries": [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Hardware",
+    "Robotics",
+    "Metaverse"
+  ],
+  "description": "NVIDIA has been transforming computer graphics, PC gaming,\nand accelerated computing for more than 25 years. It’s a\nunique legacy of innovation that’s fueled by great\ntechnology—and amazing people. Today, we’re tapping into the\nunlimited potential of AI to define the next era of\ncomputing. An era in which our GPU acts as the brains of\ncomputers, robots, and self-driving cars that can understand\nthe world. Doing what’s never been done before takes vision,\ninnovation, and the world’s best talent. As an NVIDIAN,\nyou’ll be immersed in a diverse, supportive environment\nwhere everyone is inspired to do their best work. Come join\nthe team and see how you can make a lasting impact on the\nworld.\n\nWe are now looking for a Senior System Software Engineer to\nwork on user facing tools for Dynamo Inference Server!\nNVIDIA is hiring software engineers for its GPU-accelerated\ndeep learning software team, and we are a remote friendly\nwork environment. Academic and commercial groups around the\nworld are using GPUs to power a revolution in deep learning,\nenabling breakthroughs in problems from LLM, image\nclassification to speech recognition to natural language\nprocessing. We are a fast-paced team building tools and\nsoftware to make the design and deployment of new deep\nlearning models easier and accessible to more data\nscientists.\n\nWhat you’ll be doing:\n\n- Build and maintain distributed model management systems,\n  including Rust-based runtime components, for large-scale\n  AI inference workloads.\n- Implement inference scheduling and deployment solutions on\n  Kubernetes and Slurm, while driving advances in scaling,\n  orchestration, and resource management.\n- Collaborate with infrastructure engineers and researchers to\n  develop scalable APIs, services, and end-to-end inference\n  workflows.\n- Create monitoring, benchmarking, automation, and\n  documentation processes to ensure low-latency, robust, and\n  production-ready inference systems on GPU clusters.\n\nWhat we need to see:\n\n- Bachelor’s, Master’s, or PhD in Computer Science, ECE, or\n  related field (or equivalent experience).\n- 6+ years of professional software engineering experience.\n- Strong understanding of modern ML architectures with a keen\n  intuition for optimizing inference performance.\n- Take full ownership of problems end-to-end, proactively\n  acquiring any knowledge or skills needed to deliver\n  results.\n- Familiar with  or able to quickly gain expertise in vLLM,\n  SGLang, PyTorch, NVIDIA GPUs, and supporting software\n  stacks such as NIXL, NCCL, CUDA, as well as HPC\n  technologies like InfiniBand, MPI, and NVLink.\n- Experienced in architecting, building, monitoring, and\n  debugging production-grade distributed systems; bonus if\n  you’ve worked on performance-critical ones.\n\nWays to stand out from the crowd:\n\n- Experience with inference-serving frameworks (e.g., Dynamo\n  Inference Server, TensorRT, ONNX Runtime) and\n  deploying/managing LLM inference pipelines at scale.\n- Contributions to large-scale, low-latency distributed\n  systems (open-source preferred) with proven expertise in\n  high-availability infrastructure.\n- Strong background in GPU inference performance tuning, CUDA-\n  based systems, and operating across cloud-native and\n  hybrid environments (AWS, GCP, Azure).\n\nNVIDIA has continuously reinvented itself over three\ndecades. Our invention of the GPU in 1999 sparked the growth\nof the PC gaming market, redefined modern computer graphics,\nand revolutionized parallel computing. More recently, GPU\ndeep learning ignited modern AI — the next era of computing.\nWe are widely considered to be the leader of AI computing,\nand one of the technology world’s most desirable employers.\nWe have some of the most forward-thinking and committed\npeople in the world working for us. If you're creative and\nautonomous, we want to hear from you!\n\nYour base salary will be determined based on your location,\nexperience, and the pay of employees in similar positions.\nThe base salary range is 184,000 USD - 287,500 USD for Level\n4, and 224,000 USD - 356,500 USD for Level 5.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until\nJanuary 13, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering a diverse work environment\nand proud to be an equal opportunity employer. As we highly\nvalue diversity in our current and future employees, we do\nnot discriminate (including in our hiring and promotion\npractices) on the basis of race, religion, color, national\norigin, gender, gender expression, sexual orientation, age,\nmarital status, veteran status, disability status or any\nother characteristic protected by law.\n",
+  "skills_required": [
+    "CUDA",
+    "NVIDIA GPUs",
+    "PyTorch"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build and maintain distributed model management systems, including Rust-based runtime components, for large-scale AI inference workloads",
+    "Implement inference scheduling and deployment solutions on Kubernetes and Slurm, driving advances in scaling, orchestration, and resource management",
+    "Collaborate with infrastructure engineers and researchers to develop scalable APIs, services, and end-to-end inference workflows",
+    "Create monitoring, benchmarking, automation, and documentation processes to ensure low-latency, robust, and production-ready inference systems on GPU clusters"
+  ],
+  "use_cases": [
+    "Large-scale AI inference workloads on GPU clusters",
+    "LLM inference pipelines and deep learning model deployment",
+    "Distributed inference scheduling and orchestration across Kubernetes and Slurm",
+    "Low-latency production inference systems for AI applications",
+    "GPU-accelerated deep learning inference for NLP, image classification, and speech recognition"
+  ],
+  "tools_mentioned": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Dynamo Inference Server",
+    "GCP",
+    "InfiniBand",
+    "Kubernetes",
+    "MPI",
+    "NCCL",
+    "NIXL",
+    "NVLink",
+    "ONNX Runtime",
+    "SGLang",
+    "Slurm",
+    "TensorRT",
+    "vLLM"
+  ],
+  "frameworks_mentioned": [
+    "CUDA",
+    "NVIDIA GPUs",
+    "PyTorch"
+  ],
+  "languages_programming": [
+    "Python",
+    "Rust"
+  ],
+  "domains_iaml": [
+    "CLOUD_DATA",
+    "DEEP_LEARNING",
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves building and maintaining distributed\nmodel management systems for AI inference workloads,\nincluding deploying LLM inference pipelines at scale. The\nengineer will work directly on inference-serving frameworks,\nGPU inference performance tuning, and optimizing inference\nperformance for deep learning models, which is hands-on work\nwith AI systems rather than just supporting infrastructure.",
+  "is_customer_facing": true,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [],
+    "ml": [
+      "PyTorch",
+      "CUDA",
+      "NVIDIA GPUs"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [
+      "AWS",
+      "GCP",
+      "Azure"
+    ],
+    "ops": [
+      "vLLM",
+      "SGLang",
+      "TensorRT",
+      "ONNX Runtime",
+      "Dynamo Inference Server",
+      "Kubernetes",
+      "Slurm",
+      "Docker",
+      "NCCL",
+      "NIXL",
+      "MPI",
+      "InfiniBand",
+      "NVLink"
+    ],
+    "languages": [
+      "Rust",
+      "Python"
+    ],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:43+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

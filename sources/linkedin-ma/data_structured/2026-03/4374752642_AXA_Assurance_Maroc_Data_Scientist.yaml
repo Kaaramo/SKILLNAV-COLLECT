@@ -1,0 +1,39 @@
+company:
+  name: AXA Assurance Maroc
+  stage: null
+  focus: null
+position:
+  title: Data Scientist
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai:
+    - genai
+    - llm
+    - prompt engineering
+    ml:
+    - machine learning
+    - pytorch
+    - scikit-learn
+    - tensorflow
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - PySpark
+    - statistics
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4374752642'
+  extracted_at: '2026-05-15T15:53:12+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

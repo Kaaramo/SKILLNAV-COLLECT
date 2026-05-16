@@ -1,0 +1,41 @@
+company:
+  name: Expleo
+  stage: null
+  focus: null
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: Role builds GenAI / LLM / agent systems (GenAI skills or LLM/RAG keywords in description)
+  responsibilities: []
+  use_cases:
+  - Chatbot / conversational AI
+  skills:
+    genai:
+    - agents
+    - generative ai
+    - llm
+    - prompting
+    - rag
+    - retrieval-augmented
+    ml:
+    - deep learning
+    - machine learning
+    web: []
+    databases:
+    - mongodb
+    - postgresql
+    data: []
+    cloud: []
+    ops: []
+    languages:
+    - python
+    domains: []
+    other:
+    - agile
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: 15593531f2468ea4
+  extracted_at: '2026-05-16T01:30:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

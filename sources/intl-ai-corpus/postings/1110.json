@@ -1,0 +1,114 @@
+{
+  "job_id": "intl-ai-corpus-1110",
+  "source": "intl-ai-corpus",
+  "source_ref": "8151485",
+  "source_url": "https://builtin.com/job/machine-learning-and-ai-engineer-london/8151485",
+  "title": "Machine Learning and AI Engineer - London",
+  "title_normalized": "AI_ENGINEER",
+  "company": "Toggle AI",
+  "company_type": "entité morale privée",
+  "location": "London, GBR",
+  "city_inferred": "London",
+  "country": "GB",
+  "remote_policy": "on-site",
+  "posted_date": "2026-02-03",
+  "publication_month": "2026-02",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "8 Employees",
+  "company_stage": null,
+  "company_focus": "AI-powered investment insights for professional investors",
+  "industries": [
+    "Artificial Intelligence",
+    "Healthtech"
+  ],
+  "description": "You have built real AI systems that ship, break, and get\nfixed under pressure. You care less about model demos and\nmore about decisions that move capital. You want your work\nused daily by professional investors, not buried in\nnotebooks. You are comfortable owning hard problems end to\nend. If you want a calm job optimizing benchmarks, this is\nnot it.\n\nThe Role, In Plain English\n\nYou will build and evolve the AI systems that power\nReflexivity’s investment insights. This role exists because\noff-the-shelf models and generic pipelines are not enough.\nYou will work at the intersection of reasoning engines,\nproprietary data, and real market impact. Your work directly\naffects how investors understand earnings, risk, and market\ncatalysts.\n\nWhat You’ll Be Responsible For\n\n- Design, fine-tune, and deploy ML and LLM-driven systems used\n  in production by professional investors\n- Build and maintain inference pipelines that are fast,\n  observable, and reliable\n- Integrate OpenAI, Gemini, and Anthropic models into\n  reasoning and knowledge systems\n- Work closely with backend engineers to productionize models\n  in Golang-based services\n- Improve signal quality, not just model accuracy\n- Review code and designs with a bias toward long-term\n  maintainability\n\nWhat “Good” Looks Like in This Role\n\nAfter 3 months: You understand the product, data flows, and\ninvestor use cases deeply. You ship meaningful improvements.\n\nAfter 6 months: You own major parts of the AI stack. Your\nwork improves insight quality and latency measurably.\n\nAfter 12 months: You are a technical reference point for AI\ndecisions. You raise the bar for how AI is built at\nReflexivity.\n\nWho You Are (Must-Haves)\n\n- 5 plus years building ML or applied AI systems in production\n- Startup experience working on a core product, not a side\n  project\n- Strong Python skills and experience integrating with backend\n  systems\n- Hands-on experience with AI-assisted coding tools like\n  Cursor or Claude Code\n- Fintech experience or strong personal investment background\n- Comfortable owning outcomes, not just tasks\n\nNice-to-Haves (Not Deal Breakers)\n\n- Experience with LLM reasoning systems or knowledge graphs\n- Exposure to Golang-based ML integrations\n- Prior experience supporting investor-facing products\n\nHow We Work\n\n- In-office team with high trust and high ownership\n- Direct communication, minimal process, strong opinions\n  backed by data\n- Engineers are expected to think about product impact, not\n  just code\n- We move fast when it matters and slow down when correctness\n  matters more\n\nWhy This Role Is Worth Your Time\n\n- Direct influence on how professional investors make\n  decisions\n- Hard problems at the edge of AI, data, and finance\n- Real ownership and technical autonomy\n- Senior peers who care about quality and outcomes\n\nCompensation & Practicalities\n\n- Base salary: £90,000 to £160,000 depending on experience\n- Equity included\n- In-office role based in London\n- No agency candidates\n\nSalary Range\n\n£90,000—£160,000 GBP\n",
+  "skills_required": [
+    "Anthropic API",
+    "Claude Code",
+    "Cursor",
+    "Gemini",
+    "LLM reasoning systems",
+    "ML systems",
+    "OpenAI API",
+    "fine-tuning"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, fine-tune, and deploy ML and LLM-driven systems used in production by professional investors",
+    "Build and maintain fast, observable, and reliable inference pipelines",
+    "Integrate OpenAI, Gemini, and Anthropic models into reasoning and knowledge systems",
+    "Work closely with backend engineers to productionize models in Golang-based services",
+    "Improve signal quality and model accuracy for investment insights",
+    "Review code and designs with a focus on long-term maintainability"
+  ],
+  "use_cases": [
+    "Deliver investment insights and earnings analysis to professional investors",
+    "Help investors understand risk and market catalysts through AI-powered reasoning",
+    "Provide real-time analysis that influences investment decision-making",
+    "Generate high-quality trading signals from proprietary data",
+    "Enable understanding of market dynamics through LLM-driven knowledge systems"
+  ],
+  "tools_mentioned": [
+    "inference pipelines"
+  ],
+  "frameworks_mentioned": [
+    "Anthropic API",
+    "Gemini",
+    "LLM reasoning systems",
+    "ML systems",
+    "OpenAI API",
+    "fine-tuning"
+  ],
+  "languages_programming": [
+    "Golang",
+    "Python"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "The role involves hands-on work building, fine-tuning, and\ndeploying ML and LLM-driven systems in production. The\nengineer will work directly with OpenAI, Gemini, and\nAnthropic models to build reasoning systems and inference\npipelines that deliver real investment insights.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "OpenAI API",
+      "Gemini",
+      "Anthropic API",
+      "LLM reasoning systems"
+    ],
+    "ml": [
+      "fine-tuning",
+      "ML systems"
+    ],
+    "web": [],
+    "databases": [],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "inference pipelines"
+    ],
+    "languages": [
+      "Python",
+      "Golang"
+    ],
+    "domains": [],
+    "other": [
+      "Cursor",
+      "Claude Code"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:46+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

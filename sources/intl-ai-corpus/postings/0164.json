@@ -1,0 +1,111 @@
+{
+  "job_id": "intl-ai-corpus-0164",
+  "source": "intl-ai-corpus",
+  "source_ref": "7297476",
+  "source_url": "https://builtin.com/job/ai-research-engineer/7297476",
+  "title": "AI Research Engineer",
+  "title_normalized": "RESEARCH_SCIENTIST",
+  "company": "XBOW",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-14",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Senior level",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "86 Employees",
+  "company_stage": "Series B",
+  "company_focus": "AI-powered offensive security platform for automated\nvulnerability discovery and exploitation",
+  "industries": [
+    "Artificial Intelligence",
+    "Software",
+    "Cybersecurity"
+  ],
+  "description": "AI Research Engineer (LLM Orchestration & Prompting)About\nXBOW\n\nBuild the future of offensive security with XBOW. Attackers\nare already using AI to move faster than defenders can\nreact—we’re creating the platform that puts security ahead\nin the arms race. Our AI-powered system autonomously\ndiscovers, validates, and even exploits vulnerabilities,\ngiving organizations proof-backed results in hours instead\nof weeks.\n\nFounded by Oege de Moor, creator of GitHub Copilot, and\nbacked by Sequoia, Altimeter, and other leading investors,\nXBOW is applying cutting-edge AI to one of the world’s most\nurgent problems. In just over a year, our AI, built by a\nworld-class AI team and legendary security researchers — has\nuncovered thousands of real-world zero-days across the\nsoftware billions rely on, and achieved the #1 ranking on\nHackerOne’s global leaderboard.\n\nWe’re a team of builders, hackers, and researchers who\nthrive on solving problems others think are impossible. If\nyou want to push the boundaries of AI, reshape how security\nis done, and join the group defining this new era of defense\n— we’d love to talk.\n\nYour Role: AI Research Engineer\n\nWe’re looking for an AI Research Engineer with deep\nexpertise in LLM prompting, orchestration, and software\nengineering. In this role, you’ll design and implement\nsystems that coordinate large language models with real-\nworld tasks, advancing the intelligence at the heart of our\nplatform. You’ll collaborate with our AI, Engineering and\nSecurity teams to create novel prompting strategies, build\norchestration layers, and deliver production-ready systems\nin TypeScript.\n\nThis role is for someone who thrives in a fast-moving,\nresearch-driven environment and enjoys turning ambiguous\nideas into robust, scalable solutions.\n\nWhat you will do\n\n- Build LLM-powered software that actually works, by designing\n  prompt flows and orchestrations that ensures great\n  performance with no false positives.\n- Architect and build an AI-powered software stack that is\n  production-grade, testable and maintainable.\n- Design and build experiments and evaluation frameworks for\n  performance testing of the system at scale. Conduct data\n  analysis to draw conclusions.\n- Collaborate with the rest of the AI team, with security\n  experts, and both frontend and backend developers to\n  create end-to-end systems that work and customers love.\n- Own projects end-to-end: from basic ideation and\n  experimentation to deployment and production monitoring.\n- Continuously conduct research on how to harness the\n  advancements in LLMs to make our system better and faster.\n\nSkills and qualifications\n\nEssential:\n\n- Strong experience with building software around LLMs:\n  prompting, agentic orchestration, fault-tolerance, and\n  integration of LLM parts with hard-coded logic.\n- Strong software engineering skills: architecting and\n  building production-grade software that runs reliably and\n  can be maintained.\n- Experience with TypeScript or proven ability to learn a new\n  programming language quickly.\n- Strong skills in structured and independently-driven\n  problem-solving. Able to work with incomplete information\n  and rapidly testing hypotheses.\n- Comfortable with an energetic environment that mixes the\n  fast-paced agile prioritisation of a startup with the\n  curiosity mentality of a research lab.\n- Eager to own projects and jump into the deep end, learning\n  as you go. Curious, adaptable and collaborative.\n- MSc or equivalent or higher in computer science, math,\n  physics or machine learning.\n\nAdvantageous:\n\n- Prior experience with the security sector, especially\n  involving offensive security and/or applying LLMs in a\n  security context.\n- Contributions to open-source software, particularly within\n  applications of or frameworks for LLMs.\n- Strong theoretical background, e.g. a Ph.D in machine\n  learning, computer science or math.\n- Startup experience and comfort with ambiguity.\n\nWhat we offer\n\n- Compensation & Equity: Competitive salary and a generous\n  equity package, making you a true owner of the company.\n- Career Growth: Shape your role, lead the function, and grow\n  with the company as we redefine cybersecurity.\n- Meaningful Work: You will tackle technically complex\n  challenges and play a pivotal role in the growth of our\n  business, working alongside an amazing team and some of\n  the world’s experts to shape how AI transforms\n  cybersecurity.\n\nWhat else you should know\n\n- Location: Remote (all team members are remote but we meet\n  regularly and you’re supported to travel to collaborate\n  with colleagues in person)\n- Contract: Full-time.\n- Hiring Process:\n  - 45-min introductory chat with our Head of Talent, Zac\n    Wallis.\n  - 60 minutes with our Head of AI, Albert Ziegler.\n  - 2-3 hour technical deep dive around relevant case study.\n  - 30-min final meeting with our CEO and founder, Oege de Moor.\n\nWe aren't focused on seniority titles at XBOW—so if you’re\nworried about “leveling,” don’t be. We care a lot more about\nmission fit, capability, and impact than what’s on your\nLinkedIn headline.\n\nWe believe in people who are driven by curiosity and a\nwillingness to learn. Even if you don't check every box, we\nencourage you to apply if you're excited about the role and\nour mission.\n",
+  "skills_required": [
+    "LLM integration",
+    "agentic orchestration",
+    "prompt engineering",
+    "software architecture"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Build LLM-powered software with prompt flows and orchestrations that ensure great performance with no false positives",
+    "Architect and build production-grade, testable, and maintainable AI-powered software stack",
+    "Design and build experiments and evaluation frameworks for performance testing at scale, conducting data analysis",
+    "Collaborate with AI team, security experts, and developers to create end-to-end systems",
+    "Own projects end-to-end from ideation and experimentation to deployment and production monitoring",
+    "Conduct continuous research on harnessing LLM advancements to improve system performance"
+  ],
+  "use_cases": [
+    "Autonomous discovery and validation of software vulnerabilities",
+    "AI-powered exploitation of identified vulnerabilities",
+    "Proof-backed security results delivered in hours instead of weeks",
+    "Real-world zero-day vulnerability detection across software systems",
+    "Security testing at scale using LLM orchestration"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "data analysis",
+    "evaluation frameworks",
+    "fault-tolerance",
+    "production monitoring"
+  ],
+  "frameworks_mentioned": [
+    "LLM integration",
+    "agentic orchestration",
+    "prompt engineering"
+  ],
+  "languages_programming": [
+    "TypeScript"
+  ],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS",
+    "RESEARCH"
+  ],
+  "job_family": "RESEARCH_SCIENTIST",
+  "ai_classification": "ai-first",
+  "ai_classification_reasoning": "This role involves hands-on work with LLMs including\nprompting strategies, agentic orchestration, and building\nsystems that coordinate language models with real-world\nsecurity tasks. The engineer will design prompt flows,\nimplement orchestration layers, and directly advance the\nintelligence of the AI platform.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt engineering",
+      "agentic orchestration",
+      "LLM integration"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [],
+    "data": [
+      "evaluation frameworks",
+      "data analysis"
+    ],
+    "cloud": [],
+    "ops": [
+      "fault-tolerance",
+      "production monitoring",
+      "CI/CD"
+    ],
+    "languages": [
+      "TypeScript"
+    ],
+    "domains": [],
+    "other": [
+      "software architecture"
+    ]
+  },
+  "scraped_at": "2026-05-15T15:38:38+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}

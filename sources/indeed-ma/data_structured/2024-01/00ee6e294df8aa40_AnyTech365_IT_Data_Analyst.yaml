@@ -1,0 +1,32 @@
+company:
+  name: AnyTech365
+  stage: null
+  focus: null
+position:
+  title: IT Data Analyst
+  ai_type:
+    type: non-ai
+    reasoning: Data role without direct ML/AI model building (analyst, BI, data engineering)
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data:
+    - sql
+    cloud: []
+    ops: []
+    languages:
+    - go
+    - python
+    domains:
+    - finance
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: 00ee6e294df8aa40
+  extracted_at: '2026-05-16T01:30:11+00:00'
+  extraction_method: skillnav-claude-opus-4-7-rule-based-v1

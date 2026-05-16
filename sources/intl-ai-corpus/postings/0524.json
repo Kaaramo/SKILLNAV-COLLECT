@@ -1,0 +1,102 @@
+{
+  "job_id": "intl-ai-corpus-0524",
+  "source": "intl-ai-corpus",
+  "source_ref": "8213536",
+  "source_url": "https://builtin.com/job/principal-ai-platform-engineer/8213536",
+  "title": "Principal AI Platform Engineer (US)",
+  "title_normalized": "AI_ENGINEER",
+  "company": "PointClickCare",
+  "company_type": "entité morale privée",
+  "location": "USA",
+  "city_inferred": null,
+  "country": "US",
+  "remote_policy": "remote",
+  "posted_date": "2026-01-15",
+  "publication_month": "2026-01",
+  "contract_type": "CDI",
+  "work_type_raw": "FULL_TIME",
+  "experience_level_text": "Expert/Leader",
+  "experience_min_years": null,
+  "experience_max_years": null,
+  "salary_range": null,
+  "company_size_raw": "1,557 Employees",
+  "company_stage": null,
+  "company_focus": "GenAI platform for healthcare workflow automation",
+  "industries": [
+    "Healthtech",
+    "Software"
+  ],
+  "description": "The Team\n\nThis team will serve as the product owner for GenAI\ncapabilities within PointClickCare, working closely with\nother engineering teams across the organization to identify,\nbuild and support generative AI solutions. This centralized\nteam with deep specialization, closely integrated with key\nhorizontal partners to ensure delivery of safe, scalable and\nhigh-impact AI Products\n\n\n\nJob summary\n\nThe Principal AI Platform Engineer will focus on building\nthe infrastructure that connects AI systems with existing\nproducts and will enable seamless delivery of AI-generated\ninsights into agent workflows.\n\n\n\nKey responsibilities.\n\n- Design, build, and maintain the core infrastructure layer\n  supporting GenAI products, including model gateways,\n  prompt/versioning stores, vector databases, and LLM\n  evaluation tools.\n\n- Implement secure access controls and authentication\n  mechanisms integrated by default into the AI platform\n  components.\n\n- Develop and manage observability, monitoring, and logging\n  solutions for GenAI workloads and infrastructure.\n\n- Collaborate closely with product and engineering teams to\n  integrate GenAI infrastructure with agent frameworks, and\n  downstream applications.\n\n- Optimize infrastructure for scalability, high availability,\n  cost efficiency for production workloads.\n\n\n\nQualifications & Skills\n\n- Extensive experience building and maintain AI platform\n  infrastructure, Kubernetes, and container security.\n\n- Demonstrated expertise in observability, and monitoring\n  frameworks, with a focus on real-time performance (i.e:\n  experience with OpenTelemetry, MLFlow).\n\n- Experience with AI infrastructure components such as vector\n  databases, prompt/versioning stores, and AI IDEs.\n\n\n\nPreferred experience\n\n\n\n- Familiarity with vLLM, SGLang or similar framework to host\n  LLM inference workloads.\n\n- Experience with CI/CD pipelines and automation for AI model\n  deployment and platform operations\n\n- Strong knowledge of authentication and authorization\n  frameworks integrated into AI platforms.\n\n#LI-AV1\n\n#LI-remote\n",
+  "skills_required": [
+    "prompt/versioning stores"
+  ],
+  "skills_optional": [],
+  "responsibilities": [
+    "Design, build, and maintain the core infrastructure layer supporting GenAI products, including model gateways, prompt/versioning stores, vector databases, and LLM evaluation tools",
+    "Implement secure access controls and authentication mechanisms integrated by default into the AI platform components",
+    "Develop and manage observability, monitoring, and logging solutions for GenAI workloads and infrastructure",
+    "Collaborate closely with product and engineering teams to integrate GenAI infrastructure with agent frameworks and downstream applications",
+    "Optimize infrastructure for scalability, high availability, and cost efficiency for production workloads"
+  ],
+  "use_cases": [
+    "Seamless delivery of AI-generated insights into agent workflows",
+    "Integration of GenAI capabilities with existing products",
+    "Safe and scalable AI product delivery",
+    "Real-time monitoring and performance of GenAI workloads"
+  ],
+  "tools_mentioned": [
+    "CI/CD",
+    "Kubernetes",
+    "MLFlow",
+    "OpenTelemetry",
+    "SGLang",
+    "authentication and authorization",
+    "container security",
+    "vLLM",
+    "vector databases"
+  ],
+  "frameworks_mentioned": [
+    "prompt/versioning stores"
+  ],
+  "languages_programming": [],
+  "domains_iaml": [
+    "GENERATIVE_AI",
+    "MLOPS"
+  ],
+  "job_family": "AI_ENGINEER",
+  "ai_classification": "ai-support",
+  "ai_classification_reasoning": "This role focuses on building infrastructure and platforms\nthat enable GenAI capabilities rather than directly\nbuilding, training, or fine-tuning models. The\nresponsibilities emphasize platform components like model\ngateways, vector databases, monitoring, and CI/CD pipelines\nthat support other teams working with AI.",
+  "is_customer_facing": false,
+  "is_management": false,
+  "skills_categorized": {
+    "genai": [
+      "prompt/versioning stores"
+    ],
+    "ml": [],
+    "web": [],
+    "databases": [
+      "vector databases"
+    ],
+    "data": [],
+    "cloud": [],
+    "ops": [
+      "Kubernetes",
+      "container security",
+      "OpenTelemetry",
+      "MLFlow",
+      "vLLM",
+      "SGLang",
+      "CI/CD",
+      "authentication and authorization"
+    ],
+    "languages": [],
+    "domains": [],
+    "other": []
+  },
+  "scraped_at": "2026-05-15T15:38:41+00:00",
+  "scraper": "skillnav-import-upstream-v1.0",
+  "extraction_method": "skillnav_internal_pipeline_v1",
+  "rgpd_compliant": true,
+  "personal_data_stripped": true,
+  "extraction_confidence": 0.9
+}
