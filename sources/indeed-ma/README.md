@@ -6,7 +6,7 @@
 
 ---
 
-## 🇲🇦 Qu'est-ce qu'Indeed Maroc ?
+## Qu'est-ce qu'Indeed Maroc ?
 
 **ma.indeed.com** est le portail Maroc du leader mondial du job board **Indeed**. Volume colossal : **100+ Data Scientist · 200+ Data Engineer · 100+ Data Analyst · 25+ ML Engineer** actifs à mai 2026.
 
@@ -14,7 +14,7 @@ Indeed agrège (1) des offres publiées directement par les employeurs et (2) de
 
 ---
 
-## 🎯 Pourquoi Indeed MA dans le scope SKILLNAV ?
+## Pourquoi Indeed MA dans le scope SKILLNAV ?
 
 ### Atouts (justification Tier T1)
 
@@ -31,21 +31,21 @@ Indeed agrège (1) des offres publiées directement par les employeurs et (2) de
 
 | Limite | Conséquence | Mitigation |
 |---|---|---|
-| **Anti-bot agressif** | curl → HTTP 403 "Security Check" | **Playwright MCP obligatoire** (vrai navigateur) |
+| **Anti-bot agressif** | curl → HTTP 403 "Security Check" | Playwright headless (vrai navigateur) |
 | **Auth wall sur pagination** | `?start=10` redirige vers `secure.indeed.com/auth` | Sample limité à page 1 par query (15-16 fiches) |
 | **Indexation Google atypique** | Surtout des pages aggregateurs (`q-*-emplois.html`), peu de `viewjob?jk=` indexés | Phase 2 historique limitée vs Rekrute |
 | **Doublons cross-sources** | Coface 181033 Rekrute = Indeed a8beff1a550a90c4 (même fiche) | Pipeline dédup à prévoir SHA-256(company+title+location+posted_date) |
 
 ---
 
-## 🔧 Méthode utilisée (Phase 1 — Live 2026)
+## Méthode utilisée (Phase 1 — Live 2026)
 
 ### Stack confirmée
 
 | Outil | Rôle | Statut |
 |---|---|---|
-| **Playwright MCP** ⭐ | Navigation + extraction (bypass Security Check) | ✅ Utilisé |
-| **Firecrawl MCP** | Fallback alternatif | ❌ Non disponible cette session |
+| **Playwright** | Navigation + extraction (bypass Security Check) | ✅ Utilisé |
+| **Firecrawl** | Fallback alternatif | ❌ Non disponible cette session |
 | **curl** | ❌ Bloqué (HTTP 403) | — |
 | **WebSearch Google** | Phase 2 historique — limitée pour Indeed | 🟡 Sample restreint |
 
@@ -75,7 +75,7 @@ Indeed n'indexe pas systématiquement les `viewjob?jk=` dans Google — il privi
 
 ---
 
-## 🛡️ Conformité RGPD & robots.txt (CLAUDE.md §N4)
+## Conformité RGPD & robots.txt
 
 | Règle | Application Indeed MA |
 |---|---|
@@ -87,11 +87,11 @@ Indeed n'indexe pas systématiquement les `viewjob?jk=` dans Google — il privi
 
 ---
 
-## 📦 Échantillon collecté (sprint 1 — 2026-05-14)
+## Échantillon collecté (sprint 1 — 2026-05-14)
 
 **79 fiches Data/IA strict** retenues : **42 live 2026** + **37 historiques 2023-2024** (extraites via Wayback Machine snapshots).
 
-### 📅 Distribution temporelle FINALE
+### Distribution temporelle FINALE
 
 | Année | Fiches | Méthode |
 |:-:|:-:|---|
@@ -101,7 +101,7 @@ Indeed n'indexe pas systématiquement les `viewjob?jk=` dans Google — il privi
 | **2025** | 0 | ⚠️ Snapshots Wayback 2025-01/06 sans jk nouveaux (gap) |
 | **TOTAL** | **79** | Hybride live + Wayback |
 
-### 🚀 Méthode Wayback Machine — découverte critique
+### Méthode Wayback Machine — découverte critique
 
 ```
 ÉTAPE 1 : curl https://archive.org/wayback/available?url=ma.indeed.com/q-data-analyst-emplois.html&timestamp=YYYYMMDD
@@ -214,7 +214,7 @@ Top 15 entreprises **uniquement visibles** dans l'historique Wayback (pas dans P
 
 ---
 
-## 📅 Roadmap pour Indeed MA
+## Roadmap pour Indeed MA
 
 | Sprint | Action |
 |---|---|
@@ -226,7 +226,7 @@ Top 15 entreprises **uniquement visibles** dans l'historique Wayback (pas dans P
 
 ---
 
-## 🔗 Liens
+## Liens
 
 - [Site officiel Indeed Maroc](https://ma.indeed.com/)
 - [Aggregator Data Scientist](https://ma.indeed.com/q-data-scientist-emplois.html)

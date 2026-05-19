@@ -25,7 +25,7 @@ Le projet SKILLNAV s'inscrit dans un mémoire académique de **Web Mining** (M24
 
 Cette couche `data_structured/` alimente directement deux axes :
 
-1. **Content Mining** — les skills classés en 10 dimensions servent de baseline pour évaluer notre propre NER (BERT-multi vs CamemBERT-NER vs DistilBERT) dans l'étude comparative §N2 du PRD.
+1. **Content Mining** — les skills classés en 10 dimensions servent de baseline pour évaluer notre propre NER (BERT-multi vs CamemBERT-NER vs DistilBERT) dans l'étude comparative interne.
 2. **Structure Mining** — les 10 dimensions de skills + la classification IA permettent de construire un graphe Skill ↔ Job dense pour Neo4j (PageRank, communautés Louvain).
 
 Sans cette couche structurée, le projet resterait bloqué au stade descriptif. Avec elle, on peut faire de la **science**.

@@ -6,7 +6,7 @@
 
 ---
 
-## 🇲🇦 Qu'est-ce qu'ANAPEC ?
+## Qu'est-ce qu'ANAPEC ?
 
 **ANAPEC** (Agence Nationale de Promotion de l'Emploi et des Compétences) est l'**agence publique d'État marocaine** chargée de la promotion de l'emploi et de l'intermédiation entre demandeurs d'emploi et employeurs. Créée en 2000 et placée sous la tutelle du Ministère de l'Économie et des Finances, elle opère sur tout le territoire à travers son réseau d'agences régionales.
 
@@ -17,7 +17,7 @@ Son rôle est triple :
 
 ---
 
-## 🎯 Pourquoi ANAPEC dans le scope SKILLNAV ?
+## Pourquoi ANAPEC dans le scope SKILLNAV ?
 
 ### Atouts (justification du Tier T1)
 
@@ -42,13 +42,13 @@ Son rôle est triple :
 
 ---
 
-## 🔧 Méthode de collecte
+## Méthode de collecte
 
-### Stack utilisée (cohérent avec [`sources/scraping_map/sources.json`](../../scraping_map/sources.json))
+### Stack utilisée (cohérent avec (supprimé))
 
 | Outil | Rôle |
 |---|---|
-| **Playwright MCP** | Navigation + extraction DOM (utilisé pour ce sample) |
+| **Playwright** | Navigation + extraction DOM (utilisé pour ce sample) |
 | **Firecrawl** | Production pipeline (fallback HTML statique) |
 | **Crawl4AI** | Alternative pour conversion HTML → markdown propre |
 
@@ -75,7 +75,7 @@ Détail     : https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home
 
 ---
 
-## 🛡️ Conformité RGPD & robots.txt (CLAUDE.md §N4)
+## Conformité RGPD & robots.txt
 
 | Règle | Application ANAPEC |
 |---|---|
@@ -87,7 +87,7 @@ Détail     : https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home
 
 ---
 
-## 📦 Échantillon collecté (sprint 1 — 2026-05-14)
+## Échantillon collecté (sprint 1 — 2026-05-14)
 
 **Scope strict Data / IA** — uniquement les fiches du cœur métier Data Science / IA. Les profils généralistes (Full-stack, Technicien Info, Consultant IT) ont été éliminés.
 
@@ -117,7 +117,7 @@ Détail     : https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home
 
 ---
 
-## 📅 Roadmap pour ANAPEC
+## Roadmap pour ANAPEC
 
 | Sprint | Action |
 |---|---|
@@ -129,13 +129,11 @@ Détail     : https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home
 
 ---
 
-## 🔗 Liens
+## Liens
 
 - [Annonce officielle ANAPEC — accueil offres](https://www.anapec.org/sigec-app-rv/fr/chercheurs/resultat_recherche/tout:all)
 - [Schéma JSON](../_schema/job_posting.schema.json)
 - [Template Markdown](../_schema/posting.template.md)
-- [Cartographie complète des sources](../../scraping_map/index.html)
-
 ---
 
 **Mai 2026 · SKILLNAV · M242 ENSA-Tétouan · Pr. Imad Sassi · Karamo Sylla & Bachirou Konaté**

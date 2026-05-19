@@ -17,12 +17,14 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = Path(r"F:\Web Mining Project\sources\collected\glassdoor-ma")
+ROOT = Path(__file__).resolve().parent
 INCOMPLETE_FILE = ROOT / "raw" / "_incomplete_urls.json"
 POSTINGS = ROOT / "postings"
 DETAILS_DIR = ROOT / "raw" / "_firecrawl_details"
 
-FIRECRAWL_BIN = r"C:\Users\ksthe\AppData\Roaming\npm\firecrawl.cmd"
+# CLI Firecrawl : installer avec `npm i -g firecrawl-cli`, puis adapter ce chemin
+# selon votre OS (Linux/macOS : `firecrawl` ; Windows : firecrawl.cmd).
+FIRECRAWL_BIN = "firecrawl"
 SLEEP_BETWEEN = 2.0
 
 

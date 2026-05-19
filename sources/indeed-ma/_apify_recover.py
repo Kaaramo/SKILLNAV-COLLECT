@@ -25,7 +25,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = Path(r"F:\Web Mining Project\sources\collected\indeed-ma")
+ROOT = Path(__file__).resolve().parent
 INCOMPLETE_FILE = ROOT / "raw" / "_incomplete_urls.json"
 POSTINGS = ROOT / "postings"
 APIFY_OUTPUT = ROOT / "raw" / "_apify_recovery_results.json"
@@ -35,7 +35,7 @@ APIFY_API = "https://api.apify.com/v2"
 
 
 def get_token():
-    env_path = Path(r"F:\Web Mining Project\.env")
+    env_path = ROOT.parent.parent / ".env"
     if env_path.exists():
         for line in env_path.read_text(encoding="utf-8").splitlines():
             if line.startswith("APIFY_TOKEN="):

@@ -27,9 +27,8 @@ import yaml
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-PROJECT_ROOT = Path(r"F:\Web Mining Project")
-TARGET_ROOT = PROJECT_ROOT / "sources" / "collected" / "intl-ai-corpus"
-UPSTREAM_ROOT = TARGET_ROOT  # data_raw/ et data_structured/ sont maintenant dans notre arbo collected
+TARGET_ROOT = Path(__file__).resolve().parent
+UPSTREAM_ROOT = TARGET_ROOT  # data_raw/ et data_structured/ sont colocalisés avec ce script
 POSTINGS_DIR = TARGET_ROOT / "postings"
 RAW_DIR = TARGET_ROOT / "raw"
 RECAP_FILE = RAW_DIR / "_import_recap.json"

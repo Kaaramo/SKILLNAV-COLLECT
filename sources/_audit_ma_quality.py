@@ -20,7 +20,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-COLLECTED = Path(r"F:\Web Mining Project\sources\collected")
+COLLECTED = Path(__file__).resolve().parent
 SOURCES_MA = ["anapec", "rekrute", "indeed-ma", "linkedin-ma", "pages-carrieres-ma", "glassdoor-ma"]
 
 

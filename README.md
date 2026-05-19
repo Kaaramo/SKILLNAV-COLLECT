@@ -27,12 +27,17 @@
 
 ## 1. Contenu du dépôt
 
-Ce dépôt contient **uniquement** le volet collecte de données du projet SKILLNAV :
+Ce dépôt contient le volet collecte de données du projet SKILLNAV :
 
-* **3 468 fiches d'offres d'emploi Data/IA** (381 Maroc et 3 087 International), 100 % exploitables, organisées en pipeline 3 couches.
-* **Tous les scripts de collecte** (Apify, Firecrawl, Playwright, restructure, enrichissement, audit qualité).
+* **3 468 fiches d'offres d'emploi Data Science / IA** (381 Maroc, 3 087 International),
+  100 % avec description ≥ 200 caractères, organisées selon l'architecture 3 couches
+  (`data_raw`, `data_structured`, `postings`).
+* **Les scripts utilisés** pour la collecte, l'enrichissement, le contrôle qualité
+  et l'export (dossier `scripts/` à la racine, et scripts spécifiques par source
+  dans `sources/<source>/`).
 
-Les autres livrables du projet (modèles IA, base NoSQL hybride, dashboard Next.js, rapport méthodologique L5) sont dans des dépôts séparés.
+Les autres livrables du projet (modèles NER, base NoSQL hybride, pipelines d'analyse,
+dashboard Next.js, rapport L5) sont dans des dépôts séparés.
 
 ---
 
@@ -41,20 +46,20 @@ Les autres livrables du projet (modèles IA, base NoSQL hybride, dashboard Next.
 | Indicateur | Valeur |
 |---|:-:|
 | Total fiches | **3 468** |
-| Maroc | 381 (100 % exploitables) |
-| International | 3 087 (100 % exploitables) |
-| Description longue ($\geq$ 200 caractères) | **100 %** |
+| Maroc | 381 |
+| International | 3 087 |
+| Fiches avec description ≥ 200 caractères | **100 %** |
 | Sources Maroc | 6 |
-| Sources International | 1 |
-| Période publication couverte | 25 mois (août 2022 à mai 2026) |
-| Familles métiers couvertes | 13 |
+| Sources International | 1 (corpus multi-pays) |
+| Période de publication couverte | 25 mois (août 2022 → mai 2026) |
+| Familles métier représentées | 13 |
 
 ### Distribution par source
 
 | Source | Pays | Postings | Outil de collecte |
 |---|:-:|:-:|---|
-| ANAPEC | MA | 2 | Playwright MCP |
-| Rekrute | MA | 27 | Playwright MCP |
+| ANAPEC | MA | 2 | Playwright |
+| Rekrute | MA | 27 | Playwright |
 | Indeed MA | MA | 67 | Playwright + recovery Apify |
 | LinkedIn MA | MA | 207 | Apify (8 runs, $3.83) |
 | Pages carrières MA | MA | 6 | JSON-LD + BeautifulSoup |
@@ -106,12 +111,12 @@ L'organisation `{YYYY-MM}/` reflète la date à laquelle l'offre a été **publi
 
 | Outil | Sources concernées | Justification du choix |
 |---|---|---|
-| **Apify** | LinkedIn MA, Indeed MA (recovery) | Anti-bot fort, actors managés pay-per-result, infrastructure rentable |
-| **Firecrawl** | Glassdoor MA, Corpus Tech INTL | Pages JS-rendered, proxies intégrés, parser markdown propre |
-| **Playwright** | ANAPEC, Rekrute | Interactions complexes (formulaires, pagination JS, login optionnel) |
-| **JSON-LD + BeautifulSoup** | Pages carrières MA (TalentSoft, TeamTailor) | ATS modernes avec schema.org embedded, parsing déterministe |
+| **Apify** | LinkedIn MA, Indeed MA (recovery) | Anti-bot robuste, acteurs managés, sortie JSON structurée |
+| **Firecrawl** | Glassdoor MA, Corpus Tech INTL | Pages JS-rendered, contournement Cloudflare, markdown propre en sortie |
+| **Playwright headless** | ANAPEC, Rekrute | Pagination JS, sélecteurs CSS stables, interactions formulaire |
+| **JSON-LD + BeautifulSoup** | Pages carrières MA (TalentSoft, TeamTailor) | ATS modernes embarquant schema.org, parsing déterministe |
 
-> La justification approfondie de ces choix (avec arbre de décision, coûts, alternatives écartées) est dans la documentation projet complète, hors de ce dépôt.
+L'arbre de décision implicite est documenté dans [`sources/COLLECTION_PROTOCOL.md §3`](sources/COLLECTION_PROTOCOL.md#3-outils-par-type-de-source).
 
 ---
 
@@ -122,30 +127,46 @@ L'organisation `{YYYY-MM}/` reflète la date à laquelle l'offre a été **publi
 ```bash
 python --version   # 3.12 ou supérieur
 pip install -r requirements.txt
-npm install -g firecrawl-cli   # pour les scripts Firecrawl
 ```
 
 ### Variables d'environnement (`.env`)
 
 ```env
-APIFY_TOKEN=apify_api_xxx       # depuis console.apify.com/account/integrations
-# FIRECRAWL : CLI installé via npm, pas de clé API requise pour le mode local
+APIFY_TOKEN=apify_api_xxx          # console.apify.com/account/integrations
+FIRECRAWL_API_KEY=fc-xxx           # firecrawl.dev/app/api-keys
 ```
 
 ### Scripts disponibles
+
+Scripts transverses (à la racine de `sources/`) :
 
 | Script | Rôle |
 |---|---|
 | `sources/_restructure_ma_to_3_layers.py` | Convertit `postings/` vers `data_raw/{YYYY-MM}/` |
 | `sources/_enrich_ma_structured.py` | Génère `data_structured/{YYYY-MM}/` via règles déterministes |
-| `sources/_audit_ma_quality.py` | Audit qualité (taux descriptions exploitables par source) |
-| `sources/_eliminate_incomplete_postings.py` | Élimine les postings < 200 chars et renumérote |
-| `sources/indeed-ma/_apify_recover.py` | Recovery via Apify actor `misceres/indeed-scraper` |
-| `sources/glassdoor-ma/_apify_recover.py` | Recovery via Apify actor `memo23/glassdoor-scraper-ppr` |
-| `sources/glassdoor-ma/_firecrawl_recover.py` | Recovery via Firecrawl CLI direct |
+| `sources/_audit_ma_quality.py` | Mesure le taux de descriptions exploitables par source |
+| `sources/_eliminate_incomplete_postings.py` | Élimine les postings < 200 caractères et renumérote |
+
+Scripts spécifiques aux sources (recovery, parsing, import) :
+
+| Script | Rôle |
+|---|---|
+| `sources/indeed-ma/_apify_recover.py` | Re-scrape via Apify actor `misceres/indeed-scraper` |
+| `sources/glassdoor-ma/_apify_recover.py` | Re-scrape via Apify actor `memo23/glassdoor-scraper-ppr` |
+| `sources/glassdoor-ma/_firecrawl_recover.py` | Re-scrape via API Firecrawl |
 | `sources/glassdoor-ma/_parse_glassdoor_to_postings.py` | Parse markdown Glassdoor vers `postings/` |
-| `sources/intl-ai-corpus/_import_upstream.py` | Pipeline `data_raw` + `data_structured` vers `postings/` |
+| `sources/intl-ai-corpus/_import_upstream.py` | Pipeline complet `data_raw` + `data_structured` → `postings/` |
 | `sources/intl-ai-corpus/_reorg_by_publication_month.py` | Réorganise les YAML par mois de publication |
+
+Templates reproductibles (dossier `scripts/`) :
+
+| Script | Technique illustrée |
+|---|---|
+| `scripts/scrape_playwright_rekrute.py` | Playwright headless sur job board statique |
+| `scripts/scrape_firecrawl_glassdoor.py` | API Firecrawl pour pages JS-rendered + Cloudflare |
+| `scripts/scrape_apify_linkedin.py` | Apify acteur LinkedIn jobs |
+| `scripts/scrape_jsonld_career_page.py` | Parse JSON-LD embarqué (TalentSoft, TeamTailor, Workday) |
+| `scripts/scrape_wayback_archive.py` | Récupération via Wayback Machine pour URLs expirées |
 
 ### Exemples d'usage
 
@@ -175,29 +196,37 @@ python sources/_enrich_ma_structured.py
 
 | Règle | Application |
 |---|---|
-| Données personnelles de candidat | **Aucune** : pas de noms, emails, téléphones, photos, profils LinkedIn personnels |
-| Entités morales uniquement | Noms d'entreprise et descriptions publiques d'offres |
-| User-Agent identifié | `SkillnavBot/1.0 (Academic; M242 ENSA-Tetouan)` |
-| Rate limit | $\geq$ 5 secondes entre requêtes sur sources statiques |
-| robots.txt | Vérifié pour chaque source avant collecte |
-| Schéma JSON officiel | `sources/_schema/job_posting.schema.json` (Pydantic-compatible, validation stricte) |
+| Données personnelles de candidat | Aucune : pas de nom, email, téléphone, photo, profil LinkedIn personnel |
+| Entités morales uniquement | Nom employeur et descriptions publiques d'offres |
+| User-Agent | `SkillnavBot/1.0 (Academic; M242 ENSA-Tetouan)` |
+| Rate limit | ≥ 5 secondes entre requêtes sur sources statiques |
+| `robots.txt` | Vérifié pour chaque source avant collecte |
+| Schéma JSON officiel | `sources/_schema/job_posting.schema.json` (Pydantic-compatible) |
 
 ---
 
 ## 7. Structure du dépôt
 
 ```text
-SKILLNAV-COLLECT/
+SKILLNAV-DELIVERY/
 ├── README.md                              (ce fichier)
-├── .gitignore                              (exclusions Git, raw HTML/MD)
-├── requirements.txt                        (dépendances Python minimales)
+├── requirements.txt                       (dépendances Python)
+├── data/                                  (exports consolidés)
+│   ├── jobs.jsonl                         (corpus pivot, 3 467 lignes)
+│   ├── graph_nodes.csv                    (export graphe Skill ↔ Skill)
+│   └── graph_edges.csv
+├── scripts/                               (templates Python par technique)
+│   ├── scrape_playwright_rekrute.py
+│   ├── scrape_firecrawl_glassdoor.py
+│   ├── scrape_apify_linkedin.py
+│   ├── scrape_jsonld_career_page.py
+│   └── scrape_wayback_archive.py
 └── sources/
-    ├── README.md                           (description du protocole de collecte)
-    ├── COLLECTION_PROTOCOL.md              (protocole versionné v1.0)
-    ├── BRIEFING_PROMPT.md                  (prompt prêt à coller pour scraping)
+    ├── README.md                          (récap par source + RGPD)
+    ├── COLLECTION_PROTOCOL.md             (protocole détaillé v1.0)
     ├── _schema/
-    │   ├── job_posting.schema.json         (schéma JSON officiel SKILLNAV)
-    │   └── posting.template.md             (template Markdown standardisé)
+    │   ├── job_posting.schema.json        (schéma JSON officiel)
+    │   └── posting.template.md            (gabarit Markdown)
     ├── _restructure_ma_to_3_layers.py
     ├── _enrich_ma_structured.py
     ├── _audit_ma_quality.py
@@ -213,28 +242,36 @@ SKILLNAV-COLLECT/
 
 ---
 
-## 8. Note pour le jury
+## 8. Note méthodologique
 
-Ce volet collecte est un **livrable indépendant** qui satisfait l'exigence n°1 du sujet :
+Ce volet répond à l'exigence n°1 du sujet :
 
 > « Scripts de Collecte : Code documenté pour le scraping et l'appel aux API. »
 
-La qualité des données ici alimente directement les volets aval (base NoSQL hybride, pipeline IA, dashboard).
+La qualité du corpus conditionne directement les volets aval (base NoSQL hybride,
+pipelines NER / graphe / forecasting, dashboard).
 
-### Effort de récupération qualité documenté
+### Effort de récupération qualité
 
-Un audit qualité initial a révélé que 133 fiches sur 398 (33 %) côté Maroc avaient des descriptions vides ou trop courtes (moins de 200 caractères). Un pipeline de récupération a été exécuté :
+L'audit qualité initial a relevé 133 fiches sur 398 (33 %) côté Maroc avec
+descriptions vides ou trop courtes. Un second passage a été lancé :
 
-* **Indeed MA** : 73 URLs re-scrapées via Apify `misceres/indeed-scraper` pour environ 0,02 USD. 61 fiches récupérées, 12 expirées définitivement.
-* **Glassdoor MA** : 55 URLs re-scrapées via Firecrawl direct (free tier). 55 fiches récupérées avec descriptions complètes.
-* **17 fiches définitivement éliminées** (12 Indeed expirées et 5 Rekrute trop courtes), traçabilité dans `sources/<source>/raw/_eliminated_incomplete.json`.
+* **Indeed MA** : 73 URLs re-scrapées via l'acteur Apify `misceres/indeed-scraper`
+  (~0,02 USD). 61 fiches récupérées, 12 URLs expirées définitivement.
+* **Glassdoor MA** : 55 URLs re-scrapées via Firecrawl (free tier).
+  55 fiches récupérées avec descriptions complètes.
+* **17 fiches définitivement éliminées** (12 Indeed expirées + 5 Rekrute < 200 caractères),
+  traces dans `sources/<source>/raw/_eliminated_incomplete.json`.
 
-Bilan : passage de **265/398 (67 %)** à **381/381 (100 %)** fiches exploitables.
+Bilan : passage de 265/398 (67 %) à 381/381 (100 %) fiches exploitables côté Maroc.
 
-### Architecture inspirée de Built In
+### Corpus International
 
-Le Corpus Tech INTL adopte une structure de scraping multi-villes (Los Angeles, New York, London, Amsterdam, Berlin, Inde) sur Q1 2026. Le pipeline 3 couches (raw, structured, postings) garantit la **traçabilité scientifique** exigée par le sujet (Data Quality Framework, point 3 des Spécifications Techniques).
+Le `intl-ai-corpus` regroupe des offres collectées sur Q1 2026 dans six pays
+(US, IN, GB, DE, NL, autres), avec un focus AI Engineer. Le pipeline 3 couches
+identique aux sources Maroc garantit que les deux marchés peuvent être analysés
+avec les mêmes outils.
 
 ---
 
-**Mai 2026** · SKILLNAV · M242 ENSA-Tétouan · Pr. Imad Sassi · Karamo Sylla & Bachirou Konaté
+**Mai 2026 · ENSA-Tétouan · Karamo Sylla & Bachirou Konaté**

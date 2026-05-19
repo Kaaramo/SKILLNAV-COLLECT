@@ -1,20 +1,18 @@
-# SKILLNAV-DELIVERY — dépendances Python pour les scripts de collecte
-# Python 3.12+ requis
+# SKILLNAV-DELIVERY — dépendances Python pour la collecte
+# Python 3.12+
 
-# YAML I/O — utilisé par tous les scripts de restructure/enrichissement
-PyYAML>=6.0.3
+# Communs (parsing YAML, HTTP, HTML)
+PyYAML>=6.0
+requests>=2.31
+beautifulsoup4>=4.12
 
-# HTTP — utilisé pour les appels API Apify (urllib stdlib pour rester light)
-# Pas de requests requis : urllib.request stdlib suffit
+# Scripts spécifiques (scripts/)
+playwright>=1.45            # scrape_playwright_rekrute.py
+apify-client>=1.7           # scrape_apify_linkedin.py
 
-# Optionnel — pour le futur (notebooks d'analyse, ingestion DB)
-# pandas>=2.0
-# pymongo>=4.6
-# neo4j>=5.20
-# elasticsearch>=8.13
-
-# NOTE : Firecrawl est installé via npm, pas pip :
-#   npm i -g firecrawl-cli
-#   firecrawl --version  # doit afficher 1.x+
-
-# NOTE : APIFY_TOKEN doit être présent dans .env (https://console.apify.com)
+# Variables d'environnement attendues (à mettre dans .env) :
+#   APIFY_TOKEN=apify_api_...
+#   FIRECRAWL_API_KEY=fc-...
+#
+# Après pip install, exécuter une fois :
+#   playwright install chromium

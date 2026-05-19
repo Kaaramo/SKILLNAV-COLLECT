@@ -6,13 +6,13 @@
 
 ---
 
-## 🇲🇦 Qu'est-ce que Rekrute ?
+## Qu'est-ce que Rekrute ?
 
 **Rekrute.com** est le **premier portail emploi du Maroc** et de l'Afrique francophone. Il publie des annonces et offres d'emploi au Maroc, en Tunisie, en Algérie et dans plusieurs pays d'Afrique. Très orienté **cadres** et **profils tech**, c'est la référence pour la recherche d'emploi qualifié au Maroc.
 
 ---
 
-## 🎯 Pourquoi Rekrute dans le scope SKILLNAV ?
+## Pourquoi Rekrute dans le scope SKILLNAV ?
 
 ### Atouts (justification du Tier T1)
 
@@ -38,13 +38,13 @@
 
 ---
 
-## 🔧 Méthode de collecte
+## Méthode de collecte
 
 ### Stack utilisée
 
 | Outil | Rôle |
 |---|---|
-| **Playwright MCP** | Navigation + extraction DOM (utilisé pour ce batch) |
+| **Playwright** | Navigation + extraction DOM (utilisé pour ce batch) |
 | **Crawl4AI** | Production pipeline (HTML statique propre) |
 | **Firecrawl** | Fallback pour pages problématiques |
 
@@ -75,7 +75,7 @@ Détail     : https://www.rekrute.com/offre-emploi-<slug>-<ID>.html
 
 ---
 
-## 🛡️ Conformité RGPD & robots.txt (CLAUDE.md §N4)
+## Conformité RGPD & robots.txt
 
 | Règle | Application Rekrute |
 |---|---|
@@ -86,7 +86,7 @@ Détail     : https://www.rekrute.com/offre-emploi-<slug>-<ID>.html
 
 ---
 
-## 📦 Échantillon collecté (sprint 1 — 2026-05-14)
+## Échantillon collecté (sprint 1 — 2026-05-14)
 
 **32 fiches Data/IA strict** dans la fenêtre **2023-01-01 → 2026-05-14** :
 - 20 via Playwright sur les listings live actifs
@@ -94,7 +94,7 @@ Détail     : https://www.rekrute.com/offre-emploi-<slug>-<ID>.html
 
 ➕ **15 fiches pre-2023** archivées dans `archive_pre_2023/` pour benchmark pré-ChatGPT (voir [`INDEX.md`](archive_pre_2023/INDEX.md)).
 
-### 📅 Distribution temporelle finale
+### Distribution temporelle finale
 
 | Année | Postings | Couverture |
 |:-:|:-:|---|
@@ -104,7 +104,7 @@ Détail     : https://www.rekrute.com/offre-emploi-<slug>-<ID>.html
 | **2023** | 2 | Septembre, Novembre |
 | **TOTAL** | **32** | scope SKILLNAV complet |
 
-### 🛠️ Méthode hybride utilisée
+### Méthode hybride utilisée
 
 ```
 PHASE 1 : Playwright live search (Rekrute search interface)
@@ -206,7 +206,7 @@ PHASE 3 : curl direct (Rekrute conserve les URLs expirées)
 
 ---
 
-## 📅 Roadmap pour Rekrute
+## Roadmap pour Rekrute
 
 | Sprint | Action |
 |---|---|
@@ -218,13 +218,11 @@ PHASE 3 : curl direct (Rekrute conserve les URLs expirées)
 
 ---
 
-## 🔗 Liens
+## Liens
 
 - [Site officiel Rekrute](https://www.rekrute.com/)
 - [Filtres Métiers IT](https://www.rekrute.com/offres-emploi-metiers-de-l-it.html)
 - [Schéma JSON](../_schema/job_posting.schema.json)
-- [Cartographie complète des sources](../../scraping_map/index.html)
-
 ---
 
 **Mai 2026 · SKILLNAV · M242 ENSA-Tétouan · Pr. Imad Sassi · Karamo Sylla & Bachirou Konaté**

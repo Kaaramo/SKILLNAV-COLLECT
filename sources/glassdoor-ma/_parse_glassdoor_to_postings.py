@@ -19,7 +19,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = Path(r"F:\Web Mining Project\sources\collected\glassdoor-ma")
+ROOT = Path(__file__).resolve().parent
 RAW = ROOT / "raw"
 POSTINGS = ROOT / "postings"
 TODAY = datetime(2026, 5, 16, tzinfo=timezone.utc).date()

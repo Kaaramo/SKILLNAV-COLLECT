@@ -1,25 +1,20 @@
 """
-Chantier MA Phase 2 — Enrichissement LLM-style pour les sources MA.
+Enrichissement structuré des sources Maroc — produit la couche `data_structured`.
 
-Genere des YAML data_structured/{YYYY-MM}/<ref>_<co>_<title>.yaml conformes au
-schema upstream intl-ai-corpus :
+Genere des YAML data_structured/{YYYY-MM}/<ref>_<co>_<title>.yaml alignés sur le
+schéma upstream intl-ai-corpus :
 
-  company:
-    name, stage, focus
+  company:    name, stage, focus
   position:
     title
-    ai_type: { type: ai-first|ai-support|ml-first|non-ai, reasoning }
-    responsibilities: [...]
-    use_cases: [...]
-    skills:
-      genai, ml, web, databases, data, cloud, ops, languages, domains, other
-    is_customer_facing: bool
-    is_management: bool
-  meta:
-    job_id, extracted_at
+    ai_type:  { type: ai-first|ai-support|ml-first|non-ai, reasoning }
+    responsibilities, use_cases
+    skills:   genai, ml, web, databases, data, cloud, ops, languages, domains, other
+    is_customer_facing, is_management
+  meta:       job_id, extracted_at
 
-Les regles de classification ont ete calibrees par Claude Opus 4.7 a partir
-de la méthode interne SKILLNAV + des 3 087 exemples intl-ai-corpus.
+Les règles de classification sont déterministes (mots-clés + heuristiques),
+calibrées par comparaison avec les 3 087 fiches du corpus intl-ai-corpus.
 """
 from __future__ import annotations
 
@@ -35,8 +30,7 @@ import yaml
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-PROJECT_ROOT = Path(r"F:\Web Mining Project")
-COLLECTED = PROJECT_ROOT / "sources" / "collected"
+COLLECTED = Path(__file__).resolve().parent
 SOURCES_MA = ["anapec", "rekrute", "indeed-ma", "linkedin-ma", "pages-carrieres-ma", "glassdoor-ma"]
 
 
@@ -403,8 +397,7 @@ def transform_source(source_id):
 
 def main():
     print("=" * 70)
-    print("CHANTIER MA Phase 2 — Enrichissement structured")
-    print("(regles calibrees par Claude Opus 4.7, deterministe sur 326 fiches)")
+    print("Enrichissement structuré des sources Maroc (regles déterministes)")
     print("=" * 70)
 
     grand_total = 0

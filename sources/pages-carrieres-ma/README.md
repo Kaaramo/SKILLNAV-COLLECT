@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Pourquoi cibler les pages carrières directes ?
+## Pourquoi cibler les pages carrières directes ?
 
 Après 8 runs Apify LinkedIn MA ($3.83 dépensés, 207 fiches retenues), nous avons identifié que **LinkedIn search live est saturé** pour le marché Data/IA marocain. Notre Niveau 3 LinkedIn (top-down par entreprise) a confirmé que les grandes banques et industriels MA postent peu Data/IA en direct sur LinkedIn.
 
@@ -15,7 +15,7 @@ Après 8 runs Apify LinkedIn MA ($3.83 dépensés, 207 fiches retenues), nous av
 
 ---
 
-## 📊 Résultats Phase 1 + 2
+## Résultats Phase 1 + 2
 
 ### 🔬 Reconnaissance Phase 1 (14 entreprises auditées)
 
@@ -31,7 +31,7 @@ L'agent général a identifié **4 plateformes ATS principales** couvrant 11/14 
 | **SharePoint** | Maroc Telecom | ❌ HTTP 403 — anti-bot strict |
 | **Custom HTML** | CIH Bank (507 offres !) | ❌ HTTP 403 — anti-bot strict |
 
-### 📦 Phase 2 — Scraping (V2 corrigé)
+### Phase 2 — Scraping (V2 corrigé)
 
 **Total scrapé** : 257 offres · **Data/IA retenu** : 6 (signal 2.3 %)
 
@@ -55,7 +55,7 @@ L'agent général a identifié **4 plateformes ATS principales** couvrant 11/14 
 
 ---
 
-## 🛡️ RGPD & robots.txt
+## RGPD & robots.txt
 
 | Règle | Application |
 |---|---|
@@ -66,7 +66,7 @@ L'agent général a identifié **4 plateformes ATS principales** couvrant 11/14 
 
 ---
 
-## 📅 Roadmap
+## Roadmap
 
 | Phase | Statut | Action |
 |---|---|---|
@@ -90,7 +90,7 @@ Sur 257 offres scrapées sur 4 pages carrière → **6 vraies fiches Data/IA (si
 
 ---
 
-## 🔗 Liens
+## Liens
 
 - [Schéma JSON](../_schema/job_posting.schema.json)
 - [Protocole de collecte](../COLLECTION_PROTOCOL.md)

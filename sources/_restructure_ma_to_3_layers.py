@@ -1,14 +1,14 @@
 """
-Chantier MA Phase 1 — Restructuration des sources Maroc en 3 couches.
+Restructuration des sources Maroc en 3 couches.
 
-Avant : sources/collected/<source-ma>/postings/NNN.{json,md}
-Apres : sources/collected/<source-ma>/data_raw/{YYYY-MM}/<ref>_<co>_<title>.yaml
-        sources/collected/<source-ma>/postings/NNN.{json,md}              (couche pivot, intacte)
-        sources/collected/<source-ma>/data_structured/{YYYY-MM}/...yaml   (Phase 2, plus tard)
+Avant : sources/<source-ma>/postings/NNN.{json,md}
+Apres : sources/<source-ma>/data_raw/{YYYY-MM}/<ref>_<co>_<title>.yaml
+        sources/<source-ma>/postings/NNN.{json,md}              (couche pivot, intacte)
+        sources/<source-ma>/data_structured/{YYYY-MM}/...yaml   (Couche 2)
 
-Le YAML produit dans data_raw/ mime le format de la source intl-ai-corpus :
-  job_id, title, company, location, work_type, level, skills,
-  company_size, description, industries, posted_date, url, source.
+Le YAML produit dans data_raw/ reprend le format de la source intl-ai-corpus :
+job_id, title, company, location, work_type, level, skills, company_size,
+description, industries, posted_date, url, source.
 """
 from __future__ import annotations
 
@@ -23,8 +23,7 @@ import yaml
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-PROJECT_ROOT = Path(r"F:\Web Mining Project")
-COLLECTED = PROJECT_ROOT / "sources" / "collected"
+COLLECTED = Path(__file__).resolve().parent
 SOURCES_MA = ["anapec", "rekrute", "indeed-ma", "linkedin-ma", "pages-carrieres-ma", "glassdoor-ma"]
 
 

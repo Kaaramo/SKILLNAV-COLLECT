@@ -5,8 +5,9 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-POSTINGS = Path(r"F:\Web Mining Project\sources\collected\indeed-ma\postings")
-OUTPUT = Path(r"F:\Web Mining Project\sources\collected\indeed-ma\raw\_incomplete_urls.json")
+ROOT = Path(__file__).resolve().parent
+POSTINGS = ROOT / "postings"
+OUTPUT = ROOT / "raw" / "_incomplete_urls.json"
 
 incomplete = []
 complete = 0

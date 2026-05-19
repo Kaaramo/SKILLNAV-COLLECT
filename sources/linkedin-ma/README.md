@@ -7,13 +7,13 @@
 
 ---
 
-## 🇲🇦 Qu'est-ce que LinkedIn MA ?
+## Qu'est-ce que LinkedIn MA ?
 
 **LinkedIn Jobs Maroc** = portail LinkedIn pour les offres au Maroc. **454+ Data Scientist** + 643+ Data Analyst + plusieurs centaines Data Engineer / ML Engineer actuellement actifs. C'est le job board #1 Maroc pour les profils tech qualifiés.
 
 ---
 
-## 🎯 Pourquoi LinkedIn MA = source stratégique #1 SKILLNAV
+## Pourquoi LinkedIn MA = source stratégique #1 SKILLNAV
 
 | Critère | Pertinence |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## 📦 Collecte — 5 runs Apify (initial + Niveau 1)
+## Collecte — 5 runs Apify (initial + Niveau 1)
 
 ### 💰 Bilan budgétaire
 
@@ -47,7 +47,7 @@
 - **Filtre Data/IA strict** (whitelist 50+ patterns + blacklist 25) : **206 retenus** (24 % de signal)
 - **RGPD strippé** : 136 champs `posterFullName` + `posterProfileUrl` supprimés
 
-### 📅 Fenêtre temporelle des publications
+### Fenêtre temporelle des publications
 
 | Année | Fiches | Visualisation |
 |:-:|:-:|---|
@@ -77,13 +77,13 @@
 
 > ⭐ = familles nouvellement détectées grâce au Niveau 1 (7 familles supplémentaires)
 
-### 🏆 Top employeurs cumulés (75 uniques)
+### Top employeurs cumulés (75 uniques)
 
 **Top 5 cumulé** : ALTEN (14) · BROME (12) · Agoda (12) · Capgemini (14 = 5 initial + 9 level1) · CIH BANK (7)
 
 **Nouveaux employeurs Niveau 1** (19) : Capgemini (+9), Exclusive Networks (+3), Phi Partners, CGI, Scania Group, AKWEL, MAROC FER, Inetum, Atos, RED TIC, ProgressSoft, Mirage Metrics, La Marocaine Vie, A2MAC1, Collective.work, AGC Glass Europe, Smile, Concentrix, Hexagone Digitale
 
-### 🛠️ Top 15 skills détectés sur les 60 nouvelles fiches (Niveau 1)
+### Top 15 skills détectés sur les 60 nouvelles fiches (Niveau 1)
 
 | Rang | Skill | Occurrences | Cluster |
 |:-:|---|:-:|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## 🛡️ Conformité RGPD & robots.txt (CLAUDE.md §N4)
+## Conformité RGPD & robots.txt
 
 | Règle | Application |
 |---|---|
@@ -118,7 +118,7 @@
 
 ---
 
-## 📅 Roadmap LinkedIn MA
+## Roadmap LinkedIn MA
 
 | Sprint | Action | Coût | Fiches attendues |
 |---|---|:-:|:-:|
@@ -130,7 +130,7 @@
 
 ---
 
-## 🔗 Liens
+## Liens
 
 - [Site officiel LinkedIn Jobs Morocco](https://ma.linkedin.com/jobs/search?location=Morocco)
 - [Schéma JSON](../_schema/job_posting.schema.json)

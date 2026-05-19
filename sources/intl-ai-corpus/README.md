@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Pourquoi cette source ?
+## Pourquoi cette source ?
 
 Après saturation du marché Data/IA marocain, SKILLNAV étend sa collecte à l'**international** pour benchmarker les compétences IA observées au Maroc vs celles demandées sur le marché mondial.
 
@@ -20,7 +20,7 @@ Les données sont structurées sur 3 couches :
 
 ---
 
-## 📊 Résultats
+## Résultats
 
 ### Distribution géographique (3 087 fiches)
 
@@ -112,7 +112,7 @@ Champs inférés par SKILLNAV :
 
 ---
 
-## 🛡️ RGPD
+## RGPD
 
 | Règle | Application |
 |---|---|
@@ -123,7 +123,7 @@ Champs inférés par SKILLNAV :
 
 ---
 
-## 🔗 Liens
+## Liens
 
 - [Schéma JSON SKILLNAV](../_schema/job_posting.schema.json)
 - [Recap d'import (machine-lisible)](raw/_import_recap.json)

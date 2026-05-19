@@ -19,7 +19,7 @@ import yaml
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-ROOT = Path(r"F:\Web Mining Project\sources\external\ai-engineering-field-guide\job-market")
+ROOT = Path(__file__).resolve().parent
 RAW = ROOT / "data_raw"
 STRUCT = ROOT / "data_structured"
 OLD_DATES = ["2026-02-04", "2026-02-27", "2026-03-27", "2026-04-22"]
