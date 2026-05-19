@@ -6,8 +6,6 @@
 >
 > Module **M242 · Analyse de Web** · ENSA-Tétouan · Pr. Imad Sassi.
 >
-> Soutenance : 28 mai 2026.
->
 > Auteurs : Karamo Sylla & Bachirou Konaté.
 
 ---
@@ -15,13 +13,14 @@
 ## Sommaire
 
 1. [Contenu du dépôt](#1-contenu-du-dépôt)
-2. [Volumes et qualité](#2-volumes-et-qualité)
-3. [Architecture 3 couches](#3-architecture-3-couches)
-4. [Outils de collecte](#4-outils-de-collecte)
-5. [Reproductibilité](#5-reproductibilité)
-6. [Conformité RGPD](#6-conformité-rgpd)
-7. [Structure du dépôt](#7-structure-du-dépôt)
-8. [Note pour le jury](#8-note-pour-le-jury)
+2. [Pourquoi un dépôt séparé](#2-pourquoi-un-dépôt-séparé)
+3. [Volumes et qualité](#3-volumes-et-qualité)
+4. [Architecture 3 couches](#4-architecture-3-couches)
+5. [Outils de collecte](#5-outils-de-collecte)
+6. [Reproductibilité](#6-reproductibilité)
+7. [Conformité RGPD](#7-conformité-rgpd)
+8. [Structure du dépôt](#8-structure-du-dépôt)
+9. [Note méthodologique](#9-note-méthodologique)
 
 ---
 
@@ -37,11 +36,37 @@ Ce dépôt contient le volet collecte de données du projet SKILLNAV :
   dans `sources/<source>/`).
 
 Les autres livrables du projet (modèles NER, base NoSQL hybride, pipelines d'analyse,
-dashboard Next.js, rapport L5) sont dans des dépôts séparés.
+dashboard, rapport L5) sont dans des dépôts séparés.
 
 ---
 
-## 2. Volumes et qualité
+## 2. Pourquoi un dépôt séparé
+
+Le projet SKILLNAV s'articule en deux dépôts distincts, avec des publics et des
+cycles de vie volontairement différents.
+
+**`Kaaramo/SKILLNAV` — le projet académique.**
+Code Python (schémas Pydantic, pipelines Content / Structure / Usage Mining),
+notebooks d'analyse, API FastAPI, dashboard, rapport L5. Ce dépôt évolue avec le
+binôme et le calendrier du module M242.
+
+**`Kaaramo/SKILLNAV-COLLECT` — le corpus open, le présent dépôt.**
+Données brutes, scripts de scraping, protocole de collecte. Il est pensé comme
+une ressource ouverte que nous mettons à disposition d'enseignants, chercheurs
+et étudiants d'autres écoles d'ingénieurs qui souhaiteraient :
+
+* analyser à leur tour le marché Data / IA marocain et international ;
+* étendre le corpus à d'autres sources (nouvelles plateformes, nouveaux pays) ;
+* contribuer leurs propres scripts en suivant l'architecture 3 couches documentée.
+
+Cette séparation permet à plusieurs contributeurs extérieurs au binôme initial
+de proposer des extensions (issues, pull requests) sans interférer avec le
+calendrier propre au projet académique. Le corpus, le protocole et les schémas
+sont conçus pour rester utilisables et extensibles bien au-delà du module M242.
+
+---
+
+## 3. Volumes et qualité
 
 | Indicateur | Valeur |
 |---|:-:|
@@ -69,7 +94,7 @@ dashboard Next.js, rapport L5) sont dans des dépôts séparés.
 
 ---
 
-## 3. Architecture 3 couches
+## 4. Architecture 3 couches
 
 Toutes les sources adoptent la même structure de stockage :
 
@@ -107,7 +132,7 @@ L'organisation `{YYYY-MM}/` reflète la date à laquelle l'offre a été **publi
 
 ---
 
-## 4. Outils de collecte
+## 5. Outils de collecte
 
 | Outil | Sources concernées | Justification du choix |
 |---|---|---|
@@ -120,7 +145,7 @@ L'arbre de décision implicite est documenté dans [`sources/COLLECTION_PROTOCOL
 
 ---
 
-## 5. Reproductibilité
+## 6. Reproductibilité
 
 ### Prérequis
 
@@ -192,7 +217,7 @@ python sources/_enrich_ma_structured.py
 
 ---
 
-## 6. Conformité RGPD
+## 7. Conformité RGPD
 
 | Règle | Application |
 |---|---|
@@ -205,7 +230,7 @@ python sources/_enrich_ma_structured.py
 
 ---
 
-## 7. Structure du dépôt
+## 8. Structure du dépôt
 
 ```text
 SKILLNAV-DELIVERY/
@@ -242,7 +267,7 @@ SKILLNAV-DELIVERY/
 
 ---
 
-## 8. Note méthodologique
+## 9. Note méthodologique
 
 Ce volet répond à l'exigence n°1 du sujet :
 
