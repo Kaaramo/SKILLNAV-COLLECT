@@ -20,7 +20,6 @@
 6. [Reproductibilité](#6-reproductibilité)
 7. [Conformité RGPD](#7-conformité-rgpd)
 8. [Structure du dépôt](#8-structure-du-dépôt)
-9. [Note méthodologique](#9-note-méthodologique)
 
 ---
 
@@ -264,38 +263,6 @@ SKILLNAV-DELIVERY/
     ├── glassdoor-ma/
     └── intl-ai-corpus/
 ```
-
----
-
-## 9. Note méthodologique
-
-Ce volet répond à l'exigence n°1 du sujet :
-
-> « Scripts de Collecte : Code documenté pour le scraping et l'appel aux API. »
-
-La qualité du corpus conditionne directement les volets aval (base NoSQL hybride,
-pipelines NER / graphe / forecasting, dashboard).
-
-### Effort de récupération qualité
-
-L'audit qualité initial a relevé 133 fiches sur 398 (33 %) côté Maroc avec
-descriptions vides ou trop courtes. Un second passage a été lancé :
-
-* **Indeed MA** : 73 URLs re-scrapées via l'acteur Apify `misceres/indeed-scraper`
-  (~0,02 USD). 61 fiches récupérées, 12 URLs expirées définitivement.
-* **Glassdoor MA** : 55 URLs re-scrapées via Firecrawl (free tier).
-  55 fiches récupérées avec descriptions complètes.
-* **17 fiches définitivement éliminées** (12 Indeed expirées + 5 Rekrute < 200 caractères),
-  traces dans `sources/<source>/raw/_eliminated_incomplete.json`.
-
-Bilan : passage de 265/398 (67 %) à 381/381 (100 %) fiches exploitables côté Maroc.
-
-### Corpus International
-
-Le `intl-ai-corpus` regroupe des offres collectées sur Q1 2026 dans six pays
-(US, IN, GB, DE, NL, autres), avec un focus AI Engineer. Le pipeline 3 couches
-identique aux sources Maroc garantit que les deux marchés peuvent être analysés
-avec les mêmes outils.
 
 ---
 
